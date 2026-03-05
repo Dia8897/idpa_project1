@@ -1,0 +1,414 @@
+{
+  "country_name": "Norway",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+47",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Oslo 59°56′N 10°41′E ﻿ / ﻿ 59.933°N 10.683°E ﻿ / 59.933; 10.683",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Norwegian krone ( NOK )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd . mm . yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Norwegian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2025__4_",
+        "children": [
+          {
+            "label": "78.6% Norwegian [ note 3 ] 21.4% non-Norwegian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2020",
+        "children": [
+          {
+            "label": "25.3 [ 13 ] low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary parliamentary constitutional monarchy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.970 [ 14 ] very high ( 2nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: Ja, vi elsker dette landet (English: \"Yes, we love this country\" ) Royal anthem : Kongesangen (English: \"King's Song\" )",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Europe Show overseas territories and dependencies Location of the Kingdom of Norway (green) in Europe (green and dark grey)",
+            "children": []
+          },
+          {
+            "label": "Website norge.no",
+            "children": []
+          },
+          {
+            "label": "Includes the mainland, Svalbard and Jan Mayen . [ 10 ] Without the integral territories, it is the 67th largest country at 323,802 [ 15 ] square kilometres. This percentage is for the mainland, Svalbard, and Jan Mayen. This percentage counts glaciers as \"land\". It's calculated as 19,940.14/(365,246.17+19,940.14). [ citation needed ] Two more TLDs have been assigned, but are not used: .sj for Svalbard and Jan Mayen; .bv for Bouvet Island .",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".no d",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "NO",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom_of_norway_kongeriket_norge__bokml__kongeriket_noreg__nynorsk__in_other_official_languages__1__kven__norjan_kuninkhaanvaltakunta_northern_sami__norgga_gonagasriika_southern_sami__nrjen_gnkarjhke_lule_sami__vuona_gngisrijkka",
+        "children": [
+          {
+            "label": "Norjan kuninkhaanvaltakunta",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kven_",
+        "children": [
+          {
+            "label": "Norjan kuninkhaanvaltakunta",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Storting",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lule_sami_",
+        "children": [
+          {
+            "label": "Vuona gånågisrijkka",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "northern_sami_",
+        "children": [
+          {
+            "label": "Norgga gonagasriika",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Norwegian [ note 1 ] Sámi [ 2 ] [ note 2 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognised_national_languages",
+        "children": [
+          {
+            "label": "Kven Romani Scandoromani [ 3 ] Norwegian Sign Language",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2024__5___6_",
+        "children": [
+          {
+            "label": "68.5% Christianity 61.7% Church of Norway [ note 4 ] 6.8% other Christian 27.3% no religion 3.4% Islam 0.8% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "southern_sami_",
+        "children": [
+          {
+            "label": "Nöörjen gånkarïjhke",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2026_estimate",
+        "children": [
+          {
+            "label": "5,627,400 [ 11 ] ( 116th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_chief_justice",
+        "children": [
+          {
+            "label": "Toril Marie Øie",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_constitution",
+        "children": [
+          {
+            "label": "17 May 1814",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_denmarknorway_real_union",
+        "children": [
+          {
+            "label": "1524",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "14.6/km 2 (37.8/sq mi) ( 224th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_kalmar_union_personal_union",
+        "children": [
+          {
+            "label": "1397",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_kingdoms_of_swedennorway_personal_union",
+        "children": [
+          {
+            "label": "4 November 1814",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_monarch",
+        "children": [
+          {
+            "label": "Harald V",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_peak_extent_of_the_old_kingdom",
+        "children": [
+          {
+            "label": "1263",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$107,890 [ 12 ] ( 5th )",
+            "children": []
+          },
+          {
+            "label": "$89,690 [ 12 ] ( 6th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president_of_the_storting",
+        "children": [
+          {
+            "label": "Masud Gharahkhani",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Jonas Gahr Støre",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_state_established",
+        "children": [
+          {
+            "label": "872",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_state_reestablished__8_",
+        "children": [
+          {
+            "label": "25 February 1814",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_summer__dst_",
+        "children": [
+          {
+            "label": "UTC +2 ( CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "385,207 km 2 (148,729 sq mi) [ 10 ] ( 61st b )",
+            "children": []
+          },
+          {
+            "label": "$606.590 billion [ 12 ] ( 49th )",
+            "children": []
+          },
+          {
+            "label": "$504.280 billion [ 12 ] ( 31st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_union_dissolved",
+        "children": [
+          {
+            "label": "7 June 1905",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "5.32 (2015) [ 9 ]",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

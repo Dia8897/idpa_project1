@@ -1,0 +1,320 @@
+{
+  "country_name": "Saint Lucia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Castries 13°53′00″N 60°58′00″W ﻿ / ﻿ 13.88333°N 60.96667°W ﻿ / 13.88333; -60.96667 [ 1 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "East Caribbean dollar ( XCD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Saint Lucian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2020__3__",
+        "children": [
+          {
+            "label": "85.3% African 10.9% Mixed 2.2% Indian 1.6% other/ unspecified",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2016",
+        "children": [
+          {
+            "label": "51.2 [ 7 ] high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary parliamentary constitutional monarchy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.748 [ 8 ] high ( 103rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: \" The Land, The People, The Light \"",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" Sons and Daughters of Saint Lucia \" Royal anthem : \" God Save the King \"",
+            "children": []
+          },
+          {
+            "label": "Location of Saint Lucia (circled in red) in the Caribbean",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".lc",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "LC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2022__4_",
+        "children": [
+          {
+            "label": "77.4% Christianity 14.4% no religion 1.4% Rastafari 2.7% other 4.1% not stated",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −4 ( AST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "vernacular_languages",
+        "children": [
+          {
+            "label": "Saint Lucian French Creole [ 2 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2010_census",
+        "children": [
+          {
+            "label": "165,595",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2023_estimate",
+        "children": [
+          {
+            "label": "184,100 [ 5 ] ( 177th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_associated_state",
+        "children": [
+          {
+            "label": "1 March 1967",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "298/km 2 (771.8/sq mi) ( 29th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_governorgeneral",
+        "children": [
+          {
+            "label": "Errol Charles",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_independence_from_the_united_kingdom",
+        "children": [
+          {
+            "label": "22 February 1979",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_lower_house",
+        "children": [
+          {
+            "label": "House of Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_monarch",
+        "children": [
+          {
+            "label": "Charles III",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$29,258 [ 6 ] ( 73th )",
+            "children": []
+          },
+          {
+            "label": "$14,647 [ 6 ] ( 72th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Philip J. Pierre",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "617 km 2 (238 sq mi) ( 178th )",
+            "children": []
+          },
+          {
+            "label": "$3.769 billion [ 6 ] ( 177nd )",
+            "children": []
+          },
+          {
+            "label": "$2.715 billion [ 6 ] ( 168th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "1.6",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

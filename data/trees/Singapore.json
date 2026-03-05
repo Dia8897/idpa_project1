@@ -1,0 +1,302 @@
+{
+  "country_name": "Singapore",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+65",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Singapore ( city-state ) [ a ] 1°17′N 103°50′E ﻿ / ﻿ 1.283°N 103.833°E ﻿ / 1.283; 103.833",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Singapore dollar (S$) ( SGD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd-mm-yyyy ( AD ) [ e ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Singaporean",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2023__b_",
+        "children": [
+          {
+            "label": "74.3% Chinese 13.5% Malay 9.0% Indian 3.2% Other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2023",
+        "children": [
+          {
+            "label": "43.3 [ 7 ] medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary parliamentary republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.946 [ 8 ] very high ( 13th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: Majulah Singapura ( Malay ) \"Onward Singapore\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: Majulah Singapura ( Malay ) \"Onward Singapore\"",
+            "children": []
+          },
+          {
+            "label": "Show globe Show ASEAN Location of Singapore (green) in Southeast Asia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".sg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SG",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "largest_planning_area_by_population",
+        "children": [
+          {
+            "label": "Tampines [ 1 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "national_language",
+        "children": [
+          {
+            "label": "Malay",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English Malay Mandarin Tamil",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2020__c_",
+        "children": [
+          {
+            "label": "31.1% Buddhism 20.0% No religion 18.9% Christianity 15.6% Islam 8.8% Taoism 5.0% Hinduism 0.3% Sikhism 0.3% Other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +8 ( SGT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2025_estimate",
+        "children": [
+          {
+            "label": "6,110,200 [ d ] ( 111th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "8,290/km 2 (21,471.0/sq mi) ( 3rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_malaysia_agreement",
+        "children": [
+          {
+            "label": "16 September 1963",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$156,755 [ 6 ] ( 1st )",
+            "children": []
+          },
+          {
+            "label": "$93,956 [ 6 ] ( 4th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Tharman Shanmugaratnam",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Lawrence Wong",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_proclamation_of_singapore",
+        "children": [
+          {
+            "label": "9 August 1965",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_selfgovernance",
+        "children": [
+          {
+            "label": "3 June 1959",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "744.3 km 2 (287.4 sq mi) [ 4 ] ( 176th )",
+            "children": []
+          },
+          {
+            "label": "$952.600 billion [ 6 ] ( 34th )",
+            "children": []
+          },
+          {
+            "label": "$564.700 billion [ 6 ] ( 27th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "1.43%",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

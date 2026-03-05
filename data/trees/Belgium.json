@@ -1,0 +1,311 @@
+{
+  "country_name": "Belgium",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+32",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "City of Brussels 50°51′N 4°21′E ﻿ / ﻿ 50.850°N 4.350°E ﻿ / 50.850; 4.350",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Belgian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2025__1_",
+        "children": [
+          {
+            "label": "86.1% Belgians 64% Belgian background 22.1% foreign background 13.8% non-Belgian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2022",
+        "children": [
+          {
+            "label": "24.9 [ 11 ] low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal parliamentary constitutional monarchy [ 4 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.951 [ 12 ] very high ( 10th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: Eendracht maakt macht ( Dutch ) L'union fait la force ( French ) Einigkeit macht stark ( German ) (English: \" Unity makes strength \" )",
+            "children": []
+          },
+          {
+            "label": "Anthem: La Brabançonne The Brabantian",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of the European Union",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".be [ a ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BE",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Brussels-Capital Region",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Federal Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Dutch French German",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2023__2___3__",
+        "children": [
+          {
+            "label": "59% no religion 34% Christianity 31% Catholicism 3% other Christian 6% Islam 1% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2025_census",
+        "children": [
+          {
+            "label": "11,825,551 [ 8 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_declared",
+        "children": [
+          {
+            "label": "4 October 1830",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "385 [ 9 ] /km 2 (997.1/sq mi) ( 35th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_federal_state",
+        "children": [
+          {
+            "label": "1970",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_lower_house",
+        "children": [
+          {
+            "label": "Chamber of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_monarch",
+        "children": [
+          {
+            "label": "Philippe",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$75,187 [ 10 ] ( 20th )",
+            "children": []
+          },
+          {
+            "label": "$58,248 [ 10 ] ( 16th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Bart De Wever",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_recognized",
+        "children": [
+          {
+            "label": "19 April 1839",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_summer__dst_",
+        "children": [
+          {
+            "label": "UTC +2 ( CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "30,689 [ 5 ] km 2 (11,849 sq mi) ( 136th )",
+            "children": []
+          },
+          {
+            "label": "$889.833 billion [ 10 ] ( 37th )",
+            "children": []
+          },
+          {
+            "label": "$689.364 billion [ 10 ] ( 23rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "0.64 (2022) [ 6 ] [ 7 ]",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

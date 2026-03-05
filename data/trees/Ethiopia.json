@@ -1,0 +1,424 @@
+{
+  "country_name": "Ethiopia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "afar_",
+        "children": [
+          {
+            "label": "Itiyoppiya Federalih Demokrasih Ummuno",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "amharic_",
+        "children": [
+          {
+            "label": "የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ [ a ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "arabic_",
+        "children": [
+          {
+            "label": "جمهورية إثيوبيا الاتحادية الديمقراطية",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+251",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Addis Ababa 9°1′N 38°45′E ﻿ / ﻿ 9.017°N 38.750°E ﻿ / 9.017; 38.750",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Birr ( ETB )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Ethiopian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2007__5___6__",
+        "children": [
+          {
+            "label": "34.5% Oromo 26.9% Amhara 6.2% Somali 6.1% Tigrayan 4.0% Sidama 2.5% Gurage 2.3% Welayta 1.7% Hadiya 1.7% Afar 1.5% Gamo 12.6% others",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "federal_democratic_republic_of_ethiopia_____in_other_official_languages_afar__itiyoppiya_federalih_demokrasih_ummuno_amharic_______a__arabic______oromo__rippabliikii_federaalawaa_dimokraatawaa_itoophiyaa_somali__jamhuuriyadda_dimuqraadiga_federaalka_itoobiya_tigrinya_______b_",
+        "children": [
+          {
+            "label": "Itiyoppiya Federalih Demokrasih Ummuno",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2015",
+        "children": [
+          {
+            "label": "35.0 [ 14 ] medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal parliamentary republic [ 8 ] under an authoritarian government [ 9 ] [ 10 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2022",
+        "children": [
+          {
+            "label": "0.492 [ 15 ] low ( 176th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Emblem",
+            "children": []
+          },
+          {
+            "label": "Anthem: ወደፊት ገሥግሺ ፣ ውድ እናት ኢትዮጵያ \"Wedefīt Gesigishī Wid Inat ītiyop'iy\" (English: \" March Forward, Dear Mother Ethiopia \" )",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Africa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".et",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "ET",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Federal Parliamentary Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Afar Amharic Oromo Somali Tigrinya [ 1 ] [ 2 ] [ 3 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "oromo_",
+        "children": [
+          {
+            "label": "Rippabliikii Federaalawaa Dimokraatawaa Itoophiyaa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "regional_languages__4_",
+        "children": [
+          {
+            "label": "Harari Sidama Languages of Ethiopia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2016__7__",
+        "children": [
+          {
+            "label": "67.3% Christianity 43.8% Oriental Orthodoxy 22.8% Protestantism 0.7% other Christian 31.3% Islam 0.6% traditional faiths 0.8% others / none",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "somali_",
+        "children": [
+          {
+            "label": "Jamhuuriyadda Dimuqraadiga Federaalka Itoobiya",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "tigrinya_",
+        "children": [
+          {
+            "label": "ናይኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ [ b ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +3 ( EAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2007_census",
+        "children": [
+          {
+            "label": "73,750,932 [ 6 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2025_estimate",
+        "children": [
+          {
+            "label": "135,500,000 [ 11 ] [ 12 ] ( 10th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_centralisation",
+        "children": [
+          {
+            "label": "1904",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_chief_justice_of_the_federal_supreme_court",
+        "children": [
+          {
+            "label": "Tewodros Mihret",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "92.7/km 2 (240.1/sq mi) ( 123rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_deputy_prime_ministers",
+        "children": [
+          {
+            "label": "Temesgen Tiruneh Adem Farah",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_ethiopian_empire",
+        "children": [
+          {
+            "label": "1270",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_lower_house",
+        "children": [
+          {
+            "label": "House of Peoples' Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_occupied_and_annexed_into_italian_east_africa",
+        "children": [
+          {
+            "label": "9 May 1936",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$4,050 [ 13 ] ( 159th )",
+            "children": []
+          },
+          {
+            "label": "$1,350 [ 13 ] ( 159th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Taye Atske Selassie",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Abiy Ahmed",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_reestablishment_of_independence",
+        "children": [
+          {
+            "label": "31 January 1942",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_reunification",
+        "children": [
+          {
+            "label": "11 February 1855",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "1,104,300 km 2 (426,400 sq mi) ( 26th )",
+            "children": []
+          },
+          {
+            "label": "$434.44 billion [ 13 ] ( 55th )",
+            "children": []
+          },
+          {
+            "label": "$145.03 billion [ 13 ] ( 59th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_upper_house",
+        "children": [
+          {
+            "label": "House of Federation",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "0.7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_zemene_mesafint",
+        "children": [
+          {
+            "label": "7 May 1769",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

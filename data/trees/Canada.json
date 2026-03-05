@@ -1,0 +1,330 @@
+{
+  "country_name": "Canada",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Ottawa 45°24′N 75°40′W ﻿ / ﻿ 45.400°N 75.667°W ﻿ / 45.400; -75.667",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Canadian dollar ($) ( CAD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Canadian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2024",
+        "children": [
+          {
+            "label": "29.2 [ 6 ] low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal parliamentary constitutional monarchy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.939 [ 7 ] very high ( 16th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Motto: A mari usque ad mare ( Latin ) \"From Sea to Sea\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" O Canada \" Royal anthem : \" God Save the King \" [ 1 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ca",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "CA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Toronto",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English French",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −3.5 to −8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2021_census",
+        "children": [
+          {
+            "label": "36,991,981 [ 4 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2025_q4_estimate",
+        "children": [
+          {
+            "label": "41,575,585 [ 3 ] ( 37th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_balfour_declaration",
+        "children": [
+          {
+            "label": "November 15, 1926",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_confederation",
+        "children": [
+          {
+            "label": "July 1, 1867",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "4.2/km 2 (10.9/sq mi) ( 230th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_governor_general",
+        "children": [
+          {
+            "label": "Mary Simon",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_lower_house",
+        "children": [
+          {
+            "label": "House of Commons",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_monarch",
+        "children": [
+          {
+            "label": "Charles III",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_patriation",
+        "children": [
+          {
+            "label": "April 17, 1982",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$65,500 [ 5 ] ( 30th )",
+            "children": []
+          },
+          {
+            "label": "$54,935 [ 5 ] ( 23rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Mark Carney",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_statute_of_westminster_1931",
+        "children": [
+          {
+            "label": "December 11, 1931",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_summer__dst_",
+        "children": [
+          {
+            "label": "UTC −2.5 to −7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "$2.723 trillion [ 5 ] ( 16th )",
+            "children": []
+          },
+          {
+            "label": "$2.284 trillion [ 5 ] ( 10th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total_area",
+        "children": [
+          {
+            "label": "9,984,670 km 2 (3,855,100 sq mi) ( 2nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total_land_area",
+        "children": [
+          {
+            "label": "9,093,507 km 2 (3,511,023 sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "11.76 (2015) [ 2 ]",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "country_name": "Finland",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+358",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Helsinki 60°10′15″N 24°56′15″E ﻿ / ﻿ 60.17083°N 24.93750°E ﻿ / 60.17083; 24.93750",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd . mm . yyyy [ 8 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Finnish Finn",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2024__1_",
+        "children": [
+          {
+            "label": "88.9% Finns [ note 1 ] 11.1% others",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2023",
+        "children": [
+          {
+            "label": "26.6 [ 6 ] low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary parliamentary republic [ 2 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.948 [ 7 ] very high ( 12th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: Maamme (Finnish) Vårt land (Swedish) (English: \"Our Land\" )",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Europe Location of Finland (dark green) – in Europe (green & dark grey) – in the European Union (green) – [ Legend ]",
+            "children": []
+          },
+          {
+            "label": "Website finland .fi",
+            "children": []
+          },
+          {
+            "label": "The .ax domain is used in Åland .",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".fi , .ax a",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "FI",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Finnish Swedish",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognized_national_languages",
+        "children": [
+          {
+            "label": "Sámi Karelian Finnish Kalo Finnish Sign Language Finland-Swedish Sign Language",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2024__1_",
+        "children": [
+          {
+            "label": "64.2% Christianity 62.2% Lutheranism 1.0% Eastern Orthodoxy 1.0% other Christian 34.9% no religion 2.0% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( EET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2024_census",
+        "children": [
+          {
+            "label": "5,635,971 [ 1 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_constitution_established",
+        "children": [
+          {
+            "label": "17 July 1919",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_declaration_of_independence",
+        "children": [
+          {
+            "label": "6 December 1917",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "18.4/km 2 (47.7/sq mi) ( 210th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_establishment_of_grand_duchy_of_finland",
+        "children": [
+          {
+            "label": "29 March 1809 (from Sweden)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$66,500 [ 5 ] ( 23rd )",
+            "children": []
+          },
+          {
+            "label": "$54,160 [ 5 ] ( 19th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Alexander Stubb",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Petteri Orpo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_speaker_of_the_parliament",
+        "children": [
+          {
+            "label": "Jussi Halla-aho",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_summer__dst_",
+        "children": [
+          {
+            "label": "UTC +3 ( EEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "338,455 [ 3 ] km 2 (130,678 sq mi) ( 65th )",
+            "children": []
+          },
+          {
+            "label": "$373.16 billion [ 5 ] ( 61st )",
+            "children": []
+          },
+          {
+            "label": "$303.95 billion [ 5 ] ( 46th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "9.71 (2015) [ 4 ]",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

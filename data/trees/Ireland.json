@@ -1,0 +1,204 @@
+{
+  "country_name": "Ireland",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "adjacent_to",
+        "children": [
+          {
+            "label": "Atlantic Ocean",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "archipelago",
+        "children": [
+          {
+            "label": "British Isles",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "area",
+        "children": [
+          {
+            "label": "84,421 km 2 (32,595 sq mi) [ 1 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "area_rank",
+        "children": [
+          {
+            "label": "20th [ 2 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "coastline",
+        "children": [
+          {
+            "label": "7,527 km (4677.1 mi) [ 3 ] [ 4 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "coordinates",
+        "children": [
+          {
+            "label": "53°N 8°W ﻿ / ﻿ 53°N 8°W ﻿ / 53; -8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "country",
+        "children": [
+          {
+            "label": "Northern Ireland",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Irish",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "90.0% White 2.8% Asian 1.2% Black 0.3% Arab 1.2% other (inc. Mixed ) 4.5% not stated [ 8 ] [ 9 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "highest_elevation",
+        "children": [
+          {
+            "label": "1,041 m (3415 ft)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "highest_point",
+        "children": [
+          {
+            "label": "Carrauntoohil",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Ireland photographed in October 2010",
+            "children": []
+          },
+          {
+            "label": "Location of Ireland (dark green) in Europe (dark grey)",
+            "children": []
+          },
+          {
+            "label": "Republic of Ireland",
+            "children": []
+          },
+          {
+            "label": "United Kingdom",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "languages",
+        "children": [
+          {
+            "label": "English Irish ISL Ulster Scots NISL Shelta",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Dublin , pop. 1,458,154 Metropolitan Area (2022) [ 5 ]",
+            "children": []
+          },
+          {
+            "label": "Belfast , pop. 671,559 Metropolitan Area (2011) [ 6 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "location",
+        "children": [
+          {
+            "label": "Northwestern Europe",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "pop_density",
+        "children": [
+          {
+            "label": "82.2/km 2 (212.9/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "population",
+        "children": [
+          {
+            "label": "7,185,600 (2023 estimate) [ a ] [ 7 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "population_rank",
+        "children": [
+          {
+            "label": "19th (of islands)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "Greenwich Mean Time ( UTC+0 )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_summer__dst_",
+        "children": [
+          {
+            "label": "Irish Standard Time British Summer Time ( UTC+1 )",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

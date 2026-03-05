@@ -1,0 +1,333 @@
+{
+  "country_name": "Colombia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+57",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Bogotá 4°35′N 74°4′W ﻿ / ﻿ 4.583°N 74.067°W ﻿ / 4.583; -74.067",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Colombian peso ( COP )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "DMY",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Colombian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2018_census__2___3__",
+        "children": [
+          {
+            "label": "84.99% Mestizo - White [ a ] 9.34% Black 4.31% Indigenous 0.01% Romanis 1.35% not specified",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2023",
+        "children": [
+          {
+            "label": "53.9 [ 8 ] high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.788 [ 9 ] high ( 83rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: \"Libertad y Orden\" (Spanish) \"Freedom and Order\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: Himno Nacional de la República de Colombia (Spanish) \"National Anthem of the Republic of Colombia\"",
+            "children": []
+          },
+          {
+            "label": "Location of Colombia (dark green)",
+            "children": []
+          },
+          {
+            "label": "^ Although the Colombian Constitution specifies Spanish ( Castellano ) as the official language in all Colombian territory, other languages spoken in the country by ethnic groups – approximately 68 languages – each is also official in its territory. [ 10 ] English is also official in the archipelago of San Andrés, Providencia and Santa Catalina . [ 11 ] ^ The official Colombian time [ 12 ] is controlled and coordinated by the National Institute of Metrology. [ 13 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".co",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "CO",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Congress",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Spanish",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognized_regional_languages",
+        "children": [
+          {
+            "label": "Creole English (in San Andrés and Providencia ) [ 1 ] 64 other languages [a]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2022__4_",
+        "children": [
+          {
+            "label": "70% Catholicism 17% other Christian 11% no religion 1.9% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −5 [b] ( COT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2024_estimate",
+        "children": [
+          {
+            "label": "52,695,952 [ 6 ] ( 27th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_current_constitution",
+        "children": [
+          {
+            "label": "4 July 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_declared",
+        "children": [
+          {
+            "label": "20 July 1810",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "46.15/km 2 (119.5/sq mi) ( 174th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_last_unitisation",
+        "children": [
+          {
+            "label": "5 August 1886",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_lower_house",
+        "children": [
+          {
+            "label": "Chamber of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$19,770 [ 7 ] ( 82nd )",
+            "children": []
+          },
+          {
+            "label": "$7,327 [ 7 ] ( 97th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Gustavo Petro",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_recognized",
+        "children": [
+          {
+            "label": "7 August 1819",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_secession_of_panama",
+        "children": [
+          {
+            "label": "6 November 1903",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "1,141,748 km 2 (440,831 sq mi) ( 25th )",
+            "children": []
+          },
+          {
+            "label": "$1.042 trillion [ 7 ] ( 32nd )",
+            "children": []
+          },
+          {
+            "label": "$386.076 billion [ 7 ] ( 46th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_vice_president",
+        "children": [
+          {
+            "label": "Francia Márquez",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "2.1 (as of 2015) [ 5 ]",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "country_name": "Lithuania",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+370",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Vilnius 54°41′N 25°19′E ﻿ / ﻿ 54.683°N 25.317°E ﻿ / 54.683; 25.317",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "yyyy - mm - dd [ a ] [ 14 ] [ 15 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Lithuanian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2025__2__",
+        "children": [
+          {
+            "label": "82.3% Lithuanians 6.2% Poles 5.0% Russians 2.2% Ukrainians 2.1% Belarusians 2.2% others",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2023",
+        "children": [
+          {
+            "label": "35.7 [ 12 ] medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary semi-presidential republic [ 4 ] [ 5 ] [ 6 ] [ 7 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.895 [ 13 ] very high ( 39th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: Tautiška giesmė \"National Song\"",
+            "children": []
+          },
+          {
+            "label": "Location of Lithuania (dark green) – in Europe (green & dark grey) – in the European Union (green) – [ Legend ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".lt",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "LT",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Seimas",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Lithuanian [ 1 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2021__3__",
+        "children": [
+          {
+            "label": "79.4% Christianity 74.2% Catholicism 5.2% other Christian 6.1% no religion 0.8% others 13.7% no answer",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( EET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2025_estimate",
+        "children": [
+          {
+            "label": "2,897,430 [ 10 ] ( 137th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_commonwealth_created",
+        "children": [
+          {
+            "label": "1 July 1569",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_coronation_of_mindaugas",
+        "children": [
+          {
+            "label": "6 July 1253",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "46/km 2 (119.1/sq mi) ( 174th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_first_mentioned",
+        "children": [
+          {
+            "label": "9 March 1009",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_grand_duchy",
+        "children": [
+          {
+            "label": "1236",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_independence_reinstated",
+        "children": [
+          {
+            "label": "16 February 1918",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_independence_restored",
+        "children": [
+          {
+            "label": "11 March 1990",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_partitioned",
+        "children": [
+          {
+            "label": "24 October 1795",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$57,201 [ 11 ] ( 39th )",
+            "children": []
+          },
+          {
+            "label": "$32,982 [ 11 ] ( 40th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Gitanas Nausėda",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Inga Ruginienė",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_seimas_speaker",
+        "children": [
+          {
+            "label": "Juozas Olekas",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_soviet_occupation",
+        "children": [
+          {
+            "label": "16 June 1940",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_summer__dst_",
+        "children": [
+          {
+            "label": "UTC +3 ( EEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "65,300 [ 8 ] km 2 (25,200 sq mi) ( 121st )",
+            "children": []
+          },
+          {
+            "label": "$165.23 billion [ 11 ] ( 88th )",
+            "children": []
+          },
+          {
+            "label": "$95.27 billion [ 11 ] ( 78th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_union_with_poland",
+        "children": [
+          {
+            "label": "2 February 1386",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "1.98 (2015) [ 9 ]",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

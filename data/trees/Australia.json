@@ -1,0 +1,338 @@
+{
+  "country_name": "Australia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+61",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Canberra 35°18′29″S 149°07′28″E ﻿ / ﻿ 35.30806°S 149.12444°E ﻿ / -35.30806; 149.12444",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Australian dollar ( $ ) ( AUD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd / mm / yyyy [ 15 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Australian Aussie (colloquial) [ N 4 ] [ 5 ] [ 6 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2020",
+        "children": [
+          {
+            "label": "32.4 [ 13 ] medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal parliamentary constitutional monarchy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.958 [ 14 ] very high ( 7th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" Advance Australia Fair \" [ N 1 ]",
+            "children": []
+          },
+          {
+            "label": "Show globe (Australian States and Territories) Show territories with boundaries of Australia's exclusive economic zone Commonwealth of Australia External territories of Australia",
+            "children": []
+          },
+          {
+            "label": "DST not observed in Qld, WA and NT",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".au",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "AU",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Sydney (metropolitan) Melbourne (urban) [ N 2 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "national_language",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion__2021___4_",
+        "children": [
+          {
+            "label": "43.9% Christianity 38.9% no religion 3.2% Islam 2.7% Hinduism 2.4% Buddhism 1.7% other 7.2% unanswered [ N 3 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +8; +9.5; +10 ( AWST, ACST, AEST [ N 5 ] )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2021_census",
+        "children": [
+          {
+            "label": "25,890,773 [ 11 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2026_estimate",
+        "children": [
+          {
+            "label": "27,840,775 [ 10 ] ( 54th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_australia_acts",
+        "children": [
+          {
+            "label": "3 March 1986",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_balfour_declaration",
+        "children": [
+          {
+            "label": "15 November 1926",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "3.7/km 2 (9.6/sq mi) ( 237th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_federation",
+        "children": [
+          {
+            "label": "1 January 1901",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_governorgeneral",
+        "children": [
+          {
+            "label": "Sam Mostyn",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_lower_house",
+        "children": [
+          {
+            "label": "House of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_monarch",
+        "children": [
+          {
+            "label": "Charles III",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$71,431 [ 12 ] ( 26th )",
+            "children": []
+          },
+          {
+            "label": "$65,946 [ 12 ] ( 13th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Anthony Albanese",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_statute_of_westminster_adoption_act",
+        "children": [
+          {
+            "label": "9 October 1942",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_summer__dst_",
+        "children": [
+          {
+            "label": "UTC +10.5; +11 ( ACDT, AEDT [ N 5 ] )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "7,688,287 km 2 (2,968,464 sq mi) [ 7 ] [ 8 ] [ 9 ] ( 6th )",
+            "children": []
+          },
+          {
+            "label": "$1.982 trillion [ 12 ] ( 22nd )",
+            "children": []
+          },
+          {
+            "label": "$1.830 trillion [ 12 ] ( 15th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "1.79 (2015) [ 7 ]",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

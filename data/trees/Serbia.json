@@ -1,0 +1,397 @@
+{
+  "country_name": "Serbia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+381",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Belgrade 44°48′N 20°28′E ﻿ / ﻿ 44.800°N 20.467°E ﻿ / 44.800; 20.467",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Serbian dinar ( RSD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "mm/dd/yyyy ( AD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Serbian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2022__1___b__",
+        "children": [
+          {
+            "label": "80.6% Serbs 2.8% Hungarians 2.3% Bosniaks 2% Roma 5.4% others 6.9% undeclared/unknown",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2024",
+        "children": [
+          {
+            "label": "31.9 [ 8 ] medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary parliamentary republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.833 [ 9 ] very high ( 62nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: Боже правде Bože pravde (English: \"God of Justice\" )",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Europe Location of Serbia (green) and the claimed but uncontrolled territory of Kosovo (light green) in Europe (dark grey)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".rs .срб",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "RS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Serbian [ a ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2022__1___c__",
+        "children": [
+          {
+            "label": "86.6% Christianity 81.1% Serbian Orthodoxy 3.9% Catholicism 1.7% other 4.2% Islam 1.1% no religion 7.9% undeclared/unknown",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2022_census",
+        "children": [
+          {
+            "label": "6,647,003 (excluding Kosovo) [ 6 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2025_estimate",
+        "children": [
+          {
+            "label": "6,567,783 (excluding Kosovo) [ 5 ] ( 107th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "85/km 2 (220.1/sq mi) ( 127th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_empire",
+        "children": [
+          {
+            "label": "1346",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_excluding_kosovo",
+        "children": [
+          {
+            "label": "77,589 km 2 (29,957 sq mi) [ 4 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_federal_republic_of_yugoslavia",
+        "children": [
+          {
+            "label": "1992",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_independence_lost",
+        "children": [
+          {
+            "label": "1459",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_independence_recognised",
+        "children": [
+          {
+            "label": "1878",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_independence_restored",
+        "children": [
+          {
+            "label": "2006",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_kingdom",
+        "children": [
+          {
+            "label": "1217",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_kingdom_of_serbia",
+        "children": [
+          {
+            "label": "1882",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_kingdom_of_yugoslavia",
+        "children": [
+          {
+            "label": "1918",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$34,790 [ 7 ] ( 65th )",
+            "children": []
+          },
+          {
+            "label": "$17,290 [ 7 ] ( 68th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Aleksandar Vučić",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president_of_the_national_assembly",
+        "children": [
+          {
+            "label": "Ana Brnabić",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Đuro Macut",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_principality",
+        "children": [
+          {
+            "label": "7th century [ 2 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_principality_of_serbia",
+        "children": [
+          {
+            "label": "1815",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_serbian_revolution",
+        "children": [
+          {
+            "label": "1804",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_socialist_republic_of_serbia_within_the_sfr_yugoslavia",
+        "children": [
+          {
+            "label": "1945",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_state_union_of_serbia_and_montenegro",
+        "children": [
+          {
+            "label": "2003",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_summer__dst_",
+        "children": [
+          {
+            "label": "UTC +2 ( CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "88,499 km 2 (34,170 sq mi) [ 3 ] ( 111th )",
+            "children": []
+          },
+          {
+            "label": "$225.55 billion [ d ] [ 7 ] ( 78th )",
+            "children": []
+          },
+          {
+            "label": "$112.11 billion [ d ] [ 7 ] ( 71st )",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

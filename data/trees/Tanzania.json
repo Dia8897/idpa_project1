@@ -1,0 +1,338 @@
+{
+  "country_name": "Tanzania",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+255 [ b ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Dodoma 6°10′S 35°44′E ﻿ / ﻿ 6.167°S 35.733°E ﻿ / -6.167; 35.733",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Tanzanian shilling ( TZS )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Tanzanian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2017",
+        "children": [
+          {
+            "label": "40.5 [ 10 ] medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary dominant-party presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.555 [ 11 ] medium ( 165th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: \"Uhuru na Umoja\" \"Freedom and Unity\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" Mungu ibariki Afrika \" \"God bless Africa\" [ 1 ]",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Africa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".tz",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "TZ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Dar es Salaam 06°48′S 39°16′E ﻿ / ﻿ 6.800°S 39.267°E ﻿ / -6.800; 39.267",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "national_language",
+        "children": [
+          {
+            "label": "Swahili [ 4 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Swahili English [ a ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "other_languages",
+        "children": [
+          {
+            "label": "Over 100 languages , including (1m+): Shambala Sukuma Nyamwezi Chagga Ha Bena Gogo Haya Dholuo Iraqw Makonde Nyaturu Maasai Jita Pare",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2020__5_",
+        "children": [
+          {
+            "label": "63.1% Christianity 34.1% Islam 1.5% no religion 1.2% traditional faiths 0.1% others",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +3 ( East Africa Time )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2022_census",
+        "children": [
+          {
+            "label": "61,741,120 [ 8 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2024_estimate",
+        "children": [
+          {
+            "label": "67,462,121 [ 7 ] ( 22nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_chief_justice",
+        "children": [
+          {
+            "label": "George Mcheche Masaju",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_current_constitution",
+        "children": [
+          {
+            "label": "25 April 1977",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "65.2/km 2 (168.9/sq mi) ( 147th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$4,370 [ 9 ] ( 158th )",
+            "children": []
+          },
+          {
+            "label": "$1,280 [ 9 ] ( 162nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Samia Suluhu Hassan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Mwigulu Nchemba",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_speaker",
+        "children": [
+          {
+            "label": "Mussa Zungu",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_tanganyika",
+        "children": [
+          {
+            "label": "9 December 1961",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "947,303 km 2 (365,756 sq mi) ( 30th )",
+            "children": []
+          },
+          {
+            "label": "$293.59 billion [ 9 ] ( 69th )",
+            "children": []
+          },
+          {
+            "label": "$88.980 billion [ 9 ] ( 80th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_unification_of_tanganyika_and_zanzibar",
+        "children": [
+          {
+            "label": "26 April 1964",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_vicepresident",
+        "children": [
+          {
+            "label": "Emmanuel Nchimbi",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "6.4 [ 6 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_zanzibar",
+        "children": [
+          {
+            "label": "10 December 1963",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

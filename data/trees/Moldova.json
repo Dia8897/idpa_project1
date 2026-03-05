@@ -1,0 +1,383 @@
+{
+  "country_name": "Moldova",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+373",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Chișinău 47°0′N 28°55′E ﻿ / ﻿ 47.000°N 28.917°E ﻿ / 47.000; 28.917",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Moldovan leu ( MDL )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Moldovan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2024_excl_transnistria___6_",
+        "children": [
+          {
+            "label": "76.7% Moldovans [ a ] 8.0% Romanians [ a ] 5.1% Ukrainians 4.0% Gagauz 3.4% Russians 1.6% Bulgarians 1.1% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2021",
+        "children": [
+          {
+            "label": "25.7 [ 11 ] low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary parliamentary republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.785 [ 12 ] high ( 86th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: Limba noastră \"Our language\"",
+            "children": []
+          },
+          {
+            "label": "Show map of Europe Show map of Moldova Location of Moldova in Europe (green) and its uncontrolled territory of Transnistria (light green)",
+            "children": []
+          },
+          {
+            "label": "Website www .moldova .md",
+            "children": []
+          },
+          {
+            "label": "Date of proclamation. Independence subsequently finalized with the dissolution of the USSR in December 1991.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".md",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "MD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_language_and_national_language__1___2_",
+        "children": [
+          {
+            "label": "Romanian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognised_minority_languages__3___4___5_",
+        "children": [
+          {
+            "label": "See list Belarusian Bulgarian Gagauz German Hebrew Polish Romani Russian Ukrainian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2024_excl_transnistria__6_",
+        "children": [
+          {
+            "label": "97.4% Christianity 94.3% Eastern Orthodoxy 3.1% other Christian 0.3% other 1.5% no religion 0.8% unanswered",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( EET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2024_census",
+        "children": [
+          {
+            "label": "2,409,207 [ 8 ] [ c ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_bessarabia_governorate",
+        "children": [
+          {
+            "label": "1812",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_constitution_adopted",
+        "children": [
+          {
+            "label": "29 July 1994",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "78.5/km 2 (203.3/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_excl_transnistria",
+        "children": [
+          {
+            "label": "30,319 km 2 (11,706 sq mi) [ b ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_incl_transnistria",
+        "children": [
+          {
+            "label": "33,843 [ 7 ] km 2 (13,067 sq mi) ( 135th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_independence_from_the_soviet_union",
+        "children": [
+          {
+            "label": "27 August 1991 a",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_january_2025_estimate",
+        "children": [
+          {
+            "label": "2,381,325 [ 9 ] [ c ] ( 140th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_moldavian_assr",
+        "children": [
+          {
+            "label": "12 October 1924",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_moldavian_democratic_republic",
+        "children": [
+          {
+            "label": "15 December 1917",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_moldavian_ssr",
+        "children": [
+          {
+            "label": "2 August 1940",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$20,731 [ 10 ] ( 93th )",
+            "children": []
+          },
+          {
+            "label": "$8,984 [ 10 ] ( 89th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Maia Sandu",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president_of_the_parliament",
+        "children": [
+          {
+            "label": "Igor Grosu",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Alexandru Munteanu",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_principality_of_moldavia",
+        "children": [
+          {
+            "label": "1346",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_summer__dst_",
+        "children": [
+          {
+            "label": "UTC +3 ( EEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "$48.511 billion [ 10 ] [ c ] ( 135th )",
+            "children": []
+          },
+          {
+            "label": "$21.024 billion [ 10 ] [ c ] ( 129th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_transnistria_war",
+        "children": [
+          {
+            "label": "2 November 1990",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_union_with_romania",
+        "children": [
+          {
+            "label": "9 April 1918",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "1.4 (incl. Transnistria)",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

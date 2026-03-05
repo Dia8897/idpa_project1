@@ -1,0 +1,356 @@
+{
+  "country_name": "Ukraine",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+380",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Kyiv 50°27′N 30°31′E ﻿ / ﻿ 50.450°N 30.517°E ﻿ / 50.450; 30.517",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Ukrainian hryvnia ( ₴ ) ( UAH )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd.mm.yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Ukrainian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2001__2_",
+        "children": [
+          {
+            "label": "78% Ukrainians 17% Russians 4.9% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2020",
+        "children": [
+          {
+            "label": "25.6 [ 7 ] low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary semi-presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.779 [ 8 ] high ( 87th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: Державний гімн України Derzhavnyi himn Ukrainy \" State Anthem of Ukraine \"",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Europe Topographic map of Ukraine with borders and cities Territory controlled by Ukraine Russian-occupied territories",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ua .укр",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "UA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Verkhovna Rada",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_language_and_national_language",
+        "children": [
+          {
+            "label": "Ukrainian [ 1 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2018__3_",
+        "children": [
+          {
+            "label": "87.3% Christianity 11.0% no religion 0.8% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 [ 9 ] ( EET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_april_2025_estimate",
+        "children": [
+          {
+            "label": "32,862,000 [ 6 ] ( 46th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_cossack_hetmanate",
+        "children": [
+          {
+            "label": "18 August 1649",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_current_constitution",
+        "children": [
+          {
+            "label": "28 June 1996",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "54.4/km 2 (140.9/sq mi) ( 156th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_galiciavolhynia",
+        "children": [
+          {
+            "label": "1199",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_independence_declared",
+        "children": [
+          {
+            "label": "24 August 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_kievan_rus",
+        "children": [
+          {
+            "label": "882",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_peoples_republic",
+        "children": [
+          {
+            "label": "20 November 1917",
+            "children": []
+          },
+          {
+            "label": "14 December 1918",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$20,999 [ 6 ] ( 89th )",
+            "children": []
+          },
+          {
+            "label": "$6,261 [ 6 ] ( 112th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Volodymyr Zelenskyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Yulia Svyrydenko",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_second_hetmanate",
+        "children": [
+          {
+            "label": "29 April 1918",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_soviet_republic",
+        "children": [
+          {
+            "label": "10 March 1919",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_summer__dst_",
+        "children": [
+          {
+            "label": "UTC +3 ( EEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "603,628 [ 4 ] km 2 (233,062 sq mi) ( 45th )",
+            "children": []
+          },
+          {
+            "label": "$690.059 billion [ 6 ] ( 45th )",
+            "children": []
+          },
+          {
+            "label": "$205.742 billion [ 6 ] ( 58th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_un_membership",
+        "children": [
+          {
+            "label": "24 October 1945",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "3.8 [ 5 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_zaporozhian_sich",
+        "children": [
+          {
+            "label": "1552",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

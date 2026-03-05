@@ -1,0 +1,253 @@
+{
+  "country_name": "Germany",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+49",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Berlin [ b ] 52°31′N 13°23′E ﻿ / ﻿ 52.517°N 13.383°E ﻿ / 52.517; 13.383",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "Day, month, year Year, month, day",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "German",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2023",
+        "children": [
+          {
+            "label": "29.4 [ 8 ] low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal parliamentary republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.959 [ 9 ] very high ( 5th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" Das Lied der Deutschen \" [ a ] The Song of the Germans",
+            "children": []
+          },
+          {
+            "label": "Germany on the globe centred on Europe Show map of the European Union",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".de",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "DE",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Bundestag Bundesrat",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "German [ c ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2022_census",
+        "children": [
+          {
+            "label": "82,719,540 [ 6 ] ( 19th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_chancellor",
+        "children": [
+          {
+            "label": "Friedrich Merz",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "233/km 2 (603.5/sq mi) ( 63rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$73,553 [ 7 ] ( 23rd )",
+            "children": []
+          },
+          {
+            "label": "$59,925 [ 7 ] ( 19th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Frank-Walter Steinmeier",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_q2_2025_estimate",
+        "children": [
+          {
+            "label": "83,491,249 [ 5 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_summer__dst_",
+        "children": [
+          {
+            "label": "UTC +2 ( CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "357,022 km 2 (137,847 sq mi) ( 63rd )",
+            "children": []
+          },
+          {
+            "label": "$6.154 trillion [ 7 ] ( 6th )",
+            "children": []
+          },
+          {
+            "label": "$5.014 trillion [ 7 ] ( 3rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "1.27 [ 4 ]",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

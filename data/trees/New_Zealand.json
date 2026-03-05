@@ -1,0 +1,334 @@
+{
+  "country_name": "New Zealand",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+64",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Wellington 41°18′S 174°47′E ﻿ / ﻿ 41.300°S 174.783°E ﻿ / -41.300; 174.783",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "New Zealand dollar ($) ( NZD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd / mm / yyyy [ 14 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "New Zealander Kiwi (colloquial)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups__2023___4___n_3_",
+        "children": [
+          {
+            "label": "67.8% European 19.6% Māori 17.3% Asian 8.9% Pacific peoples 1.9% ME / LA / African 1.1% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2022",
+        "children": [
+          {
+            "label": "30.0 [ 11 ] medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary parliamentary constitutional monarchy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.938 [ 12 ] very high ( 17th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthems : God Defend New Zealand (Māori: Aotearoa ) God Save the King [ n 1 ] (Māori: Me tohu e te Atua )",
+            "children": []
+          },
+          {
+            "label": "Location of New Zealand, including outlying islands, its territorial claim in the Antarctic , and Tokelau",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".nz",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "NZ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Auckland 36°52′S 174°45′E ﻿ / ﻿ 36.867°S 174.750°E ﻿ / -36.867; 174.750",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English [ n 2 ] Māori NZ Sign Language",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2023__5_",
+        "children": [
+          {
+            "label": "51.6% no religion 32.3% Christianity [ n 4 ] 2.9% Hinduism 6.3% other 6.9% undeclared",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +12 ( NZST [ n 6 ] )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2023_census",
+        "children": [
+          {
+            "label": "4,993,923 [ 4 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_constitution_act_1986",
+        "children": [
+          {
+            "label": "1 January 1987",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "19.9/km 2 (51.5/sq mi) ( 204th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_dominion",
+        "children": [
+          {
+            "label": "26 September 1907",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_governorgeneral",
+        "children": [
+          {
+            "label": "Cindy Kiro",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_march_2026_estimate",
+        "children": [
+          {
+            "label": "5,343,310 [ 9 ] ( 121st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_monarch",
+        "children": [
+          {
+            "label": "Charles III",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$55,450 [ 10 ] ( 36th )",
+            "children": []
+          },
+          {
+            "label": "$46,013 [ 10 ] ( 23rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Christopher Luxon",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_responsible_government",
+        "children": [
+          {
+            "label": "7 May 1856",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_statute_of_westminster_adoption_act",
+        "children": [
+          {
+            "label": "25 November 1947",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_summer__dst_",
+        "children": [
+          {
+            "label": "UTC +13 ( NZDT [ n 7 ] )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "263,310 [ 7 ] km 2 (101,660 sq mi) ( 75th )",
+            "children": []
+          },
+          {
+            "label": "$298.93 billion [ 10 ] ( 67th )",
+            "children": []
+          },
+          {
+            "label": "$248.67 billion [ 10 ] ( 52nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_treaty_of_waitangi__6_",
+        "children": [
+          {
+            "label": "6 February 1840",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "1.6 [ n 5 ]",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "country_name": "Madagascar",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+261 [ 17 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Antananarivo 18°55′S 47°31′E ﻿ / ﻿ 18.917°S 47.517°E ﻿ / -18.917; 47.517",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Ariary ( MGA )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Malagasy [ 4 ] [ 5 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2017__2_",
+        "children": [
+          {
+            "label": "26% Merina 15% Betsimisaraka 12% Betsileo 7% Tsimihety 6% Sakalava 5% Antaisaka 5% Antandroy 24% others",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2012",
+        "children": [
+          {
+            "label": "42.6 [ 15 ] medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary semi-presidential republic under a transitional government",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.487 [ 16 ] low ( 183rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto: Fitiavana, Tanindrazana, Fandrosoana (Malagasy) Amour, Patrie, Progrès (French) \"Love, Fatherland, Progress\" [ 1 ]",
+            "children": []
+          },
+          {
+            "label": "Anthem: Ry Tanindrazanay malala ô ! (Malagasy) Ô Terre de nos ancêtres bien-aimés! (French) \"Oh, land of our beloved ancestors!\"",
+            "children": []
+          },
+          {
+            "label": "Location of Madagascar (dark green)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".mg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "MG",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Malagasy French",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2020__3_",
+        "children": [
+          {
+            "label": "84.7% Christianity 45.8% Protestantism 38.1% Catholicism 0.8% other Christian 7.3% no religion 4.7% traditional faiths 3.1% Islam 0.3% others",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +3 ( EAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2024_estimate",
+        "children": [
+          {
+            "label": "31,964,956 [ 10 ] ( 49th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2025_malagasy_protests",
+        "children": [
+          {
+            "label": "25 September – 14 October 2025",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_coup_detat",
+        "children": [
+          {
+            "label": "12–14 October 2025",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_current_constitution",
+        "children": [
+          {
+            "label": "11 December 2010",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_declaration_of_independence",
+        "children": [
+          {
+            "label": "26 June 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "55/km 2 (142.4/sq mi) ( 164th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_french_colony__8_",
+        "children": [
+          {
+            "label": "6 August 1896",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_french_protectorate",
+        "children": [
+          {
+            "label": "c. 1882",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_kingdom__7_",
+        "children": [
+          {
+            "label": "c. 1540",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_lower_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$2,110 [ 12 ] ( 182nd )",
+            "children": []
+          },
+          {
+            "label": "$652 [ 14 ] ( 188th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Michael Randrianirina [ 6 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Herintsalama Rajaonarivelo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_referendum",
+        "children": [
+          {
+            "label": "21 December 1975",
+            "children": []
+          },
+          {
+            "label": "17 November 2010",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_republic_proclaimed",
+        "children": [
+          {
+            "label": "14 October 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_socialist_state",
+        "children": [
+          {
+            "label": "30 December 1975 - 12 January 1992",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_third_republic",
+        "children": [
+          {
+            "label": "12 January 1992 - 11 December 2010",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "592,796 [ 9 ] km 2 (228,880 sq mi) ( 46th )",
+            "children": []
+          },
+          {
+            "label": "$68.110 billion [ 11 ] ( 117th )",
+            "children": []
+          },
+          {
+            "label": "$21.090 billion [ 13 ] ( 139th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_upper_house",
+        "children": [
+          {
+            "label": "Senate (suspended) [ 6 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water",
+        "children": [
+          {
+            "label": "5,501 km 2 (2,124 sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "0.9%",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

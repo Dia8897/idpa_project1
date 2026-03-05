@@ -1,0 +1,365 @@
+{
+  "country_name": "Brazil",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+55",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Brasília 15°47′S 47°52′W ﻿ / ﻿ 15.783°S 47.867°W ﻿ / -15.783; -47.867",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Real (R$) ( BRL )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy ( CE )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Brazilian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2022__5_",
+        "children": [
+          {
+            "label": "45.3% Pardo 43.5% White 10.2% Black 0.6% Indigenous 0.4% East Asian [ b ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2023",
+        "children": [
+          {
+            "label": "51.6 [ 14 ] high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.786 [ 15 ] high ( 84th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms [ 1 ]",
+            "children": []
+          },
+          {
+            "label": "Motto: Ordem e Progresso \"Order and Progress\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: Hino Nacional Brasileiro \"Brazilian National Anthem\" Flag anthem : Hino à Bandeira Nacional [ 2 ] \"National Flag Anthem\"",
+            "children": []
+          },
+          {
+            "label": "National Seal Selo Nacional do Brasil National Seal of Brazil",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".br",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BR",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "São Paulo 23°33′S 46°38′W ﻿ / ﻿ 23.550°S 46.633°W ﻿ / -23.550; -46.633",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Congress",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_language_and_national_language",
+        "children": [
+          {
+            "label": "Portuguese [ a ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognized_regional_languages",
+        "children": [
+          {
+            "label": "See regional official languages",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2022__6_",
+        "children": [
+          {
+            "label": "83.60% Christianity 56.75% Catholicism 26.85% Protestantism 9.28% no religion 1.84% Spiritism 1.05% Afro-Brazilian religions 4.07% other 0.17% not stated",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −02:00 to −05:00 ( BT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2022_census",
+        "children": [
+          {
+            "label": "203,080,756 [ 8 ] ( 7th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2025_estimate",
+        "children": [
+          {
+            "label": "213,421,037 [ 7 ] ( 7th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_current_constitution",
+        "children": [
+          {
+            "label": "5 October 1988",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_declaration",
+        "children": [
+          {
+            "label": "7 September 1822",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "23.8 [ 9 ] /km 2 (61.6/sq mi) ( 193rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_lower_house",
+        "children": [
+          {
+            "label": "Chamber of Deputies",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$23,310 [ 11 ] ( 78th )",
+            "children": []
+          },
+          {
+            "label": "$10,580 [ 13 ] ( 78th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Luiz Inácio Lula da Silva",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president_of_the_chamber_of_deputies",
+        "children": [
+          {
+            "label": "Hugo Motta",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president_of_the_federal_senate",
+        "children": [
+          {
+            "label": "Davi Alcolumbre",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president_of_the_supreme_federal_court",
+        "children": [
+          {
+            "label": "Edson Fachin",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_recognition",
+        "children": [
+          {
+            "label": "29 August 1825",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_republic",
+        "children": [
+          {
+            "label": "15 November 1889",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "8,515,767 km 2 (3,287,956 sq mi) ( 5th )",
+            "children": []
+          },
+          {
+            "label": "$4.970 trillion [ 10 ] ( 8th )",
+            "children": []
+          },
+          {
+            "label": "$2.260 trillion [ 12 ] ( 10th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_upper_house",
+        "children": [
+          {
+            "label": "Federal Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_vice_president",
+        "children": [
+          {
+            "label": "Geraldo Alckmin",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "0.65",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

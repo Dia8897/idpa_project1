@@ -1,0 +1,297 @@
+{
+  "country_name": "Benin",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+229",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Porto-Novo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "West African CFA franc ( XOF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Beninese Beninoise",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2013__2__",
+        "children": [
+          {
+            "label": "38.4% Fon 15.1% Adja and Mina 12% Yoruba 9.6% Bariba 8.6% Fula 6.1% Ottamari 4.3% Yoa-Lokpa 2.9% Dendi 2.8% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2021",
+        "children": [
+          {
+            "label": "34.4 [ 10 ] medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.515 [ 11 ] low ( 173rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: \"Fraternité, Justice, Travail\" (French) Fraternity, Justice, Labour",
+            "children": []
+          },
+          {
+            "label": "Anthem: L'Aube nouvelle (French) \"The New Dawn\"",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Africa",
+            "children": []
+          },
+          {
+            "label": "Cotonou is the seat of government.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".bj",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BJ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Cotonou",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "national_languages",
+        "children": [
+          {
+            "label": "List: Arabic English Aguna Aja Alada Fon Gbe Gen Gun Pherá Phla Tofin Tɔli Waci Berba Kabye Lama Lukpa Mbelime Mossi Nateni Ngangam Tammari Tem Waama Yom Kwa Chakosi Foodo Ede Ifè Mokole Yoruba Yoruboid Bariba Dendi Fula Hausa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "French [ 1 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2020__3_",
+        "children": [
+          {
+            "label": "52.2% Christianity 24.6% Islam 17.9% traditional faiths 5.2% no religion 0.1% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( WAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2022_estimate",
+        "children": [
+          {
+            "label": "13,754,688 [ 5 ] ( 77th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "94.8/km 2 (245.5/sq mi) ( 98th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_independence",
+        "children": [
+          {
+            "label": "1 August 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$4,980 [ 7 ] ( 163rd )",
+            "children": []
+          },
+          {
+            "label": "$1,790 [ 9 ] ( 163rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Patrice Talon",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_republic_of_dahomey_established_within_the_french_community",
+        "children": [
+          {
+            "label": "11 December 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "114,763 km 2 (44,310 sq mi) [ 4 ] ( 100th )",
+            "children": []
+          },
+          {
+            "label": "$76.510 billion [ 6 ] ( 137th )",
+            "children": []
+          },
+          {
+            "label": "$27.450 billion [ 8 ] ( 141st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_vice_president",
+        "children": [
+          {
+            "label": "Mariam Chabi Talata",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "0.4%",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

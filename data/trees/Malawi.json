@@ -1,0 +1,333 @@
+{
+  "country_name": "Malawi",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+265 [ 8 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Lilongwe 13°57′S 33°42′E ﻿ / ﻿ 13.950°S 33.700°E ﻿ / -13.950; 33.700",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Malawian kwacha (D) ( MWK )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Malawian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2024_census",
+        "children": [
+          {
+            "label": "25.2% Chewa 20.4% Tumbuka 16.4% Lomwe 15.3% Yao 6.4% Ngoni 5.9% Sena 3.8% Mang'anja 1.8% Tonga 1.5% Ngonde 0.6% Lambya 0.5% Sukwa 1.1% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2016",
+        "children": [
+          {
+            "label": "44.7 [ 6 ] medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.517 [ 7 ] low ( 172nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: \"Unity and Freedom\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: Mulungu dalitsani Malaŵi \"O God Bless Our Land of Malawi\" [ 1 ]",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Africa Location of Malawi (dark green) in southeast Africa",
+            "children": []
+          },
+          {
+            "label": "* Population estimates for this country explicitly take into account the effects of excess mortality due to AIDS ; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected. Information is drawn from the CIA World Factbook unless otherwise noted.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".mw [ 8 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "MW",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognised_national_languages",
+        "children": [
+          {
+            "label": "( none at national level)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognised_regional_languages",
+        "children": [
+          {
+            "label": "Chichewa Chitumbuka",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2018_census__2_",
+        "children": [
+          {
+            "label": "82.3% Christianity 58.5% Protestantism 17.2% Catholicism 6.6% other Christian 13.8% Islam 2.1% none 1.2% traditional faiths 0.6% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( CAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2018_census",
+        "children": [
+          {
+            "label": "17,563,749 [ 4 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2024_estimate",
+        "children": [
+          {
+            "label": "21,240,689 [ 3 ] ( 62nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_chief_justice",
+        "children": [
+          {
+            "label": "Rizine Mzikamanda",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_current_constitution",
+        "children": [
+          {
+            "label": "18 May 1994",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "153.1/km 2 (396.5/sq mi) ( 56th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_dominion",
+        "children": [
+          {
+            "label": "6 July 1964",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_house_speaker",
+        "children": [
+          {
+            "label": "Sameer Suleman",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$1,668 [ 5 ] ( 186th )",
+            "children": []
+          },
+          {
+            "label": "$579 [ 5 ] ( 190th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Peter Mutharika",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_republic",
+        "children": [
+          {
+            "label": "6 July 1966",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "118,484 km 2 (45,747 sq mi) ( 98th )",
+            "children": []
+          },
+          {
+            "label": "$37.919 billion [ 5 ] ( 137th )",
+            "children": []
+          },
+          {
+            "label": "$13.176 billion [ 5 ] ( 149th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_vicepresident",
+        "children": [
+          {
+            "label": "Jane Ansah",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "20.6%",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

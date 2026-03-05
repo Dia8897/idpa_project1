@@ -1,0 +1,388 @@
+{
+  "country_name": "Portugal",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+351",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Lisbon 38°46′N 9°9′W ﻿ / ﻿ 38.767°N 9.150°W ﻿ / 38.767; -9.150",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro [ e ] ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "yyyy - mm - dd [ 13 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Portuguese",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2024",
+        "children": [
+          {
+            "label": "31.9 [ 11 ] medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary semi-presidential republic [ 1 ] [ a ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.890 [ 12 ] very high ( 40th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" A Portuguesa \" ( Portuguese ) \"The Portuguese\"",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of the European Union Location of Portugal Portugal within the European Union",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".pt",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "PT",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Assembly of the Republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Portuguese",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognised_national_languages",
+        "children": [
+          {
+            "label": "Portuguese Sign Language",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognised_regional_languages",
+        "children": [
+          {
+            "label": "Mirandese",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +0 and -1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2021_census",
+        "children": [
+          {
+            "label": "10,343,066 [ 9 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2024_estimate",
+        "children": [
+          {
+            "label": "10,749,635 [ 8 ] ( 87th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_battle_of_ourique",
+        "children": [
+          {
+            "label": "25 July 1139",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_conference_of_zamora",
+        "children": [
+          {
+            "label": "4–5 October 1143",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_county",
+        "children": [
+          {
+            "label": "868",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_current_constitution",
+        "children": [
+          {
+            "label": "25 April 1976 [ c ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_democratisation",
+        "children": [
+          {
+            "label": "25 April 1974",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "116.6/km 2 (302.0/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_first_constitution",
+        "children": [
+          {
+            "label": "23 September 1822",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_land",
+        "children": [
+          {
+            "label": "92,225 km 2 (35,608 sq mi) [ 6 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_manifestis_probatum",
+        "children": [
+          {
+            "label": "23 May 1179",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$51,853 [ 10 ] ( 42nd )",
+            "children": []
+          },
+          {
+            "label": "$33,972 [ 10 ] ( 41st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Marcelo Rebelo de Sousa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Luís Montenegro",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_republic",
+        "children": [
+          {
+            "label": "5 October 1910",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_restoration",
+        "children": [
+          {
+            "label": "1 December 1640",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_sovereignty",
+        "children": [
+          {
+            "label": "24 June 1128 [ b ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_speaker",
+        "children": [
+          {
+            "label": "José Pedro Aguiar-Branco",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_summer__dst_",
+        "children": [
+          {
+            "label": "UTC +1 and +0",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "156,597 km 2 (60,462 sq mi) [ d ] ( 92nd )",
+            "children": []
+          },
+          {
+            "label": "$556.383 billion [ 10 ] ( 50th )",
+            "children": []
+          },
+          {
+            "label": "$364.527 billion [ 10 ] ( 44th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water",
+        "children": [
+          {
+            "label": "64,372 km 2 (24,854 sq mi) [ 7 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "1.2 (2015) [ 4 ]",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

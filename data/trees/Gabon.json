@@ -1,0 +1,338 @@
+{
+  "country_name": "Gabon",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+241",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Libreville 0°23′N 9°27′E ﻿ / ﻿ 0.383°N 9.450°E ﻿ / 0.383; 9.450",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Central African CFA franc ( XAF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Gabonese Gabonaise",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "Fang Punu Nzebi Teke Myene Kota Vili Mbama and 42 others",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2017",
+        "children": [
+          {
+            "label": "38 [ 4 ] medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.733 [ 5 ] high ( 108th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: \"Union, Travail, Justice\" (French) \"Union, Work, Justice\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" La Concorde \" (French) \"The Concord\"",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Africa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ga",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "GA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "French",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "regional_languages",
+        "children": [
+          {
+            "label": "List English Spanish French Portuguese Fang Mbete Myene Nzebi Punu Teke Vili",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2021__1_",
+        "children": [
+          {
+            "label": "80.2% Christianity 10.8% Islam 7.0% no religion 1.1% traditional faiths 0.9% others",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( WAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_1964_coup_dtat",
+        "children": [
+          {
+            "label": "17–19 February 1964",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2023_coup_dtat",
+        "children": [
+          {
+            "label": "30 August 2023",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2023_estimate",
+        "children": [
+          {
+            "label": "2,397,368 [ 2 ] ( 146th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_administrated_under_the_french_congo",
+        "children": [
+          {
+            "label": "1882-1910",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "7.9/km 2 (20.5/sq mi) ( 216th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_granted",
+        "children": [
+          {
+            "label": "17 August 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_lower_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$24,739 [ 3 ] ( 79th )",
+            "children": []
+          },
+          {
+            "label": "$9,303 [ 3 ] ( 90th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Brice Oligui Nguema",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_reestablished_as_french_gabon_under_the_administration_of_french_equatorial_africa",
+        "children": [
+          {
+            "label": "1910-1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_republic_established",
+        "children": [
+          {
+            "label": "28 November 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "267,668 km 2 (103,347 sq mi) ( 76th )",
+            "children": []
+          },
+          {
+            "label": "$57.054 billion [ 3 ] ( 130th )",
+            "children": []
+          },
+          {
+            "label": "$21.455 billion [ 3 ] ( 131st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_vice_president",
+        "children": [
+          {
+            "label": "Séraphin Moundounga",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_vice_president_of_the_government",
+        "children": [
+          {
+            "label": "Hermann Immongault",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "3.76%",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

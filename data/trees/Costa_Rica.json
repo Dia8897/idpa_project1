@@ -1,0 +1,325 @@
+{
+  "country_name": "Costa Rica",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+506",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "San José 9°56′N 84°5′W ﻿ / ﻿ 9.933°N 84.083°W ﻿ / 9.933; -84.083",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Costa Rican colón ( CRC )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Costa Rican Tico(a)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2021__1__",
+        "children": [
+          {
+            "label": "83.6% White or Mestizo 6.7% Mulatto (mixed Black and White ) 2.4% Indigenous 1.1% Black 6.2% others [ 2 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2022",
+        "children": [
+          {
+            "label": "47.2 [ 9 ] high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.833 [ 10 ] very high ( 62nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: \"¡Vivan siempre el trabajo y la paz!\" ( Spanish ) \"May work and peace always live!\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: Himno Nacional de Costa Rica \"National Anthem of Costa Rica\"",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".cr .co.cr",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "CR",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Legislative Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Spanish",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognized_regional_languages",
+        "children": [
+          {
+            "label": "Mekatelyu Bribri Patois",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2021__3_",
+        "children": [
+          {
+            "label": "72.6% Christianity 47.5% Catholicism ( official ) [ 4 ] 22.5% Protestantism 2.6% other Christian 27.0% no religion 0.4% others",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −6 ( CST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2022_census",
+        "children": [
+          {
+            "label": "5,044,197 [ 7 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2026_estimate",
+        "children": [
+          {
+            "label": "5,160,700 [ 6 ] ( 127th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_current_constitution",
+        "children": [
+          {
+            "label": "7 November 1949 [ 1 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "220/sq mi (84.9/km 2 ) ( 107th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_first_vice_president",
+        "children": [
+          {
+            "label": "Mary Munive",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_from_first_mexican_empire",
+        "children": [
+          {
+            "label": "1 July 1823",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_from_spain",
+        "children": [
+          {
+            "label": "15 September 1821",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_from_the_federal_republic_of_central_america",
+        "children": [
+          {
+            "label": "14 November 1838",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$31,462 [ 8 ] ( 66th )",
+            "children": []
+          },
+          {
+            "label": "$19,095 [ 8 ] ( 64th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Rodrigo Chaves",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_recognized_by_spain",
+        "children": [
+          {
+            "label": "10 May 1850",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_second_vice_president",
+        "children": [
+          {
+            "label": "Vacant",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "51,179.92 km 2 (19,760.68 sq mi) ( 126th )",
+            "children": []
+          },
+          {
+            "label": "$169.034 billion [ 8 ] ( 90th )",
+            "children": []
+          },
+          {
+            "label": "$102.591 billion [ 8 ] ( 85th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "1.05 (as of 2015) [ 5 ]",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

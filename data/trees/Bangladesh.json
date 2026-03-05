@@ -1,0 +1,356 @@
+{
+  "country_name": "Bangladesh",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+880",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Dhaka 23°45′50″N 90°23′20″E ﻿ / ﻿ 23.76389°N 90.38889°E ﻿ / 23.76389; 90.38889",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Taka ( ৳ ) ( BDT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonym",
+        "children": [
+          {
+            "label": "Bangladeshi",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_2022__5_",
+        "children": [
+          {
+            "label": "99% Bengali 1% others Chakmas Garos Khasis Khumis Manipuris Marmas Mizos Arakanese Mrus Santals Tanchangyas Tripuris Bishnupriyas",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp__ppp_",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini_2025",
+        "children": [
+          {
+            "label": "33.4 [ 16 ] medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary parliamentary republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi_2023",
+        "children": [
+          {
+            "label": "0.685 [ 17 ] medium ( 130th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag Emblem",
+            "children": []
+          },
+          {
+            "label": "Anthem: আমার সোনার বাংলা ( Bengali ) Amar Sonar Bangla \"My Golden Bengal\"",
+            "children": []
+          },
+          {
+            "label": "Government Seal",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Bangladesh",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".bd .বাংলা",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Jatiya Sangsad",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_language_and_national_language",
+        "children": [
+          {
+            "label": "Bengali [ 1 ] [ 2 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "other_common_language",
+        "children": [
+          {
+            "label": "English [ 3 ] [ 4 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion_2022__6_",
+        "children": [
+          {
+            "label": "91.04% Islam ( official ) 7.94% Hinduism 0.60% Buddhism 0.30% Christianity 0.12% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +6 ( BST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2022_census",
+        "children": [
+          {
+            "label": "169,828,911 [ 10 ] [ 11 ] ( 8th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_2024_estimate",
+        "children": [
+          {
+            "label": "173,562,364 [ 9 ] ( 8th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_chief_justice",
+        "children": [
+          {
+            "label": "Zubayer Rahman Chowdhury",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_current_constitution",
+        "children": [
+          {
+            "label": "16 December 1972",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_density",
+        "children": [
+          {
+            "label": "1,165/km 2 (3,017.3/sq mi) ( 13th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_east_bengal",
+        "children": [
+          {
+            "label": "15 August 1947",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_east_pakistan",
+        "children": [
+          {
+            "label": "14 October 1955",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_land_area",
+        "children": [
+          {
+            "label": "130,170 km 2 [ 8 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_per_capita",
+        "children": [
+          {
+            "label": "$10,260 [ 13 ] ( 125th )",
+            "children": []
+          },
+          {
+            "label": "$2,730 [ 15 ] ( 146th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_president",
+        "children": [
+          {
+            "label": "Mohammed Shahabuddin",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_prime_minister",
+        "children": [
+          {
+            "label": "Tarique Rahman",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_proclamation_of_independence",
+        "children": [
+          {
+            "label": "26 March 1971",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_provisional_government",
+        "children": [
+          {
+            "label": "10 April 1971",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_total",
+        "children": [
+          {
+            "label": "148,460 [ 7 ] km 2 (57,320 sq mi) ( 93rd )",
+            "children": []
+          },
+          {
+            "label": "$1.780 trillion [ 12 ] ( 26th )",
+            "children": []
+          },
+          {
+            "label": "$475.010 billion [ 14 ] ( 34th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_victory_in_the_liberation_war",
+        "children": [
+          {
+            "label": "16 December 1971",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_",
+        "children": [
+          {
+            "label": "6.4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "_water_area",
+        "children": [
+          {
+            "label": "18,290 km 2 [ 8 ]",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}
