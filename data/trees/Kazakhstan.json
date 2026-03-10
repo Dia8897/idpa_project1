@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2025__2_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "71.3% Kazakh 14.6% Russian 3.3% Uzbek 1.8% Ukrainian 1.5% Uyghur 1.1% German 1.1% Tatar 5.3% others",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2018",
+        "label": "gini",
         "children": [
           {
             "label": "27.8 [ 13 ] low inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.837 [ 14 ] very high ( 60th )",
@@ -152,7 +152,7 @@
         ]
       },
       {
-        "label": "religion_2021__3___4___5_",
+        "label": "religion",
         "children": [
           {
             "label": "69.3% Islam 17.2% Christianity 2.3% no religion 0.2% other 11.0% unanswered",
@@ -170,7 +170,7 @@
         ]
       },
       {
-        "label": "_2026_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "20,495,975 [ 11 ] ( 65th )",
@@ -179,7 +179,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "30 August 1995",
@@ -188,7 +188,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "7.44/km 2 (19.3/sq mi) ( 236th )",
@@ -197,7 +197,7 @@
         ]
       },
       {
-        "label": "_independence_from_the_soviet_union",
+        "label": "independence_from_the_soviet_union",
         "children": [
           {
             "label": "16 December 1991",
@@ -206,7 +206,7 @@
         ]
       },
       {
-        "label": "_kazakh_assr",
+        "label": "kazakh_assr",
         "children": [
           {
             "label": "26 August 1920",
@@ -215,7 +215,7 @@
         ]
       },
       {
-        "label": "_kazakh_khanate",
+        "label": "kazakh_khanate",
         "children": [
           {
             "label": "c. 1465",
@@ -224,7 +224,7 @@
         ]
       },
       {
-        "label": "_kazakh_ssr",
+        "label": "kazakh_ssr",
         "children": [
           {
             "label": "5 December 1936",
@@ -233,7 +233,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Mäjilis",
@@ -242,7 +242,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$44,450 [ 12 ] ( 49th )",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Kassym-Jomart Tokayev",
@@ -264,7 +264,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Oljas Bektenov",
@@ -273,7 +273,7 @@
         ]
       },
       {
-        "label": "_recognized",
+        "label": "recognized",
         "children": [
           {
             "label": "26 December 1991",
@@ -282,7 +282,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "2,724,900 km 2 (1,052,100 sq mi) ( 9th )",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.7",

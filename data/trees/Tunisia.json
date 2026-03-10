@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Tunisian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2021__5_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "98% Arabs [ 5 ] 1% Berbers [ 6 ] [ 7 ] 1% Jews and others [ 8 ]",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "gini_2021",
+        "label": "gini",
         "children": [
           {
             "label": "33.7 [ 15 ] medium inequality",
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.746 [ 16 ] high ( 105th )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_2024_census",
+        "label": "census",
         "children": [
           {
             "label": "11,972,169 [ 13 ]",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_aghlabid_emirate",
+        "label": "aghlabid_emirate",
         "children": [
           {
             "label": "800",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_ancient_carthage",
+        "label": "ancient_carthage",
         "children": [
           {
             "label": "814 BC",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_beylik_of_tunis",
+        "label": "beylik_of_tunis",
         "children": [
           {
             "label": "15 July 1705",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "79/km 2 (204.6/sq mi) ( 134th )",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_french_protectorate",
+        "label": "french_protectorate",
         "children": [
           {
             "label": "12 May 1881",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_hafsid_sultanate",
+        "label": "hafsid_sultanate",
         "children": [
           {
             "label": "1229",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_independence_and_kingdom",
+        "label": "independence_and_kingdom",
         "children": [
           {
             "label": "20 March 1956",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Assembly of the Representatives of the People",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$14,780 [ 14 ] ( 111th )",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Kais Saied",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Sara Zaafarani",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_republic_declaration",
+        "label": "republic_declaration",
         "children": [
           {
             "label": "25 July 1957",
@@ -317,7 +317,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "163,610 km 2 (63,170 sq mi) ( 91st )",
@@ -334,7 +334,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "National Council of Regions and Districts",
@@ -343,7 +343,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "5.04",

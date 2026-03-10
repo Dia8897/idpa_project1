@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Haitian",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "41 [ 9 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.554 [ 6 ] medium ( 166th )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2020__3_",
+        "label": "religion",
         "children": [
           {
             "label": "87.0% Christianity 10.7% no religion 2.1% Haitian Vodou 0.2% other",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "11,470,261 [ 7 ] ( 83rd )",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "20 June 2012",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "417/km 2 (1,080.0/sq mi) ( 32nd )",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_dissolution",
+        "label": "dissolution",
         "children": [
           {
             "label": "27 February 1844",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_first_empire",
+        "label": "first_empire",
         "children": [
           {
             "label": "22 September 1804",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_independence_declared",
+        "label": "independence_declared",
         "children": [
           {
             "label": "1 January 1804",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_independence_from_the_united_states",
+        "label": "independence_from_the_united_states",
         "children": [
           {
             "label": "15 August 1934",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_independence_recognized",
+        "label": "independence_recognized",
         "children": [
           {
             "label": "17 April 1825",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_kingdom",
+        "label": "kingdom",
         "children": [
           {
             "label": "28 March 1811",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Chamber of Deputies",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_northern_state",
+        "label": "northern_state",
         "children": [
           {
             "label": "17 October 1806",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$3,040 [ 8 ] ( 169th )",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Vacant",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Alix Didier Fils-Aimé (acting) [ 4 ]",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_republic",
+        "label": "republic",
         "children": [
           {
             "label": "15 January 1859",
@@ -317,7 +317,7 @@
         ]
       },
       {
-        "label": "_second_empire",
+        "label": "second_empire",
         "children": [
           {
             "label": "26 August 1849",
@@ -326,7 +326,7 @@
         ]
       },
       {
-        "label": "_southern_republic",
+        "label": "southern_republic",
         "children": [
           {
             "label": "17 October 1806",
@@ -335,7 +335,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC −04:00 ( EDT )",
@@ -344,7 +344,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "27,700 [ 5 ] [ 6 ] km 2 (10,700 sq mi) ( 143rd )",
@@ -361,7 +361,7 @@
         ]
       },
       {
-        "label": "_unification_of_hispaniola",
+        "label": "unification_of_hispaniola",
         "children": [
           {
             "label": "9 February 1822",
@@ -370,7 +370,7 @@
         ]
       },
       {
-        "label": "_united_states_occupation",
+        "label": "united_states_occupation",
         "children": [
           {
             "label": "28 July 1915 – 1 August 1934",
@@ -379,7 +379,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -388,7 +388,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.7",

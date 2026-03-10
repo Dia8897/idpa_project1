@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Sammarinese",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2024 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.915 [ 8 ] very high ( 29th )",
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "label": "_2026_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "34,172 [ 6 ] ( 191st )",
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "label": "_captains_regent",
+        "label": "captains_regent",
         "children": [
           {
             "label": "Matteo Rossi Lorenzo Bugli",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_constitution",
+        "label": "constitution",
         "children": [
           {
             "label": "8 October 1600 (Statutes) 8 July 1974 (Declaration of Citizen Rights)",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "579/km 2 (1,499.6/sq mi) ( 24th )",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_from_the_papal_states",
+        "label": "from_the_papal_states",
         "children": [
           {
             "label": "1291",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_from_the_roman_empire",
+        "label": "from_the_roman_empire",
         "children": [
           {
             "label": "3 September 301 (traditional)",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$86,989 [ 7 ] ( 12th )",
@@ -240,7 +240,7 @@
         ]
       },
       {
-        "label": "_secretary_of_state_for_foreign_and_political_affairs",
+        "label": "secretary_of_state_for_foreign_and_political_affairs",
         "children": [
           {
             "label": "Luca Beccari",
@@ -249,7 +249,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +02 ( CEST )",
@@ -258,7 +258,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "61.19 km 2 (23.63 sq mi) [ 5 ] ( 191st )",
@@ -275,7 +275,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.0059% [ 4 ]",

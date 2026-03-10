@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "South Sudanese",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gini_2016",
+        "label": "gini",
         "children": [
           {
             "label": "44.1 [ 14 ] medium inequality",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.388 [ 15 ] low ( 193rd )",
@@ -155,7 +155,7 @@
         ]
       },
       {
-        "label": "religion_2020__8___9_",
+        "label": "religion",
         "children": [
           {
             "label": "60.5% Christianity 32.9% traditional faiths 6.2% Islam 0.4% others / none",
@@ -164,7 +164,7 @@
         ]
       },
       {
-        "label": "spoken_languages__3_",
+        "label": "spoken_languages",
         "children": [
           {
             "label": "Dinka Bari Juba Arabic [ 4 ] [ 5 ] [ 6 ] [ 7 ] Nuer Zande Jur (Luo) Murle Shilluk various others",
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "label": "_1st_autonomous_region",
+        "label": "1st_autonomous_region",
         "children": [
           {
             "label": "28 February 1972",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "12,703,714 [ 8 ] ( 80th )",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_2nd_autonomous_region",
+        "label": "2nd_autonomous_region",
         "children": [
           {
             "label": "9 July 2005",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_declared_and_recognised",
+        "label": "declared_and_recognised",
         "children": [
           {
             "label": "9 July 2011",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "19/km 2 (49.2/sq mi) ( 211th )",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_first_vicepresident",
+        "label": "first_vicepresident",
         "children": [
           {
             "label": "Riek Machar",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$953 [ 11 ] ( 191st )",
@@ -249,7 +249,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Salva Kiir Mayardit",
@@ -258,7 +258,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "644,329 [ 8 ] km 2 (248,777 sq mi) ( 41st )",

@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2000__1_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "97.1% Comorians 1.6% Makua 1.3% Others",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2014",
+        "label": "gini",
         "children": [
           {
             "label": "45.3 [ 9 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.603 [ 10 ] medium ( 152nd )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "883,075 [ 7 ] ( 159th )",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "17 May 2009",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "457/km 2 (1,183.6/sq mi) ( 27th )",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_discovery_by_portuguese_explorers",
+        "label": "discovery_by_portuguese_explorers",
         "children": [
           {
             "label": "1503",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_federal_islamic_republic_of_comoros",
+        "label": "federal_islamic_republic_of_comoros",
         "children": [
           {
             "label": "1 October 1978 [ 5 ]",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_independence_from_france",
+        "label": "independence_from_france",
         "children": [
           {
             "label": "6 July 1975",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_ngazidja__ndzuwani__mwali_under_french_rule",
+        "label": "ngazidja_ndzuwani_mwali_under_french_rule",
         "children": [
           {
             "label": "1886",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_overseas_territory",
+        "label": "overseas_territory",
         "children": [
           {
             "label": "27 October 1946",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$3,463 [ 8 ]",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Azali Assoumani",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_president_of_the_assembly",
+        "label": "president_of_the_assembly",
         "children": [
           {
             "label": "Moustadroine Abdou",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_protectorate_of_the_comoros",
+        "label": "protectorate_of_the_comoros",
         "children": [
           {
             "label": "6 September 1887",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_state_of_comoros",
+        "label": "state_of_comoros",
         "children": [
           {
             "label": "22 December 1961",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_territory_under_french_madagascar",
+        "label": "territory_under_french_madagascar",
         "children": [
           {
             "label": "9 April 1908",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "2,035 [ 6 ] km 2 (786 sq mi) ( 170th )",
@@ -307,7 +307,7 @@
         ]
       },
       {
-        "label": "_union_of_the_comoros",
+        "label": "union_of_the_comoros",
         "children": [
           {
             "label": "23 December 2001",
@@ -316,7 +316,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "negligible",

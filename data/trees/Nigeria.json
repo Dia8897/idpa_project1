@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Nigerian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2018__4_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "30% Hausa 15.5% Yoruba 15.2% Igbo 6% Fulani 2.4% Tiv 2.4% Kanuri 1.8% Ibibio 1.8% Ijaw 24.7% other",
@@ -58,16 +58,7 @@
         ]
       },
       {
-        "label": "federal_republic_of_nigeria_name_in_national_languages_hausa__jamhuriyar_tarayyar_najeriya_igbo__hjk_hnz_najry_yoruba__orld_olmniira_pap_njr",
-        "children": [
-          {
-            "label": "Jamhuriyar Tarayyar Najeriya",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -85,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2020",
+        "label": "gini",
         "children": [
           {
             "label": "35.1 [ 8 ] medium inequality",
@@ -103,7 +94,7 @@
         ]
       },
       {
-        "label": "hausa_",
+        "label": "hausa",
         "children": [
           {
             "label": "Jamhuriyar Tarayyar Najeriya",
@@ -112,7 +103,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.560 [ 9 ] medium ( 164th )",
@@ -121,7 +112,7 @@
         ]
       },
       {
-        "label": "igbo_",
+        "label": "igbo",
         "children": [
           {
             "label": "Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà",
@@ -205,7 +196,7 @@
         ]
       },
       {
-        "label": "regional_languages__2_",
+        "label": "regional_languages",
         "children": [
           {
             "label": "Over 525 languages [ 3 ]",
@@ -214,7 +205,7 @@
         ]
       },
       {
-        "label": "religion_2018__5_",
+        "label": "religion",
         "children": [
           {
             "label": "53.50% Islam 45.90% Christianity 35.30% Protestants 10.60% Catholics 0.60% other",
@@ -232,7 +223,7 @@
         ]
       },
       {
-        "label": "yoruba_",
+        "label": "yoruba",
         "children": [
           {
             "label": "Orílẹ̀-èdè Olómìniira Àpapọ̀ Nàìjíríà",
@@ -241,7 +232,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "236,747,130 [ 6 ] ( 6th )",
@@ -250,7 +241,7 @@
         ]
       },
       {
-        "label": "_became_a_republic",
+        "label": "became_a_republic",
         "children": [
           {
             "label": "1 October 1963",
@@ -259,7 +250,7 @@
         ]
       },
       {
-        "label": "_chief_justice",
+        "label": "chief_justice",
         "children": [
           {
             "label": "Kudirat Kekere-Ekun",
@@ -268,7 +259,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "29 May 1999",
@@ -277,7 +268,7 @@
         ]
       },
       {
-        "label": "_declared_independent_as_a_sovereign_state",
+        "label": "declared_independent_as_a_sovereign_state",
         "children": [
           {
             "label": "1 October 1960",
@@ -286,7 +277,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "249.8/km 2 (647.0/sq mi) ( 57th )",
@@ -295,7 +286,7 @@
         ]
       },
       {
-        "label": "_house_speaker",
+        "label": "house_speaker",
         "children": [
           {
             "label": "Tajudeen Abbas",
@@ -304,7 +295,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Representatives",
@@ -313,7 +304,7 @@
         ]
       },
       {
-        "label": "_northern_nigeria_protectorate",
+        "label": "northern_nigeria_protectorate",
         "children": [
           {
             "label": "1 January 1900",
@@ -322,7 +313,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$9,488 [ 7 ] ( 135th )",
@@ -335,7 +326,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Bola Tinubu",
@@ -344,7 +335,7 @@
         ]
       },
       {
-        "label": "_senate_president",
+        "label": "senate_president",
         "children": [
           {
             "label": "Godswill Akpabio",
@@ -353,7 +344,7 @@
         ]
       },
       {
-        "label": "_southern_nigeria_protectorate",
+        "label": "southern_nigeria_protectorate",
         "children": [
           {
             "label": "1 January 1900",
@@ -362,7 +353,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "923,769 km 2 (356,669 sq mi) ( 31st )",
@@ -379,7 +370,7 @@
         ]
       },
       {
-        "label": "_unification_of_nigeria",
+        "label": "unification_of_nigeria",
         "children": [
           {
             "label": "1 January 1914",
@@ -388,7 +379,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -397,7 +388,7 @@
         ]
       },
       {
-        "label": "_vice_president",
+        "label": "vice_president",
         "children": [
           {
             "label": "Kashim Shettima",
@@ -406,7 +397,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.4",

@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Lithuanian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2025__2__",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "82.3% Lithuanians 6.2% Poles 5.0% Russians 2.2% Ukrainians 2.1% Belarusians 2.2% others",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "35.7 [ 12 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.895 [ 13 ] very high ( 39th )",
@@ -156,7 +156,7 @@
         ]
       },
       {
-        "label": "religion_2021__3__",
+        "label": "religion",
         "children": [
           {
             "label": "79.4% Christianity 74.2% Catholicism 5.2% other Christian 6.1% no religion 0.8% others 13.7% no answer",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "2,897,430 [ 10 ] ( 137th )",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_commonwealth_created",
+        "label": "commonwealth_created",
         "children": [
           {
             "label": "1 July 1569",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_coronation_of_mindaugas",
+        "label": "coronation_of_mindaugas",
         "children": [
           {
             "label": "6 July 1253",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "46/km 2 (119.1/sq mi) ( 174th )",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_first_mentioned",
+        "label": "first_mentioned",
         "children": [
           {
             "label": "9 March 1009",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_grand_duchy",
+        "label": "grand_duchy",
         "children": [
           {
             "label": "1236",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_independence_reinstated",
+        "label": "independence_reinstated",
         "children": [
           {
             "label": "16 February 1918",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_independence_restored",
+        "label": "independence_restored",
         "children": [
           {
             "label": "11 March 1990",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_partitioned",
+        "label": "partitioned",
         "children": [
           {
             "label": "24 October 1795",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$57,201 [ 11 ] ( 39th )",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Gitanas Nausėda",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Inga Ruginienė",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_seimas_speaker",
+        "label": "seimas_speaker",
         "children": [
           {
             "label": "Juozas Olekas",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_soviet_occupation",
+        "label": "soviet_occupation",
         "children": [
           {
             "label": "16 June 1940",
@@ -304,7 +304,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +3 ( EEST )",
@@ -313,7 +313,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "65,300 [ 8 ] km 2 (25,200 sq mi) ( 121st )",
@@ -330,7 +330,7 @@
         ]
       },
       {
-        "label": "_union_with_poland",
+        "label": "union_with_poland",
         "children": [
           {
             "label": "2 February 1386",
@@ -339,7 +339,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.98 (2015) [ 9 ]",

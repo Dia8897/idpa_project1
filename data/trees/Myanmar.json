@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2019__2___3___4__",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "68.78% Bamar 6.69% Karen 4.61% Rakhine 4.51% Shan 2.19% Mon 2.09% Chin 1.50% Kachin 0.39% Karenni",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2017",
+        "label": "gini",
         "children": [
           {
             "label": "30.7 [ 15 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.609 [ 16 ] medium ( 150th )",
@@ -150,13 +150,13 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Burmese English",
+            "label": "Burmese",
             "children": []
           }
         ]
       },
       {
-        "label": "recognised_regional_languages__1_",
+        "label": "recognised_regional_languages",
         "children": [
           {
             "label": "Chin Kachin Karen Kayah Mon Rakhine Shan",
@@ -165,7 +165,7 @@
         ]
       },
       {
-        "label": "religion__2014__5___c__",
+        "label": "religion",
         "children": [
           {
             "label": "87.9% Buddhism ( official ) [ 7 ] 6.2% Christianity 4.91% Protestantism 1.29% Catholicism 4.3% Islam 0.8% folk religion [ d ] 0.5% Hinduism 0.1% no religion 0.2% other",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_1962_coup_dtat",
+        "label": "coup_detat",
         "children": [
           {
             "label": "2 March 1962",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_1988_coup_dtat",
+        "label": "coup_detat",
         "children": [
           {
             "label": "18 September 1988",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_2021_coup_dtat",
+        "label": "coup_detat",
         "children": [
           {
             "label": "1 February 2021",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_2022_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "55,770,232 [ 10 ] ( 26th )",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_colonial_era",
+        "label": "colonial_era",
         "children": [
           {
             "label": "1 January 1886",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "29 May 2008",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "217/sq mi (83.8/km 2 ) ( 127th )",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_independence_from_the_united_kingdom",
+        "label": "independence_from_the_united_kingdom",
         "children": [
           {
             "label": "4 January 1948",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "label": "_konbaung_era",
+        "label": "konbaung_era",
         "children": [
           {
             "label": "29 February 1752",
@@ -264,7 +264,7 @@
         ]
       },
       {
-        "label": "_pagan_era",
+        "label": "pagan_era",
         "children": [
           {
             "label": "23 December 849",
@@ -273,7 +273,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$4,950 [ 12 ] ( 146th )",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Vacant ( Min Aung Hlaing serving Pro Tem On Duty)",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Nyo Saw",
@@ -304,7 +304,7 @@
         ]
       },
       {
-        "label": "_sspc_chairman",
+        "label": "sspc_chairman",
         "children": [
           {
             "label": "Min Aung Hlaing",
@@ -313,7 +313,7 @@
         ]
       },
       {
-        "label": "_sspc_vice_chairman",
+        "label": "sspc_vice_chairman",
         "children": [
           {
             "label": "Soe Win",
@@ -322,7 +322,7 @@
         ]
       },
       {
-        "label": "_taungoo_era",
+        "label": "taungoo_era",
         "children": [
           {
             "label": "16 October 1510",
@@ -331,7 +331,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "676,579 km 2 (261,229 sq mi) ( 39th )",
@@ -348,7 +348,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "3.06",

@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2021 estimate",
@@ -146,7 +146,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "882 [ 11 ] ( 237th )",
@@ -155,7 +155,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "1,800/km 2 (4,662.0/sq mi) ( 7th )",
@@ -164,7 +164,7 @@
         ]
       },
       {
-        "label": "_lateran_treaty",
+        "label": "lateran_treaty",
         "children": [
           {
             "label": "11 February 1929 [ c ]",
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "€19,450.22",
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "label": "_pope",
+        "label": "pope",
         "children": [
           {
             "label": "Leo XIV",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_president_of_the_governorate",
+        "label": "president_of_the_governorate",
         "children": [
           {
             "label": "Raffaella Petrini",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_sovereign_entity",
+        "label": "sovereign_entity",
         "children": [
           {
             "label": "Holy See",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "0.49 [ d ] km 2 (0.19 sq mi) ( 195th )",

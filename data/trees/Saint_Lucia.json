@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Saint Lucian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2020__3__",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "85.3% African 10.9% Mixed 2.2% Indian 1.6% other/ unspecified",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2016",
+        "label": "gini",
         "children": [
           {
             "label": "51.2 [ 7 ] high inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.748 [ 8 ] high ( 103rd )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2022__4_",
+        "label": "religion",
         "children": [
           {
             "label": "77.4% Christianity 14.4% no religion 1.4% Rastafari 2.7% other 4.1% not stated",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2010_census",
+        "label": "census",
         "children": [
           {
             "label": "165,595",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "184,100 [ 5 ] ( 177th )",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_associated_state",
+        "label": "associated_state",
         "children": [
           {
             "label": "1 March 1967",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "298/km 2 (771.8/sq mi) ( 29th )",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_governorgeneral",
+        "label": "governorgeneral",
         "children": [
           {
             "label": "Errol Charles",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_independence_from_the_united_kingdom",
+        "label": "independence_from_the_united_kingdom",
         "children": [
           {
             "label": "22 February 1979",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Assembly",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Charles III",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$29,258 [ 6 ] ( 73th )",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Philip J. Pierre",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "617 km 2 (238 sq mi) ( 178th )",
@@ -298,7 +298,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -307,7 +307,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.6",

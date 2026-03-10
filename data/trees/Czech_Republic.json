@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Czech",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2021__7_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "89% Czechs 3.3% Moravians 0.9% Slovaks 0.7% Ukrainians 2.1% other 4.0% two nationalities",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2024 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "24.4 [ 12 ] low inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.915 [ 13 ] very high ( 29th )",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "religion_2021__8_",
+        "label": "religion",
         "children": [
           {
             "label": "56.9% no religion 11.7% Christianity 9.3% Catholicism 2.4% other Christian 1.2% other 30.1% unanswered",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2021_census",
+        "label": "census",
         "children": [
           {
             "label": "10,524,167 [ 7 ]",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "10,900,555 [ 10 ] ( 85th )",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_czech_republic",
+        "label": "czech_republic",
         "children": [
           {
             "label": "1 January 1993",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_czechoslovakia",
+        "label": "czechoslovakia",
         "children": [
           {
             "label": "28 October 1918",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "133/km 2 (344.5/sq mi) ( 91st )",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_duchy_of_bohemia",
+        "label": "duchy_of_bohemia",
         "children": [
           {
             "label": "c. 870",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_kingdom_of_bohemia",
+        "label": "kingdom_of_bohemia",
         "children": [
           {
             "label": "1198",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Chamber of Deputies",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$56,686 [ 11 ] ( 38th )",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Petr Pavel",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Andrej Babiš",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "78,871 km 2 (30,452 sq mi) [ 9 ] ( 115th )",
@@ -316,7 +316,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -325,7 +325,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "2.16 (as of 2022) [ 9 ]",

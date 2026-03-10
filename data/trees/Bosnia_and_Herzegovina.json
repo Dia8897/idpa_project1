@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2026 estimate",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "27.1 [ 13 ] low inequality",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.804 [ 14 ] very high ( 74th )",
@@ -142,7 +142,7 @@
         ]
       },
       {
-        "label": "religion_2013_census__6_",
+        "label": "religion_census",
         "children": [
           {
             "label": "51.3% Islam 46.1% Christianity 30.7% Eastern Orthodox 15.4% Catholicism 2.60% Others",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "_2013_census",
+        "label": "census",
         "children": [
           {
             "label": "3,531,159 [ 5 ]",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "2,904,256 [ 11 ] ( 137th )",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_austrohungarian_conquest_and_1908_annexation",
+        "label": "austrohungarian_conquest_and_annexation",
         "children": [
           {
             "label": "1878",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_banate_of_bosnia",
+        "label": "banate_of_bosnia",
         "children": [
           {
             "label": "1154",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_chairman_of_the_presidency",
+        "label": "chairman_of_the_presidency",
         "children": [
           {
             "label": "Željko Komšić",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_chairwoman_of_the_council_of_ministers",
+        "label": "chairwoman_of_the_council_of_ministers",
         "children": [
           {
             "label": "Borjana Krišto",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_creation_of_yugoslavia",
+        "label": "creation_of_yugoslavia",
         "children": [
           {
             "label": "1 December 1918",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_dayton_agreement",
+        "label": "dayton_agreement",
         "children": [
           {
             "label": "14 December 1995",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "61/km 2 (158.0/sq mi) ( 156th )",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_early_medieval_bosnia",
+        "label": "early_medieval_bosnia",
         "children": [
           {
             "label": "9th century",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_high_representative",
+        "label": "high_representative",
         "children": [
           {
             "label": "Christian Schmidt [ a ]",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_independence_from_yugoslavia",
+        "label": "independence_from_yugoslavia",
         "children": [
           {
             "label": "3 March 1992",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_kingdom_of_bosnia",
+        "label": "kingdom_of_bosnia",
         "children": [
           {
             "label": "1377",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Representatives",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_members_of_the_presidency",
+        "label": "members_of_the_presidency",
         "children": [
           {
             "label": "Denis Bećirović Željka Cvijanović",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_ottoman_conquest",
+        "label": "ottoman_conquest",
         "children": [
           {
             "label": "1463",
@@ -304,7 +304,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$23,930 [ 12 ] ( 84th )",
@@ -317,7 +317,7 @@
         ]
       },
       {
-        "label": "_sr_bosnia_and_herzegovina_within_sfr_yugoslavia",
+        "label": "sr_bosnia_and_herzegovina_within_sfr_yugoslavia",
         "children": [
           {
             "label": "29 November 1945",
@@ -326,7 +326,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +02 ( CEST )",
@@ -335,7 +335,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "51,209 [ 10 ] km 2 (19,772 sq mi) ( 125th )",
@@ -352,7 +352,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "House of Peoples",
@@ -361,7 +361,7 @@
         ]
       },
       {
-        "label": "_washington_agreement",
+        "label": "washington_agreement",
         "children": [
           {
             "label": "18 March 1994",
@@ -370,7 +370,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.4%",
@@ -379,7 +379,7 @@
         ]
       },
       {
-        "label": "_zavnobih",
+        "label": "zavnobih",
         "children": [
           {
             "label": "25 November 1943",

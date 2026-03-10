@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Togolese",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2015",
+        "label": "gini",
         "children": [
           {
             "label": "43.1 [ 12 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.571 [ 13 ] medium ( 161st )",
@@ -164,10 +164,10 @@
         ]
       },
       {
-        "label": "religion_2020",
+        "label": "religion",
         "children": [
           {
-            "label": "47.8% Christianity 33.0% traditional faiths 18.4% Islam 0.5% Baháʼí faith 0.3% others / none [ 3 ]",
+            "label": "50% Christianity 33% traditional faiths 16% Islam 1% Baháʼí faith [ 3 ]",
             "children": []
           }
         ]
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_2022_census",
+        "label": "census",
         "children": [
           {
             "label": "8,095,498 [ 7 ]",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "9,583,381 [ 6 ] ( 101st )",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_admission_to_the_uno",
+        "label": "admission_to_the_uno",
         "children": [
           {
             "label": "20 September 1960",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "6 May 2024",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "125.9/km 2 (326.1/sq mi)",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_french_togoland",
+        "label": "french_togoland",
         "children": [
           {
             "label": "27 August 1914",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_german_togoland",
+        "label": "german_togoland",
         "children": [
           {
             "label": "5 July 1884",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_independence_from_france",
+        "label": "independence_from_france",
         "children": [
           {
             "label": "27 April 1960",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "National Assembly",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$3,470 [ 9 ] ( 166th )",
@@ -285,7 +285,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Jean-Lucien Savi de Tové",
@@ -294,7 +294,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Faure Gnassingbé",
@@ -303,7 +303,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "56,785 [ 4 ] [ 5 ] km 2 (21,925 sq mi) ( 123rd )",
@@ -320,7 +320,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -329,7 +329,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "4.2",

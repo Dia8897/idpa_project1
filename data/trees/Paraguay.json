@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Paraguayan",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2026 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "44.4 [ 7 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.756 [ 8 ] high ( 99th )",
@@ -142,7 +142,7 @@
         ]
       },
       {
-        "label": "official_languages__1___2_",
+        "label": "official_languages",
         "children": [
           {
             "label": "Spanish Guarani",
@@ -151,7 +151,7 @@
         ]
       },
       {
-        "label": "religion_2020__3_",
+        "label": "religion",
         "children": [
           {
             "label": "95.5% Christianity 87.4% Catholicism 8.1% other Christian 4.1% no religion 0.4% other",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "_2022_census",
+        "label": "census",
         "children": [
           {
             "label": "6,109,903 [ 5 ]",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "6,413,627 [ 4 ] ( 113th )",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "20 June 1992",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_declared",
+        "label": "declared",
         "children": [
           {
             "label": "14 May 1811",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "39/sq mi (15.1/km 2 ) ( 223rd )",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Chamber of Deputies",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$22,462 [ 6 ] ( 84th )",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Santiago Peña",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_president_of_the_chamber_of_deputies",
+        "label": "president_of_the_chamber_of_deputies",
         "children": [
           {
             "label": "Raul Latorre",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_president_of_the_senate",
+        "label": "president_of_the_senate",
         "children": [
           {
             "label": "Silvio Ovelar",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_president_of_the_supreme_court",
+        "label": "president_of_the_supreme_court",
         "children": [
           {
             "label": "César Diesel",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_recognized",
+        "label": "recognized",
         "children": [
           {
             "label": "25 November 1842",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "406,752 km 2 (157,048 sq mi) ( 59th )",
@@ -298,7 +298,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -307,7 +307,7 @@
         ]
       },
       {
-        "label": "_vice_president",
+        "label": "vice_president",
         "children": [
           {
             "label": "Pedro Alliana",
@@ -316,7 +316,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "2.6",

@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Burundian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2020",
+        "label": "gini",
         "children": [
           {
             "label": "37.5 [ 10 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.439 [ 11 ] low ( 187th )",
@@ -154,7 +154,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Kirundi • French • English [ 1 ]",
+            "label": "Kirundi French English [ 1 ]",
             "children": []
           }
         ]
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "religion_2020__2_",
+        "label": "religion",
         "children": [
           {
             "label": "93.4% Christianity 63.7% Catholicism 25.2% Protestantism 4.5% other Christian 4.3% traditional faiths 2.1% Islam 0.2% other / none",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "14,151,540 [ 8 ] ( 78th )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_burundian_civil_war",
+        "label": "burundian_civil_war",
         "children": [
           {
             "label": "21 October 1993 – 15 May 2005",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "17 May 2018",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "565/km 2 (1,463.3/sq mi) ( 25th )",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_independence_from_belgium",
+        "label": "independence_from_belgium",
         "children": [
           {
             "label": "1 July 1962",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_kingdom_of_urundi__5_",
+        "label": "kingdom_of_urundi",
         "children": [
           {
             "label": "1680–1966",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "National Assembly",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_part_of_german_east_africa",
+        "label": "part_of_german_east_africa",
         "children": [
           {
             "label": "1890–1916",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_part_of_ruandaurundi",
+        "label": "part_of_ruandaurundi",
         "children": [
           {
             "label": "1916–1962",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$1,020 [ 9 ] ( 185th )",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Évariste Ndayishimiye [ 4 ]",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Nestor Ntahontuye",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_republic",
+        "label": "republic",
         "children": [
           {
             "label": "28 November 1966",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "27,834 km 2 (10,747 sq mi) [ 7 ] ( 142nd )",
@@ -325,7 +325,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -334,7 +334,7 @@
         ]
       },
       {
-        "label": "_vice_president",
+        "label": "vice_president",
         "children": [
           {
             "label": "Prosper Bazombanza",
@@ -343,7 +343,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "10 [ 6 ]",

@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Mozambican",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2017__1_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "99.0% African [ a ] 0.8% Mestiço 0.1% White 0.1% other [ b ]",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2019",
+        "label": "gini",
         "children": [
           {
             "label": "50.4 [ 10 ] high inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.493 [ 11 ] low ( 183rd )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2017__2_",
+        "label": "religion",
         "children": [
           {
             "label": "62.0% Christianity 19.1% Islam 13.5% no religion 4.3% other [ c ] 1.2% unknown",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "34,881,007 [ 8 ] ( 45th )",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_civil_war",
+        "label": "civil_war",
         "children": [
           {
             "label": "1977–1992",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "21 December 2004",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "43.5/km 2 (112.7/sq mi) ( 176th )",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_granted",
+        "label": "granted",
         "children": [
           {
             "label": "25 June 1975",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$1,730 [ 9 ] ( 182nd )",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Daniel Chapo",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Maria Benvinda Levy",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "801,590 km 2 (309,500 sq mi) ( 35th )",
@@ -271,7 +271,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "2.2",

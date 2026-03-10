@@ -4,7 +4,7 @@
     "label": "country",
     "children": [
       {
-        "label": "afrikaans_",
+        "label": "afrikaans",
         "children": [
           {
             "label": "Republiek van Namibië [ 1 ]",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Namibian",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2023__10_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "93.2% Indigenous African [ A ] 3.6% Coloured and Basters 1.8% White 1.4% Asian / other",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "german_",
+        "label": "german",
         "children": [
           {
             "label": "Republik Namibia [ 2 ]",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "gini_2015",
+        "label": "gini",
         "children": [
           {
             "label": "59.1 [ 15 ] high inequality",
@@ -112,7 +112,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.665 [ 16 ] medium ( 136th )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "khoekhoegowab_",
+        "label": "khoekhoegowab",
         "children": [
           {
             "label": "Republiki Namibiab dib [ 3 ]",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "oshiwambo_",
+        "label": "oshiwambo",
         "children": [
           {
             "label": "Orepublika yaNamibia [ 4 ]",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "otjiherero_",
+        "label": "otjiherero",
         "children": [
           {
             "label": "Orepublika yaNamibia [ 5 ]",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "religion_2023__11___b_",
+        "label": "religion",
         "children": [
           {
             "label": "87.9% Christianity 43.7% Lutheranism 22.8% Catholicism 17.0% Anglicanism 4.4% other Christian 10.5% other 1.6% no religion",
@@ -232,16 +232,7 @@
         ]
       },
       {
-        "label": "republic_of_namibia_name_in_national_languages_afrikaans__republiek_van_namibi__1__german__republik_namibia__2__khoekhoegowab__republiki_namibiab_dib__3__oshiwambo__orepublika_yanamibia__4__otjiherero__orepublika_yanamibia__5__rukwangali__republika_zanamibia__6__setswana__rephaboliki_ya_namibia__7__silozi__namibia_ye_lukuluhile__8_",
-        "children": [
-          {
-            "label": "Republiek van Namibië [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "rukwangali_",
+        "label": "rukwangali",
         "children": [
           {
             "label": "Republika zaNamibia [ 6 ]",
@@ -250,7 +241,7 @@
         ]
       },
       {
-        "label": "setswana_",
+        "label": "setswana",
         "children": [
           {
             "label": "Rephaboliki ya Namibia [ 7 ]",
@@ -259,7 +250,7 @@
         ]
       },
       {
-        "label": "silozi_",
+        "label": "silozi",
         "children": [
           {
             "label": "Namibia ye Lukuluhile [ 8 ]",
@@ -277,7 +268,7 @@
         ]
       },
       {
-        "label": "_2025_census",
+        "label": "census",
         "children": [
           {
             "label": "3,022,401 [ 13 ] [ 10 ] ( 136th )",
@@ -286,7 +277,7 @@
         ]
       },
       {
-        "label": "_chief_justice",
+        "label": "chief_justice",
         "children": [
           {
             "label": "Peter Shivute",
@@ -295,7 +286,7 @@
         ]
       },
       {
-        "label": "_constitution",
+        "label": "constitution",
         "children": [
           {
             "label": "9 February 1990",
@@ -304,7 +295,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "3.7/km 2 (9.6/sq mi)",
@@ -313,7 +304,7 @@
         ]
       },
       {
-        "label": "_deputy_prime_minister",
+        "label": "deputy_prime_minister",
         "children": [
           {
             "label": "Vacant",
@@ -322,7 +313,7 @@
         ]
       },
       {
-        "label": "_independence",
+        "label": "independence",
         "children": [
           {
             "label": "21 March 1990",
@@ -331,7 +322,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "National Assembly",
@@ -340,7 +331,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$12,370 [ 14 ] ( 117th )",
@@ -353,7 +344,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Netumbo Nandi-Ndaitwah",
@@ -362,7 +353,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Elijah Ngurare",
@@ -371,7 +362,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "825,615 km 2 (318,772 sq mi) ( 34th )",
@@ -388,7 +379,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "National Council",
@@ -397,7 +388,7 @@
         ]
       },
       {
-        "label": "_vice_president",
+        "label": "vice_president",
         "children": [
           {
             "label": "Lucia Witbooi",
@@ -406,7 +397,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "Negligible",

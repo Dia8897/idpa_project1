@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "I-Kiribati",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2020_census",
+        "label": "ethnic_groups_census",
         "children": [
           {
             "label": "95.7% Gilbertese 4.3% other [ 2 ]",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2019",
+        "label": "gini",
         "children": [
           {
             "label": "27.8 [ 7 ] low inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.644 [ 8 ] medium ( 140th )",
@@ -147,7 +147,7 @@
         ]
       },
       {
-        "label": "religion_2020_census",
+        "label": "religion_census",
         "children": [
           {
             "label": "96.2% Christianity 58.9% Catholic Church 21.2% Uniting Church 16.1% other Christian 2.1% Bahá'í Faith 1.7% other / none [ 2 ]",
@@ -165,7 +165,7 @@
         ]
       },
       {
-        "label": "_2024__5__estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "116,545 ( 192nd )",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2024_census",
+        "label": "census",
         "children": [
           {
             "label": "119,438 [ 4 ]",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "149.64/km 2 (387.6/sq mi)",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_granted",
+        "label": "granted",
         "children": [
           {
             "label": "12 July 1979",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$2,381 [ 6 ]",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Taneti Maamau",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_speaker_of_the_house_of_assembly",
+        "label": "speaker_of_the_house_of_assembly",
         "children": [
           {
             "label": "Willie Tokataake",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "811.19 [ 3 ] km 2 (313.20 sq mi) ( 172nd )",
@@ -249,7 +249,7 @@
         ]
       },
       {
-        "label": "_treaty_of_tarawa",
+        "label": "treaty_of_tarawa",
         "children": [
           {
             "label": "20 September 1979",
@@ -258,7 +258,7 @@
         ]
       },
       {
-        "label": "_vicepresident",
+        "label": "vicepresident",
         "children": [
           {
             "label": "Teuea Toatu",

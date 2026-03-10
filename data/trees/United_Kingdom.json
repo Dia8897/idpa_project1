@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups__20212022___c___4___5___6_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "83.0% White 8.6% Asian 3.7% Black 2.7% Mixed 2.0% other",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2021",
+        "label": "gini",
         "children": [
           {
             "label": "35.4 [ 18 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.946 [ 19 ] very high ( 13th )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "regional_and_minority_languages__b_",
+        "label": "regional_and_minority_languages",
         "children": [
           {
             "label": "Scots Ulster Scots Welsh Cornish Scottish Gaelic Irish British Sign Language",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "religion_20212022__c___7___8___6_",
+        "label": "religion",
         "children": [
           {
             "label": "46.5% Christianity 37.8% no religion 6.0% Islam 1.6% Hinduism 0.8% Sikhism 0.4% Buddhism 0.4% Judaism 0.6% other 5.9% not stated",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2021_census",
+        "label": "census",
         "children": [
           {
             "label": "66,940,559 [ c ] [ 14 ] [ 15 ] [ 16 ]",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "69,281,437 [ 13 ] ( 20th )",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_acts_of_union_of_england_and_scotland",
+        "label": "acts_of_union_of_england_and_scotland",
         "children": [
           {
             "label": "1 May 1707",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_acts_of_union_of_great_britain_and_ireland",
+        "label": "acts_of_union_of_great_britain_and_ireland",
         "children": [
           {
             "label": "1 January 1801",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "285/km 2 (738.1/sq mi) [ 13 ] ( 48th )",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_irish_free_state_constitution_act",
+        "label": "irish_free_state_constitution_act",
         "children": [
           {
             "label": "6 December 1922",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_land__e_",
+        "label": "land",
         "children": [
           {
             "label": "242,741 km 2 (93,723 sq mi) [ 13 ]",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_laws_in_wales_acts",
+        "label": "laws_in_wales_acts",
         "children": [
           {
             "label": "1535 and 1542",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Commons",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Charles III",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$63,759 [ 17 ] ( 33rd )",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Keir Starmer",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +1 ( BST [ h ] )",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "$4.455 trillion [ 17 ] ( 10th )",
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "label": "_total__f_",
+        "label": "total",
         "children": [
           {
             "label": "244,376 km 2 (94,354 sq mi) [ 12 ] ( 78th )",
@@ -330,7 +330,7 @@
         ]
       },
       {
-        "label": "_treaty_of_union",
+        "label": "treaty_of_union",
         "children": [
           {
             "label": "22 July 1706",
@@ -339,7 +339,7 @@
         ]
       },
       {
-        "label": "_union_of_the_crowns",
+        "label": "union_of_the_crowns",
         "children": [
           {
             "label": "24 March 1603",
@@ -348,7 +348,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "House of Lords",

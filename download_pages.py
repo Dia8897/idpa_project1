@@ -1,6 +1,7 @@
 import csv
 import os
 import time
+
 import requests
 
 input_file = "data/countries.csv"
@@ -14,16 +15,18 @@ HEADERS = {
     "User-Agent": "LAU-IDPA-Project/1.0 (contact: your_email@example.com)"
 }
 
+
 def safe_filename(country: str) -> str:
     # keep it simple + Windows-safe
+    country = country.replace("\u2019", "'")
     return (
         country.replace(" ", "_")
-               .replace("/", "_")
-               .replace(":", "_")
-               .replace("’", "")
-               .replace("'", "")
+        .replace("/", "_")
+        .replace(":", "_")
+        .replace("'", "")
         + ".html"
     )
+
 
 with open(log_file, "w", encoding="utf-8") as log:
     with open(input_file, newline="", encoding="utf-8") as csvfile:
@@ -44,16 +47,17 @@ with open(log_file, "w", encoding="utf-8") as log:
                     time.sleep(1)
                     continue
 
-                # quick block detection
-                if "Please set a user-agent" in r.text or "robot policy" in r.text:
+                # Detect blocked pages from decoded bytes without trusting response text encoding.
+                probe = r.content.decode("utf-8", errors="ignore").lower()
+                if "please set a user-agent" in probe or "robot policy" in probe:
                     log.write(f"{country}\t{url}\tBLOCKED(User-Agent)\n")
                     print("  -> blocked (user-agent/robot policy)")
                     time.sleep(2)
                     continue
 
                 filepath = os.path.join(output_folder, safe_filename(country))
-                with open(filepath, "w", encoding="utf-8") as f:
-                    f.write(r.text)
+                with open(filepath, "wb") as f:
+                    f.write(r.content)
 
             except Exception as e:
                 log.write(f"{country}\t{url}\tERROR {repr(e)}\n")

@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Antiguan and Barbudan",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2011__3__",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "87.3% African 4.7% Multiracial 2.8% Hispanic 1.7% European 1.1% East Indian 0.7% Syrian or Lebanese 1.8% other",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.851 [ 7 ] very high ( 53rd )",
@@ -151,7 +151,7 @@
         ]
       },
       {
-        "label": "religion_2020__4__",
+        "label": "religion",
         "children": [
           {
             "label": "92.7% Christianity 66.6% Protestantism 26.1% other Christian 3.6% Rastafari 1.9% no religion 1.1% Baháʼí Faith 0.7% other",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2011_census",
+        "label": "census",
         "children": [
           {
             "label": "84,816",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2026_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "106,365 [ 5 ] ( 182nd )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_associated_state",
+        "label": "associated_state",
         "children": [
           {
             "label": "27 February 1967",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "186/km 2 (481.7/sq mi)",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_governorgeneral",
+        "label": "governorgeneral",
         "children": [
           {
             "label": "Sir Rodney Williams",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_independence",
+        "label": "independence",
         "children": [
           {
             "label": "1 November 1981",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Representatives",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Charles III",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$31,781 [ 6 ] ( 66th )",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Gaston Browne",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_redonda",
+        "label": "redonda",
         "children": [
           {
             "label": "26 March 1872",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "440 km 2 (170 sq mi) ( 182nd )",
@@ -298,7 +298,7 @@
         ]
       },
       {
-        "label": "_union",
+        "label": "union",
         "children": [
           {
             "label": "1 August 1860",
@@ -307,7 +307,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -316,7 +316,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "negligible",

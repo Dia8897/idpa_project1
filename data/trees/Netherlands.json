@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "demonyms",
+        "label": "demonym_s",
         "children": [
           {
             "label": "Dutch",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2024",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "72.0% Dutch [ d ] 9.2% other European 2.5% Turkish 2.3% Moroccan 2.0% Indonesian 2.0% Surinamese 1.1% Dutch Caribbean 8.9% other [ 3 ]",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2026 estimate",
@@ -112,7 +112,7 @@
         ]
       },
       {
-        "label": "gini_2021",
+        "label": "gini",
         "children": [
           {
             "label": "26.4 [ 9 ] low",
@@ -139,7 +139,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.955 [ 10 ] very high · 8th",
@@ -148,7 +148,7 @@
         ]
       },
       {
-        "label": "highest_elevation__mount_scenery_",
+        "label": "highest_elevation_mount_scenery",
         "children": [
           {
             "label": "870 m (2,850 ft)",
@@ -218,15 +218,6 @@
         ]
       },
       {
-        "label": "netherlands_nederland__dutch__in_2_regional_languages__a__west_frisian__nederln_papiamentu__hulanda",
-        "children": [
-          {
-            "label": "Nederlân",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "official_languages",
         "children": [
           {
@@ -236,7 +227,7 @@
         ]
       },
       {
-        "label": "papiamentu_",
+        "label": "papiamentu",
         "children": [
           {
             "label": "Hulanda",
@@ -245,7 +236,7 @@
         ]
       },
       {
-        "label": "peace_of_mnster",
+        "label": "peace_of_munster",
         "children": [
           {
             "label": "30 January 1648",
@@ -272,7 +263,7 @@
         ]
       },
       {
-        "label": "religion_2024__4_",
+        "label": "religion",
         "children": [
           {
             "label": "56% no religion 31% Christianity 17% Catholicism 14% Protestantism 6% Islam 7% other",
@@ -308,7 +299,7 @@
         ]
       },
       {
-        "label": "west_frisian_",
+        "label": "west_frisian",
         "children": [
           {
             "label": "Nederlân",
@@ -317,7 +308,7 @@
         ]
       },
       {
-        "label": "_2025_census",
+        "label": "census",
         "children": [
           {
             "label": "18,044,027 [ 7 ] ( 69th )",
@@ -326,7 +317,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "541/km 2 (1,401.2/sq mi) ( 26th )",
@@ -335,7 +326,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Representatives",
@@ -344,7 +335,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Willem-Alexander",
@@ -353,7 +344,7 @@
         ]
       },
       {
-        "label": "_netherlands_constituency",
+        "label": "netherlands_constituency",
         "children": [
           {
             "label": "31 seats",
@@ -362,7 +353,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$87,173 [ 8 ] ( 10th )",
@@ -375,7 +366,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Rob Jetten",
@@ -384,7 +375,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC+02:00 ( CEST ) UTC−04:00 (AST)",
@@ -393,7 +384,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "41,865 [ 5 ] [ e ] km 2 (16,164 sq mi) ( 134th )",
@@ -410,7 +401,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -419,7 +410,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "18.41 [ 6 ]",

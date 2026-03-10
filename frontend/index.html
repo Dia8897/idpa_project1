@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Country Tree + Transformation Visualizer</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>Country Tree + Transformation Visualizer</h1>
+    <p>Explore country data as node trees, then inspect exact transformation steps between two countries.</p>
+  </header>
+
+  <main class="layout">
+    <section class="panel">
+      <h2>Country Inspector</h2>
+      <div class="controls">
+        <label for="countrySelect">Country</label>
+        <select id="countrySelect"></select>
+      </div>
+      <div class="split">
+        <article class="card">
+          <h3>Node Tree</h3>
+          <div id="countryGraph" class="graph scroll"></div>
+          <hr />
+          <h3>Tree List View</h3>
+          <div id="countryTree" class="scroll"></div>
+        </article>
+        <div class="splitter" role="separator" aria-label="Resize panels" aria-orientation="vertical"></div>
+        <article class="card">
+          <h3>Flattened Values</h3>
+          <div id="countryTable" class="scroll"></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Transformation Visualizer</h2>
+      <div class="controls compare-grid">
+        <div>
+          <label for="sourceSelect">Source</label>
+          <select id="sourceSelect"></select>
+        </div>
+        <div>
+          <label for="targetSelect">Target</label>
+          <select id="targetSelect"></select>
+        </div>
+        <div class="action-col">
+          <button id="compareBtn" type="button">Generate Transformation</button>
+        </div>
+      </div>
+      <p class="hint">Execution order: deletes first, then inserts, then updates.</p>
+      <div class="legend">
+        <span><i class="lg lg-del"></i>Deleted from source</span>
+        <span><i class="lg lg-ins"></i>Inserted in target</span>
+        <span><i class="lg lg-upd"></i>Updated in both</span>
+      </div>
+
+      <div class="stats" id="stats"></div>
+
+      <div class="split">
+        <article class="card">
+          <h3>Source Node Tree</h3>
+          <div id="sourceGraph" class="graph scroll"></div>
+        </article>
+        <div class="splitter" role="separator" aria-label="Resize panels" aria-orientation="vertical"></div>
+        <article class="card">
+          <h3>Target Node Tree</h3>
+          <div id="targetGraph" class="graph scroll"></div>
+        </article>
+      </div>
+
+      <div class="phases">
+        <article class="card">
+          <h3>Phase 1: Delete Source-Only</h3>
+          <div id="delOps" class="scroll"></div>
+        </article>
+        <article class="card">
+          <h3>Phase 2: Insert Target-Only</h3>
+          <div id="insOps" class="scroll"></div>
+        </article>
+        <article class="card">
+          <h3>Phase 3: Update Shared</h3>
+          <div id="updOps" class="scroll"></div>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>

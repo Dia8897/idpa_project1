@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Mexican",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "40.2 [ 7 ] medium inequality",
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.789 [ 8 ] high ( 81st )",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "religion_2020__1_",
+        "label": "religion",
         "children": [
           {
             "label": "88.9% Christianity 77.7% Catholicism 11.2% Protestantism 8.1% Irreligion 2.4% other religion 0.5% prefer not to say",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2020_census",
+        "label": "census",
         "children": [
           {
             "label": "126,014,024 [ 5 ]",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "131,946,900 [ 4 ] ( 10th )",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_chief_justice",
+        "label": "chief_justice",
         "children": [
           {
             "label": "Hugo Aguilar Ortiz",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "5 February 1917",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_declared",
+        "label": "declared",
         "children": [
           {
             "label": "27 September 1821",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "61/km 2 (158.0/sq mi) ( 142nd )",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_first_constitution",
+        "label": "first_constitution",
         "children": [
           {
             "label": "4 October 1824",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Chamber of Deputies",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$25,463 [ 6 ] ( 77th )",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Claudia Sheinbaum",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_president_of_the_chamber_of_deputies",
+        "label": "president_of_the_chamber_of_deputies",
         "children": [
           {
             "label": "Kenia López Rabadán",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_president_of_the_senate",
+        "label": "president_of_the_senate",
         "children": [
           {
             "label": "Laura Itzel Castillo",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_recognized",
+        "label": "recognized",
         "children": [
           {
             "label": "28 December 1836",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_second_constitution",
+        "label": "second_constitution",
         "children": [
           {
             "label": "5 February 1857",
@@ -317,7 +317,7 @@
         ]
       },
       {
-        "label": "_start_of_war_of_independence",
+        "label": "start_of_war_of_independence",
         "children": [
           {
             "label": "16 September 1810",
@@ -326,7 +326,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC −7 to −5 (varies)",
@@ -335,7 +335,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "1,972,550 km 2 (761,610 sq mi) ( 13th )",
@@ -352,7 +352,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -361,7 +361,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.58 (as of 2015) [ 3 ]",

@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Iranian",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -58,10 +58,10 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
-            "label": "35.9 [ 10 ] medium inequality",
+            "label": "35.9 [ 5 ] medium inequality",
             "children": []
           }
         ]
@@ -76,10 +76,10 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
-            "label": "0.799 [ 11 ] high ( 75th )",
+            "label": "0.799 [ 6 ] high ( 75th )",
             "children": []
           }
         ]
@@ -151,16 +151,16 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
-            "label": "92,417,681 [ 8 ] ( 17th )",
+            "label": "92,417,681 [ 3 ] ( 17th )",
             "children": []
           }
         ]
       },
       {
-        "label": "_achaemenid_empire",
+        "label": "achaemenid_empire",
         "children": [
           {
             "label": "550 BC",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "_afsharid_iran",
+        "label": "afsharid_iran",
         "children": [
           {
             "label": "22 January 1736",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_chief_justice",
+        "label": "chief_justice",
         "children": [
           {
             "label": "Gholam-Hossein Mohseni-Eje'i",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_constitution_amendment",
+        "label": "constitution_amendment",
         "children": [
           {
             "label": "28 July 1989",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_constitutional_revolution",
+        "label": "constitutional_revolution",
         "children": [
           {
             "label": "12 December 1905",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "3 December 1979",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "52/km 2 (134.7/sq mi) ( 163rd )",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_iranian_intermezzo",
+        "label": "iranian_intermezzo",
         "children": [
           {
             "label": "821",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_iranian_revolution",
+        "label": "iranian_revolution",
         "children": [
           {
             "label": "11 February 1979",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_median_kingdom",
+        "label": "median_kingdom",
         "children": [
           {
             "label": "c. 678 BC",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_pahlavi_iran",
+        "label": "pahlavi_iran",
         "children": [
           {
             "label": "15 December 1925",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_parthian_empire",
+        "label": "parthian_empire",
         "children": [
           {
             "label": "247 BC",
@@ -268,20 +268,20 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
-            "label": "$21,473 [ 9 ] ( 88th )",
+            "label": "$21,473 [ 4 ] ( 88th )",
             "children": []
           },
           {
-            "label": "$4,074 [ 9 ] ( 132nd )",
+            "label": "$4,074 [ 4 ] ( 132nd )",
             "children": []
           }
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Masoud Pezeshkian",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_qajar_iran",
+        "label": "qajar_iran",
         "children": [
           {
             "label": "20 March 1794",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_safavid_iran",
+        "label": "safavid_iran",
         "children": [
           {
             "label": "22 December 1501",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_sasanian_empire",
+        "label": "sasanian_empire",
         "children": [
           {
             "label": "224 AD",
@@ -317,7 +317,7 @@
         ]
       },
       {
-        "label": "_speaker_of_the_assembly",
+        "label": "speaker_of_the_assembly",
         "children": [
           {
             "label": "Mohammad Bagher Ghalibaf",
@@ -326,33 +326,33 @@
         ]
       },
       {
-        "label": "_supreme_leader",
+        "label": "supreme_leader",
         "children": [
           {
-            "label": "Vacant [ b ]",
+            "label": "Mojtaba Khamenei",
             "children": []
           }
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "1,648,195 km 2 (636,372 sq mi) ( 17th )",
             "children": []
           },
           {
-            "label": "$1.879 trillion [ 9 ] ( 22nd )",
+            "label": "$1.879 trillion [ 4 ] ( 22nd )",
             "children": []
           },
           {
-            "label": "$356.513 billion [ 9 ] ( 42nd )",
+            "label": "$356.513 billion [ 4 ] ( 42nd )",
             "children": []
           }
         ]
       },
       {
-        "label": "_vice_president",
+        "label": "vice_president",
         "children": [
           {
             "label": "Mohammad Reza Aref",
@@ -361,16 +361,16 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
-            "label": "1.63 (as of 2015) [ 7 ]",
+            "label": "1.63 (as of 2015) [ 2 ]",
             "children": []
           }
         ]
       },
       {
-        "label": "_zand_iran",
+        "label": "zand_iran",
         "children": [
           {
             "label": "1751",

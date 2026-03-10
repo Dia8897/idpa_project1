@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Fijian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2016__5_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "56.8% Indigenous Fijians 37.5% Indo-Fijians 1.2% Rotumans 4.5% others",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2019",
+        "label": "gini",
         "children": [
           {
             "label": "30.7 [ 10 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.731 [ 11 ] high ( 111th )",
@@ -147,10 +147,10 @@
         ]
       },
       {
-        "label": "official_languages",
+        "label": "recognised_national_languages",
         "children": [
           {
-            "label": "Fijian [ 3 ] English [ 4 ]",
+            "label": "Fijian [ 3 ] English [ 4 ] Standard Hindi Fiji Hindi",
             "children": []
           }
         ]
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_2017_census",
+        "label": "census",
         "children": [
           {
             "label": "884,887 [ 8 ]",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_2018_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "926,276 [ 7 ] ( 161st )",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_chief_justice",
+        "label": "chief_justice",
         "children": [
           {
             "label": "Salesi Temo",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "6 September 2013",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "46.4/km 2 (120.2/sq mi) ( 148th )",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_deputy_prime_minister",
+        "label": "deputy_prime_minister",
         "children": [
           {
             "label": "Viliame Gavoka",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_independence",
+        "label": "independence",
         "children": [
           {
             "label": "10 October 1970",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_parliament_speaker",
+        "label": "parliament_speaker",
         "children": [
           {
             "label": "Filimone Jitoko",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$16,563 [ 9 ] ( 102nd )",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Naiqama Lalabalavu",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Sitiveni Rabuka",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_republic",
+        "label": "republic",
         "children": [
           {
             "label": "6 October 1987",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "18,274 km 2 (7,056 sq mi) ( 151st )",
@@ -312,7 +312,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "negligible",

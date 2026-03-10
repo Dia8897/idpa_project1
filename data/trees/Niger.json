@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2006__3_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "53.1% Hausa 21.2% Zarma and Songhay 11.0% Tuareg 6.5% Fulani 5.9% Kanuri 0.8% Gurma 0.4% Toubou 0.4% Arab 0.9% others",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2021",
+        "label": "gini",
         "children": [
           {
             "label": "32.9 [ 9 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.419 [ 10 ] low ( 188th )",
@@ -142,7 +142,7 @@
         ]
       },
       {
-        "label": "national_languages__2_",
+        "label": "national_languages",
         "children": [
           {
             "label": "Arabic Buduma Fulfulde Gourmanchéma Kanuri Songhai Tamasheq Tassawaq Tebu Zarma",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2012__4_",
+        "label": "religion",
         "children": [
           {
             "label": "99.3% Islam 0.3% Christianity 0.2% Traditional faiths 0.1% irreligion",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2023_coup_dtat",
+        "label": "coup_detat",
         "children": [
           {
             "label": "26 July 2023",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "26,342,784 [ 7 ] ( 56th )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_2025_transitional_charter",
+        "label": "transitional_charter",
         "children": [
           {
             "label": "26 March 2025 [ 6 ]",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_declared",
+        "label": "declared",
         "children": [
           {
             "label": "3 August 1960",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "21/km 2 (54.4/sq mi) ( 204th )",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$2,100 [ 8 ] ( 176th )",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Abdourahamane Tchiani",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_president_of_the_state_court_of_niger",
+        "label": "president_of_the_state_court_of_niger",
         "children": [
           {
             "label": "Abdou Dan Galadima",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Ali Lamine Zeine",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_republic_proclaimed",
+        "label": "republic_proclaimed",
         "children": [
           {
             "label": "18 December 1958",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "1,267,000 km 2 (489,000 sq mi) ( 21st )",
@@ -289,7 +289,7 @@
         ]
       },
       {
-        "label": "_vice_president",
+        "label": "vice_president",
         "children": [
           {
             "label": "Salifou Modi",
@@ -298,7 +298,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.02",

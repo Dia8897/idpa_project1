@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Romanian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2021__1_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "89.3% Romanians 6.0% Hungarians 3.4% Roma 1.2% others",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2026 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2025",
+        "label": "gini",
         "children": [
           {
             "label": "27.3 [ 7 ] low inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.845 [ 8 ] very high ( 55th )",
@@ -156,7 +156,7 @@
         ]
       },
       {
-        "label": "religion_2021__2_",
+        "label": "religion",
         "children": [
           {
             "label": "84.7% Christianity 73.6% Romanian Orthodoxy 6.4% Protestantism 4.4% Catholicism 0.2% other Christian 0.8% no religion 0.4% other 13.9% unanswered",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2021_census",
+        "label": "census",
         "children": [
           {
             "label": "19,053,815 [ 5 ]",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "19,043,151 [ 4 ] ( 65th )",
@@ -192,25 +192,7 @@
         ]
       },
       {
-        "label": "_communist_romania",
-        "children": [
-          {
-            "label": "1947–1989",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "_dacia",
-        "children": [
-          {
-            "label": "Antiquity",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "83/km 2 (215.0/sq mi) ( 132th )",
@@ -219,7 +201,7 @@
         ]
       },
       {
-        "label": "_great_union",
+        "label": "great_union",
         "children": [
           {
             "label": "1 December 1918",
@@ -228,16 +210,16 @@
         ]
       },
       {
-        "label": "_independence_from_the_ottoman_empire",
+        "label": "independence_from_the_ottoman_empire",
         "children": [
           {
-            "label": "9 May 1877",
+            "label": "10 May 1877",
             "children": []
           }
         ]
       },
       {
-        "label": "_kingdom_of_romania",
+        "label": "kingdom_of_romania",
         "children": [
           {
             "label": "1881–1947",
@@ -246,7 +228,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Chamber of Deputies",
@@ -255,7 +237,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$50,726 [ 6 ] ( 44th )",
@@ -268,7 +250,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Nicușor Dan",
@@ -277,7 +259,7 @@
         ]
       },
       {
-        "label": "_president_of_the_chamber_of_deputies",
+        "label": "president_of_the_chamber_of_deputies",
         "children": [
           {
             "label": "Sorin Grindeanu",
@@ -286,7 +268,7 @@
         ]
       },
       {
-        "label": "_president_of_the_senate",
+        "label": "president_of_the_senate",
         "children": [
           {
             "label": "Mircea Abrudean",
@@ -295,7 +277,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Ilie Bolojan",
@@ -304,7 +286,7 @@
         ]
       },
       {
-        "label": "_principality_of_moldavia",
+        "label": "principality_of_moldavia",
         "children": [
           {
             "label": "1346–1862",
@@ -313,7 +295,7 @@
         ]
       },
       {
-        "label": "_principality_of_wallachia",
+        "label": "principality_of_wallachia",
         "children": [
           {
             "label": "1330–1862",
@@ -322,7 +304,7 @@
         ]
       },
       {
-        "label": "_republic_established",
+        "label": "republic_established",
         "children": [
           {
             "label": "8 December 1991",
@@ -331,16 +313,16 @@
         ]
       },
       {
-        "label": "_roman_dacia",
+        "label": "socialist_romania",
         "children": [
           {
-            "label": "106–271 AD",
+            "label": "1947–1989",
             "children": []
           }
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +3 ( EEST )",
@@ -349,7 +331,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "238,397 km 2 (92,046 sq mi) [ 3 ] ( 81st )",
@@ -366,7 +348,7 @@
         ]
       },
       {
-        "label": "_united_principalities",
+        "label": "united_principalities",
         "children": [
           {
             "label": "1859–1881",
@@ -375,7 +357,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -384,7 +366,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "3",

@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups__2023___4___n_3_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "67.8% European 19.6% Māori 17.3% Asian 8.9% Pacific peoples 1.9% ME / LA / African 1.1% other",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "30.0 [ 11 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.938 [ 12 ] very high ( 17th )",
@@ -165,7 +165,7 @@
         ]
       },
       {
-        "label": "religion_2023__5_",
+        "label": "religion",
         "children": [
           {
             "label": "51.6% no religion 32.3% Christianity [ n 4 ] 2.9% Hinduism 6.3% other 6.9% undeclared",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_2023_census",
+        "label": "census",
         "children": [
           {
             "label": "4,993,923 [ 4 ]",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_constitution_act_1986",
+        "label": "constitution_act",
         "children": [
           {
             "label": "1 January 1987",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "19.9/km 2 (51.5/sq mi) ( 204th )",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_dominion",
+        "label": "dominion",
         "children": [
           {
             "label": "26 September 1907",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_governorgeneral",
+        "label": "governorgeneral",
         "children": [
           {
             "label": "Cindy Kiro",
@@ -228,16 +228,16 @@
         ]
       },
       {
-        "label": "_march_2026_estimate",
+        "label": "march_estimate",
         "children": [
           {
-            "label": "5,343,310 [ 9 ] ( 121st )",
+            "label": "5,343,650 [ 9 ] ( 121st )",
             "children": []
           }
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Charles III",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$55,450 [ 10 ] ( 36th )",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Christopher Luxon",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_responsible_government",
+        "label": "responsible_government",
         "children": [
           {
             "label": "7 May 1856",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_statute_of_westminster_adoption_act",
+        "label": "statute_of_westminster_adoption_act",
         "children": [
           {
             "label": "25 November 1947",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +13 ( NZDT [ n 7 ] )",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "263,310 [ 7 ] km 2 (101,660 sq mi) ( 75th )",
@@ -312,7 +312,7 @@
         ]
       },
       {
-        "label": "_treaty_of_waitangi__6_",
+        "label": "treaty_of_waitangi",
         "children": [
           {
             "label": "6 February 1840",
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.6 [ n 5 ]",

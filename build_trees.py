@@ -1,32 +1,67 @@
-import os, json, re
+import json
+import os
+import re
+import unicodedata
 
 INPUT_DIR = "data/infobox_json"
 OUTPUT_DIR = "data/trees"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# Keep this SMALL and only add mappings when you really need them
+# Keep this SMALL and only add mappings when you really need them.
 KEY_MAP = {
     "official_language": "official_languages",
     "official_languages": "official_languages",
+    "demonym": "demonyms",
+    "demonyms": "demonyms",
 }
 
+
+def _ascii_fold(text: str) -> str:
+    return (
+        unicodedata.normalize("NFKD", text)
+        .encode("ascii", "ignore")
+        .decode("ascii")
+    )
+
+
 def normalize_key(k: str) -> str:
-    k = k.strip().lower()
-    k = k.replace("\u2019", "'")  # curly apostrophe -> normal
-    k = re.sub(r"\s+", " ", k)
+    k = str(k).strip()
+    k = k.replace("\u2019", "'")
+    k = k.replace("\u00e2\u20ac\u00a2", " ")
+    k = k.replace("\u2022", " ")
+
+    # Drop citations and punctuation-heavy separators.
+    k = re.sub(r"\[[^\]]*\]", "", k)
+    k = k.replace("(", " ").replace(")", " ")
+    k = k.replace(":", " ").replace("/", " ")
+    k = re.sub(r"\s+", " ", k).strip().lower()
+
+    # Keep semantic category names stable across years.
+    k = re.sub(r"\b(19|20)\d{2}\b", "", k)
+    k = re.sub(r"\s+", " ", k).strip()
+
+    # Avoid giant synthetic labels from malformed/compound headers.
+    if "name in official languages" in k and len(k) > 80:
+        k = "official name"
+
+    k = _ascii_fold(k)
     k = k.replace(" ", "_")
-    k = re.sub(r"[^a-z0-9_]+", "", k)  # remove punctuation
+    k = re.sub(r"[^a-z0-9_]+", "", k)
+    k = re.sub(r"_+", "_", k).strip("_")
     return KEY_MAP.get(k, k)
 
+
 def normalize_value(v: str) -> str:
-    # keep as readable text, just cleanup spacing
+    # keep as readable text, just cleanup spacing and obvious decode artifacts
     v = str(v)
     v = v.replace("\u2019", "'")
     v = re.sub(r"\s+", " ", v).strip()
     return v
 
+
 def make_node(label: str, children=None):
     return {"label": label, "children": children or []}
+
 
 def add_value_children(parent, value):
     """
@@ -46,6 +81,7 @@ def add_value_children(parent, value):
 
     parent["children"].append(make_node(text))
 
+
 def infobox_to_tree(country_name: str, infobox: dict):
     root = make_node("country", [])
 
@@ -62,6 +98,7 @@ def infobox_to_tree(country_name: str, infobox: dict):
             root["children"].append(key_node)
 
     return root
+
 
 count = 0
 for fname in os.listdir(INPUT_DIR):

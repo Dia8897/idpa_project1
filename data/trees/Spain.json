@@ -4,7 +4,7 @@
     "label": "country",
     "children": [
       {
-        "label": "basque_",
+        "label": "basque",
         "children": [
           {
             "label": "Espainiako Erresuma",
@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "catalan__valencian_",
+        "label": "catalan_valencian",
         "children": [
           {
             "label": "Regne d'Espanya",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "galician_",
+        "label": "galician",
         "children": [
           {
             "label": "Reino de España",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "gini_2024",
+        "label": "gini",
         "children": [
           {
             "label": "31.2 [ 13 ] medium inequality",
@@ -112,7 +112,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.918 [ 14 ] very high ( 28th )",
@@ -164,15 +164,6 @@
         ]
       },
       {
-        "label": "kingdom_of_spain_reino_de_espaa_in_coofficial_languages__a__basque__espainiako_erresuma_catalan__valencian__regne_despanya_galician__reino_de_espaa_occitanaranese__reiaume_despanha",
-        "children": [
-          {
-            "label": "Espainiako Erresuma",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -182,7 +173,7 @@
         ]
       },
       {
-        "label": "nationality_2026__8_",
+        "label": "nationality",
         "children": [
           {
             "label": "85.4% Spanish 14.6% foreigners",
@@ -191,7 +182,7 @@
         ]
       },
       {
-        "label": "occitanaranese_",
+        "label": "occitan_aranese",
         "children": [
           {
             "label": "Reiaume d'Espanha",
@@ -209,7 +200,7 @@
         ]
       },
       {
-        "label": "religion_2025__9_",
+        "label": "religion",
         "children": [
           {
             "label": "58.6% Roman Catholicism 40% non-practicing Catholic 18.6% practicing Catholic 13.3% atheist 11.7% indifferent or irreligious 11.1% agnostic 3.6% other religion 1.7% unanswered",
@@ -227,7 +218,7 @@
         ]
       },
       {
-        "label": "_2026_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "49,570,725 [ 8 ] ( 31st )",
@@ -236,7 +227,7 @@
         ]
       },
       {
-        "label": "_centralised_state",
+        "label": "centralised_state",
         "children": [
           {
             "label": "9 June 1715",
@@ -245,7 +236,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "29 December 1978",
@@ -254,7 +245,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "98/km 2 (253.8/sq mi) ( 116th )",
@@ -263,7 +254,7 @@
         ]
       },
       {
-        "label": "_dynastic_union",
+        "label": "dynastic_union",
         "children": [
           {
             "label": "20 January 1479",
@@ -272,7 +263,7 @@
         ]
       },
       {
-        "label": "_first_constitution",
+        "label": "first_constitution",
         "children": [
           {
             "label": "19 March 1812",
@@ -281,7 +272,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Congress of Deputies",
@@ -290,7 +281,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Felipe VI",
@@ -299,7 +290,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$56,888 [ 12 ] ( 35th )",
@@ -312,7 +303,7 @@
         ]
       },
       {
-        "label": "_president_of_the_congress_of_deputies",
+        "label": "president_of_the_congress_of_deputies",
         "children": [
           {
             "label": "Francina Armengol",
@@ -321,7 +312,7 @@
         ]
       },
       {
-        "label": "_president_of_the_senate",
+        "label": "president_of_the_senate",
         "children": [
           {
             "label": "Pedro Rollán",
@@ -330,7 +321,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Pedro Sánchez",
@@ -339,7 +330,7 @@
         ]
       },
       {
-        "label": "_sole_sovereign",
+        "label": "sole_sovereign",
         "children": [
           {
             "label": "14 March 1516",
@@ -348,7 +339,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +1 to +2 ( WEST and CEST )",
@@ -357,7 +348,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "506,030 [ 10 ] km 2 (195,380 sq mi) ( 50th )",
@@ -374,7 +365,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -383,7 +374,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.89 [ 11 ]",

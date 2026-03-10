@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Moroccan",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2015",
+        "label": "gini",
         "children": [
           {
             "label": "40.3 [ 15 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.710 [ 16 ] high ( 120th )",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "religion_2020__3___6_",
+        "label": "religion",
         "children": [
           {
             "label": "99.68% Islam ( official ) 99.23% Sunni 0.45% Shia 0.3% Others 0.13% Agnostics 0.10% Baháʼís 0.09% Christians 0.01% Jews",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "spoken_languages_2024__2_",
+        "label": "spoken_languages",
         "children": [
           {
             "label": "92.7% Arabic 91.9% Moroccan Arabic 0.8% Hassaniya Arabic 24.8% Berber languages 14.2% Tashelhit 7.4% Tamazight 3.2% Tarifit",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "__alawi_dynasty_current_dynasty",
+        "label": "alawi_dynasty_current_dynasty",
         "children": [
           {
             "label": "1631",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_2024_census",
+        "label": "census",
         "children": [
           {
             "label": "36,828,330 [ 10 ]",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "37,493,183 [ 9 ] ( 38th )",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "79.0/km 2 (204.6/sq mi)",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_french_protectorate",
+        "label": "french_protectorate",
         "children": [
           {
             "label": "30 March 1912",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_idrisid_dynasty",
+        "label": "idrisid_dynasty",
         "children": [
           {
             "label": "788",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_independence",
+        "label": "independence",
         "children": [
           {
             "label": "2 March 1956",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_king",
+        "label": "king",
         "children": [
           {
             "label": "Mohammed VI",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Representatives",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$11,270 [ 12 ] ( 122nd )",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Aziz Akhannouch",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "446,550 km 2 (172,410 sq mi) [ b ] ( 57th )",
@@ -316,7 +316,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "House of Councillors",
@@ -325,7 +325,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.056 (250 km 2 )",

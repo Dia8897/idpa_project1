@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2020",
+        "label": "gini",
         "children": [
           {
             "label": "32.4 [ 13 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.958 [ 14 ] very high ( 7th )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion__2021___4_",
+        "label": "religion",
         "children": [
           {
             "label": "43.9% Christianity 38.9% no religion 3.2% Islam 2.7% Hinduism 2.4% Buddhism 1.7% other 7.2% unanswered [ N 3 ]",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2021_census",
+        "label": "census",
         "children": [
           {
             "label": "25,890,773 [ 11 ]",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2026_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "27,840,775 [ 10 ] ( 54th )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_australia_acts",
+        "label": "australia_acts",
         "children": [
           {
             "label": "3 March 1986",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_balfour_declaration",
+        "label": "balfour_declaration",
         "children": [
           {
             "label": "15 November 1926",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "3.7/km 2 (9.6/sq mi) ( 237th )",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_federation",
+        "label": "federation",
         "children": [
           {
             "label": "1 January 1901",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_governorgeneral",
+        "label": "governorgeneral",
         "children": [
           {
             "label": "Sam Mostyn",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Representatives",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Charles III",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$71,431 [ 12 ] ( 26th )",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Anthony Albanese",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_statute_of_westminster_adoption_act",
+        "label": "statute_of_westminster_adoption_act",
         "children": [
           {
             "label": "9 October 1942",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +10.5; +11 ( ACDT, AEDT [ N 5 ] )",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "7,688,287 km 2 (2,968,464 sq mi) [ 7 ] [ 8 ] [ 9 ] ( 6th )",
@@ -316,7 +316,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -325,7 +325,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.79 (2015) [ 7 ]",

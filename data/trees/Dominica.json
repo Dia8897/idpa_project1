@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2014__2__",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "75% African 19% multiracial 4% Kalinago 0.8% European or other 0.2% unspecified",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2018 estimate",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.761 [ 10 ] high ( 98th )",
@@ -151,7 +151,7 @@
         ]
       },
       {
-        "label": "religion_2020",
+        "label": "religion",
         "children": [
           {
             "label": "94.4% Christianity 3.0% folk religions 1.7% other 0.9% none [ 3 ]",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2011_census",
+        "label": "census",
         "children": [
           {
             "label": "71,293 [ 8 ]",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2021_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "72,412 [ 6 ] [ 7 ] ( 186th )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "105/km 2 (271.9/sq mi) ( 95th )",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$9,726 [ 9 ]",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Sylvanie Burton",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Roosevelt Skerrit",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_sovereignty_and_constitution",
+        "label": "sovereignty_and_constitution",
         "children": [
           {
             "label": "3 November 1978",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_speaker_of_the_house_of_assembly",
+        "label": "speaker_of_the_house_of_assembly",
         "children": [
           {
             "label": "Joseph Isaac",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "750 km 2 (290 sq mi) ( 174th )",
@@ -271,7 +271,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.6",
@@ -280,7 +280,7 @@
         ]
       },
       {
-        "label": "_west_indies_associated_states",
+        "label": "west_indies_associated_states",
         "children": [
           {
             "label": "1 March 1967",

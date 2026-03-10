@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2020",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "99.7% Basotho 0.3% others",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2017",
+        "label": "gini",
         "children": [
           {
             "label": "44.9 [ 4 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.550 [ 5 ] medium ( 167th )",
@@ -151,7 +151,7 @@
         ]
       },
       {
-        "label": "religion_2020__1_",
+        "label": "religion",
         "children": [
           {
             "label": "92.1% Christianity 6.6% traditional faiths 1.0% no religion 0.3% others",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "2,210,646 [ 2 ] ( 147th )",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_basutoland",
+        "label": "basutoland",
         "children": [
           {
             "label": "18 March 1884",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "68.1/km 2 (176.4/sq mi) ( 138th )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_independence_declared",
+        "label": "independence_declared",
         "children": [
           {
             "label": "4 October 1966",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "National Assembly",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Letsie III",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$3,234 [ 3 ] ( 164th )",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Sam Matekane",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "30,355 km 2 (11,720 sq mi) ( 137th )",
@@ -262,7 +262,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -271,7 +271,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "negligible",

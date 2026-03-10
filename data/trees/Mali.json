@@ -4,7 +4,7 @@
     "label": "country",
     "children": [
       {
-        "label": "bambara_",
+        "label": "bambara",
         "children": [
           {
             "label": "Mali ka Fasojamana / ߡߊ߬ߟߌ ߞߊ ߝߊߛߏߖߊߡߊߣߊ [ 1 ]",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Malian",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "fula_",
+        "label": "fula",
         "children": [
           {
             "label": "Republik bu Maali / 𞤈𞤫𞤨𞤵𞤦𞤤𞤭𞤳 𞤦𞤵 𞤃𞤢𞥄𞤤𞤭",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "gini_2010",
+        "label": "gini",
         "children": [
           {
             "label": "33.0 [ 12 ] medium inequality",
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "label": "hassaniya_",
+        "label": "hassaniya",
         "children": [
           {
             "label": "جُمْهُورِيَّةْ مَالِي ( Jumhūriyet Māli )",
@@ -112,7 +112,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.419 [ 13 ] low ( 188th )",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "religion_2021__7_",
+        "label": "religion",
         "children": [
           {
             "label": "95% Islam 5% other [ b ]",
@@ -187,16 +187,7 @@
         ]
       },
       {
-        "label": "republic_of_mali_official_names_bambara__mali_ka_fasojamana______1__fula__republik_bu_maali_____hassaniya_____jumhriyet_mli__soninke__mali_jamaane_tamasheq__tagduda_n_mali_____songhay__mali_laamaa",
-        "children": [
-          {
-            "label": "Mali ka Fasojamana / ߡߊ߬ߟߌ ߞߊ ߝߊߛߏߖߊߡߊߣߊ [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "songhay_",
+        "label": "songhay",
         "children": [
           {
             "label": "Mali Laamaa",
@@ -205,7 +196,7 @@
         ]
       },
       {
-        "label": "soninke_",
+        "label": "soninke",
         "children": [
           {
             "label": "Mali Jamaane",
@@ -223,7 +214,7 @@
         ]
       },
       {
-        "label": "tamasheq_",
+        "label": "tamasheq",
         "children": [
           {
             "label": "Tagduda n Mali / ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⵎⴰⵍⵉ",
@@ -244,13 +235,13 @@
         "label": "working_language",
         "children": [
           {
-            "label": "French ( de facto ) [ 4 ]",
+            "label": "French ( de facto ) [ 5 ]",
             "children": []
           }
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "21,990,607 [ 10 ] ( 61st )",
@@ -259,7 +250,7 @@
         ]
       },
       {
-        "label": "_declaration_of_the_republic_of_mali",
+        "label": "declaration_of_the_republic_of_mali",
         "children": [
           {
             "label": "22 September 1960",
@@ -268,7 +259,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "11.7/km 2 (30.3/sq mi) ( 215th )",
@@ -277,7 +268,7 @@
         ]
       },
       {
-        "label": "_dissolution_of_the_mali_federation",
+        "label": "dissolution_of_the_mali_federation",
         "children": [
           {
             "label": "20 August 1960",
@@ -286,7 +277,7 @@
         ]
       },
       {
-        "label": "_establishment_of_the_sudanese_republic",
+        "label": "establishment_of_the_sudanese_republic",
         "children": [
           {
             "label": "24 November 1958",
@@ -295,7 +286,7 @@
         ]
       },
       {
-        "label": "_independence_from_france",
+        "label": "independence_from_france",
         "children": [
           {
             "label": "20 June 1960",
@@ -304,7 +295,7 @@
         ]
       },
       {
-        "label": "_merger_with_senegal_to_create_the_mali_federation",
+        "label": "merger_with_senegal_to_create_the_mali_federation",
         "children": [
           {
             "label": "4 April 1959",
@@ -313,7 +304,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$2,930 [ 11 ] ( 173rd )",
@@ -326,7 +317,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Assimi Goïta",
@@ -335,7 +326,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Abdoulaye Maïga (interim)",
@@ -344,7 +335,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "1,240,192 km 2 (478,841 sq mi) [ 9 ] ( 23rd )",
@@ -361,7 +352,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.6",

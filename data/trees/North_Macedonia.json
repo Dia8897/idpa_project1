@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Macedonian",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups__2021__2__",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "58.4% Macedonians 24.3% Albanians 3.9% Turks 2.5% Roma 1.3% Serbs 0.9% Bosniaks 0.5% Aromanians (including Megleno-Romanians ) 1.0% other (including undeclared and unknown) 7.2% persons for whom data are taken from administrative sources",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "29.8 [ 6 ] low inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.815 [ 7 ] very high ( 68th )",
@@ -156,7 +156,7 @@
         ]
       },
       {
-        "label": "religion__2021__3__",
+        "label": "religion",
         "children": [
           {
             "label": "60.4% Christianity 46.1% Eastern Orthodoxy 14.3% other Christian 32.2% Islam 0.1% no religion 0.1% other 7.2% data taken from administrative sources",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2021_census",
+        "label": "census",
         "children": [
           {
             "label": "1,836,713 [ 2 ]",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_chairman_of_the_assembly",
+        "label": "chairman_of_the_assembly",
         "children": [
           {
             "label": "Afrim Gashi",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "71.43/km 2 (185.0/sq mi) ( 122nd )",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_independence_referendum",
+        "label": "independence_referendum",
         "children": [
           {
             "label": "8 September 1991",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$29,475 [ 5 ] ( 71st )",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Gordana Siljanovska-Davkova",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Hristijan Mickoski",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_socialist_republic_of_macedonia",
+        "label": "socialist_republic_of_macedonia",
         "children": [
           {
             "label": "2 August 1944",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "25,436 [ 4 ] km 2 (9,821 sq mi) ( 145th )",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.1",

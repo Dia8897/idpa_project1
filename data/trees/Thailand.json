@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Thai",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "33.5 [ 6 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.798 [ 7 ] high ( 76th )",
@@ -165,7 +165,7 @@
         ]
       },
       {
-        "label": "religion_2018_census__2_",
+        "label": "religion_census",
         "children": [
           {
             "label": "93.46% Buddhism 5.37% Islam 1.13% Christianity 0.03% other",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_2010_census",
+        "label": "census",
         "children": [
           {
             "label": "64,785,909 [ 4 ] ( 21st )",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "65,975,198 [ 3 ] ( 22nd )",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_ayutthaya_kingdom",
+        "label": "ayutthaya_kingdom",
         "children": [
           {
             "label": "1351–1767",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_constitutional_monarchy",
+        "label": "constitutional_monarchy",
         "children": [
           {
             "label": "24 June 1932",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "6 April 2017",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "132.1/km 2 (342.1/sq mi) ( 88th )",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Representatives",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Vajiralongkorn (Rama X)",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$26,358 [ 5 ] ( 75th )",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Anutin Charnvirakul",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_rattanakosin_kingdom",
+        "label": "rattanakosin_kingdom",
         "children": [
           {
             "label": "6 April 1782",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_sukhothai_kingdom",
+        "label": "sukhothai_kingdom",
         "children": [
           {
             "label": "1238–1438",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_thonburi_kingdom",
+        "label": "thonburi_kingdom",
         "children": [
           {
             "label": "1767–1782",
@@ -304,7 +304,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "513,120 km 2 (198,120 sq mi) ( 50th )",
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -330,7 +330,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.4 (2,230 km 2 )",

@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2020__2__",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "95.6% Mongols 3.8% Kazakhs 0.6% other",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2018",
+        "label": "gini",
         "children": [
           {
             "label": "32.7 [ 8 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.747 [ 9 ] high ( 104th )",
@@ -156,7 +156,7 @@
         ]
       },
       {
-        "label": "religion_2020__2__",
+        "label": "religion",
         "children": [
           {
             "label": "51.7% Buddhism 40.6% No religion 3.2% Islam 2.5% Shamanism 1.3% Christianity 0.7% other",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2023__6__estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "3,504,741 ( 131st )",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_bogd_khanate",
+        "label": "bogd_khanate",
         "children": [
           {
             "label": "29 December 1911",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_chairman_of_the_state_great_khural",
+        "label": "chairman_of_the_state_great_khural",
         "children": [
           {
             "label": "Nyam-Osoryn Uchral",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_completion_of_qing_conquest",
+        "label": "completion_of_qing_conquest",
         "children": [
           {
             "label": "1696, 1758",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "12 February 1992",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "2.24/km 2 (5.8/sq mi) ( 238th )",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_khamag_mongol",
+        "label": "khamag_mongol",
         "children": [
           {
             "label": "1125",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_mongol_empire",
+        "label": "mongol_empire",
         "children": [
           {
             "label": "1206",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_mongolian_peoples_republic",
+        "label": "mongolian_peoples_republic",
         "children": [
           {
             "label": "26 November 1924",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "label": "_northern_yuan",
+        "label": "northern_yuan",
         "children": [
           {
             "label": "1368",
@@ -264,7 +264,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$20,450 [ 7 ] ( 90th )",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Ukhnaagiin Khürelsükh",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Gombojavyn Zandanshatar",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_rouran_khaganate__4_",
+        "label": "rouran_khaganate",
         "children": [
           {
             "label": "330 AD",
@@ -304,7 +304,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "1,564,116 km 2 (603,909 sq mi) ( 18th )",
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.67 [ 5 ]",
@@ -330,7 +330,7 @@
         ]
       },
       {
-        "label": "_xianbei__4_",
+        "label": "xianbei",
         "children": [
           {
             "label": "209 BC",
@@ -339,7 +339,7 @@
         ]
       },
       {
-        "label": "_yuan_dynasty",
+        "label": "yuan_dynasty",
         "children": [
           {
             "label": "1260",

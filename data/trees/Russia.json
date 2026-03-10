@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Russian",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2021_including_crimea___5_",
+        "label": "ethnic_groups_including_crimea",
         "children": [
           {
             "label": "71.7% Russian 3.2% Tatar 1.1% Bashkir 1.1% Chechen 11.3% other 11.6% not reported",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2020",
+        "label": "gini",
         "children": [
           {
             "label": "36.0 [ 16 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.832 [ 17 ] very high ( 64th )",
@@ -165,7 +165,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "146,028,325 [ 13 ] (including Crimea) [ 14 ] 143,569,049 (excluding Crimea) ( 9th )",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "12 December 1993",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_declaration_of_state_sovereignty",
+        "label": "declaration_of_state_sovereignty",
         "children": [
           {
             "label": "12 June 1990",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "8.4/km 2 (21.8/sq mi) ( 187th )",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_kievan_rus",
+        "label": "kievan_rus",
         "children": [
           {
             "label": "882",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "State Duma",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_monarchy_abolished",
+        "label": "monarchy_abolished",
         "children": [
           {
             "label": "15 March 1917",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$49,049 [ 15 ] ( 49th )",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Vladimir Putin",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Mikhail Mishustin",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_principality_of_moscow",
+        "label": "principality_of_moscow",
         "children": [
           {
             "label": "1282",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_russian_empire",
+        "label": "russian_empire",
         "children": [
           {
             "label": "2 November 1721",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_russian_federation",
+        "label": "russian_federation",
         "children": [
           {
             "label": "12 December 1991",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_soviet_union",
+        "label": "soviet_union",
         "children": [
           {
             "label": "30 December 1922",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "17,098,246 km 2 (6,601,670 sq mi) [ 12 ] (within internationally recognised borders)",
@@ -312,7 +312,7 @@
         ]
       },
       {
-        "label": "_tsardom_of_russia",
+        "label": "tsardom_of_russia",
         "children": [
           {
             "label": "16 January 1547",
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Federation Council",
@@ -330,7 +330,7 @@
         ]
       },
       {
-        "label": "_vladimirsuzdal",
+        "label": "vladimirsuzdal",
         "children": [
           {
             "label": "1157",
@@ -339,7 +339,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "13 [ 11 ] (including swamps)",

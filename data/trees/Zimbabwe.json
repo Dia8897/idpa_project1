@@ -22,7 +22,7 @@
         ]
       },
       {
-        "label": "chewa_",
+        "label": "chewa",
         "children": [
           {
             "label": "Dziko la Zimbabwe",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2022_census__4_",
+        "label": "ethnic_groups_census",
         "children": [
           {
             "label": "99.6% Indigenous African [ a ] 0.2% European 0.1% Coloured 0.1% other [ b ]",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "gini_2019",
+        "label": "gini",
         "children": [
           {
             "label": "45.5 [ 11 ] medium inequality",
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.598 [ 12 ] medium ( 153rd )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "ndau_",
+        "label": "ndau",
         "children": [
           {
             "label": "Nyika yeZimbabwe",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "ndebele_",
+        "label": "ndebele",
         "children": [
           {
             "label": "Ilizwe laseZimbabwe",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "religion_2017__5_",
+        "label": "religion",
         "children": [
           {
             "label": "84.1% Christianity 69.2% Protestantism 14.9% other Christian 10.2% no religion 4.5% traditional faiths 1.2% others",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "republic_of_zimbabwe_name_in_national_languages_shona__nyika_yezimbabwe_ndebele__ilizwe_lasezimbabwe_chewa__dziko_la_zimbabwe_tswana__lefatshe_la_zimbabwe_xitsonga__tiko_ra_zimbabwe_venda__riphabuiki_ya_zimbabwe_xhosa__iriphabhulikhi_yasezimbabwe_sotho__rephabliki_ea_zimbabwe_ndau__nyika_yezimbabwe",
+        "label": "shona",
         "children": [
           {
             "label": "Nyika yeZimbabwe",
@@ -205,16 +205,7 @@
         ]
       },
       {
-        "label": "shona_",
-        "children": [
-          {
-            "label": "Nyika yeZimbabwe",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "sotho_",
+        "label": "sotho",
         "children": [
           {
             "label": "Rephabliki ea Zimbabwe",
@@ -232,7 +223,7 @@
         ]
       },
       {
-        "label": "tswana_",
+        "label": "tswana",
         "children": [
           {
             "label": "Lefatshe la Zimbabwe",
@@ -241,7 +232,7 @@
         ]
       },
       {
-        "label": "venda_",
+        "label": "venda",
         "children": [
           {
             "label": "Riphabuḽiki ya Zimbabwe",
@@ -250,7 +241,7 @@
         ]
       },
       {
-        "label": "xhosa_",
+        "label": "xhosa",
         "children": [
           {
             "label": "IRiphabhulikhi yaseZimbabwe",
@@ -259,7 +250,7 @@
         ]
       },
       {
-        "label": "xitsonga_",
+        "label": "xitsonga",
         "children": [
           {
             "label": "Tiko ra Zimbabwe",
@@ -268,7 +259,7 @@
         ]
       },
       {
-        "label": "_2022_census",
+        "label": "census",
         "children": [
           {
             "label": "15,178,957 [ 8 ]",
@@ -277,7 +268,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "15 May 2013",
@@ -286,7 +277,7 @@
         ]
       },
       {
-        "label": "_declared",
+        "label": "declared",
         "children": [
           {
             "label": "11 November 1965",
@@ -295,7 +286,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "45/km 2 (116.5/sq mi) ( 179th )",
@@ -304,7 +295,7 @@
         ]
       },
       {
-        "label": "_february_2026_estimate",
+        "label": "february_estimate",
         "children": [
           {
             "label": "17,166,852 [ 7 ] ( 74th )",
@@ -313,7 +304,7 @@
         ]
       },
       {
-        "label": "_first_vicepresident",
+        "label": "first_vicepresident",
         "children": [
           {
             "label": "Constantino Chiwenga",
@@ -322,7 +313,7 @@
         ]
       },
       {
-        "label": "_independence_recognised",
+        "label": "independence_recognised",
         "children": [
           {
             "label": "18 April 1980",
@@ -331,7 +322,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "National Assembly",
@@ -340,7 +331,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$5,410 [ 9 ] ( 151st )",
@@ -353,7 +344,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Emmerson Mnangagwa",
@@ -362,7 +353,7 @@
         ]
       },
       {
-        "label": "_republic",
+        "label": "republic",
         "children": [
           {
             "label": "2 March 1970",
@@ -371,7 +362,7 @@
         ]
       },
       {
-        "label": "_second_vicepresident",
+        "label": "second_vicepresident",
         "children": [
           {
             "label": "Kembo Mohadi",
@@ -380,7 +371,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "390,757 km 2 (150,872 sq mi) ( 60th )",
@@ -397,7 +388,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -406,7 +397,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1",
@@ -415,7 +406,7 @@
         ]
       },
       {
-        "label": "_zimbabwe_rhodesia",
+        "label": "zimbabwe_rhodesia",
         "children": [
           {
             "label": "1 June 1979",

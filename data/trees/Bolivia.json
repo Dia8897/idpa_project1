@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Bolivian",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2021",
+        "label": "gini",
         "children": [
           {
             "label": "40.9 [ 7 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.733 [ 8 ] high ( 108th )",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "religion_2020__4_",
+        "label": "religion",
         "children": [
           {
             "label": "92.8% Christianity 81.4% Catholicism 11.4% other Christian 6.5% no religion 0.7% other",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2024_census",
+        "label": "census",
         "children": [
           {
             "label": "11,365,333 [ 5 ] ( 84th )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "7 February 2009",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_declared",
+        "label": "declared",
         "children": [
           {
             "label": "6 August 1825",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "10.4/km 2 (26.9/sq mi) ( 224th )",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Chamber of Deputies",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$11,574 [ 6 ] ( 120th )",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Rodrigo Paz",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_president_of_the_chamber_of_deputies",
+        "label": "president_of_the_chamber_of_deputies",
         "children": [
           {
             "label": "Roberto Castro Salazar",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_president_of_the_senate",
+        "label": "president_of_the_senate",
         "children": [
           {
             "label": "Diego Ávila",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_recognized",
+        "label": "recognized",
         "children": [
           {
             "label": "21 July 1847",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "1,098,581 km 2 (424,164 sq mi) ( 27th )",
@@ -298,7 +298,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Chamber of Senators",
@@ -307,7 +307,7 @@
         ]
       },
       {
-        "label": "_vice_president",
+        "label": "vice_president",
         "children": [
           {
             "label": "Edmand Lara",
@@ -316,7 +316,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.29",

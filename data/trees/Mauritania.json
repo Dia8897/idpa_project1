@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Mauritanian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2014",
+        "label": "gini",
         "children": [
           {
             "label": "32.6 [ 8 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.563 [ 9 ] medium ( 163rd )",
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "4,328,040 [ 3 ] ( 128th )",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "12 July 1991",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "3.4/km 2 (8.8/sq mi)",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_independence_from_france",
+        "label": "independence_from_france",
         "children": [
           {
             "label": "28 November 1960",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$8,650 [ 5 ] ( 130th )",
@@ -231,7 +231,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Mohamed Ould Ghazouani",
@@ -240,7 +240,7 @@
         ]
       },
       {
-        "label": "_president_of_the_national_assembly",
+        "label": "president_of_the_national_assembly",
         "children": [
           {
             "label": "Mohamed Ould Meguett",
@@ -249,7 +249,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Mokhtar Ould Djay",
@@ -258,7 +258,7 @@
         ]
       },
       {
-        "label": "_republic_established",
+        "label": "republic_established",
         "children": [
           {
             "label": "28 November 1958",
@@ -267,7 +267,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "1,030,000 km 2 (400,000 sq mi) [ 2 ] ( 28th )",

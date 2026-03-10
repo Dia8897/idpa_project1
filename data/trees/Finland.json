@@ -34,7 +34,7 @@
         "label": "date_format",
         "children": [
           {
-            "label": "dd . mm . yyyy [ 8 ]",
+            "label": "dd . mm . yyyy [ 9 ]",
             "children": []
           }
         ]
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2024__1_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "88.9% Finns [ note 1 ] 11.1% others",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,10 +76,10 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
-            "label": "26.6 [ 6 ] low inequality",
+            "label": "26.6 [ 7 ] low inequality",
             "children": []
           }
         ]
@@ -94,10 +94,10 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
-            "label": "0.948 [ 7 ] very high ( 12th )",
+            "label": "0.948 [ 8 ] very high ( 12th )",
             "children": []
           }
         ]
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "label": "religion_2024__1_",
+        "label": "religion",
         "children": [
           {
             "label": "64.2% Christianity 62.2% Lutheranism 1.0% Eastern Orthodoxy 1.0% other Christian 34.9% no religion 2.0% other",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_2024_census",
+        "label": "census",
         "children": [
           {
             "label": "5,635,971 [ 1 ]",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_constitution_established",
+        "label": "constitution_established",
         "children": [
           {
             "label": "17 July 1919",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_declaration_of_independence",
+        "label": "declaration_of_independence",
         "children": [
           {
             "label": "6 December 1917",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "18.4/km 2 (47.7/sq mi) ( 210th )",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_establishment_of_grand_duchy_of_finland",
+        "label": "establishment_of_grand_duchy_of_finland",
         "children": [
           {
             "label": "29 March 1809 (from Sweden)",
@@ -236,20 +236,20 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
-            "label": "$66,500 [ 5 ] ( 23rd )",
+            "label": "$66,500 [ 6 ] ( 23rd )",
             "children": []
           },
           {
-            "label": "$54,160 [ 5 ] ( 19th )",
+            "label": "$54,160 [ 6 ] ( 19th )",
             "children": []
           }
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Alexander Stubb",
@@ -258,7 +258,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Petteri Orpo",
@@ -267,7 +267,7 @@
         ]
       },
       {
-        "label": "_speaker_of_the_parliament",
+        "label": "speaker_of_the_parliament",
         "children": [
           {
             "label": "Jussi Halla-aho",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +3 ( EEST )",
@@ -285,27 +285,27 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
-            "label": "338,455 [ 3 ] km 2 (130,678 sq mi) ( 65th )",
+            "label": "338,455 [ 4 ] km 2 (130,678 sq mi) ( 65th )",
             "children": []
           },
           {
-            "label": "$373.16 billion [ 5 ] ( 61st )",
+            "label": "$373.16 billion [ 6 ] ( 61st )",
             "children": []
           },
           {
-            "label": "$303.95 billion [ 5 ] ( 46th )",
+            "label": "$303.95 billion [ 6 ] ( 46th )",
             "children": []
           }
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
-            "label": "9.71 (2015) [ 4 ]",
+            "label": "9.71 (2015) [ 5 ]",
             "children": []
           }
         ]

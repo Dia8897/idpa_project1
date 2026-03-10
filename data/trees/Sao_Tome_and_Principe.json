@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2024 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2017",
+        "label": "gini",
         "children": [
           {
             "label": "40.7 [ 7 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.637 [ 8 ] medium ( 141st )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2020__1_",
+        "label": "religion",
         "children": [
           {
             "label": "81.1% Christianity 13.2% no religion 3.1% folk religions 2.4% others",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "220,372 [ 5 ] ( 175th )",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_admitted_to_the_united_nations",
+        "label": "admitted_to_the_united_nations",
         "children": [
           {
             "label": "16 September 1975",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_constitutional_reform",
+        "label": "constitutional_reform",
         "children": [
           {
             "label": "22 August 1990",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "199.7/km 2 (517.2/sq mi) ( 69th )",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_granted",
+        "label": "granted",
         "children": [
           {
             "label": "12 July 1975",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$4,238 [ 6 ]",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Carlos Vila Nova",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Américo Ramos",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "964 [ 4 ] km 2 (372 sq mi) ( 171st )",
@@ -271,7 +271,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "negligible",

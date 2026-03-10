@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2016",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "95.3% Melanesian 3.1% Polynesian 1.2% Micronesian 0.4% others",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2024 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2013",
+        "label": "gini",
         "children": [
           {
             "label": "37.1 [ 6 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.584 [ 7 ] medium ( 156th )",
@@ -156,7 +156,7 @@
         ]
       },
       {
-        "label": "religion_2016__2_",
+        "label": "religion",
         "children": [
           {
             "label": "97.4% Christianity 78.6% Protestantism 19.5% Catholicism 1.9% other Christian 1.2% folk religions 1.4% others / none",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2019_census",
+        "label": "census",
         "children": [
           {
             "label": "721,956",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "828,857 [ 4 ] ( 167th )",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "24.2/km 2 (62.7/sq mi) ( 192th )",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_from_the_united_kingdom",
+        "label": "from_the_united_kingdom",
         "children": [
           {
             "label": "7 July 1978",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_governorgeneral",
+        "label": "governorgeneral",
         "children": [
           {
             "label": "David Tiva Kapu",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Charles III",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$2,205.25 [ 5 ]",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Jeremiah Manele",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "Not observed",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "28,896 [ 3 ] km 2 (11,157 sq mi) ( 139th )",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "3.2%",

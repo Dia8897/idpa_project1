@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Pakistani",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2018",
+        "label": "gini",
         "children": [
           {
             "label": "29.6 low inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.544 low ( 168th )",
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "label": "religion_2023",
+        "label": "religion",
         "children": [
           {
             "label": "96.3% Islam ( official ) [ b ] 2.2% Hinduism 1.4% Christianity 0.1% other",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_2023_census",
+        "label": "census",
         "children": [
           {
             "label": "241,499,431 [ d ] ( 5th )",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "14 August 1973",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_declaration",
+        "label": "declaration",
         "children": [
           {
             "label": "23 March 1940",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "273.8/km 2 (709.1/sq mi) ( 56th )",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_eastern_territory_withdrawn",
+        "label": "eastern_territory_withdrawn",
         "children": [
           {
             "label": "16 December 1971",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_last_territorys_acquisition",
+        "label": "last_territorys_acquisition",
         "children": [
           {
             "label": "8 December 1958",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "National Assembly",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$6,950 ( 148th )",
@@ -267,7 +267,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Asif Ali Zardari",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Shehbaz Sharif",
@@ -285,7 +285,7 @@
         ]
       },
       {
-        "label": "_recognized_dominion",
+        "label": "recognized_dominion",
         "children": [
           {
             "label": "14 August 1947",
@@ -294,7 +294,7 @@
         ]
       },
       {
-        "label": "_republic",
+        "label": "republic",
         "children": [
           {
             "label": "23 March 1956",
@@ -303,7 +303,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "881,913 km 2 (340,509 sq mi) [ c ] [ 6 ] ( 33rd )",
@@ -320,7 +320,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -329,7 +329,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "2.86",

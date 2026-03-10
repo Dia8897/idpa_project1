@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Malawian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2024_census",
+        "label": "ethnic_groups_census",
         "children": [
           {
             "label": "25.2% Chewa 20.4% Tumbuka 16.4% Lomwe 15.3% Yao 6.4% Ngoni 5.9% Sena 3.8% Mang'anja 1.8% Tonga 1.5% Ngonde 0.6% Lambya 0.5% Sukwa 1.1% other",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2016",
+        "label": "gini",
         "children": [
           {
             "label": "44.7 [ 6 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.517 [ 7 ] low ( 172nd )",
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "label": "religion_2018_census__2_",
+        "label": "religion_census",
         "children": [
           {
             "label": "82.3% Christianity 58.5% Protestantism 17.2% Catholicism 6.6% other Christian 13.8% Islam 2.1% none 1.2% traditional faiths 0.6% other",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_2018_census",
+        "label": "census",
         "children": [
           {
             "label": "17,563,749 [ 4 ]",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "21,240,689 [ 3 ] ( 62nd )",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_chief_justice",
+        "label": "chief_justice",
         "children": [
           {
             "label": "Rizine Mzikamanda",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "18 May 1994",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "153.1/km 2 (396.5/sq mi) ( 56th )",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_dominion",
+        "label": "dominion",
         "children": [
           {
             "label": "6 July 1964",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_house_speaker",
+        "label": "house_speaker",
         "children": [
           {
             "label": "Sameer Suleman",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$1,668 [ 5 ] ( 186th )",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Peter Mutharika",
@@ -285,7 +285,7 @@
         ]
       },
       {
-        "label": "_republic",
+        "label": "republic",
         "children": [
           {
             "label": "6 July 1966",
@@ -294,7 +294,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "118,484 km 2 (45,747 sq mi) ( 98th )",
@@ -311,7 +311,7 @@
         ]
       },
       {
-        "label": "_vicepresident",
+        "label": "vicepresident",
         "children": [
           {
             "label": "Jane Ansah",
@@ -320,7 +320,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "20.6%",

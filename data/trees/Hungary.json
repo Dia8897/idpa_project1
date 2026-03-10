@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Hungarian",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2022_census__a___b__",
+        "label": "ethnic_groups_census",
         "children": [
           {
             "label": "97.7% Hungarian 2.4% Romani 1.2% German 1.3% other",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "29.0 [ 10 ] low inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.870 [ 11 ] very high ( 46th )",
@@ -147,7 +147,7 @@
         ]
       },
       {
-        "label": "religion_2022_census__2_",
+        "label": "religion_census",
         "children": [
           {
             "label": "42.5% Christianity 27.5% Catholicism 15% other Christian 40.1% no answer 16.1% irreligion 1.3% others",
@@ -165,7 +165,7 @@
         ]
       },
       {
-        "label": "_2022_census",
+        "label": "census",
         "children": [
           {
             "label": "9,603,634 [ 8 ]",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_austriahungary",
+        "label": "austriahungary",
         "children": [
           {
             "label": "30 March 1867",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_battle_of_mohcs",
+        "label": "battle_of_mohacs",
         "children": [
           {
             "label": "29 August 1526",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_christian_kingdom",
+        "label": "christian_kingdom",
         "children": [
           {
             "label": "25 December 1000 [ 5 ]",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "103/km 2 (266.8/sq mi) ( 111th )",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_golden_bull_of_1222",
+        "label": "golden_bull_of_1222",
         "children": [
           {
             "label": "24 April 1222",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_hungarian_conquest_of_the_carpathian_basin",
+        "label": "hungarian_conquest_of_the_carpathian_basin",
         "children": [
           {
             "label": "862–895 [ 3 ]",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_january_2024_estimate",
+        "label": "january_estimate",
         "children": [
           {
             "label": "9,584,627 [ 7 ] ( 95th )",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_liberation_of_buda",
+        "label": "liberation_of_buda",
         "children": [
           {
             "label": "2 September 1686",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$48,160 [ 9 ] ( 46th )",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Tamás Sulyok",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Viktor Orbán",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_principality_of_hungary",
+        "label": "principality_of_hungary",
         "children": [
           {
             "label": "895 [ 4 ]",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_revolution_of_1848",
+        "label": "revolution_of_1848",
         "children": [
           {
             "label": "15 March 1848",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_speaker",
+        "label": "speaker",
         "children": [
           {
             "label": "László Kövér",
@@ -304,7 +304,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -313,7 +313,7 @@
         ]
       },
       {
-        "label": "_third_republic",
+        "label": "third_republic",
         "children": [
           {
             "label": "23 October 1989",
@@ -322,7 +322,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "93,030 [ 6 ] km 2 (35,920 sq mi) ( 108th )",
@@ -339,7 +339,7 @@
         ]
       },
       {
-        "label": "_treaty_of_trianon",
+        "label": "treaty_of_trianon",
         "children": [
           {
             "label": "4 June 1920",
@@ -348,7 +348,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "3.7 [ 6 ]",

@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2026 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2019",
+        "label": "gini",
         "children": [
           {
             "label": "32.1 [ 9 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.848 [ 10 ] very high ( 54th )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2022__2___3_",
+        "label": "religion",
         "children": [
           {
             "label": "74.9% Christianity 5.4% Hinduism 2.4% Islam 5.1% others 12.2% unanswered",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "121,355 [ 4 ] ( 200th )",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "262.3/km 2 (679.4/sq mi) ( 67th )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_independence_declared",
+        "label": "independence_declared",
         "children": [
           {
             "label": "29 June 1976",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$43,850 [ 6 ] ( 49th )",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Patrick Herminie",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_speaker_of_the_national_assembly",
+        "label": "speaker_of_the_national_assembly",
         "children": [
           {
             "label": "Azarel Ernesta",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "457 km 2 (176 sq mi) ( 181st )",
@@ -253,7 +253,7 @@
         ]
       },
       {
-        "label": "_vicepresident",
+        "label": "vicepresident",
         "children": [
           {
             "label": "Sebastien Pillay",
@@ -262,7 +262,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "Negligible",

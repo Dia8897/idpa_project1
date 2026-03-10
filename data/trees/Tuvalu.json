@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Tuvaluan",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2022",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "96% Tuvaluans 4% others",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "39 [ 4 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.689 [ 5 ] medium ( 129th )",
@@ -147,7 +147,7 @@
         ]
       },
       {
-        "label": "religion_2022__1_",
+        "label": "religion",
         "children": [
           {
             "label": "96% Christianity 86% Calvinism ( official ) 10% other Christian 3% Other religions or not stated 1% Baháʼí Faith",
@@ -165,7 +165,7 @@
         ]
       },
       {
-        "label": "_2022_census",
+        "label": "census",
         "children": [
           {
             "label": "10,643 [ 2 ] ( 194th )",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "423/km 2 (1,095.6/sq mi) ( 41st )",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_from_the_united_kingdom",
+        "label": "from_the_united_kingdom",
         "children": [
           {
             "label": "1 October 1978",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_governorgeneral",
+        "label": "governorgeneral",
         "children": [
           {
             "label": "Tofiga Vaevalu Falani",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Charles III",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$6,076 [ 3 ]",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Feleti Teo",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "26.26 km 2 (10.14 sq mi) ( 192nd )",
@@ -249,7 +249,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "Negligible",

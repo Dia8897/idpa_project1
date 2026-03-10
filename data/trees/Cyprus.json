@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Cypriot",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "29.4 [ 7 ] low inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.913 [ 8 ] very high ( 32nd )",
@@ -106,6 +106,10 @@
           },
           {
             "label": "Cyprus Territory claimed but not controlled (Northern Cyprus) Rest of the European Union",
+            "children": []
+          },
+          {
+            "label": "Territory administered by the Republic of Cyprus",
             "children": []
           }
         ]
@@ -156,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2020_including_northern_cyprus",
+        "label": "religion_including_northern_cyprus",
         "children": [
           {
             "label": "72.3% Christianity 25.0% Islam 1.9% no religion 0.8% other [ 2 ]",
@@ -183,7 +187,7 @@
         ]
       },
       {
-        "label": "_2021_census",
+        "label": "census",
         "children": [
           {
             "label": "923,272 [ d ] [ 4 ]",
@@ -192,7 +196,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "123.4 [ c ] [ 5 ] /km 2 (319.6/sq mi) ( 82nd )",
@@ -201,7 +205,7 @@
         ]
       },
       {
-        "label": "_independence_day",
+        "label": "independence_day",
         "children": [
           {
             "label": "1 October 1960",
@@ -210,7 +214,7 @@
         ]
       },
       {
-        "label": "_independence_proclaimed",
+        "label": "independence_proclaimed",
         "children": [
           {
             "label": "16 August 1960",
@@ -219,7 +223,7 @@
         ]
       },
       {
-        "label": "_londonzrich_agreements",
+        "label": "londonzurich_agreements",
         "children": [
           {
             "label": "19 February 1959",
@@ -228,7 +232,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$65,304 [ 6 ] ( 28th )",
@@ -241,7 +245,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Nikos Christodoulides",
@@ -250,7 +254,7 @@
         ]
       },
       {
-        "label": "_president_of_the_house_of_representatives",
+        "label": "president_of_the_house_of_representatives",
         "children": [
           {
             "label": "Annita Demetriou",
@@ -259,7 +263,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +03:00 ( EEST )",
@@ -268,7 +272,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "$61.501 billion [ 6 ] ( 126th )",
@@ -281,7 +285,7 @@
         ]
       },
       {
-        "label": "_total__c_",
+        "label": "total",
         "children": [
           {
             "label": "9,251 km 2 (3,572 sq mi) ( 162nd )",
@@ -290,7 +294,7 @@
         ]
       },
       {
-        "label": "_vicepresident",
+        "label": "vicepresident",
         "children": [
           {
             "label": "Vacant [ b ]",
@@ -299,7 +303,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.11 [ 3 ]",

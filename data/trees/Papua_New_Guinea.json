@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Papua New Guinean",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gini_2009",
+        "label": "gini",
         "children": [
           {
             "label": "41.9 [ 11 ] medium inequality",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.576 [ 12 ] medium ( 160th )",
@@ -151,7 +151,7 @@
         ]
       },
       {
-        "label": "religion_2011__6_",
+        "label": "religion",
         "children": [
           {
             "label": "95.5% Christianity ( official ) [ 7 ] 64.3% Protestantism 26.0% Catholicism 5.2% other Christian 3.1% unspecified 1.4% others or none",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "_2021_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "11,781,559 [ 8 ] ( 82nd )",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2024_census",
+        "label": "census",
         "children": [
           {
             "label": "10,185,363 [ 9 ]",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_administrative_union",
+        "label": "administrative_union",
         "children": [
           {
             "label": "1 July 1949",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "25.5/km 2 (66.0/sq mi)",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_governorgeneral",
+        "label": "governorgeneral",
         "children": [
           {
             "label": "Bob Dadae",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_independence",
+        "label": "independence",
         "children": [
           {
             "label": "16 September 1975",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Charles III",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$3,760 [ 10 ] ( 162th )",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "James Marape",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "462,840 km 2 (178,700 sq mi) ( 54th )",
@@ -271,7 +271,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "2.2",

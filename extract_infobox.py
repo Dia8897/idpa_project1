@@ -1,4 +1,7 @@
-import os, csv, json
+import csv
+import json
+import os
+
 from bs4 import BeautifulSoup
 
 INPUT_DIR = "data/raw_html"
@@ -9,28 +12,32 @@ CSV_PATH = "data/countries.csv"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs("data/logs", exist_ok=True)
 
+
 def clean(text: str) -> str:
     return " ".join(text.split())
 
+
 def safe_filename(name: str) -> str:
+    name = name.replace("\u2019", "'")
     return (
         name.replace(" ", "_")
-            .replace("/", "_")
-            .replace(":", "_")
-            .replace("’", "")
-            .replace("'", "")
+        .replace("/", "_")
+        .replace(":", "_")
+        .replace("'", "")
     )
 
-def extract_infobox_from_html(html: str):
-    soup = BeautifulSoup(html, "lxml")
+
+def extract_infobox_from_html(raw_html: bytes):
+    soup = BeautifulSoup(raw_html, "lxml")
     table = soup.find("table", class_="infobox")
     if not table:
         return None
 
     data = {}
     for row in table.find_all("tr"):
-        th = row.find("th")
-        td = row.find("td")
+        # Only use direct row cells to avoid pulling nested headers into a key.
+        th = row.find("th", recursive=False)
+        td = row.find("td", recursive=False)
         if not td:
             continue
 
@@ -53,12 +60,13 @@ def extract_infobox_from_html(html: str):
 
     return data
 
+
 ok = 0
 fail = 0
 
-with open(LOG_PATH, "w", encoding="utf-8") as log, \
-     open(CSV_PATH, newline="", encoding="utf-8") as csvfile:
-
+with open(LOG_PATH, "w", encoding="utf-8") as log, open(
+    CSV_PATH, newline="", encoding="utf-8"
+) as csvfile:
     reader = csv.DictReader(csvfile)
 
     for row in reader:
@@ -71,16 +79,16 @@ with open(LOG_PATH, "w", encoding="utf-8") as log, \
             continue
 
         try:
-            with open(html_file, "r", encoding="utf-8") as f:
-                html = f.read()
+            with open(html_file, "rb") as f:
+                raw_html = f.read()
 
-            # ---- IMPROVEMENT: detect blocked/robot-policy pages ----
-            if "Please set a user-agent" in html or "robot policy" in html.lower():
+            probe = raw_html.decode("utf-8", errors="ignore").lower()
+            if "please set a user-agent" in probe or "robot policy" in probe:
                 fail += 1
                 log.write(f"{country}\tBLOCKED_HTML\n")
                 continue
 
-            infobox = extract_infobox_from_html(html)
+            infobox = extract_infobox_from_html(raw_html)
             if infobox is None:
                 fail += 1
                 log.write(f"{country}\tNO_INFOBOX\n")
@@ -92,7 +100,7 @@ with open(LOG_PATH, "w", encoding="utf-8") as log, \
                     {"country_name": country, "infobox": infobox},
                     out,
                     ensure_ascii=False,
-                    indent=2
+                    indent=2,
                 )
 
             ok += 1

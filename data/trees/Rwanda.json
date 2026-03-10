@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_1994",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "100% Banyarwanda [ 5 ] 85% Hutu 14% Tutsi 1% Twa",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "39.4 [ 13 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.578 [ 14 ] medium ( 159th )",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_2022_census",
+        "label": "census",
         "children": [
           {
             "label": "13,206,731 [ 11 ]",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "14,104,969 [ 10 ] ( 76th )",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_admitted_to_the_un",
+        "label": "admitted_to_the_un",
         "children": [
           {
             "label": "18 September 1962",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "26 May 2003",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "578/km 2 (1,497.0/sq mi) ( 21st )",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_independence_from_belgium",
+        "label": "independence_from_belgium",
         "children": [
           {
             "label": "1 July 1962",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_kingdom_of_rwanda",
+        "label": "kingdom_of_rwanda",
         "children": [
           {
             "label": "15th century",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Chamber of Deputies",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_part_of_german_east_africa",
+        "label": "part_of_german_east_africa",
         "children": [
           {
             "label": "1897–1916",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_part_of_ruandaurundi",
+        "label": "part_of_ruandaurundi",
         "children": [
           {
             "label": "1916–1962",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$4,100 [ 12 ] ( 159th )",
@@ -303,7 +303,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Paul Kagame",
@@ -312,7 +312,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Justin Nsengiyumva",
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "label": "_republic_declared",
+        "label": "republic_declared",
         "children": [
           {
             "label": "28 January 1961",
@@ -330,7 +330,7 @@
         ]
       },
       {
-        "label": "_rwandan_revolution",
+        "label": "rwandan_revolution",
         "children": [
           {
             "label": "1959–1961",
@@ -339,7 +339,7 @@
         ]
       },
       {
-        "label": "_speaker_of_the_chamber_of_deputies",
+        "label": "speaker_of_the_chamber_of_deputies",
         "children": [
           {
             "label": "Gertrude Kazarwa [ 8 ]",
@@ -348,7 +348,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "26,338 [ 1 ] [ 9 ] km 2 (10,169 sq mi) ( 144th )",
@@ -365,7 +365,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -374,7 +374,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "6.3",

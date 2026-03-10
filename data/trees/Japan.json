@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Japanese",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gini_2020",
+        "label": "gini",
         "children": [
           {
             "label": "32.3 [ 8 ] medium inequality",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.925 [ 9 ] very high ( 23rd )",
@@ -156,7 +156,7 @@
         ]
       },
       {
-        "label": "_2020_census",
+        "label": "census",
         "children": [
           {
             "label": "126,146,099 [ 6 ]",
@@ -165,7 +165,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "330/km 2 (854.7/sq mi) ( 39th )",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_emperor",
+        "label": "emperor",
         "children": [
           {
             "label": "Naruhito",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_january_1_2026_estimate",
+        "label": "january_1_estimate",
         "children": [
           {
             "label": "122,950,000 [ 5 ] ( 11th )",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Representatives",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$54,815 [ 7 ] ( 39th )",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Sanae Takaichi",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "377,975 km 2 (145,937 sq mi) [ 4 ] ( 62nd )",
@@ -240,7 +240,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "House of Councillors",
@@ -249,7 +249,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.4 [ 3 ]",

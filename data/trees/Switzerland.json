@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "french_",
+        "label": "french",
         "children": [
           {
             "label": "Confédération suisse",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "german_",
+        "label": "german",
         "children": [
           {
             "label": "Schweizerische Eidgenossenschaft",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "31.5 [ 13 ] medium inequality",
@@ -112,7 +112,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.970 [ 14 ] very high ( 2nd )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "italian_",
+        "label": "italian",
         "children": [
           {
             "label": "Confederazione Svizzera",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "latin_",
+        "label": "latin",
         "children": [
           {
             "label": "Confoederatio helvetica (CH) [ 1 ]",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "nationality_2024__4_",
+        "label": "nationality",
         "children": [
           {
             "label": "72.6% Swiss 27.4% foreign nationals",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "religion_2024__5_",
+        "label": "religion",
         "children": [
           {
             "label": "54.7% Christianity 30% Catholicism 18.7% Protestantism 6% other Christian 36.8% no religion 6% Islam 1.5% other religions 0.9% unanswered",
@@ -223,19 +223,10 @@
         ]
       },
       {
-        "label": "romansh_",
+        "label": "romansh",
         "children": [
           {
             "label": "Confederaziun svizra",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "swiss_confederation_name_in_official_languages_and_latin_german__schweizerische_eidgenossenschaft_french__confdration_suisse_italian__confederazione_svizzera_romansh__confederaziun_svizra_latin__confoederatio_helvetica_ch__1_",
-        "children": [
-          {
-            "label": "Schweizerische Eidgenossenschaft",
             "children": []
           }
         ]
@@ -250,7 +241,7 @@
         ]
       },
       {
-        "label": "_2015_census",
+        "label": "census",
         "children": [
           {
             "label": "8,327,126 [ 11 ]",
@@ -259,7 +250,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "9,060,598 [ 10 ] ( 99th )",
@@ -268,7 +259,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "207/km 2 (536.1/sq mi) ( 67th )",
@@ -277,7 +268,7 @@
         ]
       },
       {
-        "label": "_federal_chancellor",
+        "label": "federal_chancellor",
         "children": [
           {
             "label": "Viktor Rossi",
@@ -286,7 +277,7 @@
         ]
       },
       {
-        "label": "_federal_council",
+        "label": "federal_council",
         "children": [
           {
             "label": "Guy Parmelin ( President ) Ignazio Cassis ( Vice president ) Karin Keller-Sutter Albert Rösti Élisabeth Baume-Schneider Beat Jans Martin Pfister",
@@ -295,7 +286,7 @@
         ]
       },
       {
-        "label": "_federal_state",
+        "label": "federal_state",
         "children": [
           {
             "label": "12 September 1848 [ c ] [ 8 ]",
@@ -304,7 +295,7 @@
         ]
       },
       {
-        "label": "_federal_treaty",
+        "label": "federal_treaty",
         "children": [
           {
             "label": "7 August 1815",
@@ -313,7 +304,7 @@
         ]
       },
       {
-        "label": "_founded",
+        "label": "founded",
         "children": [
           {
             "label": "1 August 1291 [ b ]",
@@ -322,7 +313,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "National Council",
@@ -331,7 +322,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$97,660 [ 12 ] ( 6th )",
@@ -344,7 +335,7 @@
         ]
       },
       {
-        "label": "_sovereignty_recognised__peace_of_westphalia_",
+        "label": "sovereignty_recognised_peace_of_westphalia",
         "children": [
           {
             "label": "24 October 1648",
@@ -353,7 +344,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -362,7 +353,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "41,291 [ 9 ] km 2 (15,943 sq mi) ( 132th )",
@@ -379,7 +370,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Council of States",
@@ -388,7 +379,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "4 [ 9 ]",

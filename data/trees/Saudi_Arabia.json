@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gini_2013",
+        "label": "gini",
         "children": [
           {
             "label": "45.9 [ 15 ] medium inequality",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.900 [ 16 ] very high ( 37th )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "_2024_census",
+        "label": "census",
         "children": [
           {
             "label": "33,702,731 [ 10 ] ( 42nd )",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "_crown_prince_and_prime_minister",
+        "label": "crown_prince_and_prime_minister",
         "children": [
           {
             "label": "Mohammed bin Salman",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "31 January 1992",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "15/km 2 (38.8/sq mi) ( 218th )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_emirate_of_diriyah",
+        "label": "emirate_of_diriyah",
         "children": [
           {
             "label": "22 February 1727",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_emirate_of_nejd",
+        "label": "emirate_of_nejd",
         "children": [
           {
             "label": "1824",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_emirate_of_nejd_and_hasa",
+        "label": "emirate_of_nejd_and_hasa",
         "children": [
           {
             "label": "15 January 1913",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_emirate_of_riyadh",
+        "label": "emirate_of_riyadh",
         "children": [
           {
             "label": "13 January 1902",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_king",
+        "label": "king",
         "children": [
           {
             "label": "Salman",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_kingdom_of_hejaz_and_nejd",
+        "label": "kingdom_of_hejaz_and_nejd",
         "children": [
           {
             "label": "8 January 1926",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$74.670 [ 12 ] ( 19th )",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_sultanate_of_nejd",
+        "label": "sultanate_of_nejd",
         "children": [
           {
             "label": "29 November 1921",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "2,149,690 [ 9 ] km 2 (830,000 sq mi) ( 12th )",
@@ -289,7 +289,7 @@
         ]
       },
       {
-        "label": "_unification_and_proclamation_of_the_kingdom_of_saudi_arabia",
+        "label": "unification_and_proclamation_of_the_kingdom_of_saudi_arabia",
         "children": [
           {
             "label": "23 September 1932",
@@ -298,7 +298,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.7",

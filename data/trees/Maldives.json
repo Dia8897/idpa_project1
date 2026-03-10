@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Maldivian",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2024 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2024",
+        "label": "gini",
         "children": [
           {
             "label": "31.3 [ 5 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.766 [ 6 ] high ( 93rd )",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2022_census",
+        "label": "census",
         "children": [
           {
             "label": "515,132 [ 3 ] ( 167th )",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "601,269 [ 2 ]",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_chief_justice",
+        "label": "chief_justice",
         "children": [
           {
             "label": "Abdul Ghanee Mohamed",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "7 August 2008",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "1,728.63/km 2 (4,477.1/sq mi) ( 8th )",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_independence_declared",
+        "label": "independence_declared",
         "children": [
           {
             "label": "26 July 1965",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$34,322 [ 4 ] ( 54th )",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Mohamed Muizzu",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_second_republic",
+        "label": "second_republic",
         "children": [
           {
             "label": "11 November 1968",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_speaker",
+        "label": "speaker",
         "children": [
           {
             "label": "Abdul Raheem Abdulla",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "298 km 2 (115 sq mi) ( 187th )",
@@ -289,7 +289,7 @@
         ]
       },
       {
-        "label": "_vice_president",
+        "label": "vice_president",
         "children": [
           {
             "label": "Hussain Mohamed Latheef",

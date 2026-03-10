@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Maltese",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2021__3__",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "77.7% Maltese 22.3% other ethnic groups",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2024 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2020",
+        "label": "gini",
         "children": [
           {
             "label": "31.4 [ 9 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.924 [ 10 ] very high ( 24th )",
@@ -164,7 +164,7 @@
         ]
       },
       {
-        "label": "religion_2021__4___5_",
+        "label": "religion",
         "children": [
           {
             "label": "88.5% Christianity 82.6% Catholicism ( official ) 5.9% other Christian 5.1% no religion 3.9% Islam 1.4% Hinduism 1.1% other",
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "label": "_2021_census",
+        "label": "census",
         "children": [
           {
             "label": "519,562 [ 7 ]",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "1,649/km 2 (4,270.9/sq mi) ( 8th )",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$67,682 [ 8 ] ( 20th )",
@@ -213,7 +213,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Myriam Spiteri Debono",
@@ -222,7 +222,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Robert Abela",
@@ -231,7 +231,7 @@
         ]
       },
       {
-        "label": "_republic",
+        "label": "republic",
         "children": [
           {
             "label": "13 December 1974",
@@ -240,7 +240,7 @@
         ]
       },
       {
-        "label": "_state_of_malta",
+        "label": "state_of_malta",
         "children": [
           {
             "label": "21 September 1964",
@@ -249,7 +249,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -258,7 +258,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "316 [ 6 ] km 2 (122 sq mi) ( 187th )",
@@ -275,7 +275,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.001",

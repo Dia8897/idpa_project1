@@ -1,76 +1,305 @@
-DEL /country/country : capital_and_largest_city
-DEL /country/country : demonym
-DEL /country/country : ethnic_groups_2021__3_
-DEL /country/country : gini_2011
-DEL /country/country : local_vernacular
-DEL /country/country : recognised_minority_language
-DEL /country/country : religion_2024__5___6_
-DEL /country/country : _2024_estimate
-DEL /country/country : _constitution
-DEL /country/country : _double_qaimmaqamate_of_mount_lebanon
-DEL /country/country : _emirate_of_mount_lebanon
-DEL /country/country : _french_mandate_ended
-DEL /country/country : _greater_lebanon
-DEL /country/country : _independence_declared
-DEL /country/country : _israeli_troops_withdrawn
-DEL /country/country : _mount_lebanon_mutasarrifate
-DEL /country/country : _president
-DEL /country/country : _prime_minister
-DEL /country/country : _speaker_of_the_parliament
-DEL /country/country : _syrian_troops_withdrawn
-DEL /country/country : _withdrawal_of_french_forces
-INS /country/country : capital
-INS /country/country : date_format
-INS /country/country : demonyms
-INS /country/country : federal_city
-INS /country/country : french_
-INS /country/country : german_
-INS /country/country : gini_2023
-INS /country/country : italian_
-INS /country/country : largest_city
-INS /country/country : latin_
-INS /country/country : nationality_2024__4_
-INS /country/country : religion_2024__5_
-INS /country/country : romansh_
-INS /country/country : swiss_confederation_name_in_official_languages_and_latin_german__schweizerische_eidgenossenschaft_french__confdration_suisse_italian__confederazione_svizzera_romansh__confederaziun_svizra_latin__confoederatio_helvetica_ch__1_
-INS /country/country : _2015_census
-INS /country/country : _2025_estimate
-INS /country/country : _federal_chancellor
-INS /country/country : _federal_council
-INS /country/country : _federal_state
-INS /country/country : _federal_treaty
-INS /country/country : _founded
-INS /country/country : _lower_house
-INS /country/country : _sovereignty_recognised__peace_of_westphalia_
-INS /country/country : _upper_house
-UPD /country/country/calling_code : +961 [ 3 ] -> +41
-UPD /country/country/currency : Lebanese pound ( LBP ) -> Swiss franc ( CHF )
-UPD /country/country/gdp__ppp_ : 2022 estimate -> 2025 estimate
-UPD /country/country/gdp_nominal : 2022 estimate -> 2025 estimate
-UPD /country/country/government : Unitary parliamentary republic under confessionalism [ 7 ] -> Federal assembly-independent [ 6 ] [ 7 ] directorial republic
-UPD /country/country/hdi_2023 : 0.752 [ 11 ] high ( 102nd ) -> 0.970 [ 14 ] very high ( 2nd )
-DEL /country/country/info : Flag
-DEL /country/country/info : Anthem: كلّنا للوطن ‎ Kullunā li-l-waṭan "All of us, for our country!"
-DEL /country/country/info : Location of Lebanon (in green)
-INS /country/country/info : Flag Coat of arms
-INS /country/country/info : Motto: (unofficial) " Unus pro omnibus, omnes pro uno " "One for all, all for one"
-INS /country/country/info : Anthem: " Swiss Psalm "
-INS /country/country/info : Show globe Show map of Europe Location of Switzerland (green) in Europe (green and dark grey)
-UPD /country/country/internet_tld : .lb .لبنان -> .ch , .swiss
-UPD /country/country/iso_3166_code : LB -> CH
-UPD /country/country/legislature : Parliament -> Federal Assembly
-UPD /country/country/official_languages : Arabic [ 1 ] -> German (62%), French (23%), Italian (8%), Romansh (0.5%)
-UPD /country/country/time_zone : UTC +2 ( EET ) -> UTC +1 ( CET )
-UPD /country/country/_density : 513/km 2 (1,328.7/sq mi) -> 207/km 2 (536.1/sq mi) ( 67th )
-DEL /country/country/_per_capita : $11,793 [ 9 ] ( 114th )
-DEL /country/country/_per_capita : $3,283 [ 9 ] ( 133rd )
-INS /country/country/_per_capita : $97,660 [ 12 ] ( 6th )
-INS /country/country/_per_capita : $111,047 [ 12 ] ( 3rd )
-UPD /country/country/_summer__dst_ : UTC +3 ( EEST ) -> UTC +2 ( CEST )
-DEL /country/country/_total : 10,452 km 2 (4,036 sq mi) ( 161st )
-DEL /country/country/_total : $78.233 billion [ 9 ] ( 108th )
-DEL /country/country/_total : $21.780 billion [ 9 ] ( 103rd )
-INS /country/country/_total : 41,291 [ 9 ] km 2 (15,943 sq mi) ( 132th )
-INS /country/country/_total : $881.083 billion [ 12 ] ( 35th )
-INS /country/country/_total : $1.003 trillion [ 12 ] ( 20th )
-UPD /country/country/_water_ : 1.8 -> 4 [ 9 ]
+COUNTRY TRANSFORMATION EDIT SCRIPT
+=================================
+Source: Lebanon
+Target: Switzerland
+Total operations: 71
+Delete operations: 25
+Insert operations: 28
+Update operations: 18
+
+EXECUTION ORDER
+---------------
+1) Apply all deletes (remove source-only structure).
+2) Apply all inserts (add target-only structure).
+3) Apply all updates (align shared values).
+
+PHASE 1 - DELETE SOURCE-ONLY DATA
+=================================
+[DEL-001] PATH /country/capital_and_largest_city
+Reason: Remove data that exists in source but not in target.
+Action: delete `capital_and_largest_city`
+
+[DEL-002] PATH /country/constitution
+Reason: Remove data that exists in source but not in target.
+Action: delete `constitution`
+
+[DEL-003] PATH /country/double_qaimmaqamate_of_mount_lebanon
+Reason: Remove data that exists in source but not in target.
+Action: delete `double_qaimmaqamate_of_mount_lebanon`
+
+[DEL-004] PATH /country/emirate_of_mount_lebanon
+Reason: Remove data that exists in source but not in target.
+Action: delete `emirate_of_mount_lebanon`
+
+[DEL-005] PATH /country/ethnic_groups
+Reason: Remove data that exists in source but not in target.
+Action: delete `ethnic_groups`
+
+[DEL-006] PATH /country/french_mandate_ended
+Reason: Remove data that exists in source but not in target.
+Action: delete `french_mandate_ended`
+
+[DEL-007] PATH /country/greater_lebanon
+Reason: Remove data that exists in source but not in target.
+Action: delete `greater_lebanon`
+
+[DEL-008] PATH /country/independence_declared
+Reason: Remove data that exists in source but not in target.
+Action: delete `independence_declared`
+
+[DEL-009] PATH /country/israeli_troops_withdrawn
+Reason: Remove data that exists in source but not in target.
+Action: delete `israeli_troops_withdrawn`
+
+[DEL-010] PATH /country/local_vernacular
+Reason: Remove data that exists in source but not in target.
+Action: delete `local_vernacular`
+
+[DEL-011] PATH /country/mount_lebanon_mutasarrifate
+Reason: Remove data that exists in source but not in target.
+Action: delete `mount_lebanon_mutasarrifate`
+
+[DEL-012] PATH /country/president
+Reason: Remove data that exists in source but not in target.
+Action: delete `president`
+
+[DEL-013] PATH /country/prime_minister
+Reason: Remove data that exists in source but not in target.
+Action: delete `prime_minister`
+
+[DEL-014] PATH /country/recognised_minority_language
+Reason: Remove data that exists in source but not in target.
+Action: delete `recognised_minority_language`
+
+[DEL-015] PATH /country/speaker_of_the_parliament
+Reason: Remove data that exists in source but not in target.
+Action: delete `speaker_of_the_parliament`
+
+[DEL-016] PATH /country/syrian_troops_withdrawn
+Reason: Remove data that exists in source but not in target.
+Action: delete `syrian_troops_withdrawn`
+
+[DEL-017] PATH /country/withdrawal_of_french_forces
+Reason: Remove data that exists in source but not in target.
+Action: delete `withdrawal_of_french_forces`
+
+[DEL-018] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `Anthem: كلّنا للوطن ‎ Kullunā li-l-waṭan "All of us, for our country!"`
+
+[DEL-019] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `Flag`
+
+[DEL-020] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `Location of Lebanon (in green)`
+
+[DEL-021] PATH /country/per_capita
+Reason: Remove data that exists in source but not in target.
+Action: delete `$11,793 [ 9 ] ( 114th )`
+
+[DEL-022] PATH /country/per_capita
+Reason: Remove data that exists in source but not in target.
+Action: delete `$3,283 [ 9 ] ( 133rd )`
+
+[DEL-023] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `$21.780 billion [ 9 ] ( 103rd )`
+
+[DEL-024] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `$78.233 billion [ 9 ] ( 108th )`
+
+[DEL-025] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `10,452 km 2 (4,036 sq mi) ( 161st )`
+
+PHASE 2 - INSERT TARGET-ONLY DATA
+=================================
+[INS-001] PATH /country/capital
+Reason: Add data that exists in target but not in source.
+Action: insert `capital`
+
+[INS-002] PATH /country/census
+Reason: Add data that exists in target but not in source.
+Action: insert `census`
+
+[INS-003] PATH /country/date_format
+Reason: Add data that exists in target but not in source.
+Action: insert `date_format`
+
+[INS-004] PATH /country/federal_chancellor
+Reason: Add data that exists in target but not in source.
+Action: insert `federal_chancellor`
+
+[INS-005] PATH /country/federal_city
+Reason: Add data that exists in target but not in source.
+Action: insert `federal_city`
+
+[INS-006] PATH /country/federal_council
+Reason: Add data that exists in target but not in source.
+Action: insert `federal_council`
+
+[INS-007] PATH /country/federal_state
+Reason: Add data that exists in target but not in source.
+Action: insert `federal_state`
+
+[INS-008] PATH /country/federal_treaty
+Reason: Add data that exists in target but not in source.
+Action: insert `federal_treaty`
+
+[INS-009] PATH /country/founded
+Reason: Add data that exists in target but not in source.
+Action: insert `founded`
+
+[INS-010] PATH /country/french
+Reason: Add data that exists in target but not in source.
+Action: insert `french`
+
+[INS-011] PATH /country/german
+Reason: Add data that exists in target but not in source.
+Action: insert `german`
+
+[INS-012] PATH /country/italian
+Reason: Add data that exists in target but not in source.
+Action: insert `italian`
+
+[INS-013] PATH /country/largest_city
+Reason: Add data that exists in target but not in source.
+Action: insert `largest_city`
+
+[INS-014] PATH /country/latin
+Reason: Add data that exists in target but not in source.
+Action: insert `latin`
+
+[INS-015] PATH /country/lower_house
+Reason: Add data that exists in target but not in source.
+Action: insert `lower_house`
+
+[INS-016] PATH /country/nationality
+Reason: Add data that exists in target but not in source.
+Action: insert `nationality`
+
+[INS-017] PATH /country/romansh
+Reason: Add data that exists in target but not in source.
+Action: insert `romansh`
+
+[INS-018] PATH /country/sovereignty_recognised_peace_of_westphalia
+Reason: Add data that exists in target but not in source.
+Action: insert `sovereignty_recognised_peace_of_westphalia`
+
+[INS-019] PATH /country/upper_house
+Reason: Add data that exists in target but not in source.
+Action: insert `upper_house`
+
+[INS-020] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Anthem: " Swiss Psalm "`
+
+[INS-021] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Flag Coat of arms`
+
+[INS-022] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Motto: (unofficial) " Unus pro omnibus, omnes pro uno " "One for all, all for one"`
+
+[INS-023] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Show globe Show map of Europe Location of Switzerland (green) in Europe (green and dark grey)`
+
+[INS-024] PATH /country/per_capita
+Reason: Add data that exists in target but not in source.
+Action: insert `$111,047 [ 12 ] ( 3rd )`
+
+[INS-025] PATH /country/per_capita
+Reason: Add data that exists in target but not in source.
+Action: insert `$97,660 [ 12 ] ( 6th )`
+
+[INS-026] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `$1.003 trillion [ 12 ] ( 20th )`
+
+[INS-027] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `$881.083 billion [ 12 ] ( 35th )`
+
+[INS-028] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `41,291 [ 9 ] km 2 (15,943 sq mi) ( 132th )`
+
+PHASE 3 - UPDATE SHARED DATA
+============================
+[UPD-001] PATH /country/calling_code
+Reason: Change shared field value to target value.
+Action: update `+961 [ 3 ]` -> `+41`
+
+[UPD-002] PATH /country/currency
+Reason: Change shared field value to target value.
+Action: update `Lebanese pound ( LBP )` -> `Swiss franc ( CHF )`
+
+[UPD-003] PATH /country/demonyms
+Reason: Change shared field value to target value.
+Action: update `Lebanese` -> `English: Swiss German: Schweizer/Schweizerin French: Suisse/Suissesse Italian : svizzero/svizzera or elvetico/elvetica Romansh : Svizzer/Svizra`
+
+[UPD-004] PATH /country/density
+Reason: Change shared field value to target value.
+Action: update `513/km 2 (1,328.7/sq mi)` -> `207/km 2 (536.1/sq mi) ( 67th )`
+
+[UPD-005] PATH /country/estimate
+Reason: Change shared field value to target value.
+Action: update `5,364,482 [ 8 ] ( 117th )` -> `9,060,598 [ 10 ] ( 99th )`
+
+[UPD-006] PATH /country/gdp_nominal
+Reason: Change shared field value to target value.
+Action: update `2022 estimate` -> `2025 estimate`
+
+[UPD-007] PATH /country/gdp_ppp
+Reason: Change shared field value to target value.
+Action: update `2022 estimate` -> `2025 estimate`
+
+[UPD-008] PATH /country/gini
+Reason: Change shared field value to target value.
+Action: update `31.8 [ 10 ] medium inequality` -> `31.5 [ 13 ] medium inequality`
+
+[UPD-009] PATH /country/government
+Reason: Change shared field value to target value.
+Action: update `Unitary parliamentary republic under confessionalism [ 7 ]` -> `Federal assembly-independent [ 6 ] [ 7 ] directorial republic`
+
+[UPD-010] PATH /country/hdi
+Reason: Change shared field value to target value.
+Action: update `0.752 [ 11 ] high ( 102nd )` -> `0.970 [ 14 ] very high ( 2nd )`
+
+[UPD-011] PATH /country/internet_tld
+Reason: Change shared field value to target value.
+Action: update `.lb .لبنان` -> `.ch , .swiss`
+
+[UPD-012] PATH /country/iso_3166_code
+Reason: Change shared field value to target value.
+Action: update `LB` -> `CH`
+
+[UPD-013] PATH /country/legislature
+Reason: Change shared field value to target value.
+Action: update `Parliament` -> `Federal Assembly`
+
+[UPD-014] PATH /country/official_languages
+Reason: Change shared field value to target value.
+Action: update `Arabic [ 1 ]` -> `German (62%), French (23%), Italian (8%), Romansh (0.5%)`
+
+[UPD-015] PATH /country/religion
+Reason: Change shared field value to target value.
+Action: update `53.31% Islam 26.84% Shia 0.64% Alawite 26.55% Sunni 41.40% Christianity 28.11% Catholic 8.30% Orthodox 2.92% Armenian Apostolic 0.53% Protestant 1.64% Other Christians 5.21% Druze 0.08% No religion` -> `54.7% Christianity 30% Catholicism 18.7% Protestantism 6% other Christian 36.8% no religion 6% Islam 1.5% other religions 0.9% unanswered`
+
+[UPD-016] PATH /country/summer_dst
+Reason: Change shared field value to target value.
+Action: update `UTC +3 ( EEST )` -> `UTC +2 ( CEST )`
+
+[UPD-017] PATH /country/time_zone
+Reason: Change shared field value to target value.
+Action: update `UTC +2 ( EET )` -> `UTC +1 ( CET )`
+
+[UPD-018] PATH /country/water
+Reason: Change shared field value to target value.
+Action: update `1.8` -> `4 [ 9 ]`
+

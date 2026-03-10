@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Slovak",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2021__a___2_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "88.6% Slovaks 8.2% Hungarians 1.3% Romani 1.9% others",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "21.2 [ 8 ] low inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.880 [ 9 ] very high ( 44th )",
@@ -164,7 +164,7 @@
         ]
       },
       {
-        "label": "regional_and_minority_languages__1_",
+        "label": "regional_and_minority_languages",
         "children": [
           {
             "label": "Bulgarian , Czech , Croatian , Hungarian , German , Polish , Romani , Russian , Ruthenian , Serbian , Ukrainian",
@@ -173,10 +173,10 @@
         ]
       },
       {
-        "label": "religion_2021__3_",
+        "label": "religion",
         "children": [
           {
-            "label": "68.8% Christianity 59.8% Catholicism 7.6% Protestantism 1.4% other Christian 23.8% no religion 0.9% other 6.5% unspecified",
+            "label": "68.8% Christianity 59.8% Catholicism 55.8% Latin Catholicism 3.8% Greek Catholicism 7.6% Protestantism 1.4% other Christian 23.8% no religion 0.9% other 6.5% unspecified",
             "children": []
           }
         ]
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_2021_census",
+        "label": "census",
         "children": [
           {
             "label": "5,449,270 [ 6 ]",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_30_june_2025_estimate",
+        "label": "30_june_estimate",
         "children": [
           {
             "label": "5,413,813 [ 5 ] ( 120th )",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_czechoslovak_socialist_republic",
+        "label": "czechoslovak_socialist_republic",
         "children": [
           {
             "label": "11 July 1960",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "110/km 2 (284.9/sq mi) ( 103rd )",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_dissolution_of_czechoslovakia",
+        "label": "dissolution_of_czechoslovakia",
         "children": [
           {
             "label": "1 January 1993",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_first_slovak_republic",
+        "label": "first_slovak_republic",
         "children": [
           {
             "label": "14 March 1939",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_fourth_czechoslovak_republic",
+        "label": "fourth_czechoslovak_republic",
         "children": [
           {
             "label": "25 February 1948",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_independence_from_austriahungary__first_czechoslovak_republic_",
+        "label": "independence_from_austriahungary_first_czechoslovak_republic",
         "children": [
           {
             "label": "28 October 1918",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$47,440 [ 7 ] ( 46th )",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Peter Pellegrini",
@@ -285,7 +285,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Robert Fico",
@@ -294,7 +294,7 @@
         ]
       },
       {
-        "label": "_second_czechoslovak_republic",
+        "label": "second_czechoslovak_republic",
         "children": [
           {
             "label": "30 September 1938",
@@ -303,7 +303,7 @@
         ]
       },
       {
-        "label": "_slovak_republic_change_of_name_within_established_czech_and_slovak_federative_republic_",
+        "label": "slovak_republic_change_of_name_within_established_czech_and_slovak_federative_republic",
         "children": [
           {
             "label": "1 March 1990",
@@ -312,7 +312,7 @@
         ]
       },
       {
-        "label": "_slovak_socialist_republic_within_czechoslovak_socialist_republic_change_of_unitary_czechoslovak_state_into_a_federation_",
+        "label": "slovak_socialist_republic_within_czechoslovak_socialist_republic_change_of_unitary_czechoslovak_state_into_a_federation",
         "children": [
           {
             "label": "1 January 1969",
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "label": "_speaker_of_the_national_council",
+        "label": "speaker_of_the_national_council",
         "children": [
           {
             "label": "Richard Raši",
@@ -330,7 +330,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -339,7 +339,7 @@
         ]
       },
       {
-        "label": "_third_czechoslovak_republic",
+        "label": "third_czechoslovak_republic",
         "children": [
           {
             "label": "24 October 1945",
@@ -348,7 +348,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "49,035 km 2 (18,933 sq mi) ( 127th )",
@@ -365,7 +365,7 @@
         ]
       },
       {
-        "label": "_treaty_of_trianon",
+        "label": "treaty_of_trianon",
         "children": [
           {
             "label": "4 June 1920",
@@ -374,7 +374,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.72 (2015) [ 4 ]",

@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Malagasy [ 4 ] [ 5 ]",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2017__2_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "26% Merina 15% Betsimisaraka 12% Betsileo 7% Tsimihety 6% Sakalava 5% Antaisaka 5% Antandroy 24% others",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2026 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2012",
+        "label": "gini",
         "children": [
           {
             "label": "42.6 [ 15 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.487 [ 16 ] low ( 183rd )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2020__3_",
+        "label": "religion",
         "children": [
           {
             "label": "84.7% Christianity 45.8% Protestantism 38.1% Catholicism 0.8% other Christian 7.3% no religion 4.7% traditional faiths 3.1% Islam 0.3% others",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "31,964,956 [ 10 ] ( 49th )",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2025_malagasy_protests",
+        "label": "malagasy_protests",
         "children": [
           {
             "label": "25 September – 14 October 2025",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_coup_detat",
+        "label": "coup_detat",
         "children": [
           {
             "label": "12–14 October 2025",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "11 December 2010",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_declaration_of_independence",
+        "label": "declaration_of_independence",
         "children": [
           {
             "label": "26 June 1960",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "55/km 2 (142.4/sq mi) ( 164th )",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_french_colony__8_",
+        "label": "french_colony",
         "children": [
           {
             "label": "6 August 1896",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_french_protectorate",
+        "label": "french_protectorate",
         "children": [
           {
             "label": "c. 1882",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_kingdom__7_",
+        "label": "kingdom",
         "children": [
           {
             "label": "c. 1540",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "National Assembly",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$2,110 [ 12 ] ( 182nd )",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Michael Randrianirina [ 6 ]",
@@ -290,16 +290,16 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
-            "label": "Herintsalama Rajaonarivelo",
+            "label": "Vacant",
             "children": []
           }
         ]
       },
       {
-        "label": "_referendum",
+        "label": "referendum",
         "children": [
           {
             "label": "21 December 1975",
@@ -312,7 +312,7 @@
         ]
       },
       {
-        "label": "_republic_proclaimed",
+        "label": "republic_proclaimed",
         "children": [
           {
             "label": "14 October 1958",
@@ -321,25 +321,25 @@
         ]
       },
       {
-        "label": "_socialist_state",
+        "label": "socialist_state",
         "children": [
           {
-            "label": "30 December 1975 - 12 January 1992",
+            "label": "30 December 1975 – 12 January 1992",
             "children": []
           }
         ]
       },
       {
-        "label": "_third_republic",
+        "label": "third_republic",
         "children": [
           {
-            "label": "12 January 1992 - 11 December 2010",
+            "label": "12 January 1992 – 11 December 2010",
             "children": []
           }
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "592,796 [ 9 ] km 2 (228,880 sq mi) ( 46th )",
@@ -356,7 +356,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate (suspended) [ 6 ]",
@@ -365,7 +365,7 @@
         ]
       },
       {
-        "label": "_water",
+        "label": "water",
         "children": [
           {
             "label": "5,501 km 2 (2,124 sq mi)",
@@ -374,7 +374,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.9%",

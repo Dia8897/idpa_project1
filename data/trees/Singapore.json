@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Singaporean",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2023__b_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "74.3% Chinese 13.5% Malay 9.0% Indian 3.2% Other",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "43.3 [ 7 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.946 [ 8 ] very high ( 13th )",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "religion_2020__c_",
+        "label": "religion",
         "children": [
           {
             "label": "31.1% Buddhism 20.0% No religion 18.9% Christianity 15.6% Islam 8.8% Taoism 5.0% Hinduism 0.3% Sikhism 0.3% Other",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "6,110,200 [ d ] ( 111th )",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "8,290/km 2 (21,471.0/sq mi) ( 3rd )",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_malaysia_agreement",
+        "label": "malaysia_agreement",
         "children": [
           {
             "label": "16 September 1963",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$156,755 [ 6 ] ( 1st )",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Tharman Shanmugaratnam",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Lawrence Wong",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_proclamation_of_singapore",
+        "label": "proclamation_of_singapore",
         "children": [
           {
             "label": "9 August 1965",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_selfgovernance",
+        "label": "selfgovernance",
         "children": [
           {
             "label": "3 June 1959",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "744.3 km 2 (287.4 sq mi) [ 4 ] ( 176th )",
@@ -289,7 +289,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.43%",

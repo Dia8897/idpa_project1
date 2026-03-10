@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2024__2_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "79% Tswana 11% Kalanga 3% San 7% others [ a ]",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2026 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2016",
+        "label": "gini",
         "children": [
           {
             "label": "45.5 [ 11 ] [ 12 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.731 [ 13 ] high ( 111th )",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "religion_2021__3_",
+        "label": "religion",
         "children": [
           {
             "label": "79.1% Christianity 70.2% Protestantism 8.9% other Christian 15.2% no religion 4.1% Badimo 1.4% others [ b ] 0.3% unspecified",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2022_census",
+        "label": "census",
         "children": [
           {
             "label": "2,359,609 [ 6 ] ( 143rd )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "4.1/km 2 (10.6/sq mi) ( 231st )",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_established__constitution_",
+        "label": "established_constitution",
         "children": [
           {
             "label": "30 September 1966",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_national_assembly_speaker",
+        "label": "national_assembly_speaker",
         "children": [
           {
             "label": "Dithapelo Keorapetse",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$19,540 [ 8 ] ( 83rd )",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Duma Boko",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "581,730 km 2 (224,610 sq mi) [ 5 ] ( 47th )",
@@ -262,7 +262,7 @@
         ]
       },
       {
-        "label": "_vicepresident",
+        "label": "vicepresident",
         "children": [
           {
             "label": "Ndaba Gaolathe",
@@ -271,7 +271,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "2.7",

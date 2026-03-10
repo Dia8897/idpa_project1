@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Belarusian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2019__1_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "84.9% Belarusians 7.5% Russians 3.1% Poles 1.7% Ukrainians 2.8% other",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2019",
+        "label": "gini",
         "children": [
           {
             "label": "25.3 [ 12 ] low inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.824 [ 13 ] very high ( 65th )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2020__2_",
+        "label": "religion",
         "children": [
           {
             "label": "91.0% Christianity 83.3% Eastern Orthodoxy 7.7% other Christian 7.8% no religion 1.2% other",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "9,109,280 [ 10 ] ( 98th )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_belarusian_peoples_republic",
+        "label": "belarusian_peoples_republic",
         "children": [
           {
             "label": "25 March 1918",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_byelorussian_soviet_socialist_republic",
+        "label": "byelorussian_soviet_socialist_republic",
         "children": [
           {
             "label": "31 July 1920",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "15 March 1994",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_declaration_of_independence",
+        "label": "declaration_of_independence",
         "children": [
           {
             "label": "25 August 1991",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "43.9/km 2 (113.7/sq mi)",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_internationally_recognised__dissolution_of_the_soviet_union_",
+        "label": "internationally_recognised_dissolution_of_the_soviet_union",
         "children": [
           {
             "label": "26 December 1991",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_kievan_rus",
+        "label": "kievan_rus",
         "children": [
           {
             "label": "882",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Representatives",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$24,016 [ 11 ] ( 71st )",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Alexander Lukashenko [ a ]",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Alexander Turchin",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "207,600 [ 9 ] km 2 (80,200 sq mi) ( 84th )",
@@ -316,7 +316,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Council of the Republic",
@@ -325,7 +325,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "2.26% (4.700 km 2 or 1.815 sq mi) [ 9 ]",

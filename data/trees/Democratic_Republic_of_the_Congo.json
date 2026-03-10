@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Congolese",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2012",
+        "label": "gini",
         "children": [
           {
             "label": "42.1 [ 5 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.522 [ 6 ] low ( 171st )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2021__1_",
+        "label": "religion",
         "children": [
           {
             "label": "95.4% Christianity 2.6% traditional faiths 1.5% Islam 0.5% others / none",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "114,388,160 [ 3 ] ( 15th )",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_admitted_to_the_united_nations",
+        "label": "admitted_to_the_united_nations",
         "children": [
           {
             "label": "20 September 1960",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_belgian_congo",
+        "label": "belgian_congo",
         "children": [
           {
             "label": "15 November 1908",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_colonised_by_leopold_ii_of_belgium",
+        "label": "colonised_by_leopold_ii_of_belgium",
         "children": [
           {
             "label": "17 November 1879",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_congo_free_state",
+        "label": "congo_free_state",
         "children": [
           {
             "label": "1 July 1885",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "18 February 2006",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_democratic_republic",
+        "label": "democratic_republic",
         "children": [
           {
             "label": "1 August 1964",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "48/km 2 (124.3/sq mi) ( 168th )",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_first_congo_war",
+        "label": "first_congo_war",
         "children": [
           {
             "label": "17 May 1997",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_independence_from_belgium",
+        "label": "independence_from_belgium",
         "children": [
           {
             "label": "30 June 1960 [ 2 ]",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "National Assembly",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$1,881 [ 4 ] ( 180th )",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Félix Tshisekedi",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Judith Suminwa",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_republic_of_zaire",
+        "label": "republic_of_zaire",
         "children": [
           {
             "label": "27 October 1971",
@@ -317,7 +317,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "2,345,409 km 2 (905,567 sq mi) ( 11th )",
@@ -334,7 +334,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -343,7 +343,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "3.32",

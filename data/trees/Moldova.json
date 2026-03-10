@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Moldovan",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2024_excl_transnistria___6_",
+        "label": "ethnic_groups_excl_transnistria",
         "children": [
           {
             "label": "76.7% Moldovans [ a ] 8.0% Romanians [ a ] 5.1% Ukrainians 4.0% Gagauz 3.4% Russians 1.6% Bulgarians 1.1% other",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2026 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2021",
+        "label": "gini",
         "children": [
           {
             "label": "25.7 [ 11 ] low inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.785 [ 12 ] high ( 86th )",
@@ -146,7 +146,7 @@
         ]
       },
       {
-        "label": "official_language_and_national_language__1___2_",
+        "label": "official_language_and_national_language",
         "children": [
           {
             "label": "Romanian",
@@ -155,7 +155,7 @@
         ]
       },
       {
-        "label": "recognised_minority_languages__3___4___5_",
+        "label": "recognised_minority_languages",
         "children": [
           {
             "label": "See list Belarusian Bulgarian Gagauz German Hebrew Polish Romani Russian Ukrainian",
@@ -164,7 +164,7 @@
         ]
       },
       {
-        "label": "religion_2024_excl_transnistria__6_",
+        "label": "religion_excl_transnistria",
         "children": [
           {
             "label": "97.4% Christianity 94.3% Eastern Orthodoxy 3.1% other Christian 0.3% other 1.5% no religion 0.8% unanswered",
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "label": "_2024_census",
+        "label": "census",
         "children": [
           {
             "label": "2,409,207 [ 8 ] [ c ]",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_bessarabia_governorate",
+        "label": "bessarabia_governorate",
         "children": [
           {
             "label": "1812",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_constitution_adopted",
+        "label": "constitution_adopted",
         "children": [
           {
             "label": "29 July 1994",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "78.5/km 2 (203.3/sq mi)",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_excl_transnistria",
+        "label": "excl_transnistria",
         "children": [
           {
             "label": "30,319 km 2 (11,706 sq mi) [ b ]",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_incl_transnistria",
+        "label": "incl_transnistria",
         "children": [
           {
             "label": "33,843 [ 7 ] km 2 (13,067 sq mi) ( 135th )",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_independence_from_the_soviet_union",
+        "label": "independence_from_the_soviet_union",
         "children": [
           {
             "label": "27 August 1991 a",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_january_2025_estimate",
+        "label": "january_estimate",
         "children": [
           {
             "label": "2,381,325 [ 9 ] [ c ] ( 140th )",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_moldavian_assr",
+        "label": "moldavian_assr",
         "children": [
           {
             "label": "12 October 1924",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_moldavian_democratic_republic",
+        "label": "moldavian_democratic_republic",
         "children": [
           {
             "label": "15 December 1917",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_moldavian_ssr",
+        "label": "moldavian_ssr",
         "children": [
           {
             "label": "2 August 1940",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$20,731 [ 10 ] ( 93th )",
@@ -294,7 +294,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Maia Sandu",
@@ -303,7 +303,7 @@
         ]
       },
       {
-        "label": "_president_of_the_parliament",
+        "label": "president_of_the_parliament",
         "children": [
           {
             "label": "Igor Grosu",
@@ -312,7 +312,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Alexandru Munteanu",
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "label": "_principality_of_moldavia",
+        "label": "principality_of_moldavia",
         "children": [
           {
             "label": "1346",
@@ -330,7 +330,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +3 ( EEST )",
@@ -339,7 +339,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "$48.511 billion [ 10 ] [ c ] ( 135th )",
@@ -352,7 +352,7 @@
         ]
       },
       {
-        "label": "_transnistria_war",
+        "label": "transnistria_war",
         "children": [
           {
             "label": "2 November 1990",
@@ -361,7 +361,7 @@
         ]
       },
       {
-        "label": "_union_with_romania",
+        "label": "union_with_romania",
         "children": [
           {
             "label": "9 April 1918",
@@ -370,7 +370,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.4 (incl. Transnistria)",

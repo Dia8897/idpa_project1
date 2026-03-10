@@ -16,7 +16,7 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Santiago a 33°26′S 70°40′W ﻿ / ﻿ 33.433°S 70.667°W ﻿ / -33.433; -70.667",
+            "label": "Santiago [ a ] 33°26′S 70°40′W ﻿ / ﻿ 33.433°S 70.667°W ﻿ / -33.433; -70.667",
             "children": []
           }
         ]
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Chilean",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "44.8 [ 10 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.878 [ 11 ] very high ( 45th )",
@@ -117,7 +117,7 @@
             "children": []
           },
           {
-            "label": "Legislature is based in Valparaíso . Includes Easter Island and Isla Salas y Gómez ; does not include 1,250,000 square kilometres (480,000 sq mi) of territory claimed in Antarctica.",
+            "label": "^ Legislature is based in Valparaíso . ^ Includes Easter Island and Isla Salas y Gómez ; does not include 1,250,000 square kilometres (480,000 sq mi) of territory claimed in Antarctica.",
             "children": []
           }
         ]
@@ -150,7 +150,7 @@
         ]
       },
       {
-        "label": "national_language",
+        "label": "official_language_and_national_language",
         "children": [
           {
             "label": "Spanish",
@@ -168,7 +168,7 @@
         ]
       },
       {
-        "label": "religion_2024__1_",
+        "label": "religion",
         "children": [
           {
             "label": "70% Christianity 54% Catholicism 16% Protestantism 26% no religion 4% other",
@@ -186,7 +186,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "19,629,588 [ 5 ] ( 63rd )",
@@ -195,7 +195,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "11 March 1981",
@@ -204,7 +204,7 @@
         ]
       },
       {
-        "label": "_declared",
+        "label": "declared",
         "children": [
           {
             "label": "12 February 1818",
@@ -213,7 +213,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "24/km 2 (62.2/sq mi) ( 198th )",
@@ -222,7 +222,7 @@
         ]
       },
       {
-        "label": "_government_junta",
+        "label": "government_junta",
         "children": [
           {
             "label": "18 September 1810",
@@ -231,7 +231,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Chamber of Deputies",
@@ -240,7 +240,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$35,290 [ 7 ] ( 61st )",
@@ -253,7 +253,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Gabriel Boric",
@@ -262,7 +262,7 @@
         ]
       },
       {
-        "label": "_president_of_supreme_court",
+        "label": "president_of_supreme_court",
         "children": [
           {
             "label": "Juan Fuentes Belmar",
@@ -271,7 +271,7 @@
         ]
       },
       {
-        "label": "_president_of_the_chamber_of_deputies",
+        "label": "president_of_the_chamber_of_deputies",
         "children": [
           {
             "label": "José Miguel Castro",
@@ -280,7 +280,7 @@
         ]
       },
       {
-        "label": "_president_of_the_senate",
+        "label": "president_of_the_senate",
         "children": [
           {
             "label": "Manuel José Ossandón",
@@ -289,7 +289,7 @@
         ]
       },
       {
-        "label": "_recognized",
+        "label": "recognized",
         "children": [
           {
             "label": "25 April 1844",
@@ -298,7 +298,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC −3, −5 ( CLST, EASST )",
@@ -307,10 +307,10 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
-            "label": "756,101.96 [ 2 ] [ 3 ] km 2 (291,932.60 sq mi) b ( 37th )",
+            "label": "756,101.96 [ 2 ] [ 3 ] km 2 (291,932.60 sq mi) [ b ] ( 37th )",
             "children": []
           },
           {
@@ -324,7 +324,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -333,7 +333,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "2.1 (as of 2015) [ 4 ]",

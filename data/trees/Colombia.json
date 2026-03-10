@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Colombian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2018_census__2___3__",
+        "label": "ethnic_groups_census",
         "children": [
           {
             "label": "84.99% Mestizo - White [ a ] 9.34% Black 4.31% Indigenous 0.01% Romanis 1.35% not specified",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2024 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "53.9 [ 8 ] high inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.788 [ 9 ] high ( 83rd )",
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "label": "religion_2022__4_",
+        "label": "religion",
         "children": [
           {
             "label": "70% Catholicism 17% other Christian 11% no religion 1.9% other",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "52,695,952 [ 6 ] ( 27th )",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "4 July 1991",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_declared",
+        "label": "declared",
         "children": [
           {
             "label": "20 July 1810",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "46.15/km 2 (119.5/sq mi) ( 174th )",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_last_unitisation",
+        "label": "last_unitisation",
         "children": [
           {
             "label": "5 August 1886",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Chamber of Representatives",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$19,770 [ 7 ] ( 82nd )",
@@ -258,7 +258,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Gustavo Petro",
@@ -267,7 +267,7 @@
         ]
       },
       {
-        "label": "_recognized",
+        "label": "recognized",
         "children": [
           {
             "label": "7 August 1819",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "label": "_secession_of_panama",
+        "label": "secession_of_panama",
         "children": [
           {
             "label": "6 November 1903",
@@ -285,7 +285,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "1,141,748 km 2 (440,831 sq mi) ( 25th )",
@@ -302,7 +302,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -311,7 +311,7 @@
         ]
       },
       {
-        "label": "_vice_president",
+        "label": "vice_president",
         "children": [
           {
             "label": "Francia Márquez",
@@ -320,7 +320,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "2.1 (as of 2015) [ 5 ]",

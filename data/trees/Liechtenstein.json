@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Liechtensteiner",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2024 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.938 [ 9 ] very high ( 17th )",
@@ -133,7 +133,7 @@
         ]
       },
       {
-        "label": "nationality_2017__1_",
+        "label": "nationality",
         "children": [
           {
             "label": "66.2 % Liechtensteiners 9.5 % Swiss 5.8 % Austrians 4.2 % Germans 3.1 % Italians 1.9 % Portuguese 1.6 % Turks 1.1 % Albanians 1.0 % Spaniards 5.6 % other",
@@ -151,7 +151,7 @@
         ]
       },
       {
-        "label": "religion_2020__2_",
+        "label": "religion",
         "children": [
           {
             "label": "79.4 % Christianity 69.6 % Catholicism ( official ) 9.8 % other Christian 9.6 % no religion 6.0 % Islam 5.0 % other",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "41,232 [ 5 ] ( 189th )",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "249/km 2 (644.9/sq mi) ( 56th )",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_deputy_prime_minister",
+        "label": "deputy_prime_minister",
         "children": [
           {
             "label": "Sabine Monauni",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Hans-Adam II",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$210,600 [ 6 ]",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Brigitte Haas",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_regent_and_heir_apparent",
+        "label": "regent_and_heir_apparent",
         "children": [
           {
             "label": "Alois",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_separation_from_german_confederation",
+        "label": "separation_from_german_confederation",
         "children": [
           {
             "label": "23 August 1866",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +02:00 ( CEST )",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "160.50 [ 3 ] km 2 (61.97 sq mi) ( 190th )",
@@ -271,7 +271,7 @@
         ]
       },
       {
-        "label": "_treaty_of_pressburg",
+        "label": "treaty_of_pressburg",
         "children": [
           {
             "label": "12 July 1806",
@@ -280,7 +280,7 @@
         ]
       },
       {
-        "label": "_union_between_vaduz_and_schellenberg",
+        "label": "union_between_vaduz_and_schellenberg",
         "children": [
           {
             "label": "23 January 1719",
@@ -289,7 +289,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "2.7 [ 4 ]",

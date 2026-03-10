@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Serbian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2022__1___b__",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "80.6% Serbs 2.8% Hungarians 2.3% Bosniaks 2% Roma 5.4% others 6.9% undeclared/unknown",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2026 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2024",
+        "label": "gini",
         "children": [
           {
             "label": "31.9 [ 8 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.833 [ 9 ] very high ( 62nd )",
@@ -156,7 +156,7 @@
         ]
       },
       {
-        "label": "religion_2022__1___c__",
+        "label": "religion",
         "children": [
           {
             "label": "86.6% Christianity 81.1% Serbian Orthodoxy 3.9% Catholicism 1.7% other 4.2% Islam 1.1% no religion 7.9% undeclared/unknown",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2022_census",
+        "label": "census",
         "children": [
           {
             "label": "6,647,003 (excluding Kosovo) [ 6 ]",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "6,567,783 (excluding Kosovo) [ 5 ] ( 107th )",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "85/km 2 (220.1/sq mi) ( 127th )",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_empire",
+        "label": "empire",
         "children": [
           {
             "label": "1346",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_excluding_kosovo",
+        "label": "excluding_kosovo",
         "children": [
           {
             "label": "77,589 km 2 (29,957 sq mi) [ 4 ]",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_federal_republic_of_yugoslavia",
+        "label": "federal_republic_of_yugoslavia",
         "children": [
           {
             "label": "1992",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_independence_lost",
+        "label": "independence_lost",
         "children": [
           {
             "label": "1459",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_independence_recognised",
+        "label": "independence_recognised",
         "children": [
           {
             "label": "1878",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_independence_restored",
+        "label": "independence_restored",
         "children": [
           {
             "label": "2006",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "label": "_kingdom",
+        "label": "kingdom",
         "children": [
           {
             "label": "1217",
@@ -264,7 +264,7 @@
         ]
       },
       {
-        "label": "_kingdom_of_serbia",
+        "label": "kingdom_of_serbia",
         "children": [
           {
             "label": "1882",
@@ -273,7 +273,7 @@
         ]
       },
       {
-        "label": "_kingdom_of_yugoslavia",
+        "label": "kingdom_of_yugoslavia",
         "children": [
           {
             "label": "1918",
@@ -282,7 +282,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$34,790 [ 7 ] ( 65th )",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Aleksandar Vučić",
@@ -304,7 +304,7 @@
         ]
       },
       {
-        "label": "_president_of_the_national_assembly",
+        "label": "president_of_the_national_assembly",
         "children": [
           {
             "label": "Ana Brnabić",
@@ -313,7 +313,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Đuro Macut",
@@ -322,7 +322,7 @@
         ]
       },
       {
-        "label": "_principality",
+        "label": "principality",
         "children": [
           {
             "label": "7th century [ 2 ]",
@@ -331,7 +331,7 @@
         ]
       },
       {
-        "label": "_principality_of_serbia",
+        "label": "principality_of_serbia",
         "children": [
           {
             "label": "1815",
@@ -340,7 +340,7 @@
         ]
       },
       {
-        "label": "_serbian_revolution",
+        "label": "serbian_revolution",
         "children": [
           {
             "label": "1804",
@@ -349,7 +349,7 @@
         ]
       },
       {
-        "label": "_socialist_republic_of_serbia_within_the_sfr_yugoslavia",
+        "label": "socialist_republic_of_serbia_within_the_sfr_yugoslavia",
         "children": [
           {
             "label": "1945",
@@ -358,7 +358,7 @@
         ]
       },
       {
-        "label": "_state_union_of_serbia_and_montenegro",
+        "label": "state_union_of_serbia_and_montenegro",
         "children": [
           {
             "label": "2003",
@@ -367,7 +367,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -376,7 +376,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "88,499 km 2 (34,170 sq mi) [ 3 ] ( 111th )",

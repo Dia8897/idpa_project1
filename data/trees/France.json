@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "French",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "29.8 [ 7 ] low inequality",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.920 [ 8 ] very high ( 26th )",
@@ -151,7 +151,7 @@
         ]
       },
       {
-        "label": "religion_2021__1_",
+        "label": "religion",
         "children": [
           {
             "label": "50% Christianity 33% irreligion 4% Islam 4% other religions",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "109/km 2 (283/sq mi) ( 106th )",
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "label": "_january_2026_estimate",
+        "label": "january_estimate",
         "children": [
           {
             "label": "69,081,996 [ 5 ] ( 21st )",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "National Assembly",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_metropolitan_france__dgcl_",
+        "label": "metropolitan_france_dgcl",
         "children": [
           {
             "label": "543,941 km 2 (210,017 sq mi) [ 4 ] ( 50th )",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_metropolitan_france__insee___a_",
+        "label": "metropolitan_france_insee",
         "children": [
           {
             "label": "543,908.3 km 2 (210,004.2 sq mi) [ 3 ] [ b ] ( 50th )",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_metropolitan_france_estimate_as_of_january_2026_update",
+        "label": "metropolitan_france_estimate_as_of_january",
         "children": [
           {
             "label": "66,792,845 [ 5 ] ( 21st )",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$65,626 [ 6 ] ( 25th )",
@@ -240,7 +240,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Emmanuel Macron",
@@ -249,7 +249,7 @@
         ]
       },
       {
-        "label": "_president_of_the_national_assembly",
+        "label": "president_of_the_national_assembly",
         "children": [
           {
             "label": "Yaël Braun-Pivet",
@@ -258,7 +258,7 @@
         ]
       },
       {
-        "label": "_president_of_the_senate",
+        "label": "president_of_the_senate",
         "children": [
           {
             "label": "Gérard Larcher",
@@ -267,7 +267,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Sébastien Lecornu",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -285,7 +285,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "632,702.3 km 2 (244,287.7 sq mi) (including metropolitan France and overseas France and excluding Terre Adelie ) [ 3 ] ( 42nd )",
@@ -302,7 +302,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -311,7 +311,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.86 [ 2 ]",

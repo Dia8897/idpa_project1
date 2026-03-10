@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2011__3_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "35.4% Indian 34.2% African 22.8% Mixed 1.3% other [ a ] 6.2% unspecified",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2012",
+        "label": "gini",
         "children": [
           {
             "label": "39.0 [ 9 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.807 [ 10 ] very high ( 72nd )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2011_census__4_",
+        "label": "religion_census",
         "children": [
           {
             "label": "55.2% Christianity 18.2% Hinduism 5.0% Islam 8.3% Other 13.3% Irreligion /Not stated",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "1,512,779 [ 7 ] ( 154th )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_chief_justice",
+        "label": "chief_justice",
         "children": [
           {
             "label": "Ronnie Boodoosingh",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "294/km 2 (761.5/sq mi) ( 34th )",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_house_speaker",
+        "label": "house_speaker",
         "children": [
           {
             "label": "Jagdeo Singh",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_independence",
+        "label": "independence",
         "children": [
           {
             "label": "31 August 1962",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_joined_the_caribbean_community_at_the_treaty_of_chaguaramas",
+        "label": "joined_the_caribbean_community_at_the_treaty_of_chaguaramas",
         "children": [
           {
             "label": "1 August 1973",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Representatives",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$30,718 [ 8 ] ( 58th )",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Christine Kangaloo",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Kamla Persad-Bissessar",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_province_of_the_west_indies_federation",
+        "label": "province_of_the_west_indies_federation",
         "children": [
           {
             "label": "3 January 1958 – 14 January 1962",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_republic",
+        "label": "republic",
         "children": [
           {
             "label": "1 August 1976 [ b ]",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_senate_president",
+        "label": "senate_president",
         "children": [
           {
             "label": "Wade Mark",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "5,131 km 2 (1,981 sq mi) ( 164th )",
@@ -325,7 +325,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -334,7 +334,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "negligible",

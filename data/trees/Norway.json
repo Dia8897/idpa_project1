@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Norwegian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2025__4_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "78.6% Norwegian [ note 3 ] 21.4% non-Norwegian",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2020",
+        "label": "gini",
         "children": [
           {
             "label": "25.3 [ 13 ] low inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.970 [ 14 ] very high ( 2nd )",
@@ -146,16 +146,7 @@
         ]
       },
       {
-        "label": "kingdom_of_norway_kongeriket_norge__bokml__kongeriket_noreg__nynorsk__in_other_official_languages__1__kven__norjan_kuninkhaanvaltakunta_northern_sami__norgga_gonagasriika_southern_sami__nrjen_gnkarjhke_lule_sami__vuona_gngisrijkka",
-        "children": [
-          {
-            "label": "Norjan kuninkhaanvaltakunta",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kven_",
+        "label": "kven",
         "children": [
           {
             "label": "Norjan kuninkhaanvaltakunta",
@@ -173,7 +164,7 @@
         ]
       },
       {
-        "label": "lule_sami_",
+        "label": "lule_sami",
         "children": [
           {
             "label": "Vuona gånågisrijkka",
@@ -182,7 +173,7 @@
         ]
       },
       {
-        "label": "northern_sami_",
+        "label": "northern_sami",
         "children": [
           {
             "label": "Norgga gonagasriika",
@@ -209,7 +200,7 @@
         ]
       },
       {
-        "label": "religion_2024__5___6_",
+        "label": "religion",
         "children": [
           {
             "label": "68.5% Christianity 61.7% Church of Norway [ note 4 ] 6.8% other Christian 27.3% no religion 3.4% Islam 0.8% other",
@@ -218,7 +209,7 @@
         ]
       },
       {
-        "label": "southern_sami_",
+        "label": "southern_sami",
         "children": [
           {
             "label": "Nöörjen gånkarïjhke",
@@ -236,7 +227,7 @@
         ]
       },
       {
-        "label": "_2026_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "5,627,400 [ 11 ] ( 116th )",
@@ -245,7 +236,7 @@
         ]
       },
       {
-        "label": "_chief_justice",
+        "label": "chief_justice",
         "children": [
           {
             "label": "Toril Marie Øie",
@@ -254,7 +245,7 @@
         ]
       },
       {
-        "label": "_constitution",
+        "label": "constitution",
         "children": [
           {
             "label": "17 May 1814",
@@ -263,7 +254,7 @@
         ]
       },
       {
-        "label": "_denmarknorway_real_union",
+        "label": "denmarknorway_real_union",
         "children": [
           {
             "label": "1524",
@@ -272,7 +263,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "14.6/km 2 (37.8/sq mi) ( 224th )",
@@ -281,7 +272,7 @@
         ]
       },
       {
-        "label": "_kalmar_union_personal_union",
+        "label": "kalmar_union_personal_union",
         "children": [
           {
             "label": "1397",
@@ -290,7 +281,7 @@
         ]
       },
       {
-        "label": "_kingdoms_of_swedennorway_personal_union",
+        "label": "kingdoms_of_swedennorway_personal_union",
         "children": [
           {
             "label": "4 November 1814",
@@ -299,7 +290,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Harald V",
@@ -308,7 +299,7 @@
         ]
       },
       {
-        "label": "_peak_extent_of_the_old_kingdom",
+        "label": "peak_extent_of_the_old_kingdom",
         "children": [
           {
             "label": "1263",
@@ -317,7 +308,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$107,890 [ 12 ] ( 5th )",
@@ -330,7 +321,7 @@
         ]
       },
       {
-        "label": "_president_of_the_storting",
+        "label": "president_of_the_storting",
         "children": [
           {
             "label": "Masud Gharahkhani",
@@ -339,7 +330,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Jonas Gahr Støre",
@@ -348,7 +339,7 @@
         ]
       },
       {
-        "label": "_state_established",
+        "label": "state_established",
         "children": [
           {
             "label": "872",
@@ -357,7 +348,7 @@
         ]
       },
       {
-        "label": "_state_reestablished__8_",
+        "label": "state_reestablished",
         "children": [
           {
             "label": "25 February 1814",
@@ -366,7 +357,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -375,7 +366,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "385,207 km 2 (148,729 sq mi) [ 10 ] ( 61st b )",
@@ -392,7 +383,7 @@
         ]
       },
       {
-        "label": "_union_dissolved",
+        "label": "union_dissolved",
         "children": [
           {
             "label": "7 June 1905",
@@ -401,7 +392,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "5.32 (2015) [ 9 ]",

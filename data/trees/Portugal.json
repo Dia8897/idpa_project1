@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Portuguese",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2026 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2024",
+        "label": "gini",
         "children": [
           {
             "label": "31.9 [ 11 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.890 [ 12 ] very high ( 40th )",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2021_census",
+        "label": "census",
         "children": [
           {
             "label": "10,343,066 [ 9 ]",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "10,749,635 [ 8 ] ( 87th )",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_battle_of_ourique",
+        "label": "battle_of_ourique",
         "children": [
           {
             "label": "25 July 1139",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_conference_of_zamora",
+        "label": "conference_of_zamora",
         "children": [
           {
             "label": "4–5 October 1143",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_county",
+        "label": "county",
         "children": [
           {
             "label": "868",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "25 April 1976 [ c ]",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_democratisation",
+        "label": "democratisation",
         "children": [
           {
             "label": "25 April 1974",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "116.6/km 2 (302.0/sq mi)",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_first_constitution",
+        "label": "first_constitution",
         "children": [
           {
             "label": "23 September 1822",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "label": "_land",
+        "label": "land",
         "children": [
           {
             "label": "92,225 km 2 (35,608 sq mi) [ 6 ]",
@@ -264,7 +264,7 @@
         ]
       },
       {
-        "label": "_manifestis_probatum",
+        "label": "manifestis_probatum",
         "children": [
           {
             "label": "23 May 1179",
@@ -273,7 +273,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$51,853 [ 10 ] ( 42nd )",
@@ -286,16 +286,16 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
-            "label": "Marcelo Rebelo de Sousa",
+            "label": "António José Seguro",
             "children": []
           }
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Luís Montenegro",
@@ -304,7 +304,7 @@
         ]
       },
       {
-        "label": "_republic",
+        "label": "republic",
         "children": [
           {
             "label": "5 October 1910",
@@ -313,7 +313,7 @@
         ]
       },
       {
-        "label": "_restoration",
+        "label": "restoration",
         "children": [
           {
             "label": "1 December 1640",
@@ -322,7 +322,7 @@
         ]
       },
       {
-        "label": "_sovereignty",
+        "label": "sovereignty",
         "children": [
           {
             "label": "24 June 1128 [ b ]",
@@ -331,7 +331,7 @@
         ]
       },
       {
-        "label": "_speaker",
+        "label": "speaker",
         "children": [
           {
             "label": "José Pedro Aguiar-Branco",
@@ -340,7 +340,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +1 and +0",
@@ -349,7 +349,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "156,597 km 2 (60,462 sq mi) [ d ] ( 92nd )",
@@ -366,7 +366,7 @@
         ]
       },
       {
-        "label": "_water",
+        "label": "water",
         "children": [
           {
             "label": "64,372 km 2 (24,854 sq mi) [ 7 ]",
@@ -375,7 +375,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.2 (2015) [ 4 ]",

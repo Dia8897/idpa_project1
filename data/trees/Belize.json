@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Belizean",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2010",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "52.9% Mestizo 25.9% Creole 11.3% Mayan 6.1% Garifuna 3.9% East Indian 3.6% Mennonite 1.2% White 1.0% Asian 1.2% Other 0.3% Unknown [ 1 ]",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2013",
+        "label": "gini",
         "children": [
           {
             "label": "53.1 [ 8 ] high inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.721 [ 9 ] high ( 115th )",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "religion_2022__3_",
+        "label": "religion",
         "children": [
           {
             "label": "61.9% Christianity 31.8% no religion 6.3% other",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_2022_census",
+        "label": "census",
         "children": [
           {
             "label": "397,483 [ 6 ]",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "17.31/km 2 (44.8/sq mi)",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_governorgeneral",
+        "label": "governorgeneral",
         "children": [
           {
             "label": "Froyla Tzalam",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Representatives",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Charles III",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$15,363 [ 7 ] ( 123rd )",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Johnny Briceño",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_realm",
+        "label": "realm",
         "children": [
           {
             "label": "21 September 1981",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_selfgovernance",
+        "label": "selfgovernance",
         "children": [
           {
             "label": "January 1964",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "22,966 km 2 (8,867 sq mi) [ 4 ] [ 5 ] ( 147th )",
@@ -298,7 +298,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -307,7 +307,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.8",

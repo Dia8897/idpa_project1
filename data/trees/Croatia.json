@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Croatian",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2021",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "91.6% Croats 3.2% Serbs 5.2% others",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2026 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2026",
+        "label": "gini",
         "children": [
           {
             "label": "30.0 [ 6 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.889 [ 7 ] very high ( 41st )",
@@ -147,7 +147,7 @@
         ]
       },
       {
-        "label": "religion_2021",
+        "label": "religion",
         "children": [
           {
             "label": "87.4% Christianity 79.0% Catholicism 3.3% Orthodoxy 5.1% other Christian 6.4% no religion 1.3% Islam 1.9% other 3.9% undeclared [ 1 ]",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2021_census",
+        "label": "census",
         "children": [
           {
             "label": "3,871,833 [ 4 ] ( 128th )",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "3,866,233 [ 3 ] ( 128th )",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_creation_of_yugoslavia",
+        "label": "creation_of_yugoslavia",
         "children": [
           {
             "label": "4 December 1918",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_croatia_in_personal_union_with_hungary",
+        "label": "croatia_in_personal_union_with_hungary",
         "children": [
           {
             "label": "1102",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_declaration_of_independence",
+        "label": "declaration_of_independence",
         "children": [
           {
             "label": "25 June 1991",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "68.4/km 2 (177.2/sq mi) ( 152nd )",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_duchy",
+        "label": "duchy",
         "children": [
           {
             "label": "7th century",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_joined_habsburg_monarchy",
+        "label": "joined_habsburg_monarchy",
         "children": [
           {
             "label": "1 January 1527",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_kingdom",
+        "label": "kingdom",
         "children": [
           {
             "label": "925",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$53,840 [ 5 ] ( 39th )",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Zoran Milanović",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Andrej Plenković",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_secession_from_austriahungary",
+        "label": "secession_from_austriahungary",
         "children": [
           {
             "label": "29 October 1918",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_socialist_republic_of_croatia_of_yugoslavia",
+        "label": "socialist_republic_of_croatia_of_yugoslavia",
         "children": [
           {
             "label": "9 May 1944",
@@ -304,7 +304,7 @@
         ]
       },
       {
-        "label": "_speaker_of_the_parliament",
+        "label": "speaker_of_the_parliament",
         "children": [
           {
             "label": "Gordan Jandroković",
@@ -313,7 +313,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -322,7 +322,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "56,561 [ 2 ] km 2 (21,838 sq mi) ( 124th )",
@@ -339,7 +339,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.09",

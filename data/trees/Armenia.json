@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Armenian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2022__3_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "98.1% Armenians 1.1% Yazidis 0.8% other",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "27.9 [ 6 ] low inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.811 [ 7 ] very high ( 69th )",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "religion_2022__3_",
+        "label": "religion",
         "children": [
           {
             "label": "96.8% Christianity 95.2% Armenian Apostolic Church 1.6% other Christian 0.6% no religion 0.9% other 1.7% unspecified",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "3,081,100 [ 4 ] ( 135th )",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_admission_to_the_united_nations",
+        "label": "admission_to_the_united_nations",
         "children": [
           {
             "label": "2 March 1992",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_armenian_kingdom_of_cilicia",
+        "label": "armenian_kingdom_of_cilicia",
         "children": [
           {
             "label": "1198/99–1375",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_armenian_soviet_socialist_republic",
+        "label": "armenian_soviet_socialist_republic",
         "children": [
           {
             "label": "29 November 1920",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_bagratid_armenia",
+        "label": "bagratid_armenia",
         "children": [
           {
             "label": "880s–1045",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_cis_accession",
+        "label": "cis_accession",
         "children": [
           {
             "label": "21 December 1991",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "5 July 1995",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "103.6/km 2 (268.3/sq mi)",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_first_republic_of_armenia",
+        "label": "first_republic_of_armenia",
         "children": [
           {
             "label": "28 May 1918",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_independence_from_the_ussr",
+        "label": "independence_from_the_ussr",
         "children": [
           {
             "label": "23 September 1991",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_kingdom_of_armenia",
+        "label": "kingdom_of_armenia",
         "children": [
           {
             "label": "331 BC–428 AD",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$23,954 [ 5 ] ( 78th )",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Vahagn Khachaturyan",
@@ -317,7 +317,7 @@
         ]
       },
       {
-        "label": "_president_of_the_national_assembly",
+        "label": "president_of_the_national_assembly",
         "children": [
           {
             "label": "Alen Simonyan",
@@ -326,7 +326,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Nikol Pashinyan",
@@ -335,7 +335,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "29,743 km 2 (11,484 sq mi) ( 138th )",
@@ -352,7 +352,7 @@
         ]
       },
       {
-        "label": "_urartu",
+        "label": "urartu",
         "children": [
           {
             "label": "860 BC–547/90 BC",
@@ -361,7 +361,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "4.71 [ 3 ]",
@@ -370,7 +370,7 @@
         ]
       },
       {
-        "label": "_zakarid_armenia",
+        "label": "zakarid_armenia",
         "children": [
           {
             "label": "1201–1350",

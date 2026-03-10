@@ -4,7 +4,7 @@
     "label": "country",
     "children": [
       {
-        "label": "aymara_",
+        "label": "aymara",
         "children": [
           {
             "label": "Piruwxa Ripuwlika",
@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "coofficial_languages__b_",
+        "label": "coofficial_languages",
         "children": [
           {
             "label": "Quechua Aymara Other Indigenous languages",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Peruvian",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2017__c_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "60.20% Mestizo 25.75% Native 5.89% White 3.57% Black 0.16% East Asian 1.10% other 3.32% no answer",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "40.2 [ 10 ] medium inequality",
@@ -112,7 +112,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.794 [ 11 ] high ( 79th )",
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "label": "quechua_",
+        "label": "quechua",
         "children": [
           {
             "label": "Piruw Ripuwlika",
@@ -191,19 +191,10 @@
         ]
       },
       {
-        "label": "religion_2017__d____1_",
+        "label": "religion",
         "children": [
           {
             "label": "94.5% Christianity 76.0% Catholicism 18.5% other Christian 5.1% no religion 0.4% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "republic_of_peru_repblica_del_per__spanish__coofficial_names__a__quechua__piruw_ripuwlika_aymara__piruwxa_ripuwlika",
-        "children": [
-          {
-            "label": "Piruw Ripuwlika",
             "children": []
           }
         ]
@@ -218,7 +209,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "34,352,720 [ 5 ] ( 43rd )",
@@ -227,7 +218,7 @@
         ]
       },
       {
-        "label": "_consolidated",
+        "label": "consolidated",
         "children": [
           {
             "label": "9 December 1824",
@@ -236,7 +227,7 @@
         ]
       },
       {
-        "label": "_declared",
+        "label": "declared",
         "children": [
           {
             "label": "28 July 1821",
@@ -245,7 +236,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "23/km 2 (59.6/sq mi) ( 198th )",
@@ -254,7 +245,7 @@
         ]
       },
       {
-        "label": "_first_vice_president",
+        "label": "first_vice_president",
         "children": [
           {
             "label": "Vacant",
@@ -263,7 +254,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$18,980 [ 7 ] ( 99th )",
@@ -276,7 +267,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "José María Balcázar",
@@ -285,7 +276,7 @@
         ]
       },
       {
-        "label": "_president_of_congress",
+        "label": "president_of_congress",
         "children": [
           {
             "label": "Fernando Rospigliosi (acting)",
@@ -294,7 +285,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Denisse Miralles",
@@ -303,7 +294,7 @@
         ]
       },
       {
-        "label": "_recognized",
+        "label": "recognized",
         "children": [
           {
             "label": "14 August 1879",
@@ -312,7 +303,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "1,285,216 [ 4 ] [ 5 ] km 2 (496,225 sq mi) ( 19th )",
@@ -329,7 +320,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.41",

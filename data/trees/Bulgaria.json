@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Bulgarian",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2021_census__note_1____2_",
+        "label": "ethnic_groups_census",
         "children": [
           {
             "label": "85.7% Bulgarians 8.5% Turks 4.5% Roma 1.3% others",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "37.2 [ 9 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.845 [ 10 ] very high ( 55th )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2021_census__2_",
+        "label": "religion_census",
         "children": [
           {
             "label": "64.7% Christianity 62.7% Bulgarian Orthodoxy 2.0% other Christian 15.9% no religion 9.8% Islam 0.1% other 9.5% unanswered",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_1st_bulgarian_empire",
+        "label": "1st_bulgarian_empire",
         "children": [
           {
             "label": "681–1018",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2021__6__census",
+        "label": "census",
         "children": [
           {
             "label": "6,519,789",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_2nd_bulgarian_empire",
+        "label": "2nd_bulgarian_empire",
         "children": [
           {
             "label": "1185–1396",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_chairperson_of_the_national_assembly",
+        "label": "chairperson_of_the_national_assembly",
         "children": [
           {
             "label": "Raya Nazaryan",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_current_state_form",
+        "label": "current_state_form",
         "children": [
           {
             "label": "15 November 1990",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_december_2024__5__estimate",
+        "label": "december_estimate",
         "children": [
           {
             "label": "6,437,360 ( 109th )",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "58/km 2 (150.2/sq mi) ( 154th )",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_independence_from_the_ottoman_empire",
+        "label": "independence_from_the_ottoman_empire",
         "children": [
           {
             "label": "5 October 1908",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_monarchy_abolished",
+        "label": "monarchy_abolished",
         "children": [
           {
             "label": "15 September 1946",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$41,901 [ 8 ] ( 55th )",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Iliana Iotova",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Andrey Gyurov",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_principality_of_bulgaria",
+        "label": "principality_of_bulgaria",
         "children": [
           {
             "label": "3 March 1878",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +3 ( EEST )",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "110,993.6 [ 3 ] km 2 (42,854.9 sq mi) ( 103rd )",
@@ -325,7 +325,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "2.16 [ 4 ]",

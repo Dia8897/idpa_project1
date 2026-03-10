@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Ugandan",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2024_census__6___7_",
+        "label": "ethnic_groups_census",
         "children": [
           {
             "label": "15.3% Baganda 9.1% Banyankole 8.1% Basoga 6.4% Bakiga 6.8% Iteso 5.9% Langi 4.5% Bagisu 4.2% Acholi 2.6% Lugbara 37.1% others",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2016",
+        "label": "gini",
         "children": [
           {
             "label": "42.0 [ 11 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.582 [ 12 ] medium ( 157th )",
@@ -155,7 +155,7 @@
         ]
       },
       {
-        "label": "luganda_",
+        "label": "luganda",
         "children": [
           {
             "label": "Lipabuliika ya Uganda [ 2 ]",
@@ -164,7 +164,7 @@
         ]
       },
       {
-        "label": "lumasaba_",
+        "label": "lumasaba",
         "children": [
           {
             "label": "Linambo lya Uganda [ 4 ]",
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "label": "lusoga_",
+        "label": "lusoga",
         "children": [
           {
             "label": "Uganda Eryetwala [ 3 ]",
@@ -200,19 +200,10 @@
         ]
       },
       {
-        "label": "religion_2024_census__6_",
+        "label": "religion_census",
         "children": [
           {
             "label": "81.7% Christianity 42% Roman Catholic 29% Protestant 13.2% Islam 3.3% unclassified 1.6% others 0.2% no religion",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "republic_of_uganda__1__jamhuri_ya_uganda__swahili__official_name_in_local_languages__a__luganda__lipabuliika_ya_uganda__2__lusoga__uganda_eryetwala__3__lumasaba__linambo_lya_uganda__4_",
-        "children": [
-          {
-            "label": "Lipabuliika ya Uganda [ 2 ]",
             "children": []
           }
         ]
@@ -227,7 +218,7 @@
         ]
       },
       {
-        "label": "_2024_census",
+        "label": "census",
         "children": [
           {
             "label": "= 45,905,417 [ 9 ]",
@@ -236,7 +227,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "8 October 1995",
@@ -245,7 +236,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "157.1/km 2 (406.9/sq mi) ( 75th )",
@@ -254,7 +245,7 @@
         ]
       },
       {
-        "label": "_dominion",
+        "label": "dominion",
         "children": [
           {
             "label": "9 October 1962",
@@ -263,7 +254,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$3,900 [ 10 ] ( 161st )",
@@ -276,7 +267,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Yoweri Museveni",
@@ -285,7 +276,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Robinah Nabbanja",
@@ -294,7 +285,7 @@
         ]
       },
       {
-        "label": "_republic_declared",
+        "label": "republic_declared",
         "children": [
           {
             "label": "9 October 1963",
@@ -303,7 +294,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "241,038 km 2 (93,065 sq mi) ( 79th )",
@@ -320,7 +311,7 @@
         ]
       },
       {
-        "label": "_vicepresident",
+        "label": "vicepresident",
         "children": [
           {
             "label": "Jessica Alupo",
@@ -329,7 +320,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "15.39",

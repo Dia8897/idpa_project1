@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2020",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "66% African 19% Mixed 6% Indian 4% European 2% Kalinago 3% others",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.798 [ 8 ] high ( 76th )",
@@ -147,7 +147,7 @@
         ]
       },
       {
-        "label": "religion_2020__4_",
+        "label": "religion",
         "children": [
           {
             "label": "88.6% Christianity 70.2% Protestantism 18.4% Other Christian 3.4% Hinduism 2.5% Irreligion 1.8% Rastafari 1.6% Baháʼí Faith 1.5% Islam 0.5% Other",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2012_census",
+        "label": "census",
         "children": [
           {
             "label": "109,991 [ 6 ]",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_2022_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "110,872 [ 5 ] ( 180th )",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_associated_state",
+        "label": "associated_state",
         "children": [
           {
             "label": "27 October 1969",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "307/km 2 (795.1/sq mi) ( 39th )",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_from_the_united_kingdom",
+        "label": "from_the_united_kingdom",
         "children": [
           {
             "label": "27 October 1979",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_governorgeneral",
+        "label": "governorgeneral",
         "children": [
           {
             "label": "Sir Stanley John",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Charles III",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$17,840 [ 7 ]",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Godwin Friday",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "389 km 2 (150 sq mi) ( 184th )",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "negligible",

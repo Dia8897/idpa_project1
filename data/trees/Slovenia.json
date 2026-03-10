@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "23.4 [ 6 ] low inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.931 [ 7 ] very high ( 21st )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2018__1_",
+        "label": "religion",
         "children": [
           {
             "label": "77.9% Christianity 73.4% Catholicism 3.7% Orthodoxy 0.7% other Christian 18.3% no religion 3.9% other",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2002_census",
+        "label": "census",
         "children": [
           {
             "label": "1,964,036",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "2,130,850 [ 4 ] ( 145th )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_brioni_agreement_signed",
+        "label": "brioni_agreement_signed",
         "children": [
           {
             "label": "7 July 1991",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "24 December 1991",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "103 [ 4 ] /km 2 (266.8/sq mi) ( 114th )",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_independence_from_yugoslavia",
+        "label": "independence_from_yugoslavia",
         "children": [
           {
             "label": "25 June 1991 [ 2 ]",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_kingdom_of_serbs_croats_and_slovenes",
+        "label": "kingdom_of_serbs_croats_and_slovenes",
         "children": [
           {
             "label": "1 December 1918",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "National Assembly",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$57,716 [ 5 ] ( 36th )",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Nataša Pirc Musar",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Robert Golob",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_slovene_national_liberation_committee",
+        "label": "slovene_national_liberation_committee",
         "children": [
           {
             "label": "19 February 1944",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_socialist_federal_republic_of_yugoslavia",
+        "label": "socialist_federal_republic_of_yugoslavia",
         "children": [
           {
             "label": "29 July 1944",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_state_of_slovenes_croats_and_serbs",
+        "label": "state_of_slovenes_croats_and_serbs",
         "children": [
           {
             "label": "29 October 1918",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -317,7 +317,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "20,272 km 2 (7,827 sq mi) ( 150th )",
@@ -334,7 +334,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "National Council",
@@ -343,7 +343,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.7 [ 3 ]",

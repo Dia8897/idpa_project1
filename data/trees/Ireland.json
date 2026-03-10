@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Irish",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "Irish Standard Time British Summer Time ( UTC+1 )",

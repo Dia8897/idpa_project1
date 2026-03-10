@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2019",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "85.32% Kinh Vietnamese 14.68% other [ 2 ]",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "36.1 [ 10 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.766 [ 11 ] high ( 93rd )",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "religion_2019",
+        "label": "religion",
         "children": [
           {
             "label": "86.32% no religion / folk 6.1% Catholicism 4.79% Buddhism 1.02% Hoahaoism 1% Protestantism 0.58% Caodaism 0.07% Islam 0.12% other [ 2 ] [ a ]",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_2019_census",
+        "label": "census",
         "children": [
           {
             "label": "96,208,984 [ 2 ]",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "102,300,000 [ 8 ] ( 16th )",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "28 November 2013 [ c ]",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_declaration_of_independence",
+        "label": "declaration_of_independence",
         "children": [
           {
             "label": "2 September 1945",
@@ -223,16 +223,16 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
-            "label": "298/km 2 (771.8/sq mi) ( 49th )",
+            "label": "309/km 2 (800.3/sq mi) ( 43th )",
             "children": []
           }
         ]
       },
       {
-        "label": "_end_of_vietnam_war",
+        "label": "end_of_vietnam_war",
         "children": [
           {
             "label": "30 April 1975",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_general_secretary__b_",
+        "label": "general_secretary",
         "children": [
           {
             "label": "Tô Lâm",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_hans_annexation",
+        "label": "hans_annexation",
         "children": [
           {
             "label": "111 BC",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_independence_from_china",
+        "label": "independence_from_china",
         "children": [
           {
             "label": "939",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_national_assembly_chairman",
+        "label": "national_assembly_chairman",
         "children": [
           {
             "label": "Trần Thanh Mẫn",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_nguyn_s_unification",
+        "label": "nguyen_s_unification",
         "children": [
           {
             "label": "1802",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_northsouth_partition",
+        "label": "northsouth_partition",
         "children": [
           {
             "label": "21 July 1954",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$17,484 [ 9 ] ( 104th )",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Lương Cường",
@@ -317,7 +317,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Phạm Minh Chính",
@@ -326,7 +326,7 @@
         ]
       },
       {
-        "label": "_protectorate_treaty",
+        "label": "protectorate_treaty",
         "children": [
           {
             "label": "25 August 1883",
@@ -335,7 +335,7 @@
         ]
       },
       {
-        "label": "_regaining_independence",
+        "label": "regaining_independence",
         "children": [
           {
             "label": "1428",
@@ -344,7 +344,7 @@
         ]
       },
       {
-        "label": "_reunification",
+        "label": "reunification",
         "children": [
           {
             "label": "2 July 1976",
@@ -353,7 +353,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "331,344.82 [ 6 ] [ d ] km 2 (127,932.95 sq mi) ( 66th )",
@@ -370,7 +370,7 @@
         ]
       },
       {
-        "label": "_vn_lang",
+        "label": "van_lang",
         "children": [
           {
             "label": "7th century BC",
@@ -379,7 +379,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "6.38",
@@ -388,7 +388,7 @@
         ]
       },
       {
-        "label": "_u_lc",
+        "label": "au_lac",
         "children": [
           {
             "label": "3rd century BC",

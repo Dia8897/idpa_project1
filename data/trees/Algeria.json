@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Algerian",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2011",
+        "label": "gini",
         "children": [
           {
             "label": "27.6 [ 12 ] [ 13 ] low inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.763 [ 14 ] high ( 96th )",
@@ -165,7 +165,7 @@
         ]
       },
       {
-        "label": "religion_2012__5_",
+        "label": "religion",
         "children": [
           {
             "label": "99% Sunni Islam ( official ) <1% others",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "47,400,000 [ 6 ] [ 7 ] ( 32nd )",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_assembly_president",
+        "label": "assembly_president",
         "children": [
           {
             "label": "Ibrahim Boughali",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_council_president",
+        "label": "council_president",
         "children": [
           {
             "label": "Azouz Nasri",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "19/km 2 (49.2/sq mi) ( 206th )",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_french_algeria",
+        "label": "french_algeria",
         "children": [
           {
             "label": "5 July 1830",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_independence",
+        "label": "independence",
         "children": [
           {
             "label": "5 July 1962",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "People's National Assembly",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_numidia",
+        "label": "numidia",
         "children": [
           {
             "label": "202 BC",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$18,530 [ 9 ] ( 100th )",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Abdelmadjid Tebboune",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Sifi Ghrieb",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_regency_of_algiers",
+        "label": "regency_of_algiers",
         "children": [
           {
             "label": "1516",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "2,381,741 km 2 (919,595 sq mi) ( 10th )",
@@ -312,7 +312,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Council of the Nation",

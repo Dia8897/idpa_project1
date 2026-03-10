@@ -4,15 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "bemba_",
-        "children": [
-          {
-            "label": "Icalo ca Zambia",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "calling_code",
         "children": [
           {
@@ -26,24 +17,6 @@
         "children": [
           {
             "label": "Lusaka 15°25′S 28°17′E ﻿ / ﻿ 15.417°S 28.283°E ﻿ / -15.417; 28.283",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chewa_",
-        "children": [
-          {
-            "label": "Dziko la Zambia",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chitumbuka_",
-        "children": [
-          {
-            "label": "Chalo cha Zambia",
             "children": []
           }
         ]
@@ -67,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Zambian",
@@ -76,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2010__1__",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "List 19.0% Bemba 13.6% Tonga 7.5% Tumbuka 6.0% Chewa 5.7% Lozi 5.3% Nsenga 3.0% Ngoni 3.1% Lala 3.9% Kaonde 2.8% Namwanga 2.6% Lunda (Northern) 2.5% Mambwe 2.2% Luvale 2.4% Lamba 1.9% Ushi 1.6% Bisa 1.6% Lenje 1.2% Mbunda 0.9% Lunda (Luapula) 0.9% Senga 0.8% Ila 0.8% Lungu 0.7% Tabwa 0.7% Soli 0.7% Kunda 0.6% Ngumbo 0.5% Chishinga 0.5% Chokwe 0.5% Nkoya 5.4% other ethnics 0.8% major racial [ a ] 0.4% unclassified",
@@ -85,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
@@ -103,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "51.5 [ 7 ] high inequality",
@@ -121,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.595 [ 8 ] medium ( 154th )",
@@ -182,15 +155,6 @@
         ]
       },
       {
-        "label": "lozi_",
-        "children": [
-          {
-            "label": "Naha ya Zambia",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "official_languages",
         "children": [
           {
@@ -209,19 +173,10 @@
         ]
       },
       {
-        "label": "religion_2023__2___3_",
+        "label": "religion",
         "children": [
           {
             "label": "95.5% Christianity ( official ) 2.7% Islam 1.8% other / none",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "republic_of_zambia_name_in_national_languages_bemba__icalo_ca_zambia_tonga__cisi_ca_zambia_chitumbuka__chalo_cha_zambia_lozi__naha_ya_zambia_chewa__dziko_la_zambia",
-        "children": [
-          {
-            "label": "Icalo ca Zambia",
             "children": []
           }
         ]
@@ -236,16 +191,7 @@
         ]
       },
       {
-        "label": "tonga_",
-        "children": [
-          {
-            "label": "Cisi ca Zambia",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "20,216,029 [ 5 ] ( 64th )",
@@ -254,7 +200,7 @@
         ]
       },
       {
-        "label": "_chief_justice",
+        "label": "chief_justice",
         "children": [
           {
             "label": "Mumba Malila",
@@ -263,7 +209,7 @@
         ]
       },
       {
-        "label": "_declared",
+        "label": "declared",
         "children": [
           {
             "label": "24 October 1964",
@@ -272,7 +218,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "17.2/km 2 (44.5/sq mi) ( 191st )",
@@ -281,7 +227,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$4,068 [ 6 ] ( 155th )",
@@ -294,7 +240,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Hakainde Hichilema",
@@ -303,7 +249,7 @@
         ]
       },
       {
-        "label": "_speaker",
+        "label": "speaker",
         "children": [
           {
             "label": "Nelly Mutti",
@@ -312,7 +258,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "752,617 km 2 (290,587 sq mi) [ 4 ] ( 38th )",
@@ -329,7 +275,7 @@
         ]
       },
       {
-        "label": "_vicepresident",
+        "label": "vicepresident",
         "children": [
           {
             "label": "Mutale Nalumango",
@@ -338,7 +284,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1",

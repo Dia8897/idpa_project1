@@ -4,7 +4,7 @@
     "label": "country",
     "children": [
       {
-        "label": "afrikaans_",
+        "label": "afrikaans",
         "children": [
           {
             "label": "Republiek van Suid-Afrika",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "South African",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2022__7__",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "81.4% Black 8.2% Coloured 7.3% White 2.7% Indian or Asian 0.4% other",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2026 estimate",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "63.0 [ 10 ] very high inequality",
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.741 [ 11 ] high ( 106th )",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "pedi_",
+        "label": "pedi",
         "children": [
           {
             "label": "Repabliki ya Afrika-Borwa",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "religion_2022__8_",
+        "label": "religion",
         "children": [
           {
             "label": "85.3% Christianity 7.8% Traditional faiths 3.1% No religion 1.6% Islam 1.1% Hinduism 1.1% other",
@@ -196,16 +196,7 @@
         ]
       },
       {
-        "label": "republic_of_south_africa_10_other_official_languages__1__afrikaans__republiek_van_suidafrika_zulu__iriphabhuliki_yaseningizimu_afrika_xhosa__iriphabhlikhi_yomzantsi_afrika_pedi__repabliki_ya_afrikaborwa_southern_sotho__rephaboliki_ya_afrika_borwa_tswana__rephaboliki_ya_aforika_borwa_tsonga__riphabliki_ya_afrika_dzonga_swati__iriphabhulikhi_yaseningizimuafrika_venda__riphabuiki_ya_afurika_tshipembe_southern_ndebele__iriphabliki_yesewula_afrika",
-        "children": [
-          {
-            "label": "Republiek van Suid-Afrika",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "southern_ndebele_",
+        "label": "southern_ndebele",
         "children": [
           {
             "label": "iRiphabliki yeSewula Afrika",
@@ -214,7 +205,7 @@
         ]
       },
       {
-        "label": "southern_sotho_",
+        "label": "southern_sotho",
         "children": [
           {
             "label": "Rephaboliki ya Afrika Borwa",
@@ -223,7 +214,7 @@
         ]
       },
       {
-        "label": "swati_",
+        "label": "swati",
         "children": [
           {
             "label": "iRiphabhulikhi yaseNingizimu-Afrika",
@@ -241,7 +232,7 @@
         ]
       },
       {
-        "label": "tsonga_",
+        "label": "tsonga",
         "children": [
           {
             "label": "Riphabliki ya Afrika Dzonga",
@@ -250,7 +241,7 @@
         ]
       },
       {
-        "label": "tswana_",
+        "label": "tswana",
         "children": [
           {
             "label": "Rephaboliki ya Aforika Borwa",
@@ -259,7 +250,7 @@
         ]
       },
       {
-        "label": "venda_",
+        "label": "venda",
         "children": [
           {
             "label": "Riphabuḽiki ya Afurika Tshipembe",
@@ -268,7 +259,7 @@
         ]
       },
       {
-        "label": "xhosa_",
+        "label": "xhosa",
         "children": [
           {
             "label": "iRiphabhlikhi yoMzantsi Afrika",
@@ -277,7 +268,7 @@
         ]
       },
       {
-        "label": "zulu_",
+        "label": "zulu",
         "children": [
           {
             "label": "iRiphabhuliki yaseNingizimu Afrika",
@@ -286,7 +277,7 @@
         ]
       },
       {
-        "label": "_2022_census",
+        "label": "census",
         "children": [
           {
             "label": "62,027,503 [ 8 ] ( 23rd )",
@@ -295,7 +286,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "63,015,904 [ 8 ] ( 23rd )",
@@ -304,7 +295,7 @@
         ]
       },
       {
-        "label": "_chairperson_of_the_national_council_of_provinces",
+        "label": "chairperson_of_the_national_council_of_provinces",
         "children": [
           {
             "label": "Refilwe Mtsweni-Tsipane",
@@ -313,7 +304,7 @@
         ]
       },
       {
-        "label": "_chief_justice",
+        "label": "chief_justice",
         "children": [
           {
             "label": "Mandisa Maya",
@@ -322,7 +313,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "4 February 1997",
@@ -331,7 +322,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "50.8/km 2 (131.6/sq mi) ( 169th )",
@@ -340,7 +331,7 @@
         ]
       },
       {
-        "label": "_deputy_president",
+        "label": "deputy_president",
         "children": [
           {
             "label": "Paul Mashatile",
@@ -349,7 +340,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "National Assembly",
@@ -358,7 +349,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$16,280 [ 9 ] ( 107th )",
@@ -371,7 +362,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Cyril Ramaphosa",
@@ -380,7 +371,7 @@
         ]
       },
       {
-        "label": "_republic",
+        "label": "republic",
         "children": [
           {
             "label": "31 May 1961",
@@ -389,7 +380,7 @@
         ]
       },
       {
-        "label": "_speaker_of_the_national_assembly",
+        "label": "speaker_of_the_national_assembly",
         "children": [
           {
             "label": "Thoko Didiza",
@@ -398,7 +389,7 @@
         ]
       },
       {
-        "label": "_statute_of_westminster",
+        "label": "statute_of_westminster",
         "children": [
           {
             "label": "11 December 1931",
@@ -407,7 +398,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "1,221,037 km 2 (471,445 sq mi) ( 24th )",
@@ -424,7 +415,7 @@
         ]
       },
       {
-        "label": "_union",
+        "label": "union",
         "children": [
           {
             "label": "31 May 1910",
@@ -433,7 +424,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "National Council of Provinces",
@@ -442,7 +433,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.380",

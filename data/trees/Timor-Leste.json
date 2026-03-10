@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gini_2014",
+        "label": "gini",
         "children": [
           {
             "label": "28.7 [ 8 ] low inequality",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.634 [ 9 ] medium ( 142nd )",
@@ -151,7 +151,7 @@
         ]
       },
       {
-        "label": "religion_2015_census__1_",
+        "label": "religion_census",
         "children": [
           {
             "label": "99.53% Christianity 97.57% Catholicism 1.96% Protestantism 0.24% Islam 0.23% other",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "label": "_2022_census",
+        "label": "census",
         "children": [
           {
             "label": "1,341,737 [ 6 ]",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "1,354,662 ( 153rd )",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_administered_by_untaet",
+        "label": "administered_by_untaet",
         "children": [
           {
             "label": "25 October 1999",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_annexation_by_indonesia",
+        "label": "annexation_by_indonesia",
         "children": [
           {
             "label": "17 July 1976",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "94/km 2 (243.5/sq mi) ( 120th )",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_independence_declared",
+        "label": "independence_declared",
         "children": [
           {
             "label": "28 November 1975",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_independence_restored",
+        "label": "independence_restored",
         "children": [
           {
             "label": "20 May 2002",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$4,920 [ 7 ] ( 152nd )",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_portuguese_timor",
+        "label": "portuguese_timor",
         "children": [
           {
             "label": "Early 18th century",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "José Ramos-Horta",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Xanana Gusmão",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "14,950 [ 5 ] km 2 (5,770 sq mi) ( 154th )",
@@ -289,7 +289,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "Negligible",

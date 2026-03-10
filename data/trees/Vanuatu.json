@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Ni-Vanuatu (or rarely: Vanuatuan )",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2020",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "98.5% Ni-Vanuatu 1.5% others",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2019",
+        "label": "gini",
         "children": [
           {
             "label": "32.3 [ 7 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.621 [ 8 ] medium ( 146th )",
@@ -147,7 +147,7 @@
         ]
       },
       {
-        "label": "religion_2020__3_",
+        "label": "religion",
         "children": [
           {
             "label": "93.4% Christianity 75.1% Protestantism 13.5% Catholicism 4.8% other Christian 4.6% Animism 1.4% Baháʼí Faith 0.6% other / none",
@@ -165,7 +165,7 @@
         ]
       },
       {
-        "label": "_2020_census",
+        "label": "census",
         "children": [
           {
             "label": "300,019 [ 5 ]",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "335,908 [ 4 ] ( 182nd )",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "27.6/km 2 (71.5/sq mi) ( 188th )",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_from_the_united_kingdom_and_france",
+        "label": "from_the_united_kingdom_and_france",
         "children": [
           {
             "label": "30 July 1980",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$3,001 [ 6 ]",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Nikenike Vurobaravu",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Jotham Napat",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "12,189 km 2 (4,706 sq mi) ( 157th )",

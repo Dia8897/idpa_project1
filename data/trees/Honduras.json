@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2013__1_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "82.93% Mestizo [ a ] 7.87% White 7.25% Indigenous 1.39% Black 0.55% other",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2018",
+        "label": "gini",
         "children": [
           {
             "label": "52.1 [ 4 ] high inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.645 [ 5 ] medium ( 139th )",
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "9,571,352 [ 2 ] ( 95th )",
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "label": "_declared__b__from_spain",
+        "label": "declared_from_spain",
         "children": [
           {
             "label": "15 September 1821",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_declared_from_the_first_mexican_empire",
+        "label": "declared_from_the_first_mexican_empire",
         "children": [
           {
             "label": "1 July 1823",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_declared_as_honduras_from_the_federal_republic_of_central_america",
+        "label": "declared_as_honduras_from_the_federal_republic_of_central_america",
         "children": [
           {
             "label": "5 November 1838",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "85/km 2 (220.1/sq mi) ( 128th )",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$7,960 [ 3 ]",
@@ -231,7 +231,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Nasry Asfura",
@@ -240,7 +240,7 @@
         ]
       },
       {
-        "label": "_president_of_national_congress",
+        "label": "president_of_national_congress",
         "children": [
           {
             "label": "Tomás Zambrano",
@@ -249,7 +249,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "112,492 km 2 (43,433 sq mi) ( 101st )",
@@ -266,7 +266,7 @@
         ]
       },
       {
-        "label": "_vice_presidents",
+        "label": "vice_presidents",
         "children": [
           {
             "label": "María Antonieta Mejía Carlos Flores Guifarro Diana Herrera",

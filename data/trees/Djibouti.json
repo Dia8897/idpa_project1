@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Djiboutian",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2017",
+        "label": "gini",
         "children": [
           {
             "label": "41.6 [ 9 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.513 [ 10 ] low ( 175th )",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2024_census",
+        "label": "census",
         "children": [
           {
             "label": "1,066,809 [ 7 ]",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "4 September 1992",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "46.0/km 2 (119.1/sq mi) ( 168th )",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_independence_from_france",
+        "label": "independence_from_france",
         "children": [
           {
             "label": "27 June 1977",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$6,985 [ 8 ] ( 137th )",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Ismaïl Omar Guelleh",
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Abdoulkader Kamil Mohamed",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "23,200 [ 1 ] km 2 (9,000 sq mi) [ 1 ] ( 146th )",
@@ -262,7 +262,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.09 (20 km² / 7.7 sq mi)",

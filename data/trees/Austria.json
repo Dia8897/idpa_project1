@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Austrian",
@@ -40,16 +40,16 @@
         ]
       },
       {
-        "label": "ethnic_groups_2024__3_",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "72.2% Austrians 27.8% other",
+            "label": "72.2% Germans 27.8% other",
             "children": []
           }
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "28.1 [ 12 ] low inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.930 [ 13 ] very high ( 22nd )",
@@ -138,7 +138,7 @@
         ]
       },
       {
-        "label": "official_languages",
+        "label": "official_national_language",
         "children": [
           {
             "label": "German [ a ] [ b ] [ c ]",
@@ -156,7 +156,7 @@
         ]
       },
       {
-        "label": "religion_2021__4_",
+        "label": "religion",
         "children": [
           {
             "label": "68.2% Christianity 55.2% Catholicism 4.9% Orthodoxy 3.8% Protestantism 4.3% other Christian 22.4% no religion 8.3% Islam 1.1% other",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "9,110,079 [ 10 ] ( 99th )",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_anschluss",
+        "label": "anschluss",
         "children": [
           {
             "label": "13 March 1938",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_archduchy",
+        "label": "archduchy",
         "children": [
           {
             "label": "6 January 1453",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_austriahungary",
+        "label": "austriahungary",
         "children": [
           {
             "label": "30 March 1867",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_chancellor",
+        "label": "chancellor",
         "children": [
           {
             "label": "Christian Stocker",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "107.6/km 2 (278.7/sq mi) ( 106th )",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_duchy",
+        "label": "duchy",
         "children": [
           {
             "label": "17 September 1156",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_empire",
+        "label": "empire",
         "children": [
           {
             "label": "11 August 1804",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_federal_state",
+        "label": "federal_state",
         "children": [
           {
             "label": "1 May 1934",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "label": "_first_republic",
+        "label": "first_republic",
         "children": [
           {
             "label": "10 September 1919",
@@ -264,7 +264,7 @@
         ]
       },
       {
-        "label": "_imperial_circle",
+        "label": "imperial_circle",
         "children": [
           {
             "label": "1512",
@@ -273,7 +273,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "National Council",
@@ -282,7 +282,7 @@
         ]
       },
       {
-        "label": "_margraviate__oldest_naming_",
+        "label": "margraviate_oldest_naming",
         "children": [
           {
             "label": "1 November 996",
@@ -291,7 +291,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$74,370 [ 11 ] ( 18th )",
@@ -304,7 +304,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Alexander Van der Bellen",
@@ -313,7 +313,7 @@
         ]
       },
       {
-        "label": "_second_republic",
+        "label": "second_republic",
         "children": [
           {
             "label": "27 April 1945",
@@ -322,7 +322,7 @@
         ]
       },
       {
-        "label": "_state_treaty",
+        "label": "state_treaty",
         "children": [
           {
             "label": "27 July 1955",
@@ -331,7 +331,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -340,7 +340,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "83,879 [ 8 ] km 2 (32,386 sq mi) ( 113th )",
@@ -357,7 +357,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Federal Council",
@@ -366,7 +366,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.84 (2015) [ 9 ]",

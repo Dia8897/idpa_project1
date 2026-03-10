@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Mauritian",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2017",
+        "label": "gini",
         "children": [
           {
             "label": "36.8 [ 10 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.806 [ 11 ] very high ( 73rd )",
@@ -146,7 +146,7 @@
         ]
       },
       {
-        "label": "language_spoken_at_home_2022__4_",
+        "label": "language_spoken_at_home",
         "children": [
           {
             "label": "90.0% Mauritian Creole 5.1% Bhojpuri 4.4% French 0.6% English",
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "label": "religion_2022__6_",
+        "label": "religion",
         "children": [
           {
             "label": "47.9% Hinduism 32.3% Christianity 18.2% Islam 1.6% others / none",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "_2022_census",
+        "label": "census",
         "children": [
           {
             "label": "1,235,260 [ 7 ] [ 8 ] [ 4 ]",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "label": "_constitution_of_mauritius",
+        "label": "constitution_of_mauritius",
         "children": [
           {
             "label": "12 March 1968",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "605.5/km 2 (1,568.2/sq mi) ( 18th )",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_deputy_prime_minister",
+        "label": "deputy_prime_minister",
         "children": [
           {
             "label": "Paul Bérenger",
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$33,954 [ 9 ] ( 60th )",
@@ -240,7 +240,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Dharam Gokhool",
@@ -249,7 +249,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Navin Ramgoolam",
@@ -258,7 +258,7 @@
         ]
       },
       {
-        "label": "_republic",
+        "label": "republic",
         "children": [
           {
             "label": "12 March 1992",
@@ -267,7 +267,7 @@
         ]
       },
       {
-        "label": "_speaker_of_the_national_assembly",
+        "label": "speaker_of_the_national_assembly",
         "children": [
           {
             "label": "Shirin Aumeeruddy-Cziffra",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "2,040 km 2 (790 sq mi) ( 169th )",
@@ -293,7 +293,7 @@
         ]
       },
       {
-        "label": "_vicepresident",
+        "label": "vicepresident",
         "children": [
           {
             "label": "Robert Hungley",
@@ -302,7 +302,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.07",

@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Egyptian",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gini_2021",
+        "label": "gini",
         "children": [
           {
             "label": "28.5 [ 20 ] low inequality",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.754 [ 21 ] high ( 100th )",
@@ -161,7 +161,7 @@
         ]
       },
       {
-        "label": "_2017_census",
+        "label": "census",
         "children": [
           {
             "label": "94,798,827 [ 18 ]",
@@ -170,7 +170,7 @@
         ]
       },
       {
-        "label": "_alawiyya_dynasty_inaugurated",
+        "label": "alawiyya_dynasty_inaugurated",
         "children": [
           {
             "label": "9 July 1805 [ 14 ]",
@@ -179,7 +179,7 @@
         ]
       },
       {
-        "label": "_ayyubid_dynasty_inaugurated",
+        "label": "ayyubid_dynasty_inaugurated",
         "children": [
           {
             "label": "c. 1171",
@@ -188,7 +188,7 @@
         ]
       },
       {
-        "label": "_current_constitution",
+        "label": "current_constitution",
         "children": [
           {
             "label": "18 January 2014",
@@ -197,7 +197,7 @@
         ]
       },
       {
-        "label": "_declaration_of_independence",
+        "label": "declaration_of_independence",
         "children": [
           {
             "label": "28 February 1922",
@@ -206,7 +206,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "106.8/km 2 (276.6/sq mi) ( 102nd )",
@@ -215,7 +215,7 @@
         ]
       },
       {
-        "label": "_fatimid_caliphate",
+        "label": "fatimid_caliphate",
         "children": [
           {
             "label": "c. 973",
@@ -224,7 +224,7 @@
         ]
       },
       {
-        "label": "_july_2025_estimate",
+        "label": "july_estimate",
         "children": [
           {
             "label": "107,868,296 [ 17 ] ( 15th )",
@@ -233,7 +233,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Representatives",
@@ -242,7 +242,7 @@
         ]
       },
       {
-        "label": "_mamluk_egypt",
+        "label": "mamluk_egypt",
         "children": [
           {
             "label": "c. 1261",
@@ -251,7 +251,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$21,668 [ 19 ] ( 87th )",
@@ -264,7 +264,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Abdel Fattah el-Sisi",
@@ -273,7 +273,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Mostafa Madbouly",
@@ -282,7 +282,7 @@
         ]
       },
       {
-        "label": "_republic_declared",
+        "label": "republic_declared",
         "children": [
           {
             "label": "18 June 1953",
@@ -291,7 +291,7 @@
         ]
       },
       {
-        "label": "_revolution_day",
+        "label": "revolution_day",
         "children": [
           {
             "label": "23 July 1952",
@@ -300,7 +300,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +3 ( EEST [ d ] )",
@@ -309,7 +309,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "1,010,408 [ 15 ] [ 16 ] km 2 (390,121 sq mi) ( 29th )",
@@ -326,7 +326,7 @@
         ]
       },
       {
-        "label": "_unification_of_upper_and_lower_egypt__12___13_",
+        "label": "unification_of_upper_and_lower_egypt",
         "children": [
           {
             "label": "c. 3150 BC",
@@ -335,7 +335,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -344,7 +344,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "0.632",

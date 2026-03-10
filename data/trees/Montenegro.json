@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Montenegrin",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2023_census__3___c_",
+        "label": "ethnic_groups_census",
         "children": [
           {
             "label": "41.1% Montenegrins 32.9% Serbs 11.1% Bosniaks or Muslims 5.0% Albanians 2.1% Russians 5.8% others or undeclared",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2023",
+        "label": "gini",
         "children": [
           {
             "label": "29.4 [ 11 ] low inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.862 [ 12 ] very high ( 48th )",
@@ -133,7 +133,7 @@
         ]
       },
       {
-        "label": "languages_in_official_use__1_",
+        "label": "languages_in_official_use",
         "children": [
           {
             "label": "Albanian Bosnian Croatian Serbian",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2023_census__3_",
+        "label": "religion_census",
         "children": [
           {
             "label": "74.9% Christianity 71.1% Eastern Orthodoxy 3.2% Catholicism 0.6% other Christian 19.9% Islam 2.7% no religion 0.3% other 2.2% not stated",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2023_census",
+        "label": "census",
         "children": [
           {
             "label": "623,633 [ 6 ]",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "43.6/km 2 (112.9/sq mi) ( 173rd )",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_duklja",
+        "label": "duklja",
         "children": [
           {
             "label": "10th century",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_independence_declared",
+        "label": "independence_declared",
         "children": [
           {
             "label": "3 June 2006",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_january_2025_estimate",
+        "label": "january_estimate",
         "children": [
           {
             "label": "623,327 [ 5 ] ( 164th )",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_kingdom_of_montenegro",
+        "label": "kingdom_of_montenegro",
         "children": [
           {
             "label": "28 August 1910",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_kingdom_of_yugoslavia",
+        "label": "kingdom_of_yugoslavia",
         "children": [
           {
             "label": "26 November 1918",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$34,410 [ 8 ] ( 63rd )",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Jakov Milatović",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_president_of_the_parliament",
+        "label": "president_of_the_parliament",
         "children": [
           {
             "label": "Andrija Mandić",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Milojko Spajić",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_princebishopric_of_montenegro",
+        "label": "princebishopric_of_montenegro",
         "children": [
           {
             "label": "1516",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_principality_of_montenegro",
+        "label": "principality_of_montenegro",
         "children": [
           {
             "label": "13 March 1852",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_serbia_and_montenegro",
+        "label": "serbia_and_montenegro",
         "children": [
           {
             "label": "27 April 1992",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_sfr_yugoslavia",
+        "label": "sfr_yugoslavia",
         "children": [
           {
             "label": "29 November 1945",
@@ -317,7 +317,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -326,7 +326,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "13,883 [ 4 ] km 2 (5,360 sq mi) ( 156th )",
@@ -343,7 +343,7 @@
         ]
       },
       {
-        "label": "_treaty_of_berlin",
+        "label": "treaty_of_berlin",
         "children": [
           {
             "label": "13 July 1878",
@@ -352,7 +352,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "3.1",
@@ -361,7 +361,7 @@
         ]
       },
       {
-        "label": "_zeta",
+        "label": "zeta",
         "children": [
           {
             "label": "1356",

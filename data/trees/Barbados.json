@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2020__1__",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "92.4% African 3.1% Mixed 2.7% White 1.3% Indian 0.3% others",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2016",
+        "label": "gini",
         "children": [
           {
             "label": "34.1 [ 5 ] medium inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.811 [ 6 ] very high ( 69th )",
@@ -156,7 +156,7 @@
         ]
       },
       {
-        "label": "religion_2020",
+        "label": "religion",
         "children": [
           {
             "label": "75.6% Christianity 20.6% No religion 2.0% Baháʼí Faith 1.1% Hinduism 0.7% others [ 1 ]",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_2021_census",
+        "label": "census",
         "children": [
           {
             "label": "269,090 [ 3 ] ( 174th )",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "281,998 [ 2 ] ( 174th )",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_admitted_to_the_un",
+        "label": "admitted_to_the_un",
         "children": [
           {
             "label": "7 December 1966",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_barbados_independence_act_1966_as_commonwealth_realm",
+        "label": "barbados_independence_act_as_a_commonwealth_realm",
         "children": [
           {
             "label": "30 November 1966",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "660/km 2 (1,709.4/sq mi) ( 17th )",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_joined_caricom_at_the_treaty_of_chaguaramas",
+        "label": "joined_caricom_at_the_treaty_of_chaguaramas",
         "children": [
           {
             "label": "1 August 1973",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Assembly",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_part_of_the_west_indies_federation",
+        "label": "part_of_the_west_indies_federation",
         "children": [
           {
             "label": "3 January 1958 – 31 May 1962",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$18,738 [ 4 ] ( 90th )",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Jeffrey Bostic",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Mia Mottley",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_republic_established",
+        "label": "republic_established",
         "children": [
           {
             "label": "30 November 2021",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "439 km 2 (169 sq mi) ( 183rd )",
@@ -312,7 +312,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "Negligible",

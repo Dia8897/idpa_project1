@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Jamaican",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2024 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2021",
+        "label": "gini",
         "children": [
           {
             "label": "40.2 [ 6 ] medium inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.720 [ 7 ] high ( 117th )",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2011_census",
+        "label": "census",
         "children": [
           {
             "label": "2,697,983 [ 3 ]",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "2,824,913 [ 1 ]",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "266 [ 4 ] /km 2 (688.9/sq mi) ( 54th )",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_governorgeneral",
+        "label": "governorgeneral",
         "children": [
           {
             "label": "Patrick Allen",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_granted",
+        "label": "granted",
         "children": [
           {
             "label": "6 August 1962",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "House of Representatives",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_monarch",
+        "label": "monarch",
         "children": [
           {
             "label": "Charles III",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$12,283 [ 5 ] ( 134th )",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Andrew Holness",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "10,991 km 2 (4,244 sq mi) ( 160th )",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -285,7 +285,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.5",

@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2021__a___1_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "86% Icelandic 6% Polish 1% Lithuanian 0.8% Filipino 7% other",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2018",
+        "label": "gini",
         "children": [
           {
             "label": "23.2 [ 8 ] low inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.972 [ 9 ] very high ( 1st )",
@@ -156,7 +156,7 @@
         ]
       },
       {
-        "label": "religion_2022__2_",
+        "label": "religion",
         "children": [
           {
             "label": "72.4% Christianity 60.9% Church of Iceland ( official ) [ b ] 11.5% other Christian 25.2% no religion 1.5% Ásatrúarfélagið 0.9% other",
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "label": "_2025_census",
+        "label": "census",
         "children": [
           {
             "label": "394,530 [ 6 ] ( 172nd )",
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "label": "_ceded_to_denmark",
+        "label": "ceded_to_denmark",
         "children": [
           {
             "label": "14 January 1814",
@@ -192,7 +192,7 @@
         ]
       },
       {
-        "label": "_commonwealth",
+        "label": "commonwealth",
         "children": [
           {
             "label": "930–1262",
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "label": "_constitution_and_limited_home_rule",
+        "label": "constitution_and_limited_home_rule",
         "children": [
           {
             "label": "5 January 1874",
@@ -210,7 +210,7 @@
         ]
       },
       {
-        "label": "_denmarknorway",
+        "label": "denmarknorway",
         "children": [
           {
             "label": "1523–1814",
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "3.78/km 2 (9.8/sq mi) ( 235th )",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "label": "_extended_home_rule",
+        "label": "extended_home_rule",
         "children": [
           {
             "label": "1 February 1904",
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "label": "_kalmar_union",
+        "label": "kalmar_union",
         "children": [
           {
             "label": "1397–1523",
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$81,220 [ 7 ] ( 14th )",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Halla Tómasdóttir",
@@ -268,7 +268,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Kristrún Frostadóttir",
@@ -277,7 +277,7 @@
         ]
       },
       {
-        "label": "_republic",
+        "label": "republic",
         "children": [
           {
             "label": "17 June 1944 ; 81 years ago ( 17 June 1944 )",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "label": "_settlement",
+        "label": "settlement",
         "children": [
           {
             "label": "9th century",
@@ -295,7 +295,7 @@
         ]
       },
       {
-        "label": "_sovereignty_and_personal_union_with_denmark",
+        "label": "sovereignty_and_personal_union_with_denmark",
         "children": [
           {
             "label": "1 December 1918",
@@ -304,7 +304,7 @@
         ]
       },
       {
-        "label": "_speaker_of_the_althing",
+        "label": "speaker_of_the_althing",
         "children": [
           {
             "label": "Þórunn Sveinbjarnardóttir",
@@ -313,7 +313,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "103,125 [ 4 ] km 2 (39,817 sq mi) ( 106th )",
@@ -330,7 +330,7 @@
         ]
       },
       {
-        "label": "_union_with_norway",
+        "label": "union_with_norway",
         "children": [
           {
             "label": "1262–1397",
@@ -339,7 +339,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "2.07 (as of 2015) [ 5 ]",

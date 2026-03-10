@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2021__2_",
+        "label": "ethnic_groups",
         "children": [
           {
             "label": "98.8% Polish [ a ] 96.3% only Polish 2.6% Polish and others 1.1% only non-Polish",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "26.3 [ 12 ] low inequality",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.906 [ 13 ] very high ( 35th )",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2021__3__",
+        "label": "religion",
         "children": [
           {
             "label": "72.4% Christianity 71.3% Catholicism 1.1% other Christian 6.9% no religion 0.1% other 20.6% unanswered",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2026_census",
+        "label": "census",
         "children": [
           {
             "label": "37,893,970 [ 10 ] ( 38th )",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_baptism_of_poland__b_",
+        "label": "baptism_of_poland",
         "children": [
           {
             "label": "14 April 966",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "126/km 2 (326.3/sq mi) ( 98th )",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_governmentinexile",
+        "label": "governmentinexile",
         "children": [
           {
             "label": "17 September 1939",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_kingdom_of_poland",
+        "label": "kingdom_of_poland",
         "children": [
           {
             "label": "18 April 1025",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Sejm",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_peoples_republic",
+        "label": "peoples_republic",
         "children": [
           {
             "label": "22 July 1944",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$55,340 [ 11 ] ( 37th )",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_polishlithuanian_commonwealth",
+        "label": "polishlithuanian_commonwealth",
         "children": [
           {
             "label": "1 July 1569",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Karol Nawrocki",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Donald Tusk",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_second_republic",
+        "label": "second_republic",
         "children": [
           {
             "label": "11 November 1918",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_third_republic",
+        "label": "third_republic",
         "children": [
           {
             "label": "31 December 1989 [ 6 ]",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "312,696 km 2 (120,733 sq mi) [ 8 ] [ 9 ] ( 69th )",
@@ -325,7 +325,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate",
@@ -334,7 +334,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.48 (2015) [ 7 ]",

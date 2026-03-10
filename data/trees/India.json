@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "label": "gini_2022",
+        "label": "gini",
         "children": [
           {
             "label": "25.5 [ 17 ] low inequality",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.685 [ 18 ] medium ( 130th )",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "label": "religion_2011__11_",
+        "label": "religion",
         "children": [
           {
             "label": "79.8% Hinduism 14.2% Islam 2.3% Christianity 1.7% Sikhism 0.7% Buddhism 0.4% Jainism 0.23% unaffiliated 0.65% other",
@@ -209,7 +209,7 @@
         ]
       },
       {
-        "label": "_2011_census",
+        "label": "census",
         "children": [
           {
             "label": "1,210,854,977 [ 14 ] [ 15 ] ( 2nd )",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "label": "_2023_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "1,428,627,663 [ 13 ] ( 1st )",
@@ -227,16 +227,16 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
-            "label": "433.3/km 2 (1,122.2/sq mi) ( 30th )",
+            "label": "433.4/km 2 (1,122.5/sq mi) ( 30th )",
             "children": []
           }
         ]
       },
       {
-        "label": "_dominion",
+        "label": "dominion",
         "children": [
           {
             "label": "15 August 1947",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Lok Sabha",
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$12,132 [ 16 ] ( 119th )",
@@ -267,7 +267,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Droupadi Murmu",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Narendra Modi",
@@ -285,7 +285,7 @@
         ]
       },
       {
-        "label": "_republic",
+        "label": "republic",
         "children": [
           {
             "label": "26 January 1950",
@@ -294,7 +294,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "3,287,263 km 2 (1,269,219 sq mi) [ 7 ] [ h ] ( 7th )",
@@ -311,7 +311,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Rajya Sabha",
@@ -320,7 +320,7 @@
         ]
       },
       {
-        "label": "_vice_president",
+        "label": "vice_president",
         "children": [
           {
             "label": "C. P. Radhakrishnan",
@@ -329,7 +329,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "9.6",

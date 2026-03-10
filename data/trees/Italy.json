@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Italian",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "label": "gini_2020",
+        "label": "gini",
         "children": [
           {
             "label": "32.5 [ 8 ] medium inequality",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
             "label": "0.915 [ 9 ] very high ( 29th )",
@@ -133,7 +133,7 @@
         ]
       },
       {
-        "label": "nationality_2021__1_",
+        "label": "nationality",
         "children": [
           {
             "label": "91% Italian 9% other",
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "label": "religion_2020__2_",
+        "label": "religion",
         "children": [
           {
             "label": "84% Christianity 12% irreligion 4% other",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "label": "_2025_estimate",
+        "label": "estimate",
         "children": [
           {
             "label": "58,915,561 [ 6 ] ( 25th )",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "label": "_ancient_rome_roman_italy",
+        "label": "ancient_rome_roman_italy",
         "children": [
           {
             "label": "753 BC–476 AD",
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "label": "_density",
+        "label": "density",
         "children": [
           {
             "label": "195.5/km 2 (506.3/sq mi) ( 72nd )",
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "label": "_italian_citystates_and_regional_polities",
+        "label": "italian_citystates_and_regional_polities",
         "children": [
           {
             "label": "Middle Ages and Modern period",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "label": "_italian_empire",
+        "label": "italian_empire",
         "children": [
           {
             "label": "1882–1960",
@@ -223,7 +223,7 @@
         ]
       },
       {
-        "label": "_italian_republic",
+        "label": "italian_republic",
         "children": [
           {
             "label": "2 June 1946 ; 79 years ago ( 1946-06-02 )",
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "label": "_italic_peoples",
+        "label": "italic_peoples",
         "children": [
           {
             "label": "Antiquity",
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "label": "_kingdom_of_italy",
+        "label": "kingdom_of_italy",
         "children": [
           {
             "label": "1861–1946 17 March 1861 ; 164 years ago ( 1861-03-17 )",
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "label": "_lower_house",
+        "label": "lower_house",
         "children": [
           {
             "label": "Chamber of Deputies",
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "per_capita",
         "children": [
           {
             "label": "$63,076 [ 7 ] ( 29th )",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "label": "_president",
+        "label": "president",
         "children": [
           {
             "label": "Sergio Mattarella",
@@ -281,7 +281,7 @@
         ]
       },
       {
-        "label": "_president_of_the_chamber_of_deputies",
+        "label": "president_of_the_chamber_of_deputies",
         "children": [
           {
             "label": "Lorenzo Fontana",
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "label": "_president_of_the_senate",
+        "label": "president_of_the_senate",
         "children": [
           {
             "label": "Ignazio La Russa",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Giorgia Meloni",
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "label": "_romanbarbarian_kingdoms_byzantine_italy",
+        "label": "romanbarbarian_kingdoms_byzantine_italy",
         "children": [
           {
             "label": "Early Middle Ages",
@@ -317,7 +317,7 @@
         ]
       },
       {
-        "label": "_summer__dst_",
+        "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
@@ -326,7 +326,7 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "total",
         "children": [
           {
             "label": "301,340 km 2 (116,350 sq mi) [ 4 ] [ 5 ] ( 71st )",
@@ -343,7 +343,7 @@
         ]
       },
       {
-        "label": "_upper_house",
+        "label": "upper_house",
         "children": [
           {
             "label": "Senate of the Republic",
@@ -352,7 +352,7 @@
         ]
       },
       {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "1.24 (2015) [ 3 ]",

@@ -31,7 +31,7 @@
         ]
       },
       {
-        "label": "demonym",
+        "label": "demonyms",
         "children": [
           {
             "label": "Guinean",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "label": "ethnic_groups_2018_est__1_",
+        "label": "ethnic_groups_est",
         "children": [
           {
             "label": "33.4% Fula 29.4% Mandinka 21.2% Susu 7.8% Kpelle 6.2% Kissi 1.6% Loma 0.4% others",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "label": "gdp__ppp_",
+        "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
@@ -67,10 +67,10 @@
         ]
       },
       {
-        "label": "gini_2012",
+        "label": "gini",
         "children": [
           {
-            "label": "33.7 [ 5 ] medium inequality",
+            "label": "33.7 [ 4 ] medium inequality",
             "children": []
           }
         ]
@@ -79,16 +79,16 @@
         "label": "government",
         "children": [
           {
-            "label": "Unitary presidential republic",
+            "label": "Unitary one-party presidential republic",
             "children": []
           }
         ]
       },
       {
-        "label": "hdi_2023",
+        "label": "hdi",
         "children": [
           {
-            "label": "0.500 [ 6 ] low ( 181st )",
+            "label": "0.500 [ 5 ] low ( 181st )",
             "children": []
           }
         ]
@@ -151,7 +151,7 @@
         ]
       },
       {
-        "label": "religion_2022__1_",
+        "label": "religion",
         "children": [
           {
             "label": "85.2% Islam 13.4% Christianity 0.2% animism 1.2% none",
@@ -178,25 +178,7 @@
         ]
       },
       {
-        "label": "_1958_guinean_constitutional_referendum",
-        "children": [
-          {
-            "label": "28 September 1958",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "_2008_guinean_coup_dtat",
-        "children": [
-          {
-            "label": "23 December 2008",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "_2021_guinean_coup_dtat",
+        "label": "guinean_coup_detat",
         "children": [
           {
             "label": "5 September 2021",
@@ -205,61 +187,16 @@
         ]
       },
       {
-        "label": "_2024_estimate",
+        "label": "estimate",
         "children": [
           {
-            "label": "13,986,179 [ 3 ] ( 75th )",
+            "label": "13,986,179 [ 2 ] ( 75th )",
             "children": []
           }
         ]
       },
       {
-        "label": "_coup_detat",
-        "children": [
-          {
-            "label": "3 April 1984",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "_current_constitution",
-        "children": [
-          {
-            "label": "21 September 2025 [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "_density",
-        "children": [
-          {
-            "label": "40.9/km 2 (105.9/sq mi) ( 164th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "_french_guinea_under_the_constituent_of_french_west_africa",
-        "children": [
-          {
-            "label": "1891–1958",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "_futa_jallon",
-        "children": [
-          {
-            "label": "1725–1912",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "_independence",
+        "label": "4th_constitution",
         "children": [
           {
             "label": "2 October 1958",
@@ -268,20 +205,38 @@
         ]
       },
       {
-        "label": "_per_capita",
+        "label": "density",
         "children": [
           {
-            "label": "$4,075 [ 4 ] ( 155th )",
-            "children": []
-          },
-          {
-            "label": "$1,670 [ 4 ] ( 151st )",
+            "label": "40.9/km 2 (105.9/sq mi) ( 164th )",
             "children": []
           }
         ]
       },
       {
-        "label": "_president",
+        "label": "from_france",
+        "children": [
+          {
+            "label": "2 October 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$4,075 [ 3 ] ( 155th )",
+            "children": []
+          },
+          {
+            "label": "$1,670 [ 3 ] ( 151st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
         "children": [
           {
             "label": "Mamady Doumbouya",
@@ -290,7 +245,7 @@
         ]
       },
       {
-        "label": "_prime_minister",
+        "label": "prime_minister",
         "children": [
           {
             "label": "Bah Oury",
@@ -299,33 +254,42 @@
         ]
       },
       {
-        "label": "_total",
+        "label": "republic",
+        "children": [
+          {
+            "label": "2 October 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "second_republic_day",
+        "children": [
+          {
+            "label": "3 April 1984",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
         "children": [
           {
             "label": "245,857 km 2 (94,926 sq mi) ( 77th )",
             "children": []
           },
           {
-            "label": "$75.050 billion [ 4 ] ( 111th )",
+            "label": "$75.050 billion [ 3 ] ( 111th )",
             "children": []
           },
           {
-            "label": "$30.090 billion [ 4 ] ( 110th )",
+            "label": "$30.090 billion [ 3 ] ( 110th )",
             "children": []
           }
         ]
       },
       {
-        "label": "_wassoulou_empire",
-        "children": [
-          {
-            "label": "1878–1898",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "_water_",
+        "label": "water",
         "children": [
           {
             "label": "negligible",
