@@ -1,9 +1,12 @@
-﻿const DATA_ROOT = "../data";
+﻿const DATA_ROOT = "/data";
 
 const els = {
   countrySelect: document.getElementById("countrySelect"),
   sourceSelect: document.getElementById("sourceSelect"),
   targetSelect: document.getElementById("targetSelect"),
+  countrySearch: document.getElementById("countrySearch"),
+  sourceSearch: document.getElementById("sourceSearch"),
+  targetSearch: document.getElementById("targetSearch"),
   compareBtn: document.getElementById("compareBtn"),
   countryGraph: document.getElementById("countryGraph"),
   sourceGraph: document.getElementById("sourceGraph"),
@@ -11,10 +14,91 @@ const els = {
   countryTree: document.getElementById("countryTree"),
   countryTable: document.getElementById("countryTable"),
   stats: document.getElementById("stats"),
+  scoreValue: document.getElementById("scoreValue"),
+  scoreExplain: document.getElementById("scoreExplain"),
   delOps: document.getElementById("delOps"),
   insOps: document.getElementById("insOps"),
   updOps: document.getElementById("updOps"),
+  home: document.getElementById("home"),
+  appShell: document.getElementById("appShell"),
+  viewMode: document.getElementById("viewMode"),
+  explorerContent: document.getElementById("explorerContent"),
+  opFilter: document.getElementById("opFilter"),
+  sourceTitle: document.getElementById("sourceTitle"),
+  targetTitle: document.getElementById("targetTitle"),
+  treeViewMode: document.getElementById("treeViewMode"),
 };
+
+function initModeSelector() {
+  const radios = document.querySelectorAll('input[name="mode"]');
+  const pages = document.querySelectorAll('.page');
+
+  const setMode = (mode) => {
+    pages.forEach((page) => {
+      page.classList.toggle('active', page.id === `page-${mode}`);
+    });
+  };
+
+  radios.forEach((radio) => {
+    radio.addEventListener('change', () => {
+      if (radio.checked) {
+        setMode(radio.id.replace('-mode', ''));
+      }
+    });
+  });
+
+  // Set initial mode
+  const checkedRadio = document.querySelector('input[name="mode"]:checked');
+  if (checkedRadio) {
+    setMode(checkedRadio.id.replace('-mode', ''));
+  }
+}
+
+function initViewMode() {
+  if (!els.viewMode || !els.explorerContent) return;
+
+  const updateView = () => {
+    const mode = els.viewMode.value;
+    const cards = els.explorerContent.querySelectorAll('.card');
+
+    cards.forEach((card, index) => {
+      if (mode === 'both') {
+        card.style.display = 'block';
+      } else if (mode === 'tree' && index === 0) {
+        card.style.display = 'block';
+      } else if (mode === 'table' && index === 1) {
+        card.style.display = 'block';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+
+    // Update grid layout
+    const container = els.explorerContent.querySelector('.split');
+    if (container) {
+      if (mode === 'both') {
+        container.className = 'split wide';
+      } else {
+        container.className = 'split single';
+      }
+    }
+  };
+
+  els.viewMode.addEventListener('change', updateView);
+  updateView(); // Initial call
+}
+
+function initHome() {
+  const buttons = Array.from(document.querySelectorAll(".cta[data-go]"));
+  if (!buttons.length || !els.home || !els.appShell) return;
+  const open = (target) => {
+    els.home.classList.add("is-hidden");
+    els.appShell.classList.remove("is-hidden");
+    const tab = document.querySelector(`.tab[data-target="${target}"]`);
+    if (tab) tab.click();
+  };
+  buttons.forEach((btn) => btn.addEventListener("click", () => open(btn.dataset.go)));
+}
 
 function escapeHtml(value) {
   return String(value)
@@ -321,6 +405,11 @@ function renderNodeTree(container, root, options = {}) {
       })
       .join("");
 
+    const isLeaf = focus.childIds.length === 0;
+    const nodeType = isLeaf ? "Value" : "Key";
+    const valueInfo = isLeaf ? `<div><strong>Value:</strong> <code>${escapeHtml(focus.label)}</code></div>` : '';
+
+    const hasTransform = !!transformMap;
     container.innerHTML = `
       <div class="graph-toolbar">
         <div class="graph-meta">${nodes.length} nodes | max depth ${maxDepth}</div>
@@ -330,9 +419,10 @@ function renderNodeTree(container, root, options = {}) {
             <span class="viz-range">${depthLimit}</span>
           </label>
           <input type="search" placeholder="Find node label..." value="${escapeHtml(query)}" data-act="search" />
-          <button type="button" data-act="zoom-out">-</button>
-          <button type="button" data-act="zoom-reset">100%</button>
-          <button type="button" data-act="zoom-in">+</button>
+          <label>Zoom
+            <input type="range" min="25" max="100" value="${Math.round(scale * 100)}" data-act="zoom" />
+            <span class="viz-range">${Math.round(scale * 100)}%</span>
+          </label>
           <button type="button" data-act="zoom-fit">Fit</button>
           <label>Window
             <input type="range" min="180" max="1200" value="${stageHeight}" data-act="height" />
@@ -349,20 +439,20 @@ function renderNodeTree(container, root, options = {}) {
         </svg>
       </div>
       <div class="viz-focus">
-        <div><strong>Focused:</strong> ${escapeHtml(focus.label)}</div>
+        <div><strong>Type:</strong> ${nodeType}</div>
+        <div><strong>Label:</strong> ${isLeaf ? `<code>${escapeHtml(focus.label)}</code>` : escapeHtml(focus.label)}</div>
         <div><strong>Path:</strong> <code>${escapeHtml(focus.path)}</code></div>
+        <div><strong>Depth:</strong> ${focus.depth}</div>
+        ${valueInfo}
         <div><strong>Parent:</strong> ${parent ? escapeHtml(parent.label) : "None (root)"}</div>
         <div><strong>Children:</strong> ${focus.childIds.length || 0}</div>
-        <div><strong>Transformation:</strong> ${formatNodeTransform(transformMap?.get(focus.path) || [])}</div>
+        ${hasTransform ? `<div><strong>Transformation:</strong> ${formatNodeTransform(transformMap?.get(focus.path) || [])}</div>` : ""}
       </div>
-      <div class="viz-hover" data-role="hover">Hover a node to preview transformation details.</div>
     `;
 
     const depthInput = container.querySelector('[data-act="depth"]');
     const searchInput = container.querySelector('[data-act="search"]');
-    const zoomOutBtn = container.querySelector('[data-act="zoom-out"]');
-    const zoomResetBtn = container.querySelector('[data-act="zoom-reset"]');
-    const zoomInBtn = container.querySelector('[data-act="zoom-in"]');
+    const zoomInput = container.querySelector('[data-act="zoom"]');
     const zoomFitBtn = container.querySelector('[data-act="zoom-fit"]');
     const heightInput = container.querySelector('[data-act="height"]');
     const fullscreenBtn = container.querySelector('[data-act="fullscreen"]');
@@ -390,22 +480,19 @@ function renderNodeTree(container, root, options = {}) {
       if (query) depthLimit = maxDepth;
       redraw({ focusSearch: true, caret });
     });
-    zoomOutBtn.addEventListener("click", () => {
-      scale = Math.max(0.25, scale / 1.15);
+    zoomInput.addEventListener("input", (e) => {
+      scale = Number(e.target.value) / 100;
       applyView();
-    });
-    zoomInBtn.addEventListener("click", () => {
-      scale = Math.min(4, scale * 1.15);
-      applyView();
-    });
-    zoomResetBtn.addEventListener("click", () => {
-      scale = 1;
-      applyView();
+      const rangeLabel = e.target.parentElement.querySelector(".viz-range");
+      if (rangeLabel) rangeLabel.textContent = `${Math.round(scale * 100)}%`;
     });
     zoomFitBtn.addEventListener("click", () => {
       const fitW = (stageEl.clientWidth - 20) / svgWidth;
       const fitH = (stageEl.clientHeight - 20) / svgHeight;
-      scale = Math.max(0.2, Math.min(4, Math.min(fitW, fitH)));
+      scale = Math.max(0.2, Math.min(1, Math.min(fitW, fitH)));
+      zoomInput.value = Math.round(scale * 100);
+      const rangeLabel = zoomInput.parentElement.querySelector(".viz-range");
+      if (rangeLabel) rangeLabel.textContent = `${Math.round(scale * 100)}%`;
       applyView();
     });
     stageEl.addEventListener(
@@ -416,7 +503,7 @@ function renderNodeTree(container, root, options = {}) {
         e.preventDefault();
         const prev = scale;
         const factor = e.deltaY < 0 ? 1.1 : 1 / 1.1;
-        scale = Math.max(0.2, Math.min(4, scale * factor));
+        scale = Math.max(0.2, Math.min(1, scale * factor));
 
         // Keep zoom centered around current mouse position in the viewport.
         const rect = stageEl.getBoundingClientRect();
@@ -460,9 +547,13 @@ function renderNodeTree(container, root, options = {}) {
         const hover = container.querySelector('[data-role="hover"]');
         if (!hover) return;
         const n = nodes[id];
+        const isLeafNode = n.childIds.length === 0;
+        const nodeType = isLeafNode ? "Value" : "Key";
+        const valueInfo = isLeafNode ? `<br/><strong>Value:</strong> <code>${escapeHtml(n.label)}</code>` : '';
         hover.innerHTML = `
-          <strong>${escapeHtml(n.label)}</strong><br/>
-          <code>${escapeHtml(n.path)}</code><br/>
+          <strong>${nodeType}:</strong> ${isLeafNode ? `<code>${escapeHtml(n.label)}</code>` : escapeHtml(n.label)}<br/>
+          <strong>Path:</strong> <code>${escapeHtml(n.path)}</code><br/>
+          <strong>Depth:</strong> ${n.depth}${valueInfo}<br/>
           ${formatNodeTransform(transformMap?.get(n.path) || [])}
         `;
       });
@@ -711,17 +802,20 @@ function sortOps(ops) {
 function opCard(op, idx) {
   const id = `${op.kind}-${String(idx + 1).padStart(3, "0")}`;
   const path = opPath(op);
-  let action;
-  if (op.kind === "DEL") action = `Delete <code>${escapeHtml(op.old)}</code>`;
-  else if (op.kind === "INS") action = `Insert <code>${escapeHtml(op.new)}</code>`;
-  else {
-    action = `Update <code>${escapeHtml(op.old)}</code> &rarr; <code>${escapeHtml(op.new)}</code>`;
+  let summary;
+  if (op.kind === "DEL") {
+    summary = `Removed <code>${escapeHtml(op.old || "")}</code> from <code>${escapeHtml(path)}</code>`;
+  } else if (op.kind === "INS") {
+    summary = `Inserted <code>${escapeHtml(op.new || "")}</code> into <code>${escapeHtml(path)}</code>`;
+  } else {
+    summary = `Changed <code>${escapeHtml(op.old || "")}</code> ➜ <code>${escapeHtml(op.new || "")}</code> at <code>${escapeHtml(path)}</code>`;
   }
+
   return `
     <article class="op ${op.kind.toLowerCase()}">
       <div class="op-head"><span class="badge">${id}</span><code>${escapeHtml(path)}</code></div>
       <div class="reason">${escapeHtml(opReason(op.kind))}</div>
-      <div>${action}</div>
+      <div class="op-label">${summary}</div>
     </article>`;
 }
 
@@ -744,13 +838,49 @@ function renderTransform(ops) {
     <div class="stat"><div class="k">Similarity (Output)</div><div class="v">${(outputSimilarity * 100).toFixed(2)}%</div></div>
   `;
 
-  els.delOps.innerHTML = delOps.length ? delOps.map(opCard).join("") : '<p class="empty">No delete operations.</p>';
-  els.insOps.innerHTML = insOps.length ? insOps.map(opCard).join("") : '<p class="empty">No insert operations.</p>';
-  els.updOps.innerHTML = updOps.length ? updOps.map(opCard).join("") : '<p class="empty">No update operations.</p>';
+  if (els.scoreValue) {
+    els.scoreValue.textContent = `${(outputSimilarity * 100).toFixed(2)}%`;
+    els.scoreExplain.textContent = `Based on ${size1 + size2} total nodes and ${ops.length} operations.`;
+  }
+
+  const filter = els.opFilter?.value || "ALL";
+  const setOps = (el, list, kind) => {
+    if (!el) return;
+    const card = el.closest("article");
+    const show = filter === "ALL" || filter === kind;
+    if (card) card.style.display = show ? "block" : "none";
+    if (!show) {
+      el.innerHTML = "";
+      return;
+    }
+    el.innerHTML = list.length ? list.map(opCard).join("") : '<p class="empty">No operations.</p>';
+  };
+  setOps(els.delOps, delOps, "DEL");
+  setOps(els.insOps, insOps, "INS");
+  setOps(els.updOps, updOps, "UPD");
 }
 
 function fillSelect(select, countries) {
   select.innerHTML = countries.map((c) => `<option value="${escapeHtml(c)}">${escapeHtml(c)}</option>`).join("");
+}
+
+function filterCountries(countries, query) {
+  if (!query) return countries;
+  const q = query.toLowerCase().trim();
+  return countries.filter((c) => c.toLowerCase().includes(q));
+}
+
+function setupSearch(searchEl, selectEl, allCountries) {
+  if (!searchEl || !selectEl) return;
+  searchEl.addEventListener("input", () => {
+    const query = searchEl.value;
+    const filtered = filterCountries(allCountries, query);
+    fillSelect(selectEl, filtered);
+    // If current value is not in filtered, select first
+    if (selectEl.value && !filtered.includes(selectEl.value)) {
+      selectEl.value = filtered[0] || "";
+    }
+  });
 }
 
 function initResizableSplits() {
@@ -789,6 +919,28 @@ function initResizableSplits() {
   });
 }
 
+function applyTreeViewMode() {
+  const mode = els.treeViewMode?.value || "both";
+  const srcCard = document.querySelector('[data-role="source-card"]') || document.querySelector("#sourceGraph")?.closest(".card");
+  const tgtCard = document.querySelector('[data-role="target-card"]') || document.querySelector("#targetGraph")?.closest(".card");
+  const container = srcCard?.parentElement;
+  if (!srcCard || !tgtCard || !container) return;
+
+  const showSrc = mode !== "target";
+  const showTgt = mode !== "source";
+
+  srcCard.style.display = showSrc ? "" : "none";
+  tgtCard.style.display = showTgt ? "" : "none";
+
+  if (container.classList.contains("split")) {
+    if (showSrc && showTgt) {
+      container.classList.remove("single");
+    } else {
+      container.classList.add("single");
+    }
+  }
+}
+
 async function onCountryChange() {
   const country = els.countrySelect.value;
   if (!country) return;
@@ -807,6 +959,8 @@ async function onCompare() {
   const target = els.targetSelect.value;
   if (!source || !target) return;
   try {
+    if (els.sourceTitle) els.sourceTitle.textContent = `${source} Tree`;
+    if (els.targetTitle) els.targetTitle.textContent = `${target} Tree`;
     const [sObj, tObj] = await Promise.all([loadTreeByCountry(source), loadTreeByCountry(target)]);
     const ops = buildEditScript(sObj.tree, tObj.tree);
     const nodeMaps = buildNodeTransformMaps(ops);
@@ -815,6 +969,7 @@ async function onCompare() {
     renderNodeTree(els.sourceGraph, sObj.tree, { transformMap: nodeMaps.source });
     renderNodeTree(els.targetGraph, tObj.tree, { transformMap: nodeMaps.target });
     renderTransform(ops);
+    applyTreeViewMode();
   } catch (err) {
     els.stats.innerHTML = `<div class="empty">${escapeHtml(String(err))}</div>`;
     els.sourceGraph.textContent = "";
@@ -832,6 +987,10 @@ async function init() {
     fillSelect(els.sourceSelect, countries);
     fillSelect(els.targetSelect, countries);
 
+    setupSearch(els.countrySearch, els.countrySelect, countries);
+    setupSearch(els.sourceSearch, els.sourceSelect, countries);
+    setupSearch(els.targetSearch, els.targetSelect, countries);
+
     const sourceDefault = countries.includes("Lebanon") ? "Lebanon" : countries[0];
     const targetDefault = countries.includes("Switzerland") ? "Switzerland" : countries[1] || countries[0];
 
@@ -841,6 +1000,11 @@ async function init() {
 
     els.countrySelect.addEventListener("change", onCountryChange);
     els.compareBtn.addEventListener("click", onCompare);
+    if (els.opFilter) els.opFilter.addEventListener("change", onCompare);
+    if (els.treeViewMode) els.treeViewMode.addEventListener("change", applyTreeViewMode);
+    initHome();
+    initModeSelector();
+    initViewMode();
     initResizableSplits();
 
     await onCountryChange();

@@ -4,90 +4,34 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Country Tree + Transformation Visualizer</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
-  <header class="topbar">
-    <h1>Country Tree + Transformation Visualizer</h1>
-    <p>Explore country data as node trees, then inspect exact transformation steps between two countries.</p>
-  </header>
-
-  <main class="layout">
-    <section class="panel">
-      <h2>Country Inspector</h2>
-      <div class="controls">
-        <label for="countrySelect">Country</label>
-        <select id="countrySelect"></select>
+  <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom">
+    <div class="container">
+      <a class="navbar-brand fw-bold text-primary" href="./index.html">
+        🌍 Country Visualizer
+      </a>
+      <div class="navbar-nav ms-auto">
+        <a class="nav-link" href="./index.html">Home</a>
+        <a class="nav-link" href="./app.html">Explorer</a>
       </div>
-      <div class="split">
-        <article class="card">
-          <h3>Node Tree</h3>
-          <div id="countryGraph" class="graph scroll"></div>
-          <hr />
-          <h3>Tree List View</h3>
-          <div id="countryTree" class="scroll"></div>
-        </article>
-        <div class="splitter" role="separator" aria-label="Resize panels" aria-orientation="vertical"></div>
-        <article class="card">
-          <h3>Flattened Values</h3>
-          <div id="countryTable" class="scroll"></div>
-        </article>
-      </div>
-    </section>
+    </div>
+  </nav>
 
-    <section class="panel">
-      <h2>Transformation Visualizer</h2>
-      <div class="controls compare-grid">
-        <div>
-          <label for="sourceSelect">Source</label>
-          <select id="sourceSelect"></select>
-        </div>
-        <div>
-          <label for="targetSelect">Target</label>
-          <select id="targetSelect"></select>
-        </div>
-        <div class="action-col">
-          <button id="compareBtn" type="button">Generate Transformation</button>
-        </div>
+  <section id="home" class="home-hero">
+    <div class="hero-background"></div>
+    <div class="home-content">
+      <div class="hero-icon">🌍</div>
+      <h1>Countries Comparison</h1>
+      <p class="lead">Explore and compare country data through interactive visualizations. Visualize any country's information as an interactive tree structure, and discover similarities and differences between countries using advanced tree-edit distance algorithms.</p>
+      <div class="cta-grid">
+        <a href="./app.html" class="cta primary">
+          Get Started
+        </a>
       </div>
-      <p class="hint">Execution order: deletes first, then inserts, then updates.</p>
-      <div class="legend">
-        <span><i class="lg lg-del"></i>Deleted from source</span>
-        <span><i class="lg lg-ins"></i>Inserted in target</span>
-        <span><i class="lg lg-upd"></i>Updated in both</span>
-      </div>
-
-      <div class="stats" id="stats"></div>
-
-      <div class="split">
-        <article class="card">
-          <h3>Source Node Tree</h3>
-          <div id="sourceGraph" class="graph scroll"></div>
-        </article>
-        <div class="splitter" role="separator" aria-label="Resize panels" aria-orientation="vertical"></div>
-        <article class="card">
-          <h3>Target Node Tree</h3>
-          <div id="targetGraph" class="graph scroll"></div>
-        </article>
-      </div>
-
-      <div class="phases">
-        <article class="card">
-          <h3>Phase 1: Delete Source-Only</h3>
-          <div id="delOps" class="scroll"></div>
-        </article>
-        <article class="card">
-          <h3>Phase 2: Insert Target-Only</h3>
-          <div id="insOps" class="scroll"></div>
-        </article>
-        <article class="card">
-          <h3>Phase 3: Update Shared</h3>
-          <div id="updOps" class="scroll"></div>
-        </article>
-      </div>
-    </section>
-  </main>
-
-  <script src="./app.js"></script>
+    </div>
+  </section>
 </body>
 </html>
