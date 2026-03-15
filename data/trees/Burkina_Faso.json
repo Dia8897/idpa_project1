@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+226",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Ouagadougou 12°22′N 1°32′W ﻿ / ﻿ 12.367°N 1.533°W ﻿ / 12.367; -1.533",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West African CFA franc [ 9 ] ( XOF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Burkinabé",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups_est",
-        "children": [
-          {
-            "label": "53.7% Mossi 6.8% Fula 5.9% Gurunsi 5.4% or 1.5% [ clarification needed ] Bissa 5.2% Gurma 3.4% Bobo 2.2% Senufo 1.5% Lobi 0.1% Tuareg and Bella",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "37.4 [ 7 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic under a military junta [ 3 ] [ 4 ] [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.459 [ 8 ] low ( 186th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".bf",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BF",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Ouagadougou 12°22′N 1°32′W / 12.367°N 1.533°W / 12.367; -1.533",
             "children": []
           }
         ]
@@ -151,24 +43,6 @@
         ]
       },
       {
-        "label": "religion_census",
-        "children": [
-          {
-            "label": "63.8% Islam 26.3% Christianity 20.1% Catholicism 6.2% Protestantism 9% Animism 0.7% irreligion",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC ±00:00 ( GMT )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "working_languages",
         "children": [
           {
@@ -178,68 +52,37 @@
         ]
       },
       {
-        "label": "upper_voltan_coup_detat",
+        "label": "ethnic_groups_est",
         "children": [
           {
-            "label": "3 January 1966",
+            "label": "53.7% Mossi 6.8% Fula 5.9% Gurunsi 5.4% or 1.5% [ clarification needed ] Bissa 5.2% Gurma 3.4% Bobo 2.2% Senufo 1.5% Lobi 0.1% Tuareg and Bella",
             "children": []
           }
         ]
       },
       {
-        "label": "burkina_faso_uprising",
+        "label": "religion_census",
         "children": [
           {
-            "label": "28 October – 3 November 2014",
+            "label": "63.8% Islam 26.3% Christianity 20.1% Catholicism 6.2% Protestantism 9% Animism 0.7% irreligion",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "demonyms",
         "children": [
           {
-            "label": "22,489,126 [ 1 ] ( 58th )",
+            "label": "Burkinabé",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "government",
         "children": [
           {
-            "label": "86/km 2 (222.7/sq mi) ( 126th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "5 August 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "jan_burkina_faso_coup_detat",
-        "children": [
-          {
-            "label": "23–24 January 2022",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$2,980 [ 6 ] ( 172nd )",
-            "children": []
-          },
-          {
-            "label": "$1,110 [ 6 ] ( 166th )",
+            "label": "Unitary semi-presidential republic under a military junta",
             "children": []
           }
         ]
@@ -263,10 +106,55 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "republic_of_upper_volta_proclaimed",
         "children": [
           {
             "label": "11 December 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_france",
+        "children": [
+          {
+            "label": "5 August 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_voltan_coup_detat",
+        "children": [
+          {
+            "label": "3 January 1966",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "burkina_faso_uprising",
+        "children": [
+          {
+            "label": "28 October – 3 November 2014",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "jan_burkina_faso_coup_detat",
+        "children": [
+          {
+            "label": "23–24 January 2022",
             "children": []
           }
         ]
@@ -284,15 +172,15 @@
         "label": "total",
         "children": [
           {
-            "label": "274,223 [ 1 ] km 2 (105,878 sq mi) ( 74th )",
+            "label": "274,223 km 2 (105,878 sq mi) ( 74th )",
             "children": []
           },
           {
-            "label": "$72.820 billion [ 6 ] ( 114th )",
+            "label": "$72.820 billion ( 114th )",
             "children": []
           },
           {
-            "label": "$27.06 billion [ 6 ] ( 114th )",
+            "label": "$27.06 billion ( 114th )",
             "children": []
           }
         ]
@@ -302,6 +190,118 @@
         "children": [
           {
             "label": "0.148%",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "22,489,126 ( 58th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "86/km 2 (222.7/sq mi) ( 126th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$2,980 ( 172nd )",
+            "children": []
+          },
+          {
+            "label": "$1,110 ( 166th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "37.4 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.459 low ( 186th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "West African CFA franc ( XOF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC ±00:00 ( GMT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+226",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BF",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".bf",
             "children": []
           }
         ]

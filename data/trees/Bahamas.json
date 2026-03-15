@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Nassau 25°04′41″N 77°20′19″W ﻿ / ﻿ 25.07806°N 77.33861°W ﻿ / 25.07806; -77.33861",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Bahamian dollar (BSD)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy ( CE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bahamian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "90.6% African 4.7% White 2.1% mixed 1.9% other 0.7% unspecified [ 2 ] [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy [ 5 ] [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.820 [ 10 ] very high ( 66th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -105,7 +15,7 @@
             "children": []
           },
           {
-            "label": "Anthem: \" March On, Bahamaland \" Royal anthem : \" God Save the King \" [ 1 ]",
+            "label": "Anthem: \" March On, Bahamaland \" Royal anthem : \" God Save the King \"",
             "children": []
           },
           {
@@ -113,34 +23,16 @@
             "children": []
           },
           {
-            "label": "^ Also referred to as Bahamian [ 11 ]",
+            "label": "^ Also referred to as Bahamian",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".bs",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BS",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Nassau 25°04′41′′N 77°20′19′′W / 25.07806°N 77.33861°W / 25.07806; -77.33861",
             "children": []
           }
         ]
@@ -155,6 +47,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "90.6% African 4.7% White 2.1% mixed 1.9% other 0.7% unspecified",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -164,46 +65,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −05:00 ( EST )",
+            "label": "Bahamian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "412,628 [ 8 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "25.21/km 2 (65.3/sq mi) ( 181st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "governorgeneral",
-        "children": [
-          {
-            "label": "Dame Cynthia A. Pratt",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Assembly",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -218,14 +92,10 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "governorgeneral",
         "children": [
           {
-            "label": "$46,524 [ 9 ] ( 46th )",
-            "children": []
-          },
-          {
-            "label": "$35,257 [ 9 ] ( 29th )",
+            "label": "Dame Cynthia A. Pratt",
             "children": []
           }
         ]
@@ -240,36 +110,10 @@
         ]
       },
       {
-        "label": "realm",
+        "label": "legislature",
         "children": [
           {
-            "label": "10 July 1973 [ 7 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "summer_dst",
-        "children": [
-          {
-            "label": "UTC −04:00 ( EDT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "13,943 km 2 (5,383 sq mi) ( 155th )",
-            "children": []
-          },
-          {
-            "label": "$18.989 billion [ 9 ] ( 153rd )",
-            "children": []
-          },
-          {
-            "label": "$14.390 billion [ 9 ] ( 146th )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -284,10 +128,166 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "realm",
+        "children": [
+          {
+            "label": "10 July 1973",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "13,943 km 2 (5,383 sq mi) ( 155th )",
+            "children": []
+          },
+          {
+            "label": "$18.989 billion ( 153rd )",
+            "children": []
+          },
+          {
+            "label": "$14.390 billion ( 146th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "28%",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "412,628",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "25.21/km 2 (65.3/sq mi) ( 181st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$46,524 ( 46th )",
+            "children": []
+          },
+          {
+            "label": "$35,257 ( 29th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.820 very high ( 66th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Bahamian dollar (BSD)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −05:00 ( EST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC −04:00 ( EDT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd.mm.yyyy ( CE )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".bs",
             "children": []
           }
         ]

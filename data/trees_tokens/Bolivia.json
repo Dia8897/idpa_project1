@@ -1,0 +1,938 @@
+{
+  "country_name": "Bolivia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Himno",
+            "children": []
+          },
+          {
+            "label": "Nacional",
+            "children": []
+          },
+          {
+            "label": "de",
+            "children": []
+          },
+          {
+            "label": "Bolivia",
+            "children": []
+          },
+          {
+            "label": "Spanish",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Bolivia",
+            "children": []
+          },
+          {
+            "label": "Dual",
+            "children": []
+          },
+          {
+            "label": "flag",
+            "children": []
+          },
+          {
+            "label": "Wiphala",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Bolivia",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "America",
+            "children": []
+          },
+          {
+            "label": "gray",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Anthem: Himno Nacional de Bolivia (Spanish) \" National Anthem of Bolivia \"",
+          "Dual flag: Wiphala",
+          "Location of Bolivia (dark green) in South America (gray)"
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Sucre",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sucre"
+        ]
+      },
+      {
+        "label": "administrative_center",
+        "children": [
+          {
+            "label": "La",
+            "children": []
+          },
+          {
+            "label": "Paz",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "La Paz"
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Santa",
+            "children": []
+          },
+          {
+            "label": "Cruz",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "48",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "63",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "800",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "63",
+            "children": []
+          },
+          {
+            "label": "167",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "800",
+            "children": []
+          },
+          {
+            "label": "63",
+            "children": []
+          },
+          {
+            "label": "167",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Santa Cruz 17°48′S 63°10′W / 17.800°S 63.167°W / -17.800; -63.167"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Spanish",
+            "children": []
+          },
+          {
+            "label": "Quechua",
+            "children": []
+          },
+          {
+            "label": "Aymara",
+            "children": []
+          },
+          {
+            "label": "Guarani",
+            "children": []
+          },
+          {
+            "label": "Other",
+            "children": []
+          },
+          {
+            "label": "indigenous",
+            "children": []
+          },
+          {
+            "label": "languages",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Spanish Quechua Aymara Guarani Other indigenous languages"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "92",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "81",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "92.8% Christianity 81.4% Catholicism 11.4% other Christian 6.5% no religion 0.7% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Bolivian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bolivian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Rodrigo",
+            "children": []
+          },
+          {
+            "label": "Paz",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Rodrigo Paz"
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Edmand",
+            "children": []
+          },
+          {
+            "label": "Lara",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Edmand Lara"
+        ]
+      },
+      {
+        "label": "president_of_the_senate",
+        "children": [
+          {
+            "label": "Diego",
+            "children": []
+          },
+          {
+            "label": "vila",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Diego Ávila"
+        ]
+      },
+      {
+        "label": "president_of_the_chamber_of_deputies",
+        "children": [
+          {
+            "label": "Roberto",
+            "children": []
+          },
+          {
+            "label": "Castro",
+            "children": []
+          },
+          {
+            "label": "Salazar",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Roberto Castro Salazar"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Plurinational",
+            "children": []
+          },
+          {
+            "label": "Legislative",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Plurinational Legislative Assembly"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Chamber",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Senators",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Chamber of Senators"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Deputies",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Chamber of Deputies"
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1825",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "6 August 1825"
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1847",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "21 July 1847"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "2009",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7 February 2009"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "098",
+            "children": []
+          },
+          {
+            "label": "581",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "424",
+            "children": []
+          },
+          {
+            "label": "164",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "27th",
+            "children": []
+          },
+          {
+            "label": "144",
+            "children": []
+          },
+          {
+            "label": "098",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "94th",
+            "children": []
+          },
+          {
+            "label": "56",
+            "children": []
+          },
+          {
+            "label": "339",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "94th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1,098,581 km 2 (424,164 sq mi) ( 27th )",
+          "$144.098 billion ( 94th )",
+          "$56.339 billion ( 94th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "29",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1.29"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "365",
+            "children": []
+          },
+          {
+            "label": "333",
+            "children": []
+          },
+          {
+            "label": "84th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11,365,333 ( 84th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "224th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "10.4/km 2 (26.9/sq mi) ( 224th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "574",
+            "children": []
+          },
+          {
+            "label": "120th",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "525",
+            "children": []
+          },
+          {
+            "label": "126th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$11,574 ( 120th )",
+          "$4,525 ( 126th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "40",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "40.9 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "733",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "108th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.733 high ( 108th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Boliviano",
+            "children": []
+          },
+          {
+            "label": "BOB",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Boliviano ( BOB )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "04",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "BOT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC −04:00 ( BOT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "591",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+591"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BO",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "BO"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "bo",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".bo"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,939 @@
+{
+  "country_name": "Bahamas",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Forward",
+            "children": []
+          },
+          {
+            "label": "Upward",
+            "children": []
+          },
+          {
+            "label": "Onward",
+            "children": []
+          },
+          {
+            "label": "Together",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "March",
+            "children": []
+          },
+          {
+            "label": "On",
+            "children": []
+          },
+          {
+            "label": "Bahamaland",
+            "children": []
+          },
+          {
+            "label": "Royal",
+            "children": []
+          },
+          {
+            "label": "anthem",
+            "children": []
+          },
+          {
+            "label": "God",
+            "children": []
+          },
+          {
+            "label": "Save",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "King",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Western",
+            "children": []
+          },
+          {
+            "label": "Hemisphere",
+            "children": []
+          },
+          {
+            "label": "The",
+            "children": []
+          },
+          {
+            "label": "Bahamas",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "its",
+            "children": []
+          },
+          {
+            "label": "region",
+            "children": []
+          },
+          {
+            "label": "Also",
+            "children": []
+          },
+          {
+            "label": "referred",
+            "children": []
+          },
+          {
+            "label": "to",
+            "children": []
+          },
+          {
+            "label": "as",
+            "children": []
+          },
+          {
+            "label": "Bahamian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \"Forward, Upward, Onward, Together\"",
+          "Anthem: \" March On, Bahamaland \" Royal anthem : \" God Save the King \"",
+          "Location in the Western Hemisphere The Bahamas in its region",
+          "^ Also referred to as Bahamian"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Nassau",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "04",
+            "children": []
+          },
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "77",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "07806",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "77",
+            "children": []
+          },
+          {
+            "label": "33861",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "07806",
+            "children": []
+          },
+          {
+            "label": "77",
+            "children": []
+          },
+          {
+            "label": "33861",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Nassau 25°04′41′′N 77°20′19′′W / 25.07806°N 77.33861°W / 25.07806; -77.33861"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "90",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "White",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "mixed",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "unspecified",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "90.6% African 4.7% White 2.1% mixed 1.9% other 0.7% unspecified"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "93",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "75",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "folk",
+            "children": []
+          },
+          {
+            "label": "religions",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "93.0% Christianity 75.1% Protestantism 17.9% other Christian 4.5% no religion 1.9% folk religions 0.6% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Bahamian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bahamian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "constitutional",
+            "children": []
+          },
+          {
+            "label": "monarchy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary constitutional monarchy"
+        ]
+      },
+      {
+        "label": "monarch",
+        "children": [
+          {
+            "label": "Charles",
+            "children": []
+          },
+          {
+            "label": "III",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Charles III"
+        ]
+      },
+      {
+        "label": "governorgeneral",
+        "children": [
+          {
+            "label": "Dame",
+            "children": []
+          },
+          {
+            "label": "Cynthia",
+            "children": []
+          },
+          {
+            "label": "A",
+            "children": []
+          },
+          {
+            "label": "Pratt",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Dame Cynthia A. Pratt"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Philip",
+            "children": []
+          },
+          {
+            "label": "Davis",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Philip Davis"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Assembly"
+        ]
+      },
+      {
+        "label": "realm",
+        "children": [
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1973",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "10 July 1973"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "943",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "383",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "155th",
+            "children": []
+          },
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "989",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "153rd",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "390",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "146th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "13,943 km 2 (5,383 sq mi) ( 155th )",
+          "$18.989 billion ( 153rd )",
+          "$14.390 billion ( 146th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "28",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "28%"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "412",
+            "children": []
+          },
+          {
+            "label": "628",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "412,628"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "65",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "181st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "25.21/km 2 (65.3/sq mi) ( 181st )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "46",
+            "children": []
+          },
+          {
+            "label": "524",
+            "children": []
+          },
+          {
+            "label": "46th",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "257",
+            "children": []
+          },
+          {
+            "label": "29th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$46,524 ( 46th )",
+          "$35,257 ( 29th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "820",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "66th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.820 very high ( 66th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Bahamian",
+            "children": []
+          },
+          {
+            "label": "dollar",
+            "children": []
+          },
+          {
+            "label": "BSD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bahamian dollar (BSD)"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "05",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "EST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC −05:00 ( EST )"
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "04",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "EDT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC −04:00 ( EDT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          },
+          {
+            "label": "CE",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd.mm.yyyy ( CE )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+1"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BS",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "BS"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "bs",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".bs"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,892 @@
+{
+  "country_name": "Turkey",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "stiklal",
+            "children": []
+          },
+          {
+            "label": "Mar",
+            "children": []
+          },
+          {
+            "label": "Independence",
+            "children": []
+          },
+          {
+            "label": "March",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag",
+          "Anthem: İstiklal Marşı \"Independence March\""
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Ankara",
+            "children": []
+          },
+          {
+            "label": "39",
+            "children": []
+          },
+          {
+            "label": "55",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "51",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "39",
+            "children": []
+          },
+          {
+            "label": "917",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "850",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "39",
+            "children": []
+          },
+          {
+            "label": "917",
+            "children": []
+          },
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "850",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ankara 39°55′N 32°51′E / 39.917°N 32.850°E / 39.917; 32.850"
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Istanbul",
+            "children": []
+          },
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "57",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "017",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "950",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "017",
+            "children": []
+          },
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "950",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Istanbul 41°1′N 28°57′E / 41.017°N 28.950°E / 41.017; 28.950"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Turkish",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Turkish"
+        ]
+      },
+      {
+        "label": "spoken_languages",
+        "children": [
+          {
+            "label": "Predominantly",
+            "children": []
+          },
+          {
+            "label": "Turkish",
+            "children": []
+          },
+          {
+            "label": "List",
+            "children": []
+          },
+          {
+            "label": "Kurdish",
+            "children": []
+          },
+          {
+            "label": "Zaza",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          },
+          {
+            "label": "Circassian",
+            "children": []
+          },
+          {
+            "label": "Laz",
+            "children": []
+          },
+          {
+            "label": "Greek",
+            "children": []
+          },
+          {
+            "label": "Armenian",
+            "children": []
+          },
+          {
+            "label": "Albanian",
+            "children": []
+          },
+          {
+            "label": "Bosnian",
+            "children": []
+          },
+          {
+            "label": "Bulgarian",
+            "children": []
+          },
+          {
+            "label": "Other",
+            "children": []
+          },
+          {
+            "label": "languages",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Predominantly Turkish List Kurdish Zaza Arabic Circassian Laz Greek Armenian Albanian Bosnian Bulgarian Other languages"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Turkish",
+            "children": []
+          },
+          {
+            "label": "Turk",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Turkish Turk"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Recep",
+            "children": []
+          },
+          {
+            "label": "Tayyip",
+            "children": []
+          },
+          {
+            "label": "Erdo",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Recep Tayyip Erdoğan"
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Cevdet",
+            "children": []
+          },
+          {
+            "label": "Y",
+            "children": []
+          },
+          {
+            "label": "lmaz",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Cevdet Yılmaz"
+        ]
+      },
+      {
+        "label": "speaker",
+        "children": [
+          {
+            "label": "Numan",
+            "children": []
+          },
+          {
+            "label": "Kurtulmu",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Numan Kurtulmuş"
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Kadir",
+            "children": []
+          },
+          {
+            "label": "zkaya",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kadir Özkaya"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Grand",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Grand National Assembly"
+        ]
+      },
+      {
+        "label": "ottoman_empire",
+        "children": [
+          {
+            "label": "c",
+            "children": []
+          },
+          {
+            "label": "1299",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "c. 1299"
+        ]
+      },
+      {
+        "label": "war_of_independence",
+        "children": [
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1919",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "19 May 1919"
+        ]
+      },
+      {
+        "label": "government_of_the_grand_national_assembly",
+        "children": [
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "1920",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "23 April 1920"
+        ]
+      },
+      {
+        "label": "sultanate_abolished",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1922",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 November 1922"
+        ]
+      },
+      {
+        "label": "treaty_of_lausanne",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1923",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "24 July 1923"
+        ]
+      },
+      {
+        "label": "republic_declared",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1923",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29 October 1923"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1982",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9 November 1982"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "783",
+            "children": []
+          },
+          {
+            "label": "562",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "302",
+            "children": []
+          },
+          {
+            "label": "535",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "36th",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "77",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "11th",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "57",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "16th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "783,562 km 2 (302,535 sq mi) ( 36th )",
+          "$3.77 trillion ( 11th )",
+          "$1.57 trillion ( 16th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "03",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2.03"
+        ]
+      },
+      {
+        "label": "december_estimate",
+        "children": [
+          {
+            "label": "86",
+            "children": []
+          },
+          {
+            "label": "092",
+            "children": []
+          },
+          {
+            "label": "168",
+            "children": []
+          },
+          {
+            "label": "18th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "86,092,168 ( 18th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "112",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "290",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "83rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "112 /km 2 (290.1/sq mi) ( 83rd )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "790",
+            "children": []
+          },
+          {
+            "label": "51st",
+            "children": []
+          },
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "200",
+            "children": []
+          },
+          {
+            "label": "62nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$43,790 ( 51st )",
+          "$18,200 ( 62nd )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "44.5 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "853",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "51st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.853 very high ( 51st )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Turkish",
+            "children": []
+          },
+          {
+            "label": "lira",
+            "children": []
+          },
+          {
+            "label": "TRY",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Turkish lira ( ₺ ) ( TRY )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "TRT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +3 ( TRT )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "90",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+90"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "TR",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "TR"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "tr",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".tr"
+        ]
+      }
+    ]
+  }
+}

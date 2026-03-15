@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Santo Domingo 18°27′N 69°56′W ﻿ / ﻿ 18.450°N 69.933°W ﻿ / 18.450; -69.933",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Dominican peso [ 15 ] ( DOP )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy or dd-mm-yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Dominican Quisqueyan (colloquial) [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "71.72% Mixed 18.70% White 7.45% Black 0.33% East Asian 0.37% other 1.43% no answer",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "39 [ 12 ] [ 13 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.776 [ 14 ] high ( 89th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -118,34 +19,16 @@
             "children": []
           },
           {
-            "label": "Sources for area, capital, coat of arms, coordinates, flag, language, motto and names: [ 15 ] For an alternate area figure of 48,730 km 2 (18,810 sq mi), calling code 809 and Internet TLD: [ 4 ]",
+            "label": "Sources for area, capital, coat of arms, coordinates, flag, language, motto and names: For an alternate area figure of 48,730 km 2 (18,810 sq mi), calling code 809 and Internet TLD:",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".do [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "DO",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Congress",
+            "label": "Santo Domingo 18°27′N 69°56′W / 18.450°N 69.933°W / 18.450; -69.933",
             "children": []
           }
         ]
@@ -169,6 +52,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "71.72% Mixed 18.70% White 7.45% Black 0.33% East Asian 0.37% other 1.43% no answer",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -178,28 +70,64 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC -04:00 ( AST )",
+            "label": "Dominican Quisqueyan (colloquial)",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "11,532,151 [ 10 ] ( 88th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "president",
         "children": [
           {
-            "label": "220/km 2 (569.8/sq mi) ( 64th )",
+            "label": "Luis Abinader",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Raquel Peña",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Congress",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber of Deputies",
             "children": []
           }
         ]
@@ -217,47 +145,7 @@
         "label": "first_republic",
         "children": [
           {
-            "label": "1844–1861 [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "fourth_republic",
-        "children": [
-          {
-            "label": "1966–present [ 9 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Chamber of Deputies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$30,710 [ 11 ] ( 67th )",
-            "children": []
-          },
-          {
-            "label": "$12,452 [ 11 ] ( 74th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Luis Abinader",
+            "label": "1844–1861",
             "children": []
           }
         ]
@@ -266,7 +154,7 @@
         "label": "second_republic",
         "children": [
           {
-            "label": "1865–1916 [ 6 ]",
+            "label": "1865–1916",
             "children": []
           }
         ]
@@ -275,7 +163,16 @@
         "label": "third_republic",
         "children": [
           {
-            "label": "1924–1965 [ 7 ] [ 8 ]",
+            "label": "1924–1965",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "fourth_republic",
+        "children": [
+          {
+            "label": "1966–present",
             "children": []
           }
         ]
@@ -288,29 +185,11 @@
             "children": []
           },
           {
-            "label": "$334.292 billion [ 11 ] ( 64th )",
+            "label": "$334.292 billion ( 64th )",
             "children": []
           },
           {
-            "label": "$135.545 billion [ 11 ] ( 64th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "Senate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Raquel Peña",
+            "label": "$135.545 billion ( 64th )",
             "children": []
           }
         ]
@@ -319,7 +198,128 @@
         "label": "water",
         "children": [
           {
-            "label": "0.7 [ 4 ]",
+            "label": "0.7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "11,532,151 ( 88th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "220/km 2 (569.8/sq mi) ( 64th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$30,710 ( 67th )",
+            "children": []
+          },
+          {
+            "label": "$12,452 ( 74th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "39 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.776 high ( 89th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Dominican peso ( DOP )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC -04:00 ( AST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy or dd-mm-yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "DO",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".do",
             "children": []
           }
         ]

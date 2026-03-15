@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+265 [ 8 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Lilongwe 13°57′S 33°42′E ﻿ / ﻿ 13.950°S 33.700°E ﻿ / -13.950; 33.700",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Malawian kwacha (D) ( MWK )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Malawian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups_census",
-        "children": [
-          {
-            "label": "25.2% Chewa 20.4% Tumbuka 16.4% Lomwe 15.3% Yao 6.4% Ngoni 5.9% Sena 3.8% Mang'anja 1.8% Tonga 1.5% Ngonde 0.6% Lambya 0.5% Sukwa 1.1% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "44.7 [ 6 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.517 [ 7 ] low ( 172nd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -114,7 +15,7 @@
             "children": []
           },
           {
-            "label": "Anthem: Mulungu dalitsani Malaŵi \"O God Bless Our Land of Malawi\" [ 1 ]",
+            "label": "Anthem: Mulungu dalitsani Malaŵi \"O God Bless Our Land of Malawi\"",
             "children": []
           },
           {
@@ -128,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".mw [ 8 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MW",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Lilongwe 13°57′S 33°42′E / 13.950°S 33.700°E / -13.950; 33.700",
             "children": []
           }
         ]
@@ -182,6 +65,15 @@
         ]
       },
       {
+        "label": "ethnic_groups_census",
+        "children": [
+          {
+            "label": "25.2% Chewa 20.4% Tumbuka 16.4% Lomwe 15.3% Yao 6.4% Ngoni 5.9% Sena 3.8% Mang'anja 1.8% Tonga 1.5% Ngonde 0.6% Lambya 0.5% Sukwa 1.1% other",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion_census",
         "children": [
           {
@@ -191,86 +83,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +2 ( CAT )",
+            "label": "Malawian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "17,563,749 [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "21,240,689 [ 3 ] ( 62nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "Rizine Mzikamanda",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "18 May 1994",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "153.1/km 2 (396.5/sq mi) ( 56th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dominion",
-        "children": [
-          {
-            "label": "6 July 1964",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "house_speaker",
-        "children": [
-          {
-            "label": "Sameer Suleman",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$1,668 [ 5 ] ( 186th )",
-            "children": []
-          },
-          {
-            "label": "$579 [ 5 ] ( 190th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -285,10 +110,64 @@
         ]
       },
       {
+        "label": "vicepresident",
+        "children": [
+          {
+            "label": "Jane Ansah",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "house_speaker",
+        "children": [
+          {
+            "label": "Sameer Suleman",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Rizine Mzikamanda",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "dominion",
+        "children": [
+          {
+            "label": "6 July 1964",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "republic",
         "children": [
           {
             "label": "6 July 1966",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "18 May 1994",
             "children": []
           }
         ]
@@ -301,20 +180,11 @@
             "children": []
           },
           {
-            "label": "$37.919 billion [ 5 ] ( 137th )",
+            "label": "$37.919 billion ( 137th )",
             "children": []
           },
           {
-            "label": "$13.176 billion [ 5 ] ( 149th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vicepresident",
-        "children": [
-          {
-            "label": "Jane Ansah",
+            "label": "$13.176 billion ( 149th )",
             "children": []
           }
         ]
@@ -324,6 +194,136 @@
         "children": [
           {
             "label": "20.6%",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "21,240,689 ( 62nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "17,563,749",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "153.1/km 2 (396.5/sq mi) ( 56th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$1,668 ( 186th )",
+            "children": []
+          },
+          {
+            "label": "$579 ( 190th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "44.7 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.517 low ( 172nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Malawian kwacha (D) ( MWK )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( CAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+265",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "MW",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".mw",
             "children": []
           }
         ]

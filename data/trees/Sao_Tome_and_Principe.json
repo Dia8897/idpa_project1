@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+239",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "São Tomé 0°20′N 6°44′E ﻿ / ﻿ 0.333°N 6.733°E ﻿ / 0.333; 6.733",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Dobra ( STN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "São Toméan [ 2 ] Santomean",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "40.7 [ 7 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.637 [ 8 ] medium ( 141st )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,37 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".st",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ST",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_language_and_national_language",
-        "children": [
-          {
-            "label": "Portuguese",
+            "label": "São Tomé 0°20′N 6°44′E / 0.333°N 6.733°E / 0.333; 6.733",
             "children": []
           }
         ]
@@ -160,6 +43,15 @@
         ]
       },
       {
+        "label": "official_language_and_national_language",
+        "children": [
+          {
+            "label": "Portuguese",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -169,68 +61,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +0 ( GMT )",
+            "label": "São Toméan Santomean",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "220,372 [ 5 ] ( 175th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "admitted_to_the_united_nations",
-        "children": [
-          {
-            "label": "16 September 1975",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitutional_reform",
-        "children": [
-          {
-            "label": "22 August 1990",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "199.7/km 2 (517.2/sq mi) ( 69th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "granted",
-        "children": [
-          {
-            "label": "12 July 1975",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$4,238 [ 6 ]",
-            "children": []
-          },
-          {
-            "label": "$3,167 [ 6 ]",
+            "label": "Unitary semi-presidential republic",
             "children": []
           }
         ]
@@ -254,18 +97,54 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "granted",
+        "children": [
+          {
+            "label": "12 July 1975",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "admitted_to_the_united_nations",
+        "children": [
+          {
+            "label": "16 September 1975",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitutional_reform",
+        "children": [
+          {
+            "label": "22 August 1990",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
-            "label": "964 [ 4 ] km 2 (372 sq mi) ( 171st )",
+            "label": "964 km 2 (372 sq mi) ( 171st )",
             "children": []
           },
           {
-            "label": "$1 billion [ 6 ]",
+            "label": "$1 billion",
             "children": []
           },
           {
-            "label": "$751 million [ 6 ]",
+            "label": "$751 million",
             "children": []
           }
         ]
@@ -275,6 +154,127 @@
         "children": [
           {
             "label": "negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "220,372 ( 175th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "199.7/km 2 (517.2/sq mi) ( 69th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$4,238",
+            "children": []
+          },
+          {
+            "label": "$3,167",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "40.7 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.637 medium ( 141st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Dobra ( STN )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +0 ( GMT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+239",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "ST",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".st",
             "children": []
           }
         ]

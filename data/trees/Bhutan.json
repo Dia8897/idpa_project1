@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+975",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Thimphu 27°28.0′N 89°38.5′E ﻿ / ﻿ 27.4667°N 89.6417°E ﻿ / 27.4667; 89.6417",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Ngultrum (BTN) Indian rupee (₹)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bhutanese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "28.5 [ 13 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary semi-constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.698 [ 14 ] medium ( 125th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -96,34 +15,16 @@
             "children": []
           },
           {
-            "label": "The population of Bhutan had been estimated based on the reported figure of about 1 million in the 1970s when the country had joined the United Nations and precise statistics were lacking. [ 15 ] Thus, using the annual increase rate of 2–3%, the most population estimates were around 2 million in 2000. A national census was carried out in 2005 and it turned out that the population was 672,425. Consequently, United Nations Population Division reduced its estimation of the country's population in the 2006 revision [ 16 ] for the whole period from 1950 to 2000.",
+            "label": "The population of Bhutan had been estimated based on the reported figure of about 1 million in the 1970s when the country had joined the United Nations and precise statistics were lacking. Thus, using the annual increase rate of 2–3%, the most population estimates were around 2 million in 2000. A national census was carried out in 2005 and it turned out that the population was 672,425. Consequently, United Nations Population Division reduced its estimation of the country's population in the 2006 revision for the whole period from 1950 to 2000.",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".bt",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BT",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Thimphu 27°28.0′N 89°38.5′E / 27.4667°N 89.6417°E / 27.4667; 89.6417",
             "children": []
           }
         ]
@@ -147,28 +48,82 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +06 ( BTT )",
+            "label": "Bhutanese",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "777,486 [ 5 ] [ 6 ] [ 7 ] ( 159th )",
+            "label": "Unitary parliamentary semi-constitutional monarchy",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "dragon_king",
         "children": [
           {
-            "label": "727,145 [ 8 ]",
+            "label": "Jigme Khesar Namgyel Wangchuck",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Tshering Tobgay",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "National Council",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "unification",
+        "children": [
+          {
+            "label": "1616–1634",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "druk_desi_period",
+        "children": [
+          {
+            "label": "1650–1905",
             "children": []
           }
         ]
@@ -201,94 +156,18 @@
         ]
       },
       {
-        "label": "density",
-        "children": [
-          {
-            "label": "20.5/km 2 (53.1/sq mi) ( 205th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dragon_king",
-        "children": [
-          {
-            "label": "Jigme Khesar Namgyel Wangchuck",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "druk_desi_period",
-        "children": [
-          {
-            "label": "1650–1905",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$17,774 [ 10 ] ( 102nd )",
-            "children": []
-          },
-          {
-            "label": "$4,300 [ 12 ] ( 127th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Tshering Tobgay",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "total",
         "children": [
           {
-            "label": "38,394 km 2 (14,824 sq mi) [ 3 ] [ 4 ] ( 133rd )",
+            "label": "38,394 km 2 (14,824 sq mi) ( 133rd )",
             "children": []
           },
           {
-            "label": "$14.110 billion [ 9 ] ( 160th )",
+            "label": "$14.110 billion ( 160th )",
             "children": []
           },
           {
-            "label": "$3.420 billion [ 11 ] ( 166th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "unification",
-        "children": [
-          {
-            "label": "1616–1634",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "National Council",
+            "label": "$3.420 billion ( 166th )",
             "children": []
           }
         ]
@@ -298,6 +177,127 @@
         "children": [
           {
             "label": "1.1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "777,486 ( 159th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "727,145",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "20.5/km 2 (53.1/sq mi) ( 205th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$17,774 ( 102nd )",
+            "children": []
+          },
+          {
+            "label": "$4,300 ( 127th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "28.5 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.698 medium ( 125th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Ngultrum (BTN) Indian rupee (₹)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +06 ( BTT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+975",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BT",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".bt",
             "children": []
           }
         ]

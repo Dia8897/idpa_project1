@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+381",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Belgrade 44°48′N 20°28′E ﻿ / ﻿ 44.800°N 20.467°E ﻿ / 44.800; 20.467",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Serbian dinar ( RSD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "mm/dd/yyyy ( AD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Serbian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "80.6% Serbs 2.8% Hungarians 2.3% Bosniaks 2% Roma 5.4% others 6.9% undeclared/unknown",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "31.9 [ 8 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.833 [ 9 ] very high ( 62nd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -120,28 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".rs .срб",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "RS",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Belgrade 44°48′N 20°28′E / 44.800°N 20.467°E / 44.800; 20.467",
             "children": []
           }
         ]
@@ -150,7 +33,16 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Serbian [ a ]",
+            "label": "Serbian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "80.6% Serbs 2.8% Hungarians 2.3% Bosniaks 2% Roma 5.4% others 6.9% undeclared/unknown",
             "children": []
           }
         ]
@@ -165,37 +57,73 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( CET )",
+            "label": "Serbian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "6,647,003 (excluding Kosovo) [ 6 ]",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "president",
         "children": [
           {
-            "label": "6,567,783 (excluding Kosovo) [ 5 ] ( 107th )",
+            "label": "Aleksandar Vučić",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "prime_minister",
         "children": [
           {
-            "label": "85/km 2 (220.1/sq mi) ( 127th )",
+            "label": "Đuro Macut",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president_of_the_national_assembly",
+        "children": [
+          {
+            "label": "Ana Brnabić",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "principality",
+        "children": [
+          {
+            "label": "7th century",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom",
+        "children": [
+          {
+            "label": "1217",
             "children": []
           }
         ]
@@ -210,24 +138,6 @@
         ]
       },
       {
-        "label": "excluding_kosovo",
-        "children": [
-          {
-            "label": "77,589 km 2 (29,957 sq mi) [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "federal_republic_of_yugoslavia",
-        "children": [
-          {
-            "label": "1992",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "independence_lost",
         "children": [
           {
@@ -237,28 +147,28 @@
         ]
       },
       {
+        "label": "serbian_revolution",
+        "children": [
+          {
+            "label": "1804",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "principality_of_serbia",
+        "children": [
+          {
+            "label": "1815",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "independence_recognised",
         "children": [
           {
             "label": "1878",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_restored",
-        "children": [
-          {
-            "label": "2006",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "1217",
             "children": []
           }
         ]
@@ -282,77 +192,19 @@
         ]
       },
       {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$34,790 [ 7 ] ( 65th )",
-            "children": []
-          },
-          {
-            "label": "$17,290 [ 7 ] ( 68th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Aleksandar Vučić",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president_of_the_national_assembly",
-        "children": [
-          {
-            "label": "Ana Brnabić",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Đuro Macut",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "principality",
-        "children": [
-          {
-            "label": "7th century [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "principality_of_serbia",
-        "children": [
-          {
-            "label": "1815",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "serbian_revolution",
-        "children": [
-          {
-            "label": "1804",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "socialist_republic_of_serbia_within_the_sfr_yugoslavia",
         "children": [
           {
             "label": "1945",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "federal_republic_of_yugoslavia",
+        "children": [
+          {
+            "label": "1992",
             "children": []
           }
         ]
@@ -367,6 +219,135 @@
         ]
       },
       {
+        "label": "independence_restored",
+        "children": [
+          {
+            "label": "2006",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "88,499 km 2 (34,170 sq mi) ( 111th )",
+            "children": []
+          },
+          {
+            "label": "$225.55 billion ( 78th )",
+            "children": []
+          },
+          {
+            "label": "$112.11 billion ( 71st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "excluding_kosovo",
+        "children": [
+          {
+            "label": "77,589 km 2 (29,957 sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "6,567,783 (excluding Kosovo) ( 107th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "6,647,003 (excluding Kosovo)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "85/km 2 (220.1/sq mi) ( 127th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$34,790 ( 65th )",
+            "children": []
+          },
+          {
+            "label": "$17,290 ( 68th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "31.9 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.833 very high ( 62nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Serbian dinar ( RSD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "summer_dst",
         "children": [
           {
@@ -376,18 +357,37 @@
         ]
       },
       {
-        "label": "total",
+        "label": "date_format",
         "children": [
           {
-            "label": "88,499 km 2 (34,170 sq mi) [ 3 ] ( 111th )",
+            "label": "mm/dd/yyyy ( AD )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
           {
-            "label": "$225.55 billion [ d ] [ 7 ] ( 78th )",
+            "label": "+381",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
           {
-            "label": "$112.11 billion [ d ] [ 7 ] ( 71st )",
+            "label": "RS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".rs .срб",
             "children": []
           }
         ]

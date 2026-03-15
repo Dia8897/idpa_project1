@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+65",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Singapore ( city-state ) [ a ] 1°17′N 103°50′E ﻿ / ﻿ 1.283°N 103.833°E ﻿ / 1.283; 103.833",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Singapore dollar (S$) ( SGD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd-mm-yyyy ( AD ) [ e ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Singaporean",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "74.3% Chinese 13.5% Malay 9.0% Indian 3.2% Other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "43.3 [ 7 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.946 [ 8 ] very high ( 13th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -124,19 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".sg",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SG",
+            "label": "Singapore ( city-state ) 1°17′N 103°50′E / 1.283°N 103.833°E / 1.283; 103.833",
             "children": []
           }
         ]
@@ -145,25 +37,7 @@
         "label": "largest_planning_area_by_population",
         "children": [
           {
-            "label": "Tampines [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "national_language",
-        "children": [
-          {
-            "label": "Malay",
+            "label": "Tampines",
             "children": []
           }
         ]
@@ -178,6 +52,24 @@
         ]
       },
       {
+        "label": "national_language",
+        "children": [
+          {
+            "label": "Malay",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "74.3% Chinese 13.5% Malay 9.0% Indian 3.2% Other",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -187,50 +79,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +8 ( SGT )",
+            "label": "Singaporean",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "6,110,200 [ d ] ( 111th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "8,290/km 2 (21,471.0/sq mi) ( 3rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "malaysia_agreement",
-        "children": [
-          {
-            "label": "16 September 1963",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$156,755 [ 6 ] ( 1st )",
-            "children": []
-          },
-          {
-            "label": "$93,956 [ 6 ] ( 4th )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -254,10 +115,10 @@
         ]
       },
       {
-        "label": "proclamation_of_singapore",
+        "label": "legislature",
         "children": [
           {
-            "label": "9 August 1965",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -272,18 +133,36 @@
         ]
       },
       {
+        "label": "malaysia_agreement",
+        "children": [
+          {
+            "label": "16 September 1963",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "proclamation_of_singapore",
+        "children": [
+          {
+            "label": "9 August 1965",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
-            "label": "744.3 km 2 (287.4 sq mi) [ 4 ] ( 176th )",
+            "label": "744.3 km 2 (287.4 sq mi) ( 176th )",
             "children": []
           },
           {
-            "label": "$952.600 billion [ 6 ] ( 34th )",
+            "label": "$952.600 billion ( 34th )",
             "children": []
           },
           {
-            "label": "$564.700 billion [ 6 ] ( 27th )",
+            "label": "$564.700 billion ( 27th )",
             "children": []
           }
         ]
@@ -293,6 +172,127 @@
         "children": [
           {
             "label": "1.43%",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "6,110,200 ( 111th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "8,290/km 2 (21,471.0/sq mi) ( 3rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$156,755 ( 1st )",
+            "children": []
+          },
+          {
+            "label": "$93,956 ( 4th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "43.3 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.946 very high ( 13th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Singapore dollar (S$) ( SGD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +8 ( SGT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd-mm-yyyy ( AD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+65",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SG",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".sg",
             "children": []
           }
         ]

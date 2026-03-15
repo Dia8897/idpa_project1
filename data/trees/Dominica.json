@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Roseau 15°18′N 61°23′W ﻿ / ﻿ 15.300°N 61.383°W ﻿ / 15.300; -61.383",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "East Caribbean dollar ( XCD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Dominican (pronounced / ˌ d ɒ m ɪ ˈ n iː k ə n / )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "75% African 19% multiracial 4% Kalinago 0.8% European or other 0.2% unspecified",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2018 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2018 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic [ 4 ] [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.761 [ 10 ] high ( 98th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -101,7 +11,7 @@
             "children": []
           },
           {
-            "label": "Motto: \"Apres Bondie, C'est La Ter\" [ 1 ] ( Dominican Creole French ) \"Post Deum terra est\" ( Latin ) \"After God is the earth\"",
+            "label": "Motto: \"Apres Bondie, C'est La Ter\" ( Dominican Creole French ) \"Post Deum terra est\" ( Latin ) \"After God is the earth\"",
             "children": []
           },
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".dm",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "DM",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "House of Assembly",
+            "label": "Roseau 15°18′N 61°23′W / 15.300°N 61.383°W / 15.300; -61.383",
             "children": []
           }
         ]
@@ -151,24 +43,6 @@
         ]
       },
       {
-        "label": "religion",
-        "children": [
-          {
-            "label": "94.4% Christianity 3.0% folk religions 1.7% other 0.9% none [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC –4 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "vernacular_languages",
         "children": [
           {
@@ -178,41 +52,37 @@
         ]
       },
       {
-        "label": "census",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "71,293 [ 8 ]",
+            "label": "75% African 19% multiracial 4% Kalinago 0.8% European or other 0.2% unspecified",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "religion",
         "children": [
           {
-            "label": "72,412 [ 6 ] [ 7 ] ( 186th )",
+            "label": "94.4% Christianity 3.0% folk religions 1.7% other 0.9% none",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "demonyms",
         "children": [
           {
-            "label": "105/km 2 (271.9/sq mi) ( 95th )",
+            "label": "Dominican (pronounced / ˌ d ɒ m ɪ ˈ n iː k ə n / )",
             "children": []
           }
         ]
       },
       {
-        "label": "per_capita",
+        "label": "government",
         "children": [
           {
-            "label": "$9,726 [ 9 ]",
-            "children": []
-          },
-          {
-            "label": "$7,860 [ 9 ]",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -236,19 +106,37 @@
         ]
       },
       {
-        "label": "sovereignty_and_constitution",
+        "label": "speaker_of_the_house_of_assembly",
         "children": [
           {
-            "label": "3 November 1978",
+            "label": "Joseph Isaac",
             "children": []
           }
         ]
       },
       {
-        "label": "speaker_of_the_house_of_assembly",
+        "label": "legislature",
         "children": [
           {
-            "label": "Joseph Isaac",
+            "label": "House of Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "west_indies_associated_states",
+        "children": [
+          {
+            "label": "1 March 1967",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "sovereignty_and_constitution",
+        "children": [
+          {
+            "label": "3 November 1978",
             "children": []
           }
         ]
@@ -261,11 +149,11 @@
             "children": []
           },
           {
-            "label": "$688 million [ 9 ]",
+            "label": "$688 million",
             "children": []
           },
           {
-            "label": "$485 million [ 9 ]",
+            "label": "$485 million",
             "children": []
           }
         ]
@@ -280,10 +168,122 @@
         ]
       },
       {
-        "label": "west_indies_associated_states",
+        "label": "estimate",
         "children": [
           {
-            "label": "1 March 1967",
+            "label": "72,412 ( 186th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "71,293",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "105/km 2 (271.9/sq mi) ( 95th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2018 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$9,726",
+            "children": []
+          },
+          {
+            "label": "$7,860",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2018 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.761 high ( 98th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "East Caribbean dollar ( XCD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC –4 ( AST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "DM",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".dm",
             "children": []
           }
         ]

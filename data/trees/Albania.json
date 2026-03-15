@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+355",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Tirana 41°19′N 19°49′E ﻿ / ﻿ 41.317°N 19.817°E ﻿ / 41.317; 19.817 Country: 41°N 20°E ﻿ / ﻿ 41°N 20°E ﻿ / 41; 20",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Lek ( ALL )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Albanian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "97.7% Albanians 1.0% Greeks 1.3% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "29.4 [ 5 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.810 [ 6 ] very high ( 71st )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".al",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AL",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Kuvendi",
+            "label": "Tirana 41°19′N 19°49′E / 41.317°N 19.817°E / 41.317; 19.817 Country: 41°N 20°E / 41°N 20°E / 41; 20",
             "children": []
           }
         ]
@@ -160,6 +52,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "97.7% Albanians 1.0% Greeks 1.3% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -169,10 +70,135 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( CET )",
+            "label": "Albanian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary parliamentary republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Bajram Begaj",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Edi Rama",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "parliament_speaker",
+        "children": [
+          {
+            "label": "Niko Peleshi",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Kuvendi",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "principality_of_arbanon",
+        "children": [
+          {
+            "label": "1190",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "albanian_principalities",
+        "children": [
+          {
+            "label": "12th–15th centuries",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom_of_albania",
+        "children": [
+          {
+            "label": "February 1272",
+            "children": []
+          },
+          {
+            "label": "1 September 1928",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "principality_of_albania",
+        "children": [
+          {
+            "label": "1359",
+            "children": []
+          },
+          {
+            "label": "29 July 1913",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "league_of_lezhe",
+        "children": [
+          {
+            "label": "2 March 1444",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "pashalik_of_scutari_janina_berat",
+        "children": [
+          {
+            "label": "1757/1787",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "league_of_prizren",
+        "children": [
+          {
+            "label": "10 June 1878",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independent_albania",
+        "children": [
+          {
+            "label": "28 November 1912",
             "children": []
           }
         ]
@@ -182,15 +208,6 @@
         "children": [
           {
             "label": "31 January 1925",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "census",
-        "children": [
-          {
-            "label": "2,402,113 [ 3 ] ( 142nd )",
             "children": []
           }
         ]
@@ -223,15 +240,6 @@
         ]
       },
       {
-        "label": "albanian_principalities",
-        "children": [
-          {
-            "label": "12th–15th centuries",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "current_constitution",
         "children": [
           {
@@ -241,68 +249,54 @@
         ]
       },
       {
-        "label": "density",
+        "label": "total",
         "children": [
           {
-            "label": "83.6 [ 3 ] /km 2 (216.5/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independent_albania",
-        "children": [
-          {
-            "label": "28 November 1912",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_albania",
-        "children": [
-          {
-            "label": "February 1272",
+            "label": "28,748 km 2 (11,100 sq mi) ( 140th )",
             "children": []
           },
           {
-            "label": "1 September 1928",
+            "label": "$66.290 billion ( 118th )",
+            "children": []
+          },
+          {
+            "label": "$32.410 billion ( 125th )",
             "children": []
           }
         ]
       },
       {
-        "label": "league_of_lezhe",
+        "label": "water",
         "children": [
           {
-            "label": "2 March 1444",
+            "label": "4.7",
             "children": []
           }
         ]
       },
       {
-        "label": "league_of_prizren",
+        "label": "census",
         "children": [
           {
-            "label": "10 June 1878",
+            "label": "2,402,113 ( 142nd )",
             "children": []
           }
         ]
       },
       {
-        "label": "parliament_speaker",
+        "label": "density",
         "children": [
           {
-            "label": "Niko Peleshi",
+            "label": "83.6 /km 2 (216.5/sq mi)",
             "children": []
           }
         ]
       },
       {
-        "label": "pashalik_of_scutari_janina_berat",
+        "label": "gdp_ppp",
         "children": [
           {
-            "label": "1757/1787",
+            "label": "2026 estimate",
             "children": []
           }
         ]
@@ -311,51 +305,56 @@
         "label": "per_capita",
         "children": [
           {
-            "label": "$24,840 [ 4 ] ( 80th )",
+            "label": "$24,840 ( 80th )",
             "children": []
           },
           {
-            "label": "$12,150 [ 4 ] ( 79th )",
+            "label": "$12,150 ( 79th )",
             "children": []
           }
         ]
       },
       {
-        "label": "president",
+        "label": "gdp_nominal",
         "children": [
           {
-            "label": "Bajram Begaj",
+            "label": "2026 estimate",
             "children": []
           }
         ]
       },
       {
-        "label": "prime_minister",
+        "label": "gini",
         "children": [
           {
-            "label": "Edi Rama",
+            "label": "29.4 low inequality",
             "children": []
           }
         ]
       },
       {
-        "label": "principality_of_albania",
+        "label": "hdi",
         "children": [
           {
-            "label": "1359",
-            "children": []
-          },
-          {
-            "label": "29 July 1913",
+            "label": "0.810 very high ( 71st )",
             "children": []
           }
         ]
       },
       {
-        "label": "principality_of_arbanon",
+        "label": "currency",
         "children": [
           {
-            "label": "1190",
+            "label": "Lek ( ALL )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
             "children": []
           }
         ]
@@ -370,27 +369,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "calling_code",
         "children": [
           {
-            "label": "28,748 km 2 (11,100 sq mi) ( 140th )",
-            "children": []
-          },
-          {
-            "label": "$66.290 billion [ 4 ] ( 118th )",
-            "children": []
-          },
-          {
-            "label": "$32.410 billion [ 4 ] ( 125th )",
+            "label": "+355",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "4.7",
+            "label": "AL",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".al",
             "children": []
           }
         ]

@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+673 [c]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Bandar Seri Begawan 4°53.417′N 114°56.533′E ﻿ / ﻿ 4.890283°N 114.942217°E ﻿ / 4.890283; 114.942217",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Brunei dollar ( BND )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bruneian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "73.7% Malay 9.6% Chinese 16.6% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary Islamic absolute monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.837 [ 17 ] very high ( 60th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -92,11 +11,11 @@
             "children": []
           },
           {
-            "label": "Motto: الدائمون المحسنون بالهدى ‎ ( Arabic ) Ad-dāʾimūna al-muḥsinūna bi-l-hudā ( Sentiasa membuat kebajikan dengan petunjuk Allah ) \"Always in service with God 's guidance\"",
+            "label": "Motto: الدائمون المحسنون بالهدى ( Arabic ) Ad-dāʾimūna al-muḥsinūna bi-l-hudā ( Sentiasa membuat kebajikan dengan petunjuk Allah ) \"Always in service with God 's guidance\"",
             "children": []
           },
           {
-            "label": "Anthem: Allah Peliharakan Sultan ﷲ ڤليهاراکن سلطان ‎ \"God Bless the Sultan\"",
+            "label": "Anthem: Allah Peliharakan Sultan الله ڤليهاراکن سلطان \"God Bless the Sultan\"",
             "children": []
           },
           {
@@ -110,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".bn [ 18 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BN",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Legislative Council [ a ]",
+            "label": "Bandar Seri Begawan 4°53.417′N 114°56.533′E / 4.890283°N 114.942217°E / 4.890283; 114.942217",
             "children": []
           }
         ]
@@ -140,16 +41,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Malay [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_scripts",
-        "children": [
-          {
-            "label": "Malay alphabet (Rumi) Jawi alphabet [ 5 ]",
+            "label": "Malay",
             "children": []
           }
         ]
@@ -164,6 +56,24 @@
         ]
       },
       {
+        "label": "official_scripts",
+        "children": [
+          {
+            "label": "Malay alphabet (Rumi) Jawi alphabet",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "73.7% Malay 9.6% Chinese 16.6% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -173,95 +83,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +8 ( Brunei Standard Time )",
+            "label": "Bruneian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "440,715 [ 12 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "466,227 [ 11 ] ( 175th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "british_protected_state",
-        "children": [
-          {
-            "label": "17 September 1888",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "brunei_revolt",
-        "children": [
-          {
-            "label": "8 December 1962",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution_adopted_and_selfgovernance",
-        "children": [
-          {
-            "label": "29 September 1959",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "crown_prince_and_senior_minister",
-        "children": [
-          {
-            "label": "Al-Muhtadee Billah",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "72.11/km 2 (186.8/sq mi) ( 134th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_united_kingdom",
-        "children": [
-          {
-            "label": "1 January 1984",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$95,760 [ 14 ] ( 7th )",
-            "children": []
-          },
-          {
-            "label": "$34,970 [ 16 ] ( 31st )",
+            "label": "Unitary Islamic absolute monarchy",
             "children": []
           }
         ]
@@ -276,6 +110,24 @@
         ]
       },
       {
+        "label": "crown_prince_and_senior_minister",
+        "children": [
+          {
+            "label": "Al-Muhtadee Billah",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Legislative Council",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "sultanate_established",
         "children": [
           {
@@ -285,18 +137,54 @@
         ]
       },
       {
+        "label": "british_protected_state",
+        "children": [
+          {
+            "label": "17 September 1888",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution_adopted_and_selfgovernance",
+        "children": [
+          {
+            "label": "29 September 1959",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "brunei_revolt",
+        "children": [
+          {
+            "label": "8 December 1962",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_united_kingdom",
+        "children": [
+          {
+            "label": "1 January 1984",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
-            "label": "5,765 [ 10 ] km 2 (2,226 sq mi) ( 164th )",
+            "label": "5,765 km 2 (2,226 sq mi) ( 164th )",
             "children": []
           },
           {
-            "label": "$43.830 billion [ 13 ] ( 137th )",
+            "label": "$43.830 billion ( 137th )",
             "children": []
           },
           {
-            "label": "$16.01 billion [ 15 ] ( 139th )",
+            "label": "$16.01 billion ( 139th )",
             "children": []
           }
         ]
@@ -306,6 +194,118 @@
         "children": [
           {
             "label": "8.6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "466,227 ( 175th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "440,715",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "72.11/km 2 (186.8/sq mi) ( 134th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$95,760 ( 7th )",
+            "children": []
+          },
+          {
+            "label": "$34,970 ( 31st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.837 very high ( 60th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Brunei dollar ( BND )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +8 ( Brunei Standard Time )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+673",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BN",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".bn",
             "children": []
           }
         ]

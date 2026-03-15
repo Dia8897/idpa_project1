@@ -1,0 +1,850 @@
+{
+  "country_name": "Papua New Guinea",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Unity",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "diversity",
+            "children": []
+          },
+          {
+            "label": "52",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "O",
+            "children": []
+          },
+          {
+            "label": "Arise",
+            "children": []
+          },
+          {
+            "label": "All",
+            "children": []
+          },
+          {
+            "label": "You",
+            "children": []
+          },
+          {
+            "label": "Sons",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Papua",
+            "children": []
+          },
+          {
+            "label": "New",
+            "children": []
+          },
+          {
+            "label": "Guinea",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Motto: ' Unity in diversity ' : 52",
+          "Anthem: \" O Arise, All You Sons \"",
+          "Location of Papua New Guinea (green)"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Port",
+            "children": []
+          },
+          {
+            "label": "Moresby",
+            "children": []
+          },
+          {
+            "label": "09",
+            "children": []
+          },
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "147",
+            "children": []
+          },
+          {
+            "label": "08",
+            "children": []
+          },
+          {
+            "label": "58",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "47889",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "147",
+            "children": []
+          },
+          {
+            "label": "14944",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "47889",
+            "children": []
+          },
+          {
+            "label": "147",
+            "children": []
+          },
+          {
+            "label": "14944",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Port Moresby 09°28′44′′S 147°08′58′′E / 9.47889°S 147.14944°E / -9.47889; 147.14944"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Hiri",
+            "children": []
+          },
+          {
+            "label": "Motu",
+            "children": []
+          },
+          {
+            "label": "PNG",
+            "children": []
+          },
+          {
+            "label": "Sign",
+            "children": []
+          },
+          {
+            "label": "Language",
+            "children": []
+          },
+          {
+            "label": "Tok",
+            "children": []
+          },
+          {
+            "label": "Pisin",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English Hiri Motu PNG Sign Language Tok Pisin"
+        ]
+      },
+      {
+        "label": "indigenous_languages",
+        "children": [
+          {
+            "label": "839",
+            "children": []
+          },
+          {
+            "label": "languages",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "839 languages"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          },
+          {
+            "label": "64",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "unspecified",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          },
+          {
+            "label": "or",
+            "children": []
+          },
+          {
+            "label": "none",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "95.5% Christianity ( official ) 64.3% Protestantism 26.0% Catholicism 5.2% other Christian 3.1% unspecified 1.4% others or none"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Papua",
+            "children": []
+          },
+          {
+            "label": "New",
+            "children": []
+          },
+          {
+            "label": "Guinean",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Papua New Guinean"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "constitutional",
+            "children": []
+          },
+          {
+            "label": "monarchy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary constitutional monarchy"
+        ]
+      },
+      {
+        "label": "monarch",
+        "children": [
+          {
+            "label": "Charles",
+            "children": []
+          },
+          {
+            "label": "III",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Charles III"
+        ]
+      },
+      {
+        "label": "governorgeneral",
+        "children": [
+          {
+            "label": "Bob",
+            "children": []
+          },
+          {
+            "label": "Dadae",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bob Dadae"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "James",
+            "children": []
+          },
+          {
+            "label": "Marape",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "James Marape"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Parliament"
+        ]
+      },
+      {
+        "label": "administrative_union",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1949",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 July 1949"
+        ]
+      },
+      {
+        "label": "independence",
+        "children": [
+          {
+            "label": "16",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1975",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "16 September 1975"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "462",
+            "children": []
+          },
+          {
+            "label": "840",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "178",
+            "children": []
+          },
+          {
+            "label": "700",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "54th",
+            "children": []
+          },
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "810",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "135th",
+            "children": []
+          },
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "840",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "108th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "462,840 km 2 (178,700 sq mi) ( 54th )",
+          "$41.810 billion ( 135th )",
+          "$32.840 billion ( 108th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2.2"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "781",
+            "children": []
+          },
+          {
+            "label": "559",
+            "children": []
+          },
+          {
+            "label": "82nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11,781,559 ( 82nd )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "185",
+            "children": []
+          },
+          {
+            "label": "363",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "10,185,363"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "66",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "25.5/km 2 (66.0/sq mi)"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "760",
+            "children": []
+          },
+          {
+            "label": "162th",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "560",
+            "children": []
+          },
+          {
+            "label": "142th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$3,760 ( 162th )",
+          "$2,560 ( 142th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "41.9 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "576",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "160th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.576 medium ( 160th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Kina",
+            "children": []
+          },
+          {
+            "label": "PGK",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kina ( PGK )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "PNGST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +10, +11 ( PNGST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "675",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+675"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "PG",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "PG"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "pg",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".pg"
+        ]
+      }
+    ]
+  }
+}

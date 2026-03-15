@@ -1,0 +1,926 @@
+{
+  "country_name": "Saudi Arabia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "L",
+            "children": []
+          },
+          {
+            "label": "il",
+            "children": []
+          },
+          {
+            "label": "ha",
+            "children": []
+          },
+          {
+            "label": "ill",
+            "children": []
+          },
+          {
+            "label": "ll",
+            "children": []
+          },
+          {
+            "label": "h",
+            "children": []
+          },
+          {
+            "label": "Muhammadun",
+            "children": []
+          },
+          {
+            "label": "ras",
+            "children": []
+          },
+          {
+            "label": "lu",
+            "children": []
+          },
+          {
+            "label": "ll",
+            "children": []
+          },
+          {
+            "label": "h",
+            "children": []
+          },
+          {
+            "label": "Shahada",
+            "children": []
+          },
+          {
+            "label": "There",
+            "children": []
+          },
+          {
+            "label": "is",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "god",
+            "children": []
+          },
+          {
+            "label": "but",
+            "children": []
+          },
+          {
+            "label": "God",
+            "children": []
+          },
+          {
+            "label": "Muhammad",
+            "children": []
+          },
+          {
+            "label": "is",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "messenger",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "God",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          },
+          {
+            "label": "Na",
+            "children": []
+          },
+          {
+            "label": "d",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Wa",
+            "children": []
+          },
+          {
+            "label": "aniyy",
+            "children": []
+          },
+          {
+            "label": "as",
+            "children": []
+          },
+          {
+            "label": "Su",
+            "children": []
+          },
+          {
+            "label": "diyy",
+            "children": []
+          },
+          {
+            "label": "Chant",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Saudi",
+            "children": []
+          },
+          {
+            "label": "Nation",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Saudi",
+            "children": []
+          },
+          {
+            "label": "Arabia",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Motto: لَا إِلهَ إِلَّا اللَّهُ، مُحَمَّدٌ رَسُولُ اللَّهِ Lā ʾilāha ʾillā llāh, Muhammadun rasūlu llāh ( Shahada ) \"There is no god but God ; Muhammad is the messenger of God \"",
+          "Anthem: النشيد الوطني السعودي an-Našīd al-Waṭaniyy as-Suʿūdiyy \"Chant of the Saudi Nation\"",
+          "Show globe Show map of Saudi Arabia"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Riyadh",
+            "children": []
+          },
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "39",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "46",
+            "children": []
+          },
+          {
+            "label": "46",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "650",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "46",
+            "children": []
+          },
+          {
+            "label": "767",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "650",
+            "children": []
+          },
+          {
+            "label": "46",
+            "children": []
+          },
+          {
+            "label": "767",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Riyadh 24°39′N 46°46′E / 24.650°N 46.767°E / 24.650; 46.767"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "Sunni",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sunni Islam ( official )"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Saudi",
+            "children": []
+          },
+          {
+            "label": "Saudi",
+            "children": []
+          },
+          {
+            "label": "Arabian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Saudi Saudi Arabian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "Islamic",
+            "children": []
+          },
+          {
+            "label": "absolute",
+            "children": []
+          },
+          {
+            "label": "monarchy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary Islamic absolute monarchy"
+        ]
+      },
+      {
+        "label": "king",
+        "children": [
+          {
+            "label": "Salman",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Salman"
+        ]
+      },
+      {
+        "label": "crown_prince_and_prime_minister",
+        "children": [
+          {
+            "label": "Mohammed",
+            "children": []
+          },
+          {
+            "label": "bin",
+            "children": []
+          },
+          {
+            "label": "Salman",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mohammed bin Salman"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Consultative",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Consultative Assembly"
+        ]
+      },
+      {
+        "label": "emirate_of_diriyah",
+        "children": [
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1727",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "22 February 1727"
+        ]
+      },
+      {
+        "label": "emirate_of_nejd",
+        "children": [
+          {
+            "label": "1824",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1824"
+        ]
+      },
+      {
+        "label": "emirate_of_riyadh",
+        "children": [
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "January",
+            "children": []
+          },
+          {
+            "label": "1902",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "13 January 1902"
+        ]
+      },
+      {
+        "label": "emirate_of_nejd_and_hasa",
+        "children": [
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "January",
+            "children": []
+          },
+          {
+            "label": "1913",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "15 January 1913"
+        ]
+      },
+      {
+        "label": "sultanate_of_nejd",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1921",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29 November 1921"
+        ]
+      },
+      {
+        "label": "kingdom_of_hejaz_and_nejd",
+        "children": [
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "January",
+            "children": []
+          },
+          {
+            "label": "1926",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "8 January 1926"
+        ]
+      },
+      {
+        "label": "unification_and_proclamation_of_the_kingdom_of_saudi_arabia",
+        "children": [
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1932",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "23 September 1932"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "January",
+            "children": []
+          },
+          {
+            "label": "1992",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "31 January 1992"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "149",
+            "children": []
+          },
+          {
+            "label": "690",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "830",
+            "children": []
+          },
+          {
+            "label": "000",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "12th",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "690",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "17th",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "270",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "19th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2,149,690 km 2 (830,000 sq mi) ( 12th )",
+          "$2.690 trillion ( 17th )",
+          "$1.270 trillion ( 19th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.7"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "702",
+            "children": []
+          },
+          {
+            "label": "731",
+            "children": []
+          },
+          {
+            "label": "42nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "33,702,731 ( 42nd )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "38",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "218th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "15/km 2 (38.8/sq mi) ( 218th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "74",
+            "children": []
+          },
+          {
+            "label": "670",
+            "children": []
+          },
+          {
+            "label": "19th",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "230",
+            "children": []
+          },
+          {
+            "label": "37th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$74.670 ( 19th )",
+          "$35,230 ( 37th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "45",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "45.9 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "900",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "37th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.900 very high ( 37th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Saudi",
+            "children": []
+          },
+          {
+            "label": "riyal",
+            "children": []
+          },
+          {
+            "label": "SR",
+            "children": []
+          },
+          {
+            "label": "SAR",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Saudi riyal (SR) ( SAR )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "SAST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +3 ( SAST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "966",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+966"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SA",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "SA"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "sa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".sa السعودية."
+        ]
+      }
+    ]
+  }
+}

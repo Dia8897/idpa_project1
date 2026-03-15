@@ -1,0 +1,693 @@
+{
+  "country_name": "Japan",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Imperial",
+            "children": []
+          },
+          {
+            "label": "crest",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Kimigayo",
+            "children": []
+          },
+          {
+            "label": "His",
+            "children": []
+          },
+          {
+            "label": "Majesty",
+            "children": []
+          },
+          {
+            "label": "s",
+            "children": []
+          },
+          {
+            "label": "Reign",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Japan",
+            "children": []
+          },
+          {
+            "label": "Territory",
+            "children": []
+          },
+          {
+            "label": "claimed",
+            "children": []
+          },
+          {
+            "label": "but",
+            "children": []
+          },
+          {
+            "label": "not",
+            "children": []
+          },
+          {
+            "label": "controlled",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Imperial crest",
+          "Anthem: 君が代 (\" Kimigayo \") ' His Majesty's Reign '",
+          "Location of Japan Territory claimed but not controlled"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Tokyo",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "139",
+            "children": []
+          },
+          {
+            "label": "46",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "683",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "139",
+            "children": []
+          },
+          {
+            "label": "767",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "683",
+            "children": []
+          },
+          {
+            "label": "139",
+            "children": []
+          },
+          {
+            "label": "767",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tokyo 35°41′N 139°46′E / 35.683°N 139.767°E / 35.683; 139.767"
+        ]
+      },
+      {
+        "label": "national_language",
+        "children": [
+          {
+            "label": "Japanese",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Japanese"
+        ]
+      },
+      {
+        "label": "regional_languages",
+        "children": [
+          {
+            "label": "Ainu",
+            "children": []
+          },
+          {
+            "label": "recognized",
+            "children": []
+          },
+          {
+            "label": "Ryukyuan",
+            "children": []
+          },
+          {
+            "label": "languages",
+            "children": []
+          },
+          {
+            "label": "Hachij",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ainu (recognized) Ryukyuan languages Hachijō"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Japanese",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Japanese"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "constitutional",
+            "children": []
+          },
+          {
+            "label": "monarchy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary constitutional monarchy"
+        ]
+      },
+      {
+        "label": "emperor",
+        "children": [
+          {
+            "label": "Naruhito",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Naruhito"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Sanae",
+            "children": []
+          },
+          {
+            "label": "Takaichi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sanae Takaichi"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Diet",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Diet"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Councillors",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Councillors"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Representatives"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "377",
+            "children": []
+          },
+          {
+            "label": "975",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "145",
+            "children": []
+          },
+          {
+            "label": "937",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "62nd",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "758",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "5th",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "230",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "4th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "377,975 km 2 (145,937 sq mi) ( 62nd )",
+          "$6.758 trillion ( 5th )",
+          "$4.230 trillion ( 4th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1.4"
+        ]
+      },
+      {
+        "label": "january_1_estimate",
+        "children": [
+          {
+            "label": "122",
+            "children": []
+          },
+          {
+            "label": "950",
+            "children": []
+          },
+          {
+            "label": "000",
+            "children": []
+          },
+          {
+            "label": "11th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "122,950,000 ( 11th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "126",
+            "children": []
+          },
+          {
+            "label": "146",
+            "children": []
+          },
+          {
+            "label": "099",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "126,146,099"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "330",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "854",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "39th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "330/km 2 (854.7/sq mi) ( 39th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "54",
+            "children": []
+          },
+          {
+            "label": "815",
+            "children": []
+          },
+          {
+            "label": "39th",
+            "children": []
+          },
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "713",
+            "children": []
+          },
+          {
+            "label": "36th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$54,815 ( 39th )",
+          "$34,713 ( 36th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "32.3 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "925",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "23rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.925 very high ( 23rd )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Japanese",
+            "children": []
+          },
+          {
+            "label": "yen",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Japanese yen ( ¥ )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "09",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "JST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +09:00 ( JST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "81",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+81"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "JP",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "JP"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "jp",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".jp"
+        ]
+      }
+    ]
+  }
+}

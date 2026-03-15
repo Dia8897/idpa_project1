@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+387",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Sarajevo [ 1 ] 43°52′N 18°25′E ﻿ / ﻿ 43.867°N 18.417°E ﻿ / 43.867; 18.417",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Convertible mark ( BAM )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bosnian Herzegovinian [ 7 ] [ 8 ] [ 9 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "27.1 [ 13 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal parliamentary [ 9 ] directorial republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.804 [ 14 ] very high ( 74th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -106,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ba",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliamentary Assembly",
+            "label": "Sarajevo 43°52′N 18°25′E / 43.867°N 18.417°E / 43.867; 18.417",
             "children": []
           }
         ]
@@ -136,7 +37,7 @@
         "label": "official_language_federal_level",
         "children": [
           {
-            "label": "None [ 1 ] [ 2 ] [ 3 ] [ 4 ]",
+            "label": "None",
             "children": []
           }
         ]
@@ -151,46 +52,28 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +01 ( CET )",
+            "label": "Bosnian Herzegovinian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "3,531,159 [ 5 ]",
+            "label": "Federal parliamentary directorial republic",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "high_representative",
         "children": [
           {
-            "label": "2,904,256 [ 11 ] ( 137th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "austrohungarian_conquest_and_annexation",
-        "children": [
-          {
-            "label": "1878",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "banate_of_bosnia",
-        "children": [
-          {
-            "label": "1154",
+            "label": "Christian Schmidt",
             "children": []
           }
         ]
@@ -205,87 +88,6 @@
         ]
       },
       {
-        "label": "chairwoman_of_the_council_of_ministers",
-        "children": [
-          {
-            "label": "Borjana Krišto",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "creation_of_yugoslavia",
-        "children": [
-          {
-            "label": "1 December 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dayton_agreement",
-        "children": [
-          {
-            "label": "14 December 1995",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "61/km 2 (158.0/sq mi) ( 156th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "early_medieval_bosnia",
-        "children": [
-          {
-            "label": "9th century",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "high_representative",
-        "children": [
-          {
-            "label": "Christian Schmidt [ a ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_yugoslavia",
-        "children": [
-          {
-            "label": "3 March 1992",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_bosnia",
-        "children": [
-          {
-            "label": "1377",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "members_of_the_presidency",
         "children": [
           {
@@ -295,58 +97,19 @@
         ]
       },
       {
-        "label": "ottoman_conquest",
+        "label": "chairwoman_of_the_council_of_ministers",
         "children": [
           {
-            "label": "1463",
+            "label": "Borjana Krišto",
             "children": []
           }
         ]
       },
       {
-        "label": "per_capita",
+        "label": "legislature",
         "children": [
           {
-            "label": "$23,930 [ 12 ] ( 84th )",
-            "children": []
-          },
-          {
-            "label": "$10,546 [ 12 ] ( 85th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "sr_bosnia_and_herzegovina_within_sfr_yugoslavia",
-        "children": [
-          {
-            "label": "29 November 1945",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "summer_dst",
-        "children": [
-          {
-            "label": "UTC +02 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "51,209 [ 10 ] km 2 (19,772 sq mi) ( 125th )",
-            "children": []
-          },
-          {
-            "label": "$82.23 billion [ 12 ] ( 108th )",
-            "children": []
-          },
-          {
-            "label": "$36.24 billion [ 12 ] ( 107th )",
+            "label": "Parliamentary Assembly",
             "children": []
           }
         ]
@@ -361,10 +124,126 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "early_medieval_bosnia",
+        "children": [
+          {
+            "label": "9th century",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "banate_of_bosnia",
+        "children": [
+          {
+            "label": "1154",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom_of_bosnia",
+        "children": [
+          {
+            "label": "1377",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ottoman_conquest",
+        "children": [
+          {
+            "label": "1463",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "austrohungarian_conquest_and_annexation",
+        "children": [
+          {
+            "label": "1878",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "creation_of_yugoslavia",
+        "children": [
+          {
+            "label": "1 December 1918",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "zavnobih",
+        "children": [
+          {
+            "label": "25 November 1943",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "sr_bosnia_and_herzegovina_within_sfr_yugoslavia",
+        "children": [
+          {
+            "label": "29 November 1945",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_yugoslavia",
+        "children": [
+          {
+            "label": "3 March 1992",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "washington_agreement",
         "children": [
           {
             "label": "18 March 1994",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "dayton_agreement",
+        "children": [
+          {
+            "label": "14 December 1995",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "51,209 km 2 (19,772 sq mi) ( 125th )",
+            "children": []
+          },
+          {
+            "label": "$82.23 billion ( 108th )",
+            "children": []
+          },
+          {
+            "label": "$36.24 billion ( 107th )",
             "children": []
           }
         ]
@@ -379,10 +258,131 @@
         ]
       },
       {
-        "label": "zavnobih",
+        "label": "estimate",
         "children": [
           {
-            "label": "25 November 1943",
+            "label": "2,904,256 ( 137th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "3,531,159",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "61/km 2 (158.0/sq mi) ( 156th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$23,930 ( 84th )",
+            "children": []
+          },
+          {
+            "label": "$10,546 ( 85th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "27.1 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.804 very high ( 74th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Convertible mark ( BAM )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +01 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +02 ( CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+387",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ba",
             "children": []
           }
         ]

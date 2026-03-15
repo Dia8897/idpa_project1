@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Basseterre 17°18′N 62°44′W ﻿ / ﻿ 17.300°N 62.733°W ﻿ / 17.300; -62.733",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "East Caribbean dollar (EC$) ( XCD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd-mm-yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Kittitian Nevisian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "92.5% African 3.0% Mixed 2.1% European 1.6% Indian 0.5% other 0.3% unspecified",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.840 [ 6 ] very high ( 58th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".kn",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KN",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Basseterre 17°18′N 62°44′W / 17.300°N 62.733°W / 17.300; -62.733",
             "children": []
           }
         ]
@@ -151,24 +43,6 @@
         ]
       },
       {
-        "label": "religion",
-        "children": [
-          {
-            "label": "94.6% Christianity 81.3% Protestantism 13.3% other Christian 2.6% no religion 1.5% Hinduism 1.3% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC -4 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "vernacular_language",
         "children": [
           {
@@ -178,55 +52,37 @@
         ]
       },
       {
-        "label": "estimate",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "47,606 [ 3 ] [ 4 ] ( 187th )",
+            "label": "92.5% African 3.0% Mixed 2.1% European 1.6% Indian 0.5% other 0.3% unspecified",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "religion",
         "children": [
           {
-            "label": "54,338",
+            "label": "94.6% Christianity 81.3% Protestantism 13.3% other Christian 2.6% no religion 1.5% Hinduism 1.3% other",
             "children": []
           }
         ]
       },
       {
-        "label": "associated_state",
+        "label": "demonyms",
         "children": [
           {
-            "label": "27 February 1967",
+            "label": "Kittitian Nevisian",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "government",
         "children": [
           {
-            "label": "164/km 2 (424.8/sq mi) ( 64th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "governorgeneral",
-        "children": [
-          {
-            "label": "Dame Marcella Liburd",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "19 September 1983",
+            "label": "Federal parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -241,14 +97,10 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "governorgeneral",
         "children": [
           {
-            "label": "$29,893 [ 5 ]",
-            "children": []
-          },
-          {
-            "label": "$18,158 [ 5 ]",
+            "label": "Dame Marcella Liburd",
             "children": []
           }
         ]
@@ -258,6 +110,33 @@
         "children": [
           {
             "label": "Terrance Drew",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "associated_state",
+        "children": [
+          {
+            "label": "27 February 1967",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "19 September 1983",
             "children": []
           }
         ]
@@ -284,6 +163,127 @@
         "children": [
           {
             "label": "Negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "47,606 ( 187th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "54,338",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "164/km 2 (424.8/sq mi) ( 64th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$29,893",
+            "children": []
+          },
+          {
+            "label": "$18,158",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.840 very high ( 58th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "East Caribbean dollar (EC$) ( XCD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC -4 ( AST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd-mm-yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "KN",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".kn",
             "children": []
           }
         ]

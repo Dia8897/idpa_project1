@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+240",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Ciudad de la Paz 1°35′20″N 10°49′21″E ﻿ / ﻿ 1.58889°N 10.82250°E ﻿ / 1.58889; 10.82250",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Central African CFA franc ( XAF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Equatoguinean Equatorial Guinean",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "85.7% Fang 6.5% Bubi 3.6% Ndowe 1.6% Annobon 1.1% Bujeba 1.1% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic under an authoritarian hereditary dictatorship [ 5 ] [ 6 ] [ 7 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.674 [ 10 ] medium ( 133rd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -110,19 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".gq",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GQ",
+            "label": "Ciudad de la Paz 1°35′20′′N 10°49′21′′E / 1.58889°N 10.82250°E / 1.58889; 10.82250",
             "children": []
           }
         ]
@@ -137,19 +47,10 @@
         ]
       },
       {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "official_languages",
         "children": [
           {
-            "label": "Spanish French [ 1 ] Portuguese [ 2 ]",
+            "label": "Spanish French Portuguese",
             "children": []
           }
         ]
@@ -164,6 +65,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "85.7% Fang 6.5% Bubi 3.6% Ndowe 1.6% Annobon 1.1% Bujeba 1.1% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -173,77 +83,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( WAT )",
+            "label": "Equatoguinean Equatorial Guinean",
             "children": []
           }
         ]
       },
       {
-        "label": "equatorial_guinea_coup_detat",
+        "label": "government",
         "children": [
           {
-            "label": "3 August 1979",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "1,795,834 [ 8 ] ( 154th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "Joaquín Asong Owono Mbang",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "12 October 1968",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "67/km 2 (173.5/sq mi) ( 147th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Chamber of Deputies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$20,017 [ 9 ] ( 92nd )",
-            "children": []
-          },
-          {
-            "label": "$7,750 [ 9 ] ( 95th )",
+            "label": "Unitary presidential republic under an authoritarian hereditary dictatorship",
             "children": []
           }
         ]
@@ -258,6 +110,15 @@
         ]
       },
       {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Teodoro Nguema Obiang Mangue",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "prime_minister",
         "children": [
           {
@@ -267,18 +128,19 @@
         ]
       },
       {
-        "label": "total",
+        "label": "chief_justice",
         "children": [
           {
-            "label": "28,050 km 2 (10,830 sq mi) ( 141st )",
+            "label": "Joaquín Asong Owono Mbang",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
           {
-            "label": "$33.001 billion [ 9 ] ( 149th )",
-            "children": []
-          },
-          {
-            "label": "$12.680 billion [ 9 ] ( 149th )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -293,10 +155,45 @@
         ]
       },
       {
-        "label": "vice_president",
+        "label": "lower_house",
         "children": [
           {
-            "label": "Teodoro Nguema Obiang Mangue",
+            "label": "Chamber of Deputies",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "12 October 1968",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "equatorial_guinea_coup_detat",
+        "children": [
+          {
+            "label": "3 August 1979",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "28,050 km 2 (10,830 sq mi) ( 141st )",
+            "children": []
+          },
+          {
+            "label": "$33.001 billion ( 149th )",
+            "children": []
+          },
+          {
+            "label": "$12.680 billion ( 149th )",
             "children": []
           }
         ]
@@ -306,6 +203,109 @@
         "children": [
           {
             "label": "negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "1,795,834 ( 154th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "67/km 2 (173.5/sq mi) ( 147th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$20,017 ( 92nd )",
+            "children": []
+          },
+          {
+            "label": "$7,750 ( 95th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.674 medium ( 133rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Central African CFA franc ( XAF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( WAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+240",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "GQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".gq",
             "children": []
           }
         ]

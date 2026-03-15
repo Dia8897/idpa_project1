@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+243",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Kinshasa 4°19′S 15°19′E ﻿ / ﻿ 4.317°S 15.317°E ﻿ / -4.317; 15.317 Country: 3°S 24°E ﻿ / ﻿ 3°S 24°E ﻿ / -3; 24",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Congolese franc ( CDF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Congolese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "42.1 [ 5 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.522 [ 6 ] low ( 171st )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".cd",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CD",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Kinshasa 4°19′S 15°19′E / 4.317°S 15.317°E / -4.317; 15.317 Country: 3°S 24°E / 3°S 24°E / -3; 24",
             "children": []
           }
         ]
@@ -154,7 +46,7 @@
         "label": "recognised_national_languages",
         "children": [
           {
-            "label": "Kikongo ya leta [ a ] Lingala Swahili Luba-Kasai",
+            "label": "Kikongo ya leta Lingala Swahili Luba-Kasai",
             "children": []
           }
         ]
@@ -169,122 +61,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 to +2 ( WAT and CAT )",
+            "label": "Congolese",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "114,388,160 [ 3 ] ( 15th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "admitted_to_the_united_nations",
-        "children": [
-          {
-            "label": "20 September 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "belgian_congo",
-        "children": [
-          {
-            "label": "15 November 1908",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "colonised_by_leopold_ii_of_belgium",
-        "children": [
-          {
-            "label": "17 November 1879",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "congo_free_state",
-        "children": [
-          {
-            "label": "1 July 1885",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "18 February 2006",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "democratic_republic",
-        "children": [
-          {
-            "label": "1 August 1964",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "48/km 2 (124.3/sq mi) ( 168th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_congo_war",
-        "children": [
-          {
-            "label": "17 May 1997",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_belgium",
-        "children": [
-          {
-            "label": "30 June 1960 [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$1,881 [ 4 ] ( 180th )",
-            "children": []
-          },
-          {
-            "label": "$742 [ 4 ] ( 182nd )",
+            "label": "Unitary semi-presidential republic",
             "children": []
           }
         ]
@@ -308,27 +97,10 @@
         ]
       },
       {
-        "label": "republic_of_zaire",
+        "label": "legislature",
         "children": [
           {
-            "label": "27 October 1971",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "2,345,409 km 2 (905,567 sq mi) ( 11th )",
-            "children": []
-          },
-          {
-            "label": "$200.76 billion [ 4 ] ( 79th )",
-            "children": []
-          },
-          {
-            "label": "$79.120 billion [ 4 ] ( 83rd )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -343,10 +115,238 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "colonised_by_leopold_ii_of_belgium",
+        "children": [
+          {
+            "label": "17 November 1879",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "congo_free_state",
+        "children": [
+          {
+            "label": "1 July 1885",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "belgian_congo",
+        "children": [
+          {
+            "label": "15 November 1908",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_belgium",
+        "children": [
+          {
+            "label": "30 June 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "admitted_to_the_united_nations",
+        "children": [
+          {
+            "label": "20 September 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "democratic_republic",
+        "children": [
+          {
+            "label": "1 August 1964",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic_of_zaire",
+        "children": [
+          {
+            "label": "27 October 1971",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "first_congo_war",
+        "children": [
+          {
+            "label": "17 May 1997",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "18 February 2006",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "2,345,409 km 2 (905,567 sq mi) ( 11th )",
+            "children": []
+          },
+          {
+            "label": "$200.76 billion ( 79th )",
+            "children": []
+          },
+          {
+            "label": "$79.120 billion ( 83rd )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "3.32",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "114,388,160 ( 15th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "48/km 2 (124.3/sq mi) ( 168th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$1,881 ( 180th )",
+            "children": []
+          },
+          {
+            "label": "$742 ( 182nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "42.1 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.522 low ( 171st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Congolese franc ( CDF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 to +2 ( WAT and CAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+243",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "CD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".cd",
             "children": []
           }
         ]

@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+250",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Kigali 1°56′38″S 30°3′34″E ﻿ / ﻿ 1.94389°S 30.05944°E ﻿ / -1.94389; 30.05944",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Rwandan franc ( RWF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy ( AD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Rwandan Rwandese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "100% Banyarwanda [ 5 ] 85% Hutu 14% Tutsi 1% Twa",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "39.4 [ 13 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic under an authoritarian dictatorship [ 7 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.578 [ 14 ] medium ( 159th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -128,37 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".rw",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "RW",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "national_language",
-        "children": [
-          {
-            "label": "Kinyarwanda [ 2 ]",
+            "label": "Kigali 1°56′38′′S 30°3′34′′E / 1.94389°S 30.05944°E / -1.94389; 30.05944",
             "children": []
           }
         ]
@@ -167,25 +41,16 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Kinyarwanda English French Swahili [ 1 ]",
+            "label": "Kinyarwanda English French Swahili",
             "children": []
           }
         ]
       },
       {
-        "label": "religion",
+        "label": "national_language",
         "children": [
           {
-            "label": "93.8% Christianity 3.0% no religion 2.2% Islam 1.0% other [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( CAT )",
+            "label": "Kinyarwanda",
             "children": []
           }
         ]
@@ -194,110 +59,43 @@
         "label": "working_language",
         "children": [
           {
-            "label": "English [ 3 ] [ 4 ]",
+            "label": "English",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "13,206,731 [ 11 ]",
+            "label": "100% Banyarwanda 85% Hutu 14% Tutsi 1% Twa",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "religion",
         "children": [
           {
-            "label": "14,104,969 [ 10 ] ( 76th )",
+            "label": "93.8% Christianity 3.0% no religion 2.2% Islam 1.0% other",
             "children": []
           }
         ]
       },
       {
-        "label": "admitted_to_the_un",
+        "label": "demonyms",
         "children": [
           {
-            "label": "18 September 1962",
+            "label": "Rwandan Rwandese",
             "children": []
           }
         ]
       },
       {
-        "label": "current_constitution",
+        "label": "government",
         "children": [
           {
-            "label": "26 May 2003",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "578/km 2 (1,497.0/sq mi) ( 21st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_belgium",
-        "children": [
-          {
-            "label": "1 July 1962",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_rwanda",
-        "children": [
-          {
-            "label": "15th century",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Chamber of Deputies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "part_of_german_east_africa",
-        "children": [
-          {
-            "label": "1897–1916",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "part_of_ruandaurundi",
-        "children": [
-          {
-            "label": "1916–1962",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$4,100 [ 12 ] ( 159th )",
-            "children": []
-          },
-          {
-            "label": "$1,040 [ 12 ] ( 170th )",
+            "label": "Unitary semi-presidential republic under an authoritarian dictatorship",
             "children": []
           }
         ]
@@ -321,45 +119,19 @@
         ]
       },
       {
-        "label": "republic_declared",
-        "children": [
-          {
-            "label": "28 January 1961",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "rwandan_revolution",
-        "children": [
-          {
-            "label": "1959–1961",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "speaker_of_the_chamber_of_deputies",
         "children": [
           {
-            "label": "Gertrude Kazarwa [ 8 ]",
+            "label": "Gertrude Kazarwa",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "26,338 [ 1 ] [ 9 ] km 2 (10,169 sq mi) ( 144th )",
-            "children": []
-          },
-          {
-            "label": "$58.120 billion [ 12 ] ( 129th )",
-            "children": []
-          },
-          {
-            "label": "$14.789 billion [ 12 ] ( 144th )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -374,10 +146,238 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber of Deputies",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom_of_rwanda",
+        "children": [
+          {
+            "label": "15th century",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "part_of_german_east_africa",
+        "children": [
+          {
+            "label": "1897–1916",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "part_of_ruandaurundi",
+        "children": [
+          {
+            "label": "1916–1962",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "rwandan_revolution",
+        "children": [
+          {
+            "label": "1959–1961",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic_declared",
+        "children": [
+          {
+            "label": "28 January 1961",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_belgium",
+        "children": [
+          {
+            "label": "1 July 1962",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "admitted_to_the_un",
+        "children": [
+          {
+            "label": "18 September 1962",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "26 May 2003",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "26,338 km 2 (10,169 sq mi) ( 144th )",
+            "children": []
+          },
+          {
+            "label": "$58.120 billion ( 129th )",
+            "children": []
+          },
+          {
+            "label": "$14.789 billion ( 144th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "6.3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "14,104,969 ( 76th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "13,206,731",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "578/km 2 (1,497.0/sq mi) ( 21st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$4,100 ( 159th )",
+            "children": []
+          },
+          {
+            "label": "$1,040 ( 170th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "39.4 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.578 medium ( 159th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Rwandan franc ( RWF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( CAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy ( AD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+250",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "RW",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".rw",
             "children": []
           }
         ]

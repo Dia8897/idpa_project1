@@ -1,0 +1,1045 @@
+{
+  "country_name": "Romania",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Deteapt",
+            "children": []
+          },
+          {
+            "label": "te",
+            "children": []
+          },
+          {
+            "label": "romne",
+            "children": []
+          },
+          {
+            "label": "Awaken",
+            "children": []
+          },
+          {
+            "label": "Thee",
+            "children": []
+          },
+          {
+            "label": "Romanian",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Europe",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Anthem: Deteapt-te, romne! \"Awaken Thee, Romanian!\"",
+          "Show globe Show map of Europe"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Bucharest",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "06",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "417",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "100",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "417",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "100",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bucharest 44°25′N 26°06′E / 44.417°N 26.100°E / 44.417; 26.100"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Romanian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Romanian"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "89",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Romanians",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "Hungarians",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Roma",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "89.3% Romanians 6.0% Hungarians 3.4% Roma 1.2% others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "84",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "73",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Romanian",
+            "children": []
+          },
+          {
+            "label": "Orthodoxy",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "unanswered",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "84.7% Christianity 73.6% Romanian Orthodoxy 6.4% Protestantism 4.4% Catholicism 0.2% other Christian 0.8% no religion 0.4% other 13.9% unanswered"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Romanian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Romanian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "semi",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary semi-presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Nicu",
+            "children": []
+          },
+          {
+            "label": "or",
+            "children": []
+          },
+          {
+            "label": "Dan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Nicușor Dan"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Ilie",
+            "children": []
+          },
+          {
+            "label": "Bolojan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ilie Bolojan"
+        ]
+      },
+      {
+        "label": "president_of_the_senate",
+        "children": [
+          {
+            "label": "Mircea",
+            "children": []
+          },
+          {
+            "label": "Abrudean",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mircea Abrudean"
+        ]
+      },
+      {
+        "label": "president_of_the_chamber_of_deputies",
+        "children": [
+          {
+            "label": "Sorin",
+            "children": []
+          },
+          {
+            "label": "Grindeanu",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sorin Grindeanu"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Deputies",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Chamber of Deputies"
+        ]
+      },
+      {
+        "label": "principality_of_wallachia",
+        "children": [
+          {
+            "label": "1330",
+            "children": []
+          },
+          {
+            "label": "1862",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1330–1862"
+        ]
+      },
+      {
+        "label": "principality_of_moldavia",
+        "children": [
+          {
+            "label": "1346",
+            "children": []
+          },
+          {
+            "label": "1862",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1346–1862"
+        ]
+      },
+      {
+        "label": "united_principalities",
+        "children": [
+          {
+            "label": "1859",
+            "children": []
+          },
+          {
+            "label": "1881",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1859–1881"
+        ]
+      },
+      {
+        "label": "independence_from_the_ottoman_empire",
+        "children": [
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1877",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "10 May 1877"
+        ]
+      },
+      {
+        "label": "kingdom_of_romania",
+        "children": [
+          {
+            "label": "1881",
+            "children": []
+          },
+          {
+            "label": "1947",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1881–1947"
+        ]
+      },
+      {
+        "label": "great_union",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1918",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 December 1918"
+        ]
+      },
+      {
+        "label": "socialist_romania",
+        "children": [
+          {
+            "label": "1947",
+            "children": []
+          },
+          {
+            "label": "1989",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1947–1989"
+        ]
+      },
+      {
+        "label": "republic_established",
+        "children": [
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "8 December 1991"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "238",
+            "children": []
+          },
+          {
+            "label": "397",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "92",
+            "children": []
+          },
+          {
+            "label": "046",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "81st",
+            "children": []
+          },
+          {
+            "label": "949",
+            "children": []
+          },
+          {
+            "label": "332",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "35th",
+            "children": []
+          },
+          {
+            "label": "444",
+            "children": []
+          },
+          {
+            "label": "807",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "38th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "238,397 km 2 (92,046 sq mi) ( 81st )",
+          "$949.332 billion ( 35th )",
+          "$444.807 billion ( 38th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "043",
+            "children": []
+          },
+          {
+            "label": "151",
+            "children": []
+          },
+          {
+            "label": "65th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "19,043,151 ( 65th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "053",
+            "children": []
+          },
+          {
+            "label": "815",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "19,053,815"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "83",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "215",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "132th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "83/km 2 (215.0/sq mi) ( 132th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "50",
+            "children": []
+          },
+          {
+            "label": "726",
+            "children": []
+          },
+          {
+            "label": "44th",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "767",
+            "children": []
+          },
+          {
+            "label": "54th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$50,726 ( 44th )",
+          "$23,767 ( 54th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "27.3 low inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "845",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "55th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.845 very high ( 55th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Romanian",
+            "children": []
+          },
+          {
+            "label": "leu",
+            "children": []
+          },
+          {
+            "label": "RON",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Romanian leu ( RON )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "EET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( EET )"
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "EEST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +3 ( EEST )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          },
+          {
+            "label": "CE",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd.mm.yyyy ( CE )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "40",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+40"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "RO",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "RO"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "ro",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".ro"
+        ]
+      }
+    ]
+  }
+}

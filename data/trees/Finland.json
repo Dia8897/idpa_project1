@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+358",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Helsinki 60°10′15″N 24°56′15″E ﻿ / ﻿ 60.17083°N 24.93750°E ﻿ / 60.17083; 24.93750",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd . mm . yyyy [ 9 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Finnish Finn",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "88.9% Finns [ note 1 ] 11.1% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "26.6 [ 7 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.948 [ 8 ] very high ( 12th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -114,7 +15,7 @@
             "children": []
           },
           {
-            "label": "Show globe Show map of Europe Location of Finland (dark green) – in Europe (green & dark grey) – in the European Union (green) – [ Legend ]",
+            "label": "Show globe Show map of Europe Location of Finland (dark green) – in Europe (green & dark grey) – in the European Union (green) –",
             "children": []
           },
           {
@@ -128,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".fi , .ax a",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "FI",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Helsinki 60°10′15′′N 24°56′15′′E / 60.17083°N 24.93750°E / 60.17083; 24.93750",
             "children": []
           }
         ]
@@ -173,6 +56,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "88.9% Finns [ note 1 ] 11.1% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -182,68 +74,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +2 ( EET )",
+            "label": "Finnish Finn",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "5,635,971 [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution_established",
-        "children": [
-          {
-            "label": "17 July 1919",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "6 December 1917",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "18.4/km 2 (47.7/sq mi) ( 210th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "establishment_of_grand_duchy_of_finland",
-        "children": [
-          {
-            "label": "29 March 1809 (from Sweden)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$66,500 [ 6 ] ( 23rd )",
-            "children": []
-          },
-          {
-            "label": "$54,160 [ 6 ] ( 19th )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -276,6 +119,153 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "establishment_of_grand_duchy_of_finland",
+        "children": [
+          {
+            "label": "29 March 1809 (from Sweden)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declaration_of_independence",
+        "children": [
+          {
+            "label": "6 December 1917",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution_established",
+        "children": [
+          {
+            "label": "17 July 1919",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "338,455 km 2 (130,678 sq mi) ( 65th )",
+            "children": []
+          },
+          {
+            "label": "$373.16 billion ( 61st )",
+            "children": []
+          },
+          {
+            "label": "$303.95 billion ( 46th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "9.71 (2015)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "5,635,971",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "18.4/km 2 (47.7/sq mi) ( 210th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$66,500 ( 23rd )",
+            "children": []
+          },
+          {
+            "label": "$54,160 ( 19th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "26.6 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.948 very high ( 12th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( EET )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "summer_dst",
         "children": [
           {
@@ -285,27 +275,37 @@
         ]
       },
       {
-        "label": "total",
+        "label": "date_format",
         "children": [
           {
-            "label": "338,455 [ 4 ] km 2 (130,678 sq mi) ( 65th )",
-            "children": []
-          },
-          {
-            "label": "$373.16 billion [ 6 ] ( 61st )",
-            "children": []
-          },
-          {
-            "label": "$303.95 billion [ 6 ] ( 46th )",
+            "label": "dd . mm . yyyy",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "calling_code",
         "children": [
           {
-            "label": "9.71 (2015) [ 5 ]",
+            "label": "+358",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "FI",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".fi , .ax a",
             "children": []
           }
         ]

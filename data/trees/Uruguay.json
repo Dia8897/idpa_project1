@@ -4,10 +4,26 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+598",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: Libertad o Muerte (Spanish) \"Freedom or Death\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: Himno Nacional del Uruguay \" National Anthem of Uruguay \"",
+            "children": []
+          },
+          {
+            "label": "Sol de Mayo (Sun of May)",
+            "children": []
+          },
+          {
+            "label": "Location of Uruguay (dark green) in South America",
             "children": []
           }
         ]
@@ -16,25 +32,25 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Montevideo 34°53′S 56°10′W ﻿ / ﻿ 34.883°S 56.167°W ﻿ / -34.883; -56.167",
+            "label": "Montevideo 34°53′S 56°10′W / 34.883°S 56.167°W / -34.883; -56.167",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "official_languages",
         "children": [
           {
-            "label": "Uruguayan peso ( UYU )",
+            "label": "Spanish Uruguayan Sign Language",
             "children": []
           }
         ]
       },
       {
-        "label": "date_format",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "dd/mm/yyyy",
+            "label": "86.0% White [ note 1 ] 10.4% Black 6.3% Indigenous 0.7% East Asian 6.3% other",
             "children": []
           }
         ]
@@ -49,10 +65,126 @@
         ]
       },
       {
-        "label": "ethnic_groups",
+        "label": "government",
         "children": [
           {
-            "label": "86.0% White [ note 1 ] 10.4% Black 6.3% Indigenous 0.7% East Asian 6.3% other [ 6 ]",
+            "label": "Unitary presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Yamandú Orsi",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Carolina Cosse",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "General Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "25 August 1825",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "27 August 1828",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "15 February 1967",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "176,215 km 2 (68,037 sq mi) ( 89th )",
+            "children": []
+          },
+          {
+            "label": "$107.946 billion ( 98th )",
+            "children": []
+          },
+          {
+            "label": "$82.605 billion ( 77th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1.5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "3,499,451 ( 132nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "19.5/km 2 (50.5/sq mi) ( 206th )",
             "children": []
           }
         ]
@@ -62,6 +194,19 @@
         "children": [
           {
             "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$36,014 ( 59th )",
+            "children": []
+          },
+          {
+            "label": "$23,088 ( 49th )",
             "children": []
           }
         ]
@@ -79,16 +224,7 @@
         "label": "gini",
         "children": [
           {
-            "label": "40.6 [ 10 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
+            "label": "40.6 medium inequality",
             "children": []
           }
         ]
@@ -97,68 +233,16 @@
         "label": "hdi",
         "children": [
           {
-            "label": "0.862 [ 11 ] very high ( 48th )",
+            "label": "0.862 very high ( 48th )",
             "children": []
           }
         ]
       },
       {
-        "label": "info",
+        "label": "currency",
         "children": [
           {
-            "label": "Flag [ a ] Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Motto: Libertad o Muerte (Spanish) \"Freedom or Death\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Himno Nacional del Uruguay \" National Anthem of Uruguay \"",
-            "children": []
-          },
-          {
-            "label": "Sol de Mayo [ 1 ] [ 2 ] (Sun of May)",
-            "children": []
-          },
-          {
-            "label": "Location of Uruguay (dark green) in South America",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".uy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "UY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "General Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Spanish [ b ] Uruguayan Sign Language [ c ]",
+            "label": "Uruguayan peso ( UYU )",
             "children": []
           }
         ]
@@ -173,121 +257,37 @@
         ]
       },
       {
-        "label": "census",
+        "label": "date_format",
         "children": [
           {
-            "label": "3,499,451 [ 8 ] ( 132nd )",
+            "label": "dd/mm/yyyy",
             "children": []
           }
         ]
       },
       {
-        "label": "current_constitution",
+        "label": "calling_code",
         "children": [
           {
-            "label": "15 February 1967",
+            "label": "+598",
             "children": []
           }
         ]
       },
       {
-        "label": "declared",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "25 August 1825",
+            "label": "UY",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "internet_tld",
         "children": [
           {
-            "label": "19.5/km 2 (50.5/sq mi) ( 206th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Chamber of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$36,014 [ 9 ] ( 59th )",
-            "children": []
-          },
-          {
-            "label": "$23,088 [ 9 ] ( 49th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Yamandú Orsi",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "recognized",
-        "children": [
-          {
-            "label": "27 August 1828",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "176,215 km 2 (68,037 sq mi) [ 7 ] ( 89th )",
-            "children": []
-          },
-          {
-            "label": "$107.946 billion [ 9 ] ( 98th )",
-            "children": []
-          },
-          {
-            "label": "$82.605 billion [ 9 ] ( 77th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "Senate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Carolina Cosse",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "water",
-        "children": [
-          {
-            "label": "1.5",
+            "label": ".uy",
             "children": []
           }
         ]

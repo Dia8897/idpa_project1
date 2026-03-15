@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+354",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Reykjavík 64°08′N 21°56′W ﻿ / ﻿ 64.133°N 21.933°W ﻿ / 64.133; -21.933",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Icelandic króna ( ISK )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Icelander Icelandic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "86% Icelandic 6% Polish 1% Lithuanian 0.8% Filipino 7% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "23.2 [ 8 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.972 [ 9 ] very high ( 1st )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -120,28 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".is",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IS",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Althing",
+            "label": "Reykjavík 64°08′N 21°56′W / 64.133°N 21.933°W / 64.133; -21.933",
             "children": []
           }
         ]
@@ -156,104 +39,37 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "86% Icelandic 6% Polish 1% Lithuanian 0.8% Filipino 7% other",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
-            "label": "72.4% Christianity 60.9% Church of Iceland ( official ) [ b ] 11.5% other Christian 25.2% no religion 1.5% Ásatrúarfélagið 0.9% other",
+            "label": "72.4% Christianity 60.9% Church of Iceland ( official ) 11.5% other Christian 25.2% no religion 1.5% Ásatrúarfélagið 0.9% other",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC ±00:00 ( GMT / WET )",
+            "label": "Icelander Icelandic",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "394,530 [ 6 ] ( 172nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ceded_to_denmark",
-        "children": [
-          {
-            "label": "14 January 1814",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "commonwealth",
-        "children": [
-          {
-            "label": "930–1262",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution_and_limited_home_rule",
-        "children": [
-          {
-            "label": "5 January 1874",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "denmarknorway",
-        "children": [
-          {
-            "label": "1523–1814",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "3.78/km 2 (9.8/sq mi) ( 235th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "extended_home_rule",
-        "children": [
-          {
-            "label": "1 February 1904",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kalmar_union",
-        "children": [
-          {
-            "label": "1397–1523",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$81,220 [ 7 ] ( 14th )",
-            "children": []
-          },
-          {
-            "label": "$90,280 [ 7 ] ( 5th )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -277,10 +93,19 @@
         ]
       },
       {
-        "label": "republic",
+        "label": "speaker_of_the_althing",
         "children": [
           {
-            "label": "17 June 1944 ; 81 years ago ( 17 June 1944 )",
+            "label": "Þórunn Sveinbjarnardóttir",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Althing",
             "children": []
           }
         ]
@@ -295,36 +120,10 @@
         ]
       },
       {
-        "label": "sovereignty_and_personal_union_with_denmark",
+        "label": "commonwealth",
         "children": [
           {
-            "label": "1 December 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "speaker_of_the_althing",
-        "children": [
-          {
-            "label": "Þórunn Sveinbjarnardóttir",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "103,125 [ 4 ] km 2 (39,817 sq mi) ( 106th )",
-            "children": []
-          },
-          {
-            "label": "$31.076 billion [ 7 ] ( 153rd )",
-            "children": []
-          },
-          {
-            "label": "$35.310 billion [ 7 ] ( 105th )",
+            "label": "930–1262",
             "children": []
           }
         ]
@@ -339,10 +138,211 @@
         ]
       },
       {
+        "label": "kalmar_union",
+        "children": [
+          {
+            "label": "1397–1523",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "denmarknorway",
+        "children": [
+          {
+            "label": "1523–1814",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ceded_to_denmark",
+        "children": [
+          {
+            "label": "14 January 1814",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution_and_limited_home_rule",
+        "children": [
+          {
+            "label": "5 January 1874",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "extended_home_rule",
+        "children": [
+          {
+            "label": "1 February 1904",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "sovereignty_and_personal_union_with_denmark",
+        "children": [
+          {
+            "label": "1 December 1918",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic",
+        "children": [
+          {
+            "label": "17 June 1944 ; 81 years ago ( 17 June 1944 )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "103,125 km 2 (39,817 sq mi) ( 106th )",
+            "children": []
+          },
+          {
+            "label": "$31.076 billion ( 153rd )",
+            "children": []
+          },
+          {
+            "label": "$35.310 billion ( 105th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
-            "label": "2.07 (as of 2015) [ 5 ]",
+            "label": "2.07 (as of 2015)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "394,530 ( 172nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "3.78/km 2 (9.8/sq mi) ( 235th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$81,220 ( 14th )",
+            "children": []
+          },
+          {
+            "label": "$90,280 ( 5th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "23.2 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.972 very high ( 1st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Icelandic króna ( ISK )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC ±00:00 ( GMT / WET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd.mm.yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+354",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "IS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".is",
             "children": []
           }
         ]

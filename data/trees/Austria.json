@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+43",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Vienna 48°12′N 16°21′E ﻿ / ﻿ 48.200°N 16.350°E ﻿ / 48.200; 16.350",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Austrian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "72.2% Germans 27.8% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "28.1 [ 12 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal semi-presidential republic [ 5 ] [ d ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.930 [ 13 ] very high ( 22nd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -111,28 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".at",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AT",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Vienna 48°12′N 16°21′E / 48.200°N 16.350°E / 48.200; 16.350",
             "children": []
           }
         ]
@@ -141,7 +33,7 @@
         "label": "official_national_language",
         "children": [
           {
-            "label": "German [ a ] [ b ] [ c ]",
+            "label": "German",
             "children": []
           }
         ]
@@ -150,7 +42,16 @@
         "label": "official_regional_languages",
         "children": [
           {
-            "label": "Hungarian Slovene Burgenland Croatian [ 1 ] [ 2 ]",
+            "label": "Hungarian Slovene Burgenland Croatian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "72.2% Germans 27.8% other",
             "children": []
           }
         ]
@@ -165,46 +66,28 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( CET )",
+            "label": "Austrian",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "9,110,079 [ 10 ] ( 99th )",
+            "label": "Federal semi-presidential republic",
             "children": []
           }
         ]
       },
       {
-        "label": "anschluss",
+        "label": "president",
         "children": [
           {
-            "label": "13 March 1938",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "archduchy",
-        "children": [
-          {
-            "label": "6 January 1453",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "austriahungary",
-        "children": [
-          {
-            "label": "30 March 1867",
+            "label": "Alexander Van der Bellen",
             "children": []
           }
         ]
@@ -219,55 +102,19 @@
         ]
       },
       {
-        "label": "density",
+        "label": "legislature",
         "children": [
           {
-            "label": "107.6/km 2 (278.7/sq mi) ( 106th )",
+            "label": "Parliament",
             "children": []
           }
         ]
       },
       {
-        "label": "duchy",
+        "label": "upper_house",
         "children": [
           {
-            "label": "17 September 1156",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "empire",
-        "children": [
-          {
-            "label": "11 August 1804",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "federal_state",
-        "children": [
-          {
-            "label": "1 May 1934",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_republic",
-        "children": [
-          {
-            "label": "10 September 1919",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "imperial_circle",
-        "children": [
-          {
-            "label": "1512",
+            "label": "Federal Council",
             "children": []
           }
         ]
@@ -291,23 +138,73 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "duchy",
         "children": [
           {
-            "label": "$74,370 [ 11 ] ( 18th )",
-            "children": []
-          },
-          {
-            "label": "$58,190 [ 11 ] ( 13th )",
+            "label": "17 September 1156",
             "children": []
           }
         ]
       },
       {
-        "label": "president",
+        "label": "archduchy",
         "children": [
           {
-            "label": "Alexander Van der Bellen",
+            "label": "6 January 1453",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "imperial_circle",
+        "children": [
+          {
+            "label": "1512",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "empire",
+        "children": [
+          {
+            "label": "11 August 1804",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "austriahungary",
+        "children": [
+          {
+            "label": "30 March 1867",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "first_republic",
+        "children": [
+          {
+            "label": "10 September 1919",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "federal_state",
+        "children": [
+          {
+            "label": "1 May 1934",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "anschluss",
+        "children": [
+          {
+            "label": "13 March 1938",
             "children": []
           }
         ]
@@ -331,6 +228,117 @@
         ]
       },
       {
+        "label": "total",
+        "children": [
+          {
+            "label": "83,879 km 2 (32,386 sq mi) ( 113th )",
+            "children": []
+          },
+          {
+            "label": "$682.86 billion ( 46th )",
+            "children": []
+          },
+          {
+            "label": "$534.30 billion ( 30th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0.84 (2015)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "9,110,079 ( 99th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "107.6/km 2 (278.7/sq mi) ( 106th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$74,370 ( 18th )",
+            "children": []
+          },
+          {
+            "label": "$58,190 ( 13th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "28.1 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.930 very high ( 22nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "summer_dst",
         "children": [
           {
@@ -340,36 +348,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "calling_code",
         "children": [
           {
-            "label": "83,879 [ 8 ] km 2 (32,386 sq mi) ( 113th )",
-            "children": []
-          },
-          {
-            "label": "$682.86 billion [ 11 ] ( 46th )",
-            "children": []
-          },
-          {
-            "label": "$534.30 billion [ 11 ] ( 30th )",
+            "label": "+43",
             "children": []
           }
         ]
       },
       {
-        "label": "upper_house",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "Federal Council",
+            "label": "AT",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "internet_tld",
         "children": [
           {
-            "label": "0.84 (2015) [ 9 ]",
+            "label": ".at",
             "children": []
           }
         ]

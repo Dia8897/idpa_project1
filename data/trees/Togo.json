@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+228",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Lomé 6°8′N 1°13′E ﻿ / ﻿ 6.133°N 1.217°E ﻿ / 6.133; 1.217",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West African CFA franc ( XOF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Togolese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "African (94.4%) [ 2 ] Aja , Ewe and Mina (42.4%) Kabye and Tem (25.9%) Akan and Gurma (17.1%) Kposo and Akebu (4.1%) Ana-Ife (3.2%) Other West African groups (1.7%) non-African (5.6%) [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "43.1 [ 12 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.571 [ 13 ] medium ( 161st )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -110,11 +11,11 @@
             "children": []
           },
           {
-            "label": "Motto: \"Travail, Liberté, Patrie\" [ 1 ] (English: \"Work, Liberty, Homeland\" )",
+            "label": "Motto: \"Travail, Liberté, Patrie\" (English: \"Work, Liberty, Homeland\" )",
             "children": []
           },
           {
-            "label": "Anthem: \" Terre de nos aïeux \" (English: \"Land of our ancestors\" )",
+            "label": "Anthem: \" Terre de nos aeux \" (English: \"Land of our ancestors\" )",
             "children": []
           },
           {
@@ -128,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".tg",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Lomé 6°8′N 1°13′E / 6.133°N 1.217°E / 6.133; 1.217",
             "children": []
           }
         ]
@@ -164,15 +47,6 @@
         ]
       },
       {
-        "label": "religion",
-        "children": [
-          {
-            "label": "50% Christianity 33% traditional faiths 16% Islam 1% Baháʼí faith [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "spoken_languages",
         "children": [
           {
@@ -182,104 +56,37 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "UTC +00:00 ( GMT )",
+            "label": "African (94.4%) Aja , Ewe and Mina (42.4%) Kabye and Tem (25.9%) Akan and Gurma (17.1%) Kposo and Akebu (4.1%) Ana-Ife (3.2%) Other West African groups (1.7%) non-African (5.6%)",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "religion",
         "children": [
           {
-            "label": "8,095,498 [ 7 ]",
+            "label": "50% Christianity 33% traditional faiths 16% Islam 1% Baháʼí faith",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "demonyms",
         "children": [
           {
-            "label": "9,583,381 [ 6 ] ( 101st )",
+            "label": "Togolese",
             "children": []
           }
         ]
       },
       {
-        "label": "admission_to_the_uno",
+        "label": "government",
         "children": [
           {
-            "label": "20 September 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "6 May 2024",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "125.9/km 2 (326.1/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "french_togoland",
-        "children": [
-          {
-            "label": "27 August 1914",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "german_togoland",
-        "children": [
-          {
-            "label": "5 July 1884",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "27 April 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$3,470 [ 9 ] ( 166th )",
-            "children": []
-          },
-          {
-            "label": "$1,050 [ 11 ] ( 171st )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -303,18 +110,10 @@
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "56,785 [ 4 ] [ 5 ] km 2 (21,925 sq mi) ( 123rd )",
-            "children": []
-          },
-          {
-            "label": "$33.050 billion [ 8 ] ( 147th )",
-            "children": []
-          },
-          {
-            "label": "$10.020 billion [ 10 ] ( 151st )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -329,10 +128,211 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "german_togoland",
+        "children": [
+          {
+            "label": "5 July 1884",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "french_togoland",
+        "children": [
+          {
+            "label": "27 August 1914",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_france",
+        "children": [
+          {
+            "label": "27 April 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "admission_to_the_uno",
+        "children": [
+          {
+            "label": "20 September 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "6 May 2024",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "56,785 km 2 (21,925 sq mi) ( 123rd )",
+            "children": []
+          },
+          {
+            "label": "$33.050 billion ( 147th )",
+            "children": []
+          },
+          {
+            "label": "$10.020 billion ( 151st )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "4.2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "9,583,381 ( 101st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "8,095,498",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "125.9/km 2 (326.1/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$3,470 ( 166th )",
+            "children": []
+          },
+          {
+            "label": "$1,050 ( 171st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "43.1 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.571 medium ( 161st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "West African CFA franc ( XOF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +00:00 ( GMT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+228",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "TG",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".tg",
             "children": []
           }
         ]

@@ -4,10 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "countries",
+        "label": "info",
         "children": [
           {
-            "label": "5 Kiribati (partially) Nauru Marshall Islands Micronesia Palau",
+            "label": "Geographical map of Micronesia (cropped)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "517.464",
             "children": []
           }
         ]
@@ -22,28 +31,19 @@
         ]
       },
       {
+        "label": "countries",
+        "children": [
+          {
+            "label": "5 Kiribati (partially) Nauru Marshall Islands Micronesia Palau",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "dependencies",
         "children": [
           {
             "label": "External (2) Guam ( United States ) Northern Mariana Islands ( United States )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Geographical map of Micronesia (cropped)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "517.464",
             "children": []
           }
         ]

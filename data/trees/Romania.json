@@ -4,10 +4,18 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+40",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: Deteapt-te, romne! \"Awaken Thee, Romanian!\"",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Europe",
             "children": []
           }
         ]
@@ -16,31 +24,13 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Bucharest 44°25′N 26°06′E ﻿ / ﻿ 44.417°N 26.100°E ﻿ / 44.417; 26.100",
+            "label": "Bucharest 44°25′N 26°06′E / 44.417°N 26.100°E / 44.417; 26.100",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Romanian leu ( RON )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy ( CE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
+        "label": "official_languages",
         "children": [
           {
             "label": "Romanian",
@@ -58,28 +48,19 @@
         ]
       },
       {
-        "label": "gdp_ppp",
+        "label": "religion",
         "children": [
           {
-            "label": "2026 estimate",
+            "label": "84.7% Christianity 73.6% Romanian Orthodoxy 6.4% Protestantism 4.4% Catholicism 0.2% other Christian 0.8% no religion 0.4% other 13.9% unanswered",
             "children": []
           }
         ]
       },
       {
-        "label": "gdp_nominal",
+        "label": "demonyms",
         "children": [
           {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "27.3 [ 7 ] low inequality",
+            "label": "Romanian",
             "children": []
           }
         ]
@@ -94,45 +75,37 @@
         ]
       },
       {
-        "label": "hdi",
+        "label": "president",
         "children": [
           {
-            "label": "0.845 [ 8 ] very high ( 55th )",
+            "label": "Nicușor Dan",
             "children": []
           }
         ]
       },
       {
-        "label": "info",
+        "label": "prime_minister",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Deșteaptă-te, române! \"Awaken Thee, Romanian!\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Europe",
+            "label": "Ilie Bolojan",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "president_of_the_senate",
         "children": [
           {
-            "label": ".ro",
+            "label": "Mircea Abrudean",
             "children": []
           }
         ]
       },
       {
-        "label": "iso_3166_code",
+        "label": "president_of_the_chamber_of_deputies",
         "children": [
           {
-            "label": "RO",
+            "label": "Sorin Grindeanu",
             "children": []
           }
         ]
@@ -147,64 +120,46 @@
         ]
       },
       {
-        "label": "official_languages",
+        "label": "upper_house",
         "children": [
           {
-            "label": "Romanian",
+            "label": "Senate",
             "children": []
           }
         ]
       },
       {
-        "label": "religion",
+        "label": "lower_house",
         "children": [
           {
-            "label": "84.7% Christianity 73.6% Romanian Orthodoxy 6.4% Protestantism 4.4% Catholicism 0.2% other Christian 0.8% no religion 0.4% other 13.9% unanswered",
+            "label": "Chamber of Deputies",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "principality_of_wallachia",
         "children": [
           {
-            "label": "UTC +2 ( EET )",
+            "label": "1330–1862",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "principality_of_moldavia",
         "children": [
           {
-            "label": "19,053,815 [ 5 ]",
+            "label": "1346–1862",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "united_principalities",
         "children": [
           {
-            "label": "19,043,151 [ 4 ] ( 65th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "83/km 2 (215.0/sq mi) ( 132th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "great_union",
-        "children": [
-          {
-            "label": "1 December 1918",
+            "label": "1859–1881",
             "children": []
           }
         ]
@@ -228,86 +183,10 @@
         ]
       },
       {
-        "label": "lower_house",
+        "label": "great_union",
         "children": [
           {
-            "label": "Chamber of Deputies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$50,726 [ 6 ] ( 44th )",
-            "children": []
-          },
-          {
-            "label": "$23,767 [ 6 ] ( 54th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Nicușor Dan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president_of_the_chamber_of_deputies",
-        "children": [
-          {
-            "label": "Sorin Grindeanu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president_of_the_senate",
-        "children": [
-          {
-            "label": "Mircea Abrudean",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ilie Bolojan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "principality_of_moldavia",
-        "children": [
-          {
-            "label": "1346–1862",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "principality_of_wallachia",
-        "children": [
-          {
-            "label": "1330–1862",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "republic_established",
-        "children": [
-          {
-            "label": "8 December 1991",
+            "label": "1 December 1918",
             "children": []
           }
         ]
@@ -322,10 +201,10 @@
         ]
       },
       {
-        "label": "summer_dst",
+        "label": "republic_established",
         "children": [
           {
-            "label": "UTC +3 ( EEST )",
+            "label": "8 December 1991",
             "children": []
           }
         ]
@@ -334,33 +213,15 @@
         "label": "total",
         "children": [
           {
-            "label": "238,397 km 2 (92,046 sq mi) [ 3 ] ( 81st )",
+            "label": "238,397 km 2 (92,046 sq mi) ( 81st )",
             "children": []
           },
           {
-            "label": "$949.332 billion [ 6 ] ( 35th )",
+            "label": "$949.332 billion ( 35th )",
             "children": []
           },
           {
-            "label": "$444.807 billion [ 6 ] ( 38th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "united_principalities",
-        "children": [
-          {
-            "label": "1859–1881",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "Senate",
+            "label": "$444.807 billion ( 38th )",
             "children": []
           }
         ]
@@ -370,6 +231,145 @@
         "children": [
           {
             "label": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "19,043,151 ( 65th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "19,053,815",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "83/km 2 (215.0/sq mi) ( 132th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$50,726 ( 44th )",
+            "children": []
+          },
+          {
+            "label": "$23,767 ( 54th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "27.3 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.845 very high ( 55th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Romanian leu ( RON )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( EET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +3 ( EEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd.mm.yyyy ( CE )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+40",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "RO",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ro",
             "children": []
           }
         ]

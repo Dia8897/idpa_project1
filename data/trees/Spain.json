@@ -13,55 +13,10 @@
         ]
       },
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+34",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Madrid 40°26′N 3°42′W ﻿ / ﻿ 40.433°N 3.700°W ﻿ / 40.433; -3.700",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "catalan_valencian",
         "children": [
           {
             "label": "Regne d'Espanya",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro [ e ] ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "DD/MM/YYYY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Spaniard Spanish",
             "children": []
           }
         ]
@@ -76,46 +31,10 @@
         ]
       },
       {
-        "label": "gdp_ppp",
+        "label": "occitan_aranese",
         "children": [
           {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "31.2 [ 13 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.918 [ 14 ] very high ( 28th )",
+            "label": "Reiaume d'Espanha",
             "children": []
           }
         ]
@@ -132,11 +51,11 @@
             "children": []
           },
           {
-            "label": "Anthem: Marcha Real ( Spanish ) [ 1 ] (English: 'Royal March')",
+            "label": "Anthem: Marcha Real ( Spanish ) (English: 'Royal March')",
             "children": []
           },
           {
-            "label": "Show globe Show map of Europe Location of Spain Spain within the European Union De jure non-self-governing territory [ b ]",
+            "label": "Show globe Show map of Europe Location of Spain Spain within the European Union De jure non-self-governing territory",
             "children": []
           },
           {
@@ -146,28 +65,19 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".es [ f ]",
+            "label": "Madrid 40°26′N 3°42′W / 40.433°N 3.700°W / 40.433; -3.700",
             "children": []
           }
         ]
       },
       {
-        "label": "iso_3166_code",
+        "label": "official_languages",
         "children": [
           {
-            "label": "ES",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Cortes Generales",
+            "label": "Spanish",
             "children": []
           }
         ]
@@ -182,24 +92,6 @@
         ]
       },
       {
-        "label": "occitan_aranese",
-        "children": [
-          {
-            "label": "Reiaume d'Espanha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Spanish [ c ] [ d ]",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "religion",
         "children": [
           {
@@ -209,73 +101,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC ⁠±0 to +1 ( WET and CET )",
+            "label": "Spaniard Spanish",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "49,570,725 [ 8 ] ( 31st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "centralised_state",
-        "children": [
-          {
-            "label": "9 June 1715",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "29 December 1978",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "98/km 2 (253.8/sq mi) ( 116th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dynastic_union",
-        "children": [
-          {
-            "label": "20 January 1479",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_constitution",
-        "children": [
-          {
-            "label": "19 March 1812",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Congress of Deputies",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -290,14 +128,10 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "prime_minister",
         "children": [
           {
-            "label": "$56,888 [ 12 ] ( 35th )",
-            "children": []
-          },
-          {
-            "label": "$38,040 [ 12 ] ( 32nd )",
+            "label": "Pedro Sánchez",
             "children": []
           }
         ]
@@ -321,45 +155,10 @@
         ]
       },
       {
-        "label": "prime_minister",
+        "label": "legislature",
         "children": [
           {
-            "label": "Pedro Sánchez",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "sole_sovereign",
-        "children": [
-          {
-            "label": "14 March 1516",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "summer_dst",
-        "children": [
-          {
-            "label": "UTC +1 to +2 ( WEST and CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "506,030 [ 10 ] km 2 (195,380 sq mi) ( 50th )",
-            "children": []
-          },
-          {
-            "label": "$2.829 trillion [ 12 ] ( 15th )",
-            "children": []
-          },
-          {
-            "label": "$1.891 trillion [ 12 ] ( 12th )",
+            "label": "Cortes Generales",
             "children": []
           }
         ]
@@ -374,10 +173,211 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Congress of Deputies",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "dynastic_union",
+        "children": [
+          {
+            "label": "20 January 1479",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "sole_sovereign",
+        "children": [
+          {
+            "label": "14 March 1516",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "centralised_state",
+        "children": [
+          {
+            "label": "9 June 1715",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "first_constitution",
+        "children": [
+          {
+            "label": "19 March 1812",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "29 December 1978",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "506,030 km 2 (195,380 sq mi) ( 50th )",
+            "children": []
+          },
+          {
+            "label": "$2.829 trillion ( 15th )",
+            "children": []
+          },
+          {
+            "label": "$1.891 trillion ( 12th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
-            "label": "0.89 [ 11 ]",
+            "label": "0.89",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "49,570,725 ( 31st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "98/km 2 (253.8/sq mi) ( 116th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$56,888 ( 35th )",
+            "children": []
+          },
+          {
+            "label": "$38,040 ( 32nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "31.2 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.918 very high ( 28th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC ⁠±0 to +1 ( WET and CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +1 to +2 ( WEST and CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "DD/MM/YYYY",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+34",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "ES",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".es",
             "children": []
           }
         ]

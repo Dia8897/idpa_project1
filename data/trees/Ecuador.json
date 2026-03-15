@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+593",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Quito [ 1 ] 00°13′12″S 78°30′43″W ﻿ / ﻿ 0.22000°S 78.51194°W ﻿ / -0.22000; -78.51194",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "United States dollar a ( USD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Ecuadorian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "77.47% Mestizo (mixed White & Indigenous ) 7.70% Montubio (coastal Mestizo ) 7.69% Indigenous 4.81% Black 2.21% White 0.12% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "45.2 [ 16 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.777 [ 17 ] high ( 88th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -128,19 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".ec",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "EC",
+            "label": "Quito 00°13′12′′S 78°30′43′′W / 0.22000°S 78.51194°W / -0.22000; -78.51194",
             "children": []
           }
         ]
@@ -155,19 +47,10 @@
         ]
       },
       {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "official_languages",
         "children": [
           {
-            "label": "Spanish [ 2 ]",
+            "label": "Spanish",
             "children": []
           }
         ]
@@ -176,7 +59,16 @@
         "label": "recognized_regional_languages",
         "children": [
           {
-            "label": "Kichwa , Shuar and others \"are in official use for indigenous peoples\" [ 3 ]",
+            "label": "Kichwa , Shuar and others \"are in official use for indigenous peoples\"",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "77.47% Mestizo (mixed White & Indigenous ) 7.70% Montubio (coastal Mestizo ) 7.69% Indigenous 4.81% Black 2.21% White 0.12% other",
             "children": []
           }
         ]
@@ -191,104 +83,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −5 / −6 ( ECT / GALT )",
+            "label": "Ecuadorian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "16,938,986 [ 11 ] ( 73rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "17,483,326 [ 10 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "28 September 2008",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "10 August 1809",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "69/km 2 (178.7/sq mi) ( 148th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "excluding_the_galapagos_islands",
-        "children": [
-          {
-            "label": "276,841 km 2 (106,889 sq mi) [ 8 ] [ 9 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_gran_colombia",
-        "children": [
-          {
-            "label": "13 May 1830",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_spain",
-        "children": [
-          {
-            "label": "24 May 1822",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "liberal_revolution",
-        "children": [
-          {
-            "label": "5 June 1895",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$16,180 [ 13 ] ( 109th )",
-            "children": []
-          },
-          {
-            "label": "$7,210 [ 15 ] ( 95th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -303,6 +110,15 @@
         ]
       },
       {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "María José Pinto",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "president_of_the_national_assembly",
         "children": [
           {
@@ -312,10 +128,64 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "10 August 1809",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "from_spain",
+        "children": [
+          {
+            "label": "24 May 1822",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "from_gran_colombia",
+        "children": [
+          {
+            "label": "13 May 1830",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "recognized_by_spain",
         "children": [
           {
-            "label": "16 February 1840 [ 6 ]",
+            "label": "16 February 1840",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "liberal_revolution",
+        "children": [
+          {
+            "label": "5 June 1895",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "28 September 2008",
             "children": []
           }
         ]
@@ -324,24 +194,154 @@
         "label": "total",
         "children": [
           {
-            "label": "283,561 km 2 (109,484 sq mi) [ 7 ] ( 73rd )",
+            "label": "283,561 km 2 (109,484 sq mi) ( 73rd )",
             "children": []
           },
           {
-            "label": "$304.230 billion [ 12 ] ( 66th )",
+            "label": "$304.230 billion ( 66th )",
             "children": []
           },
           {
-            "label": "$130.530 billion [ 14 ] ( 63rd )",
+            "label": "$130.530 billion ( 63rd )",
             "children": []
           }
         ]
       },
       {
-        "label": "vice_president",
+        "label": "excluding_the_galapagos_islands",
         "children": [
           {
-            "label": "María José Pinto",
+            "label": "276,841 km 2 (106,889 sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "17,483,326",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "16,938,986 ( 73rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "69/km 2 (178.7/sq mi) ( 148th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$16,180 ( 109th )",
+            "children": []
+          },
+          {
+            "label": "$7,210 ( 95th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "45.2 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.777 high ( 88th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "United States dollar a ( USD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −5 / −6 ( ECT / GALT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+593",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "EC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ec",
             "children": []
           }
         ]

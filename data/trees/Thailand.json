@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+66",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Bangkok [ i ] 13°48′N 100°33′E ﻿ / ﻿ 13.800°N 100.550°E ﻿ / 13.800; 100.550",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Thai baht (฿) ( THB )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy ( BE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Thai",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "80% Thai 37% Central Thai 25% Isan 8% Northern Thai 8% Southern Thai 2% Western Thai 12% Thai Chinese 4% Northern Khmer 4% Thai Malays",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "33.5 [ 6 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy [ ii ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.798 [ 7 ] high ( 76th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -120,28 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".th .ไทย",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TH",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Bangkok 13°48′N 100°33′E / 13.800°N 100.550°E / 13.800; 100.550",
             "children": []
           }
         ]
@@ -150,7 +33,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Thai [ 1 ]",
+            "label": "Thai",
             "children": []
           }
         ]
@@ -165,6 +48,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "80% Thai 37% Central Thai 25% Isan 8% Northern Thai 8% Southern Thai 2% Western Thai 12% Thai Chinese 4% Northern Khmer 4% Thai Malays",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion_census",
         "children": [
           {
@@ -174,28 +66,73 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +7 ( ICT )",
+            "label": "Thai",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "64,785,909 [ 4 ] ( 21st )",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "monarch",
         "children": [
           {
-            "label": "65,975,198 [ 3 ] ( 22nd )",
+            "label": "Vajiralongkorn (Rama X)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Anutin Charnvirakul",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "sukhothai_kingdom",
+        "children": [
+          {
+            "label": "1238–1438",
             "children": []
           }
         ]
@@ -205,6 +142,24 @@
         "children": [
           {
             "label": "1351–1767",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "thonburi_kingdom",
+        "children": [
+          {
+            "label": "1767–1782",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "rattanakosin_kingdom",
+        "children": [
+          {
+            "label": "6 April 1782",
             "children": []
           }
         ]
@@ -228,82 +183,6 @@
         ]
       },
       {
-        "label": "density",
-        "children": [
-          {
-            "label": "132.1/km 2 (342.1/sq mi) ( 88th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "monarch",
-        "children": [
-          {
-            "label": "Vajiralongkorn (Rama X)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$26,358 [ 5 ] ( 75th )",
-            "children": []
-          },
-          {
-            "label": "$7,942 [ 5 ] ( 97th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Anutin Charnvirakul",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "rattanakosin_kingdom",
-        "children": [
-          {
-            "label": "6 April 1782",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "sukhothai_kingdom",
-        "children": [
-          {
-            "label": "1238–1438",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "thonburi_kingdom",
-        "children": [
-          {
-            "label": "1767–1782",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "total",
         "children": [
           {
@@ -311,20 +190,11 @@
             "children": []
           },
           {
-            "label": "$1.853 trillion [ 5 ] ( 23rd )",
+            "label": "$1.853 trillion ( 23rd )",
             "children": []
           },
           {
-            "label": "$558.573 billion [ 5 ] ( 31rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "Senate",
+            "label": "$558.573 billion ( 31rd )",
             "children": []
           }
         ]
@@ -334,6 +204,136 @@
         "children": [
           {
             "label": "0.4 (2,230 km 2 )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "65,975,198 ( 22nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "64,785,909 ( 21st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "132.1/km 2 (342.1/sq mi) ( 88th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$26,358 ( 75th )",
+            "children": []
+          },
+          {
+            "label": "$7,942 ( 97th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "33.5 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.798 high ( 76th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Thai baht (฿) ( THB )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +7 ( ICT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy ( BE )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+66",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "TH",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".th .ไทย",
             "children": []
           }
         ]

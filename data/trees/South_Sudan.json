@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+211 [ 16 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Juba 04°51′N 31°34′E ﻿ / ﻿ 4.850°N 31.567°E ﻿ / 4.850; 31.567",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "South Sudanese pound ( SSP )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "South Sudanese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "44.1 [ 14 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.388 [ 15 ] low ( 193rd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -110,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ss [ a ] [ 17 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SS",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Transitional National Legislature",
+            "label": "Juba 04°51′N 31°34′E / 4.850°N 31.567°E / 4.850; 31.567",
             "children": []
           }
         ]
@@ -140,7 +41,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "English [ 1 ]",
+            "label": "English",
             "children": []
           }
         ]
@@ -155,6 +56,15 @@
         ]
       },
       {
+        "label": "spoken_languages",
+        "children": [
+          {
+            "label": "Dinka Bari Juba Arabic Nuer Zande Jur (Luo) Murle Shilluk various others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -164,19 +74,46 @@
         ]
       },
       {
-        "label": "spoken_languages",
+        "label": "demonyms",
         "children": [
           {
-            "label": "Dinka Bari Juba Arabic [ 4 ] [ 5 ] [ 6 ] [ 7 ] Nuer Zande Jur (Luo) Murle Shilluk various others",
+            "label": "South Sudanese",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "government",
         "children": [
           {
-            "label": "UTC +2 ( CAT )",
+            "label": "Federal presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Salva Kiir Mayardit",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "first_vicepresident",
+        "children": [
+          {
+            "label": "Riek Machar",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Transitional National Legislature",
             "children": []
           }
         ]
@@ -186,15 +123,6 @@
         "children": [
           {
             "label": "28 February 1972",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "12,703,714 [ 8 ] ( 80th )",
             "children": []
           }
         ]
@@ -218,6 +146,32 @@
         ]
       },
       {
+        "label": "total",
+        "children": [
+          {
+            "label": "644,329 km 2 (248,777 sq mi) ( 41st )",
+            "children": []
+          },
+          {
+            "label": "$15.160 billion ( 157th )",
+            "children": []
+          },
+          {
+            "label": "$4.980 billion ( 164th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "12,703,714 ( 80th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "density",
         "children": [
           {
@@ -227,10 +181,10 @@
         ]
       },
       {
-        "label": "first_vicepresident",
+        "label": "gdp_ppp",
         "children": [
           {
-            "label": "Riek Machar",
+            "label": "2025 estimate",
             "children": []
           }
         ]
@@ -239,37 +193,83 @@
         "label": "per_capita",
         "children": [
           {
-            "label": "$953 [ 11 ] ( 191st )",
+            "label": "$953 ( 191st )",
             "children": []
           },
           {
-            "label": "$313 [ 13 ] ( 194th )",
+            "label": "$313 ( 194th )",
             "children": []
           }
         ]
       },
       {
-        "label": "president",
+        "label": "gdp_nominal",
         "children": [
           {
-            "label": "Salva Kiir Mayardit",
+            "label": "2025 estimate",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "gini",
         "children": [
           {
-            "label": "644,329 [ 8 ] km 2 (248,777 sq mi) ( 41st )",
+            "label": "44.1 medium inequality",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
           {
-            "label": "$15.160 billion [ 10 ] ( 157th )",
+            "label": "0.388 low ( 193rd )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
           {
-            "label": "$4.980 billion [ 12 ] ( 164th )",
+            "label": "South Sudanese pound ( SSP )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( CAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+211",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ss",
             "children": []
           }
         ]

@@ -13,100 +13,82 @@
         ]
       },
       {
-        "label": "calling_code",
+        "label": "zulu",
         "children": [
           {
-            "label": "+27",
+            "label": "iRiphabhuliki yaseNingizimu Afrika",
             "children": []
           }
         ]
       },
       {
-        "label": "capital",
+        "label": "xhosa",
         "children": [
           {
-            "label": "Pretoria (executive) [ a ] [ 4 ] Cape Town (legislative) [ b ] [ 4 ] Bloemfontein (judicial) [ c ] [ 4 ]",
+            "label": "iRiphabhlikhi yoMzantsi Afrika",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "pedi",
         "children": [
           {
-            "label": "South African rand ( ZAR )",
+            "label": "Repabliki ya Afrika-Borwa",
             "children": []
           }
         ]
       },
       {
-        "label": "date_format",
+        "label": "southern_sotho",
         "children": [
           {
-            "label": "Short formats: yyyy/mm/dd [ 12 ] yyyy-mm-dd [ 13 ]",
+            "label": "Rephaboliki ya Afrika Borwa",
             "children": []
           }
         ]
       },
       {
-        "label": "demonyms",
+        "label": "tswana",
         "children": [
           {
-            "label": "South African",
+            "label": "Rephaboliki ya Aforika Borwa",
             "children": []
           }
         ]
       },
       {
-        "label": "ethnic_groups",
+        "label": "tsonga",
         "children": [
           {
-            "label": "81.4% Black 8.2% Coloured 7.3% White 2.7% Indian or Asian 0.4% other",
+            "label": "Riphabliki ya Afrika Dzonga",
             "children": []
           }
         ]
       },
       {
-        "label": "gdp_ppp",
+        "label": "swati",
         "children": [
           {
-            "label": "2026 estimate",
+            "label": "iRiphabhulikhi yaseNingizimu-Afrika",
             "children": []
           }
         ]
       },
       {
-        "label": "gdp_nominal",
+        "label": "venda",
         "children": [
           {
-            "label": "2026 estimate",
+            "label": "Riphabuḽiki ya Afurika Tshipembe",
             "children": []
           }
         ]
       },
       {
-        "label": "gini",
+        "label": "southern_ndebele",
         "children": [
           {
-            "label": "63.0 [ 10 ] very high inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic with an executive presidency",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.741 [ 11 ] high ( 106th )",
+            "label": "iRiphabliki yeSewula Afrika",
             "children": []
           }
         ]
@@ -133,19 +115,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".za",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ZA",
+            "label": "Pretoria (executive) Cape Town (legislative) Bloemfontein (judicial)",
             "children": []
           }
         ]
@@ -154,16 +127,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Johannesburg [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Johannesburg",
             "children": []
           }
         ]
@@ -172,16 +136,16 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "12 languages [ 5 ] [ 6 ] Afrikaans English Ndebele Sepedi Sesotho Setswana South African Sign Language Swazi Tshivenda Xhosa Xitsonga Zulu Languages with special status [ 5 ] Khoe languages Nama Khoisan languages German Greek Gujarati Hindi Portuguese Telugu Tamil Urdu Arabic Hebrew Sanskrit",
+            "label": "12 languages Afrikaans English Ndebele Sepedi Sesotho Setswana South African Sign Language Swazi Tshivenda Xhosa Xitsonga Zulu Languages with special status Khoe languages Nama Khoisan languages German Greek Gujarati Hindi Portuguese Telugu Tamil Urdu Arabic Hebrew Sanskrit",
             "children": []
           }
         ]
       },
       {
-        "label": "pedi",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "Repabliki ya Afrika-Borwa",
+            "label": "81.4% Black 8.2% Coloured 7.3% White 2.7% Indian or Asian 0.4% other",
             "children": []
           }
         ]
@@ -196,100 +160,46 @@
         ]
       },
       {
-        "label": "southern_ndebele",
+        "label": "demonyms",
         "children": [
           {
-            "label": "iRiphabliki yeSewula Afrika",
+            "label": "South African",
             "children": []
           }
         ]
       },
       {
-        "label": "southern_sotho",
+        "label": "government",
         "children": [
           {
-            "label": "Rephaboliki ya Afrika Borwa",
+            "label": "Unitary parliamentary republic with an executive presidency",
             "children": []
           }
         ]
       },
       {
-        "label": "swati",
+        "label": "president",
         "children": [
           {
-            "label": "iRiphabhulikhi yaseNingizimu-Afrika",
+            "label": "Cyril Ramaphosa",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "deputy_president",
         "children": [
           {
-            "label": "UTC +2 ( SAST )",
+            "label": "Paul Mashatile",
             "children": []
           }
         ]
       },
       {
-        "label": "tsonga",
+        "label": "speaker_of_the_national_assembly",
         "children": [
           {
-            "label": "Riphabliki ya Afrika Dzonga",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "tswana",
-        "children": [
-          {
-            "label": "Rephaboliki ya Aforika Borwa",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "venda",
-        "children": [
-          {
-            "label": "Riphabuḽiki ya Afurika Tshipembe",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "xhosa",
-        "children": [
-          {
-            "label": "iRiphabhlikhi yoMzantsi Afrika",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "zulu",
-        "children": [
-          {
-            "label": "iRiphabhuliki yaseNingizimu Afrika",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "census",
-        "children": [
-          {
-            "label": "62,027,503 [ 8 ] ( 23rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "63,015,904 [ 8 ] ( 23rd )",
+            "label": "Thoko Didiza",
             "children": []
           }
         ]
@@ -313,112 +223,10 @@
         ]
       },
       {
-        "label": "current_constitution",
+        "label": "legislature",
         "children": [
           {
-            "label": "4 February 1997",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "50.8/km 2 (131.6/sq mi) ( 169th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "deputy_president",
-        "children": [
-          {
-            "label": "Paul Mashatile",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$16,280 [ 9 ] ( 107th )",
-            "children": []
-          },
-          {
-            "label": "$6,830 [ 9 ] ( 107th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Cyril Ramaphosa",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "republic",
-        "children": [
-          {
-            "label": "31 May 1961",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "speaker_of_the_national_assembly",
-        "children": [
-          {
-            "label": "Thoko Didiza",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "statute_of_westminster",
-        "children": [
-          {
-            "label": "11 December 1931",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "1,221,037 km 2 (471,445 sq mi) ( 24th )",
-            "children": []
-          },
-          {
-            "label": "$1.060 trillion [ 9 ] ( 33rd )",
-            "children": []
-          },
-          {
-            "label": "$443.64 billion ( 38th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "union",
-        "children": [
-          {
-            "label": "31 May 1910",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -433,10 +241,202 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "union",
+        "children": [
+          {
+            "label": "31 May 1910",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "statute_of_westminster",
+        "children": [
+          {
+            "label": "11 December 1931",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic",
+        "children": [
+          {
+            "label": "31 May 1961",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "4 February 1997",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1,221,037 km 2 (471,445 sq mi) ( 24th )",
+            "children": []
+          },
+          {
+            "label": "$1.060 trillion ( 33rd )",
+            "children": []
+          },
+          {
+            "label": "$443.64 billion ( 38th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "0.380",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "63,015,904 ( 23rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "62,027,503 ( 23rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "50.8/km 2 (131.6/sq mi) ( 169th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$16,280 ( 107th )",
+            "children": []
+          },
+          {
+            "label": "$6,830 ( 107th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "63.0 very high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.741 high ( 106th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "South African rand ( ZAR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( SAST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "Short formats: yyyy/mm/dd yyyy-mm-dd",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+27",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "ZA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".za",
             "children": []
           }
         ]

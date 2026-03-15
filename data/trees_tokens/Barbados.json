@@ -1,0 +1,933 @@
+{
+  "country_name": "Barbados",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Pride",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Industry",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Barbados",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \"Pride and Industry\"",
+          "Anthem: \" National Anthem of Barbados \""
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Bridgetown",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "05",
+            "children": []
+          },
+          {
+            "label": "52",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "59",
+            "children": []
+          },
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "06",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "09778",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "59",
+            "children": []
+          },
+          {
+            "label": "61833",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "09778",
+            "children": []
+          },
+          {
+            "label": "59",
+            "children": []
+          },
+          {
+            "label": "61833",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bridgetown 13°05′52′′N 59°37′06′′W / 13.09778°N 59.61833°W / 13.09778; -59.61833"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English"
+        ]
+      },
+      {
+        "label": "vernacular_language",
+        "children": [
+          {
+            "label": "Bajan",
+            "children": []
+          },
+          {
+            "label": "Creole",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bajan Creole"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "92",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Mixed",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "White",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Indian",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "92.4% African 3.1% Mixed 2.7% White 1.3% Indian 0.3% others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "75",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "No",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "Bah",
+            "children": []
+          },
+          {
+            "label": "Faith",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Hinduism",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "75.6% Christianity 20.6% No religion 2.0% Baháʼí Faith 1.1% Hinduism 0.7% others"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Barbadian",
+            "children": []
+          },
+          {
+            "label": "Bajan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Barbadian Bajan"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Jeffrey",
+            "children": []
+          },
+          {
+            "label": "Bostic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Jeffrey Bostic"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Mia",
+            "children": []
+          },
+          {
+            "label": "Mottley",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mia Mottley"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Assembly"
+        ]
+      },
+      {
+        "label": "part_of_the_west_indies_federation",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "January",
+            "children": []
+          },
+          {
+            "label": "1958",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1962",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3 January 1958 – 31 May 1962"
+        ]
+      },
+      {
+        "label": "barbados_independence_act_as_a_commonwealth_realm",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1966",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "30 November 1966"
+        ]
+      },
+      {
+        "label": "admitted_to_the_un",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1966",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7 December 1966"
+        ]
+      },
+      {
+        "label": "joined_caricom_at_the_treaty_of_chaguaramas",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1973",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 August 1973"
+        ]
+      },
+      {
+        "label": "republic_established",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "2021",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "30 November 2021"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "439",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "169",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "183rd",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "436",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "175th",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "220",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "165th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "439 km 2 (169 sq mi) ( 183rd )",
+          "$5.436 billion ( 175th )",
+          "$6.220 billion ( 165th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "Negligible",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Negligible"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "281",
+            "children": []
+          },
+          {
+            "label": "998",
+            "children": []
+          },
+          {
+            "label": "174th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "281,998 ( 174th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "269",
+            "children": []
+          },
+          {
+            "label": "090",
+            "children": []
+          },
+          {
+            "label": "174th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "269,090 ( 174th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "660",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "709",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "17th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "660/km 2 (1,709.4/sq mi) ( 17th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "738",
+            "children": []
+          },
+          {
+            "label": "90th",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "442",
+            "children": []
+          },
+          {
+            "label": "50th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$18,738 ( 90th )",
+          "$21,442 ( 50th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "34.1 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "811",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "69th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.811 very high ( 69th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Barbadian",
+            "children": []
+          },
+          {
+            "label": "dollar",
+            "children": []
+          },
+          {
+            "label": "BBD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Barbadian dollar ($) ( BBD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "04",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "AST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC −04:00 ( AST )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+1"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BB",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "BB"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "bb",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".bb"
+        ]
+      }
+    ]
+  }
+}

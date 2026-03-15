@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+33 [ f ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Paris 48°51′N 2°21′E ﻿ / ﻿ 48.850°N 2.350°E ﻿ / 48.850; 2.350",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR ) [ c ] CFP franc (XPF) [ d ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "French",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "29.8 [ 7 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.920 [ 8 ] very high ( 26th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -106,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".fr [ g ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "FR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Paris 48°51′N 2°21′E / 48.850°N 2.350°E / 48.850; 2.350",
             "children": []
           }
         ]
@@ -160,10 +61,135 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( CET [ e ] )",
+            "label": "French",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary semi-presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Emmanuel Macron",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Sébastien Lecornu",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president_of_the_senate",
+        "children": [
+          {
+            "label": "Gérard Larcher",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president_of_the_national_assembly",
+        "children": [
+          {
+            "label": "Yaël Braun-Pivet",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "632,702.3 km 2 (244,287.7 sq mi) (including metropolitan France and overseas France and excluding Terre Adelie ) ( 42nd )",
+            "children": []
+          },
+          {
+            "label": "$4.504 trillion ( 9th )",
+            "children": []
+          },
+          {
+            "label": "$3.211 trillion ( 7th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0.86",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "metropolitan_france_dgcl",
+        "children": [
+          {
+            "label": "543,941 km 2 (210,017 sq mi) ( 50th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "metropolitan_france_insee",
+        "children": [
+          {
+            "label": "543,908.3 km 2 (210,004.2 sq mi) ( 50th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "january_estimate",
+        "children": [
+          {
+            "label": "69,081,996 ( 21st )",
             "children": []
           }
         ]
@@ -182,46 +208,19 @@
         ]
       },
       {
-        "label": "january_estimate",
-        "children": [
-          {
-            "label": "69,081,996 [ 5 ] ( 21st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "metropolitan_france_dgcl",
-        "children": [
-          {
-            "label": "543,941 km 2 (210,017 sq mi) [ 4 ] ( 50th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "metropolitan_france_insee",
-        "children": [
-          {
-            "label": "543,908.3 km 2 (210,004.2 sq mi) [ 3 ] [ b ] ( 50th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "metropolitan_france_estimate_as_of_january",
         "children": [
           {
-            "label": "66,792,845 [ 5 ] ( 21st )",
+            "label": "66,792,845 ( 21st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
             "children": []
           }
         ]
@@ -230,47 +229,56 @@
         "label": "per_capita",
         "children": [
           {
-            "label": "$65,626 [ 6 ] ( 25th )",
+            "label": "$65,626 ( 25th )",
             "children": []
           },
           {
-            "label": "$46,792 [ 6 ] ( 22nd )",
+            "label": "$46,792 ( 22nd )",
             "children": []
           }
         ]
       },
       {
-        "label": "president",
+        "label": "gdp_nominal",
         "children": [
           {
-            "label": "Emmanuel Macron",
+            "label": "2025 estimate",
             "children": []
           }
         ]
       },
       {
-        "label": "president_of_the_national_assembly",
+        "label": "gini",
         "children": [
           {
-            "label": "Yaël Braun-Pivet",
+            "label": "29.8 low inequality",
             "children": []
           }
         ]
       },
       {
-        "label": "president_of_the_senate",
+        "label": "hdi",
         "children": [
           {
-            "label": "Gérard Larcher",
+            "label": "0.920 very high ( 26th )",
             "children": []
           }
         ]
       },
       {
-        "label": "prime_minister",
+        "label": "currency",
         "children": [
           {
-            "label": "Sébastien Lecornu",
+            "label": "Euro ( € ) ( EUR ) CFP franc (XPF)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
             "children": []
           }
         ]
@@ -285,36 +293,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "calling_code",
         "children": [
           {
-            "label": "632,702.3 km 2 (244,287.7 sq mi) (including metropolitan France and overseas France and excluding Terre Adelie ) [ 3 ] ( 42nd )",
-            "children": []
-          },
-          {
-            "label": "$4.504 trillion [ 6 ] ( 9th )",
-            "children": []
-          },
-          {
-            "label": "$3.211 trillion [ 6 ] ( 7th )",
+            "label": "+33",
             "children": []
           }
         ]
       },
       {
-        "label": "upper_house",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "Senate",
+            "label": "FR",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "internet_tld",
         "children": [
           {
-            "label": "0.86 [ 2 ]",
+            "label": ".fr",
             "children": []
           }
         ]

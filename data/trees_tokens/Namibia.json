@@ -1,0 +1,1150 @@
+{
+  "country_name": "Namibia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "afrikaans",
+        "children": [
+          {
+            "label": "Republiek",
+            "children": []
+          },
+          {
+            "label": "van",
+            "children": []
+          },
+          {
+            "label": "Namibi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Republiek van Namibië"
+        ]
+      },
+      {
+        "label": "german",
+        "children": [
+          {
+            "label": "Republik",
+            "children": []
+          },
+          {
+            "label": "Namibia",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Republik Namibia"
+        ]
+      },
+      {
+        "label": "khoekhoegowab",
+        "children": [
+          {
+            "label": "Republiki",
+            "children": []
+          },
+          {
+            "label": "Namibiab",
+            "children": []
+          },
+          {
+            "label": "dib",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Republiki Namibiab dib"
+        ]
+      },
+      {
+        "label": "oshiwambo",
+        "children": [
+          {
+            "label": "Orepublika",
+            "children": []
+          },
+          {
+            "label": "yaNamibia",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Orepublika yaNamibia"
+        ]
+      },
+      {
+        "label": "otjiherero",
+        "children": [
+          {
+            "label": "Orepublika",
+            "children": []
+          },
+          {
+            "label": "yaNamibia",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Orepublika yaNamibia"
+        ]
+      },
+      {
+        "label": "rukwangali",
+        "children": [
+          {
+            "label": "Republika",
+            "children": []
+          },
+          {
+            "label": "zaNamibia",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Republika zaNamibia"
+        ]
+      },
+      {
+        "label": "setswana",
+        "children": [
+          {
+            "label": "Rephaboliki",
+            "children": []
+          },
+          {
+            "label": "ya",
+            "children": []
+          },
+          {
+            "label": "Namibia",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Rephaboliki ya Namibia"
+        ]
+      },
+      {
+        "label": "silozi",
+        "children": [
+          {
+            "label": "Namibia",
+            "children": []
+          },
+          {
+            "label": "ye",
+            "children": []
+          },
+          {
+            "label": "Lukuluhile",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Namibia ye Lukuluhile"
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Unity",
+            "children": []
+          },
+          {
+            "label": "Liberty",
+            "children": []
+          },
+          {
+            "label": "Justice",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Namibia",
+            "children": []
+          },
+          {
+            "label": "Land",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Brave",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \"Unity, Liberty, Justice\"",
+          "Anthem: \" Namibia, Land of the Brave \"",
+          "Show globe Show map of Africa"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Windhoek",
+            "children": []
+          },
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "567",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "083",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "567",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "083",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Windhoek 22°34′S 17°5′E / 22.567°S 17.083°E / -22.567; 17.083"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English"
+        ]
+      },
+      {
+        "label": "recognised_national_languages",
+        "children": [
+          {
+            "label": "Afrikaans",
+            "children": []
+          },
+          {
+            "label": "German",
+            "children": []
+          },
+          {
+            "label": "Khoekhoegowab",
+            "children": []
+          },
+          {
+            "label": "Oshiwambo",
+            "children": []
+          },
+          {
+            "label": "Otjiherero",
+            "children": []
+          },
+          {
+            "label": "RuKwangali",
+            "children": []
+          },
+          {
+            "label": "Setswana",
+            "children": []
+          },
+          {
+            "label": "siLozi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Afrikaans German Khoekhoegowab Oshiwambo Otjiherero RuKwangali Setswana siLozi"
+        ]
+      },
+      {
+        "label": "recognised_regional_languages",
+        "children": [
+          {
+            "label": "Kung",
+            "children": []
+          },
+          {
+            "label": "Gciriku",
+            "children": []
+          },
+          {
+            "label": "Thimbukushu",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "ǃKung Gciriku Thimbukushu"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "93",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Indigenous",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Coloured",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Basters",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "White",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Asian",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "93.2% Indigenous African 3.6% Coloured and Basters 1.8% White 1.4% Asian / other"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "87",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Lutheranism",
+            "children": []
+          },
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "Anglicanism",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "87.9% Christianity 43.7% Lutheranism 22.8% Catholicism 17.0% Anglicanism 4.4% other Christian 10.5% other 1.6% no religion"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Namibian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Namibian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "semi",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "needs",
+            "children": []
+          },
+          {
+            "label": "update",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary semi-presidential republic [ needs update ]"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Netumbo",
+            "children": []
+          },
+          {
+            "label": "Nandi",
+            "children": []
+          },
+          {
+            "label": "Ndaitwah",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Netumbo Nandi-Ndaitwah"
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Lucia",
+            "children": []
+          },
+          {
+            "label": "Witbooi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Lucia Witbooi"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Elijah",
+            "children": []
+          },
+          {
+            "label": "Ngurare",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Elijah Ngurare"
+        ]
+      },
+      {
+        "label": "deputy_prime_minister",
+        "children": [
+          {
+            "label": "Vacant",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Vacant"
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Peter",
+            "children": []
+          },
+          {
+            "label": "Shivute",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Peter Shivute"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Council",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Council"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "constitution",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1990",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9 February 1990"
+        ]
+      },
+      {
+        "label": "independence",
+        "children": [
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "March",
+            "children": []
+          },
+          {
+            "label": "1990",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "21 March 1990"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "825",
+            "children": []
+          },
+          {
+            "label": "615",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "318",
+            "children": []
+          },
+          {
+            "label": "772",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "34th",
+            "children": []
+          },
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "73",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "145th",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "145th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "825,615 km 2 (318,772 sq mi) ( 34th )",
+          "$37.73 billion ( 145th )",
+          "$14.21 billion ( 145th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "Negligible",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Negligible"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "022",
+            "children": []
+          },
+          {
+            "label": "401",
+            "children": []
+          },
+          {
+            "label": "136th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3,022,401 ( 136th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3.7/km 2 (9.6/sq mi)"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "370",
+            "children": []
+          },
+          {
+            "label": "117th",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "660",
+            "children": []
+          },
+          {
+            "label": "120th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$12,370 ( 117th )",
+          "$4,660 ( 120th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "59",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "59.1 high inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "665",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "136th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.665 medium ( 136th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Namibian",
+            "children": []
+          },
+          {
+            "label": "dollar",
+            "children": []
+          },
+          {
+            "label": "NAD",
+            "children": []
+          },
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "rand",
+            "children": []
+          },
+          {
+            "label": "ZAR",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Namibian dollar (NAD) South African rand (ZAR)"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "CAT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( CAT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "264",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+264"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "NA",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "NA"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "na",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".na"
+        ]
+      }
+    ]
+  }
+}

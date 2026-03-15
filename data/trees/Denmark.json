@@ -4,132 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+45",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Copenhagen 55°43′N 12°34′E ﻿ / ﻿ 55.717°N 12.567°E ﻿ / 55.717; 12.567",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "consolidation",
-        "children": [
-          {
-            "label": "c. 8th century [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitutional_act",
-        "children": [
-          {
-            "label": "5 June 1849",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Danish krone",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonym_s",
-        "children": [
-          {
-            "label": "Danish Dane",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "driving_side",
-        "children": [
-          {
-            "label": "Right",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "83.7% Danish [ 3 ] 16.3% Others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "27.7 [ 11 ] low",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.962 [ 12 ] very high · 4th",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "highest_elevation_mllehj",
-        "children": [
-          {
-            "label": "170.86 m (560.6 ft)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -141,7 +15,7 @@
             "children": []
           },
           {
-            "label": "Motto : Forbundne, forpligtet, for kongeriget Danmark [ a ] (United, committed, for the Kingdom of Denmark)",
+            "label": "Motto : Forbundne, forpligtet, for kongeriget Danmark (United, committed, for the Kingdom of Denmark)",
             "children": []
           },
           {
@@ -159,28 +33,37 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "sovereign_state",
         "children": [
           {
-            "label": ".dk [ N 4 ]",
+            "label": "Kingdom of Denmark",
             "children": []
           }
         ]
       },
       {
-        "label": "iso_3166_code",
+        "label": "consolidation",
         "children": [
           {
-            "label": "DK",
+            "label": "c. 8th century",
             "children": []
           }
         ]
       },
       {
-        "label": "legislature",
+        "label": "constitutional_act",
         "children": [
           {
-            "label": "Folketing",
+            "label": "5 June 1849",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Copenhagen 55°43′N 12°34′E / 55.717°N 12.567°E / 55.717; 12.567",
             "children": []
           }
         ]
@@ -204,46 +87,37 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "83.7% Danish 16.3% Others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
-            "label": "71.4% Lutheranism ( official ) [ 5 ] 4.3% Islam 24.3% Other / none",
+            "label": "71.4% Lutheranism ( official ) 4.3% Islam 24.3% Other / none",
             "children": []
           }
         ]
       },
       {
-        "label": "sovereign_state",
+        "label": "demonym_s",
         "children": [
           {
-            "label": "Kingdom of Denmark",
+            "label": "Danish Dane",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "government",
         "children": [
           {
-            "label": "UTC+01:00 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "139.3/km 2 (360.8/sq mi) ( 93rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "may_estimate",
-        "children": [
-          {
-            "label": "6,001,008 [ N 3 ] [ 9 ] ( 112th )",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -258,23 +132,139 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "prime_minister",
         "children": [
           {
-            "label": "$88,934 [ 10 ] ( 11th )",
-            "children": []
-          },
-          {
-            "label": "$74,969 [ 10 ] ( 9th )",
+            "label": "Mette Frederiksen",
             "children": []
           }
         ]
       },
       {
-        "label": "prime_minister",
+        "label": "legislature",
         "children": [
           {
-            "label": "Mette Frederiksen",
+            "label": "Folketing",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "43,094 km 2 (16,639 sq mi) ( 130th )",
+            "children": []
+          },
+          {
+            "label": "$533.752 billion [ N 3 ] ( 52nd )",
+            "children": []
+          },
+          {
+            "label": "$449.940 billion [ N 3 ] ( 35th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1.74",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "highest_elevation_mllehj",
+        "children": [
+          {
+            "label": "170.86 m (560.6 ft)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "may_estimate",
+        "children": [
+          {
+            "label": "6,001,008 [ N 3 ] ( 112th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "139.3/km 2 (360.8/sq mi) ( 93rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$88,934 ( 11th )",
+            "children": []
+          },
+          {
+            "label": "$74,969 ( 9th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "27.7 low",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.962 very high · 4th",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Danish krone",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC+01:00 ( CET )",
             "children": []
           }
         ]
@@ -289,27 +279,37 @@
         ]
       },
       {
-        "label": "total",
+        "label": "driving_side",
         "children": [
           {
-            "label": "43,094 [ 7 ] km 2 (16,639 sq mi) ( 130th )",
-            "children": []
-          },
-          {
-            "label": "$533.752 billion [ N 3 ] [ 10 ] ( 52nd )",
-            "children": []
-          },
-          {
-            "label": "$449.940 billion [ N 3 ] [ 10 ] ( 35th )",
+            "label": "Right",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "calling_code",
         "children": [
           {
-            "label": "1.74 [ 8 ]",
+            "label": "+45",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "DK",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".dk [ N 4 ]",
             "children": []
           }
         ]

@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+371",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Riga 56°57′N 24°6′E ﻿ / ﻿ 56.950°N 24.100°E ﻿ / 56.950; 24.100",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Latvian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "65.5% Latvians 24.1% Russians 2.9% Belarusians 2.9% Ukrainians 1.9% Poles 1.1% Lithuanians 1.6% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "35.7 [ 11 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.889 [ 12 ] very high ( 41st )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -105,38 +15,20 @@
             "children": []
           },
           {
-            "label": "Location of Latvia (dark green) – in Europe (green & dark grey) – in the European Union (green) – [ Legend ]",
+            "label": "Location of Latvia (dark green) – in Europe (green & dark grey) – in the European Union (green) –",
             "children": []
           },
           {
-            "label": "Latvian is the sole official language. [ 13 ] [ 14 ] Livonian is considered an indigenous language and has special legal status. [ 15 ] Latgalian written language and Latvian Sign Language also have special legal status. [ 16 ] Latvia is de jure continuous with its declaration of 18 November 1918.",
+            "label": "Latvian is the sole official language. Livonian is considered an indigenous language and has special legal status. Latgalian written language and Latvian Sign Language also have special legal status. Latvia is de jure continuous with its declaration of 18 November 1918.",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".lv",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LV",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Saeima",
+            "label": "Riga 56°57′N 24°6′E / 56.950°N 24.100°E / 56.950; 24.100",
             "children": []
           }
         ]
@@ -160,6 +52,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "65.5% Latvians 24.1% Russians 2.9% Belarusians 2.9% Ukrainians 1.9% Poles 1.1% Lithuanians 1.6% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -169,59 +70,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +2 ( EET )",
+            "label": "Latvian",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "1,842,226 [ 6 ] ( 146th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution_adopted",
-        "children": [
-          {
-            "label": "7 November 1922",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "18 November 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "29.6/km 2 (76.7/sq mi) ( 147th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$44,110 [ 8 ] ( 51st )",
-            "children": []
-          },
-          {
-            "label": "$25,630 [ 10 ] ( 42nd )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -245,10 +106,46 @@
         ]
       },
       {
+        "label": "speaker_of_the_saeima",
+        "children": [
+          {
+            "label": "Daiga Mieriņa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Saeima",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "18 November 1918",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "recognised",
         "children": [
           {
             "label": "26 January 1921",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution_adopted",
+        "children": [
+          {
+            "label": "7 November 1922",
             "children": []
           }
         ]
@@ -263,10 +160,112 @@
         ]
       },
       {
-        "label": "speaker_of_the_saeima",
+        "label": "total",
         "children": [
           {
-            "label": "Daiga Mieriņa",
+            "label": "64,589 km 2 (24,938 sq mi) ( 122nd )",
+            "children": []
+          },
+          {
+            "label": "$82.400 billion ( 104th )",
+            "children": []
+          },
+          {
+            "label": "$47.880 billion ( 96th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "2.09 (2015)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "1,842,226 ( 146th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "29.6/km 2 (76.7/sq mi) ( 147th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$44,110 ( 51st )",
+            "children": []
+          },
+          {
+            "label": "$25,630 ( 42nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "35.7 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.889 very high ( 41st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( EET )",
             "children": []
           }
         ]
@@ -281,27 +280,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "calling_code",
         "children": [
           {
-            "label": "64,589 km 2 (24,938 sq mi) ( 122nd )",
-            "children": []
-          },
-          {
-            "label": "$82.400 billion [ 7 ] ( 104th )",
-            "children": []
-          },
-          {
-            "label": "$47.880 billion [ 9 ] ( 96th )",
+            "label": "+371",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "2.09 (2015) [ 5 ]",
+            "label": "LV",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".lv",
             "children": []
           }
         ]

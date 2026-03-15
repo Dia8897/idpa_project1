@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+229",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Porto-Novo",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West African CFA franc ( XOF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Beninese Beninoise",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "38.4% Fon 15.1% Adja and Mina 12% Yoruba 9.6% Bariba 8.6% Fula 6.1% Ottamari 4.3% Yoa-Lokpa 2.9% Dendi 2.8% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "34.4 [ 10 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.515 [ 11 ] low ( 173rd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -128,19 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".bj",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BJ",
+            "label": "Porto-Novo",
             "children": []
           }
         ]
@@ -155,10 +47,10 @@
         ]
       },
       {
-        "label": "legislature",
+        "label": "official_languages",
         "children": [
           {
-            "label": "National Assembly",
+            "label": "French",
             "children": []
           }
         ]
@@ -173,10 +65,10 @@
         ]
       },
       {
-        "label": "official_languages",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "French [ 1 ]",
+            "label": "38.4% Fon 15.1% Adja and Mina 12% Yoruba 9.6% Bariba 8.6% Fula 6.1% Ottamari 4.3% Yoa-Lokpa 2.9% Dendi 2.8% other",
             "children": []
           }
         ]
@@ -191,50 +83,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( WAT )",
+            "label": "Beninese Beninoise",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "13,754,688 [ 5 ] ( 77th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "94.8/km 2 (245.5/sq mi) ( 98th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "1 August 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$4,980 [ 7 ] ( 163rd )",
-            "children": []
-          },
-          {
-            "label": "$1,790 [ 9 ] ( 163rd )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -249,32 +110,6 @@
         ]
       },
       {
-        "label": "republic_of_dahomey_established_within_the_french_community",
-        "children": [
-          {
-            "label": "11 December 1958",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "114,763 km 2 (44,310 sq mi) [ 4 ] ( 100th )",
-            "children": []
-          },
-          {
-            "label": "$76.510 billion [ 6 ] ( 137th )",
-            "children": []
-          },
-          {
-            "label": "$27.450 billion [ 8 ] ( 141st )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "vice_president",
         "children": [
           {
@@ -284,10 +119,175 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic_of_dahomey_established_within_the_french_community",
+        "children": [
+          {
+            "label": "11 December 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence",
+        "children": [
+          {
+            "label": "1 August 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "114,763 km 2 (44,310 sq mi) ( 100th )",
+            "children": []
+          },
+          {
+            "label": "$76.510 billion ( 137th )",
+            "children": []
+          },
+          {
+            "label": "$27.450 billion ( 141st )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "0.4%",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "13,754,688 ( 77th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "94.8/km 2 (245.5/sq mi) ( 98th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$4,980 ( 163rd )",
+            "children": []
+          },
+          {
+            "label": "$1,790 ( 163rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "34.4 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.515 low ( 173rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "West African CFA franc ( XOF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( WAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+229",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BJ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".bj",
             "children": []
           }
         ]

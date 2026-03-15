@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+81",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Tokyo 35°41′N 139°46′E ﻿ / ﻿ 35.683°N 139.767°E ﻿ / 35.683; 139.767",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Japanese yen ( ¥ )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Japanese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "32.3 [ 8 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.925 [ 9 ] very high ( 23rd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -102,28 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".jp",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "JP",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Diet",
+            "label": "Tokyo 35°41′N 139°46′E / 35.683°N 139.767°E / 35.683; 139.767",
             "children": []
           }
         ]
@@ -141,34 +42,25 @@
         "label": "regional_languages",
         "children": [
           {
-            "label": "Ainu [ 1 ] [ 2 ] (recognized) Ryukyuan languages Hachijō",
+            "label": "Ainu (recognized) Ryukyuan languages Hachijō",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +09:00 ( JST )",
+            "label": "Japanese",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "126,146,099 [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "330/km 2 (854.7/sq mi) ( 39th )",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -183,37 +75,6 @@
         ]
       },
       {
-        "label": "january_1_estimate",
-        "children": [
-          {
-            "label": "122,950,000 [ 5 ] ( 11th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$54,815 [ 7 ] ( 39th )",
-            "children": []
-          },
-          {
-            "label": "$34,713 [ 7 ] ( 36th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "prime_minister",
         "children": [
           {
@@ -223,18 +84,10 @@
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "377,975 km 2 (145,937 sq mi) [ 4 ] ( 62nd )",
-            "children": []
-          },
-          {
-            "label": "$6.758 trillion [ 7 ] ( 5th )",
-            "children": []
-          },
-          {
-            "label": "$4.230 trillion [ 7 ] ( 4th )",
+            "label": "National Diet",
             "children": []
           }
         ]
@@ -249,10 +102,157 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "377,975 km 2 (145,937 sq mi) ( 62nd )",
+            "children": []
+          },
+          {
+            "label": "$6.758 trillion ( 5th )",
+            "children": []
+          },
+          {
+            "label": "$4.230 trillion ( 4th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
-            "label": "1.4 [ 3 ]",
+            "label": "1.4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "january_1_estimate",
+        "children": [
+          {
+            "label": "122,950,000 ( 11th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "126,146,099",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "330/km 2 (854.7/sq mi) ( 39th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$54,815 ( 39th )",
+            "children": []
+          },
+          {
+            "label": "$34,713 ( 36th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "32.3 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.925 very high ( 23rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Japanese yen ( ¥ )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +09:00 ( JST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+81",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "JP",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".jp",
             "children": []
           }
         ]

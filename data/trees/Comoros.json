@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+269",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Moroni 11°41′S 43°16′E ﻿ / ﻿ 11.69°S 43.26°E ﻿ / -11.69; 43.26",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Comorian franc ( KMF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Comorian Comorese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "97.1% Comorians 1.6% Makua 1.3% Others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "45.3 [ 9 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal [ 3 ] presidential republic [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.603 [ 10 ] medium ( 152nd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".km",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KM",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Assembly of the Union",
+            "label": "Moroni 11°41′S 43°16′E / 11.69°S 43.26°E / -11.69; 43.26",
             "children": []
           }
         ]
@@ -151,95 +43,28 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "UTC +3 ( EAT )",
+            "label": "97.1% Comorians 1.6% Makua 1.3% Others",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "demonyms",
         "children": [
           {
-            "label": "883,075 [ 7 ] ( 159th )",
+            "label": "Comorian Comorese",
             "children": []
           }
         ]
       },
       {
-        "label": "current_constitution",
+        "label": "government",
         "children": [
           {
-            "label": "17 May 2009",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "457/km 2 (1,183.6/sq mi) ( 27th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "discovery_by_portuguese_explorers",
-        "children": [
-          {
-            "label": "1503",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "federal_islamic_republic_of_comoros",
-        "children": [
-          {
-            "label": "1 October 1978 [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "6 July 1975",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ngazidja_ndzuwani_mwali_under_french_rule",
-        "children": [
-          {
-            "label": "1886",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "overseas_territory",
-        "children": [
-          {
-            "label": "27 October 1946",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$3,463 [ 8 ]",
-            "children": []
-          },
-          {
-            "label": "$1,377 [ 8 ]",
+            "label": "Federal presidential republic",
             "children": []
           }
         ]
@@ -263,19 +88,37 @@
         ]
       },
       {
-        "label": "protectorate_of_the_comoros",
+        "label": "legislature",
         "children": [
           {
-            "label": "6 September 1887",
+            "label": "Assembly of the Union",
             "children": []
           }
         ]
       },
       {
-        "label": "state_of_comoros",
+        "label": "discovery_by_portuguese_explorers",
         "children": [
           {
-            "label": "22 December 1961",
+            "label": "1503",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ngazidja_ndzuwani_mwali_under_french_rule",
+        "children": [
+          {
+            "label": "1886",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "protectorate_of_the_comoros",
+        "children": [
+          {
+            "label": "6 September 1887",
             "children": []
           }
         ]
@@ -290,18 +133,37 @@
         ]
       },
       {
-        "label": "total",
+        "label": "overseas_territory",
         "children": [
           {
-            "label": "2,035 [ 6 ] km 2 (786 sq mi) ( 170th )",
+            "label": "27 October 1946",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "state_of_comoros",
+        "children": [
           {
-            "label": "$3.432 billion [ 8 ]",
+            "label": "22 December 1961",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "independence_from_france",
+        "children": [
           {
-            "label": "$1.364 billion [ 8 ]",
+            "label": "6 July 1975",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "federal_islamic_republic_of_comoros",
+        "children": [
+          {
+            "label": "1 October 1978",
             "children": []
           }
         ]
@@ -316,10 +178,148 @@
         ]
       },
       {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "17 May 2009",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "2,035 km 2 (786 sq mi) ( 170th )",
+            "children": []
+          },
+          {
+            "label": "$3.432 billion",
+            "children": []
+          },
+          {
+            "label": "$1.364 billion",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "883,075 ( 159th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "457/km 2 (1,183.6/sq mi) ( 27th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$3,463",
+            "children": []
+          },
+          {
+            "label": "$1,377",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "45.3 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.603 medium ( 152nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Comorian franc ( KMF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +3 ( EAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+269",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "KM",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".km",
             "children": []
           }
         ]

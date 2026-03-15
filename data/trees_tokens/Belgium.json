@@ -1,0 +1,954 @@
+{
+  "country_name": "Belgium",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Eendracht",
+            "children": []
+          },
+          {
+            "label": "maakt",
+            "children": []
+          },
+          {
+            "label": "macht",
+            "children": []
+          },
+          {
+            "label": "Dutch",
+            "children": []
+          },
+          {
+            "label": "L",
+            "children": []
+          },
+          {
+            "label": "union",
+            "children": []
+          },
+          {
+            "label": "fait",
+            "children": []
+          },
+          {
+            "label": "la",
+            "children": []
+          },
+          {
+            "label": "force",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "Einigkeit",
+            "children": []
+          },
+          {
+            "label": "macht",
+            "children": []
+          },
+          {
+            "label": "stark",
+            "children": []
+          },
+          {
+            "label": "German",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Unity",
+            "children": []
+          },
+          {
+            "label": "makes",
+            "children": []
+          },
+          {
+            "label": "strength",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "La",
+            "children": []
+          },
+          {
+            "label": "Braban",
+            "children": []
+          },
+          {
+            "label": "onne",
+            "children": []
+          },
+          {
+            "label": "The",
+            "children": []
+          },
+          {
+            "label": "Brabantian",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "European",
+            "children": []
+          },
+          {
+            "label": "Union",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: Eendracht maakt macht ( Dutch ) L'union fait la force ( French ) Einigkeit macht stark ( German ) (English: \" Unity makes strength \" )",
+          "Anthem: La Brabançonne The Brabantian",
+          "Show globe Show map of the European Union"
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "City",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Brussels",
+            "children": []
+          },
+          {
+            "label": "50",
+            "children": []
+          },
+          {
+            "label": "51",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "50",
+            "children": []
+          },
+          {
+            "label": "850",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "350",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "50",
+            "children": []
+          },
+          {
+            "label": "850",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "350",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "City of Brussels 50°51′N 4°21′E / 50.850°N 4.350°E / 50.850; 4.350"
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Brussels",
+            "children": []
+          },
+          {
+            "label": "Capital",
+            "children": []
+          },
+          {
+            "label": "Region",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Brussels-Capital Region"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Dutch",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "German",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Dutch French German"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "86",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Belgians",
+            "children": []
+          },
+          {
+            "label": "64",
+            "children": []
+          },
+          {
+            "label": "Belgian",
+            "children": []
+          },
+          {
+            "label": "background",
+            "children": []
+          },
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "foreign",
+            "children": []
+          },
+          {
+            "label": "background",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "non",
+            "children": []
+          },
+          {
+            "label": "Belgian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "86.1% Belgians 64% Belgian background 22.1% foreign background 13.8% non-Belgian"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "59",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "59% no religion 34% Christianity 31% Catholicism 3% other Christian 6% Islam 1% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Belgian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Belgian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "constitutional",
+            "children": []
+          },
+          {
+            "label": "monarchy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal parliamentary constitutional monarchy"
+        ]
+      },
+      {
+        "label": "monarch",
+        "children": [
+          {
+            "label": "Philippe",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Philippe"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Bart",
+            "children": []
+          },
+          {
+            "label": "De",
+            "children": []
+          },
+          {
+            "label": "Wever",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bart De Wever"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Chamber of Representatives"
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1830",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4 October 1830"
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "1839",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "19 April 1839"
+        ]
+      },
+      {
+        "label": "federal_state",
+        "children": [
+          {
+            "label": "1970",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1970"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "689",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "849",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "136th",
+            "children": []
+          },
+          {
+            "label": "889",
+            "children": []
+          },
+          {
+            "label": "833",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "37th",
+            "children": []
+          },
+          {
+            "label": "689",
+            "children": []
+          },
+          {
+            "label": "364",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "23rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "30,689 km 2 (11,849 sq mi) ( 136th )",
+          "$889.833 billion ( 37th )",
+          "$689.364 billion ( 23rd )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "64",
+            "children": []
+          },
+          {
+            "label": "2022",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.64 (2022)"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "825",
+            "children": []
+          },
+          {
+            "label": "551",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11,825,551"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "385",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "997",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "35th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "385 /km 2 (997.1/sq mi) ( 35th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "75",
+            "children": []
+          },
+          {
+            "label": "187",
+            "children": []
+          },
+          {
+            "label": "20th",
+            "children": []
+          },
+          {
+            "label": "58",
+            "children": []
+          },
+          {
+            "label": "248",
+            "children": []
+          },
+          {
+            "label": "16th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$75,187 ( 20th )",
+          "$58,248 ( 16th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "24.9 low inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "951",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "10th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.951 very high ( 10th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro",
+            "children": []
+          },
+          {
+            "label": "EUR",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Euro ( € ) ( EUR )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "CET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +1 ( CET )"
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "CEST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( CEST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "32",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+32"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BE",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "BE"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "be",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".be"
+        ]
+      }
+    ]
+  }
+}

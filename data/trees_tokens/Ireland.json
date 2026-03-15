@@ -1,0 +1,696 @@
+{
+  "country_name": "Ireland",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Ireland",
+            "children": []
+          },
+          {
+            "label": "photographed",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "2010",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Ireland",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "Europe",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "grey",
+            "children": []
+          },
+          {
+            "label": "Republic",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Ireland",
+            "children": []
+          },
+          {
+            "label": "United",
+            "children": []
+          },
+          {
+            "label": "Kingdom",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ireland photographed in October 2010",
+          "Location of Ireland (dark green) in Europe (dark grey)",
+          "Republic of Ireland",
+          "United Kingdom"
+        ]
+      },
+      {
+        "label": "location",
+        "children": [
+          {
+            "label": "Northwestern",
+            "children": []
+          },
+          {
+            "label": "Europe",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Northwestern Europe"
+        ]
+      },
+      {
+        "label": "coordinates",
+        "children": [
+          {
+            "label": "53",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "53",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "53",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "53°N 8°W / 53°N 8°W / 53; -8"
+        ]
+      },
+      {
+        "label": "archipelago",
+        "children": [
+          {
+            "label": "British",
+            "children": []
+          },
+          {
+            "label": "Isles",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "British Isles"
+        ]
+      },
+      {
+        "label": "adjacent_to",
+        "children": [
+          {
+            "label": "Atlantic",
+            "children": []
+          },
+          {
+            "label": "Ocean",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Atlantic Ocean"
+        ]
+      },
+      {
+        "label": "area",
+        "children": [
+          {
+            "label": "84",
+            "children": []
+          },
+          {
+            "label": "421",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "595",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "84,421 km 2 (32,595 sq mi)"
+        ]
+      },
+      {
+        "label": "area_rank",
+        "children": [
+          {
+            "label": "20th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "20th"
+        ]
+      },
+      {
+        "label": "coastline",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "527",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "4677",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7,527 km (4677.1 mi)"
+        ]
+      },
+      {
+        "label": "highest_elevation",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "041",
+            "children": []
+          },
+          {
+            "label": "m",
+            "children": []
+          },
+          {
+            "label": "3415",
+            "children": []
+          },
+          {
+            "label": "ft",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1,041 m (3415 ft)"
+        ]
+      },
+      {
+        "label": "highest_point",
+        "children": [
+          {
+            "label": "Carrauntoohil",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Carrauntoohil"
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Dublin",
+            "children": []
+          },
+          {
+            "label": "pop",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "458",
+            "children": []
+          },
+          {
+            "label": "154",
+            "children": []
+          },
+          {
+            "label": "Metropolitan",
+            "children": []
+          },
+          {
+            "label": "Area",
+            "children": []
+          },
+          {
+            "label": "2022",
+            "children": []
+          },
+          {
+            "label": "Belfast",
+            "children": []
+          },
+          {
+            "label": "pop",
+            "children": []
+          },
+          {
+            "label": "671",
+            "children": []
+          },
+          {
+            "label": "559",
+            "children": []
+          },
+          {
+            "label": "Metropolitan",
+            "children": []
+          },
+          {
+            "label": "Area",
+            "children": []
+          },
+          {
+            "label": "2011",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Dublin , pop. 1,458,154 Metropolitan Area (2022)",
+          "Belfast , pop. 671,559 Metropolitan Area (2011)"
+        ]
+      },
+      {
+        "label": "country",
+        "children": [
+          {
+            "label": "Northern",
+            "children": []
+          },
+          {
+            "label": "Ireland",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Northern Ireland"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Irish",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Irish"
+        ]
+      },
+      {
+        "label": "population",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "185",
+            "children": []
+          },
+          {
+            "label": "600",
+            "children": []
+          },
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7,185,600 (2023 estimate)"
+        ]
+      },
+      {
+        "label": "population_rank",
+        "children": [
+          {
+            "label": "19th",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "islands",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "19th (of islands)"
+        ]
+      },
+      {
+        "label": "pop_density",
+        "children": [
+          {
+            "label": "82",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "212",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "82.2/km 2 (212.9/sq mi)"
+        ]
+      },
+      {
+        "label": "languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Irish",
+            "children": []
+          },
+          {
+            "label": "ISL",
+            "children": []
+          },
+          {
+            "label": "Ulster",
+            "children": []
+          },
+          {
+            "label": "Scots",
+            "children": []
+          },
+          {
+            "label": "NISL",
+            "children": []
+          },
+          {
+            "label": "Shelta",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English Irish ISL Ulster Scots NISL Shelta"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "90",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "White",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Asian",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Black",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Arab",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "inc",
+            "children": []
+          },
+          {
+            "label": "Mixed",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "not",
+            "children": []
+          },
+          {
+            "label": "stated",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "90.0% White 2.8% Asian 1.2% Black 0.3% Arab 1.2% other (inc. Mixed ) 4.5% not stated"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "Greenwich",
+            "children": []
+          },
+          {
+            "label": "Mean",
+            "children": []
+          },
+          {
+            "label": "Time",
+            "children": []
+          },
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Greenwich Mean Time ( UTC+0 )"
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "Irish",
+            "children": []
+          },
+          {
+            "label": "Standard",
+            "children": []
+          },
+          {
+            "label": "Time",
+            "children": []
+          },
+          {
+            "label": "British",
+            "children": []
+          },
+          {
+            "label": "Summer",
+            "children": []
+          },
+          {
+            "label": "Time",
+            "children": []
+          },
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Irish Standard Time British Summer Time ( UTC+1 )"
+        ]
+      }
+    ]
+  }
+}

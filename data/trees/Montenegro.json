@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+382",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Podgorica [ b ] 42°47′N 19°28′E ﻿ / ﻿ 42.783°N 19.467°E ﻿ / 42.783; 19.467",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) a ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Montenegrin",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups_census",
-        "children": [
-          {
-            "label": "41.1% Montenegrins 32.9% Serbs 11.1% Bosniaks or Muslims 5.0% Albanians 2.1% Russians 5.8% others or undeclared",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "29.4 [ 11 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.862 [ 12 ] very high ( 48th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -105,7 +15,7 @@
             "children": []
           },
           {
-            "label": "Location of Montenegro (green) in Europe (dark grey) – [ Legend ]",
+            "label": "Location of Montenegro (green) in Europe (dark grey) –",
             "children": []
           },
           {
@@ -115,19 +25,19 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".me",
+            "label": "Podgorica 42°47′N 19°28′E / 42.783°N 19.467°E / 42.783; 19.467",
             "children": []
           }
         ]
       },
       {
-        "label": "iso_3166_code",
+        "label": "official_languages",
         "children": [
           {
-            "label": "ME",
+            "label": "Montenegrin",
             "children": []
           }
         ]
@@ -142,19 +52,10 @@
         ]
       },
       {
-        "label": "legislature",
+        "label": "ethnic_groups_census",
         "children": [
           {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Montenegrin [ 2 ]",
+            "label": "41.1% Montenegrins 32.9% Serbs 11.1% Bosniaks or Muslims 5.0% Albanians 2.1% Russians 5.8% others or undeclared",
             "children": []
           }
         ]
@@ -169,86 +70,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( CET )",
+            "label": "Montenegrin",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "623,633 [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "43.6/km 2 (112.9/sq mi) ( 173rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "duklja",
-        "children": [
-          {
-            "label": "10th century",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "3 June 2006",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "january_estimate",
-        "children": [
-          {
-            "label": "623,327 [ 5 ] ( 164th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_montenegro",
-        "children": [
-          {
-            "label": "28 August 1910",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_yugoslavia",
-        "children": [
-          {
-            "label": "26 November 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$34,410 [ 8 ] ( 63rd )",
-            "children": []
-          },
-          {
-            "label": "$14,990 [ 10 ] ( 73rd )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -263,6 +97,15 @@
         ]
       },
       {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Milojko Spajić",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "president_of_the_parliament",
         "children": [
           {
@@ -272,10 +115,28 @@
         ]
       },
       {
-        "label": "prime_minister",
+        "label": "legislature",
         "children": [
           {
-            "label": "Milojko Spajić",
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "duklja",
+        "children": [
+          {
+            "label": "10th century",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "zeta",
+        "children": [
+          {
+            "label": "1356",
             "children": []
           }
         ]
@@ -299,10 +160,28 @@
         ]
       },
       {
-        "label": "serbia_and_montenegro",
+        "label": "treaty_of_berlin",
         "children": [
           {
-            "label": "27 April 1992",
+            "label": "13 July 1878",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom_of_montenegro",
+        "children": [
+          {
+            "label": "28 August 1910",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom_of_yugoslavia",
+        "children": [
+          {
+            "label": "26 November 1918",
             "children": []
           }
         ]
@@ -317,10 +196,19 @@
         ]
       },
       {
-        "label": "summer_dst",
+        "label": "serbia_and_montenegro",
         "children": [
           {
-            "label": "UTC +2 ( CEST )",
+            "label": "27 April 1992",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "3 June 2006",
             "children": []
           }
         ]
@@ -329,24 +217,15 @@
         "label": "total",
         "children": [
           {
-            "label": "13,883 [ 4 ] km 2 (5,360 sq mi) ( 156th )",
+            "label": "13,883 km 2 (5,360 sq mi) ( 156th )",
             "children": []
           },
           {
-            "label": "$21.480 billion [ 7 ] ( 149th )",
+            "label": "$21.480 billion ( 149th )",
             "children": []
           },
           {
-            "label": "$9.350 billion [ 9 ] ( 153rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "treaty_of_berlin",
-        "children": [
-          {
-            "label": "13 July 1878",
+            "label": "$9.350 billion ( 153rd )",
             "children": []
           }
         ]
@@ -361,10 +240,131 @@
         ]
       },
       {
-        "label": "zeta",
+        "label": "january_estimate",
         "children": [
           {
-            "label": "1356",
+            "label": "623,327 ( 164th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "623,633",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "43.6/km 2 (112.9/sq mi) ( 173rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$34,410 ( 63rd )",
+            "children": []
+          },
+          {
+            "label": "$14,990 ( 73rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "29.4 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.862 very high ( 48th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) a ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +2 ( CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+382",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "ME",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".me",
             "children": []
           }
         ]

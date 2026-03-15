@@ -4,10 +4,18 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+370",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: Tautiška giesmė \"National Song\"",
+            "children": []
+          },
+          {
+            "label": "Location of Lithuania (dark green) – in Europe (green & dark grey) – in the European Union (green) –",
             "children": []
           }
         ]
@@ -16,31 +24,13 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Vilnius 54°41′N 25°19′E ﻿ / ﻿ 54.683°N 25.317°E ﻿ / 54.683; 25.317",
+            "label": "Vilnius 54°41′N 25°19′E / 54.683°N 25.317°E / 54.683; 25.317",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "yyyy - mm - dd [ a ] [ 14 ] [ 15 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
+        "label": "official_languages",
         "children": [
           {
             "label": "Lithuanian",
@@ -58,104 +48,6 @@
         ]
       },
       {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "35.7 [ 12 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic [ 4 ] [ 5 ] [ 6 ] [ 7 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.895 [ 13 ] very high ( 39th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Tautiška giesmė \"National Song\"",
-            "children": []
-          },
-          {
-            "label": "Location of Lithuania (dark green) – in Europe (green & dark grey) – in the European Union (green) – [ Legend ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".lt",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LT",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Seimas",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Lithuanian [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "religion",
         "children": [
           {
@@ -165,104 +57,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +2 ( EET )",
+            "label": "Lithuanian",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "2,897,430 [ 10 ] ( 137th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "commonwealth_created",
-        "children": [
-          {
-            "label": "1 July 1569",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "coronation_of_mindaugas",
-        "children": [
-          {
-            "label": "6 July 1253",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "46/km 2 (119.1/sq mi) ( 174th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_mentioned",
-        "children": [
-          {
-            "label": "9 March 1009",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "grand_duchy",
-        "children": [
-          {
-            "label": "1236",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_reinstated",
-        "children": [
-          {
-            "label": "16 February 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_restored",
-        "children": [
-          {
-            "label": "11 March 1990",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "partitioned",
-        "children": [
-          {
-            "label": "24 October 1795",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$57,201 [ 11 ] ( 39th )",
-            "children": []
-          },
-          {
-            "label": "$32,982 [ 11 ] ( 40th )",
+            "label": "Unitary semi-presidential republic",
             "children": []
           }
         ]
@@ -295,36 +102,37 @@
         ]
       },
       {
-        "label": "soviet_occupation",
+        "label": "legislature",
         "children": [
           {
-            "label": "16 June 1940",
+            "label": "Seimas",
             "children": []
           }
         ]
       },
       {
-        "label": "summer_dst",
+        "label": "first_mentioned",
         "children": [
           {
-            "label": "UTC +3 ( EEST )",
+            "label": "9 March 1009",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "grand_duchy",
         "children": [
           {
-            "label": "65,300 [ 8 ] km 2 (25,200 sq mi) ( 121st )",
+            "label": "1236",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "coronation_of_mindaugas",
+        "children": [
           {
-            "label": "$165.23 billion [ 11 ] ( 88th )",
-            "children": []
-          },
-          {
-            "label": "$95.27 billion [ 11 ] ( 78th )",
+            "label": "6 July 1253",
             "children": []
           }
         ]
@@ -339,10 +147,202 @@
         ]
       },
       {
+        "label": "commonwealth_created",
+        "children": [
+          {
+            "label": "1 July 1569",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "partitioned",
+        "children": [
+          {
+            "label": "24 October 1795",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_reinstated",
+        "children": [
+          {
+            "label": "16 February 1918",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "soviet_occupation",
+        "children": [
+          {
+            "label": "16 June 1940",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_restored",
+        "children": [
+          {
+            "label": "11 March 1990",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "65,300 km 2 (25,200 sq mi) ( 121st )",
+            "children": []
+          },
+          {
+            "label": "$165.23 billion ( 88th )",
+            "children": []
+          },
+          {
+            "label": "$95.27 billion ( 78th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
-            "label": "1.98 (2015) [ 9 ]",
+            "label": "1.98 (2015)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "2,897,430 ( 137th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "46/km 2 (119.1/sq mi) ( 174th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$57,201 ( 39th )",
+            "children": []
+          },
+          {
+            "label": "$32,982 ( 40th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "35.7 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.895 very high ( 39th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( EET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +3 ( EEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "yyyy - mm - dd",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+370",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "LT",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".lt",
             "children": []
           }
         ]

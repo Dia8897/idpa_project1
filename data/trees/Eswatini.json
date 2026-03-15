@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+268",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Mbabane (executive) Lobamba (legislative) 26°30′S 31°30′E ﻿ / ﻿ 26.500°S 31.500°E ﻿ / -26.500; 31.500",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Lilangeni (SZL) South African rand (ZAR)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Swazi [ a ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "84% Swazi 10% Zulu 6% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "54.6 [ 10 ] high inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary diarchic [ 3 ] absolute monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.695 [ 11 ] medium ( 126th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -119,19 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".sz",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SZ",
+            "label": "Mbabane (executive) Lobamba (legislative) 26°30′S 31°30′E / 26.500°S 31.500°E / -26.500; 31.500",
             "children": []
           }
         ]
@@ -146,15 +47,6 @@
         ]
       },
       {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "official_languages",
         "children": [
           {
@@ -164,73 +56,37 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "84% Swazi 10% Zulu 6% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
-            "label": "89.3% Christianity 84.2% Protestantism 3.7% Roman Catholic 1.4% other Christian 7.4% no religion 2.5% traditional faiths 0.8% others [ 1 ] [ 2 ]",
+            "label": "89.3% Christianity 84.2% Protestantism 3.7% Roman Catholic 1.4% other Christian 7.4% no religion 2.5% traditional faiths 0.8% others",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +2 ( SAST )",
+            "label": "Swazi",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "1,093,238 [ 8 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "1,236,126 [ 7 ] ( 155th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "Bheki Maphalala",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "2005 [ 4 ] [ 5 ] [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "66.8/km 2 (173.0/sq mi) ( 135th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_granted",
-        "children": [
-          {
-            "label": "6 September 1968",
+            "label": "Unitary diarchic absolute monarchy",
             "children": []
           }
         ]
@@ -245,23 +101,10 @@
         ]
       },
       {
-        "label": "lower_house",
+        "label": "queen_mother",
         "children": [
           {
-            "label": "House of Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$11,858 [ 9 ] ( 113th )",
-            "children": []
-          },
-          {
-            "label": "$3,995 [ 9 ] ( 122nd )",
+            "label": "Ntfombi",
             "children": []
           }
         ]
@@ -276,10 +119,64 @@
         ]
       },
       {
-        "label": "queen_mother",
+        "label": "chief_justice",
         "children": [
           {
-            "label": "Ntfombi",
+            "label": "Bheki Maphalala",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_granted",
+        "children": [
+          {
+            "label": "6 September 1968",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "united_nations_membership",
+        "children": [
+          {
+            "label": "24 September 1968",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "2005",
             "children": []
           }
         ]
@@ -301,29 +198,11 @@
             "children": []
           },
           {
-            "label": "$13.797 billion [ 9 ] ( 158th )",
+            "label": "$13.797 billion ( 158th )",
             "children": []
           },
           {
-            "label": "$4.648 billion [ 9 ] ( 168th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "united_nations_membership",
-        "children": [
-          {
-            "label": "24 September 1968",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "Senate",
+            "label": "$4.648 billion ( 168th )",
             "children": []
           }
         ]
@@ -333,6 +212,127 @@
         "children": [
           {
             "label": "0.9",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "1,236,126 ( 155th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "1,093,238",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "66.8/km 2 (173.0/sq mi) ( 135th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$11,858 ( 113th )",
+            "children": []
+          },
+          {
+            "label": "$3,995 ( 122nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "54.6 high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.695 medium ( 126th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Lilangeni (SZL) South African rand (ZAR)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( SAST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+268",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SZ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".sz",
             "children": []
           }
         ]

@@ -1,0 +1,717 @@
+{
+  "country_name": "Germany",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Das",
+            "children": []
+          },
+          {
+            "label": "Lied",
+            "children": []
+          },
+          {
+            "label": "der",
+            "children": []
+          },
+          {
+            "label": "Deutschen",
+            "children": []
+          },
+          {
+            "label": "The",
+            "children": []
+          },
+          {
+            "label": "Song",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Germans",
+            "children": []
+          },
+          {
+            "label": "Germany",
+            "children": []
+          },
+          {
+            "label": "on",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "centred",
+            "children": []
+          },
+          {
+            "label": "on",
+            "children": []
+          },
+          {
+            "label": "Europe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "European",
+            "children": []
+          },
+          {
+            "label": "Union",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Anthem: \" Das Lied der Deutschen \" The Song of the Germans",
+          "Germany on the globe centred on Europe Show map of the European Union"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Berlin",
+            "children": []
+          },
+          {
+            "label": "52",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "52",
+            "children": []
+          },
+          {
+            "label": "517",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "383",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "52",
+            "children": []
+          },
+          {
+            "label": "517",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "383",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Berlin 52°31′N 13°23′E / 52.517°N 13.383°E / 52.517; 13.383"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "German",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "German"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "German",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "German"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal parliamentary republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Frank",
+            "children": []
+          },
+          {
+            "label": "Walter",
+            "children": []
+          },
+          {
+            "label": "Steinmeier",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Frank-Walter Steinmeier"
+        ]
+      },
+      {
+        "label": "chancellor",
+        "children": [
+          {
+            "label": "Friedrich",
+            "children": []
+          },
+          {
+            "label": "Merz",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Friedrich Merz"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Bundestag",
+            "children": []
+          },
+          {
+            "label": "Bundesrat",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bundestag Bundesrat"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "357",
+            "children": []
+          },
+          {
+            "label": "022",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "137",
+            "children": []
+          },
+          {
+            "label": "847",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "63rd",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "154",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "6th",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "014",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "3rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "357,022 km 2 (137,847 sq mi) ( 63rd )",
+          "$6.154 trillion ( 6th )",
+          "$5.014 trillion ( 3rd )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "27",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1.27"
+        ]
+      },
+      {
+        "label": "q2_estimate",
+        "children": [
+          {
+            "label": "83",
+            "children": []
+          },
+          {
+            "label": "491",
+            "children": []
+          },
+          {
+            "label": "249",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "83,491,249"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "82",
+            "children": []
+          },
+          {
+            "label": "719",
+            "children": []
+          },
+          {
+            "label": "540",
+            "children": []
+          },
+          {
+            "label": "19th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "82,719,540 ( 19th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "233",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "603",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "63rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "233/km 2 (603.5/sq mi) ( 63rd )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "73",
+            "children": []
+          },
+          {
+            "label": "553",
+            "children": []
+          },
+          {
+            "label": "23rd",
+            "children": []
+          },
+          {
+            "label": "59",
+            "children": []
+          },
+          {
+            "label": "925",
+            "children": []
+          },
+          {
+            "label": "19th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$73,553 ( 23rd )",
+          "$59,925 ( 19th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29.4 low inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "959",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "5th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.959 very high ( 5th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro",
+            "children": []
+          },
+          {
+            "label": "EUR",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Euro ( € ) ( EUR )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "CET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +1 ( CET )"
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "CEST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( CEST )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "Day",
+            "children": []
+          },
+          {
+            "label": "month",
+            "children": []
+          },
+          {
+            "label": "year",
+            "children": []
+          },
+          {
+            "label": "Year",
+            "children": []
+          },
+          {
+            "label": "month",
+            "children": []
+          },
+          {
+            "label": "day",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Day, month, year Year, month, day"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "49",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+49"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "DE",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "DE"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "de",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".de"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,853 @@
+{
+  "country_name": "Solomon Islands",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "To",
+            "children": []
+          },
+          {
+            "label": "Lead",
+            "children": []
+          },
+          {
+            "label": "is",
+            "children": []
+          },
+          {
+            "label": "to",
+            "children": []
+          },
+          {
+            "label": "Serve",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "God",
+            "children": []
+          },
+          {
+            "label": "Save",
+            "children": []
+          },
+          {
+            "label": "Our",
+            "children": []
+          },
+          {
+            "label": "Solomon",
+            "children": []
+          },
+          {
+            "label": "Islands",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \"To Lead is to Serve\"",
+          "Anthem: \" God Save Our Solomon Islands \""
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Honiara",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "55",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "159",
+            "children": []
+          },
+          {
+            "label": "57",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "43194",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "159",
+            "children": []
+          },
+          {
+            "label": "95556",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "43194",
+            "children": []
+          },
+          {
+            "label": "159",
+            "children": []
+          },
+          {
+            "label": "95556",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Honiara 9°25′55′′S 159°57′20′′E / 9.43194°S 159.95556°E / -9.43194; 159.95556"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English"
+        ]
+      },
+      {
+        "label": "lingua_franca",
+        "children": [
+          {
+            "label": "Pijin",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Pijin"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Melanesian",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Polynesian",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Micronesian",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "95.3% Melanesian 3.1% Polynesian 1.2% Micronesian 0.4% others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "97",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "78",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "folk",
+            "children": []
+          },
+          {
+            "label": "religions",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          },
+          {
+            "label": "none",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "97.4% Christianity 78.6% Protestantism 19.5% Catholicism 1.9% other Christian 1.2% folk religions 1.4% others / none"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Solomon",
+            "children": []
+          },
+          {
+            "label": "Islander",
+            "children": []
+          },
+          {
+            "label": "Solomonese",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Solomon Islander Solomonese"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "constitutional",
+            "children": []
+          },
+          {
+            "label": "monarchy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary constitutional monarchy"
+        ]
+      },
+      {
+        "label": "monarch",
+        "children": [
+          {
+            "label": "Charles",
+            "children": []
+          },
+          {
+            "label": "III",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Charles III"
+        ]
+      },
+      {
+        "label": "governorgeneral",
+        "children": [
+          {
+            "label": "David",
+            "children": []
+          },
+          {
+            "label": "Tiva",
+            "children": []
+          },
+          {
+            "label": "Kapu",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "David Tiva Kapu"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Jeremiah",
+            "children": []
+          },
+          {
+            "label": "Manele",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Jeremiah Manele"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Parliament"
+        ]
+      },
+      {
+        "label": "from_the_united_kingdom",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1978",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7 July 1978"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "896",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "157",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "139th",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "68",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "681",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "28,896 km 2 (11,157 sq mi) ( 139th )",
+          "$1.68 billion",
+          "$1.681 billion"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3.2%"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "828",
+            "children": []
+          },
+          {
+            "label": "857",
+            "children": []
+          },
+          {
+            "label": "167th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "828,857 ( 167th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "721",
+            "children": []
+          },
+          {
+            "label": "956",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "721,956"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "62",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "192th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "24.2/km 2 (62.7/sq mi) ( 192th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "205",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "205",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$2,205.25",
+          "$2,205.25"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "37.1 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "584",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "156th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.584 medium ( 156th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Solomon",
+            "children": []
+          },
+          {
+            "label": "Islands",
+            "children": []
+          },
+          {
+            "label": "dollar",
+            "children": []
+          },
+          {
+            "label": "SBD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Solomon Islands dollar ( SBD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "Solomon",
+            "children": []
+          },
+          {
+            "label": "Islands",
+            "children": []
+          },
+          {
+            "label": "Time",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +11 (Solomon Islands Time)"
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "Not",
+            "children": []
+          },
+          {
+            "label": "observed",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Not observed"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "677",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+677"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SB",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "SB"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "sb",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".sb"
+        ]
+      }
+    ]
+  }
+}

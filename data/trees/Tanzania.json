@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+255 [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Dodoma 6°10′S 35°44′E ﻿ / ﻿ 6.167°S 35.733°E ﻿ / -6.167; 35.733",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Tanzanian shilling ( TZS )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Tanzanian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "40.5 [ 10 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary dominant-party presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.555 [ 11 ] medium ( 165th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -96,7 +15,7 @@
             "children": []
           },
           {
-            "label": "Anthem: \" Mungu ibariki Afrika \" \"God bless Africa\" [ 1 ]",
+            "label": "Anthem: \" Mungu ibariki Afrika \" \"God bless Africa\"",
             "children": []
           },
           {
@@ -106,19 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".tz",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TZ",
+            "label": "Dodoma 6°10′S 35°44′E / 6.167°S 35.733°E / -6.167; 35.733",
             "children": []
           }
         ]
@@ -127,25 +37,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Dar es Salaam 06°48′S 39°16′E ﻿ / ﻿ 6.800°S 39.267°E ﻿ / -6.800; 39.267",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "national_language",
-        "children": [
-          {
-            "label": "Swahili [ 4 ]",
+            "label": "Dar es Salaam 06°48′S 39°16′E / 6.800°S 39.267°E / -6.800; 39.267",
             "children": []
           }
         ]
@@ -154,7 +46,16 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Swahili English [ a ]",
+            "label": "Swahili English",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "national_language",
+        "children": [
+          {
+            "label": "Swahili",
             "children": []
           }
         ]
@@ -178,68 +79,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +3 ( East Africa Time )",
+            "label": "Tanzanian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "61,741,120 [ 8 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "67,462,121 [ 7 ] ( 22nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "George Mcheche Masaju",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "25 April 1977",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "65.2/km 2 (168.9/sq mi) ( 147th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$4,370 [ 9 ] ( 158th )",
-            "children": []
-          },
-          {
-            "label": "$1,280 [ 9 ] ( 162nd )",
+            "label": "Unitary dominant-party presidential republic",
             "children": []
           }
         ]
@@ -249,6 +101,15 @@
         "children": [
           {
             "label": "Samia Suluhu Hassan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "vicepresident",
+        "children": [
+          {
+            "label": "Emmanuel Nchimbi",
             "children": []
           }
         ]
@@ -272,6 +133,24 @@
         ]
       },
       {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "George Mcheche Masaju",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "tanganyika",
         "children": [
           {
@@ -281,18 +160,10 @@
         ]
       },
       {
-        "label": "total",
+        "label": "zanzibar",
         "children": [
           {
-            "label": "947,303 km 2 (365,756 sq mi) ( 30th )",
-            "children": []
-          },
-          {
-            "label": "$293.59 billion [ 9 ] ( 69th )",
-            "children": []
-          },
-          {
-            "label": "$88.980 billion [ 9 ] ( 80th )",
+            "label": "10 December 1963",
             "children": []
           }
         ]
@@ -307,10 +178,27 @@
         ]
       },
       {
-        "label": "vicepresident",
+        "label": "current_constitution",
         "children": [
           {
-            "label": "Emmanuel Nchimbi",
+            "label": "25 April 1977",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "947,303 km 2 (365,756 sq mi) ( 30th )",
+            "children": []
+          },
+          {
+            "label": "$293.59 billion ( 69th )",
+            "children": []
+          },
+          {
+            "label": "$88.980 billion ( 80th )",
             "children": []
           }
         ]
@@ -319,16 +207,128 @@
         "label": "water",
         "children": [
           {
-            "label": "6.4 [ 6 ]",
+            "label": "6.4",
             "children": []
           }
         ]
       },
       {
-        "label": "zanzibar",
+        "label": "estimate",
         "children": [
           {
-            "label": "10 December 1963",
+            "label": "67,462,121 ( 22nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "61,741,120",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "65.2/km 2 (168.9/sq mi) ( 147th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$4,370 ( 158th )",
+            "children": []
+          },
+          {
+            "label": "$1,280 ( 162nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "40.5 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.555 medium ( 165th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Tanzanian shilling ( TZS )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +3 ( East Africa Time )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+255",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "TZ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".tz",
             "children": []
           }
         ]

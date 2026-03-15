@@ -4,100 +4,28 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "luganda",
         "children": [
           {
-            "label": "+256",
+            "label": "Lipabuliika ya Uganda",
             "children": []
           }
         ]
       },
       {
-        "label": "capital_and_largest_city",
+        "label": "lusoga",
         "children": [
           {
-            "label": "Kampala",
+            "label": "Uganda Eryetwala",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "lumasaba",
         "children": [
           {
-            "label": "Ugandan shilling ( UGX )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Ugandan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dialect_of_english",
-        "children": [
-          {
-            "label": "Uglish",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups_census",
-        "children": [
-          {
-            "label": "15.3% Baganda 9.1% Banyankole 8.1% Basoga 6.4% Bakiga 6.8% Iteso 5.9% Langi 4.5% Bagisu 4.2% Acholi 2.6% Lugbara 37.1% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "42.0 [ 11 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic under a dictatorship [ 8 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.582 [ 12 ] medium ( 157th )",
+            "label": "Linambo lya Uganda",
             "children": []
           }
         ]
@@ -128,55 +56,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ug",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "UG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "luganda",
-        "children": [
-          {
-            "label": "Lipabuliika ya Uganda [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lumasaba",
-        "children": [
-          {
-            "label": "Linambo lya Uganda [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lusoga",
-        "children": [
-          {
-            "label": "Uganda Eryetwala [ 3 ]",
+            "label": "Kampala",
             "children": []
           }
         ]
@@ -200,6 +83,24 @@
         ]
       },
       {
+        "label": "dialect_of_english",
+        "children": [
+          {
+            "label": "Uglish",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_census",
+        "children": [
+          {
+            "label": "15.3% Baganda 9.1% Banyankole 8.1% Basoga 6.4% Bakiga 6.8% Iteso 5.9% Langi 4.5% Bagisu 4.2% Acholi 2.6% Lugbara 37.1% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion_census",
         "children": [
           {
@@ -209,59 +110,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +3 ( EAT )",
+            "label": "Ugandan",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "= 45,905,417 [ 9 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "8 October 1995",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "157.1/km 2 (406.9/sq mi) ( 75th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dominion",
-        "children": [
-          {
-            "label": "9 October 1962",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$3,900 [ 10 ] ( 161st )",
-            "children": []
-          },
-          {
-            "label": "$1,340 [ 10 ] ( 160th )",
+            "label": "Unitary presidential republic under a dictatorship",
             "children": []
           }
         ]
@@ -276,10 +137,37 @@
         ]
       },
       {
+        "label": "vicepresident",
+        "children": [
+          {
+            "label": "Jessica Alupo",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "prime_minister",
         "children": [
           {
             "label": "Robinah Nabbanja",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "dominion",
+        "children": [
+          {
+            "label": "9 October 1962",
             "children": []
           }
         ]
@@ -294,6 +182,15 @@
         ]
       },
       {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "8 October 1995",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
@@ -301,20 +198,11 @@
             "children": []
           },
           {
-            "label": "$187.11 billion [ 10 ] ( 82th )",
+            "label": "$187.11 billion ( 82th )",
             "children": []
           },
           {
-            "label": "$64.280 billion [ 10 ] ( 88th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vicepresident",
-        "children": [
-          {
-            "label": "Jessica Alupo",
+            "label": "$64.280 billion ( 88th )",
             "children": []
           }
         ]
@@ -324,6 +212,118 @@
         "children": [
           {
             "label": "15.39",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "= 45,905,417",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "157.1/km 2 (406.9/sq mi) ( 75th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$3,900 ( 161st )",
+            "children": []
+          },
+          {
+            "label": "$1,340 ( 160th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "42.0 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.582 medium ( 157th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Ugandan shilling ( UGX )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +3 ( EAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+256",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "UG",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ug",
             "children": []
           }
         ]

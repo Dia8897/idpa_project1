@@ -1,0 +1,916 @@
+{
+  "country_name": "Egypt",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Bilady",
+            "children": []
+          },
+          {
+            "label": "Bilady",
+            "children": []
+          },
+          {
+            "label": "Bilady",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "My",
+            "children": []
+          },
+          {
+            "label": "country",
+            "children": []
+          },
+          {
+            "label": "my",
+            "children": []
+          },
+          {
+            "label": "country",
+            "children": []
+          },
+          {
+            "label": "my",
+            "children": []
+          },
+          {
+            "label": "country",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Anthem: Bilady, Bilady, Bilady \"بلادي، بلادي، بلادي\" (English: My country, my country, my country )"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Cairo",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "033",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "217",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "033",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "217",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Cairo 30°2′N 31°13′E / 30.033°N 31.217°E / 30.033; 31.217"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic"
+        ]
+      },
+      {
+        "label": "national_language",
+        "children": [
+          {
+            "label": "Egyptian",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Egyptian Arabic"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "See",
+            "children": []
+          },
+          {
+            "label": "Religion",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "Egypt",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "See Religion in Egypt"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Egyptian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Egyptian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "semi",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "under",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          },
+          {
+            "label": "authoritarian",
+            "children": []
+          },
+          {
+            "label": "government",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary semi-presidential republic under an authoritarian government"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Abdel",
+            "children": []
+          },
+          {
+            "label": "Fattah",
+            "children": []
+          },
+          {
+            "label": "el",
+            "children": []
+          },
+          {
+            "label": "Sisi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Abdel Fattah el-Sisi"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Mostafa",
+            "children": []
+          },
+          {
+            "label": "Madbouly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mostafa Madbouly"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Representatives"
+        ]
+      },
+      {
+        "label": "unification_of_upper_and_lower_egypt",
+        "children": [
+          {
+            "label": "c",
+            "children": []
+          },
+          {
+            "label": "3150",
+            "children": []
+          },
+          {
+            "label": "BC",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "c. 3150 BC"
+        ]
+      },
+      {
+        "label": "fatimid_caliphate",
+        "children": [
+          {
+            "label": "c",
+            "children": []
+          },
+          {
+            "label": "973",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "c. 973"
+        ]
+      },
+      {
+        "label": "ayyubid_dynasty_inaugurated",
+        "children": [
+          {
+            "label": "c",
+            "children": []
+          },
+          {
+            "label": "1171",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "c. 1171"
+        ]
+      },
+      {
+        "label": "mamluk_egypt",
+        "children": [
+          {
+            "label": "c",
+            "children": []
+          },
+          {
+            "label": "1261",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "c. 1261"
+        ]
+      },
+      {
+        "label": "alawiyya_dynasty_inaugurated",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1805",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9 July 1805"
+        ]
+      },
+      {
+        "label": "declaration_of_independence",
+        "children": [
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1922",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "28 February 1922"
+        ]
+      },
+      {
+        "label": "revolution_day",
+        "children": [
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1952",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "23 July 1952"
+        ]
+      },
+      {
+        "label": "republic_declared",
+        "children": [
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "June",
+            "children": []
+          },
+          {
+            "label": "1953",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "18 June 1953"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "January",
+            "children": []
+          },
+          {
+            "label": "2014",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "18 January 2014"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "010",
+            "children": []
+          },
+          {
+            "label": "408",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "390",
+            "children": []
+          },
+          {
+            "label": "121",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "29th",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "372",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "18th",
+            "children": []
+          },
+          {
+            "label": "347",
+            "children": []
+          },
+          {
+            "label": "342",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "44th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1,010,408 km 2 (390,121 sq mi) ( 29th )",
+          "$2.372 trillion ( 18th )",
+          "$347.342 billion ( 44th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "632",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.632"
+        ]
+      },
+      {
+        "label": "july_estimate",
+        "children": [
+          {
+            "label": "107",
+            "children": []
+          },
+          {
+            "label": "868",
+            "children": []
+          },
+          {
+            "label": "296",
+            "children": []
+          },
+          {
+            "label": "15th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "107,868,296 ( 15th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "94",
+            "children": []
+          },
+          {
+            "label": "798",
+            "children": []
+          },
+          {
+            "label": "827",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "94,798,827"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "106",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "276",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "102nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "106.8/km 2 (276.6/sq mi) ( 102nd )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "668",
+            "children": []
+          },
+          {
+            "label": "87th",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "174",
+            "children": []
+          },
+          {
+            "label": "138th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$21,668 ( 87th )",
+          "$3,174 ( 138th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "28.5 low inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "754",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "100th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.754 high ( 100th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Egyptian",
+            "children": []
+          },
+          {
+            "label": "pound",
+            "children": []
+          },
+          {
+            "label": "LE",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "EGP",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Egyptian pound (LE/E£/£E) ( EGP )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "EET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( EET )"
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "EEST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +3 ( EEST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "20",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+20"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "EG",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "EG"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "eg",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".eg مصر."
+        ]
+      }
+    ]
+  }
+}

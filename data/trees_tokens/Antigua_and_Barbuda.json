@@ -1,0 +1,1010 @@
+{
+  "country_name": "Antigua and Barbuda",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Each",
+            "children": []
+          },
+          {
+            "label": "endeavouring",
+            "children": []
+          },
+          {
+            "label": "all",
+            "children": []
+          },
+          {
+            "label": "achieving",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Fair",
+            "children": []
+          },
+          {
+            "label": "Antigua",
+            "children": []
+          },
+          {
+            "label": "We",
+            "children": []
+          },
+          {
+            "label": "Salute",
+            "children": []
+          },
+          {
+            "label": "Thee",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Antigua",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Barbuda",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \" Each endeavouring, all achieving \"",
+          "Anthem: \" Fair Antigua, We Salute Thee \"",
+          "Show globe Show map of Antigua and Barbuda"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "St",
+            "children": []
+          },
+          {
+            "label": "John",
+            "children": []
+          },
+          {
+            "label": "s",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "51",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "117",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "850",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "117",
+            "children": []
+          },
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "850",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "St. John's 17°7′N 61°51′W / 17.117°N 61.850°W / 17.117; -61.850"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English"
+        ]
+      },
+      {
+        "label": "vernacular_language",
+        "children": [
+          {
+            "label": "Antiguan",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Barbudan",
+            "children": []
+          },
+          {
+            "label": "Creole",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Antiguan and Barbudan Creole"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "87",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Multiracial",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Hispanic",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "European",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "East",
+            "children": []
+          },
+          {
+            "label": "Indian",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Syrian",
+            "children": []
+          },
+          {
+            "label": "or",
+            "children": []
+          },
+          {
+            "label": "Lebanese",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "87.3% African 4.7% Multiracial 2.8% Hispanic 1.7% European 1.1% East Indian 0.7% Syrian or Lebanese 1.8% other"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "92",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "66",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Rastafari",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Bah",
+            "children": []
+          },
+          {
+            "label": "Faith",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "92.7% Christianity 66.6% Protestantism 26.1% other Christian 3.6% Rastafari 1.9% no religion 1.1% Baháʼí Faith 0.7% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Antiguan",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Barbudan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Antiguan and Barbudan"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "constitutional",
+            "children": []
+          },
+          {
+            "label": "monarchy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary constitutional monarchy"
+        ]
+      },
+      {
+        "label": "monarch",
+        "children": [
+          {
+            "label": "Charles",
+            "children": []
+          },
+          {
+            "label": "III",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Charles III"
+        ]
+      },
+      {
+        "label": "governorgeneral",
+        "children": [
+          {
+            "label": "Sir",
+            "children": []
+          },
+          {
+            "label": "Rodney",
+            "children": []
+          },
+          {
+            "label": "Williams",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sir Rodney Williams"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Gaston",
+            "children": []
+          },
+          {
+            "label": "Browne",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Gaston Browne"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Representatives"
+        ]
+      },
+      {
+        "label": "union",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1860",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 August 1860"
+        ]
+      },
+      {
+        "label": "redonda",
+        "children": [
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "March",
+            "children": []
+          },
+          {
+            "label": "1872",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "26 March 1872"
+        ]
+      },
+      {
+        "label": "associated_state",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1967",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "27 February 1967"
+        ]
+      },
+      {
+        "label": "independence",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1981",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 November 1981"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "440",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "170",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "182nd",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "180th",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "171st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "440 km 2 (170 sq mi) ( 182nd )",
+          "$3.3 billion ( 180th )",
+          "$2.37 billion ( 171st )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "negligible",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "negligible"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "106",
+            "children": []
+          },
+          {
+            "label": "365",
+            "children": []
+          },
+          {
+            "label": "182nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "106,365 ( 182nd )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "84",
+            "children": []
+          },
+          {
+            "label": "816",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "84,816"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "186",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "481",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "186/km 2 (481.7/sq mi)"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "781",
+            "children": []
+          },
+          {
+            "label": "66th",
+            "children": []
+          },
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "630",
+            "children": []
+          },
+          {
+            "label": "51st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$31,781 ( 66th )",
+          "$22,630 ( 51st )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "851",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "53rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.851 very high ( 53rd )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Eastern",
+            "children": []
+          },
+          {
+            "label": "Caribbean",
+            "children": []
+          },
+          {
+            "label": "dollar",
+            "children": []
+          },
+          {
+            "label": "XCD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Eastern Caribbean dollar ( XCD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "04",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "AST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC -04:00 ( AST )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+1"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "AG",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "AG"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "ag",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".ag"
+        ]
+      }
+    ]
+  }
+}

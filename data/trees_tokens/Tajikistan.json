@@ -1,0 +1,906 @@
+{
+  "country_name": "Tajikistan",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Tajik",
+            "children": []
+          },
+          {
+            "label": "Istiqlol",
+            "children": []
+          },
+          {
+            "label": "Ozod",
+            "children": []
+          },
+          {
+            "label": "Vatan",
+            "children": []
+          },
+          {
+            "label": "Russian",
+            "children": []
+          },
+          {
+            "label": "Nezavisimost",
+            "children": []
+          },
+          {
+            "label": "Svoboda",
+            "children": []
+          },
+          {
+            "label": "Rodina",
+            "children": []
+          },
+          {
+            "label": "Independence",
+            "children": []
+          },
+          {
+            "label": "Freedom",
+            "children": []
+          },
+          {
+            "label": "Homeland",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Tajik",
+            "children": []
+          },
+          {
+            "label": "Surudi",
+            "children": []
+          },
+          {
+            "label": "Milli",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Tajikistan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Motto: Истиқлол, Озодӣ, Ватан (Tajik) Istiqlol, Ozodī, Vatan Независимость, Свобода, Родина (Russian) Nezavisimost', Svoboda, Rodina \"Independence, Freedom, Homeland\"",
+          "Anthem: Суруди Миллӣ (Tajik) Surudi Milli \"National Anthem\"",
+          "Show globe Show map of Tajikistan"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Dushanbe",
+            "children": []
+          },
+          {
+            "label": "38",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "68",
+            "children": []
+          },
+          {
+            "label": "48",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "38",
+            "children": []
+          },
+          {
+            "label": "550",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "68",
+            "children": []
+          },
+          {
+            "label": "800",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "38",
+            "children": []
+          },
+          {
+            "label": "550",
+            "children": []
+          },
+          {
+            "label": "68",
+            "children": []
+          },
+          {
+            "label": "800",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Dushanbe 38°33′N 68°48′E / 38.550°N 68.800°E / 38.550; 68.800"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Tajik",
+            "children": []
+          },
+          {
+            "label": "Russian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tajik Russian"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "86",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Tajiks",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Uzbeks",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Kyrgyz",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Russians",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "86.1% Tajiks 11.3% Uzbeks 0.4% Kyrgyz 0.3% Russians 1.9% other"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "97",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "irreligion",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "97.5% Islam 0.7% Christianity 1.7% irreligion 0.2% others"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Tajikistani",
+            "children": []
+          },
+          {
+            "label": "Tajik",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tajikistani Tajik"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "under",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          },
+          {
+            "label": "authoritarian",
+            "children": []
+          },
+          {
+            "label": "dictatorship",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic under an authoritarian dictatorship"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Emomali",
+            "children": []
+          },
+          {
+            "label": "Rahmon",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Emomali Rahmon"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Kokhir",
+            "children": []
+          },
+          {
+            "label": "Rasulzoda",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kokhir Rasulzoda"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Supreme",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Supreme Assembly"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Assembly",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Assembly of Representatives"
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9 September 1991"
+        ]
+      },
+      {
+        "label": "recognised",
+        "children": [
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "26 December 1991"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "143",
+            "children": []
+          },
+          {
+            "label": "100",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "55",
+            "children": []
+          },
+          {
+            "label": "300",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "94th",
+            "children": []
+          },
+          {
+            "label": "59",
+            "children": []
+          },
+          {
+            "label": "415",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "119th",
+            "children": []
+          },
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "953",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "141st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "143,100 km 2 (55,300 sq mi) ( 94th )",
+          "$59.415 billion ( 119th )",
+          "$12.953 billion ( 141st )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "575",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "994",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2,575 km 2 (994 sq mi)"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1.8"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "786",
+            "children": []
+          },
+          {
+            "label": "734",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "10,786,734"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "75",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "195",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "75.4/km 2 (195.3/sq mi)"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "832",
+            "children": []
+          },
+          {
+            "label": "145th",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "176",
+            "children": []
+          },
+          {
+            "label": "163rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$5,832 ( 145th )",
+          "$1,176 ( 163rd )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "34 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "691",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "128th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.691 medium ( 128th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Somoni",
+            "children": []
+          },
+          {
+            "label": "TJS",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Somoni ( TJS )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "TJT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +5 ( TJT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd.mm.yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "992",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+992"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "TJ",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "TJ"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "tj",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".tj"
+        ]
+      }
+    ]
+  }
+}

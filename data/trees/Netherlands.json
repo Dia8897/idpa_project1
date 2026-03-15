@@ -4,154 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "act_of_abjuration",
+        "label": "west_frisian",
         "children": [
           {
-            "label": "26 July 1581",
+            "label": "Nederln",
             "children": []
           }
         ]
       },
       {
-        "label": "before_independence",
+        "label": "papiamentu",
         "children": [
           {
-            "label": "Spanish Netherlands",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+31 , +599 [ i ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Amsterdam [ b ] 52°22′N 4°53′E ﻿ / ﻿ 52.367°N 4.883°E ﻿ / 52.367; 4.883",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "caribbean_reorganisation",
-        "children": [
-          {
-            "label": "10 October 2010",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro (€) ( EUR ) United States dollar (US$) ( USD ) [ f ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd-mm-yyyy [ h ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonym_s",
-        "children": [
-          {
-            "label": "Dutch",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "driving_side",
-        "children": [
-          {
-            "label": "Right",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "72.0% Dutch [ d ] 9.2% other European 2.5% Turkish 2.3% Moroccan 2.0% Indonesian 2.0% Surinamese 1.1% Dutch Caribbean 8.9% other [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "26.4 [ 9 ] low",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government_seat",
-        "children": [
-          {
-            "label": "The Hague [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.955 [ 10 ] very high · 8th",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "highest_elevation_mount_scenery",
-        "children": [
-          {
-            "label": "870 m (2,850 ft)",
+            "label": "Hulanda",
             "children": []
           }
         ]
@@ -182,55 +47,28 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "sovereign_state",
         "children": [
           {
-            "label": ".nl , .bq [ j ]",
+            "label": "Kingdom of the Netherlands",
             "children": []
           }
         ]
       },
       {
-        "label": "kingdom_charter",
+        "label": "before_independence",
         "children": [
           {
-            "label": "15 December 1954",
+            "label": "Spanish Netherlands",
             "children": []
           }
         ]
       },
       {
-        "label": "legislature",
+        "label": "act_of_abjuration",
         "children": [
           {
-            "label": "States General",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "liberation_day",
-        "children": [
-          {
-            "label": "5 May 1945",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Dutch",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "papiamentu",
-        "children": [
-          {
-            "label": "Hulanda",
+            "label": "26 July 1581",
             "children": []
           }
         ]
@@ -245,10 +83,64 @@
         ]
       },
       {
-        "label": "recognised_languages",
+        "label": "united_kingdom_of_the_netherlands",
         "children": [
           {
-            "label": "Dutch Low Saxon Dutch Sign Language Limburgish Sinte Romani Yiddish [ c ]",
+            "label": "16 March 1815",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "liberation_day",
+        "children": [
+          {
+            "label": "5 May 1945",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom_charter",
+        "children": [
+          {
+            "label": "15 December 1954",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "caribbean_reorganisation",
+        "children": [
+          {
+            "label": "10 October 2010",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Amsterdam 52°22′N 4°53′E / 52.367°N 4.883°E / 52.367; 4.883",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government_seat",
+        "children": [
+          {
+            "label": "The Hague",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Dutch",
             "children": []
           }
         ]
@@ -257,7 +149,25 @@
         "label": "regional_languages",
         "children": [
           {
-            "label": "West Frisian Papiamento English [ a ]",
+            "label": "West Frisian Papiamento English",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognised_languages",
+        "children": [
+          {
+            "label": "Dutch Low Saxon Dutch Sign Language Limburgish Sinte Romani Yiddish",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "72.0% Dutch 9.2% other European 2.5% Turkish 2.3% Moroccan 2.0% Indonesian 2.0% Surinamese 1.1% Dutch Caribbean 8.9% other",
             "children": []
           }
         ]
@@ -272,64 +182,19 @@
         ]
       },
       {
-        "label": "sovereign_state",
+        "label": "demonym_s",
         "children": [
           {
-            "label": "Kingdom of the Netherlands",
+            "label": "Dutch",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "government",
         "children": [
           {
-            "label": "UTC+01:00 ( CET ) UTC−04:00 ( AST ) [ g ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "united_kingdom_of_the_netherlands",
-        "children": [
-          {
-            "label": "16 March 1815",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "west_frisian",
-        "children": [
-          {
-            "label": "Nederlân",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "census",
-        "children": [
-          {
-            "label": "18,044,027 [ 7 ] ( 69th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "541/km 2 (1,401.2/sq mi) ( 26th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Representatives",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -344,28 +209,6 @@
         ]
       },
       {
-        "label": "netherlands_constituency",
-        "children": [
-          {
-            "label": "31 seats",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$87,173 [ 8 ] ( 10th )",
-            "children": []
-          },
-          {
-            "label": "$73,091 [ 8 ] ( 10th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "prime_minister",
         "children": [
           {
@@ -375,27 +218,10 @@
         ]
       },
       {
-        "label": "summer_dst",
+        "label": "legislature",
         "children": [
           {
-            "label": "UTC+02:00 ( CEST ) UTC−04:00 (AST)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "41,865 [ 5 ] [ e ] km 2 (16,164 sq mi) ( 134th )",
-            "children": []
-          },
-          {
-            "label": "$1.581 trillion [ 8 ] ( 28th )",
-            "children": []
-          },
-          {
-            "label": "$1.326 trillion [ 8 ] ( 18th )",
+            "label": "States General",
             "children": []
           }
         ]
@@ -410,10 +236,184 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "netherlands_constituency",
+        "children": [
+          {
+            "label": "31 seats",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "41,865 km 2 (16,164 sq mi) ( 134th )",
+            "children": []
+          },
+          {
+            "label": "$1.581 trillion ( 28th )",
+            "children": []
+          },
+          {
+            "label": "$1.326 trillion ( 18th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
-            "label": "18.41 [ 6 ]",
+            "label": "18.41",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "highest_elevation_mount_scenery",
+        "children": [
+          {
+            "label": "870 m (2,850 ft)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "18,044,027 ( 69th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "541/km 2 (1,401.2/sq mi) ( 26th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$87,173 ( 10th )",
+            "children": []
+          },
+          {
+            "label": "$73,091 ( 10th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "26.4 low",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.955 very high · 8th",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro (€) ( EUR ) United States dollar (US$) ( USD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC+01:00 ( CET ) UTC−04:00 ( AST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC+02:00 ( CEST ) UTC−04:00 (AST)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd-mm-yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "driving_side",
+        "children": [
+          {
+            "label": "Right",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+31 , +599",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".nl , .bq",
             "children": []
           }
         ]

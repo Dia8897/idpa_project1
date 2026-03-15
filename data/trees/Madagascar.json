@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+261 [ 17 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Antananarivo 18°55′S 47°31′E ﻿ / ﻿ 18.917°S 47.517°E ﻿ / -18.917; 47.517",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Ariary ( MGA )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Malagasy [ 4 ] [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "26% Merina 15% Betsimisaraka 12% Betsileo 7% Tsimihety 6% Sakalava 5% Antaisaka 5% Antandroy 24% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "42.6 [ 15 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic under a transitional government",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.487 [ 16 ] low ( 183rd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -110,7 +11,7 @@
             "children": []
           },
           {
-            "label": "Motto: Fitiavana, Tanindrazana, Fandrosoana (Malagasy) Amour, Patrie, Progrès (French) \"Love, Fatherland, Progress\" [ 1 ]",
+            "label": "Motto: Fitiavana, Tanindrazana, Fandrosoana (Malagasy) Amour, Patrie, Progrès (French) \"Love, Fatherland, Progress\"",
             "children": []
           },
           {
@@ -124,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".mg",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Antananarivo 18°55′S 47°31′E / 18.917°S 47.517°E / -18.917; 47.517",
             "children": []
           }
         ]
@@ -160,6 +43,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "26% Merina 15% Betsimisaraka 12% Betsileo 7% Tsimihety 6% Sakalava 5% Antaisaka 5% Antandroy 24% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -169,113 +61,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +3 ( EAT )",
+            "label": "Malagasy",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "31,964,956 [ 10 ] ( 49th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "malagasy_protests",
-        "children": [
-          {
-            "label": "25 September – 14 October 2025",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "coup_detat",
-        "children": [
-          {
-            "label": "12–14 October 2025",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "11 December 2010",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "26 June 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "55/km 2 (142.4/sq mi) ( 164th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "french_colony",
-        "children": [
-          {
-            "label": "6 August 1896",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "french_protectorate",
-        "children": [
-          {
-            "label": "c. 1882",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "c. 1540",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$2,110 [ 12 ] ( 182nd )",
-            "children": []
-          },
-          {
-            "label": "$652 [ 14 ] ( 188th )",
+            "label": "Unitary semi-presidential republic under a transitional government",
             "children": []
           }
         ]
@@ -284,7 +82,7 @@
         "label": "president",
         "children": [
           {
-            "label": "Michael Randrianirina [ 6 ]",
+            "label": "Michael Randrianirina",
             "children": []
           }
         ]
@@ -299,14 +97,55 @@
         ]
       },
       {
-        "label": "referendum",
+        "label": "legislature",
         "children": [
           {
-            "label": "21 December 1975",
+            "label": "Parliament",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
           {
-            "label": "17 November 2010",
+            "label": "Senate (suspended)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom",
+        "children": [
+          {
+            "label": "c. 1540",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "french_protectorate",
+        "children": [
+          {
+            "label": "c. 1882",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "french_colony",
+        "children": [
+          {
+            "label": "6 August 1896",
             "children": []
           }
         ]
@@ -316,6 +155,28 @@
         "children": [
           {
             "label": "14 October 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declaration_of_independence",
+        "children": [
+          {
+            "label": "26 June 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "referendum",
+        "children": [
+          {
+            "label": "21 December 1975",
+            "children": []
+          },
+          {
+            "label": "17 November 2010",
             "children": []
           }
         ]
@@ -339,27 +200,45 @@
         ]
       },
       {
-        "label": "total",
+        "label": "current_constitution",
         "children": [
           {
-            "label": "592,796 [ 9 ] km 2 (228,880 sq mi) ( 46th )",
-            "children": []
-          },
-          {
-            "label": "$68.110 billion [ 11 ] ( 117th )",
-            "children": []
-          },
-          {
-            "label": "$21.090 billion [ 13 ] ( 139th )",
+            "label": "11 December 2010",
             "children": []
           }
         ]
       },
       {
-        "label": "upper_house",
+        "label": "malagasy_protests",
         "children": [
           {
-            "label": "Senate (suspended) [ 6 ]",
+            "label": "25 September – 14 October 2025",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "coup_detat",
+        "children": [
+          {
+            "label": "12–14 October 2025",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "592,796 km 2 (228,880 sq mi) ( 46th )",
+            "children": []
+          },
+          {
+            "label": "$68.110 billion ( 117th )",
+            "children": []
+          },
+          {
+            "label": "$21.090 billion ( 139th )",
             "children": []
           }
         ]
@@ -378,6 +257,127 @@
         "children": [
           {
             "label": "0.9%",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "31,964,956 ( 49th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "55/km 2 (142.4/sq mi) ( 164th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$2,110 ( 182nd )",
+            "children": []
+          },
+          {
+            "label": "$652 ( 188th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "42.6 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.487 low ( 183rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Ariary ( MGA )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +3 ( EAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+261",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "MG",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".mg",
             "children": []
           }
         ]

@@ -4,10 +4,22 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+376",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: Virtus Unita Fortior ( Latin ) \"United virtue is stronger\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" El Gran Carlemany \" \"The Great Charlemagne \"",
+            "children": []
+          },
+          {
+            "label": "Location of Andorra (centre of green circle) in Europe (dark grey)",
             "children": []
           }
         ]
@@ -16,34 +28,34 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Andorra la Vella 42°30′23″N 1°31′17″E ﻿ / ﻿ 42.50639°N 1.52139°E ﻿ / 42.50639; 1.52139",
+            "label": "Andorra la Vella 42°30′23′′N 1°31′17′′E / 42.50639°N 1.52139°E / 42.50639; 1.52139",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "official_languages",
         "children": [
           {
-            "label": "Euro ( € ) [ b ] ( EUR )",
+            "label": "Catalan 44.1%",
             "children": []
           }
         ]
       },
       {
-        "label": "date_format",
+        "label": "significant_language",
         "children": [
           {
-            "label": "dd/mm/yyyy",
+            "label": "Spanish 40.3%",
             "children": []
           }
         ]
       },
       {
-        "label": "demonyms",
+        "label": "other_languages",
         "children": [
           {
-            "label": "Andorran",
+            "label": "13.5% Portuguese 10% French 3% English 6.8% other",
             "children": []
           }
         ]
@@ -58,28 +70,19 @@
         ]
       },
       {
-        "label": "gdp_ppp",
+        "label": "religion",
         "children": [
           {
-            "label": "2024 estimate",
+            "label": "90.8% Christianity 85.5% Catholicism ( official ) 5.3% other Christian 6.9% no religion 2.3% others",
             "children": []
           }
         ]
       },
       {
-        "label": "gdp_nominal",
+        "label": "demonyms",
         "children": [
           {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "40.0 [ 11 ] medium inequality",
+            "label": "Andorran",
             "children": []
           }
         ]
@@ -94,49 +97,37 @@
         ]
       },
       {
-        "label": "hdi",
+        "label": "coprinces",
         "children": [
           {
-            "label": "0.913 [ 12 ] very high ( 32nd )",
+            "label": "Josep-Lluís Serrano Pentinat Emmanuel Macron",
             "children": []
           }
         ]
       },
       {
-        "label": "info",
+        "label": "representatives",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Motto: Virtus Unita Fortior ( Latin ) \"United virtue is stronger\" [ 1 ]",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" El Gran Carlemany \" \"The Great Charlemagne \"",
-            "children": []
-          },
-          {
-            "label": "Location of Andorra (centre of green circle) in Europe (dark grey)",
+            "label": "Eduard Ibáñez Patrice Faure",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "prime_minister",
         "children": [
           {
-            "label": ".ad [ c ]",
+            "label": "Xavier Espot Zamora",
             "children": []
           }
         ]
       },
       {
-        "label": "iso_3166_code",
+        "label": "general_syndic",
         "children": [
           {
-            "label": "AD",
+            "label": "Carles Ensenyat Reig",
             "children": []
           }
         ]
@@ -151,100 +142,10 @@
         ]
       },
       {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Catalan 44.1% [ 2 ] [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "other_languages",
-        "children": [
-          {
-            "label": "13.5% Portuguese 10% French 3% English 6.8% other [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "90.8% Christianity 85.5% Catholicism ( official ) [ 5 ] 5.3% other Christian 6.9% no religion 2.3% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "significant_language",
-        "children": [
-          {
-            "label": "Spanish 40.3% [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +01:00 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "89,058 [ 9 ] ( 185th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "coprinces",
-        "children": [
-          {
-            "label": "Josep-Lluís Serrano Pentinat Emmanuel Macron",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution",
-        "children": [
-          {
-            "label": "2 February 1993",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "187.1/km 2 (484.6/sq mi) ( 71st )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "first_pareage",
         "children": [
           {
-            "label": "8 September 1278 [ 6 ] [ 7 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_the_french_empire",
-        "children": [
-          {
-            "label": "1814",
+            "label": "8 September 1278",
             "children": []
           }
         ]
@@ -268,10 +169,72 @@
         ]
       },
       {
-        "label": "general_syndic",
+        "label": "from_the_french_empire",
         "children": [
           {
-            "label": "Carles Ensenyat Reig",
+            "label": "1814",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution",
+        "children": [
+          {
+            "label": "2 February 1993",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "467.63 km 2 (180.55 sq mi) ( 178th )",
+            "children": []
+          },
+          {
+            "label": "$6.001 billion ( 168th )",
+            "children": []
+          },
+          {
+            "label": "$3.897 billion ( 159th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0.26 (121.4 ha )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "89,058 ( 185th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "187.1/km 2 (484.6/sq mi) ( 71st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024 estimate",
             "children": []
           }
         ]
@@ -280,29 +243,56 @@
         "label": "per_capita",
         "children": [
           {
-            "label": "$69,146 [ 10 ] ( 18th )",
+            "label": "$69,146 ( 18th )",
             "children": []
           },
           {
-            "label": "$44,900 [ 10 ] ( 24th )",
+            "label": "$44,900 ( 24th )",
             "children": []
           }
         ]
       },
       {
-        "label": "prime_minister",
+        "label": "gdp_nominal",
         "children": [
           {
-            "label": "Xavier Espot Zamora",
+            "label": "2024 estimate",
             "children": []
           }
         ]
       },
       {
-        "label": "representatives",
+        "label": "gini",
         "children": [
           {
-            "label": "Eduard Ibáñez Patrice Faure",
+            "label": "40.0 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.913 very high ( 32nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +01:00 ( CET )",
             "children": []
           }
         ]
@@ -317,27 +307,37 @@
         ]
       },
       {
-        "label": "total",
+        "label": "date_format",
         "children": [
           {
-            "label": "467.63 km 2 (180.55 sq mi) ( 178th )",
-            "children": []
-          },
-          {
-            "label": "$6.001 billion [ 10 ] ( 168th )",
-            "children": []
-          },
-          {
-            "label": "$3.897 billion [ 10 ] ( 159th )",
+            "label": "dd/mm/yyyy",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "calling_code",
         "children": [
           {
-            "label": "0.26 (121.4 ha ) [ a ]",
+            "label": "+376",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "AD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ad",
             "children": []
           }
         ]

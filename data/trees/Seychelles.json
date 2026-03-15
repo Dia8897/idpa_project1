@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+248",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Victoria 4°37′S 55°27′E ﻿ / ﻿ 4.617°S 55.450°E ﻿ / -4.617; 55.450",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Seychellois rupee ( SCR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Seychellois Seychelloise Seselwa (Creole)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "97% Seychellois Creoles [ a ] 3% others [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "32.1 [ 9 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.848 [ 10 ] very high ( 54th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,37 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".sc",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "minority_language",
-        "children": [
-          {
-            "label": "Tamil",
+            "label": "Victoria 4°37′S 55°27′E / 4.617°S 55.450°E / -4.617; 55.450",
             "children": []
           }
         ]
@@ -160,6 +43,24 @@
         ]
       },
       {
+        "label": "minority_language",
+        "children": [
+          {
+            "label": "Tamil",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "97% Seychellois Creoles 3% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -169,50 +70,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +04:00 ( SCT )",
+            "label": "Seychellois Seychelloise Seselwa (Creole)",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "121,355 [ 4 ] ( 200th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "262.3/km 2 (679.4/sq mi) ( 67th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "29 June 1976",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$43,850 [ 6 ] ( 49th )",
-            "children": []
-          },
-          {
-            "label": "$21,940 [ 8 ] ( 50th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -227,10 +97,37 @@
         ]
       },
       {
+        "label": "vicepresident",
+        "children": [
+          {
+            "label": "Sebastien Pillay",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "speaker_of_the_national_assembly",
         "children": [
           {
             "label": "Azarel Ernesta",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "29 June 1976",
             "children": []
           }
         ]
@@ -243,20 +140,11 @@
             "children": []
           },
           {
-            "label": "$4.490 billion [ 5 ] ( 177th )",
+            "label": "$4.490 billion ( 177th )",
             "children": []
           },
           {
-            "label": "$2.250 billion [ 7 ] ( 186th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vicepresident",
-        "children": [
-          {
-            "label": "Sebastien Pillay",
+            "label": "$2.250 billion ( 186th )",
             "children": []
           }
         ]
@@ -266,6 +154,118 @@
         "children": [
           {
             "label": "Negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "121,355 ( 200th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "262.3/km 2 (679.4/sq mi) ( 67th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$43,850 ( 49th )",
+            "children": []
+          },
+          {
+            "label": "$21,940 ( 50th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "32.1 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.848 very high ( 54th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Seychellois rupee ( SCR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +04:00 ( SCT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+248",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".sc",
             "children": []
           }
         ]

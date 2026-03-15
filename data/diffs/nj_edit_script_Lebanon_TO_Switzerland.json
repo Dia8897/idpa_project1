@@ -1,0 +1,3351 @@
+{
+  "algorithm": "Nierman-Jagadish",
+  "tree_dir": "data\\trees_tokens",
+  "source": "Lebanon",
+  "target": "Switzerland",
+  "operation_counts": {
+    "total": 252,
+    "delete": 109,
+    "insert": 141,
+    "update": 2
+  },
+  "operations": [
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "capital_and_largest_city",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Beirut",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "54",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "900",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "533",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "900",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "533",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "local_vernacular",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "local_vernacular",
+        "children": [
+          {
+            "label": "Lebanese",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "recognised_minority_language",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "recognised_minority_language",
+        "children": [
+          {
+            "label": "French",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "ethnic_groups",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "Arab",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Armenian",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "president",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "president",
+        "children": [
+          {
+            "label": "Joseph",
+            "children": []
+          },
+          {
+            "label": "Aoun",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "prime_minister",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Nawaf",
+            "children": []
+          },
+          {
+            "label": "Salam",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "speaker_of_the_parliament",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "speaker_of_the_parliament",
+        "children": [
+          {
+            "label": "Nabih",
+            "children": []
+          },
+          {
+            "label": "Berri",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "emirate_of_mount_lebanon",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "emirate_of_mount_lebanon",
+        "children": [
+          {
+            "label": "1516",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "double_qaimmaqamate_of_mount_lebanon",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "double_qaimmaqamate_of_mount_lebanon",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1843",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "mount_lebanon_mutasarrifate",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "mount_lebanon_mutasarrifate",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "June",
+            "children": []
+          },
+          {
+            "label": "1861",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "greater_lebanon",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "greater_lebanon",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1920",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "constitution",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "constitution",
+        "children": [
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1926",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "independence_declared",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1943",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "french_mandate_ended",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "french_mandate_ended",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1945",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "withdrawal_of_french_forces",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "withdrawal_of_french_forces",
+        "children": [
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "1946",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "israeli_troops_withdrawn",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "israeli_troops_withdrawn",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "2000",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "syrian_troops_withdrawn",
+      "new": null,
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "syrian_troops_withdrawn",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "2005",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "german",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "german",
+        "children": [
+          {
+            "label": "Schweizerische",
+            "children": []
+          },
+          {
+            "label": "Eidgenossenschaft",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "french",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "french",
+        "children": [
+          {
+            "label": "Conf",
+            "children": []
+          },
+          {
+            "label": "d",
+            "children": []
+          },
+          {
+            "label": "ration",
+            "children": []
+          },
+          {
+            "label": "suisse",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "italian",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "italian",
+        "children": [
+          {
+            "label": "Confederazione",
+            "children": []
+          },
+          {
+            "label": "Svizzera",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "romansh",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "romansh",
+        "children": [
+          {
+            "label": "Confederaziun",
+            "children": []
+          },
+          {
+            "label": "svizra",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "latin",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "latin",
+        "children": [
+          {
+            "label": "Confoederatio",
+            "children": []
+          },
+          {
+            "label": "helvetica",
+            "children": []
+          },
+          {
+            "label": "CH",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "capital",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Bern",
+            "children": []
+          },
+          {
+            "label": "de",
+            "children": []
+          },
+          {
+            "label": "facto",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "federal_city",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "federal_city",
+        "children": [
+          {
+            "label": "Bern",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "largest_city",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Zurich",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "nationality",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "nationality",
+        "children": [
+          {
+            "label": "72",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "foreign",
+            "children": []
+          },
+          {
+            "label": "nationals",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "federal_council",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "federal_council",
+        "children": [
+          {
+            "label": "Guy",
+            "children": []
+          },
+          {
+            "label": "Parmelin",
+            "children": []
+          },
+          {
+            "label": "President",
+            "children": []
+          },
+          {
+            "label": "Ignazio",
+            "children": []
+          },
+          {
+            "label": "Cassis",
+            "children": []
+          },
+          {
+            "label": "Vice",
+            "children": []
+          },
+          {
+            "label": "president",
+            "children": []
+          },
+          {
+            "label": "Karin",
+            "children": []
+          },
+          {
+            "label": "Keller",
+            "children": []
+          },
+          {
+            "label": "Sutter",
+            "children": []
+          },
+          {
+            "label": "Albert",
+            "children": []
+          },
+          {
+            "label": "R",
+            "children": []
+          },
+          {
+            "label": "sti",
+            "children": []
+          },
+          {
+            "label": "lisabeth",
+            "children": []
+          },
+          {
+            "label": "Baume",
+            "children": []
+          },
+          {
+            "label": "Schneider",
+            "children": []
+          },
+          {
+            "label": "Beat",
+            "children": []
+          },
+          {
+            "label": "Jans",
+            "children": []
+          },
+          {
+            "label": "Martin",
+            "children": []
+          },
+          {
+            "label": "Pfister",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "federal_chancellor",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "federal_chancellor",
+        "children": [
+          {
+            "label": "Viktor",
+            "children": []
+          },
+          {
+            "label": "Rossi",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "upper_house",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Council",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "States",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "lower_house",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Council",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "founded",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "founded",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1291",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "sovereignty_recognised_peace_of_westphalia",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "sovereignty_recognised_peace_of_westphalia",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1648",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "federal_treaty",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "federal_treaty",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1815",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "federal_state",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "federal_state",
+        "children": [
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1848",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "census",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "census",
+        "children": [
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "327",
+            "children": []
+          },
+          {
+            "label": "126",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "date_format",
+      "node_is_leaf": false,
+      "subtree": {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          },
+          {
+            "label": "AD",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/info",
+      "old": "Anthem",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Anthem",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/info",
+      "old": "Kullun",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Kullun",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/info",
+      "old": "li",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "li",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/info",
+      "old": "l",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "l",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/info",
+      "old": "wa",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "wa",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/info",
+      "old": "an",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "an",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/info",
+      "old": "All",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "All",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/info",
+      "old": "us",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "us",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/info",
+      "old": "our",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "our",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/info",
+      "old": "country",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "country",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/info",
+      "old": "Lebanon",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Lebanon",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "Coat",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Coat",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "arms",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "arms",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "Motto",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Motto",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "unofficial",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "unofficial",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "Unus",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Unus",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "pro",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "pro",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "omnibus",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "omnibus",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "omnes",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "omnes",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "pro",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "pro",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "uno",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "uno",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "One",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "One",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "for",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "for",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "all",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "all",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "all",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "all",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "one",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "one",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "Anthem",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Anthem",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "Swiss",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Swiss",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "Psalm",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Psalm",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "Show",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Show",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "globe",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "globe",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "Show",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Show",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "map",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "map",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "of",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "of",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "Europe",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Europe",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "Switzerland",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Switzerland",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "green",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "green",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "Europe",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Europe",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "and",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "and",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "dark",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "dark",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/info",
+      "old": null,
+      "new": "grey",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "grey",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/official_languages",
+      "old": "Arabic",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Arabic",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "German",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "German",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "62",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "62",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "French",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "French",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "23",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "23",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "Italian",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Italian",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "8",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "8",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "Romansh",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Romansh",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "0",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "0",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "5",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "5",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "53",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "53",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "31",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "31",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Islam",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Islam",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "26",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "26",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "84",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "84",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Shia",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Shia",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "0",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "0",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "64",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "64",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Alawite",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Alawite",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "26",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "26",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "55",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "55",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Sunni",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Sunni",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "41",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "41",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "40",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "40",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "28",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "28",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "11",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "11",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Catholic",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Catholic",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "8",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "8",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Orthodox",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Orthodox",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "2",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "2",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "92",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "92",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Armenian",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Armenian",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Apostolic",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Apostolic",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "0",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "0",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "53",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "53",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Protestant",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Protestant",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "64",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "64",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Other",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Other",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Christians",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Christians",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "21",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "21",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Druze",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Druze",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "08",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "08",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "No",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "No",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "religion",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "religion",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "54",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "54",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "7",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "7",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "Catholicism",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Catholicism",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "18",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "18",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "7",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "7",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "Protestantism",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Protestantism",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "6",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "6",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "other",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "other",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "Christian",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Christian",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "36",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "36",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "8",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "8",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "no",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "no",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "religion",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "religion",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "6",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "6",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "Islam",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Islam",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "other",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "other",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "religions",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "religions",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "9",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "9",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/religion",
+      "old": null,
+      "new": "unanswered",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "unanswered",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/demonyms",
+      "old": "Lebanese",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Lebanese",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "English",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "English",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Swiss",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Swiss",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "German",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "German",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Schweizer",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Schweizer",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Schweizerin",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Schweizerin",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "French",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "French",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Suisse",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Suisse",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Suissesse",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Suissesse",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Italian",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Italian",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "svizzero",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "svizzero",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "svizzera",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "svizzera",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "or",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "or",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "elvetico",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "elvetico",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "elvetica",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "elvetica",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Romansh",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Romansh",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Svizzer",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Svizzer",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Svizra",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Svizra",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/government",
+      "old": "Unitary",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Unitary",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/government",
+      "old": "parliamentary",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "parliamentary",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/government",
+      "old": "under",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "under",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/government",
+      "old": "confessionalism",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "confessionalism",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/government",
+      "old": null,
+      "new": "Federal",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Federal",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/government",
+      "old": null,
+      "new": "assembly",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "assembly",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/government",
+      "old": null,
+      "new": "independent",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "independent",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/government",
+      "old": null,
+      "new": "directorial",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "directorial",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/legislature",
+      "old": "Parliament",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Parliament",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/legislature",
+      "old": null,
+      "new": "Federal",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Federal",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/legislature",
+      "old": null,
+      "new": "Assembly",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Assembly",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/total",
+      "old": "10",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "10",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/total",
+      "old": "452",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "452",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/total",
+      "old": "4",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "4",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/total",
+      "old": "036",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "036",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/total",
+      "old": "161st",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "161st",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/total",
+      "old": "78",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "78",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/total",
+      "old": "233",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "233",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/total",
+      "old": "108th",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "108th",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/total",
+      "old": "21",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "21",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/total",
+      "old": "780",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "780",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/total",
+      "old": "billion",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "billion",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/total",
+      "old": "103rd",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "103rd",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/total",
+      "old": null,
+      "new": "41",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "41",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/total",
+      "old": null,
+      "new": "291",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "291",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/total",
+      "old": null,
+      "new": "15",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "15",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/total",
+      "old": null,
+      "new": "943",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "943",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/total",
+      "old": null,
+      "new": "132th",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "132th",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/total",
+      "old": null,
+      "new": "881",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "881",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/total",
+      "old": null,
+      "new": "083",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "083",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/total",
+      "old": null,
+      "new": "35th",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "35th",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/total",
+      "old": null,
+      "new": "1",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "1",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/total",
+      "old": null,
+      "new": "003",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "003",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/total",
+      "old": null,
+      "new": "trillion",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "trillion",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/total",
+      "old": null,
+      "new": "20th",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "20th",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/water",
+      "old": "1",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "1",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/water",
+      "old": "8",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "8",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/water",
+      "old": null,
+      "new": "4",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "4",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/estimate",
+      "old": "5",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "5",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/estimate",
+      "old": "364",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "364",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/estimate",
+      "old": "482",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "482",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/estimate",
+      "old": "117th",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "117th",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/estimate",
+      "old": null,
+      "new": "9",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "9",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/estimate",
+      "old": null,
+      "new": "060",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "060",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/estimate",
+      "old": null,
+      "new": "598",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "598",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/estimate",
+      "old": null,
+      "new": "99th",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "99th",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/density",
+      "old": "513",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "513",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/density",
+      "old": "328",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "328",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/density",
+      "old": "7",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "7",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/density",
+      "old": null,
+      "new": "207",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "207",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/density",
+      "old": null,
+      "new": "536",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "536",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/density",
+      "old": null,
+      "new": "67th",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "67th",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/gdp_ppp",
+      "old": "2022",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "2022",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/gdp_ppp",
+      "old": null,
+      "new": "2025",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "2025",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/per_capita",
+      "old": "11",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "11",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/per_capita",
+      "old": "793",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "793",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/per_capita",
+      "old": "114th",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "114th",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/per_capita",
+      "old": "3",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "3",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/per_capita",
+      "old": "283",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "283",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/per_capita",
+      "old": "133rd",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "133rd",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/per_capita",
+      "old": null,
+      "new": "97",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "97",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/per_capita",
+      "old": null,
+      "new": "660",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "660",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/per_capita",
+      "old": null,
+      "new": "6th",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "6th",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/per_capita",
+      "old": null,
+      "new": "111",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "111",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/per_capita",
+      "old": null,
+      "new": "047",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "047",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/per_capita",
+      "old": null,
+      "new": "3rd",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "3rd",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/gdp_nominal",
+      "old": "2022",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "2022",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/gdp_nominal",
+      "old": null,
+      "new": "2025",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "2025",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/gini",
+      "old": "8",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "8",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/gini",
+      "old": null,
+      "new": "5",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "5",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/hdi",
+      "old": "752",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "752",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/hdi",
+      "old": "102nd",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "102nd",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/hdi",
+      "old": null,
+      "new": "970",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "970",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/hdi",
+      "old": null,
+      "new": "very",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "very",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/hdi",
+      "old": null,
+      "new": "2nd",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "2nd",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/currency",
+      "old": "Lebanese",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Lebanese",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/currency",
+      "old": "pound",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "pound",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/currency",
+      "old": "LBP",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "LBP",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/currency",
+      "old": null,
+      "new": "Swiss",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "Swiss",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/currency",
+      "old": null,
+      "new": "franc",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "franc",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/currency",
+      "old": null,
+      "new": "CHF",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "CHF",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/time_zone",
+      "old": "2",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "2",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/time_zone",
+      "old": "EET",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "EET",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/time_zone",
+      "old": null,
+      "new": "1",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "1",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/time_zone",
+      "old": null,
+      "new": "CET",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "CET",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/summer_dst",
+      "old": "3",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "3",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/summer_dst",
+      "old": "EEST",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "EEST",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/summer_dst",
+      "old": null,
+      "new": "2",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "2",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/summer_dst",
+      "old": null,
+      "new": "CEST",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "CEST",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/calling_code",
+      "old": "961",
+      "new": "41",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "41",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/iso_3166_code",
+      "old": "LB",
+      "new": "CH",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "CH",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/internet_tld",
+      "old": "lb",
+      "new": null,
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "lb",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/internet_tld",
+      "old": null,
+      "new": "ch",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "ch",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/internet_tld",
+      "old": null,
+      "new": "swiss",
+      "node_is_leaf": true,
+      "subtree": {
+        "label": "swiss",
+        "children": []
+      }
+    }
+  ],
+  "execution_order": {
+    "delete_first": true,
+    "insert_second": true,
+    "update_third": true
+  }
+}

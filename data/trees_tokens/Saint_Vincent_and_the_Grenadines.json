@@ -1,0 +1,889 @@
+{
+  "country_name": "Saint Vincent and the Grenadines",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Pax",
+            "children": []
+          },
+          {
+            "label": "et",
+            "children": []
+          },
+          {
+            "label": "Justitia",
+            "children": []
+          },
+          {
+            "label": "Latin",
+            "children": []
+          },
+          {
+            "label": "Peace",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Justice",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Saint",
+            "children": []
+          },
+          {
+            "label": "Vincent",
+            "children": []
+          },
+          {
+            "label": "Land",
+            "children": []
+          },
+          {
+            "label": "So",
+            "children": []
+          },
+          {
+            "label": "Beautiful",
+            "children": []
+          },
+          {
+            "label": "Royal",
+            "children": []
+          },
+          {
+            "label": "anthem",
+            "children": []
+          },
+          {
+            "label": "God",
+            "children": []
+          },
+          {
+            "label": "Save",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "King",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \"Pax et Justitia\" ( Latin ) \"Peace and Justice\"",
+          "Anthem: \" Saint Vincent, Land So Beautiful \" Royal anthem : \" God Save the King \""
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Kingstown",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "167",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "233",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "167",
+            "children": []
+          },
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "233",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kingstown 13°10′N 61°14′W / 13.167°N 61.233°W / 13.167; -61.233"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English"
+        ]
+      },
+      {
+        "label": "vernacular_language",
+        "children": [
+          {
+            "label": "Vincentian",
+            "children": []
+          },
+          {
+            "label": "Creole",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Vincentian Creole"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "66",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "Mixed",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Indian",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "European",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Kalinago",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "66% African 19% Mixed 6% Indian 4% European 2% Kalinago 3% others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "88",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "70",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Hinduism",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Irreligion",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Rastafari",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Bah",
+            "children": []
+          },
+          {
+            "label": "Faith",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "88.6% Christianity 70.2% Protestantism 18.4% Other Christian 3.4% Hinduism 2.5% Irreligion 1.8% Rastafari 1.6% Baháʼí Faith 1.5% Islam 0.5% Other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Vincentian",
+            "children": []
+          },
+          {
+            "label": "Grenadinian",
+            "children": []
+          },
+          {
+            "label": "Saint",
+            "children": []
+          },
+          {
+            "label": "Vincentian",
+            "children": []
+          },
+          {
+            "label": "Vincy",
+            "children": []
+          },
+          {
+            "label": "colloquial",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Vincentian Grenadinian Saint Vincentian Vincy (colloquial)"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "constitutional",
+            "children": []
+          },
+          {
+            "label": "monarchy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary constitutional monarchy"
+        ]
+      },
+      {
+        "label": "monarch",
+        "children": [
+          {
+            "label": "Charles",
+            "children": []
+          },
+          {
+            "label": "III",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Charles III"
+        ]
+      },
+      {
+        "label": "governorgeneral",
+        "children": [
+          {
+            "label": "Sir",
+            "children": []
+          },
+          {
+            "label": "Stanley",
+            "children": []
+          },
+          {
+            "label": "John",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sir Stanley John"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Godwin",
+            "children": []
+          },
+          {
+            "label": "Friday",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Godwin Friday"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Assembly"
+        ]
+      },
+      {
+        "label": "associated_state",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1969",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "27 October 1969"
+        ]
+      },
+      {
+        "label": "from_the_united_kingdom",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1979",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "27 October 1979"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "389",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "150",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "184th",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "389 km 2 (150 sq mi) ( 184th )",
+          "$2 billion",
+          "$1 billion"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "negligible",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "negligible"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "110",
+            "children": []
+          },
+          {
+            "label": "872",
+            "children": []
+          },
+          {
+            "label": "180th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "110,872 ( 180th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "109",
+            "children": []
+          },
+          {
+            "label": "991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "109,991"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "307",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "795",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "39th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "307/km 2 (795.1/sq mi) ( 39th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "840",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "360",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$17,840",
+          "$9,360"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "798",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "76th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.798 high ( 76th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "East",
+            "children": []
+          },
+          {
+            "label": "Caribbean",
+            "children": []
+          },
+          {
+            "label": "dollar",
+            "children": []
+          },
+          {
+            "label": "XCD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "East Caribbean dollar ( XCD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "AST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC -4 ( AST )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "mm/dd/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+1"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "VC",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "VC"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "vc",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".vc"
+        ]
+      }
+    ]
+  }
+}

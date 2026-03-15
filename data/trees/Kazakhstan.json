@@ -4,10 +4,14 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+7",
+            "label": "Flag Emblem",
+            "children": []
+          },
+          {
+            "label": "Anthem: Menıñ Qazaqstanym \"My Kazakhstan\"",
             "children": []
           }
         ]
@@ -16,25 +20,25 @@
         "label": "capital",
         "children": [
           {
-            "label": "Astana 51°8′N 71°26′E ﻿ / ﻿ 51.133°N 71.433°E ﻿ / 51.133; 71.433",
+            "label": "Astana 51°8′N 71°26′E / 51.133°N 71.433°E / 51.133; 71.433",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "largest_city",
         "children": [
           {
-            "label": "Tenge (₸) ( KZT )",
+            "label": "Almaty 43°14′N 76°57′E / 43.233°N 76.950°E / 43.233; 76.950",
             "children": []
           }
         ]
       },
       {
-        "label": "demonyms",
+        "label": "official_languages",
         "children": [
           {
-            "label": "Kazakh Kazakhstani [ c ]",
+            "label": "Kazakh Russian",
             "children": []
           }
         ]
@@ -49,109 +53,6 @@
         ]
       },
       {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "27.8 [ 13 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic [ d ] under an authoritarian government [ 9 ] [ 10 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.837 [ 14 ] very high ( 60th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: Menıñ Qazaqstanym \"My Kazakhstan\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".kz .қаз",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KZ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "largest_city",
-        "children": [
-          {
-            "label": "Almaty 43°14′N 76°57′E ﻿ / ﻿ 43.233°N 76.950°E ﻿ / 43.233; 76.950",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Kazakh [ a ] Russian [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "religion",
         "children": [
           {
@@ -161,95 +62,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +5",
+            "label": "Kazakh Kazakhstani",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "20,495,975 [ 11 ] ( 65th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "30 August 1995",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "7.44/km 2 (19.3/sq mi) ( 236th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_soviet_union",
-        "children": [
-          {
-            "label": "16 December 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kazakh_assr",
-        "children": [
-          {
-            "label": "26 August 1920",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kazakh_khanate",
-        "children": [
-          {
-            "label": "c. 1465",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kazakh_ssr",
-        "children": [
-          {
-            "label": "5 December 1936",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Mäjilis",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$44,450 [ 12 ] ( 49th )",
-            "children": []
-          },
-          {
-            "label": "$14,770 [ 12 ] ( 64th )",
+            "label": "Unitary presidential republic under an authoritarian government",
             "children": []
           }
         ]
@@ -273,27 +98,10 @@
         ]
       },
       {
-        "label": "recognized",
+        "label": "legislature",
         "children": [
           {
-            "label": "26 December 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "2,724,900 km 2 (1,052,100 sq mi) ( 9th )",
-            "children": []
-          },
-          {
-            "label": "$904.500 billion [ 12 ] ( 37th )",
-            "children": []
-          },
-          {
-            "label": "$300.540 billion [ 12 ] ( 48th )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -308,10 +116,202 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Mäjilis",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kazakh_khanate",
+        "children": [
+          {
+            "label": "c. 1465",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kazakh_assr",
+        "children": [
+          {
+            "label": "26 August 1920",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kazakh_ssr",
+        "children": [
+          {
+            "label": "5 December 1936",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_the_soviet_union",
+        "children": [
+          {
+            "label": "16 December 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "26 December 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "30 August 1995",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "2,724,900 km 2 (1,052,100 sq mi) ( 9th )",
+            "children": []
+          },
+          {
+            "label": "$904.500 billion ( 37th )",
+            "children": []
+          },
+          {
+            "label": "$300.540 billion ( 48th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "1.7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "20,495,975 ( 65th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "7.44/km 2 (19.3/sq mi) ( 236th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$44,450 ( 49th )",
+            "children": []
+          },
+          {
+            "label": "$14,770 ( 64th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "27.8 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.837 very high ( 60th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Tenge (₸) ( KZT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "KZ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".kz .қаз",
             "children": []
           }
         ]

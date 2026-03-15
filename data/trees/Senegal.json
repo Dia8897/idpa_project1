@@ -4,10 +4,22 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+221",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: \"Un peuple, un but, une foi\" (French) \"Wenn Askan, Benn Jubluwaay, Benn Pas-Pas\" (Wolof) (English: \"One People, One Goal, One Faith\" )",
+            "children": []
+          },
+          {
+            "label": "Anthem: Le Lion rouge (English: \"The Red Lion\" )",
+            "children": []
+          },
+          {
+            "label": "Location of Senegal (dark green)",
             "children": []
           }
         ]
@@ -16,25 +28,25 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Dakar 14°40′N 17°25′W ﻿ / ﻿ 14.667°N 17.417°W ﻿ / 14.667; -17.417",
+            "label": "Dakar 14°40′N 17°25′W / 14.667°N 17.417°W / 14.667; -17.417",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "official_languages",
         "children": [
           {
-            "label": "West African CFA franc ( XOF )",
+            "label": "French",
             "children": []
           }
         ]
       },
       {
-        "label": "demonyms",
+        "label": "national_languages",
         "children": [
           {
-            "label": "Senegalese",
+            "label": "Wolof Serer Diola Pulaar Soninke Mandinka",
             "children": []
           }
         ]
@@ -49,10 +61,166 @@
         ]
       },
       {
+        "label": "religion",
+        "children": [
+          {
+            "label": "97.2% Islam 2.7% Christianity 0.1% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Senegalese",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Bassirou Diomaye Faye",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Ousmane Sonko",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president_of_the_national_assembly",
+        "children": [
+          {
+            "label": "Malick Ndiaye",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic_established",
+        "children": [
+          {
+            "label": "25 November 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_france",
+        "children": [
+          {
+            "label": "20 June 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "withdrawal_from_the_mali_federation",
+        "children": [
+          {
+            "label": "20 August 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "dissolution_of_the_senegambia_confederation",
+        "children": [
+          {
+            "label": "30 September 1989",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "196,722 km 2 (75,955 sq mi) ( 86th )",
+            "children": []
+          },
+          {
+            "label": "$105.428 billion ( 100th )",
+            "children": []
+          },
+          {
+            "label": "$34.728 billion ( 103rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "2.1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "18,847,519 ( 68th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "96/km 2 (248.6/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$5,498 ( 150th )",
+            "children": []
+          },
+          {
+            "label": "$1,811 ( 154th )",
             "children": []
           }
         ]
@@ -70,16 +238,7 @@
         "label": "gini",
         "children": [
           {
-            "label": "40.3 [ 8 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic [ 6 ]",
+            "label": "40.3 medium inequality",
             "children": []
           }
         ]
@@ -88,82 +247,16 @@
         "label": "hdi",
         "children": [
           {
-            "label": "0.530 [ 9 ] low ( 169th )",
+            "label": "0.530 low ( 169th )",
             "children": []
           }
         ]
       },
       {
-        "label": "info",
+        "label": "currency",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Motto: \"Un peuple, un but, une foi\" (French) \"Wenn Askan, Benn Jubluwaay, Benn Pas-Pas\" (Wolof) [ 1 ] (English: \"One People, One Goal, One Faith\" )",
-            "children": []
-          },
-          {
-            "label": "Anthem: Le Lion rouge (English: \"The Red Lion\" )",
-            "children": []
-          },
-          {
-            "label": "Location of Senegal (dark green)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".sn",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SN",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "national_languages",
-        "children": [
-          {
-            "label": "Wolof [ a ] Serer Diola [ 3 ] Pulaar Soninke Mandinka [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "French",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "97.2% Islam 2.7% Christianity 0.1% other",
+            "label": "West African CFA franc ( XOF )",
             "children": []
           }
         ]
@@ -178,121 +271,28 @@
         ]
       },
       {
-        "label": "estimate",
+        "label": "calling_code",
         "children": [
           {
-            "label": "18,847,519 [ 5 ] ( 68th )",
+            "label": "+221",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "96/km 2 (248.6/sq mi)",
+            "label": "SN",
             "children": []
           }
         ]
       },
       {
-        "label": "dissolution_of_the_senegambia_confederation",
+        "label": "internet_tld",
         "children": [
           {
-            "label": "30 September 1989",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "20 June 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$5,498 [ 7 ] ( 150th )",
-            "children": []
-          },
-          {
-            "label": "$1,811 [ 7 ] ( 154th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Bassirou Diomaye Faye",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president_of_the_national_assembly",
-        "children": [
-          {
-            "label": "Malick Ndiaye",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ousmane Sonko",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "republic_established",
-        "children": [
-          {
-            "label": "25 November 1958",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "196,722 [ 5 ] km 2 (75,955 sq mi) ( 86th )",
-            "children": []
-          },
-          {
-            "label": "$105.428 billion [ 7 ] ( 100th )",
-            "children": []
-          },
-          {
-            "label": "$34.728 billion [ 7 ] ( 103rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "water",
-        "children": [
-          {
-            "label": "2.1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "withdrawal_from_the_mali_federation",
-        "children": [
-          {
-            "label": "20 August 1960",
+            "label": ".sn",
             "children": []
           }
         ]

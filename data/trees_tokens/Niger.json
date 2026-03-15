@@ -1,0 +1,1082 @@
+{
+  "country_name": "Niger",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Fraternit",
+            "children": []
+          },
+          {
+            "label": "Travail",
+            "children": []
+          },
+          {
+            "label": "Progr",
+            "children": []
+          },
+          {
+            "label": "s",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "Fraternity",
+            "children": []
+          },
+          {
+            "label": "Work",
+            "children": []
+          },
+          {
+            "label": "Progress",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "L",
+            "children": []
+          },
+          {
+            "label": "Honneur",
+            "children": []
+          },
+          {
+            "label": "de",
+            "children": []
+          },
+          {
+            "label": "la",
+            "children": []
+          },
+          {
+            "label": "Patrie",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "The",
+            "children": []
+          },
+          {
+            "label": "Honour",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Fatherland",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \"Fraternité, Travail, Progrès\" ( French ) \"Fraternity, Work, Progress\"",
+          "Anthem: L'Honneur de la Patrie (French) \"The Honour of the Fatherland\"",
+          "Show globe Show map of Africa"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Niamey",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "49",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "06",
+            "children": []
+          },
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "51361",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "10889",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "51361",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "10889",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Niamey 13°30′49′′N 2°06′32′′E / 13.51361°N 2.10889°E / 13.51361; 2.10889"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Hausa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Hausa"
+        ]
+      },
+      {
+        "label": "national_languages",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          },
+          {
+            "label": "Buduma",
+            "children": []
+          },
+          {
+            "label": "Fulfulde",
+            "children": []
+          },
+          {
+            "label": "Gourmanch",
+            "children": []
+          },
+          {
+            "label": "ma",
+            "children": []
+          },
+          {
+            "label": "Kanuri",
+            "children": []
+          },
+          {
+            "label": "Songhai",
+            "children": []
+          },
+          {
+            "label": "Tamasheq",
+            "children": []
+          },
+          {
+            "label": "Tassawaq",
+            "children": []
+          },
+          {
+            "label": "Tebu",
+            "children": []
+          },
+          {
+            "label": "Zarma",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic Buduma Fulfulde Gourmanchéma Kanuri Songhai Tamasheq Tassawaq Tebu Zarma"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "53",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Hausa",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Zarma",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Songhay",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "Tuareg",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Fulani",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "Kanuri",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Gurma",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Toubou",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Arab",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "53.1% Hausa 21.2% Zarma and Songhay 11.0% Tuareg 6.5% Fulani 5.9% Kanuri 0.8% Gurma 0.4% Toubou 0.4% Arab 0.9% others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "99",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Traditional",
+            "children": []
+          },
+          {
+            "label": "faiths",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "irreligion",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "99.3% Islam 0.3% Christianity 0.2% Traditional faiths 0.1% irreligion"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Nig",
+            "children": []
+          },
+          {
+            "label": "rois",
+            "children": []
+          },
+          {
+            "label": "Nigerien",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Nigérois, Nigerien"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "semi",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "under",
+            "children": []
+          },
+          {
+            "label": "a",
+            "children": []
+          },
+          {
+            "label": "military",
+            "children": []
+          },
+          {
+            "label": "junta",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary semi-presidential republic under a military junta"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Abdourahamane",
+            "children": []
+          },
+          {
+            "label": "Tchiani",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Abdourahamane Tchiani"
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Salifou",
+            "children": []
+          },
+          {
+            "label": "Modi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Salifou Modi"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Ali",
+            "children": []
+          },
+          {
+            "label": "Lamine",
+            "children": []
+          },
+          {
+            "label": "Zeine",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ali Lamine Zeine"
+        ]
+      },
+      {
+        "label": "president_of_the_state_court_of_niger",
+        "children": [
+          {
+            "label": "Abdou",
+            "children": []
+          },
+          {
+            "label": "Dan",
+            "children": []
+          },
+          {
+            "label": "Galadima",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Abdou Dan Galadima"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Council",
+            "children": []
+          },
+          {
+            "label": "for",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Safeguard",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Homeland",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Council for the Safeguard of the Homeland"
+        ]
+      },
+      {
+        "label": "republic_proclaimed",
+        "children": [
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1958",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "18 December 1958"
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1960",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3 August 1960"
+        ]
+      },
+      {
+        "label": "coup_detat",
+        "children": [
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "2023",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "26 July 2023"
+        ]
+      },
+      {
+        "label": "transitional_charter",
+        "children": [
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "March",
+            "children": []
+          },
+          {
+            "label": "2025",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "26 March 2025"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "267",
+            "children": []
+          },
+          {
+            "label": "000",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "489",
+            "children": []
+          },
+          {
+            "label": "000",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "21st",
+            "children": []
+          },
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "040",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "128th",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "870",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "123rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1,267,000 km 2 (489,000 sq mi) ( 21st )",
+          "$61.040 billion ( 128th )",
+          "$21.870 billion ( 123rd )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "02",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.02"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "342",
+            "children": []
+          },
+          {
+            "label": "784",
+            "children": []
+          },
+          {
+            "label": "56th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "26,342,784 ( 56th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "54",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "204th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "21/km 2 (54.4/sq mi) ( 204th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "100",
+            "children": []
+          },
+          {
+            "label": "176th",
+            "children": []
+          },
+          {
+            "label": "751",
+            "children": []
+          },
+          {
+            "label": "181st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$2,100 ( 176th )",
+          "$751 ( 181st )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "32.9 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "419",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "188th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.419 low ( 188th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "West",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "CFA",
+            "children": []
+          },
+          {
+            "label": "franc",
+            "children": []
+          },
+          {
+            "label": "XOF",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "West African CFA franc ( XOF )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "WAT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +1 ( WAT )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "227",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+227"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "NE",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "NE"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "ne",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".ne"
+        ]
+      }
+    ]
+  }
+}

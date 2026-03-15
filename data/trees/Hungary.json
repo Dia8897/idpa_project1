@@ -4,10 +4,18 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+36",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" Himnusz \" ( Hungarian ) (English: \"Hymn\" )",
+            "children": []
+          },
+          {
+            "label": "Location of Hungary (dark green) – in Europe (green & dark grey) – in the European Union (green)",
             "children": []
           }
         ]
@@ -16,22 +24,13 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Budapest 47°26′N 19°15′E ﻿ / ﻿ 47.433°N 19.250°E ﻿ / 47.433; 19.250",
+            "label": "Budapest 47°26′N 19°15′E / 47.433°N 19.250°E / 47.433; 19.250",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Forint ( HUF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
+        "label": "official_languages",
         "children": [
           {
             "label": "Hungarian",
@@ -49,104 +48,6 @@
         ]
       },
       {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "29.0 [ 10 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.870 [ 11 ] very high ( 46th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Himnusz \" ( Hungarian ) [ 1 ] (English: \"Hymn\" )",
-            "children": []
-          },
-          {
-            "label": "Location of Hungary (dark green) – in Europe (green & dark grey) – in the European Union (green)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".hu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "HU",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Hungarian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "religion_census",
         "children": [
           {
@@ -156,104 +57,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( CET )",
+            "label": "Hungarian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "9,603,634 [ 8 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "austriahungary",
-        "children": [
-          {
-            "label": "30 March 1867",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "battle_of_mohacs",
-        "children": [
-          {
-            "label": "29 August 1526",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "christian_kingdom",
-        "children": [
-          {
-            "label": "25 December 1000 [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "103/km 2 (266.8/sq mi) ( 111th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "golden_bull_of_1222",
-        "children": [
-          {
-            "label": "24 April 1222",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hungarian_conquest_of_the_carpathian_basin",
-        "children": [
-          {
-            "label": "862–895 [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "january_estimate",
-        "children": [
-          {
-            "label": "9,584,627 [ 7 ] ( 95th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "liberation_of_buda",
-        "children": [
-          {
-            "label": "2 September 1686",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$48,160 [ 9 ] ( 46th )",
-            "children": []
-          },
-          {
-            "label": "$25,920 [ 9 ] ( 50th )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -277,10 +93,73 @@
         ]
       },
       {
+        "label": "speaker",
+        "children": [
+          {
+            "label": "László Kövér",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hungarian_conquest_of_the_carpathian_basin",
+        "children": [
+          {
+            "label": "862–895",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "principality_of_hungary",
         "children": [
           {
-            "label": "895 [ 4 ]",
+            "label": "895",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "christian_kingdom",
+        "children": [
+          {
+            "label": "25 December 1000",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "golden_bull_of_1222",
+        "children": [
+          {
+            "label": "24 April 1222",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "battle_of_mohacs",
+        "children": [
+          {
+            "label": "29 August 1526",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "liberation_of_buda",
+        "children": [
+          {
+            "label": "2 September 1686",
             "children": []
           }
         ]
@@ -295,19 +174,19 @@
         ]
       },
       {
-        "label": "speaker",
+        "label": "austriahungary",
         "children": [
           {
-            "label": "László Kövér",
+            "label": "30 March 1867",
             "children": []
           }
         ]
       },
       {
-        "label": "summer_dst",
+        "label": "treaty_of_trianon",
         "children": [
           {
-            "label": "UTC +2 ( CEST )",
+            "label": "4 June 1920",
             "children": []
           }
         ]
@@ -325,24 +204,15 @@
         "label": "total",
         "children": [
           {
-            "label": "93,030 [ 6 ] km 2 (35,920 sq mi) ( 108th )",
+            "label": "93,030 km 2 (35,920 sq mi) ( 108th )",
             "children": []
           },
           {
-            "label": "$460.380 billion [ 9 ] ( 56th )",
+            "label": "$460.380 billion ( 56th )",
             "children": []
           },
           {
-            "label": "$247.760 billion [ 9 ] ( 56th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "treaty_of_trianon",
-        "children": [
-          {
-            "label": "4 June 1920",
+            "label": "$247.760 billion ( 56th )",
             "children": []
           }
         ]
@@ -351,7 +221,137 @@
         "label": "water",
         "children": [
           {
-            "label": "3.7 [ 6 ]",
+            "label": "3.7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "january_estimate",
+        "children": [
+          {
+            "label": "9,584,627 ( 95th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "9,603,634",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "103/km 2 (266.8/sq mi) ( 111th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$48,160 ( 46th )",
+            "children": []
+          },
+          {
+            "label": "$25,920 ( 50th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "29.0 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.870 very high ( 46th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Forint ( HUF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +2 ( CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+36",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "HU",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".hu",
             "children": []
           }
         ]

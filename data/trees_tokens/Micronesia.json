@@ -1,0 +1,152 @@
+{
+  "country_name": "Micronesia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Geographical",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Micronesia",
+            "children": []
+          },
+          {
+            "label": "cropped",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Geographical map of Micronesia (cropped)"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "517",
+            "children": []
+          },
+          {
+            "label": "464",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "517.464"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Micronesian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Micronesian"
+        ]
+      },
+      {
+        "label": "countries",
+        "children": [
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Kiribati",
+            "children": []
+          },
+          {
+            "label": "partially",
+            "children": []
+          },
+          {
+            "label": "Nauru",
+            "children": []
+          },
+          {
+            "label": "Marshall",
+            "children": []
+          },
+          {
+            "label": "Islands",
+            "children": []
+          },
+          {
+            "label": "Micronesia",
+            "children": []
+          },
+          {
+            "label": "Palau",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "5 Kiribati (partially) Nauru Marshall Islands Micronesia Palau"
+        ]
+      },
+      {
+        "label": "dependencies",
+        "children": [
+          {
+            "label": "External",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Guam",
+            "children": []
+          },
+          {
+            "label": "United",
+            "children": []
+          },
+          {
+            "label": "States",
+            "children": []
+          },
+          {
+            "label": "Northern",
+            "children": []
+          },
+          {
+            "label": "Mariana",
+            "children": []
+          },
+          {
+            "label": "Islands",
+            "children": []
+          },
+          {
+            "label": "United",
+            "children": []
+          },
+          {
+            "label": "States",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "External (2) Guam ( United States ) Northern Mariana Islands ( United States )"
+        ]
+      }
+    ]
+  }
+}

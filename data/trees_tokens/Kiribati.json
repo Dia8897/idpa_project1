@@ -1,0 +1,821 @@
+{
+  "country_name": "Kiribati",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Te",
+            "children": []
+          },
+          {
+            "label": "Mauri",
+            "children": []
+          },
+          {
+            "label": "te",
+            "children": []
+          },
+          {
+            "label": "Raoi",
+            "children": []
+          },
+          {
+            "label": "ao",
+            "children": []
+          },
+          {
+            "label": "te",
+            "children": []
+          },
+          {
+            "label": "Tabomoa",
+            "children": []
+          },
+          {
+            "label": "Gilbertese",
+            "children": []
+          },
+          {
+            "label": "Health",
+            "children": []
+          },
+          {
+            "label": "Peace",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Prosperity",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Kunan",
+            "children": []
+          },
+          {
+            "label": "Kiribati",
+            "children": []
+          },
+          {
+            "label": "Gilbertese",
+            "children": []
+          },
+          {
+            "label": "Song",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Kiribati",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: Te Mauri, te Raoi ao te Tabomoa (Gilbertese) \"Health, Peace, and Prosperity\"",
+          "Anthem: Kunan Kiribati (Gilbertese) \"Song of Kiribati\""
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Tarawa",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "173",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "467",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "173",
+            "children": []
+          },
+          {
+            "label": "033",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "467",
+            "children": []
+          },
+          {
+            "label": "173",
+            "children": []
+          },
+          {
+            "label": "033",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tarawa 1°28′N 173°2′E / 1.467°N 173.033°E / 1.467; 173.033"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Gilbertese",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English Gilbertese"
+        ]
+      },
+      {
+        "label": "ethnic_groups_census",
+        "children": [
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Gilbertese",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "95.7% Gilbertese 4.3% other"
+        ]
+      },
+      {
+        "label": "religion_census",
+        "children": [
+          {
+            "label": "96",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "58",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "Catholic",
+            "children": []
+          },
+          {
+            "label": "Church",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Uniting",
+            "children": []
+          },
+          {
+            "label": "Church",
+            "children": []
+          },
+          {
+            "label": "16",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Bah",
+            "children": []
+          },
+          {
+            "label": "Faith",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "none",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "96.2% Christianity 58.9% Catholic Church 21.2% Uniting Church 16.1% other Christian 2.1% Bahá'í Faith 1.7% other / none"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "I",
+            "children": []
+          },
+          {
+            "label": "Kiribati",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "I-Kiribati"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "with",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          },
+          {
+            "label": "executive",
+            "children": []
+          },
+          {
+            "label": "president",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary republic with an executive president"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Taneti",
+            "children": []
+          },
+          {
+            "label": "Maamau",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Taneti Maamau"
+        ]
+      },
+      {
+        "label": "vicepresident",
+        "children": [
+          {
+            "label": "Teuea",
+            "children": []
+          },
+          {
+            "label": "Toatu",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Teuea Toatu"
+        ]
+      },
+      {
+        "label": "speaker_of_the_house_of_assembly",
+        "children": [
+          {
+            "label": "Willie",
+            "children": []
+          },
+          {
+            "label": "Tokataake",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Willie Tokataake"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Assembly"
+        ]
+      },
+      {
+        "label": "granted",
+        "children": [
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1979",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "12 July 1979"
+        ]
+      },
+      {
+        "label": "treaty_of_tarawa",
+        "children": [
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1979",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "20 September 1979"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "811",
+            "children": []
+          },
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "313",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "172nd",
+            "children": []
+          },
+          {
+            "label": "297",
+            "children": []
+          },
+          {
+            "label": "million",
+            "children": []
+          },
+          {
+            "label": "248",
+            "children": []
+          },
+          {
+            "label": "million",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "811.19 km 2 (313.20 sq mi) ( 172nd )",
+          "$297 million",
+          "$248 million"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "116",
+            "children": []
+          },
+          {
+            "label": "545",
+            "children": []
+          },
+          {
+            "label": "192nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "116,545 ( 192nd )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "119",
+            "children": []
+          },
+          {
+            "label": "438",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "119,438"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "149",
+            "children": []
+          },
+          {
+            "label": "64",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "387",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "149.64/km 2 (387.6/sq mi)"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "381",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "989",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$2,381",
+          "$1,989"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "27.8 low inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "644",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "140th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.644 medium ( 140th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Australian",
+            "children": []
+          },
+          {
+            "label": "dollar",
+            "children": []
+          },
+          {
+            "label": "AUD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Australian dollar ($) ( AUD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +12 , +13 , +14"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "686",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+686"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "KI",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "KI"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "ki",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".ki"
+        ]
+      }
+    ]
+  }
+}

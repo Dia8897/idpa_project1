@@ -4,118 +4,19 @@
     "label": "country",
     "children": [
       {
+        "label": "quechua",
+        "children": [
+          {
+            "label": "Piruw Ripuwlika",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "aymara",
         "children": [
           {
             "label": "Piruwxa Ripuwlika",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+51",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Lima 12°2.6′S 77°1.7′W ﻿ / ﻿ 12.0433°S 77.0283°W ﻿ / -12.0433; -77.0283",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "coofficial_languages",
-        "children": [
-          {
-            "label": "Quechua Aymara Other Indigenous languages",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Peruvian sol ( PEN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy ( CE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Peruvian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "60.20% Mestizo 25.75% Native 5.89% White 3.57% Black 0.16% East Asian 1.10% other 3.32% no answer",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "40.2 [ 10 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic [ 2 ] [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.794 [ 11 ] high ( 79th )",
             "children": []
           }
         ]
@@ -146,28 +47,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".pe",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PE",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Congress of the Republic",
+            "label": "Lima 12°2.6′S 77°1.7′W / 12.0433°S 77.0283°W / -12.0433; -77.0283",
             "children": []
           }
         ]
@@ -182,10 +65,19 @@
         ]
       },
       {
-        "label": "quechua",
+        "label": "coofficial_languages",
         "children": [
           {
-            "label": "Piruw Ripuwlika",
+            "label": "Quechua Aymara Other Indigenous languages",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "60.20% Mestizo 25.75% Native 5.89% White 3.57% Black 0.16% East Asian 1.10% other 3.32% no answer",
             "children": []
           }
         ]
@@ -200,68 +92,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −05:00 ( PET )",
+            "label": "Peruvian",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "34,352,720 [ 5 ] ( 43rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "consolidated",
-        "children": [
-          {
-            "label": "9 December 1824",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "28 July 1821",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "23/km 2 (59.6/sq mi) ( 198th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_vice_president",
-        "children": [
-          {
-            "label": "Vacant",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$18,980 [ 7 ] ( 99th )",
-            "children": []
-          },
-          {
-            "label": "$9,260 [ 9 ] ( 86th )",
+            "label": "Unitary semi-presidential republic",
             "children": []
           }
         ]
@@ -276,10 +119,10 @@
         ]
       },
       {
-        "label": "president_of_congress",
+        "label": "first_vice_president",
         "children": [
           {
-            "label": "Fernando Rospigliosi (acting)",
+            "label": "Vacant",
             "children": []
           }
         ]
@@ -289,6 +132,42 @@
         "children": [
           {
             "label": "Denisse Miralles",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president_of_congress",
+        "children": [
+          {
+            "label": "Fernando Rospigliosi (acting)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Congress of the Republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "28 July 1821",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "consolidated",
+        "children": [
+          {
+            "label": "9 December 1824",
             "children": []
           }
         ]
@@ -306,15 +185,15 @@
         "label": "total",
         "children": [
           {
-            "label": "1,285,216 [ 4 ] [ 5 ] km 2 (496,225 sq mi) ( 19th )",
+            "label": "1,285,216 km 2 (496,225 sq mi) ( 19th )",
             "children": []
           },
           {
-            "label": "$653.090 billion [ 6 ] ( 47th )",
+            "label": "$653.090 billion ( 47th )",
             "children": []
           },
           {
-            "label": "$318.480 billion [ 8 ] ( 47th )",
+            "label": "$318.480 billion ( 47th )",
             "children": []
           }
         ]
@@ -324,6 +203,127 @@
         "children": [
           {
             "label": "0.41",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "34,352,720 ( 43rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "23/km 2 (59.6/sq mi) ( 198th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$18,980 ( 99th )",
+            "children": []
+          },
+          {
+            "label": "$9,260 ( 86th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "40.2 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.794 high ( 79th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Peruvian sol ( PEN )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −05:00 ( PET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy ( CE )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+51",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "PE",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".pe",
             "children": []
           }
         ]

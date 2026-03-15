@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+53",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Havana 23°8′N 82°23′W ﻿ / ﻿ 23.133°N 82.383°W ﻿ / 23.133; -82.383",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Cuban peso ( CUP )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Cuban",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "64.12% White 26.62% Mixed 9.26% Black",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2015 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "38.0 [ 11 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary communist republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.762 [ 12 ] high ( 97th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -110,11 +11,11 @@
             "children": []
           },
           {
-            "label": "Motto: Patria o Muerte, Venceremos (\"Homeland or Death, We Shall Overcome!\") [ 1 ]",
+            "label": "Motto: Patria o Muerte, Venceremos (\"Homeland or Death, We Shall Overcome!\")",
             "children": []
           },
           {
-            "label": "Anthem: La Bayamesa (\"The Bayamo Song\") [ 2 ]",
+            "label": "Anthem: La Bayamesa (\"The Bayamo Song\")",
             "children": []
           },
           {
@@ -128,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".cu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CU",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly of People's Power",
+            "label": "Havana 23°8′N 82°23′W / 23.133°N 82.383°W / 23.133; -82.383",
             "children": []
           }
         ]
@@ -164,6 +47,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "64.12% White 26.62% Mixed 9.26% Black",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -173,64 +65,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −05:00 ( CST )",
+            "label": "Cuban",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "11,089,511 [ 7 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "9,748,007 [ 6 ] ( 95th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "cuban_revolution",
-        "children": [
-          {
-            "label": "26 July 1953 – 1 January 1959",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "10 April 2019",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "10 October 1868",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "89.8/km 2 (232.6/sq mi) ( 125th )",
+            "label": "Unitary communist republic",
             "children": []
           }
         ]
@@ -245,14 +92,19 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "vice_president",
         "children": [
           {
-            "label": "$22,237 [ 8 ] [ 9 ]",
+            "label": "Salvador Valdés Mesa",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
           {
-            "label": "$22,957 [ 10 ] ( 60th )",
+            "label": "Manuel Marrero Cruz",
             "children": []
           }
         ]
@@ -267,10 +119,28 @@
         ]
       },
       {
-        "label": "prime_minister",
+        "label": "legislature",
         "children": [
           {
-            "label": "Manuel Marrero Cruz",
+            "label": "National Assembly of People's Power",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declaration_of_independence",
+        "children": [
+          {
+            "label": "10 October 1868",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "war_of_independence",
+        "children": [
+          {
+            "label": "24 February 1895",
             "children": []
           }
         ]
@@ -294,10 +164,19 @@
         ]
       },
       {
-        "label": "summer_dst",
+        "label": "cuban_revolution",
         "children": [
           {
-            "label": "UTC −04:00 ( CDT )",
+            "label": "26 July 1953 – 1 January 1959",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "10 April 2019",
             "children": []
           }
         ]
@@ -306,33 +185,15 @@
         "label": "total",
         "children": [
           {
-            "label": "110,860 [ 5 ] km 2 (42,800 sq mi) ( 104th )",
+            "label": "110,860 km 2 (42,800 sq mi) ( 104th )",
             "children": []
           },
           {
-            "label": "$254.865 billion [ 8 ]",
+            "label": "$254.865 billion",
             "children": []
           },
           {
-            "label": "$252.063 billion [ 10 ] ( 59th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Salvador Valdés Mesa",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "war_of_independence",
-        "children": [
-          {
-            "label": "24 February 1895",
+            "label": "$252.063 billion ( 59th )",
             "children": []
           }
         ]
@@ -342,6 +203,145 @@
         "children": [
           {
             "label": "0.94",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "9,748,007 ( 95th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "11,089,511",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "89.8/km 2 (232.6/sq mi) ( 125th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2015 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$22,237",
+            "children": []
+          },
+          {
+            "label": "$22,957 ( 60th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "38.0 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.762 high ( 97th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Cuban peso ( CUP )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −05:00 ( CST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC −04:00 ( CDT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+53",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "CU",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".cu",
             "children": []
           }
         ]

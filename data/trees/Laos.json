@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+856",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Vientiane 17°58′N 102°36′E ﻿ / ﻿ 17.967°N 102.600°E ﻿ / 17.967; 102.600",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Kip (₭) ( LAK )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Laotian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "53.2% Lao 11% Khmu 9.2% Hmong 3.4% Phu Thai 3.1% Tai 2.5% Makong 2.2% Katang 2.0% Lue 1.8% Akha 11.6% other [ a ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "36.4 [ 8 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary communist state [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.617 [ 9 ] medium ( 147th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -113,34 +23,16 @@
             "children": []
           },
           {
-            "label": "^ Including over 100 smaller ethnic groups ^ \"The State respects and protects all lawful activities of Buddhists and of followers of other religions, [and] mobilises and encourages Buddhist monks and novices as well as the priests of other religions to participate in activities that are beneficial to the country and people.\" [ 3 ]",
+            "label": "^ Including over 100 smaller ethnic groups ^ \"The State respects and protects all lawful activities of Buddhists and of followers of other religions, mobilises and encourages Buddhist monks and novices as well as the priests of other religions to participate in activities that are beneficial to the country and people.\"",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".la",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Vientiane 17°58′N 102°36′E / 17.967°N 102.600°E / 17.967; 102.600",
             "children": []
           }
         ]
@@ -155,73 +47,46 @@
         ]
       },
       {
-        "label": "religion",
-        "children": [
-          {
-            "label": "66.0% Buddhism [ b ] 30.7% Tai folk religion 1.5% Christianity 1.8% other / none [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "spoken_languages",
         "children": [
           {
-            "label": "Lao Khmu Hmong Phu Thai Tai [ 1 ]",
+            "label": "Lao Khmu Hmong Phu Thai Tai",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "UTC +7 ( ICT )",
+            "label": "53.2% Lao 11% Khmu 9.2% Hmong 3.4% Phu Thai 3.1% Tai 2.5% Makong 2.2% Katang 2.0% Lue 1.8% Akha 11.6% other",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "religion",
         "children": [
           {
-            "label": "7,953,556 [ 6 ] ( 103rd )",
+            "label": "66.0% Buddhism 30.7% Tai folk religion 1.5% Christianity 1.8% other / none",
             "children": []
           }
         ]
       },
       {
-        "label": "chief_justice",
+        "label": "demonyms",
         "children": [
           {
-            "label": "Viengthong Siphandone",
+            "label": "Laotian",
             "children": []
           }
         ]
       },
       {
-        "label": "communist_state_established",
+        "label": "government",
         "children": [
           {
-            "label": "2 December 1975",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "33.21/km 2 (86.0/sq mi) ( 183rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "french_protectorate",
-        "children": [
-          {
-            "label": "1893–1953",
+            "label": "Unitary communist state",
             "children": []
           }
         ]
@@ -236,10 +101,46 @@
         ]
       },
       {
-        "label": "independence_from_france",
+        "label": "prime_minister",
         "children": [
           {
-            "label": "22 October 1953",
+            "label": "Sonexay Siphandone",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Bounthong Chitmany Pany Yathotou",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president_of_the_national_assembly",
+        "children": [
+          {
+            "label": "Saysomphone Phomvihane",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Viengthong Siphandone",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
             "children": []
           }
         ]
@@ -263,58 +164,28 @@
         ]
       },
       {
+        "label": "vassals_of_siam",
+        "children": [
+          {
+            "label": "1778–1893",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "french_protectorate",
+        "children": [
+          {
+            "label": "1893–1953",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "lao_issara",
         "children": [
           {
             "label": "1945–1949",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$10,120 [ 7 ] ( 126th )",
-            "children": []
-          },
-          {
-            "label": "$2,100 [ 7 ] ( 150th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president_of_the_national_assembly",
-        "children": [
-          {
-            "label": "Saysomphone Phomvihane",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Sonexay Siphandone",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "236,800 km 2 (91,400 sq mi) [ 6 ] ( 82nd )",
-            "children": []
-          },
-          {
-            "label": "$78.850 billion [ 7 ] ( 108th )",
-            "children": []
-          },
-          {
-            "label": "$16.320 billion [ 7 ] ( 138th )",
             "children": []
           }
         ]
@@ -329,19 +200,36 @@
         ]
       },
       {
-        "label": "vassals_of_siam",
+        "label": "independence_from_france",
         "children": [
           {
-            "label": "1778–1893",
+            "label": "22 October 1953",
             "children": []
           }
         ]
       },
       {
-        "label": "vice_president",
+        "label": "communist_state_established",
         "children": [
           {
-            "label": "Bounthong Chitmany Pany Yathotou",
+            "label": "2 December 1975",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "236,800 km 2 (91,400 sq mi) ( 82nd )",
+            "children": []
+          },
+          {
+            "label": "$78.850 billion ( 108th )",
+            "children": []
+          },
+          {
+            "label": "$16.320 billion ( 138th )",
             "children": []
           }
         ]
@@ -351,6 +239,118 @@
         "children": [
           {
             "label": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "7,953,556 ( 103rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "33.21/km 2 (86.0/sq mi) ( 183rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$10,120 ( 126th )",
+            "children": []
+          },
+          {
+            "label": "$2,100 ( 150th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "36.4 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.617 medium ( 147th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Kip (₭) ( LAK )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +7 ( ICT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+856",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "LA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".la",
             "children": []
           }
         ]

@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+685",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Apia 13°50′00″S 171°45′44″W ﻿ / ﻿ 13.83333°S 171.76222°W ﻿ / -13.83333; -171.76222",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Tālā (WS $ [ b ] ) ( WST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Samoan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "92.6% Samoans 7.0% Euronesians 0.3% Europeans 0.1% others [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "38.7 [ 6 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.708 [ 7 ] high ( 122nd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -126,34 +27,16 @@
             "children": []
           },
           {
-            "label": "^ Head of state ^ Symbols SAT, ST or T are in use as well. The terms tālā and sene are translations of the English words dollar and cent in the Samoan language . ^ Since 31 December 2011. [ 8 ]",
+            "label": "^ Head of state ^ Symbols SAT, ST or T are in use as well. The terms tālā and sene are translations of the English words dollar and cent in the Samoan language . ^ Since 31 December 2011.",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ws",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "WS",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Legislative Assembly",
+            "label": "Apia 13°50′00′′S 171°45′44′′W / 13.83333°S 171.76222°W / -13.83333; -171.76222",
             "children": []
           }
         ]
@@ -168,64 +51,37 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "92.6% Samoans 7.0% Euronesians 0.3% Europeans 0.1% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
-            "label": "97.9% Christianity ( official ) [ 2 ] 54.9% Protestantism 18.8% Catholicism 16.9% Mormonism 7.3% other Christian 1.7% no religion 0.4% others [ 3 ]",
+            "label": "97.9% Christianity ( official ) 54.9% Protestantism 18.8% Catholicism 16.9% Mormonism 7.3% other Christian 1.7% no religion 0.4% others",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +13 [ c ] ( WST )",
+            "label": "Samoan",
             "children": []
           }
         ]
       },
       {
-        "label": "assembly_speaker",
+        "label": "government",
         "children": [
           {
-            "label": "Auapaʻau Mulipola Aloitafua",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "colonisation_by_germany",
-        "children": [
-          {
-            "label": "1 March 1900",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "70/km 2 (181.3/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "league_mandate",
-        "children": [
-          {
-            "label": "17 December 1920",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "november_census",
-        "children": [
-          {
-            "label": "205,557 [ 3 ] ( 176th )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -240,28 +96,6 @@
         ]
       },
       {
-        "label": "occupied_by_new_zealand",
-        "children": [
-          {
-            "label": "30 August 1914",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$5,962 [ 5 ]",
-            "children": []
-          },
-          {
-            "label": "$4,420 [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "prime_minister",
         "children": [
           {
@@ -271,18 +105,19 @@
         ]
       },
       {
-        "label": "total",
+        "label": "assembly_speaker",
         "children": [
           {
-            "label": "2,831 [ 4 ] km 2 (1,093 sq mi) ( 167th )",
+            "label": "Auapaʻau Mulipola Aloitafua",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
           {
-            "label": "$1.225 billion [ 5 ]",
-            "children": []
-          },
-          {
-            "label": "$908.561 million [ 5 ]",
+            "label": "Legislative Assembly",
             "children": []
           }
         ]
@@ -306,10 +141,63 @@
         ]
       },
       {
+        "label": "colonisation_by_germany",
+        "children": [
+          {
+            "label": "1 March 1900",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "occupied_by_new_zealand",
+        "children": [
+          {
+            "label": "30 August 1914",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "league_mandate",
+        "children": [
+          {
+            "label": "17 December 1920",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "un_trusteeship",
         "children": [
           {
             "label": "13 December 1946",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "western_samoa_act",
+        "children": [
+          {
+            "label": "1 January 1962",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "2,831 km 2 (1,093 sq mi) ( 167th )",
+            "children": []
+          },
+          {
+            "label": "$1.225 billion",
+            "children": []
+          },
+          {
+            "label": "$908.561 million",
             "children": []
           }
         ]
@@ -324,10 +212,122 @@
         ]
       },
       {
-        "label": "western_samoa_act",
+        "label": "november_census",
         "children": [
           {
-            "label": "1 January 1962",
+            "label": "205,557 ( 176th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "70/km 2 (181.3/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$5,962",
+            "children": []
+          },
+          {
+            "label": "$4,420",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "38.7 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.708 high ( 122nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Tālā (WS $ ) ( WST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +13 ( WST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+685",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "WS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ws",
             "children": []
           }
         ]

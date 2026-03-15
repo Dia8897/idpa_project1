@@ -4,10 +4,22 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+1",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: \" In God We Trust \" Other traditional mottos: \" E pluribus unum \" ( Latin ) \"Out of many, one\" \" Annuit cœptis \" ( Latin ) \"Providence favors our undertakings\" \" Novus ordo seclorum \" ( Latin ) \"New order of the ages\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" The Star-Spangled Banner \"",
+            "children": []
+          },
+          {
+            "label": "Show globe ( states and D.C. only) Show the U.S., its territories , and the Compacts of Free Association states Show territories with boundaries of U.S. exclusive economic zone",
             "children": []
           }
         ]
@@ -16,34 +28,25 @@
         "label": "capital",
         "children": [
           {
-            "label": "Washington, D.C. 38°53′N 77°1′W ﻿ / ﻿ 38.883°N 77.017°W ﻿ / 38.883; -77.017",
+            "label": "Washington, D.C. 38°53′N 77°1′W / 38.883°N 77.017°W / 38.883; -77.017",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "largest_city",
         "children": [
           {
-            "label": "U.S. dollar ( $ ) ( USD )",
+            "label": "New York City 40°43′N 74°0′W / 40.717°N 74.000°W / 40.717; -74.000",
             "children": []
           }
         ]
       },
       {
-        "label": "date_format",
+        "label": "official_languages",
         "children": [
           {
-            "label": "mm / dd / yyyy [ h ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "American [ 10 ] [ b ]",
+            "label": "English",
             "children": []
           }
         ]
@@ -58,10 +61,216 @@
         ]
       },
       {
+        "label": "religion",
+        "children": [
+          {
+            "label": "65% Christianity 32% Protestantism 20% Catholicism 12% other Christian 1% Mormonism 24% unaffiliated 2% Judaism 6% other religion 3% unanswered",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "American",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Donald Trump",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "JD Vance",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "house_speaker",
+        "children": [
+          {
+            "label": "Mike Johnson",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "John Roberts",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Congress",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declaration",
+        "children": [
+          {
+            "label": "July 4, 1776 ; 249 years ago ( 1776-07-04 )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "confederation",
+        "children": [
+          {
+            "label": "March 1, 1781 ( 1781-03-01 )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognition",
+        "children": [
+          {
+            "label": "September 3, 1783 ( 1783-09-03 )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution",
+        "children": [
+          {
+            "label": "March 4, 1789 ( 1789-03-04 )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total_area",
+        "children": [
+          {
+            "label": "3,796,742 sq mi (9,833,520 km 2 ) ( 3rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "7.0 (2010)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "land_area",
+        "children": [
+          {
+            "label": "3,531,905 sq mi (9,147,590 km 2 ) (3rd)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "341,784,857",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "331,449,281 ( 3rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "96.8/sq mi (37.4/km 2 ) ( 180th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "$30.616 trillion ( 2nd )",
+            "children": []
+          },
+          {
+            "label": "$30.616 trillion ( 1st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$89,599 ( 10th )",
+            "children": []
+          },
+          {
+            "label": "$89,599 ( 8th )",
             "children": []
           }
         ]
@@ -79,16 +288,7 @@
         "label": "gini",
         "children": [
           {
-            "label": "41.8 [ 16 ] [ f ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal presidential republic",
+            "label": "41.8 medium inequality",
             "children": []
           }
         ]
@@ -97,82 +297,16 @@
         "label": "hdi",
         "children": [
           {
-            "label": "0.938 [ 17 ] very high ( 17th )",
+            "label": "0.938 very high ( 17th )",
             "children": []
           }
         ]
       },
       {
-        "label": "info",
+        "label": "currency",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Motto: \" In God We Trust \" [ 1 ] Other traditional mottos: [ 2 ] \" E pluribus unum \" ( Latin ) \"Out of many, one\" \" Annuit cœptis \" ( Latin ) \"Providence favors our undertakings\" \" Novus ordo seclorum \" ( Latin ) \"New order of the ages\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" The Star-Spangled Banner \" [ 3 ]",
-            "children": []
-          },
-          {
-            "label": "Show globe ( states and D.C. only) Show the U.S., its territories , and the Compacts of Free Association states Show territories with boundaries of U.S. exclusive economic zone",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".com , .us [ 18 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "US",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "largest_city",
-        "children": [
-          {
-            "label": "New York City 40°43′N 74°0′W ﻿ / ﻿ 40.717°N 74.000°W ﻿ / 40.717; -74.000",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Congress",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "English [ a ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "65% Christianity 32% Protestantism 20% Catholicism 12% other Christian 1% Mormonism 24% unaffiliated 2% Judaism 6% other religion 3% unanswered",
+            "label": "U.S. dollar ( $ ) ( USD )",
             "children": []
           }
         ]
@@ -187,180 +321,46 @@
         ]
       },
       {
-        "label": "census",
-        "children": [
-          {
-            "label": "331,449,281 [ 14 ] [ d ] ( 3rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "341,784,857 [ 13 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "John Roberts",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "confederation",
-        "children": [
-          {
-            "label": "March 1, 1781 ( 1781-03-01 )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution",
-        "children": [
-          {
-            "label": "March 4, 1789 ( 1789-03-04 )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration",
-        "children": [
-          {
-            "label": "July 4, 1776 ; 249 years ago ( 1776-07-04 )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "96.8/sq mi (37.4/km 2 ) ( 180th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "house_speaker",
-        "children": [
-          {
-            "label": "Mike Johnson",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "land_area",
-        "children": [
-          {
-            "label": "3,531,905 sq mi (9,147,590 km 2 ) (3rd)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$89,599 [ 15 ] ( 10th )",
-            "children": []
-          },
-          {
-            "label": "$89,599 [ 15 ] ( 8th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Donald Trump",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "recognition",
-        "children": [
-          {
-            "label": "September 3, 1783 ( 1783-09-03 )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
-            "label": "UTC −4 to −10 [ g ]",
+            "label": "UTC −4 to −10",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "date_format",
         "children": [
           {
-            "label": "$30.616 trillion [ 15 ] [ e ] ( 2nd )",
-            "children": []
-          },
-          {
-            "label": "$30.616 trillion [ 15 ] ( 1st )",
+            "label": "mm / dd / yyyy",
             "children": []
           }
         ]
       },
       {
-        "label": "total_area",
+        "label": "calling_code",
         "children": [
           {
-            "label": "3,796,742 sq mi (9,833,520 km 2 ) [ 12 ] [ c ] ( 3rd )",
+            "label": "+1",
             "children": []
           }
         ]
       },
       {
-        "label": "upper_house",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "Senate",
+            "label": "US",
             "children": []
           }
         ]
       },
       {
-        "label": "vice_president",
+        "label": "internet_tld",
         "children": [
           {
-            "label": "JD Vance",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "water",
-        "children": [
-          {
-            "label": "7.0 [ 11 ] (2010)",
+            "label": ".com , .us",
             "children": []
           }
         ]

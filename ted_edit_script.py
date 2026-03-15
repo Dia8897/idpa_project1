@@ -1,13 +1,17 @@
+import argparse
 import json
 import os
+from pathlib import Path
 from functools import lru_cache
 
-TREES_DIR = "data/trees"
-LOG_DIR = "data/logs"
-os.makedirs(LOG_DIR, exist_ok=True)
+DEFAULT_TREE_DIR = Path("data/trees_tokens")  # tokenized trees for better content match
+LOG_DIR = Path("data/logs")
+DIFF_DIR = Path("data/diffs")
+LOG_DIR.mkdir(parents=True, exist_ok=True)
+DIFF_DIR.mkdir(parents=True, exist_ok=True)
 
 
-def load_tree(path: str):
+def load_tree(path: Path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)["tree"]  # {"label":..., "children":[...]}
 
@@ -112,7 +116,13 @@ def align_children(uc, vc):
 
 # ---------- Build operations ----------
 def nj_edit_script(t1: dict, t2: dict):
-    ops = []
+    ops: list = []
+
+    def clone_node(node: dict) -> dict:
+        return {
+            "label": node_label(node),
+            "children": [clone_node(c) for c in node.get("children", [])],
+        }
 
     def add_ins(path, node):
         ops.append(
@@ -122,6 +132,7 @@ def nj_edit_script(t1: dict, t2: dict):
                 "old": None,
                 "new": subtree_signature(node),
                 "node_is_leaf": is_leaf(node),
+                "subtree": clone_node(node),
             }
         )
 
@@ -133,6 +144,7 @@ def nj_edit_script(t1: dict, t2: dict):
                 "old": subtree_signature(node),
                 "new": None,
                 "node_is_leaf": is_leaf(node),
+                "subtree": clone_node(node),
             }
         )
 
@@ -144,6 +156,7 @@ def nj_edit_script(t1: dict, t2: dict):
                 "old": subtree_signature(old),
                 "new": subtree_signature(new),
                 "node_is_leaf": True,
+                "subtree": clone_node(new),
             }
         )
 
@@ -235,7 +248,7 @@ def write_section(f, title: str, ops):
         f.write("\n")
 
 
-def save_ops(ops, out_path, source_name: str, target_name: str):
+def save_ops_text(ops, out_path, source_name: str, target_name: str):
     del_ops, ins_ops, upd_ops = group_ops(ops)
     total = len(ops)
 
@@ -260,6 +273,29 @@ def save_ops(ops, out_path, source_name: str, target_name: str):
         write_section(f, "PHASE 3 - UPDATE SHARED DATA", upd_ops)
 
 
+def save_ops_json(ops, out_path: Path, source_name: str, target_name: str, tree_dir: Path):
+    del_ops, ins_ops, upd_ops = group_ops(ops)
+    payload = {
+        "algorithm": "Nierman-Jagadish",
+        "tree_dir": str(tree_dir),
+        "source": source_name,
+        "target": target_name,
+        "operation_counts": {
+            "total": len(ops),
+            "delete": len(del_ops),
+            "insert": len(ins_ops),
+            "update": len(upd_ops),
+        },
+        "operations": ops,  # already structured dicts with path/old/new
+        "execution_order": {
+            "delete_first": True,
+            "insert_second": True,
+            "update_third": True,
+        },
+    }
+    out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
 def summarize_ops(ops, max_show=20):
     del_ops, ins_ops, upd_ops = group_ops(ops)
     print("Ops:", len(ops), "| INS:", len(ins_ops), "DEL:", len(del_ops), "UPD:", len(upd_ops))
@@ -275,15 +311,46 @@ def summarize_ops(ops, max_show=20):
 
 
 if __name__ == "__main__":
-    A = "Lebanon.json"
-    B = "Switzerland.json"  # change as needed
+    parser = argparse.ArgumentParser(description="Compute TED diff between two country trees.")
+    parser.add_argument("source", nargs="?", default="Lebanon.json", help="Source tree file name or path")
+    parser.add_argument("target", nargs="?", default="Switzerland.json", help="Target tree file name or path")
+    parser.add_argument(
+        "--tree-dir",
+        default=DEFAULT_TREE_DIR,
+        type=Path,
+        help="Directory containing tree JSON files (default: data/trees_tokens)",
+    )
+    parser.add_argument(
+        "--out-dir",
+        default=DIFF_DIR,
+        type=Path,
+        help="Directory to write diff outputs (text + JSON). Default: data/diffs",
+    )
+    parser.add_argument("--max-show", type=int, default=30, help="How many sample ops to print to console.")
+    args = parser.parse_args()
 
-    t1 = load_tree(os.path.join(TREES_DIR, A))
-    t2 = load_tree(os.path.join(TREES_DIR, B))
+    tree_dir = Path(args.tree_dir)
+    src_name = Path(args.source).name if args.source.endswith(".json") else f"{args.source}.json"
+    tgt_name = Path(args.target).name if args.target.endswith(".json") else f"{args.target}.json"
+
+    t1_path = tree_dir / src_name
+    t2_path = tree_dir / tgt_name
+    if not t1_path.exists() or not t2_path.exists():
+        raise SystemExit(f"Missing tree file(s): {t1_path} or {t2_path}")
+
+    t1 = load_tree(t1_path)
+    t2 = load_tree(t2_path)
 
     ops = nj_edit_script(t1, t2)
-    summarize_ops(ops, max_show=30)
+    summarize_ops(ops, max_show=args.max_show)
 
-    out_file = os.path.join(LOG_DIR, f"nj_edit_script_{A[:-5]}_TO_{B[:-5]}.txt")
-    save_ops(ops, out_file, source_name=A[:-5], target_name=B[:-5])
-    print("\nSaved full script to:", out_file)
+    stem = f"nj_edit_script_{Path(src_name).stem}_TO_{Path(tgt_name).stem}"
+    args.out_dir.mkdir(parents=True, exist_ok=True)
+    txt_out = args.out_dir / f"{stem}.txt"
+    json_out = args.out_dir / f"{stem}.json"
+
+    save_ops_text(ops, txt_out, source_name=Path(src_name).stem, target_name=Path(tgt_name).stem)
+    save_ops_json(ops, json_out, source_name=Path(src_name).stem, target_name=Path(tgt_name).stem, tree_dir=tree_dir)
+
+    print(f"\nSaved full script to: {txt_out}")
+    print(f"Saved JSON diff to : {json_out}")

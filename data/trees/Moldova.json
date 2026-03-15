@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+373",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Chișinău 47°0′N 28°55′E ﻿ / ﻿ 47.000°N 28.917°E ﻿ / 47.000; 28.917",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Moldovan leu ( MDL )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Moldovan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups_excl_transnistria",
-        "children": [
-          {
-            "label": "76.7% Moldovans [ a ] 8.0% Romanians [ a ] 5.1% Ukrainians 4.0% Gagauz 3.4% Russians 1.6% Bulgarians 1.1% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "25.7 [ 11 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.785 [ 12 ] high ( 86th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -119,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".md",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MD",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Chișinău 47°0′N 28°55′E / 47.000°N 28.917°E / 47.000; 28.917",
             "children": []
           }
         ]
@@ -164,6 +56,15 @@
         ]
       },
       {
+        "label": "ethnic_groups_excl_transnistria",
+        "children": [
+          {
+            "label": "76.7% Moldovans 8.0% Romanians 5.1% Ukrainians 4.0% Gagauz 3.4% Russians 1.6% Bulgarians 1.1% other",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion_excl_transnistria",
         "children": [
           {
@@ -173,122 +74,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +2 ( EET )",
+            "label": "Moldovan",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "2,409,207 [ 8 ] [ c ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "bessarabia_governorate",
-        "children": [
-          {
-            "label": "1812",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution_adopted",
-        "children": [
-          {
-            "label": "29 July 1994",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "78.5/km 2 (203.3/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "excl_transnistria",
-        "children": [
-          {
-            "label": "30,319 km 2 (11,706 sq mi) [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "incl_transnistria",
-        "children": [
-          {
-            "label": "33,843 [ 7 ] km 2 (13,067 sq mi) ( 135th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_soviet_union",
-        "children": [
-          {
-            "label": "27 August 1991 a",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "january_estimate",
-        "children": [
-          {
-            "label": "2,381,325 [ 9 ] [ c ] ( 140th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "moldavian_assr",
-        "children": [
-          {
-            "label": "12 October 1924",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "moldavian_democratic_republic",
-        "children": [
-          {
-            "label": "15 December 1917",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "moldavian_ssr",
-        "children": [
-          {
-            "label": "2 August 1940",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$20,731 [ 10 ] ( 93th )",
-            "children": []
-          },
-          {
-            "label": "$8,984 [ 10 ] ( 89th )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -303,6 +101,15 @@
         ]
       },
       {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Alexandru Munteanu",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "president_of_the_parliament",
         "children": [
           {
@@ -312,10 +119,10 @@
         ]
       },
       {
-        "label": "prime_minister",
+        "label": "legislature",
         "children": [
           {
-            "label": "Alexandru Munteanu",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -330,32 +137,19 @@
         ]
       },
       {
-        "label": "summer_dst",
+        "label": "bessarabia_governorate",
         "children": [
           {
-            "label": "UTC +3 ( EEST )",
+            "label": "1812",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "moldavian_democratic_republic",
         "children": [
           {
-            "label": "$48.511 billion [ 10 ] [ c ] ( 135th )",
-            "children": []
-          },
-          {
-            "label": "$21.024 billion [ 10 ] [ c ] ( 129th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "transnistria_war",
-        "children": [
-          {
-            "label": "2 November 1990",
+            "label": "15 December 1917",
             "children": []
           }
         ]
@@ -370,10 +164,216 @@
         ]
       },
       {
+        "label": "moldavian_assr",
+        "children": [
+          {
+            "label": "12 October 1924",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "moldavian_ssr",
+        "children": [
+          {
+            "label": "2 August 1940",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "transnistria_war",
+        "children": [
+          {
+            "label": "2 November 1990",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_the_soviet_union",
+        "children": [
+          {
+            "label": "27 August 1991 a",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution_adopted",
+        "children": [
+          {
+            "label": "29 July 1994",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "incl_transnistria",
+        "children": [
+          {
+            "label": "33,843 km 2 (13,067 sq mi) ( 135th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "1.4 (incl. Transnistria)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "excl_transnistria",
+        "children": [
+          {
+            "label": "30,319 km 2 (11,706 sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "january_estimate",
+        "children": [
+          {
+            "label": "2,381,325 ( 140th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "2,409,207",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "78.5/km 2 (203.3/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "$48.511 billion ( 135th )",
+            "children": []
+          },
+          {
+            "label": "$21.024 billion ( 129th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$20,731 ( 93th )",
+            "children": []
+          },
+          {
+            "label": "$8,984 ( 89th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "25.7 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.785 high ( 86th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Moldovan leu ( MDL )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( EET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +3 ( EEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+373",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "MD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".md",
             "children": []
           }
         ]

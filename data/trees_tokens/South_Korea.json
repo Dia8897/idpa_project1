@@ -1,0 +1,890 @@
+{
+  "country_name": "South Korea",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Aegukga",
+            "children": []
+          },
+          {
+            "label": "Patriotic",
+            "children": []
+          },
+          {
+            "label": "Song",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Seal",
+            "children": []
+          },
+          {
+            "label": "Territory",
+            "children": []
+          },
+          {
+            "label": "controlled",
+            "children": []
+          },
+          {
+            "label": "Territory",
+            "children": []
+          },
+          {
+            "label": "claimed",
+            "children": []
+          },
+          {
+            "label": "but",
+            "children": []
+          },
+          {
+            "label": "not",
+            "children": []
+          },
+          {
+            "label": "controlled",
+            "children": []
+          },
+          {
+            "label": "North",
+            "children": []
+          },
+          {
+            "label": "Korea",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Anthem: 애국가 ( Aegukga ) \" Patriotic Song \"",
+          "National Seal :",
+          "Territory controlled Territory claimed but not controlled (North Korea)"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Seoul",
+            "children": []
+          },
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "126",
+            "children": []
+          },
+          {
+            "label": "58",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "550",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "126",
+            "children": []
+          },
+          {
+            "label": "967",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "550",
+            "children": []
+          },
+          {
+            "label": "126",
+            "children": []
+          },
+          {
+            "label": "967",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Seoul 37°33′N 126°58′E / 37.550°N 126.967°E / 37.550; 126.967"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Korean",
+            "children": []
+          },
+          {
+            "label": "Korean",
+            "children": []
+          },
+          {
+            "label": "Sign",
+            "children": []
+          },
+          {
+            "label": "Language",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Korean Korean Sign Language"
+        ]
+      },
+      {
+        "label": "official_script",
+        "children": [
+          {
+            "label": "Hangul",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Hangul"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "94",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Korean",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "94.8% Korean 5.2% Others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "51",
+            "children": []
+          },
+          {
+            "label": "No",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "Protestant",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "Catholic",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "Buddhism",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "51% No religion 31% Christianity 20% Protestant 11% Catholic 17% Buddhism 2% Others"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "Korean",
+            "children": []
+          },
+          {
+            "label": "Korean",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "South Korean Korean"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Lee",
+            "children": []
+          },
+          {
+            "label": "Jae",
+            "children": []
+          },
+          {
+            "label": "Myung",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Lee Jae Myung"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Kim",
+            "children": []
+          },
+          {
+            "label": "Min",
+            "children": []
+          },
+          {
+            "label": "seok",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kim Min-seok"
+        ]
+      },
+      {
+        "label": "speaker_of_the_national_assembly",
+        "children": [
+          {
+            "label": "Woo",
+            "children": []
+          },
+          {
+            "label": "Won",
+            "children": []
+          },
+          {
+            "label": "shik",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Woo Won-shik"
+        ]
+      },
+      {
+        "label": "chief_justice_of_the_supreme_court",
+        "children": [
+          {
+            "label": "Cho",
+            "children": []
+          },
+          {
+            "label": "Hee",
+            "children": []
+          },
+          {
+            "label": "dae",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Cho Hee-dae"
+        ]
+      },
+      {
+        "label": "president_of_the_constitutional_court",
+        "children": [
+          {
+            "label": "Kim",
+            "children": []
+          },
+          {
+            "label": "Sanghwan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kim Sanghwan"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "provisional_government_inexile",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "1919",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11 April 1919"
+        ]
+      },
+      {
+        "label": "american_administration_south_of_the_38th_parallel",
+        "children": [
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1945",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "8 September 1945"
+        ]
+      },
+      {
+        "label": "constitution_adopted",
+        "children": [
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1948",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "17 July 1948"
+        ]
+      },
+      {
+        "label": "rok_established",
+        "children": [
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1948",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "15 August 1948"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "100",
+            "children": []
+          },
+          {
+            "label": "363",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "38",
+            "children": []
+          },
+          {
+            "label": "750",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "107th",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "363",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "14th",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "859",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "14th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "100,363 km 2 (38,750 sq mi) ( 107th )",
+          "$3.363 trillion ( 14th )",
+          "$1.859 trillion ( 14th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.3"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "52",
+            "children": []
+          },
+          {
+            "label": "081",
+            "children": []
+          },
+          {
+            "label": "799",
+            "children": []
+          },
+          {
+            "label": "29th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "52,081,799 ( 29th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "507",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "313",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "27th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "507/km 2 (1,313.1/sq mi) ( 27th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "65",
+            "children": []
+          },
+          {
+            "label": "080",
+            "children": []
+          },
+          {
+            "label": "29th",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "962",
+            "children": []
+          },
+          {
+            "label": "33rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$65,080 ( 29th )",
+          "$35,962 ( 33rd )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "33.3 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "937",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "20th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.937 very high ( 20th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Korean",
+            "children": []
+          },
+          {
+            "label": "Republic",
+            "children": []
+          },
+          {
+            "label": "won",
+            "children": []
+          },
+          {
+            "label": "KRW",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Korean Republic won (₩) ( KRW )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "Korea",
+            "children": []
+          },
+          {
+            "label": "Standard",
+            "children": []
+          },
+          {
+            "label": "Time",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +9 ( Korea Standard Time )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "82",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+82"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "KR",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "KR"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "kr",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".kr .한국"
+        ]
+      }
+    ]
+  }
+}

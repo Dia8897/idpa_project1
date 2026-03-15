@@ -1,0 +1,990 @@
+{
+  "country_name": "Gabon",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Union",
+            "children": []
+          },
+          {
+            "label": "Travail",
+            "children": []
+          },
+          {
+            "label": "Justice",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "Union",
+            "children": []
+          },
+          {
+            "label": "Work",
+            "children": []
+          },
+          {
+            "label": "Justice",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "La",
+            "children": []
+          },
+          {
+            "label": "Concorde",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "The",
+            "children": []
+          },
+          {
+            "label": "Concord",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \"Union, Travail, Justice\" (French) \"Union, Work, Justice\"",
+          "Anthem: \" La Concorde \" (French) \"The Concord\"",
+          "Show globe Show map of Africa"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Libreville",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "383",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "450",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "383",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "450",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Libreville 0°23′N 9°27′E / 0.383°N 9.450°E / 0.383; 9.450"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "French",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "French"
+        ]
+      },
+      {
+        "label": "regional_languages",
+        "children": [
+          {
+            "label": "List",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Spanish",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "Portuguese",
+            "children": []
+          },
+          {
+            "label": "Fang",
+            "children": []
+          },
+          {
+            "label": "Mbete",
+            "children": []
+          },
+          {
+            "label": "Myene",
+            "children": []
+          },
+          {
+            "label": "Nzebi",
+            "children": []
+          },
+          {
+            "label": "Punu",
+            "children": []
+          },
+          {
+            "label": "Teke",
+            "children": []
+          },
+          {
+            "label": "Vili",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "List English Spanish French Portuguese Fang Mbete Myene Nzebi Punu Teke Vili"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "Fang",
+            "children": []
+          },
+          {
+            "label": "Punu",
+            "children": []
+          },
+          {
+            "label": "Nzebi",
+            "children": []
+          },
+          {
+            "label": "Teke",
+            "children": []
+          },
+          {
+            "label": "Myene",
+            "children": []
+          },
+          {
+            "label": "Kota",
+            "children": []
+          },
+          {
+            "label": "Vili",
+            "children": []
+          },
+          {
+            "label": "Mbama",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Fang Punu Nzebi Teke Myene Kota Vili Mbama and 42 others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "80",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "traditional",
+            "children": []
+          },
+          {
+            "label": "faiths",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "80.2% Christianity 10.8% Islam 7.0% no religion 1.1% traditional faiths 0.9% others"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Gabonese",
+            "children": []
+          },
+          {
+            "label": "Gabonaise",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Gabonese Gabonaise"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Brice",
+            "children": []
+          },
+          {
+            "label": "Oligui",
+            "children": []
+          },
+          {
+            "label": "Nguema",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Brice Oligui Nguema"
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "raphin",
+            "children": []
+          },
+          {
+            "label": "Moundounga",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Séraphin Moundounga"
+        ]
+      },
+      {
+        "label": "vice_president_of_the_government",
+        "children": [
+          {
+            "label": "Hermann",
+            "children": []
+          },
+          {
+            "label": "Immongault",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Hermann Immongault"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "administrated_under_the_french_congo",
+        "children": [
+          {
+            "label": "1882",
+            "children": []
+          },
+          {
+            "label": "1910",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1882-1910"
+        ]
+      },
+      {
+        "label": "reestablished_as_french_gabon_under_the_administration_of_french_equatorial_africa",
+        "children": [
+          {
+            "label": "1910",
+            "children": []
+          },
+          {
+            "label": "1958",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1910-1958"
+        ]
+      },
+      {
+        "label": "republic_established",
+        "children": [
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1958",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "28 November 1958"
+        ]
+      },
+      {
+        "label": "granted",
+        "children": [
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1960",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "17 August 1960"
+        ]
+      },
+      {
+        "label": "coup_detat",
+        "children": [
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1964",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "17–19 February 1964"
+        ]
+      },
+      {
+        "label": "coup_detat",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "2023",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "30 August 2023"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "267",
+            "children": []
+          },
+          {
+            "label": "668",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "103",
+            "children": []
+          },
+          {
+            "label": "347",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "76th",
+            "children": []
+          },
+          {
+            "label": "57",
+            "children": []
+          },
+          {
+            "label": "054",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "130th",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "455",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "131st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "267,668 km 2 (103,347 sq mi) ( 76th )",
+          "$57.054 billion ( 130th )",
+          "$21.455 billion ( 131st )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "76",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3.76%"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "397",
+            "children": []
+          },
+          {
+            "label": "368",
+            "children": []
+          },
+          {
+            "label": "146th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2,397,368 ( 146th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "216th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7.9/km 2 (20.5/sq mi) ( 216th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "739",
+            "children": []
+          },
+          {
+            "label": "79th",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "303",
+            "children": []
+          },
+          {
+            "label": "90th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$24,739 ( 79th )",
+          "$9,303 ( 90th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "38",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "38 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "733",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "108th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.733 high ( 108th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Central",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "CFA",
+            "children": []
+          },
+          {
+            "label": "franc",
+            "children": []
+          },
+          {
+            "label": "XAF",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Central African CFA franc ( XAF )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "WAT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +1 ( WAT )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "241",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+241"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "GA",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "GA"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "ga",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".ga"
+        ]
+      }
+    ]
+  }
+}

@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Castries 13°53′00″N 60°58′00″W ﻿ / ﻿ 13.88333°N 60.96667°W ﻿ / 13.88333; -60.96667 [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "East Caribbean dollar ( XCD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Saint Lucian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "85.3% African 10.9% Mixed 2.2% Indian 1.6% other/ unspecified",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "51.2 [ 7 ] high inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.748 [ 8 ] high ( 103rd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -124,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".lc",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Castries 13°53′00′′N 60°58′00′′W / 13.88333°N 60.96667°W / 13.88333; -60.96667",
             "children": []
           }
         ]
@@ -160,6 +43,24 @@
         ]
       },
       {
+        "label": "vernacular_languages",
+        "children": [
+          {
+            "label": "Saint Lucian French Creole",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "85.3% African 10.9% Mixed 2.2% Indian 1.6% other/ unspecified",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -169,82 +70,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −4 ( AST )",
+            "label": "Saint Lucian",
             "children": []
           }
         ]
       },
       {
-        "label": "vernacular_languages",
+        "label": "government",
         "children": [
           {
-            "label": "Saint Lucian French Creole [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "census",
-        "children": [
-          {
-            "label": "165,595",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "184,100 [ 5 ] ( 177th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "associated_state",
-        "children": [
-          {
-            "label": "1 March 1967",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "298/km 2 (771.8/sq mi) ( 29th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "governorgeneral",
-        "children": [
-          {
-            "label": "Errol Charles",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom",
-        "children": [
-          {
-            "label": "22 February 1979",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Assembly",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -259,14 +97,10 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "governorgeneral",
         "children": [
           {
-            "label": "$29,258 [ 6 ] ( 73th )",
-            "children": []
-          },
-          {
-            "label": "$14,647 [ 6 ] ( 72th )",
+            "label": "Errol Charles",
             "children": []
           }
         ]
@@ -281,18 +115,10 @@
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "617 km 2 (238 sq mi) ( 178th )",
-            "children": []
-          },
-          {
-            "label": "$3.769 billion [ 6 ] ( 177nd )",
-            "children": []
-          },
-          {
-            "label": "$2.715 billion [ 6 ] ( 168th )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -307,10 +133,184 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "associated_state",
+        "children": [
+          {
+            "label": "1 March 1967",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_the_united_kingdom",
+        "children": [
+          {
+            "label": "22 February 1979",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "617 km 2 (238 sq mi) ( 178th )",
+            "children": []
+          },
+          {
+            "label": "$3.769 billion ( 177nd )",
+            "children": []
+          },
+          {
+            "label": "$2.715 billion ( 168th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "1.6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "184,100 ( 177th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "165,595",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "298/km 2 (771.8/sq mi) ( 29th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$29,258 ( 73th )",
+            "children": []
+          },
+          {
+            "label": "$14,647 ( 72th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "51.2 high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.748 high ( 103rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "East Caribbean dollar ( XCD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −4 ( AST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "LC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".lc",
             "children": []
           }
         ]

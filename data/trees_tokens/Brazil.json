@@ -1,0 +1,1238 @@
+{
+  "country_name": "Brazil",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Ordem",
+            "children": []
+          },
+          {
+            "label": "e",
+            "children": []
+          },
+          {
+            "label": "Progresso",
+            "children": []
+          },
+          {
+            "label": "Order",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Progress",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Hino",
+            "children": []
+          },
+          {
+            "label": "Nacional",
+            "children": []
+          },
+          {
+            "label": "Brasileiro",
+            "children": []
+          },
+          {
+            "label": "Brazilian",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "anthem",
+            "children": []
+          },
+          {
+            "label": "Hino",
+            "children": []
+          },
+          {
+            "label": "Bandeira",
+            "children": []
+          },
+          {
+            "label": "Nacional",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Seal",
+            "children": []
+          },
+          {
+            "label": "Selo",
+            "children": []
+          },
+          {
+            "label": "Nacional",
+            "children": []
+          },
+          {
+            "label": "do",
+            "children": []
+          },
+          {
+            "label": "Brasil",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Seal",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Brazil",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: Ordem e Progresso \"Order and Progress\"",
+          "Anthem: Hino Nacional Brasileiro \"Brazilian National Anthem\" Flag anthem : Hino à Bandeira Nacional \"National Flag Anthem\"",
+          "National Seal Selo Nacional do Brasil National Seal of Brazil"
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Bras",
+            "children": []
+          },
+          {
+            "label": "lia",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "47",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "47",
+            "children": []
+          },
+          {
+            "label": "52",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "783",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "47",
+            "children": []
+          },
+          {
+            "label": "867",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "783",
+            "children": []
+          },
+          {
+            "label": "47",
+            "children": []
+          },
+          {
+            "label": "867",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Brasília 15°47′S 47°52′W / 15.783°S 47.867°W / -15.783; -47.867"
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "o",
+            "children": []
+          },
+          {
+            "label": "Paulo",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "46",
+            "children": []
+          },
+          {
+            "label": "38",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "550",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "46",
+            "children": []
+          },
+          {
+            "label": "633",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "550",
+            "children": []
+          },
+          {
+            "label": "46",
+            "children": []
+          },
+          {
+            "label": "633",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "São Paulo 23°33′S 46°38′W / 23.550°S 46.633°W / -23.550; -46.633"
+        ]
+      },
+      {
+        "label": "official_language_and_national_language",
+        "children": [
+          {
+            "label": "Portuguese",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Portuguese"
+        ]
+      },
+      {
+        "label": "recognized_regional_languages",
+        "children": [
+          {
+            "label": "See",
+            "children": []
+          },
+          {
+            "label": "regional",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          },
+          {
+            "label": "languages",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "See regional official languages"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "45",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Pardo",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "White",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Black",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Indigenous",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "East",
+            "children": []
+          },
+          {
+            "label": "Asian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "45.3% Pardo 43.5% White 10.2% Black 0.6% Indigenous 0.4% East Asian"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "83",
+            "children": []
+          },
+          {
+            "label": "60",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "56",
+            "children": []
+          },
+          {
+            "label": "75",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "85",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "84",
+            "children": []
+          },
+          {
+            "label": "Spiritism",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "05",
+            "children": []
+          },
+          {
+            "label": "Afro",
+            "children": []
+          },
+          {
+            "label": "Brazilian",
+            "children": []
+          },
+          {
+            "label": "religions",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "07",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "not",
+            "children": []
+          },
+          {
+            "label": "stated",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "83.60% Christianity 56.75% Catholicism 26.85% Protestantism 9.28% no religion 1.84% Spiritism 1.05% Afro-Brazilian religions 4.07% other 0.17% not stated"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Brazilian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Brazilian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Luiz",
+            "children": []
+          },
+          {
+            "label": "In",
+            "children": []
+          },
+          {
+            "label": "cio",
+            "children": []
+          },
+          {
+            "label": "Lula",
+            "children": []
+          },
+          {
+            "label": "da",
+            "children": []
+          },
+          {
+            "label": "Silva",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Luiz Inácio Lula da Silva"
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Geraldo",
+            "children": []
+          },
+          {
+            "label": "Alckmin",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Geraldo Alckmin"
+        ]
+      },
+      {
+        "label": "president_of_the_chamber_of_deputies",
+        "children": [
+          {
+            "label": "Hugo",
+            "children": []
+          },
+          {
+            "label": "Motta",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Hugo Motta"
+        ]
+      },
+      {
+        "label": "president_of_the_federal_senate",
+        "children": [
+          {
+            "label": "Davi",
+            "children": []
+          },
+          {
+            "label": "Alcolumbre",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Davi Alcolumbre"
+        ]
+      },
+      {
+        "label": "president_of_the_supreme_federal_court",
+        "children": [
+          {
+            "label": "Edson",
+            "children": []
+          },
+          {
+            "label": "Fachin",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Edson Fachin"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Congress",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Congress"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Deputies",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Chamber of Deputies"
+        ]
+      },
+      {
+        "label": "declaration",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1822",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7 September 1822"
+        ]
+      },
+      {
+        "label": "recognition",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1825",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29 August 1825"
+        ]
+      },
+      {
+        "label": "republic",
+        "children": [
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1889",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "15 November 1889"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1988",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "5 October 1988"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "515",
+            "children": []
+          },
+          {
+            "label": "767",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "287",
+            "children": []
+          },
+          {
+            "label": "956",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "5th",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "970",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "8th",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "260",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "10th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "8,515,767 km 2 (3,287,956 sq mi) ( 5th )",
+          "$4.970 trillion ( 8th )",
+          "$2.260 trillion ( 10th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "65",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.65"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "213",
+            "children": []
+          },
+          {
+            "label": "421",
+            "children": []
+          },
+          {
+            "label": "037",
+            "children": []
+          },
+          {
+            "label": "7th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "213,421,037 ( 7th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "203",
+            "children": []
+          },
+          {
+            "label": "080",
+            "children": []
+          },
+          {
+            "label": "756",
+            "children": []
+          },
+          {
+            "label": "7th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "203,080,756 ( 7th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "193rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "23.8 /km 2 (61.6/sq mi) ( 193rd )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "310",
+            "children": []
+          },
+          {
+            "label": "78th",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "580",
+            "children": []
+          },
+          {
+            "label": "78th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$23,310 ( 78th )",
+          "$10,580 ( 78th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "51",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "51.6 high inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "786",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "84th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.786 high ( 84th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Real",
+            "children": []
+          },
+          {
+            "label": "R",
+            "children": []
+          },
+          {
+            "label": "BRL",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Real (R$) ( BRL )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "02",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "to",
+            "children": []
+          },
+          {
+            "label": "05",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "BT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC −02:00 to −05:00 ( BT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          },
+          {
+            "label": "CE",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy ( CE )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "55",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+55"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BR",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "BR"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "br",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".br"
+        ]
+      }
+    ]
+  }
+}

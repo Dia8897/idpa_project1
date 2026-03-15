@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+253",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Djibouti City 11°36′N 43°10′E ﻿ / ﻿ 11.600°N 43.167°E ﻿ / 11.600; 43.167",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Djiboutian franc ( DJF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Djiboutian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "Somalis 60% Afar 35% Arabs 5%",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "41.6 [ 9 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary dominant-party [ 3 ] presidential republic under a hereditary dictatorship [ 4 ] [ 5 ] [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.513 [ 10 ] low ( 175th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,37 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".dj",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "DJ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "national_languages",
-        "children": [
-          {
-            "label": "Somali Afar [ 1 ]",
+            "label": "Djibouti City 11°36′N 43°10′E / 11.600°N 43.167°E / 11.600; 43.167",
             "children": []
           }
         ]
@@ -160,68 +43,46 @@
         ]
       },
       {
+        "label": "national_languages",
+        "children": [
+          {
+            "label": "Somali Afar",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "Somalis 60% Afar 35% Arabs 5%",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
-            "label": "94% Islam ( official ) 87% Sunni 8% Non-denominational 2% Shia 3% Other [ 2 ] 6% Christianity",
+            "label": "94% Islam ( official ) 87% Sunni 8% Non-denominational 2% Shia 3% Other 6% Christianity",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +3 ( EAT )",
+            "label": "Djiboutian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "1,066,809 [ 7 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "4 September 1992",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "46.0/km 2 (119.1/sq mi) ( 168th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "27 June 1977",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$6,985 [ 8 ] ( 137th )",
-            "children": []
-          },
-          {
-            "label": "$3,761 [ 8 ] ( 126th )",
+            "label": "Unitary dominant-party presidential republic under a hereditary dictatorship",
             "children": []
           }
         ]
@@ -230,7 +91,7 @@
         "label": "president",
         "children": [
           {
-            "label": "Ismaïl Omar Guelleh",
+            "label": "Ismal Omar Guelleh",
             "children": []
           }
         ]
@@ -245,18 +106,45 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_france",
+        "children": [
+          {
+            "label": "27 June 1977",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "4 September 1992",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
-            "label": "23,200 [ 1 ] km 2 (9,000 sq mi) [ 1 ] ( 146th )",
+            "label": "23,200 km 2 (9,000 sq mi) ( 146th )",
             "children": []
           },
           {
-            "label": "$7.193 billion [ 8 ] ( 167th )",
+            "label": "$7.193 billion ( 167th )",
             "children": []
           },
           {
-            "label": "$3.873 billion [ 8 ] ( 172nd )",
+            "label": "$3.873 billion ( 172nd )",
             "children": []
           }
         ]
@@ -265,7 +153,119 @@
         "label": "water",
         "children": [
           {
-            "label": "0.09 (20 km² / 7.7 sq mi)",
+            "label": "0.09 (20 km2 / 7.7 sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "1,066,809",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "46.0/km 2 (119.1/sq mi) ( 168th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$6,985 ( 137th )",
+            "children": []
+          },
+          {
+            "label": "$3,761 ( 126th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "41.6 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.513 low ( 175th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Djiboutian franc ( DJF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +3 ( EAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+253",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "DJ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".dj",
             "children": []
           }
         ]

@@ -4,10 +4,22 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+212",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: ٱللَّٰه، ٱلْوَطَن، ٱلْمَلِك \"Allāh, al-Waṭan, al-Malik\" \"God, Country, King\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: ٱلنَّشِيْد ٱلْوَطَنِي \"an-Našīd al-Waṭanīy\" \" Cherifian Anthem \"",
+            "children": []
+          },
+          {
+            "label": "Location of Morocco in northwest Africa Undisputed territory of Morocco Western Sahara , a territory claimed and partly occupied by Morocco",
             "children": []
           }
         ]
@@ -16,25 +28,43 @@
         "label": "capital",
         "children": [
           {
-            "label": "Rabat 34°02′N 6°51′W ﻿ / ﻿ 34.033°N 6.850°W ﻿ / 34.033; -6.850",
+            "label": "Rabat 34°02′N 6°51′W / 34.033°N 6.850°W / 34.033; -6.850",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "largest_city",
         "children": [
           {
-            "label": "Moroccan dirham ( MAD )",
+            "label": "Casablanca 33°32′N 7°35′W / 33.533°N 7.583°W / 33.533; -7.583",
             "children": []
           }
         ]
       },
       {
-        "label": "demonyms",
+        "label": "official_languages",
         "children": [
           {
-            "label": "Moroccan",
+            "label": "Arabic Tamazight",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "spoken_languages",
+        "children": [
+          {
+            "label": "92.7% Arabic 91.9% Moroccan Arabic 0.8% Hassaniya Arabic 24.8% Berber languages 14.2% Tashelhit 7.4% Tamazight 3.2% Tarifit",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "foreign_languages",
+        "children": [
+          {
+            "label": "French English Spanish",
             "children": []
           }
         ]
@@ -49,10 +79,162 @@
         ]
       },
       {
-        "label": "foreign_languages",
+        "label": "religion",
         "children": [
           {
-            "label": "French [ a ] English Spanish [ 5 ]",
+            "label": "99.68% Islam ( official ) 99.23% Sunni 0.45% Shia 0.3% Others 0.13% Agnostics 0.10% Baháʼís 0.09% Christians 0.01% Jews",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Moroccan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary parliamentary semi-constitutional monarchy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "king",
+        "children": [
+          {
+            "label": "Mohammed VI",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Aziz Akhannouch",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "House of Councillors",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "idrisid_dynasty",
+        "children": [
+          {
+            "label": "788",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "alawi_dynasty_current_dynasty",
+        "children": [
+          {
+            "label": "1631",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "french_protectorate",
+        "children": [
+          {
+            "label": "30 March 1912",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence",
+        "children": [
+          {
+            "label": "2 March 1956",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "446,550 km 2 (172,410 sq mi) ( 57th )",
+            "children": []
+          },
+          {
+            "label": "$424.870 billion ( 57th )",
+            "children": []
+          },
+          {
+            "label": "$165.840 billion ( 58th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0.056 (250 km 2 )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "37,493,183 ( 38th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "36,828,330",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "79.0/km 2 (204.6/sq mi)",
             "children": []
           }
         ]
@@ -62,6 +244,19 @@
         "children": [
           {
             "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$11,270 ( 122nd )",
+            "children": []
+          },
+          {
+            "label": "$4,440 ( 123rd )",
             "children": []
           }
         ]
@@ -79,16 +274,7 @@
         "label": "gini",
         "children": [
           {
-            "label": "40.3 [ 15 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary semi-constitutional monarchy [ 7 ]",
+            "label": "40.3 medium inequality",
             "children": []
           }
         ]
@@ -97,37 +283,34 @@
         "label": "hdi",
         "children": [
           {
-            "label": "0.710 [ 16 ] high ( 120th )",
+            "label": "0.710 high ( 120th )",
             "children": []
           }
         ]
       },
       {
-        "label": "info",
+        "label": "currency",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Motto: ٱللَّٰه، ٱلْوَطَن، ٱلْمَلِك \"Allāh, al-Waṭan, al-Malik\" \"God, Country, King\" [ 1 ]",
-            "children": []
-          },
-          {
-            "label": "Anthem: ٱلنَّشِيْد ٱلْوَطَنِي \"an-Našīd al-Waṭanīy\" \" Cherifian Anthem \"",
-            "children": []
-          },
-          {
-            "label": "Location of Morocco in northwest Africa Undisputed territory of Morocco Western Sahara , a territory claimed and partly occupied by Morocco",
+            "label": "Moroccan dirham ( MAD )",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "time_zone",
         "children": [
           {
-            "label": ".ma .المغرب",
+            "label": "UTC +1 UTC+0 (during Ramadan )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+212",
             "children": []
           }
         ]
@@ -142,193 +325,10 @@
         ]
       },
       {
-        "label": "largest_city",
+        "label": "internet_tld",
         "children": [
           {
-            "label": "Casablanca 33°32′N 7°35′W ﻿ / ﻿ 33.533°N 7.583°W ﻿ / 33.533; -7.583",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Arabic Tamazight",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "99.68% Islam ( official ) 99.23% Sunni 0.45% Shia 0.3% Others 0.13% Agnostics 0.10% Baháʼís 0.09% Christians 0.01% Jews",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "spoken_languages",
-        "children": [
-          {
-            "label": "92.7% Arabic 91.9% Moroccan Arabic 0.8% Hassaniya Arabic 24.8% Berber languages 14.2% Tashelhit 7.4% Tamazight 3.2% Tarifit",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 [ 17 ] UTC+0 (during Ramadan ) [ 18 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "alawi_dynasty_current_dynasty",
-        "children": [
-          {
-            "label": "1631",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "census",
-        "children": [
-          {
-            "label": "36,828,330 [ 10 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "37,493,183 [ 9 ] ( 38th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "79.0/km 2 (204.6/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "french_protectorate",
-        "children": [
-          {
-            "label": "30 March 1912",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "idrisid_dynasty",
-        "children": [
-          {
-            "label": "788",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "2 March 1956",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "king",
-        "children": [
-          {
-            "label": "Mohammed VI",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$11,270 [ 12 ] ( 122nd )",
-            "children": []
-          },
-          {
-            "label": "$4,440 [ 14 ] ( 123rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Aziz Akhannouch",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "446,550 km 2 (172,410 sq mi) [ b ] ( 57th )",
-            "children": []
-          },
-          {
-            "label": "$424.870 billion [ 11 ] ( 57th )",
-            "children": []
-          },
-          {
-            "label": "$165.840 billion [ 13 ] ( 58th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "House of Councillors",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "water",
-        "children": [
-          {
-            "label": "0.056 (250 km 2 )",
+            "label": ".ma .المغرب",
             "children": []
           }
         ]

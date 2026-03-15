@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+232",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Freetown 08°30′00″N 12°06′00″W ﻿ / ﻿ 8.50000°N 12.10000°W ﻿ / 8.50000; -12.10000",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Leone ( SLE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Sierra Leonean",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "35.5% Temne 33.2% Mende 6.4% Limba 4.4% Kono 3.4% Fula 2.9% Susu 2.9% Loko 2.8% Koranko 2.6% Sherbro 2.4% Mandingo 1.3% Krio",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "33.7 [ 7 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.467 [ 8 ] low ( 185th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -119,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".sl",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SL",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Freetown 08°30′00′′N 12°06′00′′W / 8.50000°N 12.10000°W / 8.50000; -12.10000",
             "children": []
           }
         ]
@@ -149,7 +41,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "English [ 1 ]",
+            "label": "English",
             "children": []
           }
         ]
@@ -164,6 +56,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "35.5% Temne 33.2% Mende 6.4% Limba 4.4% Kono 3.4% Fula 2.9% Susu 2.9% Loko 2.8% Koranko 2.6% Sherbro 2.4% Mandingo 1.3% Krio",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -173,68 +74,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC ±00:00 ( GMT )",
+            "label": "Sierra Leonean",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "8,460,512 [ 5 ] ( 100th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "Osman Abdulai Turay",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_minister",
-        "children": [
-          {
-            "label": "David Moinina Sengeh",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "124/km 2 (321.2/sq mi) ( 114th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dominion",
-        "children": [
-          {
-            "label": "27 April 1961",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$3,550 [ 6 ] ( 165th )",
-            "children": []
-          },
-          {
-            "label": "$915 [ 6 ] ( 176th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -249,10 +101,19 @@
         ]
       },
       {
-        "label": "republic",
+        "label": "vicepresident",
         "children": [
           {
-            "label": "19 April 1971",
+            "label": "Mohamed Juldeh Jalloh",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "chief_minister",
+        "children": [
+          {
+            "label": "David Moinina Sengeh",
             "children": []
           }
         ]
@@ -267,6 +128,42 @@
         ]
       },
       {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Osman Abdulai Turay",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "dominion",
+        "children": [
+          {
+            "label": "27 April 1961",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic",
+        "children": [
+          {
+            "label": "19 April 1971",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
@@ -274,20 +171,11 @@
             "children": []
           },
           {
-            "label": "$32.510 billion [ 6 ] ( 150th )",
+            "label": "$32.510 billion ( 150th )",
             "children": []
           },
           {
-            "label": "$8.390 billion [ 6 ] ( 154th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vicepresident",
-        "children": [
-          {
-            "label": "Mohamed Juldeh Jalloh",
+            "label": "$8.390 billion ( 154th )",
             "children": []
           }
         ]
@@ -297,6 +185,118 @@
         "children": [
           {
             "label": "1.1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "8,460,512 ( 100th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "124/km 2 (321.2/sq mi) ( 114th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$3,550 ( 165th )",
+            "children": []
+          },
+          {
+            "label": "$915 ( 176th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "33.7 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.467 low ( 185th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Leone ( SLE )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC ±00:00 ( GMT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+232",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SL",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".sl",
             "children": []
           }
         ]

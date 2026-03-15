@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+249",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Khartoum 15°38′N 32°32′E ﻿ / ﻿ 15.633°N 32.533°E ﻿ / 15.633; 32.533",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Sudanese pound ( SDG )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Sudanese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "70% Sudanese Arab [ 1 ] 5.9% Beja [ 2 ] 2.5% Nuba [ 3 ] 2% Fur [ 4 ] 2% Egyptian [ 5 ] 1.3% Nubian [ n 1 ] 16.3% others [ 11 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "34.2 [ 20 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal republic under a military junta [ 16 ] [ 17 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.511 [ 21 ] low ( 176th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".sd .السودان",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SD",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Transitional Legislative Authority [ n 5 ]",
+            "label": "Khartoum 15°38′N 32°32′E / 15.633°N 32.533°E / 15.633; 32.533",
             "children": []
           }
         ]
@@ -151,73 +43,73 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "70% Sudanese Arab 5.9% Beja 2.5% Nuba 2% Fur 2% Egyptian 1.3% Nubian [ n 1 ] 16.3% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
-            "label": "97% Sunni Islam [ 12 ] [ 13 ] [ 14 ] 3% Christianity [ 15 ]",
+            "label": "97% Sunni Islam 3% Christianity",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +2 ( CAT )",
+            "label": "Sudanese",
             "children": []
           }
         ]
       },
       {
-        "label": "draft_constitutional_declaration_effective",
+        "label": "government",
         "children": [
           {
-            "label": "20 August 2019",
+            "label": "Federal republic under a military junta",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "president_of_the_transitional_sovereignty_council",
         "children": [
           {
-            "label": "51,767,437 [ 18 ] ( 30th )",
+            "label": "Abdel Fattah al-Burhan [ n 2 ]",
             "children": []
           }
         ]
       },
       {
-        "label": "angloegyptian_condominium",
+        "label": "vicepresident_of_the_transitional_sovereignty_council",
         "children": [
           {
-            "label": "1899",
+            "label": "Malik Agar [ n 3 ]",
             "children": []
           }
         ]
       },
       {
-        "label": "democratic_republic_of_sudan",
+        "label": "prime_minister",
         "children": [
           {
-            "label": "25 May 1969",
+            "label": "Kamil Idris [ n 4 ]",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "legislature",
         "children": [
           {
-            "label": "21.3/km 2 (55.2/sq mi) ( 202nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "1 January 1956",
+            "label": "Transitional Legislative Authority [ n 5 ]",
             "children": []
           }
         ]
@@ -241,6 +133,15 @@
         ]
       },
       {
+        "label": "turcoegyptian_sudan",
+        "children": [
+          {
+            "label": "1820",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "mahdist_state",
         "children": [
           {
@@ -250,32 +151,28 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "angloegyptian_condominium",
         "children": [
           {
-            "label": "$2,034 [ 19 ] ( 175th )",
-            "children": []
-          },
-          {
-            "label": "$624 [ 19 ] ( 182nd )",
+            "label": "1899",
             "children": []
           }
         ]
       },
       {
-        "label": "president_of_the_transitional_sovereignty_council",
+        "label": "independence",
         "children": [
           {
-            "label": "Abdel Fattah al-Burhan [ n 2 ]",
+            "label": "1 January 1956",
             "children": []
           }
         ]
       },
       {
-        "label": "prime_minister",
+        "label": "democratic_republic_of_sudan",
         "children": [
           {
-            "label": "Kamil Idris [ n 4 ]",
+            "label": "25 May 1969",
             "children": []
           }
         ]
@@ -299,6 +196,15 @@
         ]
       },
       {
+        "label": "draft_constitutional_declaration_effective",
+        "children": [
+          {
+            "label": "20 August 2019",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
@@ -306,29 +212,123 @@
             "children": []
           },
           {
-            "label": "$117.77 billion [ 19 ] ( 98th )",
+            "label": "$117.77 billion ( 98th )",
             "children": []
           },
           {
-            "label": "$31.510 billion [ 19 ] ( 109th )",
+            "label": "$31.510 billion ( 109th )",
             "children": []
           }
         ]
       },
       {
-        "label": "turcoegyptian_sudan",
+        "label": "estimate",
         "children": [
           {
-            "label": "1820",
+            "label": "51,767,437 ( 30th )",
             "children": []
           }
         ]
       },
       {
-        "label": "vicepresident_of_the_transitional_sovereignty_council",
+        "label": "density",
         "children": [
           {
-            "label": "Malik Agar [ n 3 ]",
+            "label": "21.3/km 2 (55.2/sq mi) ( 202nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$2,034 ( 175th )",
+            "children": []
+          },
+          {
+            "label": "$624 ( 182nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "34.2 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.511 low ( 176th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Sudanese pound ( SDG )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( CAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+249",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".sd .السودان",
             "children": []
           }
         ]

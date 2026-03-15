@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+421",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Bratislava 48°9′9″N 17°6′34″E ﻿ / ﻿ 48.15250°N 17.10944°E ﻿ / 48.15250; 17.10944",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "d. m. yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Slovak",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "88.6% Slovaks 8.2% Hungarians 1.3% Romani 1.9% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "21.2 [ 8 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.880 [ 9 ] very high ( 44th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -118,7 +19,7 @@
             "children": []
           },
           {
-            "label": "Show globe Show map of Europe Location of Slovakia (dark green) – in Europe (green & dark grey) – in the European Union (green) – [ Legend ]",
+            "label": "Show globe Show map of Europe Location of Slovakia (dark green) – in Europe (green & dark grey) – in the European Union (green) –",
             "children": []
           },
           {
@@ -128,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".sk and .eu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SK",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Council",
+            "label": "Bratislava 48°9′9′′N 17°6′34′′E / 48.15250°N 17.10944°E / 48.15250; 17.10944",
             "children": []
           }
         ]
@@ -173,6 +56,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "88.6% Slovaks 8.2% Hungarians 1.3% Romani 1.9% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -182,95 +74,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( CET )",
+            "label": "Slovak",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "5,449,270 [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "30_june_estimate",
-        "children": [
-          {
-            "label": "5,413,813 [ 5 ] ( 120th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "czechoslovak_socialist_republic",
-        "children": [
-          {
-            "label": "11 July 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "110/km 2 (284.9/sq mi) ( 103rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dissolution_of_czechoslovakia",
-        "children": [
-          {
-            "label": "1 January 1993",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_slovak_republic",
-        "children": [
-          {
-            "label": "14 March 1939",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "fourth_czechoslovak_republic",
-        "children": [
-          {
-            "label": "25 February 1948",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_austriahungary_first_czechoslovak_republic",
-        "children": [
-          {
-            "label": "28 October 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$47,440 [ 7 ] ( 46th )",
-            "children": []
-          },
-          {
-            "label": "$28,180 [ 7 ] ( 44th )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -294,33 +110,6 @@
         ]
       },
       {
-        "label": "second_czechoslovak_republic",
-        "children": [
-          {
-            "label": "30 September 1938",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "slovak_republic_change_of_name_within_established_czech_and_slovak_federative_republic",
-        "children": [
-          {
-            "label": "1 March 1990",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "slovak_socialist_republic_within_czechoslovak_socialist_republic_change_of_unitary_czechoslovak_state_into_a_federation",
-        "children": [
-          {
-            "label": "1 January 1969",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "speaker_of_the_national_council",
         "children": [
           {
@@ -330,36 +119,19 @@
         ]
       },
       {
-        "label": "summer_dst",
+        "label": "legislature",
         "children": [
           {
-            "label": "UTC +2 ( CEST )",
+            "label": "National Council",
             "children": []
           }
         ]
       },
       {
-        "label": "third_czechoslovak_republic",
+        "label": "independence_from_austriahungary_first_czechoslovak_republic",
         "children": [
           {
-            "label": "24 October 1945",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "49,035 km 2 (18,933 sq mi) ( 127th )",
-            "children": []
-          },
-          {
-            "label": "$256.710 billion [ 7 ] ( 70th )",
-            "children": []
-          },
-          {
-            "label": "$152.480 billion [ 7 ] ( 61st )",
+            "label": "28 October 1918",
             "children": []
           }
         ]
@@ -374,10 +146,238 @@
         ]
       },
       {
+        "label": "second_czechoslovak_republic",
+        "children": [
+          {
+            "label": "30 September 1938",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "first_slovak_republic",
+        "children": [
+          {
+            "label": "14 March 1939",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "third_czechoslovak_republic",
+        "children": [
+          {
+            "label": "24 October 1945",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "fourth_czechoslovak_republic",
+        "children": [
+          {
+            "label": "25 February 1948",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "czechoslovak_socialist_republic",
+        "children": [
+          {
+            "label": "11 July 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "slovak_socialist_republic_within_czechoslovak_socialist_republic_change_of_unitary_czechoslovak_state_into_a_federation",
+        "children": [
+          {
+            "label": "1 January 1969",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "slovak_republic_change_of_name_within_established_czech_and_slovak_federative_republic",
+        "children": [
+          {
+            "label": "1 March 1990",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "dissolution_of_czechoslovakia",
+        "children": [
+          {
+            "label": "1 January 1993",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "49,035 km 2 (18,933 sq mi) ( 127th )",
+            "children": []
+          },
+          {
+            "label": "$256.710 billion ( 70th )",
+            "children": []
+          },
+          {
+            "label": "$152.480 billion ( 61st )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
-            "label": "0.72 (2015) [ 4 ]",
+            "label": "0.72 (2015)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "30_june_estimate",
+        "children": [
+          {
+            "label": "5,413,813 ( 120th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "5,449,270",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "110/km 2 (284.9/sq mi) ( 103rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$47,440 ( 46th )",
+            "children": []
+          },
+          {
+            "label": "$28,180 ( 44th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "21.2 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.880 very high ( 44th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +2 ( CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "d. m. yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+421",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SK",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".sk and .eu",
             "children": []
           }
         ]

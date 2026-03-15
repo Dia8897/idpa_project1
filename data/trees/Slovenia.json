@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+386",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Ljubljana 46°03′05″N 14°30′22″E ﻿ / ﻿ 46.05139°N 14.50611°E ﻿ / 46.05139; 14.50611",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd. mm. yyyy (Slovene) dd/mm/yyyy (Italian) yyyy. mm. dd. (Hungarian)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Slovene Slovenian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "23.4 [ 6 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.931 [ 7 ] very high ( 21st )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".si",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SI",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Ljubljana 46°03′05′′N 14°30′22′′E / 46.05139°N 14.50611°E / 46.05139; 14.50611",
             "children": []
           }
         ]
@@ -145,7 +37,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Slovene [ i ]",
+            "label": "Slovene",
             "children": []
           }
         ]
@@ -169,95 +61,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( CET )",
+            "label": "Slovene Slovenian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "1,964,036",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "2,130,850 [ 4 ] ( 145th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "brioni_agreement_signed",
-        "children": [
-          {
-            "label": "7 July 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "24 December 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "103 [ 4 ] /km 2 (266.8/sq mi) ( 114th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_yugoslavia",
-        "children": [
-          {
-            "label": "25 June 1991 [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_serbs_croats_and_slovenes",
-        "children": [
-          {
-            "label": "1 December 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$57,716 [ 5 ] ( 36th )",
-            "children": []
-          },
-          {
-            "label": "$37,178 [ 5 ] ( 36th )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -281,6 +97,51 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "National Council",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "state_of_slovenes_croats_and_serbs",
+        "children": [
+          {
+            "label": "29 October 1918",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom_of_serbs_croats_and_slovenes",
+        "children": [
+          {
+            "label": "1 December 1918",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "slovene_national_liberation_committee",
         "children": [
           {
@@ -299,10 +160,148 @@
         ]
       },
       {
-        "label": "state_of_slovenes_croats_and_serbs",
+        "label": "independence_from_yugoslavia",
         "children": [
           {
-            "label": "29 October 1918",
+            "label": "25 June 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "brioni_agreement_signed",
+        "children": [
+          {
+            "label": "7 July 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "24 December 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "20,272 km 2 (7,827 sq mi) ( 150th )",
+            "children": []
+          },
+          {
+            "label": "$122,985 billion ( 99th )",
+            "children": []
+          },
+          {
+            "label": "$79,222 billion ( 86th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0.7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "2,130,850 ( 145th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "1,964,036",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "103 /km 2 (266.8/sq mi) ( 114th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$57,716 ( 36th )",
+            "children": []
+          },
+          {
+            "label": "$37,178 ( 36th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "23.4 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.931 very high ( 21st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
             "children": []
           }
         ]
@@ -317,36 +316,37 @@
         ]
       },
       {
-        "label": "total",
+        "label": "date_format",
         "children": [
           {
-            "label": "20,272 km 2 (7,827 sq mi) ( 150th )",
-            "children": []
-          },
-          {
-            "label": "$122,985 billion [ 5 ] ( 99th )",
-            "children": []
-          },
-          {
-            "label": "$79,222 billion [ 5 ] ( 86th )",
+            "label": "dd. mm. yyyy (Slovene) dd/mm/yyyy (Italian) yyyy. mm. dd. (Hungarian)",
             "children": []
           }
         ]
       },
       {
-        "label": "upper_house",
+        "label": "calling_code",
         "children": [
           {
-            "label": "National Council",
+            "label": "+386",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "0.7 [ 3 ]",
+            "label": "SI",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".si",
             "children": []
           }
         ]

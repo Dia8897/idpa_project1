@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+504",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Tegucigalpa 14°6′N 87°13′W ﻿ / ﻿ 14.100°N 87.217°W ﻿ / 14.100; -87.217",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Lempira ( HNL )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Honduran Catracho",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "82.93% Mestizo [ a ] 7.87% White 7.25% Indigenous 1.39% Black 0.55% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "52.1 [ 4 ] high inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.645 [ 5 ] medium ( 139th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -128,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".hn",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "HN",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Congress",
+            "label": "Tegucigalpa 14°6′N 87°13′W / 14.100°N 87.217°W / 14.100; -87.217",
             "children": []
           }
         ]
@@ -164,19 +47,64 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "UTC −6 ( CST )",
+            "label": "82.93% Mestizo 7.87% White 7.25% Indigenous 1.39% Black 0.55% other",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "demonyms",
         "children": [
           {
-            "label": "9,571,352 [ 2 ] ( 95th )",
+            "label": "Honduran Catracho",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Nasry Asfura",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "vice_presidents",
+        "children": [
+          {
+            "label": "María Antonieta Mejía Carlos Flores Guifarro Diana Herrera",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president_of_national_congress",
+        "children": [
+          {
+            "label": "Tomás Zambrano",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Congress",
             "children": []
           }
         ]
@@ -209,6 +137,32 @@
         ]
       },
       {
+        "label": "total",
+        "children": [
+          {
+            "label": "112,492 km 2 (43,433 sq mi) ( 101st )",
+            "children": []
+          },
+          {
+            "label": "$86.290 billion",
+            "children": []
+          },
+          {
+            "label": "$39.450 billion",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "9,571,352 ( 95th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "density",
         "children": [
           {
@@ -218,58 +172,104 @@
         ]
       },
       {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "per_capita",
         "children": [
           {
-            "label": "$7,960 [ 3 ]",
+            "label": "$7,960",
             "children": []
           },
           {
-            "label": "$3,640 [ 3 ]",
+            "label": "$3,640",
             "children": []
           }
         ]
       },
       {
-        "label": "president",
+        "label": "gdp_nominal",
         "children": [
           {
-            "label": "Nasry Asfura",
+            "label": "2025 estimate",
             "children": []
           }
         ]
       },
       {
-        "label": "president_of_national_congress",
+        "label": "gini",
         "children": [
           {
-            "label": "Tomás Zambrano",
+            "label": "52.1 high inequality",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "hdi",
         "children": [
           {
-            "label": "112,492 km 2 (43,433 sq mi) ( 101st )",
-            "children": []
-          },
-          {
-            "label": "$86.290 billion [ 3 ]",
-            "children": []
-          },
-          {
-            "label": "$39.450 billion [ 3 ]",
+            "label": "0.645 medium ( 139th )",
             "children": []
           }
         ]
       },
       {
-        "label": "vice_presidents",
+        "label": "currency",
         "children": [
           {
-            "label": "María Antonieta Mejía Carlos Flores Guifarro Diana Herrera",
+            "label": "Lempira ( HNL )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −6 ( CST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+504",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "HN",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".hn",
             "children": []
           }
         ]

@@ -1,0 +1,910 @@
+{
+  "country_name": "Dominica",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Apres",
+            "children": []
+          },
+          {
+            "label": "Bondie",
+            "children": []
+          },
+          {
+            "label": "C",
+            "children": []
+          },
+          {
+            "label": "est",
+            "children": []
+          },
+          {
+            "label": "La",
+            "children": []
+          },
+          {
+            "label": "Ter",
+            "children": []
+          },
+          {
+            "label": "Dominican",
+            "children": []
+          },
+          {
+            "label": "Creole",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "Post",
+            "children": []
+          },
+          {
+            "label": "Deum",
+            "children": []
+          },
+          {
+            "label": "terra",
+            "children": []
+          },
+          {
+            "label": "est",
+            "children": []
+          },
+          {
+            "label": "Latin",
+            "children": []
+          },
+          {
+            "label": "After",
+            "children": []
+          },
+          {
+            "label": "God",
+            "children": []
+          },
+          {
+            "label": "is",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "earth",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Isle",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Beauty",
+            "children": []
+          },
+          {
+            "label": "Isle",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Splendour",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Dominica",
+            "children": []
+          },
+          {
+            "label": "circled",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "red",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Caribbean",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \"Apres Bondie, C'est La Ter\" ( Dominican Creole French ) \"Post Deum terra est\" ( Latin ) \"After God is the earth\"",
+          "Anthem: \" Isle of Beauty, Isle of Splendour \"",
+          "Location of Dominica (circled in red) in the Caribbean"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Roseau",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "300",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "383",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "300",
+            "children": []
+          },
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "383",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Roseau 15°18′N 61°23′W / 15.300°N 61.383°W / 15.300; -61.383"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English"
+        ]
+      },
+      {
+        "label": "vernacular_languages",
+        "children": [
+          {
+            "label": "Dominican",
+            "children": []
+          },
+          {
+            "label": "Creole",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "Kokoy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Dominican Creole French , Kokoy"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "75",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "multiracial",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Kalinago",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "European",
+            "children": []
+          },
+          {
+            "label": "or",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "unspecified",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "75% African 19% multiracial 4% Kalinago 0.8% European or other 0.2% unspecified"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "94",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "folk",
+            "children": []
+          },
+          {
+            "label": "religions",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "none",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "94.4% Christianity 3.0% folk religions 1.7% other 0.9% none"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Dominican",
+            "children": []
+          },
+          {
+            "label": "pronounced",
+            "children": []
+          },
+          {
+            "label": "d",
+            "children": []
+          },
+          {
+            "label": "m",
+            "children": []
+          },
+          {
+            "label": "n",
+            "children": []
+          },
+          {
+            "label": "i",
+            "children": []
+          },
+          {
+            "label": "k",
+            "children": []
+          },
+          {
+            "label": "n",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Dominican (pronounced / ˌ d ɒ m ɪ ˈ n iː k ə n / )"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Sylvanie",
+            "children": []
+          },
+          {
+            "label": "Burton",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sylvanie Burton"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Roosevelt",
+            "children": []
+          },
+          {
+            "label": "Skerrit",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Roosevelt Skerrit"
+        ]
+      },
+      {
+        "label": "speaker_of_the_house_of_assembly",
+        "children": [
+          {
+            "label": "Joseph",
+            "children": []
+          },
+          {
+            "label": "Isaac",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Joseph Isaac"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Assembly"
+        ]
+      },
+      {
+        "label": "west_indies_associated_states",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "March",
+            "children": []
+          },
+          {
+            "label": "1967",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 March 1967"
+        ]
+      },
+      {
+        "label": "sovereignty_and_constitution",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1978",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3 November 1978"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "750",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "290",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "174th",
+            "children": []
+          },
+          {
+            "label": "688",
+            "children": []
+          },
+          {
+            "label": "million",
+            "children": []
+          },
+          {
+            "label": "485",
+            "children": []
+          },
+          {
+            "label": "million",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "750 km 2 (290 sq mi) ( 174th )",
+          "$688 million",
+          "$485 million"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1.6"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "72",
+            "children": []
+          },
+          {
+            "label": "412",
+            "children": []
+          },
+          {
+            "label": "186th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "72,412 ( 186th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "71",
+            "children": []
+          },
+          {
+            "label": "293",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "71,293"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "105",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "271",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "95th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "105/km 2 (271.9/sq mi) ( 95th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2018",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2018 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "726",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "860",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$9,726",
+          "$7,860"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2018",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2018 estimate"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "761",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "98th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.761 high ( 98th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "East",
+            "children": []
+          },
+          {
+            "label": "Caribbean",
+            "children": []
+          },
+          {
+            "label": "dollar",
+            "children": []
+          },
+          {
+            "label": "XCD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "East Caribbean dollar ( XCD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "AST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC –4 ( AST )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+1"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "DM",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "DM"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "dm",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".dm"
+        ]
+      }
+    ]
+  }
+}

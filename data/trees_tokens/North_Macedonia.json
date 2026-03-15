@@ -1,0 +1,1009 @@
+{
+  "country_name": "North Macedonia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "emblem",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Macedonian",
+            "children": []
+          },
+          {
+            "label": "Today",
+            "children": []
+          },
+          {
+            "label": "over",
+            "children": []
+          },
+          {
+            "label": "Macedonia",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "North",
+            "children": []
+          },
+          {
+            "label": "Macedonia",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "Europe",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "grey",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag National emblem",
+          "Anthem: Денес над Македонија (Macedonian) \"Today over Macedonia\"",
+          "Location of North Macedonia (green) in Europe (dark grey) –"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Skopje",
+            "children": []
+          },
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "000",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "433",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "000",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "433",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Skopje 42°0′N 21°26′E / 42.000°N 21.433°E / 42.000; 21.433"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Macedonian",
+            "children": []
+          },
+          {
+            "label": "Albanian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Macedonian Albanian"
+        ]
+      },
+      {
+        "label": "official_regional_languages",
+        "children": [
+          {
+            "label": "Turkish",
+            "children": []
+          },
+          {
+            "label": "Romani",
+            "children": []
+          },
+          {
+            "label": "Serbian",
+            "children": []
+          },
+          {
+            "label": "Bosnian",
+            "children": []
+          },
+          {
+            "label": "Aromanian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Turkish Romani Serbian Bosnian Aromanian"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "58",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Macedonians",
+            "children": []
+          },
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Albanians",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "Turks",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Roma",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Serbs",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "Bosniaks",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Aromanians",
+            "children": []
+          },
+          {
+            "label": "including",
+            "children": []
+          },
+          {
+            "label": "Megleno",
+            "children": []
+          },
+          {
+            "label": "Romanians",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "including",
+            "children": []
+          },
+          {
+            "label": "undeclared",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "unknown",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "persons",
+            "children": []
+          },
+          {
+            "label": "for",
+            "children": []
+          },
+          {
+            "label": "whom",
+            "children": []
+          },
+          {
+            "label": "data",
+            "children": []
+          },
+          {
+            "label": "are",
+            "children": []
+          },
+          {
+            "label": "taken",
+            "children": []
+          },
+          {
+            "label": "from",
+            "children": []
+          },
+          {
+            "label": "administrative",
+            "children": []
+          },
+          {
+            "label": "sources",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "58.4% Macedonians 24.3% Albanians 3.9% Turks 2.5% Roma 1.3% Serbs 0.9% Bosniaks 0.5% Aromanians (including Megleno-Romanians ) 1.0% other (including undeclared and unknown) 7.2% persons for whom data are taken from administrative sources"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "60",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "46",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Eastern",
+            "children": []
+          },
+          {
+            "label": "Orthodoxy",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "data",
+            "children": []
+          },
+          {
+            "label": "taken",
+            "children": []
+          },
+          {
+            "label": "from",
+            "children": []
+          },
+          {
+            "label": "administrative",
+            "children": []
+          },
+          {
+            "label": "sources",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "60.4% Christianity 46.1% Eastern Orthodoxy 14.3% other Christian 32.2% Islam 0.1% no religion 0.1% other 7.2% data taken from administrative sources"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Macedonian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Macedonian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Gordana",
+            "children": []
+          },
+          {
+            "label": "Siljanovska",
+            "children": []
+          },
+          {
+            "label": "Davkova",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Gordana Siljanovska-Davkova"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Hristijan",
+            "children": []
+          },
+          {
+            "label": "Mickoski",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Hristijan Mickoski"
+        ]
+      },
+      {
+        "label": "chairman_of_the_assembly",
+        "children": [
+          {
+            "label": "Afrim",
+            "children": []
+          },
+          {
+            "label": "Gashi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Afrim Gashi"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Assembly"
+        ]
+      },
+      {
+        "label": "socialist_republic_of_macedonia",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1944",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2 August 1944"
+        ]
+      },
+      {
+        "label": "independence_referendum",
+        "children": [
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "8 September 1991"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "436",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "821",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "145th",
+            "children": []
+          },
+          {
+            "label": "53",
+            "children": []
+          },
+          {
+            "label": "345",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "134th",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "885",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "137th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "25,436 km 2 (9,821 sq mi) ( 145th )",
+          "$53.345 billion ( 134th )",
+          "$17.885 billion ( 137th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1.1"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "836",
+            "children": []
+          },
+          {
+            "label": "713",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1,836,713"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "71",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "185",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "122nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "71.43/km 2 (185.0/sq mi) ( 122nd )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "475",
+            "children": []
+          },
+          {
+            "label": "71st",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "882",
+            "children": []
+          },
+          {
+            "label": "81st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$29,475 ( 71st )",
+          "$9,882 ( 81st )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29.8 low inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "815",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "68th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.815 very high ( 68th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Macedonian",
+            "children": []
+          },
+          {
+            "label": "denar",
+            "children": []
+          },
+          {
+            "label": "MKD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Macedonian denar ( MKD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "CET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +1 ( CET )"
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "CEST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( CEST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "389",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+389"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "MK",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "MK"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "mk",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".mk .мкд"
+        ]
+      }
+    ]
+  }
+}

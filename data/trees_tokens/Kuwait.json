@@ -1,0 +1,931 @@
+{
+  "country_name": "Kuwait",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "All",
+            "children": []
+          },
+          {
+            "label": "h",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Wa",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Amir",
+            "children": []
+          },
+          {
+            "label": "God",
+            "children": []
+          },
+          {
+            "label": "Nation",
+            "children": []
+          },
+          {
+            "label": "Emir",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Nash",
+            "children": []
+          },
+          {
+            "label": "d",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Wa",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Kuwayt",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Kuwait",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Kuwait",
+            "children": []
+          },
+          {
+            "label": "Nominal",
+            "children": []
+          },
+          {
+            "label": "elective",
+            "children": []
+          },
+          {
+            "label": "succession",
+            "children": []
+          },
+          {
+            "label": "within",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Sabah",
+            "children": []
+          },
+          {
+            "label": "Emirate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Motto: الله، الوطن، الأمير Allāh, al-Waṭan, al-Amir \" God , Nation, Emir \"",
+          "Anthem: النشيد الوطني الكويتي al-Nashīd al-Waṭanī al-Kuwaytī \"National Anthem of Kuwait\"",
+          "Show globe Show map of Kuwait",
+          "Nominal elective succession within the House of Sabah . Emirate"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Kuwait",
+            "children": []
+          },
+          {
+            "label": "City",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kuwait City"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "57",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Arab",
+            "children": []
+          },
+          {
+            "label": "40",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "Asian",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "57.8% Arab 40.3% South Asian 1.0% African 0.9% other"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "74",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          },
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "74.6% Islam ( official ) 18.2% Christianity 7.2% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Kuwaiti",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kuwaiti"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "semi",
+            "children": []
+          },
+          {
+            "label": "constitutional",
+            "children": []
+          },
+          {
+            "label": "monarchy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary semi-constitutional monarchy"
+        ]
+      },
+      {
+        "label": "emir",
+        "children": [
+          {
+            "label": "Mishal",
+            "children": []
+          },
+          {
+            "label": "Al",
+            "children": []
+          },
+          {
+            "label": "Ahmad",
+            "children": []
+          },
+          {
+            "label": "Al",
+            "children": []
+          },
+          {
+            "label": "Jaber",
+            "children": []
+          },
+          {
+            "label": "Al",
+            "children": []
+          },
+          {
+            "label": "Sabah",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mishal Al-Ahmad Al-Jaber Al-Sabah"
+        ]
+      },
+      {
+        "label": "crown_prince",
+        "children": [
+          {
+            "label": "Sabah",
+            "children": []
+          },
+          {
+            "label": "Al",
+            "children": []
+          },
+          {
+            "label": "Khalid",
+            "children": []
+          },
+          {
+            "label": "Al",
+            "children": []
+          },
+          {
+            "label": "Sabah",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sabah Al-Khalid Al-Sabah"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Ahmad",
+            "children": []
+          },
+          {
+            "label": "Al",
+            "children": []
+          },
+          {
+            "label": "Abdullah",
+            "children": []
+          },
+          {
+            "label": "Al",
+            "children": []
+          },
+          {
+            "label": "Sabah",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ahmad Al-Abdullah Al-Sabah"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "The",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          },
+          {
+            "label": "suspended",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "The National Assembly (suspended)"
+        ]
+      },
+      {
+        "label": "independence_from_bani_khalid",
+        "children": [
+          {
+            "label": "1752",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1752"
+        ]
+      },
+      {
+        "label": "anglokuwaiti_agreement",
+        "children": [
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "January",
+            "children": []
+          },
+          {
+            "label": "1899",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "23 January 1899"
+        ]
+      },
+      {
+        "label": "angloottoman_convention",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1913",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29 July 1913"
+        ]
+      },
+      {
+        "label": "end_of_british_protectorate",
+        "children": [
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "June",
+            "children": []
+          },
+          {
+            "label": "1961",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "19 June 1961"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1962",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11 November 1962"
+        ]
+      },
+      {
+        "label": "iraqi_invasion_of_kuwait",
+        "children": [
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1990",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "28 August 1990"
+        ]
+      },
+      {
+        "label": "liberation_of_kuwait",
+        "children": [
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "28 February 1991"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "818",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "880",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "152nd",
+            "children": []
+          },
+          {
+            "label": "260",
+            "children": []
+          },
+          {
+            "label": "500",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "74th",
+            "children": []
+          },
+          {
+            "label": "153",
+            "children": []
+          },
+          {
+            "label": "100",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "59th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "17,818 km 2 (6,880 sq mi) ( 152nd )",
+          "$260.500 billion ( 74th )",
+          "$153.100 billion ( 59th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "negligible",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "negligible"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "985",
+            "children": []
+          },
+          {
+            "label": "716",
+            "children": []
+          },
+          {
+            "label": "128th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4,985,716 ( 128th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "200",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "518",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "62nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "200.2/km 2 (518.5/sq mi) ( 62nd )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "50",
+            "children": []
+          },
+          {
+            "label": "960",
+            "children": []
+          },
+          {
+            "label": "40th",
+            "children": []
+          },
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "950",
+            "children": []
+          },
+          {
+            "label": "41st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$50,960 ( 40th )",
+          "$29,950 ( 41st )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "852",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "52nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.852 very high ( 52nd )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Kuwaiti",
+            "children": []
+          },
+          {
+            "label": "dinar",
+            "children": []
+          },
+          {
+            "label": "KWD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kuwaiti dinar ( KWD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "AST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +3 ( AST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "965",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+965"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "KW",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "KW"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "kw",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".kw"
+        ]
+      }
+    ]
+  }
+}

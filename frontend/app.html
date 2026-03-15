@@ -78,7 +78,11 @@
             <input type="text" id="targetSearch" placeholder="Search countries..." />
             <select id="targetSelect"></select>
           </div>
-          <button id="compareBtn" type="button">Compare</button>
+          <div class="btn-group align-end">
+            <button id="compareBtn" type="button" class="btn primary">Compare</button>
+            <button id="toggleDiffBtn" type="button" class="btn" disabled>Show Diff</button>
+            <button id="patchBtn" type="button" class="btn" disabled>Patch Source → Target</button>
+          </div>
         </div>
       </div>
 
@@ -129,6 +133,14 @@
         </article>
       </div>
 
+      <article class="card" id="patchedCard" style="display:none;">
+        <div class="card-head">
+          <h3>Patched Source</h3>
+          <small>Result of applying the (display) diff to the source tree</small>
+        </div>
+        <div id="patchedGraph" class="graph scroll"></div>
+      </article>
+
       <div class="phases">
         <article class="card">
           <div class="card-head">
@@ -151,6 +163,17 @@
       </div>
     </section>
     </main>
+  </div>
+
+  <!-- Full-screen diff overlay -->
+  <div id="diffOverlay" class="diff-overlay" style="display:none;">
+    <div class="diff-modal">
+      <div class="diff-modal-head">
+        <h3>Diff (JSON)</h3>
+        <button id="closeDiffBtn" type="button" class="btn">Close</button>
+      </div>
+      <pre id="diffOverlayContent" class="mono"></pre>
+    </div>
   </div>
 
   <script src="./app.js"></script>

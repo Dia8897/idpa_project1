@@ -1,0 +1,993 @@
+{
+  "country_name": "Iraq",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Maw",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "My",
+            "children": []
+          },
+          {
+            "label": "Homeland",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Iraq",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Anthem: مَوْطِنِيْ Mawṭinī \"My Homeland\"",
+          "Show globe Show map of Iraq"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Baghdad",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "333",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "383",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "333",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "383",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Baghdad 33°20′N 44°23′E / 33.333°N 44.383°E / 33.333; 44.383"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          },
+          {
+            "label": "Kurdish",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic Kurdish"
+        ]
+      },
+      {
+        "label": "recognised_regional_languages",
+        "children": [
+          {
+            "label": "Assyrian",
+            "children": []
+          },
+          {
+            "label": "Armenian",
+            "children": []
+          },
+          {
+            "label": "Turkmen",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Assyrian Armenian Turkmen"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "75",
+            "children": []
+          },
+          {
+            "label": "80",
+            "children": []
+          },
+          {
+            "label": "Arabs",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "Kurds",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "Assyrians",
+            "children": []
+          },
+          {
+            "label": "Turkmen",
+            "children": []
+          },
+          {
+            "label": "Jews",
+            "children": []
+          },
+          {
+            "label": "Persians",
+            "children": []
+          },
+          {
+            "label": "Yazidis",
+            "children": []
+          },
+          {
+            "label": "Mandaeans",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "75–80% Arabs 15–20% Kurds 5–10% Assyrians , Turkmen , Jews , Persians , Yazidis , Mandaeans , and others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "90",
+            "children": []
+          },
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          },
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "Shia",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "Sunni",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "Mandaeism",
+            "children": []
+          },
+          {
+            "label": "Yazidism",
+            "children": []
+          },
+          {
+            "label": "Judaism",
+            "children": []
+          },
+          {
+            "label": "Yarsanism",
+            "children": []
+          },
+          {
+            "label": "irreligion",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "90–95% Islam ( official ) 61% Shia 35% Sunni 5–10% Christianity , Mandaeism , Yazidism , Judaism , Yarsanism , irreligion and others"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Iraqi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Iraqi"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal parliamentary republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Abdul",
+            "children": []
+          },
+          {
+            "label": "Latif",
+            "children": []
+          },
+          {
+            "label": "Rashid",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Abdul Latif Rashid"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Mohammed",
+            "children": []
+          },
+          {
+            "label": "Shia",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Sudani",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mohammed Shia' al-Sudani"
+        ]
+      },
+      {
+        "label": "speaker",
+        "children": [
+          {
+            "label": "Haibat",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Halbousi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Haibat al-Halbousi"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Council",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Council of Representatives"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Federation",
+            "children": []
+          },
+          {
+            "label": "Council",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federation Council"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Council",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Council of Representatives"
+        ]
+      },
+      {
+        "label": "sumer",
+        "children": [
+          {
+            "label": "c",
+            "children": []
+          },
+          {
+            "label": "3300",
+            "children": []
+          },
+          {
+            "label": "BC",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "c. 3300 BC"
+        ]
+      },
+      {
+        "label": "akkadian_empire",
+        "children": [
+          {
+            "label": "c",
+            "children": []
+          },
+          {
+            "label": "2334",
+            "children": []
+          },
+          {
+            "label": "BC",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "c. 2334 BC"
+        ]
+      },
+      {
+        "label": "babylonia",
+        "children": [
+          {
+            "label": "c",
+            "children": []
+          },
+          {
+            "label": "1890",
+            "children": []
+          },
+          {
+            "label": "BC",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "c. 1890 BC"
+        ]
+      },
+      {
+        "label": "abbasid_caliphate",
+        "children": [
+          {
+            "label": "750",
+            "children": []
+          },
+          {
+            "label": "AD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "750 AD"
+        ]
+      },
+      {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1932",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3 October 1932"
+        ]
+      },
+      {
+        "label": "republic_declared",
+        "children": [
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1958",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "14 July 1958"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "2005",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "15 October 2005"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "438",
+            "children": []
+          },
+          {
+            "label": "317",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "169",
+            "children": []
+          },
+          {
+            "label": "235",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "58th",
+            "children": []
+          },
+          {
+            "label": "690",
+            "children": []
+          },
+          {
+            "label": "090",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "44th",
+            "children": []
+          },
+          {
+            "label": "258",
+            "children": []
+          },
+          {
+            "label": "020",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "51st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "438,317 km 2 (169,235 sq mi) ( 58th )",
+          "$690.090 billion ( 44th )",
+          "$258.020 billion ( 51st )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "93",
+            "children": []
+          },
+          {
+            "label": "as",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "2024",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4.93 (as of 2024)"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "46",
+            "children": []
+          },
+          {
+            "label": "118",
+            "children": []
+          },
+          {
+            "label": "793",
+            "children": []
+          },
+          {
+            "label": "34th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "46,118,793 ( 34th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "82",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "214",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "125th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "82.7/km 2 (214.2/sq mi) ( 125th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "180",
+            "children": []
+          },
+          {
+            "label": "110th",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "670",
+            "children": []
+          },
+          {
+            "label": "112th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$15,180 ( 110th )",
+          "$5,670 ( 112th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29.5 low inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "712",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "122nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.712 high ( 122nd )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Iraqi",
+            "children": []
+          },
+          {
+            "label": "dinar",
+            "children": []
+          },
+          {
+            "label": "IQD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Iraqi dinar ( IQD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "AST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +3 ( AST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "964",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+964"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "IQ",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "IQ"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "iq",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".iq .العراق"
+        ]
+      }
+    ]
+  }
+}

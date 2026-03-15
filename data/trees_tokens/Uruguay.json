@@ -1,0 +1,891 @@
+{
+  "country_name": "Uruguay",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Libertad",
+            "children": []
+          },
+          {
+            "label": "o",
+            "children": []
+          },
+          {
+            "label": "Muerte",
+            "children": []
+          },
+          {
+            "label": "Spanish",
+            "children": []
+          },
+          {
+            "label": "Freedom",
+            "children": []
+          },
+          {
+            "label": "or",
+            "children": []
+          },
+          {
+            "label": "Death",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Himno",
+            "children": []
+          },
+          {
+            "label": "Nacional",
+            "children": []
+          },
+          {
+            "label": "del",
+            "children": []
+          },
+          {
+            "label": "Uruguay",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Uruguay",
+            "children": []
+          },
+          {
+            "label": "Sol",
+            "children": []
+          },
+          {
+            "label": "de",
+            "children": []
+          },
+          {
+            "label": "Mayo",
+            "children": []
+          },
+          {
+            "label": "Sun",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Uruguay",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "America",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: Libertad o Muerte (Spanish) \"Freedom or Death\"",
+          "Anthem: Himno Nacional del Uruguay \" National Anthem of Uruguay \"",
+          "Sol de Mayo (Sun of May)",
+          "Location of Uruguay (dark green) in South America"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Montevideo",
+            "children": []
+          },
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "53",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "56",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "883",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "56",
+            "children": []
+          },
+          {
+            "label": "167",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "883",
+            "children": []
+          },
+          {
+            "label": "56",
+            "children": []
+          },
+          {
+            "label": "167",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Montevideo 34°53′S 56°10′W / 34.883°S 56.167°W / -34.883; -56.167"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Spanish",
+            "children": []
+          },
+          {
+            "label": "Uruguayan",
+            "children": []
+          },
+          {
+            "label": "Sign",
+            "children": []
+          },
+          {
+            "label": "Language",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Spanish Uruguayan Sign Language"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "86",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "White",
+            "children": []
+          },
+          {
+            "label": "note",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Black",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Indigenous",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "East",
+            "children": []
+          },
+          {
+            "label": "Asian",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "86.0% White [ note 1 ] 10.4% Black 6.3% Indigenous 0.7% East Asian 6.3% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Uruguayan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Uruguayan"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Yamand",
+            "children": []
+          },
+          {
+            "label": "Orsi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Yamandú Orsi"
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Carolina",
+            "children": []
+          },
+          {
+            "label": "Cosse",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Carolina Cosse"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "General",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "General Assembly"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Chamber of Representatives"
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1825",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "25 August 1825"
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1828",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "27 August 1828"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1967",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "15 February 1967"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "176",
+            "children": []
+          },
+          {
+            "label": "215",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "68",
+            "children": []
+          },
+          {
+            "label": "037",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "89th",
+            "children": []
+          },
+          {
+            "label": "107",
+            "children": []
+          },
+          {
+            "label": "946",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "98th",
+            "children": []
+          },
+          {
+            "label": "82",
+            "children": []
+          },
+          {
+            "label": "605",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "77th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "176,215 km 2 (68,037 sq mi) ( 89th )",
+          "$107.946 billion ( 98th )",
+          "$82.605 billion ( 77th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1.5"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "499",
+            "children": []
+          },
+          {
+            "label": "451",
+            "children": []
+          },
+          {
+            "label": "132nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3,499,451 ( 132nd )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "50",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "206th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "19.5/km 2 (50.5/sq mi) ( 206th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "014",
+            "children": []
+          },
+          {
+            "label": "59th",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "088",
+            "children": []
+          },
+          {
+            "label": "49th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$36,014 ( 59th )",
+          "$23,088 ( 49th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "40",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "40.6 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "862",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "48th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.862 very high ( 48th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Uruguayan",
+            "children": []
+          },
+          {
+            "label": "peso",
+            "children": []
+          },
+          {
+            "label": "UYU",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Uruguayan peso ( UYU )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "03",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "UYT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC −03:00 ( UYT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "598",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+598"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "UY",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UY"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "uy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".uy"
+        ]
+      }
+    ]
+  }
+}

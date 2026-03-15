@@ -4,78 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Kabul 34°31′N 69°11′E ﻿ / ﻿ 34.517°N 69.183°E ﻿ / 34.517; 69.183 [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Afghani ( افغانى ) ( AFN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Afghan [ b ] [ 13 ] [ 14 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups_unofficial_estimates",
-        "children": [
-          {
-            "label": "42% Pashtun 27% Tajik 9% Hazara 9% Uzbek 4% Aimaq 3% Turkmen 2% Baloch 4% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary totalitarian [ 15 ] theocratic Islamic emirate [ 16 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.496 [ 21 ] low ( 181st )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -87,7 +15,7 @@
             "children": []
           },
           {
-            "label": "Anthem: دا د باتورانو کور ( Pashto ) Dā Də Bātorāno Kor \" This is the Home of the Brave \" [ 2 ] [ 3 ]",
+            "label": "Anthem: دا د باتورانو کور ( Pashto ) Dā Də Bātorāno Kor \" This is the Home of the Brave \"",
             "children": []
           },
           {
@@ -97,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".af",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AF",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "None [ c ]",
+            "label": "Kabul 34°31′N 69°11′E / 34.517°N 69.183°E / 34.517; 69.183",
             "children": []
           }
         ]
@@ -133,28 +43,55 @@
         ]
       },
       {
+        "label": "ethnic_groups_unofficial_estimates",
+        "children": [
+          {
+            "label": "42% Pashtun 27% Tajik 9% Hazara 9% Uzbek 4% Aimaq 3% Turkmen 2% Baloch 4% other",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
-            "label": "99.9% Islam 89.1% Sunni ( official ) [ 8 ] [ 9 ] [ 10 ] 10.8% Shia 0.1% other",
+            "label": "99.9% Islam 89.1% Sunni ( official ) 10.8% Shia 0.1% other",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +4:30 [ 22 ] Lunar Hijri calendar [ 23 ] ( Afghanistan Time )",
+            "label": "Afghan",
             "children": []
           }
         ]
       },
       {
-        "label": "barakzai_emirate",
+        "label": "government",
         "children": [
           {
-            "label": "1823",
+            "label": "Unitary totalitarian theocratic Islamic emirate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "supreme_leader",
+        "children": [
+          {
+            "label": "Hibatullah Akhundzada",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Hasan Akhund",
             "children": []
           }
         ]
@@ -169,28 +106,10 @@
         ]
       },
       {
-        "label": "democratic_republic",
+        "label": "legislature",
         "children": [
           {
-            "label": "30 April 1978",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "64/km 2 (165.8/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "durrani_empire",
-        "children": [
-          {
-            "label": "June 1747",
+            "label": "None",
             "children": []
           }
         ]
@@ -205,10 +124,73 @@
         ]
       },
       {
+        "label": "durrani_empire",
+        "children": [
+          {
+            "label": "June 1747",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "barakzai_emirate",
+        "children": [
+          {
+            "label": "1823",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "unification",
+        "children": [
+          {
+            "label": "27 May 1863",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "independence",
         "children": [
           {
             "label": "19 August 1919",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom",
+        "children": [
+          {
+            "label": "9 June 1926",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic",
+        "children": [
+          {
+            "label": "17 July 1973",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "democratic_republic",
+        "children": [
+          {
+            "label": "30 April 1978",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "islamic_state",
+        "children": [
+          {
+            "label": "28 April 1992",
             "children": []
           }
         ]
@@ -232,64 +214,6 @@
         ]
       },
       {
-        "label": "islamic_state",
-        "children": [
-          {
-            "label": "28 April 1992",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "9 June 1926",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "mid_estimate",
-        "children": [
-          {
-            "label": "35–50 million [ d ] ( 36th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$2,174 [ 20 ] ( 179th )",
-            "children": []
-          },
-          {
-            "label": "$411 [ 20 ] ( 190th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Hasan Akhund",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "republic",
-        "children": [
-          {
-            "label": "17 July 1973",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "restoration_of_islamic_emirate",
         "children": [
           {
@@ -299,36 +223,18 @@
         ]
       },
       {
-        "label": "supreme_leader",
-        "children": [
-          {
-            "label": "Hibatullah Akhundzada",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "total",
         "children": [
           {
-            "label": "652,864 [ 19 ] km 2 (252,072 sq mi) ( 40th )",
+            "label": "652,864 km 2 (252,072 sq mi) ( 40th )",
             "children": []
           },
           {
-            "label": "$91.668 billion [ 20 ]",
+            "label": "$91.668 billion",
             "children": []
           },
           {
-            "label": "$17.329 billion [ 20 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "unification",
-        "children": [
-          {
-            "label": "27 May 1863",
+            "label": "$17.329 billion",
             "children": []
           }
         ]
@@ -338,6 +244,100 @@
         "children": [
           {
             "label": "negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "mid_estimate",
+        "children": [
+          {
+            "label": "35–50 million ( 36th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "64/km 2 (165.8/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$2,174 ( 179th )",
+            "children": []
+          },
+          {
+            "label": "$411 ( 190th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.496 low ( 181st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Afghani ( افغانى ) ( AFN )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +4:30 Lunar Hijri calendar ( Afghanistan Time )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "AF",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".af",
             "children": []
           }
         ]

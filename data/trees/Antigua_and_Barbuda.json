@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "St. John's [ b ] 17°7′N 61°51′W ﻿ / ﻿ 17.117°N 61.850°W ﻿ / 17.117; -61.850",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Eastern Caribbean dollar ( XCD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Antiguan and Barbudan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "87.3% African 4.7% Multiracial 2.8% Hispanic 1.7% European 1.1% East Indian 0.7% Syrian or Lebanese 1.8% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.851 [ 7 ] very high ( 53rd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -105,7 +15,7 @@
             "children": []
           },
           {
-            "label": "Anthem: \" Fair Antigua, We Salute Thee \" [ a ]",
+            "label": "Anthem: \" Fair Antigua, We Salute Thee \"",
             "children": []
           },
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ag",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "St. John's 17°7′N 61°51′W / 17.117°N 61.850°W / 17.117; -61.850",
             "children": []
           }
         ]
@@ -145,25 +37,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "English [ c ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "92.7% Christianity 66.6% Protestantism 26.1% other Christian 3.6% Rastafari 1.9% no religion 1.1% Baháʼí Faith 0.7% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC -04:00 ( AST )",
+            "label": "English",
             "children": []
           }
         ]
@@ -178,64 +52,37 @@
         ]
       },
       {
-        "label": "census",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "84,816",
+            "label": "87.3% African 4.7% Multiracial 2.8% Hispanic 1.7% European 1.1% East Indian 0.7% Syrian or Lebanese 1.8% other",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "religion",
         "children": [
           {
-            "label": "106,365 [ 5 ] ( 182nd )",
+            "label": "92.7% Christianity 66.6% Protestantism 26.1% other Christian 3.6% Rastafari 1.9% no religion 1.1% Baháʼí Faith 0.7% other",
             "children": []
           }
         ]
       },
       {
-        "label": "associated_state",
+        "label": "demonyms",
         "children": [
           {
-            "label": "27 February 1967",
+            "label": "Antiguan and Barbudan",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "government",
         "children": [
           {
-            "label": "186/km 2 (481.7/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "governorgeneral",
-        "children": [
-          {
-            "label": "Sir Rodney Williams",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "1 November 1981",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Representatives",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -250,14 +97,10 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "governorgeneral",
         "children": [
           {
-            "label": "$31,781 [ 6 ] ( 66th )",
-            "children": []
-          },
-          {
-            "label": "$22,630 [ 6 ] ( 51st )",
+            "label": "Sir Rodney Williams",
             "children": []
           }
         ]
@@ -272,10 +115,64 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "union",
+        "children": [
+          {
+            "label": "1 August 1860",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "redonda",
         "children": [
           {
             "label": "26 March 1872",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "associated_state",
+        "children": [
+          {
+            "label": "27 February 1967",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence",
+        "children": [
+          {
+            "label": "1 November 1981",
             "children": []
           }
         ]
@@ -298,28 +195,131 @@
         ]
       },
       {
-        "label": "union",
-        "children": [
-          {
-            "label": "1 August 1860",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "Senate",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "water",
         "children": [
           {
             "label": "negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "106,365 ( 182nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "84,816",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "186/km 2 (481.7/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$31,781 ( 66th )",
+            "children": []
+          },
+          {
+            "label": "$22,630 ( 51st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.851 very high ( 53rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Eastern Caribbean dollar ( XCD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC -04:00 ( AST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "AG",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ag",
             "children": []
           }
         ]

@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+380",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Kyiv 50°27′N 30°31′E ﻿ / ﻿ 50.450°N 30.517°E ﻿ / 50.450; 30.517",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Ukrainian hryvnia ( ₴ ) ( UAH )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Ukrainian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "78% Ukrainians 17% Russians 4.9% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "25.6 [ 7 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.779 [ 8 ] high ( 87th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -120,28 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ua .укр",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "UA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Verkhovna Rada",
+            "label": "Kyiv 50°27′N 30°31′E / 50.450°N 30.517°E / 50.450; 30.517",
             "children": []
           }
         ]
@@ -150,7 +33,16 @@
         "label": "official_language_and_national_language",
         "children": [
           {
-            "label": "Ukrainian [ 1 ]",
+            "label": "Ukrainian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "78% Ukrainians 17% Russians 4.9% other",
             "children": []
           }
         ]
@@ -165,99 +57,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +2 [ 9 ] ( EET )",
+            "label": "Ukrainian",
             "children": []
           }
         ]
       },
       {
-        "label": "april_estimate",
+        "label": "government",
         "children": [
           {
-            "label": "32,862,000 [ 6 ] ( 46th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "cossack_hetmanate",
-        "children": [
-          {
-            "label": "18 August 1649",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "28 June 1996",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "54.4/km 2 (140.9/sq mi) ( 156th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "galiciavolhynia",
-        "children": [
-          {
-            "label": "1199",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "24 August 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kievan_rus",
-        "children": [
-          {
-            "label": "882",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "peoples_republic",
-        "children": [
-          {
-            "label": "20 November 1917",
-            "children": []
-          },
-          {
-            "label": "14 December 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$20,999 [ 6 ] ( 89th )",
-            "children": []
-          },
-          {
-            "label": "$6,261 [ 6 ] ( 112th )",
+            "label": "Unitary semi-presidential republic",
             "children": []
           }
         ]
@@ -281,6 +93,64 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Verkhovna Rada",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kievan_rus",
+        "children": [
+          {
+            "label": "882",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "galiciavolhynia",
+        "children": [
+          {
+            "label": "1199",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "zaporozhian_sich",
+        "children": [
+          {
+            "label": "1552",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "cossack_hetmanate",
+        "children": [
+          {
+            "label": "18 August 1649",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "peoples_republic",
+        "children": [
+          {
+            "label": "20 November 1917",
+            "children": []
+          },
+          {
+            "label": "14 December 1918",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "second_hetmanate",
         "children": [
           {
@@ -299,32 +169,6 @@
         ]
       },
       {
-        "label": "summer_dst",
-        "children": [
-          {
-            "label": "UTC +3 ( EEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "603,628 [ 4 ] km 2 (233,062 sq mi) ( 45th )",
-            "children": []
-          },
-          {
-            "label": "$690.059 billion [ 6 ] ( 45th )",
-            "children": []
-          },
-          {
-            "label": "$205.742 billion [ 6 ] ( 58th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "un_membership",
         "children": [
           {
@@ -334,19 +178,175 @@
         ]
       },
       {
-        "label": "water",
+        "label": "independence_declared",
         "children": [
           {
-            "label": "3.8 [ 5 ]",
+            "label": "24 August 1991",
             "children": []
           }
         ]
       },
       {
-        "label": "zaporozhian_sich",
+        "label": "current_constitution",
         "children": [
           {
-            "label": "1552",
+            "label": "28 June 1996",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "603,628 km 2 (233,062 sq mi) ( 45th )",
+            "children": []
+          },
+          {
+            "label": "$690.059 billion ( 45th )",
+            "children": []
+          },
+          {
+            "label": "$205.742 billion ( 58th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "3.8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "april_estimate",
+        "children": [
+          {
+            "label": "32,862,000 ( 46th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "54.4/km 2 (140.9/sq mi) ( 156th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$20,999 ( 89th )",
+            "children": []
+          },
+          {
+            "label": "$6,261 ( 112th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "25.6 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.779 high ( 87th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Ukrainian hryvnia ( ₴ ) ( UAH )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( EET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +3 ( EEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd.mm.yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+380",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "UA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ua .укр",
             "children": []
           }
         ]

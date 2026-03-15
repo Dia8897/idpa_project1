@@ -1,0 +1,937 @@
+{
+  "country_name": "Angola",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Angola",
+            "children": []
+          },
+          {
+            "label": "Avante",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Forward",
+            "children": []
+          },
+          {
+            "label": "Angola",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Angola",
+            "children": []
+          },
+          {
+            "label": "Major",
+            "children": []
+          },
+          {
+            "label": "cities",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Angola",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Anthem: Angola Avante (English: Forward Angola )",
+          "Show globe Show map of Africa Show map of Angola Major cities of Angola"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Luanda",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "50",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "833",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "333",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "833",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "333",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Luanda 8°50′S 13°20′E / 8.833°S 13.333°E / -8.833; 13.333"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Portuguese",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Portuguese"
+        ]
+      },
+      {
+        "label": "national_languages",
+        "children": [
+          {
+            "label": "Chokwe",
+            "children": []
+          },
+          {
+            "label": "Kimbundu",
+            "children": []
+          },
+          {
+            "label": "Kikongo",
+            "children": []
+          },
+          {
+            "label": "Oshiwambo",
+            "children": []
+          },
+          {
+            "label": "Luchazi",
+            "children": []
+          },
+          {
+            "label": "Umbundu",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Chokwe , Kimbundu , Kikongo , Oshiwambo , Luchazi , Umbundu"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "Ovimbundu",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "Ambundu",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "Bakongo",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Mesti",
+            "children": []
+          },
+          {
+            "label": "o",
+            "children": []
+          },
+          {
+            "label": "mixed",
+            "children": []
+          },
+          {
+            "label": "European",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Asian",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "European",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "37% Ovimbundu 25% Ambundu 13% Bakongo 21% other African 2% Mestiço (mixed European and African) 2% Asian 1% European"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "79",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Catholic",
+            "children": []
+          },
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "Protestant",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "79.1% Christianity 44.2% Catholic 34.9% Protestant 11.5% no religion 9.4% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Angolan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Angolan"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Jo",
+            "children": []
+          },
+          {
+            "label": "o",
+            "children": []
+          },
+          {
+            "label": "Louren",
+            "children": []
+          },
+          {
+            "label": "o",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "João Lourenço"
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Esperan",
+            "children": []
+          },
+          {
+            "label": "a",
+            "children": []
+          },
+          {
+            "label": "da",
+            "children": []
+          },
+          {
+            "label": "Costa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Esperança da Costa"
+        ]
+      },
+      {
+        "label": "president_of_the_national_assembly",
+        "children": [
+          {
+            "label": "Ad",
+            "children": []
+          },
+          {
+            "label": "o",
+            "children": []
+          },
+          {
+            "label": "Correia",
+            "children": []
+          },
+          {
+            "label": "de",
+            "children": []
+          },
+          {
+            "label": "Almeida",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Adão Correia de Almeida"
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Ademilson",
+            "children": []
+          },
+          {
+            "label": "Loboto",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ademilson Loboto"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "granted",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1975",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11 November 1975"
+        ]
+      },
+      {
+        "label": "united_nations_full_membership",
+        "children": [
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1976",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "22 November 1976"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "January",
+            "children": []
+          },
+          {
+            "label": "2010",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "21 January 2010"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "246",
+            "children": []
+          },
+          {
+            "label": "700",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "481",
+            "children": []
+          },
+          {
+            "label": "400",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "22nd",
+            "children": []
+          },
+          {
+            "label": "402",
+            "children": []
+          },
+          {
+            "label": "160",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "58th",
+            "children": []
+          },
+          {
+            "label": "113",
+            "children": []
+          },
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "68th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1,246,700 km 2 (481,400 sq mi) ( 22nd )",
+          "$402.160 billion ( 58th )",
+          "$113.34 billion ( 68th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "negligible",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "negligible"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "604",
+            "children": []
+          },
+          {
+            "label": "681",
+            "children": []
+          },
+          {
+            "label": "41st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "36,604,681 ( 41st )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "76",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "189th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29.4/km 2 (76.1/sq mi) ( 189th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "230",
+            "children": []
+          },
+          {
+            "label": "125th",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "880",
+            "children": []
+          },
+          {
+            "label": "137th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$10,230 ( 125th )",
+          "$2,880 ( 137th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "51",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "51.3 high inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "616",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "148th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.616 medium ( 148th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Angolan",
+            "children": []
+          },
+          {
+            "label": "kwanza",
+            "children": []
+          },
+          {
+            "label": "AOA",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Angolan kwanza ( AOA )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "WAT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +1 ( WAT )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "244",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+244"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "AO",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "AO"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "ao",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".ao"
+        ]
+      }
+    ]
+  }
+}

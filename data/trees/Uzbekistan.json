@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+998",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Tashkent 41°19′N 69°16′E ﻿ / ﻿ 41.317°N 69.267°E ﻿ / 41.317; 69.267",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Uzbek sum ( UZS )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm yyyy c",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Uzbek [ 1 ] [ 5 ] • Uzbekistani",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "84.6% Uzbeks 4.8% Tajiks 2.3% Kazakhs 2.2% Karakalpaks 2.1% Russians 4.0% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "31.2 [ 10 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.740 [ 11 ] high ( 107th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -118,34 +19,16 @@
             "children": []
           },
           {
-            "label": "Co-official in Karakalpakstan . [ 1 ] On 31 August 1991, the Supreme Soviet of the Uzbek SSR voted to declare the country independent from the Soviet Union . The next day was declared a national holiday by the Uzbek government, and became Independence Day . dd.mm.yyyy format is used in Cyrillic scripts , including Russian .",
+            "label": "Co-official in Karakalpakstan . On 31 August 1991, the Supreme Soviet of the Uzbek SSR voted to declare the country independent from the Soviet Union . The next day was declared a national holiday by the Uzbek government, and became Independence Day . dd.mm.yyyy format is used in Cyrillic scripts , including Russian .",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".uz",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "UZ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Oliy Majlis",
+            "label": "Tashkent 41°19′N 69°16′E / 41.317°N 69.267°E / 41.317; 69.267",
             "children": []
           }
         ]
@@ -154,7 +37,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Uzbek [ 1 ] [ 2 ]",
+            "label": "Uzbek",
             "children": []
           }
         ]
@@ -169,6 +52,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "84.6% Uzbeks 4.8% Tajiks 2.3% Kazakhs 2.2% Karakalpaks 2.1% Russians 4.0% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -178,59 +70,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +5 ( UZT )",
+            "label": "Uzbek - Uzbekistani",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "38,236,704 [ 8 ] ( 38th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "8 December 1992",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "80.2/km 2 (207.7/sq mi) ( 138th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Legislative Chamber",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$12,596 [ 9 ] ( 114th )",
-            "children": []
-          },
-          {
-            "label": "$3,945 [ 9 ] ( 134th )",
+            "label": "Unitary semi-presidential republic",
             "children": []
           }
         ]
@@ -254,36 +106,10 @@
         ]
       },
       {
-        "label": "republic",
+        "label": "legislature",
         "children": [
           {
-            "label": "1 September 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "448,978 [ 6 ] [ 7 ] km 2 (173,351 sq mi) ( 55th )",
-            "children": []
-          },
-          {
-            "label": "$507.8 billion [ 9 ] ( 53th )",
-            "children": []
-          },
-          {
-            "label": "$140.480 billion [ 9 ] ( 60th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "turkestan_assr",
-        "children": [
-          {
-            "label": "30 April 1918",
+            "label": "Oliy Majlis",
             "children": []
           }
         ]
@@ -298,10 +124,28 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Legislative Chamber",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "uzbek_khanates",
         "children": [
           {
             "label": "1500–1920",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "turkestan_assr",
+        "children": [
+          {
+            "label": "30 April 1918",
             "children": []
           }
         ]
@@ -316,10 +160,166 @@
         ]
       },
       {
+        "label": "republic",
+        "children": [
+          {
+            "label": "1 September 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "8 December 1992",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "448,978 km 2 (173,351 sq mi) ( 55th )",
+            "children": []
+          },
+          {
+            "label": "$507.8 billion ( 53th )",
+            "children": []
+          },
+          {
+            "label": "$140.480 billion ( 60th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "4.9",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "38,236,704 ( 38th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "80.2/km 2 (207.7/sq mi) ( 138th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$12,596 ( 114th )",
+            "children": []
+          },
+          {
+            "label": "$3,945 ( 134th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "31.2 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.740 high ( 107th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Uzbek sum ( UZS )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +5 ( UZT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm yyyy c",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+998",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "UZ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".uz",
             "children": []
           }
         ]

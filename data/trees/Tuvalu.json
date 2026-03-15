@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+688",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Funafuti 8°31′S 179°12′E ﻿ / ﻿ 8.517°S 179.200°E ﻿ / -8.517; 179.200",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Tuvaluan dollar Australian dollar ( AUD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Tuvaluan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "96% Tuvaluans 4% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "39 [ 4 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.689 [ 5 ] medium ( 129th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -111,28 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".tv",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TV",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Funafuti 8°31′S 179°12′E / 8.517°S 179.200°E / -8.517; 179.200",
             "children": []
           }
         ]
@@ -147,6 +39,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "96% Tuvaluans 4% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -156,46 +57,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +12",
+            "label": "Tuvaluan",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "10,643 [ 2 ] ( 194th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "423/km 2 (1,095.6/sq mi) ( 41st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_the_united_kingdom",
-        "children": [
-          {
-            "label": "1 October 1978",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "governorgeneral",
-        "children": [
-          {
-            "label": "Tofiga Vaevalu Falani",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -210,14 +84,10 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "governorgeneral",
         "children": [
           {
-            "label": "$6,076 [ 3 ]",
-            "children": []
-          },
-          {
-            "label": "$6,113 [ 3 ]",
+            "label": "Tofiga Vaevalu Falani",
             "children": []
           }
         ]
@@ -232,6 +102,24 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "from_the_united_kingdom",
+        "children": [
+          {
+            "label": "1 October 1978",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
@@ -239,11 +127,11 @@
             "children": []
           },
           {
-            "label": "$68.603 million [ 3 ]",
+            "label": "$68.603 million",
             "children": []
           },
           {
-            "label": "$63 million [ 3 ]",
+            "label": "$63 million",
             "children": []
           }
         ]
@@ -253,6 +141,118 @@
         "children": [
           {
             "label": "Negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "10,643 ( 194th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "423/km 2 (1,095.6/sq mi) ( 41st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$6,076",
+            "children": []
+          },
+          {
+            "label": "$6,113",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "39 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.689 medium ( 129th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Tuvaluan dollar Australian dollar ( AUD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +12",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+688",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "TV",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".tv",
             "children": []
           }
         ]

@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+503 [ d ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "San Salvador 13°42′N 89°12′W ﻿ / ﻿ 13.700°N 89.200°W ﻿ / 13.700; -89.200",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "United States dollar ( USD ; since 2001) Salvadoran colón (no longer in circulation, still legal) [ c ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Salvadoran",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "86.3% Mestizo (mixed White and Indigenous ) 12.7% White 0.2% Indigenous 0.1% Black 0.6% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "38.8 [ 7 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.678 [ 8 ] medium ( 132nd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -122,34 +23,16 @@
             "children": []
           },
           {
-            "label": "^ The official language of El Salvador is established in the Article 62 of the Constitution of 1983 to be Castilian. [ 1 ] ^ English is also an academic language in public schools. For more information, see Languages of El Salvador . ^ The U.S. dollar is the main currency in use. Financial information can be expressed in U.S. dollars and in Salvadoran colóns , but the colón is out of circulation. [ 9 ] [ 10 ] Bitcoin was designated as legal tender in 2021 , but is no longer legal tender. [ 11 ] ^ Telephone companies (market share): Tigo (45%), Claro (25%), Movistar (24%), Digicel (5.5%), Red (0.5%).",
+            "label": "^ The official language of El Salvador is established in the Article 62 of the Constitution of 1983 to be Castilian. ^ English is also an academic language in public schools. For more information, see Languages of El Salvador . ^ The U.S. dollar is the main currency in use. Financial information can be expressed in U.S. dollars and in Salvadoran colóns , but the colón is out of circulation. Bitcoin was designated as legal tender in 2021 , but is no longer legal tender. ^ Telephone companies (market share): Tigo (45%), Claro (25%), Movistar (24%), Digicel (5.5%), Red (0.5%).",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".sv",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SV",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Legislative Assembly",
+            "label": "San Salvador 13°42′N 89°12′W / 13.700°N 89.200°W / 13.700; -89.200",
             "children": []
           }
         ]
@@ -158,7 +41,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Spanish [ a ]",
+            "label": "Spanish",
             "children": []
           }
         ]
@@ -167,7 +50,16 @@
         "label": "recognized_languages",
         "children": [
           {
-            "label": "Nawat [ b ]",
+            "label": "Nawat",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "86.3% Mestizo (mixed White and Indigenous ) 12.7% White 0.2% Indigenous 0.1% Black 0.6% other",
             "children": []
           }
         ]
@@ -182,77 +74,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −6 ( CST )",
+            "label": "Salvadoran",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "6,029,976 [ 5 ] ( 114th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared_from_spain",
-        "children": [
-          {
-            "label": "15 September 1821",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared_from_the_federal_republic_of_central_america",
-        "children": [
-          {
-            "label": "30 January 1841",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared_from_the_first_mexican_empire",
-        "children": [
-          {
-            "label": "1 July 1823",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "286.6/km 2 (742.3/sq mi) ( 46th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "international_recognition",
-        "children": [
-          {
-            "label": "18 February 1841",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$13,753 [ 6 ] ( 114th )",
-            "children": []
-          },
-          {
-            "label": "$5,893 [ 6 ] ( 108th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -267,23 +101,6 @@
         ]
       },
       {
-        "label": "total",
-        "children": [
-          {
-            "label": "21,041 km 2 (8,124 sq mi) ( 149th )",
-            "children": []
-          },
-          {
-            "label": "$88.323 billion [ 6 ] ( 107th )",
-            "children": []
-          },
-          {
-            "label": "$37.843 billion [ 6 ] ( 104th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "vice_president",
         "children": [
           {
@@ -293,10 +110,193 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Legislative Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared_from_spain",
+        "children": [
+          {
+            "label": "15 September 1821",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared_from_the_first_mexican_empire",
+        "children": [
+          {
+            "label": "1 July 1823",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared_from_the_federal_republic_of_central_america",
+        "children": [
+          {
+            "label": "30 January 1841",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "international_recognition",
+        "children": [
+          {
+            "label": "18 February 1841",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "21,041 km 2 (8,124 sq mi) ( 149th )",
+            "children": []
+          },
+          {
+            "label": "$88.323 billion ( 107th )",
+            "children": []
+          },
+          {
+            "label": "$37.843 billion ( 104th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "1.5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "6,029,976 ( 114th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "286.6/km 2 (742.3/sq mi) ( 46th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$13,753 ( 114th )",
+            "children": []
+          },
+          {
+            "label": "$5,893 ( 108th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "38.8 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.678 medium ( 132nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "United States dollar ( USD ; since 2001) Salvadoran colón (no longer in circulation, still legal)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −6 ( CST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+503",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SV",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".sv",
             "children": []
           }
         ]

@@ -4,10 +4,18 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+677",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: \"To Lead is to Serve\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" God Save Our Solomon Islands \"",
             "children": []
           }
         ]
@@ -16,25 +24,25 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Honiara 9°25′55″S 159°57′20″E ﻿ / ﻿ 9.43194°S 159.95556°E ﻿ / -9.43194; 159.95556",
+            "label": "Honiara 9°25′55′′S 159°57′20′′E / 9.43194°S 159.95556°E / -9.43194; 159.95556",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "official_languages",
         "children": [
           {
-            "label": "Solomon Islands dollar ( SBD )",
+            "label": "English",
             "children": []
           }
         ]
       },
       {
-        "label": "demonyms",
+        "label": "lingua_franca",
         "children": [
           {
-            "label": "Solomon Islander Solomonese",
+            "label": "Pijin",
             "children": []
           }
         ]
@@ -49,10 +57,148 @@
         ]
       },
       {
+        "label": "religion",
+        "children": [
+          {
+            "label": "97.4% Christianity 78.6% Protestantism 19.5% Catholicism 1.9% other Christian 1.2% folk religions 1.4% others / none",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Solomon Islander Solomonese",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary parliamentary constitutional monarchy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "monarch",
+        "children": [
+          {
+            "label": "Charles III",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "governorgeneral",
+        "children": [
+          {
+            "label": "David Tiva Kapu",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Jeremiah Manele",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "from_the_united_kingdom",
+        "children": [
+          {
+            "label": "7 July 1978",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "28,896 km 2 (11,157 sq mi) ( 139th )",
+            "children": []
+          },
+          {
+            "label": "$1.68 billion",
+            "children": []
+          },
+          {
+            "label": "$1.681 billion",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "3.2%",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "828,857 ( 167th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "721,956",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "24.2/km 2 (62.7/sq mi) ( 192th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "gdp_ppp",
         "children": [
           {
             "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$2,205.25",
+            "children": []
+          },
+          {
+            "label": "$2,205.25",
             "children": []
           }
         ]
@@ -70,16 +216,7 @@
         "label": "gini",
         "children": [
           {
-            "label": "37.1 [ 6 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
+            "label": "37.1 medium inequality",
             "children": []
           }
         ]
@@ -88,78 +225,16 @@
         "label": "hdi",
         "children": [
           {
-            "label": "0.584 [ 7 ] medium ( 156th )",
+            "label": "0.584 medium ( 156th )",
             "children": []
           }
         ]
       },
       {
-        "label": "info",
+        "label": "currency",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Motto: \"To Lead is to Serve\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" God Save Our Solomon Islands \" [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".sb",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SB",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lingua_franca",
-        "children": [
-          {
-            "label": "Pijin",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "English",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "97.4% Christianity 78.6% Protestantism 19.5% Catholicism 1.9% other Christian 1.2% folk religions 1.4% others / none",
+            "label": "Solomon Islands dollar ( SBD )",
             "children": []
           }
         ]
@@ -174,82 +249,6 @@
         ]
       },
       {
-        "label": "census",
-        "children": [
-          {
-            "label": "721,956",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "828,857 [ 4 ] ( 167th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "24.2/km 2 (62.7/sq mi) ( 192th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_the_united_kingdom",
-        "children": [
-          {
-            "label": "7 July 1978",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "governorgeneral",
-        "children": [
-          {
-            "label": "David Tiva Kapu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "monarch",
-        "children": [
-          {
-            "label": "Charles III",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$2,205.25 [ 5 ]",
-            "children": []
-          },
-          {
-            "label": "$2,205.25 [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Jeremiah Manele",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -259,27 +258,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "calling_code",
         "children": [
           {
-            "label": "28,896 [ 3 ] km 2 (11,157 sq mi) ( 139th )",
-            "children": []
-          },
-          {
-            "label": "$1.68 billion [ 5 ]",
-            "children": []
-          },
-          {
-            "label": "$1.681 billion [ 5 ]",
+            "label": "+677",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "3.2%",
+            "label": "SB",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".sb",
             "children": []
           }
         ]

@@ -1,0 +1,988 @@
+{
+  "country_name": "Kazakhstan",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Men",
+            "children": []
+          },
+          {
+            "label": "Qazaqstanym",
+            "children": []
+          },
+          {
+            "label": "My",
+            "children": []
+          },
+          {
+            "label": "Kazakhstan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Anthem: Menıñ Qazaqstanym \"My Kazakhstan\""
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Astana",
+            "children": []
+          },
+          {
+            "label": "51",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "71",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "51",
+            "children": []
+          },
+          {
+            "label": "133",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "71",
+            "children": []
+          },
+          {
+            "label": "433",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "51",
+            "children": []
+          },
+          {
+            "label": "133",
+            "children": []
+          },
+          {
+            "label": "71",
+            "children": []
+          },
+          {
+            "label": "433",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Astana 51°8′N 71°26′E / 51.133°N 71.433°E / 51.133; 71.433"
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Almaty",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "76",
+            "children": []
+          },
+          {
+            "label": "57",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "233",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "76",
+            "children": []
+          },
+          {
+            "label": "950",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "233",
+            "children": []
+          },
+          {
+            "label": "76",
+            "children": []
+          },
+          {
+            "label": "950",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Almaty 43°14′N 76°57′E / 43.233°N 76.950°E / 43.233; 76.950"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Kazakh",
+            "children": []
+          },
+          {
+            "label": "Russian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kazakh Russian"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "71",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Kazakh",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Russian",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Uzbek",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Ukrainian",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Uyghur",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "German",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Tatar",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "71.3% Kazakh 14.6% Russian 3.3% Uzbek 1.8% Ukrainian 1.5% Uyghur 1.1% German 1.1% Tatar 5.3% others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "69",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "unanswered",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "69.3% Islam 17.2% Christianity 2.3% no religion 0.2% other 11.0% unanswered"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Kazakh",
+            "children": []
+          },
+          {
+            "label": "Kazakhstani",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kazakh Kazakhstani"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "under",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          },
+          {
+            "label": "authoritarian",
+            "children": []
+          },
+          {
+            "label": "government",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic under an authoritarian government"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Kassym",
+            "children": []
+          },
+          {
+            "label": "Jomart",
+            "children": []
+          },
+          {
+            "label": "Tokayev",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kassym-Jomart Tokayev"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Oljas",
+            "children": []
+          },
+          {
+            "label": "Bektenov",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Oljas Bektenov"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "M",
+            "children": []
+          },
+          {
+            "label": "jilis",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mäjilis"
+        ]
+      },
+      {
+        "label": "kazakh_khanate",
+        "children": [
+          {
+            "label": "c",
+            "children": []
+          },
+          {
+            "label": "1465",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "c. 1465"
+        ]
+      },
+      {
+        "label": "kazakh_assr",
+        "children": [
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1920",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "26 August 1920"
+        ]
+      },
+      {
+        "label": "kazakh_ssr",
+        "children": [
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1936",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "5 December 1936"
+        ]
+      },
+      {
+        "label": "independence_from_the_soviet_union",
+        "children": [
+          {
+            "label": "16",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "16 December 1991"
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "26 December 1991"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1995",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "30 August 1995"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "724",
+            "children": []
+          },
+          {
+            "label": "900",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "052",
+            "children": []
+          },
+          {
+            "label": "100",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "9th",
+            "children": []
+          },
+          {
+            "label": "904",
+            "children": []
+          },
+          {
+            "label": "500",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "37th",
+            "children": []
+          },
+          {
+            "label": "300",
+            "children": []
+          },
+          {
+            "label": "540",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "48th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2,724,900 km 2 (1,052,100 sq mi) ( 9th )",
+          "$904.500 billion ( 37th )",
+          "$300.540 billion ( 48th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1.7"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "495",
+            "children": []
+          },
+          {
+            "label": "975",
+            "children": []
+          },
+          {
+            "label": "65th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "20,495,975 ( 65th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "236th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7.44/km 2 (19.3/sq mi) ( 236th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "450",
+            "children": []
+          },
+          {
+            "label": "49th",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "770",
+            "children": []
+          },
+          {
+            "label": "64th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$44,450 ( 49th )",
+          "$14,770 ( 64th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "27.8 low inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "837",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "60th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.837 very high ( 60th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Tenge",
+            "children": []
+          },
+          {
+            "label": "KZT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tenge (₸) ( KZT )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +5"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+7"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "KZ",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "KZ"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "kz",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".kz .қаз"
+        ]
+      }
+    ]
+  }
+}

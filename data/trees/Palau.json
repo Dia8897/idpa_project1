@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+680",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Ngerulmud 7°30′N 134°37′E ﻿ / ﻿ 7.500°N 134.617°E ﻿ / 7.500; 134.617",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "United States dollar ( USD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "mm/dd/yyyy [ 8 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Palauan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups_census",
-        "children": [
-          {
-            "label": "65.2% Palauan 31.6% Asian 1.2% Carolinian 1.0% European 0.9% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic under a non-partisan democracy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.786 [ 7 ] high ( 84th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -119,19 +29,19 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "status",
         "children": [
           {
-            "label": ".pw",
+            "label": "UN member state under a Compact of Free Association with the United States",
             "children": []
           }
         ]
       },
       {
-        "label": "iso_3166_code",
+        "label": "capital",
         "children": [
           {
-            "label": "PW",
+            "label": "Ngerulmud 7°30′N 134°37′E / 7.500°N 134.617°E / 7.500; 134.617",
             "children": []
           }
         ]
@@ -140,16 +50,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Koror 7°20′N 134°29′E ﻿ / ﻿ 7.333°N 134.483°E ﻿ / 7.333; 134.483",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Palau National Congress",
+            "label": "Koror 7°20′N 134°29′E / 7.333°N 134.483°E / 7.333; 134.483",
             "children": []
           }
         ]
@@ -167,7 +68,16 @@
         "label": "recognized_regional_languages",
         "children": [
           {
-            "label": "Sonsorolese Tobian Japanese [a]",
+            "label": "Sonsorolese Tobian Japanese",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_census",
+        "children": [
+          {
+            "label": "65.2% Palauan 31.6% Asian 1.2% Carolinian 1.0% European 0.9% other",
             "children": []
           }
         ]
@@ -182,95 +92,19 @@
         ]
       },
       {
-        "label": "status",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UN member state under a Compact of Free Association with the United States [ 1 ]",
+            "label": "Palauan",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "government",
         "children": [
           {
-            "label": "UTC +9 (PWT)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "census",
-        "children": [
-          {
-            "label": "16,766",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "as_of_august_estimate",
-        "children": [
-          {
-            "label": "17,663 [ 3 ] [ 4 ] ( 221st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "compact_of_free_association",
-        "children": [
-          {
-            "label": "1 October 1994",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution",
-        "children": [
-          {
-            "label": "2 April 1979",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "38.375/km 2 (99.4/sq mi) ( 182th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "establishment_of_the_republic_of_palau",
-        "children": [
-          {
-            "label": "1 January 1981",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Delegates",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$18,209 [ 6 ] ( 81st )",
-            "children": []
-          },
-          {
-            "label": "$17,448 [ 6 ]",
+            "label": "Unitary presidential republic under a non-partisan democracy",
             "children": []
           }
         ]
@@ -285,36 +119,19 @@
         ]
       },
       {
-        "label": "summer_dst",
+        "label": "vice_president",
         "children": [
           {
-            "label": "not observed",
+            "label": "Raynold Oilouch",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "459 km 2 (177 sq mi) ( 180th )",
-            "children": []
-          },
-          {
-            "label": "$308 million [ 6 ]",
-            "children": []
-          },
-          {
-            "label": "$322 million [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "trusteeship",
-        "children": [
-          {
-            "label": "18 July 1947",
+            "label": "Palau National Congress",
             "children": []
           }
         ]
@@ -329,10 +146,63 @@
         ]
       },
       {
-        "label": "vice_president",
+        "label": "lower_house",
         "children": [
           {
-            "label": "Raynold Oilouch",
+            "label": "House of Delegates",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "trusteeship",
+        "children": [
+          {
+            "label": "18 July 1947",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution",
+        "children": [
+          {
+            "label": "2 April 1979",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "establishment_of_the_republic_of_palau",
+        "children": [
+          {
+            "label": "1 January 1981",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "compact_of_free_association",
+        "children": [
+          {
+            "label": "1 October 1994",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "459 km 2 (177 sq mi) ( 180th )",
+            "children": []
+          },
+          {
+            "label": "$308 million",
+            "children": []
+          },
+          {
+            "label": "$322 million",
             "children": []
           }
         ]
@@ -342,6 +212,136 @@
         "children": [
           {
             "label": "negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "as_of_august_estimate",
+        "children": [
+          {
+            "label": "17,663 ( 221st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "16,766",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "38.375/km 2 (99.4/sq mi) ( 182th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$18,209 ( 81st )",
+            "children": []
+          },
+          {
+            "label": "$17,448",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.786 high ( 84th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "United States dollar ( USD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +9 (PWT)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "not observed",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "mm/dd/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+680",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "PW",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".pw",
             "children": []
           }
         ]

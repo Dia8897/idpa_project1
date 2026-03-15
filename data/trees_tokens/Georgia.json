@@ -1,0 +1,1063 @@
+{
+  "country_name": "Georgia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Dzala",
+            "children": []
+          },
+          {
+            "label": "ertobashia",
+            "children": []
+          },
+          {
+            "label": "Strength",
+            "children": []
+          },
+          {
+            "label": "is",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "Unity",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Tavisupleba",
+            "children": []
+          },
+          {
+            "label": "Freedom",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Europe",
+            "children": []
+          },
+          {
+            "label": "de",
+            "children": []
+          },
+          {
+            "label": "jure",
+            "children": []
+          },
+          {
+            "label": "borders",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Georgia",
+            "children": []
+          },
+          {
+            "label": "Russian",
+            "children": []
+          },
+          {
+            "label": "occupied",
+            "children": []
+          },
+          {
+            "label": "territories",
+            "children": []
+          },
+          {
+            "label": "Not",
+            "children": []
+          },
+          {
+            "label": "including",
+            "children": []
+          },
+          {
+            "label": "occupied",
+            "children": []
+          },
+          {
+            "label": "territories",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: ძალა ერთობაშია Dzala ertobashia \"Strength is in Unity\"",
+          "Anthem: თავისუფლება Tavisupleba \"Freedom\"",
+          "Show globe Show map of Europe ( de jure borders) Location of Georgia Russian-occupied territories",
+          "^ Not including occupied territories"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Tbilisi",
+            "children": []
+          },
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "47",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "717",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "783",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "717",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "783",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tbilisi 41°43′N 44°47′E / 41.717°N 44.783°E / 41.717; 44.783"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Georgian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Georgian"
+        ]
+      },
+      {
+        "label": "recognized_regional_languages",
+        "children": [
+          {
+            "label": "Abkhaz",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Abkhaz"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "86",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Georgians",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Azerbaijanis",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Armenians",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Russians",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "86.8% Georgians 6.2% Azerbaijanis 4.5% Armenians 0.7% Russians 2.1% other"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "87",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "83",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Georgian",
+            "children": []
+          },
+          {
+            "label": "Orthodoxy",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "none",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "87.3% Christianity 83.4% Georgian Orthodoxy 3.9% other Christian 10.7% Islam 2% other / none"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Georgian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Georgian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Mikheil",
+            "children": []
+          },
+          {
+            "label": "Kavelashvili",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mikheil Kavelashvili"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Irakli",
+            "children": []
+          },
+          {
+            "label": "Kobakhidze",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Irakli Kobakhidze"
+        ]
+      },
+      {
+        "label": "chairperson_of_the_parliament",
+        "children": [
+          {
+            "label": "Shalva",
+            "children": []
+          },
+          {
+            "label": "Papuashvili",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Shalva Papuashvili"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "colchis_and_iberia",
+        "children": [
+          {
+            "label": "13th",
+            "children": []
+          },
+          {
+            "label": "c",
+            "children": []
+          },
+          {
+            "label": "BC",
+            "children": []
+          },
+          {
+            "label": "AD",
+            "children": []
+          },
+          {
+            "label": "580",
+            "children": []
+          },
+          {
+            "label": "580",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "13th c. BC – AD 580 ( 580 )"
+        ]
+      },
+      {
+        "label": "kingdom_of_abkhazia_and_kingdom_of_the_iberians",
+        "children": [
+          {
+            "label": "786",
+            "children": []
+          },
+          {
+            "label": "1008",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "786–1008"
+        ]
+      },
+      {
+        "label": "unification_of_georgia",
+        "children": [
+          {
+            "label": "1008",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1008"
+        ]
+      },
+      {
+        "label": "the_tripartite_division",
+        "children": [
+          {
+            "label": "1463",
+            "children": []
+          },
+          {
+            "label": "1810",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1463–1810"
+        ]
+      },
+      {
+        "label": "russian_annexation",
+        "children": [
+          {
+            "label": "1801",
+            "children": []
+          },
+          {
+            "label": "1858",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1801–1858"
+        ]
+      },
+      {
+        "label": "independence_from_russia",
+        "children": [
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1918",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "26 May 1918"
+        ]
+      },
+      {
+        "label": "russian_invasion",
+        "children": [
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1921",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "12 February 1921"
+        ]
+      },
+      {
+        "label": "soviet_annexation",
+        "children": [
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1921",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "25 February 1921"
+        ]
+      },
+      {
+        "label": "independence_from_the_soviet_union_declared_finalized",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          },
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9 April 1991 26 December 1991 ( 1991-12-26 )"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1995",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "24 August 1995"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "69",
+            "children": []
+          },
+          {
+            "label": "700",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "900",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "119th",
+            "children": []
+          },
+          {
+            "label": "123",
+            "children": []
+          },
+          {
+            "label": "049",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "98th",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "350",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "103th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "69,700 km 2 (26,900 sq mi) ( 119th )",
+          "$123,049 billion ( 98th )",
+          "$35.350 billion ( 103th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "657",
+            "children": []
+          },
+          {
+            "label": "000",
+            "children": []
+          },
+          {
+            "label": "129th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3,657,000 ( 129th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "56",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "145",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "165th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "56.3/km 2 (145.8/sq mi) ( 165th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "340",
+            "children": []
+          },
+          {
+            "label": "67th",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "886",
+            "children": []
+          },
+          {
+            "label": "83rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$33,340 ( 67th )",
+          "$10,886 ( 83rd )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "34.2 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "844",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "57th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.844 very high ( 57th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Georgian",
+            "children": []
+          },
+          {
+            "label": "lari",
+            "children": []
+          },
+          {
+            "label": "GEL",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Georgian lari (₾) ( GEL )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "GET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +4 ( GET )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd.mm.yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "995",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+995"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "GE",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "GE"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "ge",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".ge , .გე"
+        ]
+      }
+    ]
+  }
+}

@@ -4,100 +4,37 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "kven",
         "children": [
           {
-            "label": "+47",
+            "label": "Norjan kuninkhaanvaltakunta",
             "children": []
           }
         ]
       },
       {
-        "label": "capital_and_largest_city",
+        "label": "northern_sami",
         "children": [
           {
-            "label": "Oslo 59°56′N 10°41′E ﻿ / ﻿ 59.933°N 10.683°E ﻿ / 59.933; 10.683",
+            "label": "Norgga gonagasriika",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "southern_sami",
         "children": [
           {
-            "label": "Norwegian krone ( NOK )",
+            "label": "Nrjen gnkarjhke",
             "children": []
           }
         ]
       },
       {
-        "label": "date_format",
+        "label": "lule_sami",
         "children": [
           {
-            "label": "dd . mm . yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Norwegian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "78.6% Norwegian [ note 3 ] 21.4% non-Norwegian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "25.3 [ 13 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.970 [ 14 ] very high ( 2nd )",
+            "label": "Vuona gånågisrijkka",
             "children": []
           }
         ]
@@ -122,61 +59,16 @@
             "children": []
           },
           {
-            "label": "Includes the mainland, Svalbard and Jan Mayen . [ 10 ] Without the integral territories, it is the 67th largest country at 323,802 [ 15 ] square kilometres. This percentage is for the mainland, Svalbard, and Jan Mayen. This percentage counts glaciers as \"land\". It's calculated as 19,940.14/(365,246.17+19,940.14). [ citation needed ] Two more TLDs have been assigned, but are not used: .sj for Svalbard and Jan Mayen; .bv for Bouvet Island .",
+            "label": "Includes the mainland, Svalbard and Jan Mayen . Without the integral territories, it is the 67th largest country at 323,802 square kilometres. This percentage is for the mainland, Svalbard, and Jan Mayen. This percentage counts glaciers as \"land\". It's calculated as 19,940.14/(365,246.17+19,940.14). [ citation needed ] Two more TLDs have been assigned, but are not used: .sj for Svalbard and Jan Mayen; .bv for Bouvet Island .",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".no d",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NO",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kven",
-        "children": [
-          {
-            "label": "Norjan kuninkhaanvaltakunta",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Storting",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lule_sami",
-        "children": [
-          {
-            "label": "Vuona gånågisrijkka",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "northern_sami",
-        "children": [
-          {
-            "label": "Norgga gonagasriika",
+            "label": "Oslo 59°56′N 10°41′E / 59.933°N 10.683°E / 59.933; 10.683",
             "children": []
           }
         ]
@@ -185,7 +77,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Norwegian [ note 1 ] Sámi [ 2 ] [ note 2 ]",
+            "label": "Norwegian [ note 1 ] Sámi [ note 2 ]",
             "children": []
           }
         ]
@@ -194,7 +86,16 @@
         "label": "recognised_national_languages",
         "children": [
           {
-            "label": "Kven Romani Scandoromani [ 3 ] Norwegian Sign Language",
+            "label": "Kven Romani Scandoromani Norwegian Sign Language",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "78.6% Norwegian [ note 3 ] 21.4% non-Norwegian",
             "children": []
           }
         ]
@@ -209,82 +110,19 @@
         ]
       },
       {
-        "label": "southern_sami",
+        "label": "demonyms",
         "children": [
           {
-            "label": "Nöörjen gånkarïjhke",
+            "label": "Norwegian",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "government",
         "children": [
           {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "5,627,400 [ 11 ] ( 116th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "Toril Marie Øie",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution",
-        "children": [
-          {
-            "label": "17 May 1814",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "denmarknorway_real_union",
-        "children": [
-          {
-            "label": "1524",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "14.6/km 2 (37.8/sq mi) ( 224th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kalmar_union_personal_union",
-        "children": [
-          {
-            "label": "1397",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdoms_of_swedennorway_personal_union",
-        "children": [
-          {
-            "label": "4 November 1814",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -299,23 +137,10 @@
         ]
       },
       {
-        "label": "peak_extent_of_the_old_kingdom",
+        "label": "prime_minister",
         "children": [
           {
-            "label": "1263",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$107,890 [ 12 ] ( 5th )",
-            "children": []
-          },
-          {
-            "label": "$89,690 [ 12 ] ( 6th )",
+            "label": "Jonas Gahr Støre",
             "children": []
           }
         ]
@@ -330,10 +155,19 @@
         ]
       },
       {
-        "label": "prime_minister",
+        "label": "chief_justice",
         "children": [
           {
-            "label": "Jonas Gahr Støre",
+            "label": "Toril Marie Øie",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Storting",
             "children": []
           }
         ]
@@ -348,6 +182,33 @@
         ]
       },
       {
+        "label": "peak_extent_of_the_old_kingdom",
+        "children": [
+          {
+            "label": "1263",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kalmar_union_personal_union",
+        "children": [
+          {
+            "label": "1397",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "denmarknorway_real_union",
+        "children": [
+          {
+            "label": "1524",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "state_reestablished",
         "children": [
           {
@@ -357,27 +218,19 @@
         ]
       },
       {
-        "label": "summer_dst",
+        "label": "constitution",
         "children": [
           {
-            "label": "UTC +2 ( CEST )",
+            "label": "17 May 1814",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "kingdoms_of_swedennorway_personal_union",
         "children": [
           {
-            "label": "385,207 km 2 (148,729 sq mi) [ 10 ] ( 61st b )",
-            "children": []
-          },
-          {
-            "label": "$606.590 billion [ 12 ] ( 49th )",
-            "children": []
-          },
-          {
-            "label": "$504.280 billion [ 12 ] ( 31st )",
+            "label": "4 November 1814",
             "children": []
           }
         ]
@@ -392,10 +245,157 @@
         ]
       },
       {
+        "label": "total",
+        "children": [
+          {
+            "label": "385,207 km 2 (148,729 sq mi) ( 61st b )",
+            "children": []
+          },
+          {
+            "label": "$606.590 billion ( 49th )",
+            "children": []
+          },
+          {
+            "label": "$504.280 billion ( 31st )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
-            "label": "5.32 (2015) [ 9 ]",
+            "label": "5.32 (2015)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "5,627,400 ( 116th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "14.6/km 2 (37.8/sq mi) ( 224th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$107,890 ( 5th )",
+            "children": []
+          },
+          {
+            "label": "$89,690 ( 6th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "25.3 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.970 very high ( 2nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Norwegian krone ( NOK )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +2 ( CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd . mm . yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+47",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "NO",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".no d",
             "children": []
           }
         ]

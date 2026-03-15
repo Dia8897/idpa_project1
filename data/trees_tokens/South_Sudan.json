@@ -1,0 +1,923 @@
+{
+  "country_name": "South Sudan",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Justice",
+            "children": []
+          },
+          {
+            "label": "Liberty",
+            "children": []
+          },
+          {
+            "label": "Prosperity",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "Sudan",
+            "children": []
+          },
+          {
+            "label": "Oyee",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Republic",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "Sudan",
+            "children": []
+          },
+          {
+            "label": "Territory",
+            "children": []
+          },
+          {
+            "label": "claimed",
+            "children": []
+          },
+          {
+            "label": "but",
+            "children": []
+          },
+          {
+            "label": "not",
+            "children": []
+          },
+          {
+            "label": "controlled",
+            "children": []
+          },
+          {
+            "label": "Registered",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "operational",
+            "children": []
+          },
+          {
+            "label": "since",
+            "children": []
+          },
+          {
+            "label": "2019",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \"Justice, Liberty, Prosperity\"",
+          "Anthem: \" South Sudan, Oyee! \"",
+          "Location of the Republic of South Sudan Territory claimed but not controlled",
+          "^ Registered and operational since 2019"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Juba",
+            "children": []
+          },
+          {
+            "label": "04",
+            "children": []
+          },
+          {
+            "label": "51",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "850",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "567",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "850",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "567",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Juba 04°51′N 31°34′E / 4.850°N 31.567°E / 4.850; 31.567"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English"
+        ]
+      },
+      {
+        "label": "recognised_national_languages",
+        "children": [
+          {
+            "label": "Dinka",
+            "children": []
+          },
+          {
+            "label": "Nuer",
+            "children": []
+          },
+          {
+            "label": "Bari",
+            "children": []
+          },
+          {
+            "label": "Murle",
+            "children": []
+          },
+          {
+            "label": "Luo",
+            "children": []
+          },
+          {
+            "label": "Anyuak",
+            "children": []
+          },
+          {
+            "label": "Acholi",
+            "children": []
+          },
+          {
+            "label": "Shilluk",
+            "children": []
+          },
+          {
+            "label": "Pari",
+            "children": []
+          },
+          {
+            "label": "Jur",
+            "children": []
+          },
+          {
+            "label": "Luo",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          },
+          {
+            "label": "Ma",
+            "children": []
+          },
+          {
+            "label": "di",
+            "children": []
+          },
+          {
+            "label": "Otuho",
+            "children": []
+          },
+          {
+            "label": "Zande",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "around",
+            "children": []
+          },
+          {
+            "label": "60",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "languages",
+            "children": []
+          },
+          {
+            "label": "note",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Dinka Nuer Bari Murle Luo (Anyuak, Acholi, Shilluk, Pari, Jur-Luo, others) Ma'di Otuho Zande and around 60 other languages [ note 1 ]"
+        ]
+      },
+      {
+        "label": "spoken_languages",
+        "children": [
+          {
+            "label": "Dinka",
+            "children": []
+          },
+          {
+            "label": "Bari",
+            "children": []
+          },
+          {
+            "label": "Juba",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          },
+          {
+            "label": "Nuer",
+            "children": []
+          },
+          {
+            "label": "Zande",
+            "children": []
+          },
+          {
+            "label": "Jur",
+            "children": []
+          },
+          {
+            "label": "Luo",
+            "children": []
+          },
+          {
+            "label": "Murle",
+            "children": []
+          },
+          {
+            "label": "Shilluk",
+            "children": []
+          },
+          {
+            "label": "various",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Dinka Bari Juba Arabic Nuer Zande Jur (Luo) Murle Shilluk various others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "60",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "traditional",
+            "children": []
+          },
+          {
+            "label": "faiths",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          },
+          {
+            "label": "none",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "60.5% Christianity 32.9% traditional faiths 6.2% Islam 0.4% others / none"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "Sudanese",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "South Sudanese"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Salva",
+            "children": []
+          },
+          {
+            "label": "Kiir",
+            "children": []
+          },
+          {
+            "label": "Mayardit",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Salva Kiir Mayardit"
+        ]
+      },
+      {
+        "label": "first_vicepresident",
+        "children": [
+          {
+            "label": "Riek",
+            "children": []
+          },
+          {
+            "label": "Machar",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Riek Machar"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Transitional",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Legislature",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Transitional National Legislature"
+        ]
+      },
+      {
+        "label": "1st_autonomous_region",
+        "children": [
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1972",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "28 February 1972"
+        ]
+      },
+      {
+        "label": "2nd_autonomous_region",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "2005",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9 July 2005"
+        ]
+      },
+      {
+        "label": "declared_and_recognised",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "2011",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9 July 2011"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "644",
+            "children": []
+          },
+          {
+            "label": "329",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "248",
+            "children": []
+          },
+          {
+            "label": "777",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "41st",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "160",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "157th",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "980",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "164th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "644,329 km 2 (248,777 sq mi) ( 41st )",
+          "$15.160 billion ( 157th )",
+          "$4.980 billion ( 164th )"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "703",
+            "children": []
+          },
+          {
+            "label": "714",
+            "children": []
+          },
+          {
+            "label": "80th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "12,703,714 ( 80th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "49",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "211th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "19/km 2 (49.2/sq mi) ( 211th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "953",
+            "children": []
+          },
+          {
+            "label": "191st",
+            "children": []
+          },
+          {
+            "label": "313",
+            "children": []
+          },
+          {
+            "label": "194th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$953 ( 191st )",
+          "$313 ( 194th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "44.1 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "388",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "193rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.388 low ( 193rd )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "Sudanese",
+            "children": []
+          },
+          {
+            "label": "pound",
+            "children": []
+          },
+          {
+            "label": "SSP",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "South Sudanese pound ( SSP )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "CAT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( CAT )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "211",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+211"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SS",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "SS"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "ss",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".ss"
+        ]
+      }
+    ]
+  }
+}

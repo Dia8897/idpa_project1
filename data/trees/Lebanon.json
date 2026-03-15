@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+961 [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Beirut 33°54′N 35°32′E ﻿ / ﻿ 33.900°N 35.533°E ﻿ / 33.900; 35.533",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Lebanese pound ( LBP )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Lebanese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "95% Arab [ b ] [ 4 ] 4% Armenian 1% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2022 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2022 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "31.8 [ 10 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic under confessionalism [ 7 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.752 [ 11 ] high ( 102nd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -101,7 +11,7 @@
             "children": []
           },
           {
-            "label": "Anthem: كلّنا للوطن ‎ Kullunā li-l-waṭan \"All of us, for our country!\"",
+            "label": "Anthem: كلّنا للوطن Kullunā li-l-waṭan \"All of us, for our country!\"",
             "children": []
           },
           {
@@ -111,37 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".lb .لبنان",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LB",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "local_vernacular",
-        "children": [
-          {
-            "label": "Lebanese Arabic [ 2 ]",
+            "label": "Beirut 33°54′N 35°32′E / 33.900°N 35.533°E / 33.900; 35.533",
             "children": []
           }
         ]
@@ -150,7 +33,16 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Arabic [ 1 ]",
+            "label": "Arabic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "local_vernacular",
+        "children": [
+          {
+            "label": "Lebanese Arabic",
             "children": []
           }
         ]
@@ -159,7 +51,16 @@
         "label": "recognised_minority_language",
         "children": [
           {
-            "label": "French [ a ]",
+            "label": "French",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "95% Arab 4% Armenian 1% others",
             "children": []
           }
         ]
@@ -174,113 +75,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +2 ( EET )",
+            "label": "Lebanese",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "5,364,482 [ 8 ] ( 117th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution",
-        "children": [
-          {
-            "label": "23 May 1926",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "513/km 2 (1,328.7/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "double_qaimmaqamate_of_mount_lebanon",
-        "children": [
-          {
-            "label": "1 December 1843",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "emirate_of_mount_lebanon",
-        "children": [
-          {
-            "label": "1516",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "french_mandate_ended",
-        "children": [
-          {
-            "label": "24 October 1945",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "greater_lebanon",
-        "children": [
-          {
-            "label": "1 September 1920",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "22 November 1943",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "israeli_troops_withdrawn",
-        "children": [
-          {
-            "label": "24 May 2000",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "mount_lebanon_mutasarrifate",
-        "children": [
-          {
-            "label": "9 June 1861",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$11,793 [ 9 ] ( 114th )",
-            "children": []
-          },
-          {
-            "label": "$3,283 [ 9 ] ( 133rd )",
+            "label": "Unitary parliamentary republic under confessionalism",
             "children": []
           }
         ]
@@ -313,10 +120,91 @@
         ]
       },
       {
-        "label": "summer_dst",
+        "label": "legislature",
         "children": [
           {
-            "label": "UTC +3 ( EEST )",
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "emirate_of_mount_lebanon",
+        "children": [
+          {
+            "label": "1516",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "double_qaimmaqamate_of_mount_lebanon",
+        "children": [
+          {
+            "label": "1 December 1843",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "mount_lebanon_mutasarrifate",
+        "children": [
+          {
+            "label": "9 June 1861",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "greater_lebanon",
+        "children": [
+          {
+            "label": "1 September 1920",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution",
+        "children": [
+          {
+            "label": "23 May 1926",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "22 November 1943",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "french_mandate_ended",
+        "children": [
+          {
+            "label": "24 October 1945",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "withdrawal_of_french_forces",
+        "children": [
+          {
+            "label": "17 April 1946",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "israeli_troops_withdrawn",
+        "children": [
+          {
+            "label": "24 May 2000",
             "children": []
           }
         ]
@@ -338,11 +226,11 @@
             "children": []
           },
           {
-            "label": "$78.233 billion [ 9 ] ( 108th )",
+            "label": "$78.233 billion ( 108th )",
             "children": []
           },
           {
-            "label": "$21.780 billion [ 9 ] ( 103rd )",
+            "label": "$21.780 billion ( 103rd )",
             "children": []
           }
         ]
@@ -357,10 +245,122 @@
         ]
       },
       {
-        "label": "withdrawal_of_french_forces",
+        "label": "estimate",
         "children": [
           {
-            "label": "17 April 1946",
+            "label": "5,364,482 ( 117th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "513/km 2 (1,328.7/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2022 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$11,793 ( 114th )",
+            "children": []
+          },
+          {
+            "label": "$3,283 ( 133rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2022 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "31.8 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.752 high ( 102nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Lebanese pound ( LBP )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( EET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +3 ( EEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+961",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "LB",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".lb .لبنان",
             "children": []
           }
         ]

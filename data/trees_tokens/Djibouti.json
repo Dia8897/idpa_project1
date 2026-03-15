@@ -1,0 +1,862 @@
+{
+  "country_name": "Djibouti",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Midnimo",
+            "children": []
+          },
+          {
+            "label": "Sinnaan",
+            "children": []
+          },
+          {
+            "label": "Nabad",
+            "children": []
+          },
+          {
+            "label": "Somali",
+            "children": []
+          },
+          {
+            "label": "Inkittiino",
+            "children": []
+          },
+          {
+            "label": "Qeedala",
+            "children": []
+          },
+          {
+            "label": "Wagari",
+            "children": []
+          },
+          {
+            "label": "Afar",
+            "children": []
+          },
+          {
+            "label": "Unit",
+            "children": []
+          },
+          {
+            "label": "galit",
+            "children": []
+          },
+          {
+            "label": "Paix",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          },
+          {
+            "label": "Unity",
+            "children": []
+          },
+          {
+            "label": "Equality",
+            "children": []
+          },
+          {
+            "label": "Peace",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Djibouti",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Motto: Midnimo, Sinnaan, Nabad ( Somali ) Inkittiino, Qeedala, Wagari ( Afar ) Unité, Égalité, Paix ( French ) اتحاد، مساواة، سلام ( Arabic ) Unity, Equality, Peace ( English )",
+          "Anthem: Djibouti",
+          "Show globe Show map of Africa"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Djibouti",
+            "children": []
+          },
+          {
+            "label": "City",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "600",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "167",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "600",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "167",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Djibouti City 11°36′N 43°10′E / 11.600°N 43.167°E / 11.600; 43.167"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic French"
+        ]
+      },
+      {
+        "label": "national_languages",
+        "children": [
+          {
+            "label": "Somali",
+            "children": []
+          },
+          {
+            "label": "Afar",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Somali Afar"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "Somalis",
+            "children": []
+          },
+          {
+            "label": "60",
+            "children": []
+          },
+          {
+            "label": "Afar",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "Arabs",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Somalis 60% Afar 35% Arabs 5%"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "94",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          },
+          {
+            "label": "87",
+            "children": []
+          },
+          {
+            "label": "Sunni",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Non",
+            "children": []
+          },
+          {
+            "label": "denominational",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Shia",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Other",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "94% Islam ( official ) 87% Sunni 8% Non-denominational 2% Shia 3% Other 6% Christianity"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Djiboutian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Djiboutian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "dominant",
+            "children": []
+          },
+          {
+            "label": "party",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "under",
+            "children": []
+          },
+          {
+            "label": "a",
+            "children": []
+          },
+          {
+            "label": "hereditary",
+            "children": []
+          },
+          {
+            "label": "dictatorship",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary dominant-party presidential republic under a hereditary dictatorship"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Ismal",
+            "children": []
+          },
+          {
+            "label": "Omar",
+            "children": []
+          },
+          {
+            "label": "Guelleh",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ismal Omar Guelleh"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Abdoulkader",
+            "children": []
+          },
+          {
+            "label": "Kamil",
+            "children": []
+          },
+          {
+            "label": "Mohamed",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Abdoulkader Kamil Mohamed"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "independence_from_france",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "June",
+            "children": []
+          },
+          {
+            "label": "1977",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "27 June 1977"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1992",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4 September 1992"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "200",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "000",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "146th",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "193",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "167th",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "873",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "172nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "23,200 km 2 (9,000 sq mi) ( 146th )",
+          "$7.193 billion ( 167th )",
+          "$3.873 billion ( 172nd )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "09",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "km2",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.09 (20 km2 / 7.7 sq mi)"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "066",
+            "children": []
+          },
+          {
+            "label": "809",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1,066,809"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "46",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "119",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "168th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "46.0/km 2 (119.1/sq mi) ( 168th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "985",
+            "children": []
+          },
+          {
+            "label": "137th",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "761",
+            "children": []
+          },
+          {
+            "label": "126th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$6,985 ( 137th )",
+          "$3,761 ( 126th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "41.6 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "513",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "175th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.513 low ( 175th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Djiboutian",
+            "children": []
+          },
+          {
+            "label": "franc",
+            "children": []
+          },
+          {
+            "label": "DJF",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Djiboutian franc ( DJF )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "EAT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +3 ( EAT )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "253",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+253"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "DJ",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "DJ"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "dj",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".dj"
+        ]
+      }
+    ]
+  }
+}

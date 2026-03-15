@@ -1,0 +1,878 @@
+{
+  "country_name": "Botswana",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Pula",
+            "children": []
+          },
+          {
+            "label": "Rain",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Fatshe",
+            "children": []
+          },
+          {
+            "label": "leno",
+            "children": []
+          },
+          {
+            "label": "la",
+            "children": []
+          },
+          {
+            "label": "rona",
+            "children": []
+          },
+          {
+            "label": "This",
+            "children": []
+          },
+          {
+            "label": "Land",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Ours",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: Pula \"Rain\"",
+          "Anthem: \" Fatshe leno la rona \" \"This Land of Ours\"",
+          "Show globe Show map of Africa"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Gaborone",
+            "children": []
+          },
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "39",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "54",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "6583",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "9083",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "6583",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "9083",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Gaborone 24°39.5′S 25°54.5′E / 24.6583°S 25.9083°E / -24.6583; 25.9083"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English"
+        ]
+      },
+      {
+        "label": "national_language",
+        "children": [
+          {
+            "label": "Tswana",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tswana"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "79",
+            "children": []
+          },
+          {
+            "label": "Tswana",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "Kalanga",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "San",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "79% Tswana 11% Kalanga 3% San 7% others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "79",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "70",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Badimo",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "unspecified",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "79.1% Christianity 70.2% Protestantism 8.9% other Christian 15.2% no religion 4.1% Badimo 1.4% others 0.3% unspecified"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Batswana",
+            "children": []
+          },
+          {
+            "label": "plural",
+            "children": []
+          },
+          {
+            "label": "Motswana",
+            "children": []
+          },
+          {
+            "label": "singular",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Batswana (plural) Motswana (singular)"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "with",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          },
+          {
+            "label": "executive",
+            "children": []
+          },
+          {
+            "label": "presidency",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary republic with an executive presidency"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Duma",
+            "children": []
+          },
+          {
+            "label": "Boko",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Duma Boko"
+        ]
+      },
+      {
+        "label": "vicepresident",
+        "children": [
+          {
+            "label": "Ndaba",
+            "children": []
+          },
+          {
+            "label": "Gaolathe",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ndaba Gaolathe"
+        ]
+      },
+      {
+        "label": "national_assembly_speaker",
+        "children": [
+          {
+            "label": "Dithapelo",
+            "children": []
+          },
+          {
+            "label": "Keorapetse",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Dithapelo Keorapetse"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament ( National Assembly )"
+        ]
+      },
+      {
+        "label": "established_constitution",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1966",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "30 September 1966"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "581",
+            "children": []
+          },
+          {
+            "label": "730",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "224",
+            "children": []
+          },
+          {
+            "label": "610",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "47th",
+            "children": []
+          },
+          {
+            "label": "54",
+            "children": []
+          },
+          {
+            "label": "820",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "124th",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "710",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "122nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "581,730 km 2 (224,610 sq mi) ( 47th )",
+          "$54.820 billion ( 124th )",
+          "$20.710 billion ( 122nd )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2.7"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "359",
+            "children": []
+          },
+          {
+            "label": "609",
+            "children": []
+          },
+          {
+            "label": "143rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2,359,609 ( 143rd )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "231st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4.1/km 2 (10.6/sq mi) ( 231st )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "540",
+            "children": []
+          },
+          {
+            "label": "83rd",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "380",
+            "children": []
+          },
+          {
+            "label": "87th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$19,540 ( 83rd )",
+          "$7,380 ( 87th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "45",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "45.5 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "731",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "111th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.731 high ( 111th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Pula",
+            "children": []
+          },
+          {
+            "label": "BWP",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Pula ( BWP )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Central",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          },
+          {
+            "label": "Time",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( Central Africa Time )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "267",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+267"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BW",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "BW"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "bw",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".bw"
+        ]
+      }
+    ]
+  }
+}

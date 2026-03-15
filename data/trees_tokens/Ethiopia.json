@@ -1,0 +1,1245 @@
+{
+  "country_name": "Ethiopia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "afar",
+        "children": [
+          {
+            "label": "Itiyoppiya",
+            "children": []
+          },
+          {
+            "label": "Federalih",
+            "children": []
+          },
+          {
+            "label": "Demokrasih",
+            "children": []
+          },
+          {
+            "label": "Ummuno",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Itiyoppiya Federalih Demokrasih Ummuno"
+        ]
+      },
+      {
+        "label": "oromo",
+        "children": [
+          {
+            "label": "Rippabliikii",
+            "children": []
+          },
+          {
+            "label": "Federaalawaa",
+            "children": []
+          },
+          {
+            "label": "Dimokraatawaa",
+            "children": []
+          },
+          {
+            "label": "Itoophiyaa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Rippabliikii Federaalawaa Dimokraatawaa Itoophiyaa"
+        ]
+      },
+      {
+        "label": "somali",
+        "children": [
+          {
+            "label": "Jamhuuriyadda",
+            "children": []
+          },
+          {
+            "label": "Dimuqraadiga",
+            "children": []
+          },
+          {
+            "label": "Federaalka",
+            "children": []
+          },
+          {
+            "label": "Itoobiya",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Jamhuuriyadda Dimuqraadiga Federaalka Itoobiya"
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Wedef",
+            "children": []
+          },
+          {
+            "label": "t",
+            "children": []
+          },
+          {
+            "label": "Gesigish",
+            "children": []
+          },
+          {
+            "label": "Wid",
+            "children": []
+          },
+          {
+            "label": "Inat",
+            "children": []
+          },
+          {
+            "label": "tiyop",
+            "children": []
+          },
+          {
+            "label": "ya",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "March",
+            "children": []
+          },
+          {
+            "label": "Forward",
+            "children": []
+          },
+          {
+            "label": "Dear",
+            "children": []
+          },
+          {
+            "label": "Mother",
+            "children": []
+          },
+          {
+            "label": "Ethiopia",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Anthem: ወደፊት ገሥግሺ ፣ ውድ እናት ኢትዮጵያ \"Wedefīt Gesigishī Wid Inat ītiyop'ya\" (English: \" March Forward, Dear Mother Ethiopia \" )",
+          "Show globe Show map of Africa"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Addis",
+            "children": []
+          },
+          {
+            "label": "Ababa",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "38",
+            "children": []
+          },
+          {
+            "label": "45",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "017",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "38",
+            "children": []
+          },
+          {
+            "label": "750",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "017",
+            "children": []
+          },
+          {
+            "label": "38",
+            "children": []
+          },
+          {
+            "label": "750",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Addis Ababa 9°1′N 38°45′E / 9.017°N 38.750°E / 9.017; 38.750"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Afar",
+            "children": []
+          },
+          {
+            "label": "Amharic",
+            "children": []
+          },
+          {
+            "label": "Oromo",
+            "children": []
+          },
+          {
+            "label": "Somali",
+            "children": []
+          },
+          {
+            "label": "Tigrinya",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Afar Amharic Oromo Somali Tigrinya"
+        ]
+      },
+      {
+        "label": "regional_languages",
+        "children": [
+          {
+            "label": "Harari",
+            "children": []
+          },
+          {
+            "label": "Sidama",
+            "children": []
+          },
+          {
+            "label": "Languages",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Ethiopia",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Harari Sidama Languages of Ethiopia"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Oromo",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "Amhara",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Somali",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Tigrayan",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "Sidama",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Gurage",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Welayta",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Hadiya",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Afar",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Gamo",
+            "children": []
+          },
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "34.5% Oromo 26.9% Amhara 6.2% Somali 6.1% Tigrayan 4.0% Sidama 2.5% Gurage 2.3% Welayta 1.7% Hadiya 1.7% Afar 1.5% Gamo 12.6% others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "67",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Oriental",
+            "children": []
+          },
+          {
+            "label": "Orthodoxy",
+            "children": []
+          },
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "traditional",
+            "children": []
+          },
+          {
+            "label": "faiths",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          },
+          {
+            "label": "none",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "67.3% Christianity 43.8% Oriental Orthodoxy 22.8% Protestantism 0.7% other Christian 31.3% Islam 0.6% traditional faiths 0.8% others / none"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Ethiopian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ethiopian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "under",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          },
+          {
+            "label": "authoritarian",
+            "children": []
+          },
+          {
+            "label": "government",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal parliamentary republic under an authoritarian government"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Taye",
+            "children": []
+          },
+          {
+            "label": "Atske",
+            "children": []
+          },
+          {
+            "label": "Selassie",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Taye Atske Selassie"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Abiy",
+            "children": []
+          },
+          {
+            "label": "Ahmed",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Abiy Ahmed"
+        ]
+      },
+      {
+        "label": "deputy_prime_ministers",
+        "children": [
+          {
+            "label": "Temesgen",
+            "children": []
+          },
+          {
+            "label": "Tiruneh",
+            "children": []
+          },
+          {
+            "label": "Adem",
+            "children": []
+          },
+          {
+            "label": "Farah",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Temesgen Tiruneh Adem Farah"
+        ]
+      },
+      {
+        "label": "chief_justice_of_the_federal_supreme_court",
+        "children": [
+          {
+            "label": "Tewodros",
+            "children": []
+          },
+          {
+            "label": "Mihret",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tewodros Mihret"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "Parliamentary",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal Parliamentary Assembly"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Federation",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Federation"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Peoples",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Peoples' Representatives"
+        ]
+      },
+      {
+        "label": "ethiopian_empire",
+        "children": [
+          {
+            "label": "1270",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1270"
+        ]
+      },
+      {
+        "label": "zemene_mesafint",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1769",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7 May 1769"
+        ]
+      },
+      {
+        "label": "reunification",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1855",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11 February 1855"
+        ]
+      },
+      {
+        "label": "centralisation",
+        "children": [
+          {
+            "label": "1904",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1904"
+        ]
+      },
+      {
+        "label": "occupied_and_annexed_into_italian_east_africa",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1936",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9 May 1936"
+        ]
+      },
+      {
+        "label": "reestablishment_of_independence",
+        "children": [
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "January",
+            "children": []
+          },
+          {
+            "label": "1942",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "31 January 1942"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "104",
+            "children": []
+          },
+          {
+            "label": "300",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "426",
+            "children": []
+          },
+          {
+            "label": "400",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "26th",
+            "children": []
+          },
+          {
+            "label": "434",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "55th",
+            "children": []
+          },
+          {
+            "label": "145",
+            "children": []
+          },
+          {
+            "label": "03",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "59th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1,104,300 km 2 (426,400 sq mi) ( 26th )",
+          "$434.44 billion ( 55th )",
+          "$145.03 billion ( 59th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.7"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "135",
+            "children": []
+          },
+          {
+            "label": "500",
+            "children": []
+          },
+          {
+            "label": "000",
+            "children": []
+          },
+          {
+            "label": "10th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "135,500,000 ( 10th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "73",
+            "children": []
+          },
+          {
+            "label": "750",
+            "children": []
+          },
+          {
+            "label": "932",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "73,750,932"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "92",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "240",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "123rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "92.7/km 2 (240.1/sq mi) ( 123rd )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "050",
+            "children": []
+          },
+          {
+            "label": "159th",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "350",
+            "children": []
+          },
+          {
+            "label": "159th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$4,050 ( 159th )",
+          "$1,350 ( 159th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "35.0 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "492",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "176th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.492 low ( 176th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Birr",
+            "children": []
+          },
+          {
+            "label": "ETB",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Birr ( ETB )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "EAT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +3 ( EAT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "251",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+251"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "ET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "ET"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "et",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".et"
+        ]
+      }
+    ]
+  }
+}

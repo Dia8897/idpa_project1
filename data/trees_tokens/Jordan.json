@@ -1,0 +1,882 @@
+{
+  "country_name": "Jordan",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "All",
+            "children": []
+          },
+          {
+            "label": "h",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Wa",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Malik",
+            "children": []
+          },
+          {
+            "label": "God",
+            "children": []
+          },
+          {
+            "label": "Country",
+            "children": []
+          },
+          {
+            "label": "King",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Al",
+            "children": []
+          },
+          {
+            "label": "Sal",
+            "children": []
+          },
+          {
+            "label": "m",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Malak",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Urdun",
+            "children": []
+          },
+          {
+            "label": "Peace",
+            "children": []
+          },
+          {
+            "label": "to",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "King",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Jordan",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Jordan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: الله، الوطن، الملك Allāh, al-Waṭan, al-Malik \"God, Country, King\"",
+          "Anthem: السلام الملكي الأردني Al-Salām al-Malakī al-Urdunī \" Peace to the King of Jordan \"",
+          "Show globe Show map of Jordan"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Amman",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "57",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "56",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "950",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "933",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "950",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "933",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Amman 31°57′N 35°56′E / 31.950°N 35.933°E / 31.950; 35.933"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "Arab",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Circassian",
+            "children": []
+          },
+          {
+            "label": "Chechen",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Armenian",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "95% Arab 3% Circassian , Chechen 2% Armenian and others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Druze",
+            "children": []
+          },
+          {
+            "label": "Bah",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "95% Islam ( official ) 3% Christianity 1% Druze , Baháʼí 1% others"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Jordanian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Jordanian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "constitutional",
+            "children": []
+          },
+          {
+            "label": "monarchy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary constitutional monarchy"
+        ]
+      },
+      {
+        "label": "monarch",
+        "children": [
+          {
+            "label": "Abdullah",
+            "children": []
+          },
+          {
+            "label": "II",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Abdullah II"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Jafar",
+            "children": []
+          },
+          {
+            "label": "Hassan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Jafar Hassan"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Representatives"
+        ]
+      },
+      {
+        "label": "emirate",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "1921",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11 April 1921"
+        ]
+      },
+      {
+        "label": "independence",
+        "children": [
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1946",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "25 May 1946"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "January",
+            "children": []
+          },
+          {
+            "label": "1952",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11 January 1952"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "89",
+            "children": []
+          },
+          {
+            "label": "342",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "495",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "110th",
+            "children": []
+          },
+          {
+            "label": "132",
+            "children": []
+          },
+          {
+            "label": "092",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "91st",
+            "children": []
+          },
+          {
+            "label": "50",
+            "children": []
+          },
+          {
+            "label": "022",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "93rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "89,342 km 2 (34,495 sq mi) ( 110th )",
+          "$132.092 billion ( 91st )",
+          "$50.022 billion ( 93rd )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.6"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "484",
+            "children": []
+          },
+          {
+            "label": "805",
+            "children": []
+          },
+          {
+            "label": "84th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11,484,805 ( 84th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "531",
+            "children": []
+          },
+          {
+            "label": "712",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9,531,712"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "114",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "295",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "70th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "114/km 2 (295.3/sq mi) ( 70th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "809",
+            "children": []
+          },
+          {
+            "label": "112th",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "850",
+            "children": []
+          },
+          {
+            "label": "114th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$12,809 ( 112th )",
+          "$4,850 ( 114th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "35.4 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "754",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "100th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.754 high ( 100th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Jordanian",
+            "children": []
+          },
+          {
+            "label": "dinar",
+            "children": []
+          },
+          {
+            "label": "JOD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Jordanian dinar ( JOD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "03",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "AST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +03:00 ( AST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "962",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+962"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "JO",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "JO"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "jo",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".jo .الاردن"
+        ]
+      }
+    ]
+  }
+}

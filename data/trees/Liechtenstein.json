@@ -4,78 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+423",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Vaduz",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Swiss franc ( CHF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Liechtensteiner",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary semi- constitutional monarchy with elements of a direct democracy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.938 [ 9 ] very high ( 17th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -91,25 +19,16 @@
             "children": []
           },
           {
-            "label": "Location of Liechtenstein (green) in Europe (agate grey) – [ Legend ]",
+            "label": "Location of Liechtenstein (green) in Europe (agate grey) –",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".li",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LI",
+            "label": "Vaduz",
             "children": []
           }
         ]
@@ -118,25 +37,7 @@
         "label": "largest_municipality",
         "children": [
           {
-            "label": "Schaan 47°10′00″N 9°30′35″E ﻿ / ﻿ 47.16667°N 9.50972°E ﻿ / 47.16667; 9.50972",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Landtag",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "nationality",
-        "children": [
-          {
-            "label": "66.2 % Liechtensteiners 9.5 % Swiss 5.8 % Austrians 4.2 % Germans 3.1 % Italians 1.9 % Portuguese 1.6 % Turks 1.1 % Albanians 1.0 % Spaniards 5.6 % other",
+            "label": "Schaan 47°10′00′′N 9°30′35′′E / 47.16667°N 9.50972°E / 47.16667; 9.50972",
             "children": []
           }
         ]
@@ -151,6 +52,15 @@
         ]
       },
       {
+        "label": "nationality",
+        "children": [
+          {
+            "label": "66.2 % Liechtensteiners 9.5 % Swiss 5.8 % Austrians 4.2 % Germans 3.1 % Italians 1.9 % Portuguese 1.6 % Turks 1.1 % Albanians 1.0 % Spaniards 5.6 % other",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -160,37 +70,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +01:00 ( CET )",
+            "label": "Liechtensteiner",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "41,232 [ 5 ] ( 189th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "249/km 2 (644.9/sq mi) ( 56th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "deputy_prime_minister",
-        "children": [
-          {
-            "label": "Sabine Monauni",
+            "label": "Unitary parliamentary semi- constitutional monarchy with elements of a direct democracy",
             "children": []
           }
         ]
@@ -205,14 +97,10 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "regent_and_heir_apparent",
         "children": [
           {
-            "label": "$210,600 [ 6 ]",
-            "children": []
-          },
-          {
-            "label": "$207,974 [ 8 ]",
+            "label": "Alois",
             "children": []
           }
         ]
@@ -227,54 +115,19 @@
         ]
       },
       {
-        "label": "regent_and_heir_apparent",
+        "label": "deputy_prime_minister",
         "children": [
           {
-            "label": "Alois",
+            "label": "Sabine Monauni",
             "children": []
           }
         ]
       },
       {
-        "label": "separation_from_german_confederation",
+        "label": "legislature",
         "children": [
           {
-            "label": "23 August 1866",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "summer_dst",
-        "children": [
-          {
-            "label": "UTC +02:00 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "160.50 [ 3 ] km 2 (61.97 sq mi) ( 190th )",
-            "children": []
-          },
-          {
-            "label": "$7.172 billion [ 6 ] ( 169th )",
-            "children": []
-          },
-          {
-            "label": "$8.288 billion [ 7 ] ( 155th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "treaty_of_pressburg",
-        "children": [
-          {
-            "label": "12 July 1806",
+            "label": "Landtag",
             "children": []
           }
         ]
@@ -289,10 +142,157 @@
         ]
       },
       {
+        "label": "treaty_of_pressburg",
+        "children": [
+          {
+            "label": "12 July 1806",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "separation_from_german_confederation",
+        "children": [
+          {
+            "label": "23 August 1866",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "160.50 km 2 (61.97 sq mi) ( 190th )",
+            "children": []
+          },
+          {
+            "label": "$7.172 billion ( 169th )",
+            "children": []
+          },
+          {
+            "label": "$8.288 billion ( 155th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
-            "label": "2.7 [ 4 ]",
+            "label": "2.7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "41,232 ( 189th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "249/km 2 (644.9/sq mi) ( 56th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$210,600",
+            "children": []
+          },
+          {
+            "label": "$207,974",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.938 very high ( 17th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Swiss franc ( CHF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +01:00 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +02:00 ( CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+423",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "LI",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".li",
             "children": []
           }
         ]

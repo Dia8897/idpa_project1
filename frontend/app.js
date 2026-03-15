@@ -1,4 +1,6 @@
-﻿const DATA_ROOT = "/data";
+const DATA_ROOT = "/data";
+const DISPLAY_TREE_DIR = "trees"; // non-token trees for UI
+const TED_TREE_DIR = "trees_tokens"; // tokenized trees for similarity
 
 const els = {
   countrySelect: document.getElementById("countrySelect"),
@@ -8,6 +10,9 @@ const els = {
   sourceSearch: document.getElementById("sourceSearch"),
   targetSearch: document.getElementById("targetSearch"),
   compareBtn: document.getElementById("compareBtn"),
+  toggleDiffBtn: document.getElementById("toggleDiffBtn"),
+  patchBtn: document.getElementById("patchBtn"),
+  closeDiffBtn: document.getElementById("closeDiffBtn"),
   countryGraph: document.getElementById("countryGraph"),
   sourceGraph: document.getElementById("sourceGraph"),
   targetGraph: document.getElementById("targetGraph"),
@@ -27,6 +32,12 @@ const els = {
   sourceTitle: document.getElementById("sourceTitle"),
   targetTitle: document.getElementById("targetTitle"),
   treeViewMode: document.getElementById("treeViewMode"),
+  diffCard: document.getElementById("diffCard"),
+  diffContent: document.getElementById("diffContent"),
+  diffOverlay: document.getElementById("diffOverlay"),
+  diffOverlayContent: document.getElementById("diffOverlayContent"),
+  patchedCard: document.getElementById("patchedCard"),
+  patchedGraph: document.getElementById("patchedGraph"),
 };
 
 function initModeSelector() {
@@ -174,16 +185,85 @@ async function loadCountries() {
     .sort((a, b) => a.localeCompare(b));
 }
 
-async function loadTreeByCountry(countryName) {
+async function loadTreeByCountry(countryName, dir = DISPLAY_TREE_DIR) {
   const stem = toStem(countryName);
-  const res = await fetch(`${DATA_ROOT}/trees/${encodeURIComponent(stem)}.json`);
+  const res = await fetch(`${DATA_ROOT}/${dir}/${encodeURIComponent(stem)}.json`);
   if (!res.ok) throw new Error(`Could not load tree file for ${countryName}`);
   return res.json();
 }
 
+function cloneNode(node) {
+  return {
+    label: node.label,
+    children: (node.children || []).map(cloneNode),
+  };
+}
+
+function findNode(root, pathParts) {
+  if (!pathParts.length) return root;
+  let cur = root;
+  for (let i = 0; i < pathParts.length; i += 1) {
+    const p = pathParts[i];
+    const child = (cur.children || []).find((c) => c.label === p);
+    if (!child) return null;
+    cur = child;
+  }
+  return cur;
+}
+
+function applyOps(tree, ops) {
+  const root = cloneNode(tree);
+  const parts = (p) => p.split("/").filter(Boolean).slice(1); // drop leading "country"
+  const delOps = ops.filter((o) => o.kind === "DEL");
+  const insOps = ops.filter((o) => o.kind === "INS");
+  const updOps = ops.filter((o) => o.kind === "UPD");
+
+  // Deletes
+  delOps.forEach((op) => {
+    const parent = findNode(root, parts(op.path));
+    if (!parent) return;
+    const idx = (parent.children || []).findIndex((c) => c.label === op.old);
+    if (idx >= 0) parent.children.splice(idx, 1);
+  });
+
+  // Inserts
+  insOps.forEach((op) => {
+    const parent = findNode(root, parts(op.path));
+    if (!parent) return;
+    const subtree = op.subtree || { label: op.new, children: [] };
+    parent.children = parent.children || [];
+    parent.children.push(cloneNode(subtree));
+  });
+
+  // Updates
+  updOps.forEach((op) => {
+    const parent = findNode(root, parts(op.path));
+    if (!parent) return;
+    const child = (parent.children || []).find((c) => c.label === op.old);
+    if (child) child.label = op.new;
+  });
+
+  return root;
+}
+
+async function loadDisplayAndTedTrees(source, target) {
+  const sDisp = loadTreeByCountry(source, DISPLAY_TREE_DIR);
+  const tDisp = loadTreeByCountry(target, DISPLAY_TREE_DIR);
+  const sTed = loadTreeByCountry(source, TED_TREE_DIR);
+  const tTed = loadTreeByCountry(target, TED_TREE_DIR);
+  return Promise.all([sDisp, tDisp, sTed, tTed]);
+}
+
+function displayChildren(node) {
+  if (node.raw_values && node.raw_values.length) {
+    return node.raw_values.map((v) => ({ label: v, children: [] }));
+  }
+  return node.children || [];
+}
+
 function treeNodeHtml(node) {
   const label = escapeHtml(node.label || "");
-  const children = node.children || [];
+  const children = displayChildren(node);
   if (children.length === 0) return `<li><span>${label}</span></li>`;
   const kids = children.map(treeNodeHtml).join("");
   return `<li><details open><summary><span class="node">${label}</span></summary><ul>${kids}</ul></details></li>`;
@@ -192,7 +272,7 @@ function treeNodeHtml(node) {
 function flattenLeaves(node, path = "", out = []) {
   const label = String(node.label || "");
   const current = path ? `${path}/${label}` : `/${label}`;
-  const children = node.children || [];
+  const children = displayChildren(node);
   if (children.length === 0) {
     out.push({ path: current, value: label });
     return out;
@@ -748,9 +828,14 @@ function buildEditScript(t1, t2) {
 }
 
 function opReason(kind) {
-  if (kind === "DEL") return "Remove source-only data.";
-  if (kind === "INS") return "Add target-only data.";
-  return "Align shared field value.";
+  if (kind === "DEL") return "Remove data that exists only in the source country.";
+  if (kind === "INS") return "Add data that exists only in the target country.";
+  return "Change a shared field to match the target value.";
+}
+
+function isNoiseToken(val) {
+  const s = String(val || "").trim();
+  return /^[0-9]+$/.test(s);
 }
 
 function opPath(op) {
@@ -802,27 +887,36 @@ function sortOps(ops) {
 function opCard(op, idx) {
   const id = `${op.kind}-${String(idx + 1).padStart(3, "0")}`;
   const path = opPath(op);
-  let summary;
-  if (op.kind === "DEL") {
-    summary = `Removed <code>${escapeHtml(op.old || "")}</code> from <code>${escapeHtml(path)}</code>`;
-  } else if (op.kind === "INS") {
-    summary = `Inserted <code>${escapeHtml(op.new || "")}</code> into <code>${escapeHtml(path)}</code>`;
-  } else {
-    summary = `Changed <code>${escapeHtml(op.old || "")}</code> ➜ <code>${escapeHtml(op.new || "")}</code> at <code>${escapeHtml(path)}</code>`;
-  }
+  const oldVal = escapeHtml(op.old || "");
+  const newVal = escapeHtml(op.new || "");
+
+  const summary =
+    op.kind === "DEL"
+      ? `Remove <code>${oldVal}</code> from <code>${escapeHtml(path)}</code>`
+      : op.kind === "INS"
+        ? `Add <code>${newVal}</code> under <code>${escapeHtml(path)}</code>`
+        : `Update value at <code>${escapeHtml(path)}</code> from <code>${oldVal}</code> to <code>${newVal}</code>`;
 
   return `
     <article class="op ${op.kind.toLowerCase()}">
-      <div class="op-head"><span class="badge">${id}</span><code>${escapeHtml(path)}</code></div>
-      <div class="reason">${escapeHtml(opReason(op.kind))}</div>
+      <div class="op-head"><span class="badge">${id}</span></div>
       <div class="op-label">${summary}</div>
     </article>`;
 }
 
 function renderTransform(ops) {
-  const delOps = sortOps(ops.filter((o) => o.kind === "DEL"));
-  const insOps = sortOps(ops.filter((o) => o.kind === "INS"));
-  const updOps = sortOps(ops.filter((o) => o.kind === "UPD"));
+  // Hide numeric-only token leaves in the UI to keep it readable.
+  const visibleOps = ops.filter(
+    (o) =>
+      !(
+        o.nodeIsLeaf &&
+        ((o.old && isNoiseToken(o.old)) || (o.new && isNoiseToken(o.new)))
+      )
+  );
+
+  const delOps = sortOps(visibleOps.filter((o) => o.kind === "DEL"));
+  const insOps = sortOps(visibleOps.filter((o) => o.kind === "INS"));
+  const updOps = sortOps(visibleOps.filter((o) => o.kind === "UPD"));
   const size1 = renderTransform.sourceNodeCount || 0;
   const size2 = renderTransform.targetNodeCount || 0;
   const totalNodes = size1 + size2;
@@ -830,7 +924,7 @@ function renderTransform(ops) {
   const outputSimilarity = totalNodes ? Math.max(0, 1 - ted / totalNodes) : 1;
 
   els.stats.innerHTML = `
-    <div class="stat"><div class="k">Total Ops</div><div class="v">${ops.length}</div></div>
+    <div class="stat"><div class="k">Visible Ops</div><div class="v">${visibleOps.length}</div></div>
     <div class="stat"><div class="k">Deletes</div><div class="v">${delOps.length}</div></div>
     <div class="stat"><div class="k">Inserts</div><div class="v">${insOps.length}</div></div>
     <div class="stat"><div class="k">Updates</div><div class="v">${updOps.length}</div></div>
@@ -853,7 +947,14 @@ function renderTransform(ops) {
       el.innerHTML = "";
       return;
     }
-    el.innerHTML = list.length ? list.map(opCard).join("") : '<p class="empty">No operations.</p>';
+    const note =
+      kind === "DEL"
+        ? '<p class="op-note">Remove data present only in the source country.</p>'
+        : kind === "INS"
+          ? '<p class="op-note">Add data present only in the target country.</p>'
+          : '<p class="op-note">Update shared fields to match the target.</p>';
+    const body = list.length ? list.map(opCard).join("") : '<p class="empty">No operations.</p>';
+    el.innerHTML = note + body;
   };
   setOps(els.delOps, delOps, "DEL");
   setOps(els.insOps, insOps, "INS");
@@ -945,7 +1046,7 @@ async function onCountryChange() {
   const country = els.countrySelect.value;
   if (!country) return;
   try {
-    const treeObj = await loadTreeByCountry(country);
+    const treeObj = await loadTreeByCountry(country, DISPLAY_TREE_DIR);
     renderCountry(treeObj);
   } catch (err) {
     els.countryGraph.textContent = String(err);
@@ -961,15 +1062,28 @@ async function onCompare() {
   try {
     if (els.sourceTitle) els.sourceTitle.textContent = `${source} Tree`;
     if (els.targetTitle) els.targetTitle.textContent = `${target} Tree`;
-    const [sObj, tObj] = await Promise.all([loadTreeByCountry(source), loadTreeByCountry(target)]);
-    const ops = buildEditScript(sObj.tree, tObj.tree);
-    const nodeMaps = buildNodeTransformMaps(ops);
-    renderTransform.sourceNodeCount = countNodes(sObj.tree);
-    renderTransform.targetNodeCount = countNodes(tObj.tree);
-    renderNodeTree(els.sourceGraph, sObj.tree, { transformMap: nodeMaps.source });
-    renderNodeTree(els.targetGraph, tObj.tree, { transformMap: nodeMaps.target });
-    renderTransform(ops);
+    const [sDisplay, tDisplay, sTed, tTed] = await loadDisplayAndTedTrees(source, target);
+    const opsDisplay = buildEditScript(sDisplay.tree, tDisplay.tree); // readable diff
+    const opsToken = buildEditScript(sTed.tree, tTed.tree); // tokenized diff for TED
+    const nodeMaps = buildNodeTransformMaps(opsDisplay);
+    renderTransform.sourceNodeCount = countNodes(sTed.tree);
+    renderTransform.targetNodeCount = countNodes(tTed.tree);
+    renderNodeTree(els.sourceGraph, sDisplay.tree, { transformMap: nodeMaps.source });
+    renderNodeTree(els.targetGraph, tDisplay.tree, { transformMap: nodeMaps.target });
+    renderTransform(opsToken); // similarity & stats use tokenized ops
     applyTreeViewMode();
+
+    window.__lastOps = opsDisplay; // for diff overlay + patch (readable)
+    window.__lastOpsToken = opsToken; // for TED stats
+    if (els.toggleDiffBtn) {
+      els.toggleDiffBtn.disabled = opsDisplay.length === 0;
+      els.toggleDiffBtn.dataset.source = source;
+      els.toggleDiffBtn.dataset.target = target;
+    }
+    if (els.patchBtn) {
+      els.patchBtn.disabled = opsDisplay.length === 0;
+    }
+    updateDiffPanel(source, target, opsDisplay);
   } catch (err) {
     els.stats.innerHTML = `<div class="empty">${escapeHtml(String(err))}</div>`;
     els.sourceGraph.textContent = "";
@@ -977,7 +1091,85 @@ async function onCompare() {
     els.delOps.innerHTML = "";
     els.insOps.innerHTML = "";
     els.updOps.innerHTML = "";
+    if (els.toggleDiffBtn) els.toggleDiffBtn.disabled = true;
+    if (els.patchBtn) els.patchBtn.disabled = true;
+    if (els.diffOverlay) els.diffOverlay.style.display = "none";
   }
+}
+
+function buildDiffPayload(source, target, ops) {
+  const delOps = ops.filter((o) => o.kind === "DEL");
+  const insOps = ops.filter((o) => o.kind === "INS");
+  const updOps = ops.filter((o) => o.kind === "UPD");
+  return {
+    algorithm: "Nierman-Jagadish (client-side)",
+    tree_dir: "data/trees_tokens",
+    source,
+    target,
+    operation_counts: {
+      total: ops.length,
+      delete: delOps.length,
+      insert: insOps.length,
+      update: updOps.length,
+    },
+    operations: ops,
+    execution_order: {
+      delete_first: true,
+      insert_second: true,
+      update_third: true,
+    },
+  };
+}
+
+function updateDiffPanel(source, target, ops) {
+  if (!els.diffOverlayContent) return;
+  if (!ops || !ops.length) {
+    els.diffOverlayContent.textContent = "Run a comparison to view the diff.";
+    return;
+  }
+  const payload = buildDiffPayload(source, target, ops);
+  els.diffOverlayContent.textContent = JSON.stringify(payload, null, 2);
+}
+
+function enableDiffToggle() {
+  if (!els.toggleDiffBtn) return;
+  els.toggleDiffBtn.addEventListener("click", () => {
+    if (!els.diffOverlay) return;
+    const source = els.toggleDiffBtn.dataset.source;
+    const target = els.toggleDiffBtn.dataset.target;
+    const ops = window.__lastOps || [];
+    updateDiffPanel(source, target, ops);
+    const isHidden = els.diffOverlay.style.display === "none" || !els.diffOverlay.style.display;
+    els.diffOverlay.style.display = isHidden ? "flex" : "none";
+    els.toggleDiffBtn.textContent = isHidden ? "Hide Diff" : "Show Diff";
+  });
+
+  if (els.closeDiffBtn) {
+    els.closeDiffBtn.addEventListener("click", () => {
+      if (!els.diffOverlay || !els.toggleDiffBtn) return;
+      els.diffOverlay.style.display = "none";
+      els.toggleDiffBtn.textContent = "Show Diff";
+    });
+  }
+}
+
+function enablePatchPreview() {
+  if (!els.patchBtn) return;
+  els.patchBtn.addEventListener("click", () => {
+    const ops = window.__lastOps || [];
+    if (!ops.length) return;
+    const source = els.sourceSelect.value;
+    if (!source) return;
+    loadTreeByCountry(source, DISPLAY_TREE_DIR)
+      .then((sTed) => {
+        const patched = applyOps(sTed.tree, ops);
+        if (els.patchedCard) els.patchedCard.style.display = "block";
+        if (els.patchedGraph) renderNodeTree(els.patchedGraph, patched);
+      })
+      .catch((err) => {
+        console.error(err);
+      });
+  });
 }
 
 async function init() {
@@ -1000,6 +1192,8 @@ async function init() {
 
     els.countrySelect.addEventListener("change", onCountryChange);
     els.compareBtn.addEventListener("click", onCompare);
+    enableDiffToggle();
+    enablePatchPreview();
     if (els.opFilter) els.opFilter.addEventListener("change", onCompare);
     if (els.treeViewMode) els.treeViewMode.addEventListener("change", applyTreeViewMode);
     initHome();

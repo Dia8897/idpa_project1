@@ -4,10 +4,18 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+7",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: Государственный гимн Российской Федерации Gosudarstvennyy gimn Rossiyskoy Federatsii \" State Anthem of the Russian Federation \"",
+            "children": []
+          },
+          {
+            "label": "Recognised territory Claimed but internationally unrecognised Show globe Show region with labels Show map of Europe",
             "children": []
           }
         ]
@@ -16,25 +24,25 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Moscow 55°45′21″N 37°37′02″E ﻿ / ﻿ 55.75583°N 37.61722°E ﻿ / 55.75583; 37.61722",
+            "label": "Moscow 55°45′21′′N 37°37′02′′E / 55.75583°N 37.61722°E / 55.75583; 37.61722",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Russian ruble ( ₽ ) ( RUB )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
+        "label": "official_language_and_national_language",
         "children": [
           {
             "label": "Russian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognised_regional_languages",
+        "children": [
+          {
+            "label": "35 regional official languages",
             "children": []
           }
         ]
@@ -49,28 +57,10 @@
         ]
       },
       {
-        "label": "gdp_ppp",
+        "label": "demonyms",
         "children": [
           {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "36.0 [ 16 ] medium inequality",
+            "label": "Russian",
             "children": []
           }
         ]
@@ -79,163 +69,7 @@
         "label": "government",
         "children": [
           {
-            "label": "Federal semi-presidential republic [ 6 ] under an authoritarian [ 7 ] [ 8 ] dictatorship [ 9 ] [ 10 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.832 [ 17 ] very high ( 64th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Государственный гимн Российской Федерации Gosudarstvennyy gimn Rossiyskoy Federatsii \" State Anthem of the Russian Federation \"",
-            "children": []
-          },
-          {
-            "label": "Recognised territory Claimed but internationally unrecognised [ a ] Show globe Show region with labels Show map of Europe",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ru .рф",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "RU",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Federal Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_language_and_national_language",
-        "children": [
-          {
-            "label": "Russian [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "recognised_regional_languages",
-        "children": [
-          {
-            "label": "35 regional official languages [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 to +12",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "146,028,325 [ 13 ] (including Crimea) [ 14 ] 143,569,049 (excluding Crimea) ( 9th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "12 December 1993",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_state_sovereignty",
-        "children": [
-          {
-            "label": "12 June 1990",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "8.4/km 2 (21.8/sq mi) ( 187th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kievan_rus",
-        "children": [
-          {
-            "label": "882",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "State Duma",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "monarchy_abolished",
-        "children": [
-          {
-            "label": "15 March 1917",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$49,049 [ 15 ] ( 49th )",
-            "children": []
-          },
-          {
-            "label": "$17,446 [ 15 ] ( 68th )",
+            "label": "Federal semi-presidential republic under an authoritarian dictatorship",
             "children": []
           }
         ]
@@ -259,63 +93,10 @@
         ]
       },
       {
-        "label": "principality_of_moscow",
+        "label": "legislature",
         "children": [
           {
-            "label": "1282",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "russian_empire",
-        "children": [
-          {
-            "label": "2 November 1721",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "russian_federation",
-        "children": [
-          {
-            "label": "12 December 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "soviet_union",
-        "children": [
-          {
-            "label": "30 December 1922",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "17,098,246 km 2 (6,601,670 sq mi) [ 12 ] (within internationally recognised borders)",
-            "children": []
-          },
-          {
-            "label": "$7.143 trillion [ 15 ] ( 4th )",
-            "children": []
-          },
-          {
-            "label": "$2.541 trillion [ 15 ] ( 9th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "tsardom_of_russia",
-        "children": [
-          {
-            "label": "16 January 1547",
+            "label": "Federal Assembly",
             "children": []
           }
         ]
@@ -330,6 +111,24 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "State Duma",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kievan_rus",
+        "children": [
+          {
+            "label": "882",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "vladimirsuzdal",
         "children": [
           {
@@ -339,10 +138,211 @@
         ]
       },
       {
+        "label": "principality_of_moscow",
+        "children": [
+          {
+            "label": "1282",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "tsardom_of_russia",
+        "children": [
+          {
+            "label": "16 January 1547",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "russian_empire",
+        "children": [
+          {
+            "label": "2 November 1721",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "monarchy_abolished",
+        "children": [
+          {
+            "label": "15 March 1917",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "soviet_union",
+        "children": [
+          {
+            "label": "30 December 1922",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declaration_of_state_sovereignty",
+        "children": [
+          {
+            "label": "12 June 1990",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "russian_federation",
+        "children": [
+          {
+            "label": "12 December 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "12 December 1993",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "17,098,246 km 2 (6,601,670 sq mi) (within internationally recognised borders)",
+            "children": []
+          },
+          {
+            "label": "$7.143 trillion ( 4th )",
+            "children": []
+          },
+          {
+            "label": "$2.541 trillion ( 9th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
-            "label": "13 [ 11 ] (including swamps)",
+            "label": "13 (including swamps)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "146,028,325 (including Crimea) 143,569,049 (excluding Crimea) ( 9th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "8.4/km 2 (21.8/sq mi) ( 187th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$49,049 ( 49th )",
+            "children": []
+          },
+          {
+            "label": "$17,446 ( 68th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "36.0 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.832 very high ( 64th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Russian ruble ( ₽ ) ( RUB )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 to +12",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "RU",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ru .рф",
             "children": []
           }
         ]

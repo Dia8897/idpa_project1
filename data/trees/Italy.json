@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+39 c",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Rome 41°54′N 12°29′E ﻿ / ﻿ 41.900°N 12.483°E ﻿ / 41.900; 12.483",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro (€) b ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Italian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "32.5 [ 8 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.915 [ 9 ] very high ( 29th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -100,34 +19,25 @@
             "children": []
           },
           {
-            "label": "German is co-official in South Tyrol and Friuli-Venezia Giulia ; French is co-official in the Aosta Valley ; Slovene is co-official in the province of Trieste , the province of Gorizia , and Friuli-Venezia Giulia; Ladin is co-official in South Tyrol, in Trentino and in other northern areas; Friulian is co-official in Friuli-Venezia Giulia; Sardinian is co-official in Sardinia . [ 10 ] Before 2002, the Italian lira . The euro is accepted in Campione d'Italia , but its official currency is the Swiss franc . [ 11 ] To call Campione d'Italia, it is necessary to use the Swiss code +41 .",
+            "label": "German is co-official in South Tyrol and Friuli-Venezia Giulia ; French is co-official in the Aosta Valley ; Slovene is co-official in the province of Trieste , the province of Gorizia , and Friuli-Venezia Giulia; Ladin is co-official in South Tyrol, in Trentino and in other northern areas; Friulian is co-official in Friuli-Venezia Giulia; Sardinian is co-official in Sardinia . Before 2002, the Italian lira . The euro is accepted in Campione d'Italia , but its official currency is the Swiss franc . To call Campione d'Italia, it is necessary to use the Swiss code +41 .",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".it",
+            "label": "Rome 41°54′N 12°29′E / 41.900°N 12.483°E / 41.900; 12.483",
             "children": []
           }
         ]
       },
       {
-        "label": "iso_3166_code",
+        "label": "official_languages",
         "children": [
           {
-            "label": "IT",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Italian a",
             "children": []
           }
         ]
@@ -151,15 +61,6 @@
         ]
       },
       {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Italian a",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "religion",
         "children": [
           {
@@ -169,19 +70,91 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( CET )",
+            "label": "Italian",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "58,915,561 [ 6 ] ( 25th )",
+            "label": "Unitary parliamentary republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Sergio Mattarella",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Giorgia Meloni",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president_of_the_senate",
+        "children": [
+          {
+            "label": "Ignazio La Russa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president_of_the_chamber_of_deputies",
+        "children": [
+          {
+            "label": "Lorenzo Fontana",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate of the Republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber of Deputies",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "italic_peoples",
+        "children": [
+          {
+            "label": "Antiquity",
             "children": []
           }
         ]
@@ -196,10 +169,10 @@
         ]
       },
       {
-        "label": "density",
+        "label": "romanbarbarian_kingdoms_byzantine_italy",
         "children": [
           {
-            "label": "195.5/km 2 (506.3/sq mi) ( 72nd )",
+            "label": "Early Middle Ages",
             "children": []
           }
         ]
@@ -209,6 +182,15 @@
         "children": [
           {
             "label": "Middle Ages and Modern period",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom_of_italy",
+        "children": [
+          {
+            "label": "1861–1946 17 March 1861 ; 164 years ago ( 1861-03-17 )",
             "children": []
           }
         ]
@@ -232,28 +214,54 @@
         ]
       },
       {
-        "label": "italic_peoples",
+        "label": "total",
         "children": [
           {
-            "label": "Antiquity",
+            "label": "301,340 km 2 (116,350 sq mi) ( 71st )",
+            "children": []
+          },
+          {
+            "label": "$3.719 trillion ( 11th )",
+            "children": []
+          },
+          {
+            "label": "$2.423 trillion ( 8th )",
             "children": []
           }
         ]
       },
       {
-        "label": "kingdom_of_italy",
+        "label": "water",
         "children": [
           {
-            "label": "1861–1946 17 March 1861 ; 164 years ago ( 1861-03-17 )",
+            "label": "1.24 (2015)",
             "children": []
           }
         ]
       },
       {
-        "label": "lower_house",
+        "label": "estimate",
         "children": [
           {
-            "label": "Chamber of Deputies",
+            "label": "58,915,561 ( 25th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "195.5/km 2 (506.3/sq mi) ( 72nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
             "children": []
           }
         ]
@@ -262,56 +270,56 @@
         "label": "per_capita",
         "children": [
           {
-            "label": "$63,076 [ 7 ] ( 29th )",
+            "label": "$63,076 ( 29th )",
             "children": []
           },
           {
-            "label": "$41,091 [ 7 ] ( 27th )",
+            "label": "$41,091 ( 27th )",
             "children": []
           }
         ]
       },
       {
-        "label": "president",
+        "label": "gdp_nominal",
         "children": [
           {
-            "label": "Sergio Mattarella",
+            "label": "2025 estimate",
             "children": []
           }
         ]
       },
       {
-        "label": "president_of_the_chamber_of_deputies",
+        "label": "gini",
         "children": [
           {
-            "label": "Lorenzo Fontana",
+            "label": "32.5 medium inequality",
             "children": []
           }
         ]
       },
       {
-        "label": "president_of_the_senate",
+        "label": "hdi",
         "children": [
           {
-            "label": "Ignazio La Russa",
+            "label": "0.915 very high ( 29th )",
             "children": []
           }
         ]
       },
       {
-        "label": "prime_minister",
+        "label": "currency",
         "children": [
           {
-            "label": "Giorgia Meloni",
+            "label": "Euro (€) b ( EUR )",
             "children": []
           }
         ]
       },
       {
-        "label": "romanbarbarian_kingdoms_byzantine_italy",
+        "label": "time_zone",
         "children": [
           {
-            "label": "Early Middle Ages",
+            "label": "UTC +1 ( CET )",
             "children": []
           }
         ]
@@ -326,36 +334,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "calling_code",
         "children": [
           {
-            "label": "301,340 km 2 (116,350 sq mi) [ 4 ] [ 5 ] ( 71st )",
-            "children": []
-          },
-          {
-            "label": "$3.719 trillion [ 7 ] ( 11th )",
-            "children": []
-          },
-          {
-            "label": "$2.423 trillion [ 7 ] ( 8th )",
+            "label": "+39 c",
             "children": []
           }
         ]
       },
       {
-        "label": "upper_house",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "Senate of the Republic",
+            "label": "IT",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "internet_tld",
         "children": [
           {
-            "label": "1.24 (2015) [ 3 ]",
+            "label": ".it",
             "children": []
           }
         ]

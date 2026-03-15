@@ -1,0 +1,863 @@
+{
+  "country_name": "Mauritania",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Seal",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Honour",
+            "children": []
+          },
+          {
+            "label": "Fraternity",
+            "children": []
+          },
+          {
+            "label": "Justice",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Mauritania",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          },
+          {
+            "label": "According",
+            "children": []
+          },
+          {
+            "label": "to",
+            "children": []
+          },
+          {
+            "label": "Article",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Constitution",
+            "children": []
+          },
+          {
+            "label": "The",
+            "children": []
+          },
+          {
+            "label": "national",
+            "children": []
+          },
+          {
+            "label": "languages",
+            "children": []
+          },
+          {
+            "label": "are",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          },
+          {
+            "label": "Pulaar",
+            "children": []
+          },
+          {
+            "label": "Soninke",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Wolof",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          },
+          {
+            "label": "language",
+            "children": []
+          },
+          {
+            "label": "is",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Seal",
+          "Motto: شرف، إخاء، عدل \"Honour, Fraternity, Justice\"",
+          "Anthem: النشيد الوطني الموريتاني \" National Anthem of Mauritania \"",
+          "Show globe Show map of Africa",
+          "According to Article 6 of the Constitution: \"The national languages are Arabic, Pulaar , Soninke , and Wolof ; the official language is Arabic.\""
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Nouakchott",
+            "children": []
+          },
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "09",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "58",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "150",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "967",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "150",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "967",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Nouakchott 18°09′N 15°58′W / 18.150°N 15.967°W / 18.150; -15.967"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic"
+        ]
+      },
+      {
+        "label": "recognised_national_languages",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          },
+          {
+            "label": "Pulaar",
+            "children": []
+          },
+          {
+            "label": "Soninke",
+            "children": []
+          },
+          {
+            "label": "Wolof",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic Pulaar Soninke Wolof"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "40",
+            "children": []
+          },
+          {
+            "label": "Haratin",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "Beidane",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "Halpulaar",
+            "children": []
+          },
+          {
+            "label": "Fulani",
+            "children": []
+          },
+          {
+            "label": "Sonink",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Wolof",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "40% Haratin 30% Beidane 30% Halpulaar , Fulani , Soninké , and Wolof"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "Sunni",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sunni Islam ( official )"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Mauritanian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mauritanian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "semi",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "Islamic",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary semi-presidential Islamic republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Mohamed",
+            "children": []
+          },
+          {
+            "label": "Ould",
+            "children": []
+          },
+          {
+            "label": "Ghazouani",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mohamed Ould Ghazouani"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Mokhtar",
+            "children": []
+          },
+          {
+            "label": "Ould",
+            "children": []
+          },
+          {
+            "label": "Djay",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mokhtar Ould Djay"
+        ]
+      },
+      {
+        "label": "president_of_the_national_assembly",
+        "children": [
+          {
+            "label": "Mohamed",
+            "children": []
+          },
+          {
+            "label": "Ould",
+            "children": []
+          },
+          {
+            "label": "Meguett",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mohamed Ould Meguett"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "republic_established",
+        "children": [
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1958",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "28 November 1958"
+        ]
+      },
+      {
+        "label": "independence_from_france",
+        "children": [
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1960",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "28 November 1960"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "12 July 1991"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "030",
+            "children": []
+          },
+          {
+            "label": "000",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "400",
+            "children": []
+          },
+          {
+            "label": "000",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "28th",
+            "children": []
+          },
+          {
+            "label": "40",
+            "children": []
+          },
+          {
+            "label": "060",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "143rd",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "470",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "149th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1,030,000 km 2 (400,000 sq mi) ( 28th )",
+          "$40.060 billion ( 143rd )",
+          "$11.470 billion ( 149th )"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "328",
+            "children": []
+          },
+          {
+            "label": "040",
+            "children": []
+          },
+          {
+            "label": "128th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4,328,040 ( 128th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3.4/km 2 (8.8/sq mi)"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "650",
+            "children": []
+          },
+          {
+            "label": "130th",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "480",
+            "children": []
+          },
+          {
+            "label": "144th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$8,650 ( 130th )",
+          "$2,480 ( 144th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "32.6 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "563",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "163rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.563 medium ( 163rd )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Ouguiya",
+            "children": []
+          },
+          {
+            "label": "MRU",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ouguiya ( MRU )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "GMT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC ±00:00 ( GMT )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "222",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+222"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "MR",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "MR"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "mr",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".mr"
+        ]
+      }
+    ]
+  }
+}

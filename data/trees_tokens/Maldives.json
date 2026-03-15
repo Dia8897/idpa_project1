@@ -1,0 +1,778 @@
+{
+  "country_name": "Maldives",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          },
+          {
+            "label": "Ad",
+            "children": []
+          },
+          {
+            "label": "Dawlat",
+            "children": []
+          },
+          {
+            "label": "Al",
+            "children": []
+          },
+          {
+            "label": "Mahaldibiyyat",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Gaumee",
+            "children": []
+          },
+          {
+            "label": "Salaam",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Salute",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Maldives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Motto: الدولة المحلديبية ( Arabic ) Ad-Dawlat Al-Mahaldibiyyat",
+          "Anthem: ޤައުމީ ސަލާމް \" Gaumee Salaam \" \"National Salute\"",
+          "Show globe Show map of Maldives"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Mal",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "73",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "17528",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "73",
+            "children": []
+          },
+          {
+            "label": "50889",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "17528",
+            "children": []
+          },
+          {
+            "label": "73",
+            "children": []
+          },
+          {
+            "label": "50889",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Malé 4°10′31′′N 73°30′32′′E / 4.17528°N 73.50889°E / 4.17528; 73.50889"
+        ]
+      },
+      {
+        "label": "official_language_and_national_language",
+        "children": [
+          {
+            "label": "Dhivehi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Dhivehi"
+        ]
+      },
+      {
+        "label": "common_language",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "Sunni",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sunni Islam ( official )"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Maldivian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Maldivian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Mohamed",
+            "children": []
+          },
+          {
+            "label": "Muizzu",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mohamed Muizzu"
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Hussain",
+            "children": []
+          },
+          {
+            "label": "Mohamed",
+            "children": []
+          },
+          {
+            "label": "Latheef",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Hussain Mohamed Latheef"
+        ]
+      },
+      {
+        "label": "speaker",
+        "children": [
+          {
+            "label": "Abdul",
+            "children": []
+          },
+          {
+            "label": "Raheem",
+            "children": []
+          },
+          {
+            "label": "Abdulla",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Abdul Raheem Abdulla"
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Abdul",
+            "children": []
+          },
+          {
+            "label": "Ghanee",
+            "children": []
+          },
+          {
+            "label": "Mohamed",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Abdul Ghanee Mohamed"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "People",
+            "children": []
+          },
+          {
+            "label": "s",
+            "children": []
+          },
+          {
+            "label": "Majlis",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "People's Majlis"
+        ]
+      },
+      {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1965",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "26 July 1965"
+        ]
+      },
+      {
+        "label": "second_republic",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1968",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11 November 1968"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "2008",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7 August 2008"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "298",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "115",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "187th",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "867",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "157th",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "984",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "161st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "298 km 2 (115 sq mi) ( 187th )",
+          "$13.867 billion ( 157th )",
+          "$6.984 billion ( 161st )"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "601",
+            "children": []
+          },
+          {
+            "label": "269",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "601,269"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "515",
+            "children": []
+          },
+          {
+            "label": "132",
+            "children": []
+          },
+          {
+            "label": "167th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "515,132 ( 167th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "728",
+            "children": []
+          },
+          {
+            "label": "63",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "477",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "8th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1,728.63/km 2 (4,477.1/sq mi) ( 8th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "322",
+            "children": []
+          },
+          {
+            "label": "54th",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "287",
+            "children": []
+          },
+          {
+            "label": "58th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$34,322 ( 54th )",
+          "$17,287 ( 58th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "31.3 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "766",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "93rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.766 high ( 93rd )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Maldivian",
+            "children": []
+          },
+          {
+            "label": "rufiyaa",
+            "children": []
+          },
+          {
+            "label": "MVR",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Maldivian rufiyaa ( MVR )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "MVT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +5 ( MVT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd / mm / yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "960",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+960"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "MV",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "MV"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "mv",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".mv"
+        ]
+      }
+    ]
+  }
+}

@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+92",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Islamabad 33°41′30″N 73°3′0″E ﻿ / ﻿ 33.69167°N 73.05000°E ﻿ / 33.69167; 73.05000",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Pakistani rupee (₨) ( PKR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd - mm - yyyy [ e ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Pakistani",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "29.6 low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal parliamentary Islamic republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.544 low ( 168th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -101,7 +11,7 @@
             "children": []
           },
           {
-            "label": "Motto: Īmān, Ittihād, Nazam ( Urdu ) ایمان، اتحاد، نظم \"Faith, Unity, Discipline\" [ 2 ]",
+            "label": "Motto: Īmān, Ittihād, Nazam ( Urdu ) ایمان، اتحاد، نظم \"Faith, Unity, Discipline\"",
             "children": []
           },
           {
@@ -119,19 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".pk پاکستان.",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PK",
+            "label": "Islamabad 33°41′30′′N 73°3′0′′E / 33.69167°N 73.05000°E / 33.69167; 73.05000",
             "children": []
           }
         ]
@@ -140,25 +41,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Karachi 24°51′36″N 67°0′36″E ﻿ / ﻿ 24.86000°N 67.01000°E ﻿ / 24.86000; 67.01000",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "native_languages",
-        "children": [
-          {
-            "label": "Over 77 languages [ 4 ]",
+            "label": "Karachi 24°51′36′′N 67°0′36′′E / 24.86000°N 67.01000°E / 24.86000; 67.01000",
             "children": []
           }
         ]
@@ -167,7 +50,16 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Urdu English [ a ]",
+            "label": "Urdu English",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "native_languages",
+        "children": [
+          {
+            "label": "Over 77 languages",
             "children": []
           }
         ]
@@ -176,92 +68,25 @@
         "label": "religion",
         "children": [
           {
-            "label": "96.3% Islam ( official ) [ b ] 2.2% Hinduism 1.4% Christianity 0.1% other",
+            "label": "96.3% Islam ( official ) 2.2% Hinduism 1.4% Christianity 0.1% other",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +5 ( PKT )",
+            "label": "Pakistani",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "241,499,431 [ d ] ( 5th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "14 August 1973",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration",
-        "children": [
-          {
-            "label": "23 March 1940",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "273.8/km 2 (709.1/sq mi) ( 56th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "eastern_territory_withdrawn",
-        "children": [
-          {
-            "label": "16 December 1971",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "last_territorys_acquisition",
-        "children": [
-          {
-            "label": "8 December 1958",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$6,950 ( 148th )",
-            "children": []
-          },
-          {
-            "label": "$1,710 ( 160th )",
+            "label": "Federal parliamentary Islamic republic",
             "children": []
           }
         ]
@@ -285,6 +110,42 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declaration",
+        "children": [
+          {
+            "label": "23 March 1940",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "recognized_dominion",
         "children": [
           {
@@ -303,10 +164,37 @@
         ]
       },
       {
+        "label": "last_territorys_acquisition",
+        "children": [
+          {
+            "label": "8 December 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "eastern_territory_withdrawn",
+        "children": [
+          {
+            "label": "16 December 1971",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "14 August 1973",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
-            "label": "881,913 km 2 (340,509 sq mi) [ c ] [ 6 ] ( 33rd )",
+            "label": "881,913 km 2 (340,509 sq mi) ( 33rd )",
             "children": []
           },
           {
@@ -320,19 +208,131 @@
         ]
       },
       {
-        "label": "upper_house",
+        "label": "water",
         "children": [
           {
-            "label": "Senate",
+            "label": "2.86",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "census",
         "children": [
           {
-            "label": "2.86",
+            "label": "241,499,431 ( 5th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "273.8/km 2 (709.1/sq mi) ( 56th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$6,950 ( 148th )",
+            "children": []
+          },
+          {
+            "label": "$1,710 ( 160th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "29.6 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.544 low ( 168th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Pakistani rupee (Rs) ( PKR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +5 ( PKT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd - mm - yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+92",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "PK",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".pk پاکستان.",
             "children": []
           }
         ]

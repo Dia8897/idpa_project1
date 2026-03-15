@@ -1,0 +1,954 @@
+{
+  "country_name": "Tunisia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "urr",
+            "children": []
+          },
+          {
+            "label": "yah",
+            "children": []
+          },
+          {
+            "label": "Ni",
+            "children": []
+          },
+          {
+            "label": "m",
+            "children": []
+          },
+          {
+            "label": "Ad",
+            "children": []
+          },
+          {
+            "label": "lah",
+            "children": []
+          },
+          {
+            "label": "Freedom",
+            "children": []
+          },
+          {
+            "label": "Order",
+            "children": []
+          },
+          {
+            "label": "Justice",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Humat",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Hima",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Defenders",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Homeland",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Tunisia",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: حرية، نظام، عدالة \" Ḥurrīyah, Niẓām, 'Adālah \" \" Freedom, Order, Justice \"",
+          "Anthem: حماة الحمى \" Humat al-Hima \" (English: \"Defenders of the Homeland\" )",
+          "Show globe Show map of Tunisia"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Tunis",
+            "children": []
+          },
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "49",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "817",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "183",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "817",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "183",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tunis 36°49′N 10°11′E / 36.817°N 10.183°E / 36.817; 10.183"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic"
+        ]
+      },
+      {
+        "label": "local_vernacular",
+        "children": [
+          {
+            "label": "Tunisian",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tunisian Arabic"
+        ]
+      },
+      {
+        "label": "foreign_languages",
+        "children": [
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "French and English"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "98",
+            "children": []
+          },
+          {
+            "label": "Arabs",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Berbers",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Jews",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "98% Arabs 1% Berbers 1% Jews and others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "99",
+            "children": []
+          },
+          {
+            "label": "Sunni",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "99% Sunni Islam 1% others"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Tunisian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tunisian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Kais",
+            "children": []
+          },
+          {
+            "label": "Saied",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kais Saied"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Sara",
+            "children": []
+          },
+          {
+            "label": "Zaafarani",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sara Zaafarani"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Council",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Regions",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Districts",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Council of Regions and Districts"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Assembly",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "People",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Assembly of the Representatives of the People"
+        ]
+      },
+      {
+        "label": "ancient_carthage",
+        "children": [
+          {
+            "label": "814",
+            "children": []
+          },
+          {
+            "label": "BC",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "814 BC"
+        ]
+      },
+      {
+        "label": "aghlabid_emirate",
+        "children": [
+          {
+            "label": "800",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "800"
+        ]
+      },
+      {
+        "label": "hafsid_sultanate",
+        "children": [
+          {
+            "label": "1229",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1229"
+        ]
+      },
+      {
+        "label": "beylik_of_tunis",
+        "children": [
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1705",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "15 July 1705"
+        ]
+      },
+      {
+        "label": "french_protectorate",
+        "children": [
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1881",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "12 May 1881"
+        ]
+      },
+      {
+        "label": "independence_and_kingdom",
+        "children": [
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "March",
+            "children": []
+          },
+          {
+            "label": "1956",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "20 March 1956"
+        ]
+      },
+      {
+        "label": "republic_declaration",
+        "children": [
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1957",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "25 July 1957"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "163",
+            "children": []
+          },
+          {
+            "label": "610",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "63",
+            "children": []
+          },
+          {
+            "label": "170",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "91st",
+            "children": []
+          },
+          {
+            "label": "183",
+            "children": []
+          },
+          {
+            "label": "73",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "84th",
+            "children": []
+          },
+          {
+            "label": "56",
+            "children": []
+          },
+          {
+            "label": "290",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "90th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "163,610 km 2 (63,170 sq mi) ( 91st )",
+          "$183.73 billion ( 84th )",
+          "$56.290 billion ( 90th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "04",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "5.04"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "972",
+            "children": []
+          },
+          {
+            "label": "169",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11,972,169"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "79",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "204",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "134th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "79/km 2 (204.6/sq mi) ( 134th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "780",
+            "children": []
+          },
+          {
+            "label": "111th",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "530",
+            "children": []
+          },
+          {
+            "label": "121st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$14,780 ( 111th )",
+          "$4,530 ( 121st )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "33.7 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "746",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "105th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.746 high ( 105th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Tunisian",
+            "children": []
+          },
+          {
+            "label": "dinar",
+            "children": []
+          },
+          {
+            "label": "TND",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tunisian dinar ( TND )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "CET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +1 ( CET )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "216",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+216"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "TN",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "TN"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "tn",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".tn .تونس"
+        ]
+      }
+    ]
+  }
+}

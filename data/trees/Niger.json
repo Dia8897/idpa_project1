@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+227",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Niamey 13°30′49″N 2°06′32″E ﻿ / ﻿ 13.51361°N 2.10889°E ﻿ / 13.51361; 2.10889",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West African CFA franc ( XOF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Nigérois, Nigerien [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "53.1% Hausa 21.2% Zarma and Songhay 11.0% Tuareg 6.5% Fulani 5.9% Kanuri 0.8% Gurma 0.4% Toubou 0.4% Arab 0.9% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "32.9 [ 9 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic under a military junta",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.419 [ 10 ] low ( 188th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,19 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ne",
+            "label": "Niamey 13°30′49′′N 2°06′32′′E / 13.51361°N 2.10889°E / 13.51361; 2.10889",
             "children": []
           }
         ]
       },
       {
-        "label": "iso_3166_code",
+        "label": "official_languages",
         "children": [
           {
-            "label": "NE",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Council for the Safeguard of the Homeland",
+            "label": "Hausa",
             "children": []
           }
         ]
@@ -151,10 +52,10 @@
         ]
       },
       {
-        "label": "official_languages",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "Hausa [ 1 ]",
+            "label": "53.1% Hausa 21.2% Zarma and Songhay 11.0% Tuareg 6.5% Fulani 5.9% Kanuri 0.8% Gurma 0.4% Toubou 0.4% Arab 0.9% others",
             "children": []
           }
         ]
@@ -169,68 +70,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( WAT )",
+            "label": "Nigérois, Nigerien",
             "children": []
           }
         ]
       },
       {
-        "label": "coup_detat",
+        "label": "government",
         "children": [
           {
-            "label": "26 July 2023",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "26,342,784 [ 7 ] ( 56th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "transitional_charter",
-        "children": [
-          {
-            "label": "26 March 2025 [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "3 August 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "21/km 2 (54.4/sq mi) ( 204th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$2,100 [ 8 ] ( 176th )",
-            "children": []
-          },
-          {
-            "label": "$751 [ 8 ] ( 181st )",
+            "label": "Unitary semi-presidential republic under a military junta",
             "children": []
           }
         ]
@@ -245,10 +97,10 @@
         ]
       },
       {
-        "label": "president_of_the_state_court_of_niger",
+        "label": "vice_president",
         "children": [
           {
-            "label": "Abdou Dan Galadima",
+            "label": "Salifou Modi",
             "children": []
           }
         ]
@@ -263,10 +115,55 @@
         ]
       },
       {
+        "label": "president_of_the_state_court_of_niger",
+        "children": [
+          {
+            "label": "Abdou Dan Galadima",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Council for the Safeguard of the Homeland",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "republic_proclaimed",
         "children": [
           {
             "label": "18 December 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "3 August 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "coup_detat",
+        "children": [
+          {
+            "label": "26 July 2023",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "transitional_charter",
+        "children": [
+          {
+            "label": "26 March 2025",
             "children": []
           }
         ]
@@ -279,20 +176,11 @@
             "children": []
           },
           {
-            "label": "$61.040 billion [ 8 ] ( 128th )",
+            "label": "$61.040 billion ( 128th )",
             "children": []
           },
           {
-            "label": "$21.870 billion [ 8 ] ( 123rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Salifou Modi",
+            "label": "$21.870 billion ( 123rd )",
             "children": []
           }
         ]
@@ -302,6 +190,118 @@
         "children": [
           {
             "label": "0.02",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "26,342,784 ( 56th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "21/km 2 (54.4/sq mi) ( 204th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$2,100 ( 176th )",
+            "children": []
+          },
+          {
+            "label": "$751 ( 181st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "32.9 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.419 low ( 188th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "West African CFA franc ( XOF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( WAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+227",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "NE",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ne",
             "children": []
           }
         ]

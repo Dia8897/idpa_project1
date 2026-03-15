@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+507",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Panama City 8°58′N 79°32′W ﻿ / ﻿ 8.967°N 79.533°W ﻿ / 8.967; -79.533",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Balboa ( PAB ) United States dollar ( USD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "mm/dd/yyyy dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Panamanian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "65.0% Mestizo (mixed White and Indigenous ) 12.3% Indigenous 9.2% Black 6.8% Mulatto (mixed White and Black ) 6.7% White",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "48.9 [ 7 ] high inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.839 [ 8 ] very high ( 59th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -124,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".pa",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Panama City 8°58′N 79°32′W / 8.967°N 79.533°W / 8.967; -79.533",
             "children": []
           }
         ]
@@ -169,6 +52,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "65.0% Mestizo (mixed White and Indigenous ) 12.3% Indigenous 9.2% Black 6.8% Mulatto (mixed White and Black ) 6.7% White",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -178,68 +70,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −5 ( EST )",
+            "label": "Panamanian",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "4,337,768 [ 5 ] ( 127th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "October 11, 1972",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "56/km 2 (145.0/sq mi) ( 122nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_republic_of_colombia",
-        "children": [
-          {
-            "label": "November 3, 1903",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_spanish_empire",
-        "children": [
-          {
-            "label": "November 28, 1821",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$42,772 [ 6 ] ( 50th )",
-            "children": []
-          },
-          {
-            "label": "$20,092 [ 6 ] ( 55th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -254,18 +97,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "vice_president",
         "children": [
           {
-            "label": "75,417 km 2 (29,119 sq mi) [ 3 ] [ 4 ] ( 116th )",
+            "label": "Vacant",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
           {
-            "label": "$195.279 billion [ 6 ] ( 80th )",
+            "label": "National Assembly",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "from_spanish_empire",
+        "children": [
           {
-            "label": "$91.731 billion [ 6 ] ( 77th )",
+            "label": "November 28, 1821",
             "children": []
           }
         ]
@@ -280,10 +133,36 @@
         ]
       },
       {
-        "label": "vice_president",
+        "label": "from_republic_of_colombia",
         "children": [
           {
-            "label": "Vacant",
+            "label": "November 3, 1903",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "October 11, 1972",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "75,417 km 2 (29,119 sq mi) ( 116th )",
+            "children": []
+          },
+          {
+            "label": "$195.279 billion ( 80th )",
+            "children": []
+          },
+          {
+            "label": "$91.731 billion ( 77th )",
             "children": []
           }
         ]
@@ -293,6 +172,127 @@
         "children": [
           {
             "label": "2.9",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "4,337,768 ( 127th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "56/km 2 (145.0/sq mi) ( 122nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$42,772 ( 50th )",
+            "children": []
+          },
+          {
+            "label": "$20,092 ( 55th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "48.9 high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.839 very high ( 59th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Balboa ( PAB ) United States dollar ( USD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −5 ( EST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "mm/dd/yyyy dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+507",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "PA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".pa",
             "children": []
           }
         ]

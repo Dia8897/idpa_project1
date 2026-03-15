@@ -1,0 +1,1061 @@
+{
+  "country_name": "Lebanon",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Kullun",
+            "children": []
+          },
+          {
+            "label": "li",
+            "children": []
+          },
+          {
+            "label": "l",
+            "children": []
+          },
+          {
+            "label": "wa",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          },
+          {
+            "label": "All",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "us",
+            "children": []
+          },
+          {
+            "label": "for",
+            "children": []
+          },
+          {
+            "label": "our",
+            "children": []
+          },
+          {
+            "label": "country",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Lebanon",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag",
+          "Anthem: كلّنا للوطن Kullunā li-l-waṭan \"All of us, for our country!\"",
+          "Location of Lebanon (in green)"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Beirut",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "54",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "900",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "533",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "900",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "533",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Beirut 33°54′N 35°32′E / 33.900°N 35.533°E / 33.900; 35.533"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic"
+        ]
+      },
+      {
+        "label": "local_vernacular",
+        "children": [
+          {
+            "label": "Lebanese",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Lebanese Arabic"
+        ]
+      },
+      {
+        "label": "recognised_minority_language",
+        "children": [
+          {
+            "label": "French",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "French"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "Arab",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Armenian",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "95% Arab 4% Armenian 1% others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "53",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "84",
+            "children": []
+          },
+          {
+            "label": "Shia",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "64",
+            "children": []
+          },
+          {
+            "label": "Alawite",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "55",
+            "children": []
+          },
+          {
+            "label": "Sunni",
+            "children": []
+          },
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "40",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "Catholic",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "Orthodox",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "92",
+            "children": []
+          },
+          {
+            "label": "Armenian",
+            "children": []
+          },
+          {
+            "label": "Apostolic",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "53",
+            "children": []
+          },
+          {
+            "label": "Protestant",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "64",
+            "children": []
+          },
+          {
+            "label": "Other",
+            "children": []
+          },
+          {
+            "label": "Christians",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "Druze",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "08",
+            "children": []
+          },
+          {
+            "label": "No",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "53.31% Islam 26.84% Shia 0.64% Alawite 26.55% Sunni 41.40% Christianity 28.11% Catholic 8.30% Orthodox 2.92% Armenian Apostolic 0.53% Protestant 1.64% Other Christians 5.21% Druze 0.08% No religion"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Lebanese",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Lebanese"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "under",
+            "children": []
+          },
+          {
+            "label": "confessionalism",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary republic under confessionalism"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Joseph",
+            "children": []
+          },
+          {
+            "label": "Aoun",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Joseph Aoun"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Nawaf",
+            "children": []
+          },
+          {
+            "label": "Salam",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Nawaf Salam"
+        ]
+      },
+      {
+        "label": "speaker_of_the_parliament",
+        "children": [
+          {
+            "label": "Nabih",
+            "children": []
+          },
+          {
+            "label": "Berri",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Nabih Berri"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "emirate_of_mount_lebanon",
+        "children": [
+          {
+            "label": "1516",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1516"
+        ]
+      },
+      {
+        "label": "double_qaimmaqamate_of_mount_lebanon",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1843",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 December 1843"
+        ]
+      },
+      {
+        "label": "mount_lebanon_mutasarrifate",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "June",
+            "children": []
+          },
+          {
+            "label": "1861",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9 June 1861"
+        ]
+      },
+      {
+        "label": "greater_lebanon",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1920",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 September 1920"
+        ]
+      },
+      {
+        "label": "constitution",
+        "children": [
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1926",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "23 May 1926"
+        ]
+      },
+      {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1943",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "22 November 1943"
+        ]
+      },
+      {
+        "label": "french_mandate_ended",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1945",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "24 October 1945"
+        ]
+      },
+      {
+        "label": "withdrawal_of_french_forces",
+        "children": [
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "1946",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "17 April 1946"
+        ]
+      },
+      {
+        "label": "israeli_troops_withdrawn",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "2000",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "24 May 2000"
+        ]
+      },
+      {
+        "label": "syrian_troops_withdrawn",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "2005",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "30 April 2005"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "452",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "036",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "161st",
+            "children": []
+          },
+          {
+            "label": "78",
+            "children": []
+          },
+          {
+            "label": "233",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "108th",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "780",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "103rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "10,452 km 2 (4,036 sq mi) ( 161st )",
+          "$78.233 billion ( 108th )",
+          "$21.780 billion ( 103rd )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1.8"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "364",
+            "children": []
+          },
+          {
+            "label": "482",
+            "children": []
+          },
+          {
+            "label": "117th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "5,364,482 ( 117th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "513",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "328",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "513/km 2 (1,328.7/sq mi)"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2022",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2022 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "793",
+            "children": []
+          },
+          {
+            "label": "114th",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "283",
+            "children": []
+          },
+          {
+            "label": "133rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$11,793 ( 114th )",
+          "$3,283 ( 133rd )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2022",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2022 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "31.8 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "752",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "102nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.752 high ( 102nd )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Lebanese",
+            "children": []
+          },
+          {
+            "label": "pound",
+            "children": []
+          },
+          {
+            "label": "LBP",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Lebanese pound ( LBP )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "EET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( EET )"
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "EEST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +3 ( EEST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "961",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+961"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "LB",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "LB"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "lb",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".lb .لبنان"
+        ]
+      }
+    ]
+  }
+}

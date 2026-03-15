@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+257",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Gitega 3°30′S 30°00′E ﻿ / ﻿ 3.500°S 30.000°E ﻿ / -3.500; 30.000",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Burundian franc (FBu) ( BIF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Burundian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "100% Barundi 85% Hutu 14% Tutsi 1% Twa ~1% other [ a ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "37.5 [ 10 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary dominant-party presidential republic under an authoritarian dictatorship [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.439 [ 11 ] low ( 187th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,19 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".bi",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BI",
+            "label": "Gitega 3°30′S 30°00′E / 3.500°S 30.000°E / -3.500; 30.000",
             "children": []
           }
         ]
@@ -142,19 +43,10 @@
         ]
       },
       {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "official_languages",
         "children": [
           {
-            "label": "Kirundi French English [ 1 ]",
+            "label": "Kirundi French English",
             "children": []
           }
         ]
@@ -169,6 +61,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "100% Barundi 85% Hutu 14% Tutsi 1% Twa ~1% other",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -178,64 +79,64 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +2 ( CAT )",
+            "label": "Burundian",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "14,151,540 [ 8 ] ( 78th )",
+            "label": "Unitary dominant-party presidential republic under an authoritarian dictatorship",
             "children": []
           }
         ]
       },
       {
-        "label": "burundian_civil_war",
+        "label": "president",
         "children": [
           {
-            "label": "21 October 1993 – 15 May 2005",
+            "label": "Évariste Ndayishimiye",
             "children": []
           }
         ]
       },
       {
-        "label": "current_constitution",
+        "label": "prime_minister",
         "children": [
           {
-            "label": "17 May 2018",
+            "label": "Nestor Ntahontuye",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "vice_president",
         "children": [
           {
-            "label": "565/km 2 (1,463.3/sq mi) ( 25th )",
+            "label": "Prosper Bazombanza",
             "children": []
           }
         ]
       },
       {
-        "label": "independence_from_belgium",
+        "label": "legislature",
         "children": [
           {
-            "label": "1 July 1962",
+            "label": "Parliament",
             "children": []
           }
         ]
       },
       {
-        "label": "kingdom_of_urundi",
+        "label": "upper_house",
         "children": [
           {
-            "label": "1680–1966",
+            "label": "Senate",
             "children": []
           }
         ]
@@ -245,6 +146,15 @@
         "children": [
           {
             "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom_of_urundi",
+        "children": [
+          {
+            "label": "1680–1966",
             "children": []
           }
         ]
@@ -268,32 +178,10 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "independence_from_belgium",
         "children": [
           {
-            "label": "$1,020 [ 9 ] ( 185th )",
-            "children": []
-          },
-          {
-            "label": "$489 [ 9 ] ( 186th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Évariste Ndayishimiye [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Nestor Ntahontuye",
+            "label": "1 July 1962",
             "children": []
           }
         ]
@@ -308,36 +196,36 @@
         ]
       },
       {
+        "label": "burundian_civil_war",
+        "children": [
+          {
+            "label": "21 October 1993 – 15 May 2005",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "17 May 2018",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
-            "label": "27,834 km 2 (10,747 sq mi) [ 7 ] ( 142nd )",
+            "label": "27,834 km 2 (10,747 sq mi) ( 142nd )",
             "children": []
           },
           {
-            "label": "$13.980 billion [ 9 ] ( 161th )",
+            "label": "$13.980 billion ( 161th )",
             "children": []
           },
           {
-            "label": "$6.750 billion [ 9 ] ( 157th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "Senate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Prosper Bazombanza",
+            "label": "$6.750 billion ( 157th )",
             "children": []
           }
         ]
@@ -346,7 +234,119 @@
         "label": "water",
         "children": [
           {
-            "label": "10 [ 6 ]",
+            "label": "10",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "14,151,540 ( 78th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "565/km 2 (1,463.3/sq mi) ( 25th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$1,020 ( 185th )",
+            "children": []
+          },
+          {
+            "label": "$489 ( 186th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "37.5 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.439 low ( 187th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Burundian franc (FBu) ( BIF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( CAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+257",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BI",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".bi",
             "children": []
           }
         ]

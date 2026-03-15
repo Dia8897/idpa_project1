@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Kingstown 13°10′N 61°14′W ﻿ / ﻿ 13.167°N 61.233°W ﻿ / 13.167; -61.233",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "East Caribbean dollar ( XCD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "mm/dd/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Vincentian Grenadinian Saint Vincentian Vincy (colloquial)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "66% African 19% Mixed 6% Indian 4% European 2% Kalinago 3% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.798 [ 8 ] high ( 76th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -105,34 +15,16 @@
             "children": []
           },
           {
-            "label": "Anthem: \" Saint Vincent, Land So Beautiful \" Royal anthem : \" God Save the King \" [ a ]",
+            "label": "Anthem: \" Saint Vincent, Land So Beautiful \" Royal anthem : \" God Save the King \"",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".vc",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "VC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "House of Assembly",
+            "label": "Kingstown 13°10′N 61°14′W / 13.167°N 61.233°W / 13.167; -61.233",
             "children": []
           }
         ]
@@ -147,24 +39,6 @@
         ]
       },
       {
-        "label": "religion",
-        "children": [
-          {
-            "label": "88.6% Christianity 70.2% Protestantism 18.4% Other Christian 3.4% Hinduism 2.5% Irreligion 1.8% Rastafari 1.6% Baháʼí Faith 1.5% Islam 0.5% Other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC -4 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "vernacular_language",
         "children": [
           {
@@ -174,55 +48,37 @@
         ]
       },
       {
-        "label": "census",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "109,991 [ 6 ]",
+            "label": "66% African 19% Mixed 6% Indian 4% European 2% Kalinago 3% others",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "religion",
         "children": [
           {
-            "label": "110,872 [ 5 ] ( 180th )",
+            "label": "88.6% Christianity 70.2% Protestantism 18.4% Other Christian 3.4% Hinduism 2.5% Irreligion 1.8% Rastafari 1.6% Baháʼí Faith 1.5% Islam 0.5% Other",
             "children": []
           }
         ]
       },
       {
-        "label": "associated_state",
+        "label": "demonyms",
         "children": [
           {
-            "label": "27 October 1969",
+            "label": "Vincentian Grenadinian Saint Vincentian Vincy (colloquial)",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "government",
         "children": [
           {
-            "label": "307/km 2 (795.1/sq mi) ( 39th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_the_united_kingdom",
-        "children": [
-          {
-            "label": "27 October 1979",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "governorgeneral",
-        "children": [
-          {
-            "label": "Sir Stanley John",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -237,14 +93,10 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "governorgeneral",
         "children": [
           {
-            "label": "$17,840 [ 7 ]",
-            "children": []
-          },
-          {
-            "label": "$9,360 [ 7 ]",
+            "label": "Sir Stanley John",
             "children": []
           }
         ]
@@ -254,6 +106,33 @@
         "children": [
           {
             "label": "Godwin Friday",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "House of Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "associated_state",
+        "children": [
+          {
+            "label": "27 October 1969",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "from_the_united_kingdom",
+        "children": [
+          {
+            "label": "27 October 1979",
             "children": []
           }
         ]
@@ -280,6 +159,127 @@
         "children": [
           {
             "label": "negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "110,872 ( 180th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "109,991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "307/km 2 (795.1/sq mi) ( 39th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$17,840",
+            "children": []
+          },
+          {
+            "label": "$9,360",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.798 high ( 76th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "East Caribbean dollar ( XCD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC -4 ( AST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "mm/dd/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "VC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".vc",
             "children": []
           }
         ]

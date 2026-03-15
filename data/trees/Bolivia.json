@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "administrative_center",
-        "children": [
-          {
-            "label": "La Paz [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+591",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Sucre [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Boliviano ( BOB )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bolivian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "40.9 [ 7 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.733 [ 8 ] high ( 108th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -114,7 +15,7 @@
             "children": []
           },
           {
-            "label": "Dual flag: Wiphala [ 1 ] [ 2 ] [ 3 ]",
+            "label": "Dual flag: Wiphala",
             "children": []
           },
           {
@@ -124,19 +25,19 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".bo",
+            "label": "Sucre",
             "children": []
           }
         ]
       },
       {
-        "label": "iso_3166_code",
+        "label": "administrative_center",
         "children": [
           {
-            "label": "BO",
+            "label": "La Paz",
             "children": []
           }
         ]
@@ -145,16 +46,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Santa Cruz 17°48′S 63°10′W ﻿ / ﻿ 17.800°S 63.167°W ﻿ / -17.800; -63.167",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Plurinational Legislative Assembly",
+            "label": "Santa Cruz 17°48′S 63°10′W / 17.800°S 63.167°W / -17.800; -63.167",
             "children": []
           }
         ]
@@ -178,68 +70,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −04:00 ( BOT )",
+            "label": "Bolivian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "11,365,333 [ 5 ] ( 84th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "7 February 2009",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "6 August 1825",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "10.4/km 2 (26.9/sq mi) ( 224th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Chamber of Deputies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$11,574 [ 6 ] ( 120th )",
-            "children": []
-          },
-          {
-            "label": "$4,525 [ 6 ] ( 126th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -254,10 +97,10 @@
         ]
       },
       {
-        "label": "president_of_the_chamber_of_deputies",
+        "label": "vice_president",
         "children": [
           {
-            "label": "Roberto Castro Salazar",
+            "label": "Edmand Lara",
             "children": []
           }
         ]
@@ -272,27 +115,19 @@
         ]
       },
       {
-        "label": "recognized",
+        "label": "president_of_the_chamber_of_deputies",
         "children": [
           {
-            "label": "21 July 1847",
+            "label": "Roberto Castro Salazar",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "1,098,581 km 2 (424,164 sq mi) ( 27th )",
-            "children": []
-          },
-          {
-            "label": "$144.098 billion [ 6 ] ( 94th )",
-            "children": []
-          },
-          {
-            "label": "$56.339 billion [ 6 ] ( 94th )",
+            "label": "Plurinational Legislative Assembly",
             "children": []
           }
         ]
@@ -307,10 +142,54 @@
         ]
       },
       {
-        "label": "vice_president",
+        "label": "lower_house",
         "children": [
           {
-            "label": "Edmand Lara",
+            "label": "Chamber of Deputies",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "6 August 1825",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "21 July 1847",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "7 February 2009",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1,098,581 km 2 (424,164 sq mi) ( 27th )",
+            "children": []
+          },
+          {
+            "label": "$144.098 billion ( 94th )",
+            "children": []
+          },
+          {
+            "label": "$56.339 billion ( 94th )",
             "children": []
           }
         ]
@@ -320,6 +199,127 @@
         "children": [
           {
             "label": "1.29",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "11,365,333 ( 84th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "10.4/km 2 (26.9/sq mi) ( 224th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$11,574 ( 120th )",
+            "children": []
+          },
+          {
+            "label": "$4,525 ( 126th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "40.9 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.733 high ( 108th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Boliviano ( BOB )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −04:00 ( BOT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+591",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BO",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".bo",
             "children": []
           }
         ]

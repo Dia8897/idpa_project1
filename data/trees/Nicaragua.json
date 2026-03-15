@@ -4,10 +4,22 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+505",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: En Dios confiamos ( Spanish ) \" In God We Trust \"",
+            "children": []
+          },
+          {
+            "label": "Anthem: Salve a ti, Nicaragua \"Hail to Thee, Nicaragua\"",
+            "children": []
+          },
+          {
+            "label": "Dual flag: Rojinegra",
             "children": []
           }
         ]
@@ -16,136 +28,7 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Managua 12°6′N 86°14′W ﻿ / ﻿ 12.100°N 86.233°W ﻿ / 12.100; -86.233",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Córdoba ( NIO )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd-mm-yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Nicaraguan Pinolero/Pinolera (colloquial)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "69% Mestizo (mixed White and Indigenous ) 17% White 9% Black 5% Indigenous",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "46.2 [ 14 ] high inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary diarchic presidential socialist republic [ c ] under an authoritarian dictatorship [ d ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.706 [ 15 ] high ( 123rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Motto: En Dios confiamos ( Spanish ) \" In God We Trust \" [ a ]",
-            "children": []
-          },
-          {
-            "label": "Anthem: Salve a ti, Nicaragua \"Hail to Thee, Nicaragua\"",
-            "children": []
-          },
-          {
-            "label": "Dual flag: Rojinegra [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ni",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NI",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Managua 12°6′N 86°14′W / 12.100°N 86.233°W / 12.100; -86.233",
             "children": []
           }
         ]
@@ -169,6 +52,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "69% Mestizo (mixed White and Indigenous ) 17% White 9% Black 5% Indigenous",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -178,28 +70,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −6 ( CST )",
+            "label": "Nicaraguan Pinolero/Pinolera (colloquial)",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "6,676,948 [ 12 ] ( 106th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "Alba Luz Ramos",
+            "label": "Unitary diarchic presidential socialist republic under an authoritarian dictatorship",
             "children": []
           }
         ]
@@ -214,19 +97,28 @@
         ]
       },
       {
-        "label": "current_constitution",
+        "label": "president_of_the_national_assembly",
         "children": [
           {
-            "label": "9 January 1987 [ 11 ]",
+            "label": "Gustavo Porras Cortés",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "chief_justice",
         "children": [
           {
-            "label": "51/km 2 (132.1/sq mi) ( 155th )",
+            "label": "Alba Luz Ramos",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
             "children": []
           }
         ]
@@ -241,15 +133,6 @@
         ]
       },
       {
-        "label": "from_the_federal_republic_of_central_america",
-        "children": [
-          {
-            "label": "30 April 1838",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "from_the_first_mexican_empire",
         "children": [
           {
@@ -259,32 +142,10 @@
         ]
       },
       {
-        "label": "nicaraguan_revolution",
+        "label": "from_the_federal_republic_of_central_america",
         "children": [
           {
-            "label": "19 July 1979",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$8,492 [ 13 ] ( 129th )",
-            "children": []
-          },
-          {
-            "label": "$2,673 [ 13 ] ( 134th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president_of_the_national_assembly",
-        "children": [
-          {
-            "label": "Gustavo Porras Cortés",
+            "label": "30 April 1838",
             "children": []
           }
         ]
@@ -299,6 +160,24 @@
         ]
       },
       {
+        "label": "nicaraguan_revolution",
+        "children": [
+          {
+            "label": "19 July 1979",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "9 January 1987",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
@@ -306,11 +185,11 @@
             "children": []
           },
           {
-            "label": "$56.697 billion [ 13 ] ( 115th )",
+            "label": "$56.697 billion ( 115th )",
             "children": []
           },
           {
-            "label": "$17.843 billion [ 13 ] ( 127th )",
+            "label": "$17.843 billion ( 127th )",
             "children": []
           }
         ]
@@ -320,6 +199,127 @@
         "children": [
           {
             "label": "7.14",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "6,676,948 ( 106th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "51/km 2 (132.1/sq mi) ( 155th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$8,492 ( 129th )",
+            "children": []
+          },
+          {
+            "label": "$2,673 ( 134th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "46.2 high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.706 high ( 123rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Córdoba ( NIO )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −6 ( CST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd-mm-yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+505",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "NI",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ni",
             "children": []
           }
         ]

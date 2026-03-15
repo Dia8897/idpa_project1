@@ -1,0 +1,1033 @@
+{
+  "country_name": "Hungary",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Himnusz",
+            "children": []
+          },
+          {
+            "label": "Hungarian",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Hymn",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Hungary",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "Europe",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "grey",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "European",
+            "children": []
+          },
+          {
+            "label": "Union",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Anthem: \" Himnusz \" ( Hungarian ) (English: \"Hymn\" )",
+          "Location of Hungary (dark green) – in Europe (green & dark grey) – in the European Union (green)"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Budapest",
+            "children": []
+          },
+          {
+            "label": "47",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "47",
+            "children": []
+          },
+          {
+            "label": "433",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "250",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "47",
+            "children": []
+          },
+          {
+            "label": "433",
+            "children": []
+          },
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "250",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Budapest 47°26′N 19°15′E / 47.433°N 19.250°E / 47.433; 19.250"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Hungarian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Hungarian"
+        ]
+      },
+      {
+        "label": "ethnic_groups_census",
+        "children": [
+          {
+            "label": "97",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Hungarian",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Romani",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "German",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "97.7% Hungarian 2.4% Romani 1.2% German 1.3% other"
+        ]
+      },
+      {
+        "label": "religion_census",
+        "children": [
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "40",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "answer",
+            "children": []
+          },
+          {
+            "label": "16",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "irreligion",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "42.5% Christianity 27.5% Catholicism 15% other Christian 40.1% no answer 16.1% irreligion 1.3% others"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Hungarian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Hungarian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Tam",
+            "children": []
+          },
+          {
+            "label": "s",
+            "children": []
+          },
+          {
+            "label": "Sulyok",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tamás Sulyok"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Viktor",
+            "children": []
+          },
+          {
+            "label": "Orb",
+            "children": []
+          },
+          {
+            "label": "n",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Viktor Orbán"
+        ]
+      },
+      {
+        "label": "speaker",
+        "children": [
+          {
+            "label": "L",
+            "children": []
+          },
+          {
+            "label": "szl",
+            "children": []
+          },
+          {
+            "label": "K",
+            "children": []
+          },
+          {
+            "label": "v",
+            "children": []
+          },
+          {
+            "label": "r",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "László Kövér"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "hungarian_conquest_of_the_carpathian_basin",
+        "children": [
+          {
+            "label": "862",
+            "children": []
+          },
+          {
+            "label": "895",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "862–895"
+        ]
+      },
+      {
+        "label": "principality_of_hungary",
+        "children": [
+          {
+            "label": "895",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "895"
+        ]
+      },
+      {
+        "label": "christian_kingdom",
+        "children": [
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1000",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "25 December 1000"
+        ]
+      },
+      {
+        "label": "golden_bull_of_1222",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "1222",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "24 April 1222"
+        ]
+      },
+      {
+        "label": "battle_of_mohacs",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1526",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29 August 1526"
+        ]
+      },
+      {
+        "label": "liberation_of_buda",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1686",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2 September 1686"
+        ]
+      },
+      {
+        "label": "revolution_of_1848",
+        "children": [
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "March",
+            "children": []
+          },
+          {
+            "label": "1848",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "15 March 1848"
+        ]
+      },
+      {
+        "label": "austriahungary",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "March",
+            "children": []
+          },
+          {
+            "label": "1867",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "30 March 1867"
+        ]
+      },
+      {
+        "label": "treaty_of_trianon",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "June",
+            "children": []
+          },
+          {
+            "label": "1920",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4 June 1920"
+        ]
+      },
+      {
+        "label": "third_republic",
+        "children": [
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1989",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "23 October 1989"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "93",
+            "children": []
+          },
+          {
+            "label": "030",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "920",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "108th",
+            "children": []
+          },
+          {
+            "label": "460",
+            "children": []
+          },
+          {
+            "label": "380",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "56th",
+            "children": []
+          },
+          {
+            "label": "247",
+            "children": []
+          },
+          {
+            "label": "760",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "56th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "93,030 km 2 (35,920 sq mi) ( 108th )",
+          "$460.380 billion ( 56th )",
+          "$247.760 billion ( 56th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3.7"
+        ]
+      },
+      {
+        "label": "january_estimate",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "584",
+            "children": []
+          },
+          {
+            "label": "627",
+            "children": []
+          },
+          {
+            "label": "95th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9,584,627 ( 95th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "603",
+            "children": []
+          },
+          {
+            "label": "634",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9,603,634"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "103",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "266",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "111th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "103/km 2 (266.8/sq mi) ( 111th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "48",
+            "children": []
+          },
+          {
+            "label": "160",
+            "children": []
+          },
+          {
+            "label": "46th",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "920",
+            "children": []
+          },
+          {
+            "label": "50th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$48,160 ( 46th )",
+          "$25,920 ( 50th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29.0 low inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "870",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "46th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.870 very high ( 46th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Forint",
+            "children": []
+          },
+          {
+            "label": "HUF",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Forint ( HUF )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "CET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +1 ( CET )"
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "CEST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( CEST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "36",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+36"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "HU",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "HU"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "hu",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".hu"
+        ]
+      }
+    ]
+  }
+}

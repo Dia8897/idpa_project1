@@ -1,0 +1,974 @@
+{
+  "country_name": "Gambia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Progress",
+            "children": []
+          },
+          {
+            "label": "Peace",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Prosperity",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "For",
+            "children": []
+          },
+          {
+            "label": "The",
+            "children": []
+          },
+          {
+            "label": "Gambia",
+            "children": []
+          },
+          {
+            "label": "Our",
+            "children": []
+          },
+          {
+            "label": "Homeland",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Gambia",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "western",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \"Progress, Peace, and Prosperity\"",
+          "Anthem: \" For The Gambia Our Homeland \"",
+          "Location of the Gambia (dark green) in western Africa"
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Banjul",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "16",
+            "children": []
+          },
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "45000",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "16",
+            "children": []
+          },
+          {
+            "label": "57500",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "45000",
+            "children": []
+          },
+          {
+            "label": "16",
+            "children": []
+          },
+          {
+            "label": "57500",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Banjul 13°27′00′′N 16°34′30′′W / 13.45000°N 16.57500°W / 13.45000; -16.57500"
+        ]
+      },
+      {
+        "label": "largest_metropolitan_area",
+        "children": [
+          {
+            "label": "Serrekunda",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Serrekunda"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English"
+        ]
+      },
+      {
+        "label": "national_languages",
+        "children": [
+          {
+            "label": "List",
+            "children": []
+          },
+          {
+            "label": "Mandinka",
+            "children": []
+          },
+          {
+            "label": "Pulaar",
+            "children": []
+          },
+          {
+            "label": "Wolof",
+            "children": []
+          },
+          {
+            "label": "Serer",
+            "children": []
+          },
+          {
+            "label": "Jola",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Balanta",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          },
+          {
+            "label": "Jola",
+            "children": []
+          },
+          {
+            "label": "Fonyi",
+            "children": []
+          },
+          {
+            "label": "Mandjak",
+            "children": []
+          },
+          {
+            "label": "Mankanya",
+            "children": []
+          },
+          {
+            "label": "Noon",
+            "children": []
+          },
+          {
+            "label": "Dyula",
+            "children": []
+          },
+          {
+            "label": "Soninke",
+            "children": []
+          },
+          {
+            "label": "Fula",
+            "children": []
+          },
+          {
+            "label": "Karon",
+            "children": []
+          },
+          {
+            "label": "Kassonke",
+            "children": []
+          },
+          {
+            "label": "Cangin",
+            "children": []
+          },
+          {
+            "label": "Gambian",
+            "children": []
+          },
+          {
+            "label": "Sign",
+            "children": []
+          },
+          {
+            "label": "Language",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "List: Mandinka Pulaar Wolof Serer Jola English Balanta Arabic Jola-Fonyi Mandjak Mankanya Noon Dyula Soninke Fula Karon Kassonke Cangin Gambian Sign Language"
+        ]
+      },
+      {
+        "label": "ethnic_groups_population_and_housing_census",
+        "children": [
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Mandinka",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "Fula",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Wolof",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Jola",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Soninke",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "Serer",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "34.4% Mandinka 25.0% Fula 15.4% Wolof 9.5% Jola 8.2% Soninke 2.9% Serer 4.6% other"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "95.7% Islam 4.2% Christianity 0.1% others"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Gambian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Gambian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Adama",
+            "children": []
+          },
+          {
+            "label": "Barrow",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Adama Barrow"
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Muhammad",
+            "children": []
+          },
+          {
+            "label": "B",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "Jallow",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Muhammad B. S. Jallow"
+        ]
+      },
+      {
+        "label": "speaker_of_the_national_assembly",
+        "children": [
+          {
+            "label": "Fabakary",
+            "children": []
+          },
+          {
+            "label": "Tombong",
+            "children": []
+          },
+          {
+            "label": "Jatta",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Fabakary Tombong Jatta"
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Hassan",
+            "children": []
+          },
+          {
+            "label": "Bubacar",
+            "children": []
+          },
+          {
+            "label": "Jallow",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Hassan Bubacar Jallow"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "from_the_united_kingdom",
+        "children": [
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1965",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "18 February 1965"
+        ]
+      },
+      {
+        "label": "dissolution_of_the_senegambia_confederation",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1989",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "30 September 1989"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "300",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "400",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "159th",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "050",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "166th",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "670",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "185th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11,300 km 2 (4,400 sq mi) ( 159th )",
+          "$11.050 billion ( 166th )",
+          "$2.670 billion ( 185th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11.5"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "422",
+            "children": []
+          },
+          {
+            "label": "712",
+            "children": []
+          },
+          {
+            "label": "142th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2,422,712 ( 142th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "227",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "587",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "51th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "227/km 2 (587.9/sq mi) ( 51th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "820",
+            "children": []
+          },
+          {
+            "label": "175th",
+            "children": []
+          },
+          {
+            "label": "924",
+            "children": []
+          },
+          {
+            "label": "180th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$3,820 ( 175th )",
+          "$924 ( 180th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "35.9 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "524",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "170th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.524 low ( 170th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Gambian",
+            "children": []
+          },
+          {
+            "label": "dalasi",
+            "children": []
+          },
+          {
+            "label": "GMD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Gambian dalasi ( GMD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "GMT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC ±00:00 ( GMT )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "220",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+220"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "GM",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "GM"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "gm",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".gm"
+        ]
+      }
+    ]
+  }
+}

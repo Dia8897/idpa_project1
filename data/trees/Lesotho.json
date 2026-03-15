@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+266",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Maseru 29°18′54″S 27°29′13″E ﻿ / ﻿ 29.31500°S 27.48694°E ﻿ / -29.31500; 27.48694",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Lesotho loti (LSL) South African rand (ZAR)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Mosotho (singular) Basotho (plural)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "99.7% Basotho 0.3% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "44.9 [ 4 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.550 [ 5 ] medium ( 167th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ls",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LS",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Maseru 29°18′54′′S 27°29′13′′E / 29.31500°S 27.48694°E / -29.31500; 27.48694",
             "children": []
           }
         ]
@@ -151,6 +43,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "99.7% Basotho 0.3% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -160,55 +61,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +02:00 ( SAST )",
+            "label": "Mosotho (singular) Basotho (plural)",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "2,210,646 [ 2 ] ( 147th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "basutoland",
-        "children": [
-          {
-            "label": "18 March 1884",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "68.1/km 2 (176.4/sq mi) ( 138th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "4 October 1966",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -223,19 +88,6 @@
         ]
       },
       {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$3,234 [ 3 ] ( 164th )",
-            "children": []
-          },
-          {
-            "label": "$1,110 [ 3 ] ( 169th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "prime_minister",
         "children": [
           {
@@ -245,18 +97,10 @@
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "30,355 km 2 (11,720 sq mi) ( 137th )",
-            "children": []
-          },
-          {
-            "label": "$6.915 billion [ 3 ] ( 168th )",
-            "children": []
-          },
-          {
-            "label": "$2.373 billion [ 3 ] ( 184th )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -271,10 +115,166 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "basutoland",
+        "children": [
+          {
+            "label": "18 March 1884",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "4 October 1966",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "30,355 km 2 (11,720 sq mi) ( 137th )",
+            "children": []
+          },
+          {
+            "label": "$6.915 billion ( 168th )",
+            "children": []
+          },
+          {
+            "label": "$2.373 billion ( 184th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "2,210,646 ( 147th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "68.1/km 2 (176.4/sq mi) ( 138th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$3,234 ( 164th )",
+            "children": []
+          },
+          {
+            "label": "$1,110 ( 169th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "44.9 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.550 medium ( 167th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Lesotho loti (LSL) South African rand (ZAR)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +02:00 ( SAST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+266",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "LS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ls",
             "children": []
           }
         ]

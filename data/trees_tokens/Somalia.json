@@ -1,0 +1,1001 @@
+{
+  "country_name": "Somalia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Qolobaa",
+            "children": []
+          },
+          {
+            "label": "Calankeed",
+            "children": []
+          },
+          {
+            "label": "Every",
+            "children": []
+          },
+          {
+            "label": "Nation",
+            "children": []
+          },
+          {
+            "label": "Has",
+            "children": []
+          },
+          {
+            "label": "Its",
+            "children": []
+          },
+          {
+            "label": "Own",
+            "children": []
+          },
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Territory",
+            "children": []
+          },
+          {
+            "label": "controlled",
+            "children": []
+          },
+          {
+            "label": "Territory",
+            "children": []
+          },
+          {
+            "label": "claimed",
+            "children": []
+          },
+          {
+            "label": "but",
+            "children": []
+          },
+          {
+            "label": "not",
+            "children": []
+          },
+          {
+            "label": "controlled",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Somalia",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Anthem: Qolobaa Calankeed \"Every Nation Has Its Own Flag\"",
+          "Territory controlled Territory claimed but not controlled Show globe Show map of Somalia"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Mogadishu",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "45",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "033",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "45",
+            "children": []
+          },
+          {
+            "label": "350",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "033",
+            "children": []
+          },
+          {
+            "label": "45",
+            "children": []
+          },
+          {
+            "label": "350",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mogadishu 2°2′N 45°21′E / 2.033°N 45.350°E / 2.033; 45.350"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Somali",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Somali"
+        ]
+      },
+      {
+        "label": "second_language",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "85",
+            "children": []
+          },
+          {
+            "label": "Somali",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "85% Somali 15% other"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "Sunni",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sunni Islam ( official )"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Somali",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Somali"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal parliamentary republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Hassan",
+            "children": []
+          },
+          {
+            "label": "Sheikh",
+            "children": []
+          },
+          {
+            "label": "Mohamud",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Hassan Sheikh Mohamud"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Hamza",
+            "children": []
+          },
+          {
+            "label": "Abdi",
+            "children": []
+          },
+          {
+            "label": "Barre",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Hamza Abdi Barre"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "People",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of the People"
+        ]
+      },
+      {
+        "label": "land_of_punt",
+        "children": [
+          {
+            "label": "2350",
+            "children": []
+          },
+          {
+            "label": "BC",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2350 BC"
+        ]
+      },
+      {
+        "label": "macrobia",
+        "children": [
+          {
+            "label": "980",
+            "children": []
+          },
+          {
+            "label": "BC",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "980 BC"
+        ]
+      },
+      {
+        "label": "barbaria",
+        "children": [
+          {
+            "label": "100",
+            "children": []
+          },
+          {
+            "label": "BC",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "100 BC"
+        ]
+      },
+      {
+        "label": "adal_sultanate",
+        "children": [
+          {
+            "label": "9th",
+            "children": []
+          },
+          {
+            "label": "century",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9th century"
+        ]
+      },
+      {
+        "label": "mogadishu_sultanate",
+        "children": [
+          {
+            "label": "10th",
+            "children": []
+          },
+          {
+            "label": "century",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "10th century"
+        ]
+      },
+      {
+        "label": "sultanate_of_ifat",
+        "children": [
+          {
+            "label": "13th",
+            "children": []
+          },
+          {
+            "label": "century",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "13th century"
+        ]
+      },
+      {
+        "label": "ajuran_sultanate",
+        "children": [
+          {
+            "label": "13th",
+            "children": []
+          },
+          {
+            "label": "century",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "13th century"
+        ]
+      },
+      {
+        "label": "hiraab_imamate",
+        "children": [
+          {
+            "label": "16th",
+            "children": []
+          },
+          {
+            "label": "century",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "16th century"
+        ]
+      },
+      {
+        "label": "geledi_sultanate",
+        "children": [
+          {
+            "label": "1695",
+            "children": []
+          },
+          {
+            "label": "1911",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1695–1911"
+        ]
+      },
+      {
+        "label": "majeerteen_sultanate",
+        "children": [
+          {
+            "label": "1648",
+            "children": []
+          },
+          {
+            "label": "1927",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1648–1927"
+        ]
+      },
+      {
+        "label": "sultanate_of_hobyo",
+        "children": [
+          {
+            "label": "1878",
+            "children": []
+          },
+          {
+            "label": "1927",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1878–1927"
+        ]
+      },
+      {
+        "label": "isaaq_sultanate",
+        "children": [
+          {
+            "label": "1749",
+            "children": []
+          },
+          {
+            "label": "1884",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1749–1884"
+        ]
+      },
+      {
+        "label": "british_somaliland",
+        "children": [
+          {
+            "label": "1884",
+            "children": []
+          },
+          {
+            "label": "1960",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1884–1960"
+        ]
+      },
+      {
+        "label": "italian_somaliland",
+        "children": [
+          {
+            "label": "1889",
+            "children": []
+          },
+          {
+            "label": "1941",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1889–1941"
+        ]
+      },
+      {
+        "label": "independence_of_the_state_of_somaliland_from_the_united_kingdom",
+        "children": [
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "June",
+            "children": []
+          },
+          {
+            "label": "1960",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "26 June 1960"
+        ]
+      },
+      {
+        "label": "independence_of_the_trust_territory_of_somaliland_from_italy_and_union_with_the_state_of_somaliland_to_form_the_somali_republic",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1960",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 July 1960"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "2012",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 August 2012"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "637",
+            "children": []
+          },
+          {
+            "label": "657",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "246",
+            "children": []
+          },
+          {
+            "label": "201",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "43rd",
+            "children": []
+          },
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "500",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "151st",
+            "children": []
+          },
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "990",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "147th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "637,657 km 2 (246,201 sq mi) ( 43rd )",
+          "$32.500 billion ( 151st )",
+          "$12.990 billion ( 147th )"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "280",
+            "children": []
+          },
+          {
+            "label": "850",
+            "children": []
+          },
+          {
+            "label": "66th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "19,280,850 ( 66th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "70",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "27.2 /km 2 (70.4/sq mi)"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "920",
+            "children": []
+          },
+          {
+            "label": "179th",
+            "children": []
+          },
+          {
+            "label": "766",
+            "children": []
+          },
+          {
+            "label": "177th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$1,920 ( 179th )",
+          "$766 ( 177th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini_last_available_data",
+        "children": [
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "35.2 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "404",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "192nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.404 low ( 192nd )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Somali",
+            "children": []
+          },
+          {
+            "label": "shilling",
+            "children": []
+          },
+          {
+            "label": "SOS",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Somali shilling ( SOS )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "EAT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +3 ( EAT )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "252",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+252"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SO",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "SO"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "so",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".so"
+        ]
+      }
+    ]
+  }
+}

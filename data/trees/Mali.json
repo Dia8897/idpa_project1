@@ -7,52 +7,7 @@
         "label": "bambara",
         "children": [
           {
-            "label": "Mali ka Fasojamana / ߡߊ߬ߟߌ ߞߊ ߝߊߛߏߖߊߡߊߣߊ [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+223",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Bamako 12°39′N 8°0′W ﻿ / ﻿ 12.650°N 8.000°W ﻿ / 12.650; -8.000",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West African CFA franc ( XOF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Malian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "33.3% Bambara 13.3% Fula 9.6% Soninke 9.6% Senufo / Bwa 8.8% Malinke 8.7% Dogon 5.9% Songhai 3.5% Tuareg 2.1% Bobo 4.5% other [ 6 ]",
+            "label": "Mali ka Fasojamana / ߡߊ߬ߟߌ ߞߊ ߝߊߛߏߖߊߡߊߣߊ",
             "children": []
           }
         ]
@@ -67,42 +22,6 @@
         ]
       },
       {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "33.0 [ 12 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic under a military junta [ 8 ]",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "hassaniya",
         "children": [
           {
@@ -112,10 +31,28 @@
         ]
       },
       {
-        "label": "hdi",
+        "label": "soninke",
         "children": [
           {
-            "label": "0.419 [ 13 ] low ( 188th )",
+            "label": "Mali Jamaane",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "tamasheq",
+        "children": [
+          {
+            "label": "Tagduda n Mali / ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⵎⴰⵍⵉ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "songhay",
+        "children": [
+          {
+            "label": "Mali Laamaa",
             "children": []
           }
         ]
@@ -142,19 +79,91 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ml",
+            "label": "Bamako 12°39′N 8°0′W / 12.650°N 8.000°W / 12.650; -8.000",
             "children": []
           }
         ]
       },
       {
-        "label": "iso_3166_code",
+        "label": "official_languages",
         "children": [
           {
-            "label": "ML",
+            "label": "13 national languages Bambara Bobo Hassaniya Arabic Bozo Dogon, Toro So Fula Kassonke Maninke Minyanka Senufo, Senara Songhay, Koyraboro Senni Soninke Tamasheq",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "spoken_languages",
+        "children": [
+          {
+            "label": "Bambara Fula Arabic Soninke Songhay Mandinka Minyanka Tamasheq Senufo Bobo Bozo Kassonke Samogo Dafing Dogon",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "working_language",
+        "children": [
+          {
+            "label": "French ( de facto )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "33.3% Bambara 13.3% Fula 9.6% Soninke 9.6% Senufo / Bwa 8.8% Malinke 8.7% Dogon 5.9% Songhai 3.5% Tuareg 2.1% Bobo 4.5% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "95% Islam 5% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Malian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary presidential republic under a military junta",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Assimi Gota",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Abdoulaye Maga (interim)",
             "children": []
           }
         ]
@@ -169,127 +178,10 @@
         ]
       },
       {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "13 national languages [ 2 ] [ 3 ] Bambara Bobo Hassaniya Arabic Bozo Dogon, Toro So Fula Kassonke Maninke Minyanka Senufo, Senara Songhay, Koyraboro Senni Soninke Tamasheq",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "95% Islam 5% other [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "songhay",
-        "children": [
-          {
-            "label": "Mali Laamaa",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "soninke",
-        "children": [
-          {
-            "label": "Mali Jamaane",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "spoken_languages",
-        "children": [
-          {
-            "label": "Bambara [ a ] Fula Arabic Soninke Songhay Mandinka Minyanka Tamasheq Senufo Bobo Bozo Kassonke Samogo Dafing Dogon",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "tamasheq",
-        "children": [
-          {
-            "label": "Tagduda n Mali / ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⵎⴰⵍⵉ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC ±00:00 ( GMT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "working_language",
-        "children": [
-          {
-            "label": "French ( de facto ) [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "21,990,607 [ 10 ] ( 61st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_the_republic_of_mali",
-        "children": [
-          {
-            "label": "22 September 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "11.7/km 2 (30.3/sq mi) ( 215th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dissolution_of_the_mali_federation",
-        "children": [
-          {
-            "label": "20 August 1960",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "establishment_of_the_sudanese_republic",
         "children": [
           {
             "label": "24 November 1958",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "20 June 1960",
             "children": []
           }
         ]
@@ -304,32 +196,28 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "independence_from_france",
         "children": [
           {
-            "label": "$2,930 [ 11 ] ( 173rd )",
-            "children": []
-          },
-          {
-            "label": "$936 [ 11 ] ( 175th )",
+            "label": "20 June 1960",
             "children": []
           }
         ]
       },
       {
-        "label": "president",
+        "label": "dissolution_of_the_mali_federation",
         "children": [
           {
-            "label": "Assimi Goïta",
+            "label": "20 August 1960",
             "children": []
           }
         ]
       },
       {
-        "label": "prime_minister",
+        "label": "declaration_of_the_republic_of_mali",
         "children": [
           {
-            "label": "Abdoulaye Maïga (interim)",
+            "label": "22 September 1960",
             "children": []
           }
         ]
@@ -338,15 +226,15 @@
         "label": "total",
         "children": [
           {
-            "label": "1,240,192 km 2 (478,841 sq mi) [ 9 ] ( 23rd )",
+            "label": "1,240,192 km 2 (478,841 sq mi) ( 23rd )",
             "children": []
           },
           {
-            "label": "$72.74 billion [ 11 ] ( 115th )",
+            "label": "$72.74 billion ( 115th )",
             "children": []
           },
           {
-            "label": "$23.21 billion [ 11 ] ( 121st )",
+            "label": "$23.21 billion ( 121st )",
             "children": []
           }
         ]
@@ -356,6 +244,118 @@
         "children": [
           {
             "label": "1.6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "21,990,607 ( 61st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "11.7/km 2 (30.3/sq mi) ( 215th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$2,930 ( 173rd )",
+            "children": []
+          },
+          {
+            "label": "$936 ( 175th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "33.0 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.419 low ( 188th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "West African CFA franc ( XOF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC ±00:00 ( GMT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+223",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "ML",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ml",
             "children": []
           }
         ]

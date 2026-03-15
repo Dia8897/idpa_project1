@@ -4,109 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+55",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Brasília 15°47′S 47°52′W ﻿ / ﻿ 15.783°S 47.867°W ﻿ / -15.783; -47.867",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Real (R$) ( BRL )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy ( CE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Brazilian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "45.3% Pardo 43.5% White 10.2% Black 0.6% Indigenous 0.4% East Asian [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "51.6 [ 14 ] high inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.786 [ 15 ] high ( 84th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
-            "label": "Flag Coat of arms [ 1 ]",
+            "label": "Flag Coat of arms",
             "children": []
           },
           {
@@ -114,7 +15,7 @@
             "children": []
           },
           {
-            "label": "Anthem: Hino Nacional Brasileiro \"Brazilian National Anthem\" Flag anthem : Hino à Bandeira Nacional [ 2 ] \"National Flag Anthem\"",
+            "label": "Anthem: Hino Nacional Brasileiro \"Brazilian National Anthem\" Flag anthem : Hino à Bandeira Nacional \"National Flag Anthem\"",
             "children": []
           },
           {
@@ -124,19 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".br",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BR",
+            "label": "Brasília 15°47′S 47°52′W / 15.783°S 47.867°W / -15.783; -47.867",
             "children": []
           }
         ]
@@ -145,16 +37,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "São Paulo 23°33′S 46°38′W ﻿ / ﻿ 23.550°S 46.633°W ﻿ / -23.550; -46.633",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Congress",
+            "label": "São Paulo 23°33′S 46°38′W / 23.550°S 46.633°W / -23.550; -46.633",
             "children": []
           }
         ]
@@ -163,7 +46,7 @@
         "label": "official_language_and_national_language",
         "children": [
           {
-            "label": "Portuguese [ a ]",
+            "label": "Portuguese",
             "children": []
           }
         ]
@@ -178,6 +61,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "45.3% Pardo 43.5% White 10.2% Black 0.6% Indigenous 0.4% East Asian",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -187,77 +79,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −02:00 to −05:00 ( BT )",
+            "label": "Brazilian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "203,080,756 [ 8 ] ( 7th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "213,421,037 [ 7 ] ( 7th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "5 October 1988",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration",
-        "children": [
-          {
-            "label": "7 September 1822",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "23.8 [ 9 ] /km 2 (61.6/sq mi) ( 193rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Chamber of Deputies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$23,310 [ 11 ] ( 78th )",
-            "children": []
-          },
-          {
-            "label": "$10,580 [ 13 ] ( 78th )",
+            "label": "Federal presidential republic",
             "children": []
           }
         ]
@@ -267,6 +101,15 @@
         "children": [
           {
             "label": "Luiz Inácio Lula da Silva",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Geraldo Alckmin",
             "children": []
           }
         ]
@@ -299,6 +142,42 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Congress",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Federal Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber of Deputies",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declaration",
+        "children": [
+          {
+            "label": "7 September 1822",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "recognition",
         "children": [
           {
@@ -317,6 +196,15 @@
         ]
       },
       {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "5 October 1988",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
@@ -324,29 +212,11 @@
             "children": []
           },
           {
-            "label": "$4.970 trillion [ 10 ] ( 8th )",
+            "label": "$4.970 trillion ( 8th )",
             "children": []
           },
           {
-            "label": "$2.260 trillion [ 12 ] ( 10th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "Federal Senate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Geraldo Alckmin",
+            "label": "$2.260 trillion ( 10th )",
             "children": []
           }
         ]
@@ -356,6 +226,136 @@
         "children": [
           {
             "label": "0.65",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "213,421,037 ( 7th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "203,080,756 ( 7th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "23.8 /km 2 (61.6/sq mi) ( 193rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$23,310 ( 78th )",
+            "children": []
+          },
+          {
+            "label": "$10,580 ( 78th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "51.6 high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.786 high ( 84th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Real (R$) ( BRL )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −02:00 to −05:00 ( BT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy ( CE )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+55",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BR",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".br",
             "children": []
           }
         ]

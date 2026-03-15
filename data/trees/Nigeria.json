@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+234",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Abuja 9°4′N 7°29′E ﻿ / ﻿ 9.067°N 7.483°E ﻿ / 9.067; 7.483",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Naira (₦) ( NGN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Nigerian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "30% Hausa 15.5% Yoruba 15.2% Igbo 6% Fulani 2.4% Tiv 2.4% Kanuri 1.8% Ibibio 1.8% Ijaw 24.7% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "35.1 [ 8 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "hausa",
         "children": [
           {
@@ -103,19 +13,19 @@
         ]
       },
       {
-        "label": "hdi",
+        "label": "igbo",
         "children": [
           {
-            "label": "0.560 [ 9 ] medium ( 164th )",
+            "label": "Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà",
             "children": []
           }
         ]
       },
       {
-        "label": "igbo",
+        "label": "yoruba",
         "children": [
           {
-            "label": "Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà",
+            "label": "Orílẹ̀-èdè Olómìniira Àpapọ̀ Nàìjíríà",
             "children": []
           }
         ]
@@ -142,19 +52,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".ng",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NG",
+            "label": "Abuja 9°4′N 7°29′E / 9.067°N 7.483°E / 9.067; 7.483",
             "children": []
           }
         ]
@@ -164,15 +65,6 @@
         "children": [
           {
             "label": "Lagos",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
             "children": []
           }
         ]
@@ -190,7 +82,7 @@
         "label": "recognised_languages",
         "children": [
           {
-            "label": "List [ 1 ] [ a ] Hausa Yoruba Igbo",
+            "label": "List Hausa Yoruba Igbo",
             "children": []
           }
         ]
@@ -199,7 +91,16 @@
         "label": "regional_languages",
         "children": [
           {
-            "label": "Over 525 languages [ 3 ]",
+            "label": "Over 525 languages",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "30% Hausa 15.5% Yoruba 15.2% Igbo 6% Fulani 2.4% Tiv 2.4% Kanuri 1.8% Ibibio 1.8% Ijaw 24.7% other",
             "children": []
           }
         ]
@@ -214,37 +115,55 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +01:00 ( WAT )",
+            "label": "Nigerian",
             "children": []
           }
         ]
       },
       {
-        "label": "yoruba",
+        "label": "government",
         "children": [
           {
-            "label": "Orílẹ̀-èdè Olómìniira Àpapọ̀ Nàìjíríà",
+            "label": "Federal presidential republic",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "president",
         "children": [
           {
-            "label": "236,747,130 [ 6 ] ( 6th )",
+            "label": "Bola Tinubu",
             "children": []
           }
         ]
       },
       {
-        "label": "became_a_republic",
+        "label": "vice_president",
         "children": [
           {
-            "label": "1 October 1963",
+            "label": "Kashim Shettima",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "senate_president",
+        "children": [
+          {
+            "label": "Godswill Akpabio",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "house_speaker",
+        "children": [
+          {
+            "label": "Tajudeen Abbas",
             "children": []
           }
         ]
@@ -259,37 +178,19 @@
         ]
       },
       {
-        "label": "current_constitution",
+        "label": "legislature",
         "children": [
           {
-            "label": "29 May 1999",
+            "label": "National Assembly",
             "children": []
           }
         ]
       },
       {
-        "label": "declared_independent_as_a_sovereign_state",
+        "label": "upper_house",
         "children": [
           {
-            "label": "1 October 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "249.8/km 2 (647.0/sq mi) ( 57th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "house_speaker",
-        "children": [
-          {
-            "label": "Tajudeen Abbas",
+            "label": "Senate",
             "children": []
           }
         ]
@@ -313,58 +214,10 @@
         ]
       },
       {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$9,488 [ 7 ] ( 135th )",
-            "children": []
-          },
-          {
-            "label": "$1,200 [ 7 ] ( 173rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Bola Tinubu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "senate_president",
-        "children": [
-          {
-            "label": "Godswill Akpabio",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "southern_nigeria_protectorate",
         "children": [
           {
             "label": "1 January 1900",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "923,769 km 2 (356,669 sq mi) ( 31st )",
-            "children": []
-          },
-          {
-            "label": "$2.254 trillion [ 7 ] ( 19th )",
-            "children": []
-          },
-          {
-            "label": "$285.003 billion [ 7 ] ( 52nd )",
             "children": []
           }
         ]
@@ -379,19 +232,45 @@
         ]
       },
       {
-        "label": "upper_house",
+        "label": "declared_independent_as_a_sovereign_state",
         "children": [
           {
-            "label": "Senate",
+            "label": "1 October 1960",
             "children": []
           }
         ]
       },
       {
-        "label": "vice_president",
+        "label": "became_a_republic",
         "children": [
           {
-            "label": "Kashim Shettima",
+            "label": "1 October 1963",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "29 May 1999",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "923,769 km 2 (356,669 sq mi) ( 31st )",
+            "children": []
+          },
+          {
+            "label": "$2.254 trillion ( 19th )",
+            "children": []
+          },
+          {
+            "label": "$285.003 billion ( 52nd )",
             "children": []
           }
         ]
@@ -401,6 +280,127 @@
         "children": [
           {
             "label": "1.4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "236,747,130 ( 6th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "249.8/km 2 (647.0/sq mi) ( 57th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$9,488 ( 135th )",
+            "children": []
+          },
+          {
+            "label": "$1,200 ( 173rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "35.1 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.560 medium ( 164th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Naira (₦) ( NGN )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +01:00 ( WAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+234",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "NG",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ng",
             "children": []
           }
         ]

@@ -4,10 +4,18 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+389",
+            "label": "Flag National emblem",
+            "children": []
+          },
+          {
+            "label": "Anthem: Денес над Македонија (Macedonian) \"Today over Macedonia\"",
+            "children": []
+          },
+          {
+            "label": "Location of North Macedonia (green) in Europe (dark grey) –",
             "children": []
           }
         ]
@@ -16,25 +24,25 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Skopje 42°0′N 21°26′E ﻿ / ﻿ 42.000°N 21.433°E ﻿ / 42.000; 21.433",
+            "label": "Skopje 42°0′N 21°26′E / 42.000°N 21.433°E / 42.000; 21.433",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "official_languages",
         "children": [
           {
-            "label": "Macedonian denar ( MKD )",
+            "label": "Macedonian Albanian",
             "children": []
           }
         ]
       },
       {
-        "label": "demonyms",
+        "label": "official_regional_languages",
         "children": [
           {
-            "label": "Macedonian",
+            "label": "Turkish Romani Serbian Bosnian Aromanian",
             "children": []
           }
         ]
@@ -49,113 +57,6 @@
         ]
       },
       {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "29.8 [ 6 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.815 [ 7 ] very high ( 68th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Flag National emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: Денес над Македонија (Macedonian) \"Today over Macedonia\"",
-            "children": []
-          },
-          {
-            "label": "Location of North Macedonia (green) in Europe (dark grey) – [ Legend ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".mk .мкд",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MK",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Macedonian [ a ] Albanian [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_regional_languages",
-        "children": [
-          {
-            "label": "Turkish [ 1 ] Romani Serbian Bosnian Aromanian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "religion",
         "children": [
           {
@@ -165,59 +66,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( CET )",
+            "label": "Macedonian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "1,836,713 [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chairman_of_the_assembly",
-        "children": [
-          {
-            "label": "Afrim Gashi",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "71.43/km 2 (185.0/sq mi) ( 122nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_referendum",
-        "children": [
-          {
-            "label": "8 September 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$29,475 [ 5 ] ( 71st )",
-            "children": []
-          },
-          {
-            "label": "$9,882 [ 5 ] ( 81st )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -241,10 +102,148 @@
         ]
       },
       {
+        "label": "chairman_of_the_assembly",
+        "children": [
+          {
+            "label": "Afrim Gashi",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "socialist_republic_of_macedonia",
         "children": [
           {
             "label": "2 August 1944",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_referendum",
+        "children": [
+          {
+            "label": "8 September 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "25,436 km 2 (9,821 sq mi) ( 145th )",
+            "children": []
+          },
+          {
+            "label": "$53.345 billion ( 134th )",
+            "children": []
+          },
+          {
+            "label": "$17.885 billion ( 137th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1.1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "1,836,713",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "71.43/km 2 (185.0/sq mi) ( 122nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$29,475 ( 71st )",
+            "children": []
+          },
+          {
+            "label": "$9,882 ( 81st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "29.8 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.815 very high ( 68th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Macedonian denar ( MKD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
             "children": []
           }
         ]
@@ -259,27 +258,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "calling_code",
         "children": [
           {
-            "label": "25,436 [ 4 ] km 2 (9,821 sq mi) ( 145th )",
-            "children": []
-          },
-          {
-            "label": "$53.345 billion [ 5 ] ( 134th )",
-            "children": []
-          },
-          {
-            "label": "$17.885 billion [ 5 ] ( 137th )",
+            "label": "+389",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "1.1",
+            "label": "MK",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".mk .мкд",
             "children": []
           }
         ]

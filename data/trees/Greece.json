@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+30",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Athens 37°58′N 23°43′E ﻿ / ﻿ 37.967°N 23.717°E ﻿ / 37.967; 23.717",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Greek Hellene",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "31.8 [ 9 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.908 [ 10 ] very high ( 34th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -106,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".gr .ελ [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Hellenic Parliament",
+            "label": "Athens 37°58′N 23°43′E / 37.967°N 23.717°E / 37.967; 23.717",
             "children": []
           }
         ]
@@ -145,52 +46,61 @@
         "label": "religion",
         "children": [
           {
-            "label": "93% Christianity 90% Greek Orthodoxy ( official ) [ a ] 3% other Christian 4% No religion 2% Islam 1% Others",
+            "label": "93% Christianity 90% Greek Orthodoxy ( official ) 3% other Christian 4% No religion 2% Islam 1% Others",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +02:00 ( EET )",
+            "label": "Greek Hellene",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "10,432,481 [ 7 ]",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "president",
         "children": [
           {
-            "label": "10,372,335 (1 January 2025) [ 6 ] ( 90th )",
+            "label": "Konstantinos Tasoulas",
             "children": []
           }
         ]
       },
       {
-        "label": "current_constitution",
+        "label": "prime_minister",
         "children": [
           {
-            "label": "11 June 1975",
+            "label": "Kyriakos Mitsotakis",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "president_of_the_parliament",
         "children": [
           {
-            "label": "78.9/km 2 (204.4/sq mi) ( 136th )",
+            "label": "Nikitas Kaklamanis",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Hellenic Parliament",
             "children": []
           }
         ]
@@ -214,59 +124,10 @@
         ]
       },
       {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$44,985 [ 8 ] ( 48th )",
-            "children": []
-          },
-          {
-            "label": "$27,170 [ 8 ] ( 45th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Konstantinos Tasoulas",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president_of_the_parliament",
-        "children": [
-          {
-            "label": "Nikitas Kaklamanis",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Kyriakos Mitsotakis",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "recognition",
         "children": [
           {
             "label": "3 February 1830",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "summer_dst",
-        "children": [
-          {
-            "label": "UTC +03:00 ( EEST )",
             "children": []
           }
         ]
@@ -281,18 +142,27 @@
         ]
       },
       {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "11 June 1975",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
-            "label": "131,957 km 2 (50,949 sq mi) [ 5 ] ( 95th )",
+            "label": "131,957 km 2 (50,949 sq mi) ( 95th )",
             "children": []
           },
           {
-            "label": "$466.945 billion [ 8 ] ( 54th )",
+            "label": "$466.945 billion ( 54th )",
             "children": []
           },
           {
-            "label": "$282.019 billion [ 8 ] ( 50th )",
+            "label": "$282.019 billion ( 50th )",
             "children": []
           }
         ]
@@ -301,7 +171,137 @@
         "label": "water",
         "children": [
           {
-            "label": "1.51 (2015) [ 4 ]",
+            "label": "1.51 (2015)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "10,372,335 (1 January 2025) ( 90th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "10,432,481",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "78.9/km 2 (204.4/sq mi) ( 136th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$44,985 ( 48th )",
+            "children": []
+          },
+          {
+            "label": "$27,170 ( 45th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "31.8 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.908 very high ( 34th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +02:00 ( EET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +03:00 ( EEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+30",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "GR",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".gr .ελ",
             "children": []
           }
         ]

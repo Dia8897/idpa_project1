@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+254",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Nairobi 1°16′S 36°48′E ﻿ / ﻿ 1.267°S 36.800°E ﻿ / -1.267; 36.800 1°N 38°E ﻿ / ﻿ 1°N 38°E ﻿ / 1; 38",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Kenyan shilling ( KES )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yy ( AD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Kenyan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups_census",
-        "children": [
-          {
-            "label": "17.13% Kikuyu 14.35% Luhya 13.37% Kalenjin 10.65% Luo 9.81% Kamba 5.85% Somali 5.68% Kisii 5.23% Mijikenda 4.15% Meru 13.78% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "38.7 [ 9 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.628 [ 10 ] medium ( 143rd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -122,43 +23,16 @@
             "children": []
           },
           {
-            "label": "According to the CIA , estimates for this country explicitly take into account the effects of mortality because of AIDS ; this can result in lower life expectancy , higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex, than would otherwise be expected. [ 11 ]",
+            "label": "According to the CIA , estimates for this country explicitly take into account the effects of mortality because of AIDS ; this can result in lower life expectancy , higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex, than would otherwise be expected.",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ke",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KE",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "national_language",
-        "children": [
-          {
-            "label": "Swahili [ 1 ]",
+            "label": "Nairobi 1°16′S 36°48′E / 1.267°S 36.800°E / -1.267; 36.800 1°N 38°E / 1°N 38°E / 1; 38",
             "children": []
           }
         ]
@@ -167,7 +41,25 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Swahili English [ 1 ]",
+            "label": "Swahili English",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "national_language",
+        "children": [
+          {
+            "label": "Swahili",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_census",
+        "children": [
+          {
+            "label": "17.13% Kikuyu 14.35% Luhya 13.37% Kalenjin 10.65% Luo 9.81% Kamba 5.85% Somali 5.68% Kisii 5.23% Mijikenda 4.15% Meru 13.78% others",
             "children": []
           }
         ]
@@ -182,28 +74,46 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +3 ( East Africa Time )",
+            "label": "Kenyan",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "47,564,296 [ 7 ]",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "president",
         "children": [
           {
-            "label": "53,330,978 [ 6 ] ( 28th )",
+            "label": "William Ruto",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "deputy_president",
+        "children": [
+          {
+            "label": "Kithure Kindiki",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "senate_speaker",
+        "children": [
+          {
+            "label": "Amason Kingi",
             "children": []
           }
         ]
@@ -227,103 +137,10 @@
         ]
       },
       {
-        "label": "current_constitution",
+        "label": "legislature",
         "children": [
           {
-            "label": "27 August 2010",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "82/km 2 (212.4/sq mi) ( 124th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "deputy_president",
-        "children": [
-          {
-            "label": "Kithure Kindiki",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dominion",
-        "children": [
-          {
-            "label": "12 December 1963",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$7,930 [ 8 ] ( 142nd )",
-            "children": []
-          },
-          {
-            "label": "$2,600 [ 8 ] ( 150th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "William Ruto",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "republic",
-        "children": [
-          {
-            "label": "12 December 1964",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "senate_speaker",
-        "children": [
-          {
-            "label": "Amason Kingi",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "580,367 km 2 (224,081 sq mi) [ 4 ] [ 5 ] ( 48th )",
-            "children": []
-          },
-          {
-            "label": "$430.22 billion [ 8 ] ( 59th )",
-            "children": []
-          },
-          {
-            "label": "$140.87 billion [ 8 ] ( 59th )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -338,10 +155,193 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "dominion",
+        "children": [
+          {
+            "label": "12 December 1963",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic",
+        "children": [
+          {
+            "label": "12 December 1964",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "27 August 2010",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "580,367 km 2 (224,081 sq mi) ( 48th )",
+            "children": []
+          },
+          {
+            "label": "$430.22 billion ( 59th )",
+            "children": []
+          },
+          {
+            "label": "$140.87 billion ( 59th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "2.3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "53,330,978 ( 28th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "47,564,296",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "82/km 2 (212.4/sq mi) ( 124th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$7,930 ( 142nd )",
+            "children": []
+          },
+          {
+            "label": "$2,600 ( 150th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "38.7 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.628 medium ( 143rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Kenyan shilling ( KES )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +3 ( East Africa Time )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yy ( AD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+254",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "KE",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ke",
             "children": []
           }
         ]

@@ -1,0 +1,1013 @@
+{
+  "country_name": "Kyrgyzstan",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Kyrgyz",
+            "children": []
+          },
+          {
+            "label": "Kyrgyz",
+            "children": []
+          },
+          {
+            "label": "Respublikasynyn",
+            "children": []
+          },
+          {
+            "label": "Mamlekettik",
+            "children": []
+          },
+          {
+            "label": "gimni",
+            "children": []
+          },
+          {
+            "label": "State",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Kyrgyz",
+            "children": []
+          },
+          {
+            "label": "Republic",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Kyrgyzstan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Anthem: Кыргыз Республикасынын Мамлекеттик гимни (Kyrgyz) Kyrgyz Respublikasynyn Mamlekettik gimni \" State Anthem of the Kyrgyz Republic \"",
+          "Show globe Show map of Kyrgyzstan"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Bishkek",
+            "children": []
+          },
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "52",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "74",
+            "children": []
+          },
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "867",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "74",
+            "children": []
+          },
+          {
+            "label": "600",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "867",
+            "children": []
+          },
+          {
+            "label": "74",
+            "children": []
+          },
+          {
+            "label": "600",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bishkek 42°52′N 74°36′E / 42.867°N 74.600°E / 42.867; 74.600"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Kyrgyz",
+            "children": []
+          },
+          {
+            "label": "state",
+            "children": []
+          },
+          {
+            "label": "Russian",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kyrgyz (state) Russian (official)"
+        ]
+      },
+      {
+        "label": "official_script",
+        "children": [
+          {
+            "label": "Cyrillic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Cyrillic"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "77",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Kyrgyz",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Uzbeks",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Russians",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "Dungans",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "Tajiks",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "77.8% Kyrgyz 14.3% Uzbeks 3.7% Russians 1.0% Dungans 0.9% Tajiks 2.3% Others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "91",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "91% Islam 8% Christianity 1% Others"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Kyrgyz",
+            "children": []
+          },
+          {
+            "label": "Kyrgyzstani",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kyrgyz Kyrgyzstani"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Sadyr",
+            "children": []
+          },
+          {
+            "label": "Japarov",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sadyr Japarov"
+        ]
+      },
+      {
+        "label": "chairman_of_the_cabinet_of_ministers",
+        "children": [
+          {
+            "label": "Adylbek",
+            "children": []
+          },
+          {
+            "label": "Kasymaliev",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Adylbek Kasymaliev"
+        ]
+      },
+      {
+        "label": "speaker_of_the_supreme_council",
+        "children": [
+          {
+            "label": "Marlen",
+            "children": []
+          },
+          {
+            "label": "Mamataliev",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Marlen Mamataliev"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Supreme",
+            "children": []
+          },
+          {
+            "label": "Council",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Supreme Council"
+        ]
+      },
+      {
+        "label": "kyrgyz_khaganate",
+        "children": [
+          {
+            "label": "840",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "840"
+        ]
+      },
+      {
+        "label": "karakyrgyz_khanate",
+        "children": [
+          {
+            "label": "1842",
+            "children": []
+          },
+          {
+            "label": "1867",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1842–1867"
+        ]
+      },
+      {
+        "label": "annexed_by_the_russian_empire",
+        "children": [
+          {
+            "label": "1876",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1876"
+        ]
+      },
+      {
+        "label": "karakirghiz_ao",
+        "children": [
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1924",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "14 October 1924"
+        ]
+      },
+      {
+        "label": "kirghiz_assr",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1926",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11 February 1926"
+        ]
+      },
+      {
+        "label": "kirghiz_ssr",
+        "children": [
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1936",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "5 December 1936"
+        ]
+      },
+      {
+        "label": "sovereignty_declared",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1990",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "30 December 1990"
+        ]
+      },
+      {
+        "label": "independence_declared_from_ussr",
+        "children": [
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "31 August 1991"
+        ]
+      },
+      {
+        "label": "independence_recognized",
+        "children": [
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "26 December 1991"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "2021",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11 April 2021"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "200",
+            "children": []
+          },
+          {
+            "label": "105",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "77",
+            "children": []
+          },
+          {
+            "label": "261",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "85th",
+            "children": []
+          },
+          {
+            "label": "64",
+            "children": []
+          },
+          {
+            "label": "110",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "128th",
+            "children": []
+          },
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "587",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "126th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "200,105 km 2 (77,261 sq mi) ( 85th )",
+          "$64.110 billion ( 128th )",
+          "$22.587 billion ( 126th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "198",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "779",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7,198 km 2 (2,779 sq mi)"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3.6"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "million",
+            "children": []
+          },
+          {
+            "label": "107th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7.4 million ( 107th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "109th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "37/km 2 (95.8/sq mi) ( 109th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "870",
+            "children": []
+          },
+          {
+            "label": "136th",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "101",
+            "children": []
+          },
+          {
+            "label": "139th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$8,870 ( 136th )",
+          "$3,101 ( 139th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "26.4 low inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "720",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "117th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.720 high ( 117th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Kyrgyzstani",
+            "children": []
+          },
+          {
+            "label": "som",
+            "children": []
+          },
+          {
+            "label": "c",
+            "children": []
+          },
+          {
+            "label": "KGS",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kyrgyzstani som ( c ) ( KGS )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "KGT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +6 ( KGT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "996",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+996"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "KG",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "KG"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "kg",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".kg"
+        ]
+      }
+    ]
+  }
+}

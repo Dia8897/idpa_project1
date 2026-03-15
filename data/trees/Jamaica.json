@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Kingston 17°58′17″N 76°47′35″W ﻿ / ﻿ 17.97139°N 76.79306°W ﻿ / 17.97139; -76.79306",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Jamaican dollar ( JMD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Jamaican",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "76.3% African 15.1% Mixed 3.4% Indian 3.2% White 1.2% Chinese 0.8% others [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "40.2 [ 6 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.720 [ 7 ] high ( 117th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -111,28 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".jm",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "JM",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Kingston 17°58′17′′N 76°47′35′′W / 17.97139°N 76.79306°W / 17.97139; -76.79306",
             "children": []
           }
         ]
@@ -147,24 +39,6 @@
         ]
       },
       {
-        "label": "religion",
-        "children": [
-          {
-            "label": "68.9% Christianity 64.8% Protestantism 4.1% other Christian 21.3% no religion 1.1% Rastafari 6.5% other 2.3% unanswered [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC -5:00 ( EST )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "vernacular_language",
         "children": [
           {
@@ -174,55 +48,37 @@
         ]
       },
       {
-        "label": "census",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "2,697,983 [ 3 ]",
+            "label": "76.3% African 15.1% Mixed 3.4% Indian 3.2% White 1.2% Chinese 0.8% others",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "religion",
         "children": [
           {
-            "label": "2,824,913 [ 1 ]",
+            "label": "68.9% Christianity 64.8% Protestantism 4.1% other Christian 21.3% no religion 1.1% Rastafari 6.5% other 2.3% unanswered",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "demonyms",
         "children": [
           {
-            "label": "266 [ 4 ] /km 2 (688.9/sq mi) ( 54th )",
+            "label": "Jamaican",
             "children": []
           }
         ]
       },
       {
-        "label": "governorgeneral",
+        "label": "government",
         "children": [
           {
-            "label": "Patrick Allen",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "granted",
-        "children": [
-          {
-            "label": "6 August 1962",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Representatives",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -237,14 +93,10 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "governorgeneral",
         "children": [
           {
-            "label": "$12,283 [ 5 ] ( 134th )",
-            "children": []
-          },
-          {
-            "label": "$7,487 [ 5 ] ( 95th )",
+            "label": "Patrick Allen",
             "children": []
           }
         ]
@@ -259,18 +111,10 @@
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "10,991 km 2 (4,244 sq mi) ( 160th )",
-            "children": []
-          },
-          {
-            "label": "$33.775 billion [ 5 ] ( 143rd )",
-            "children": []
-          },
-          {
-            "label": "$20.586 billion [ 5 ] ( 119th )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -285,10 +129,166 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "granted",
+        "children": [
+          {
+            "label": "6 August 1962",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "10,991 km 2 (4,244 sq mi) ( 160th )",
+            "children": []
+          },
+          {
+            "label": "$33.775 billion ( 143rd )",
+            "children": []
+          },
+          {
+            "label": "$20.586 billion ( 119th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "1.5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "2,824,913",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "2,697,983",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "266 /km 2 (688.9/sq mi) ( 54th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$12,283 ( 134th )",
+            "children": []
+          },
+          {
+            "label": "$7,487 ( 95th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "40.2 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.720 high ( 117th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Jamaican dollar ( JMD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC -5:00 ( EST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "JM",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".jm",
             "children": []
           }
         ]

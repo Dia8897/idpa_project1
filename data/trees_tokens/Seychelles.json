@@ -1,0 +1,858 @@
+{
+  "country_name": "Seychelles",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Finis",
+            "children": []
+          },
+          {
+            "label": "Coronat",
+            "children": []
+          },
+          {
+            "label": "Opus",
+            "children": []
+          },
+          {
+            "label": "Latin",
+            "children": []
+          },
+          {
+            "label": "The",
+            "children": []
+          },
+          {
+            "label": "End",
+            "children": []
+          },
+          {
+            "label": "Crowns",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Work",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Koste",
+            "children": []
+          },
+          {
+            "label": "Seselwa",
+            "children": []
+          },
+          {
+            "label": "Seychellois",
+            "children": []
+          },
+          {
+            "label": "Creole",
+            "children": []
+          },
+          {
+            "label": "Unite",
+            "children": []
+          },
+          {
+            "label": "Seychellois",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Seychelles",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "blue",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          },
+          {
+            "label": "light",
+            "children": []
+          },
+          {
+            "label": "blue",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "grey",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "Union",
+            "children": []
+          },
+          {
+            "label": "light",
+            "children": []
+          },
+          {
+            "label": "blue",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: Finis Coronat Opus ( Latin ) \"The End Crowns the Work\"",
+          "Anthem: Koste Seselwa (Seychellois Creole) \"Unite Seychellois\"",
+          "Location of Seychelles (dark blue) – in Africa (light blue & dark grey) – in the African Union (light blue)"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Victoria",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "55",
+            "children": []
+          },
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "617",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "55",
+            "children": []
+          },
+          {
+            "label": "450",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "617",
+            "children": []
+          },
+          {
+            "label": "55",
+            "children": []
+          },
+          {
+            "label": "450",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Victoria 4°37′S 55°27′E / 4.617°S 55.450°E / -4.617; 55.450"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Seychellois",
+            "children": []
+          },
+          {
+            "label": "Creole",
+            "children": []
+          },
+          {
+            "label": "national",
+            "children": []
+          },
+          {
+            "label": "language",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Seychellois Creole (national language) English French"
+        ]
+      },
+      {
+        "label": "minority_language",
+        "children": [
+          {
+            "label": "Tamil",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tamil"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "97",
+            "children": []
+          },
+          {
+            "label": "Seychellois",
+            "children": []
+          },
+          {
+            "label": "Creoles",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "97% Seychellois Creoles 3% others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "74",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Hinduism",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          },
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "unanswered",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "74.9% Christianity 5.4% Hinduism 2.4% Islam 5.1% others 12.2% unanswered"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Seychellois",
+            "children": []
+          },
+          {
+            "label": "Seychelloise",
+            "children": []
+          },
+          {
+            "label": "Seselwa",
+            "children": []
+          },
+          {
+            "label": "Creole",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Seychellois Seychelloise Seselwa (Creole)"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Patrick",
+            "children": []
+          },
+          {
+            "label": "Herminie",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Patrick Herminie"
+        ]
+      },
+      {
+        "label": "vicepresident",
+        "children": [
+          {
+            "label": "Sebastien",
+            "children": []
+          },
+          {
+            "label": "Pillay",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sebastien Pillay"
+        ]
+      },
+      {
+        "label": "speaker_of_the_national_assembly",
+        "children": [
+          {
+            "label": "Azarel",
+            "children": []
+          },
+          {
+            "label": "Ernesta",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Azarel Ernesta"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "June",
+            "children": []
+          },
+          {
+            "label": "1976",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29 June 1976"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "457",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "176",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "181st",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "490",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "177th",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "250",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "186th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "457 km 2 (176 sq mi) ( 181st )",
+          "$4.490 billion ( 177th )",
+          "$2.250 billion ( 186th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "Negligible",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Negligible"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "121",
+            "children": []
+          },
+          {
+            "label": "355",
+            "children": []
+          },
+          {
+            "label": "200th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "121,355 ( 200th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "262",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "679",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "67th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "262.3/km 2 (679.4/sq mi) ( 67th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "850",
+            "children": []
+          },
+          {
+            "label": "49th",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "940",
+            "children": []
+          },
+          {
+            "label": "50th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$43,850 ( 49th )",
+          "$21,940 ( 50th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "32.1 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "848",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "54th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.848 very high ( 54th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Seychellois",
+            "children": []
+          },
+          {
+            "label": "rupee",
+            "children": []
+          },
+          {
+            "label": "SCR",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Seychellois rupee ( SCR )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "04",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "SCT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +04:00 ( SCT )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "248",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+248"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SC",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "SC"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "sc",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".sc"
+        ]
+      }
+    ]
+  }
+}

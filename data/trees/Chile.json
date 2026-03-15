@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+56",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Santiago [ a ] 33°26′S 70°40′W ﻿ / ﻿ 33.433°S 70.667°W ﻿ / -33.433; -70.667",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Chilean peso ( CLP )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Chilean",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "44.8 [ 10 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.878 [ 11 ] very high ( 45th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -123,28 +33,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".cl",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CL",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Congress",
+            "label": "Santiago 33°26′S 70°40′W / 33.433°S 70.667°W / -33.433; -70.667",
             "children": []
           }
         ]
@@ -177,77 +69,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −3, −4, −6 ( CLST, CLT, EAST )",
+            "label": "Chilean",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "19,629,588 [ 5 ] ( 63rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "11 March 1981",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "12 February 1818",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "24/km 2 (62.2/sq mi) ( 198th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government_junta",
-        "children": [
-          {
-            "label": "18 September 1810",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Chamber of Deputies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$35,290 [ 7 ] ( 61st )",
-            "children": []
-          },
-          {
-            "label": "$17,180 [ 9 ] ( 66th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -262,10 +96,10 @@
         ]
       },
       {
-        "label": "president_of_supreme_court",
+        "label": "president_of_the_senate",
         "children": [
           {
-            "label": "Juan Fuentes Belmar",
+            "label": "Manuel José Ossandón",
             "children": []
           }
         ]
@@ -280,45 +114,19 @@
         ]
       },
       {
-        "label": "president_of_the_senate",
+        "label": "president_of_supreme_court",
         "children": [
           {
-            "label": "Manuel José Ossandón",
+            "label": "Juan Fuentes Belmar",
             "children": []
           }
         ]
       },
       {
-        "label": "recognized",
+        "label": "legislature",
         "children": [
           {
-            "label": "25 April 1844",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "summer_dst",
-        "children": [
-          {
-            "label": "UTC −3, −5 ( CLST, EASST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "756,101.96 [ 2 ] [ 3 ] km 2 (291,932.60 sq mi) [ b ] ( 37th )",
-            "children": []
-          },
-          {
-            "label": "$713.030 billion [ 6 ] ( 45th )",
-            "children": []
-          },
-          {
-            "label": "$347.170 billion [ 8 ] ( 45th )",
+            "label": "National Congress",
             "children": []
           }
         ]
@@ -333,10 +141,202 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber of Deputies",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government_junta",
+        "children": [
+          {
+            "label": "18 September 1810",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "12 February 1818",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "25 April 1844",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "11 March 1981",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "756,101.96 km 2 (291,932.60 sq mi) ( 37th )",
+            "children": []
+          },
+          {
+            "label": "$713.030 billion ( 45th )",
+            "children": []
+          },
+          {
+            "label": "$347.170 billion ( 45th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
-            "label": "2.1 (as of 2015) [ 4 ]",
+            "label": "2.1 (as of 2015)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "19,629,588 ( 63rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "24/km 2 (62.2/sq mi) ( 198th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$35,290 ( 61st )",
+            "children": []
+          },
+          {
+            "label": "$17,180 ( 66th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "44.8 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.878 very high ( 45th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Chilean peso ( CLP )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −3, −4, −6 ( CLST, CLT, EAST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC −3, −5 ( CLST, EASST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+56",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "CL",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".cl",
             "children": []
           }
         ]

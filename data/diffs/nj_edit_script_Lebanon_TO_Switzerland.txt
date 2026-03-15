@@ -1,0 +1,1029 @@
+COUNTRY TRANSFORMATION EDIT SCRIPT
+=================================
+Source: Lebanon
+Target: Switzerland
+Total operations: 252
+Delete operations: 109
+Insert operations: 141
+Update operations: 2
+
+EXECUTION ORDER
+---------------
+1) Apply all deletes (remove source-only structure).
+2) Apply all inserts (add target-only structure).
+3) Apply all updates (align shared values).
+
+PHASE 1 - DELETE SOURCE-ONLY DATA
+=================================
+[DEL-001] PATH /country/capital_and_largest_city
+Reason: Remove data that exists in source but not in target.
+Action: delete `capital_and_largest_city`
+
+[DEL-002] PATH /country/constitution
+Reason: Remove data that exists in source but not in target.
+Action: delete `constitution`
+
+[DEL-003] PATH /country/double_qaimmaqamate_of_mount_lebanon
+Reason: Remove data that exists in source but not in target.
+Action: delete `double_qaimmaqamate_of_mount_lebanon`
+
+[DEL-004] PATH /country/emirate_of_mount_lebanon
+Reason: Remove data that exists in source but not in target.
+Action: delete `emirate_of_mount_lebanon`
+
+[DEL-005] PATH /country/ethnic_groups
+Reason: Remove data that exists in source but not in target.
+Action: delete `ethnic_groups`
+
+[DEL-006] PATH /country/french_mandate_ended
+Reason: Remove data that exists in source but not in target.
+Action: delete `french_mandate_ended`
+
+[DEL-007] PATH /country/greater_lebanon
+Reason: Remove data that exists in source but not in target.
+Action: delete `greater_lebanon`
+
+[DEL-008] PATH /country/independence_declared
+Reason: Remove data that exists in source but not in target.
+Action: delete `independence_declared`
+
+[DEL-009] PATH /country/israeli_troops_withdrawn
+Reason: Remove data that exists in source but not in target.
+Action: delete `israeli_troops_withdrawn`
+
+[DEL-010] PATH /country/local_vernacular
+Reason: Remove data that exists in source but not in target.
+Action: delete `local_vernacular`
+
+[DEL-011] PATH /country/mount_lebanon_mutasarrifate
+Reason: Remove data that exists in source but not in target.
+Action: delete `mount_lebanon_mutasarrifate`
+
+[DEL-012] PATH /country/president
+Reason: Remove data that exists in source but not in target.
+Action: delete `president`
+
+[DEL-013] PATH /country/prime_minister
+Reason: Remove data that exists in source but not in target.
+Action: delete `prime_minister`
+
+[DEL-014] PATH /country/recognised_minority_language
+Reason: Remove data that exists in source but not in target.
+Action: delete `recognised_minority_language`
+
+[DEL-015] PATH /country/speaker_of_the_parliament
+Reason: Remove data that exists in source but not in target.
+Action: delete `speaker_of_the_parliament`
+
+[DEL-016] PATH /country/syrian_troops_withdrawn
+Reason: Remove data that exists in source but not in target.
+Action: delete `syrian_troops_withdrawn`
+
+[DEL-017] PATH /country/withdrawal_of_french_forces
+Reason: Remove data that exists in source but not in target.
+Action: delete `withdrawal_of_french_forces`
+
+[DEL-018] PATH /country/currency
+Reason: Remove data that exists in source but not in target.
+Action: delete `LBP`
+
+[DEL-019] PATH /country/currency
+Reason: Remove data that exists in source but not in target.
+Action: delete `Lebanese`
+
+[DEL-020] PATH /country/currency
+Reason: Remove data that exists in source but not in target.
+Action: delete `pound`
+
+[DEL-021] PATH /country/demonyms
+Reason: Remove data that exists in source but not in target.
+Action: delete `Lebanese`
+
+[DEL-022] PATH /country/density
+Reason: Remove data that exists in source but not in target.
+Action: delete `328`
+
+[DEL-023] PATH /country/density
+Reason: Remove data that exists in source but not in target.
+Action: delete `513`
+
+[DEL-024] PATH /country/density
+Reason: Remove data that exists in source but not in target.
+Action: delete `7`
+
+[DEL-025] PATH /country/estimate
+Reason: Remove data that exists in source but not in target.
+Action: delete `117th`
+
+[DEL-026] PATH /country/estimate
+Reason: Remove data that exists in source but not in target.
+Action: delete `364`
+
+[DEL-027] PATH /country/estimate
+Reason: Remove data that exists in source but not in target.
+Action: delete `482`
+
+[DEL-028] PATH /country/estimate
+Reason: Remove data that exists in source but not in target.
+Action: delete `5`
+
+[DEL-029] PATH /country/gdp_nominal
+Reason: Remove data that exists in source but not in target.
+Action: delete `2022`
+
+[DEL-030] PATH /country/gdp_ppp
+Reason: Remove data that exists in source but not in target.
+Action: delete `2022`
+
+[DEL-031] PATH /country/gini
+Reason: Remove data that exists in source but not in target.
+Action: delete `8`
+
+[DEL-032] PATH /country/government
+Reason: Remove data that exists in source but not in target.
+Action: delete `Unitary`
+
+[DEL-033] PATH /country/government
+Reason: Remove data that exists in source but not in target.
+Action: delete `confessionalism`
+
+[DEL-034] PATH /country/government
+Reason: Remove data that exists in source but not in target.
+Action: delete `parliamentary`
+
+[DEL-035] PATH /country/government
+Reason: Remove data that exists in source but not in target.
+Action: delete `under`
+
+[DEL-036] PATH /country/hdi
+Reason: Remove data that exists in source but not in target.
+Action: delete `102nd`
+
+[DEL-037] PATH /country/hdi
+Reason: Remove data that exists in source but not in target.
+Action: delete `752`
+
+[DEL-038] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `All`
+
+[DEL-039] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `Anthem`
+
+[DEL-040] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `Kullun`
+
+[DEL-041] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `Lebanon`
+
+[DEL-042] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `an`
+
+[DEL-043] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `country`
+
+[DEL-044] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `l`
+
+[DEL-045] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `li`
+
+[DEL-046] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `our`
+
+[DEL-047] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `us`
+
+[DEL-048] PATH /country/info
+Reason: Remove data that exists in source but not in target.
+Action: delete `wa`
+
+[DEL-049] PATH /country/internet_tld
+Reason: Remove data that exists in source but not in target.
+Action: delete `lb`
+
+[DEL-050] PATH /country/legislature
+Reason: Remove data that exists in source but not in target.
+Action: delete `Parliament`
+
+[DEL-051] PATH /country/official_languages
+Reason: Remove data that exists in source but not in target.
+Action: delete `Arabic`
+
+[DEL-052] PATH /country/per_capita
+Reason: Remove data that exists in source but not in target.
+Action: delete `11`
+
+[DEL-053] PATH /country/per_capita
+Reason: Remove data that exists in source but not in target.
+Action: delete `114th`
+
+[DEL-054] PATH /country/per_capita
+Reason: Remove data that exists in source but not in target.
+Action: delete `133rd`
+
+[DEL-055] PATH /country/per_capita
+Reason: Remove data that exists in source but not in target.
+Action: delete `283`
+
+[DEL-056] PATH /country/per_capita
+Reason: Remove data that exists in source but not in target.
+Action: delete `3`
+
+[DEL-057] PATH /country/per_capita
+Reason: Remove data that exists in source but not in target.
+Action: delete `793`
+
+[DEL-058] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `0`
+
+[DEL-059] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `0`
+
+[DEL-060] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `08`
+
+[DEL-061] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `11`
+
+[DEL-062] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `2`
+
+[DEL-063] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `21`
+
+[DEL-064] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `26`
+
+[DEL-065] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `26`
+
+[DEL-066] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `28`
+
+[DEL-067] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `31`
+
+[DEL-068] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `40`
+
+[DEL-069] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `41`
+
+[DEL-070] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `53`
+
+[DEL-071] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `53`
+
+[DEL-072] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `55`
+
+[DEL-073] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `64`
+
+[DEL-074] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `64`
+
+[DEL-075] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `8`
+
+[DEL-076] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `84`
+
+[DEL-077] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `92`
+
+[DEL-078] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `Alawite`
+
+[DEL-079] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `Apostolic`
+
+[DEL-080] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `Armenian`
+
+[DEL-081] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `Catholic`
+
+[DEL-082] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `Christians`
+
+[DEL-083] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `Druze`
+
+[DEL-084] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `Islam`
+
+[DEL-085] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `No`
+
+[DEL-086] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `Orthodox`
+
+[DEL-087] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `Other`
+
+[DEL-088] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `Protestant`
+
+[DEL-089] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `Shia`
+
+[DEL-090] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `Sunni`
+
+[DEL-091] PATH /country/religion
+Reason: Remove data that exists in source but not in target.
+Action: delete `religion`
+
+[DEL-092] PATH /country/summer_dst
+Reason: Remove data that exists in source but not in target.
+Action: delete `3`
+
+[DEL-093] PATH /country/summer_dst
+Reason: Remove data that exists in source but not in target.
+Action: delete `EEST`
+
+[DEL-094] PATH /country/time_zone
+Reason: Remove data that exists in source but not in target.
+Action: delete `2`
+
+[DEL-095] PATH /country/time_zone
+Reason: Remove data that exists in source but not in target.
+Action: delete `EET`
+
+[DEL-096] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `036`
+
+[DEL-097] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `10`
+
+[DEL-098] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `103rd`
+
+[DEL-099] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `108th`
+
+[DEL-100] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `161st`
+
+[DEL-101] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `21`
+
+[DEL-102] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `233`
+
+[DEL-103] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `4`
+
+[DEL-104] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `452`
+
+[DEL-105] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `78`
+
+[DEL-106] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `780`
+
+[DEL-107] PATH /country/total
+Reason: Remove data that exists in source but not in target.
+Action: delete `billion`
+
+[DEL-108] PATH /country/water
+Reason: Remove data that exists in source but not in target.
+Action: delete `1`
+
+[DEL-109] PATH /country/water
+Reason: Remove data that exists in source but not in target.
+Action: delete `8`
+
+PHASE 2 - INSERT TARGET-ONLY DATA
+=================================
+[INS-001] PATH /country/capital
+Reason: Add data that exists in target but not in source.
+Action: insert `capital`
+
+[INS-002] PATH /country/census
+Reason: Add data that exists in target but not in source.
+Action: insert `census`
+
+[INS-003] PATH /country/date_format
+Reason: Add data that exists in target but not in source.
+Action: insert `date_format`
+
+[INS-004] PATH /country/federal_chancellor
+Reason: Add data that exists in target but not in source.
+Action: insert `federal_chancellor`
+
+[INS-005] PATH /country/federal_city
+Reason: Add data that exists in target but not in source.
+Action: insert `federal_city`
+
+[INS-006] PATH /country/federal_council
+Reason: Add data that exists in target but not in source.
+Action: insert `federal_council`
+
+[INS-007] PATH /country/federal_state
+Reason: Add data that exists in target but not in source.
+Action: insert `federal_state`
+
+[INS-008] PATH /country/federal_treaty
+Reason: Add data that exists in target but not in source.
+Action: insert `federal_treaty`
+
+[INS-009] PATH /country/founded
+Reason: Add data that exists in target but not in source.
+Action: insert `founded`
+
+[INS-010] PATH /country/french
+Reason: Add data that exists in target but not in source.
+Action: insert `french`
+
+[INS-011] PATH /country/german
+Reason: Add data that exists in target but not in source.
+Action: insert `german`
+
+[INS-012] PATH /country/italian
+Reason: Add data that exists in target but not in source.
+Action: insert `italian`
+
+[INS-013] PATH /country/largest_city
+Reason: Add data that exists in target but not in source.
+Action: insert `largest_city`
+
+[INS-014] PATH /country/latin
+Reason: Add data that exists in target but not in source.
+Action: insert `latin`
+
+[INS-015] PATH /country/lower_house
+Reason: Add data that exists in target but not in source.
+Action: insert `lower_house`
+
+[INS-016] PATH /country/nationality
+Reason: Add data that exists in target but not in source.
+Action: insert `nationality`
+
+[INS-017] PATH /country/romansh
+Reason: Add data that exists in target but not in source.
+Action: insert `romansh`
+
+[INS-018] PATH /country/sovereignty_recognised_peace_of_westphalia
+Reason: Add data that exists in target but not in source.
+Action: insert `sovereignty_recognised_peace_of_westphalia`
+
+[INS-019] PATH /country/upper_house
+Reason: Add data that exists in target but not in source.
+Action: insert `upper_house`
+
+[INS-020] PATH /country/currency
+Reason: Add data that exists in target but not in source.
+Action: insert `CHF`
+
+[INS-021] PATH /country/currency
+Reason: Add data that exists in target but not in source.
+Action: insert `Swiss`
+
+[INS-022] PATH /country/currency
+Reason: Add data that exists in target but not in source.
+Action: insert `franc`
+
+[INS-023] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `English`
+
+[INS-024] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `French`
+
+[INS-025] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `German`
+
+[INS-026] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `Italian`
+
+[INS-027] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `Romansh`
+
+[INS-028] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `Schweizer`
+
+[INS-029] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `Schweizerin`
+
+[INS-030] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `Suisse`
+
+[INS-031] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `Suissesse`
+
+[INS-032] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `Svizra`
+
+[INS-033] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `Svizzer`
+
+[INS-034] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `Swiss`
+
+[INS-035] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `elvetica`
+
+[INS-036] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `elvetico`
+
+[INS-037] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `or`
+
+[INS-038] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `svizzera`
+
+[INS-039] PATH /country/demonyms
+Reason: Add data that exists in target but not in source.
+Action: insert `svizzero`
+
+[INS-040] PATH /country/density
+Reason: Add data that exists in target but not in source.
+Action: insert `207`
+
+[INS-041] PATH /country/density
+Reason: Add data that exists in target but not in source.
+Action: insert `536`
+
+[INS-042] PATH /country/density
+Reason: Add data that exists in target but not in source.
+Action: insert `67th`
+
+[INS-043] PATH /country/estimate
+Reason: Add data that exists in target but not in source.
+Action: insert `060`
+
+[INS-044] PATH /country/estimate
+Reason: Add data that exists in target but not in source.
+Action: insert `598`
+
+[INS-045] PATH /country/estimate
+Reason: Add data that exists in target but not in source.
+Action: insert `9`
+
+[INS-046] PATH /country/estimate
+Reason: Add data that exists in target but not in source.
+Action: insert `99th`
+
+[INS-047] PATH /country/gdp_nominal
+Reason: Add data that exists in target but not in source.
+Action: insert `2025`
+
+[INS-048] PATH /country/gdp_ppp
+Reason: Add data that exists in target but not in source.
+Action: insert `2025`
+
+[INS-049] PATH /country/gini
+Reason: Add data that exists in target but not in source.
+Action: insert `5`
+
+[INS-050] PATH /country/government
+Reason: Add data that exists in target but not in source.
+Action: insert `Federal`
+
+[INS-051] PATH /country/government
+Reason: Add data that exists in target but not in source.
+Action: insert `assembly`
+
+[INS-052] PATH /country/government
+Reason: Add data that exists in target but not in source.
+Action: insert `directorial`
+
+[INS-053] PATH /country/government
+Reason: Add data that exists in target but not in source.
+Action: insert `independent`
+
+[INS-054] PATH /country/hdi
+Reason: Add data that exists in target but not in source.
+Action: insert `2nd`
+
+[INS-055] PATH /country/hdi
+Reason: Add data that exists in target but not in source.
+Action: insert `970`
+
+[INS-056] PATH /country/hdi
+Reason: Add data that exists in target but not in source.
+Action: insert `very`
+
+[INS-057] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Anthem`
+
+[INS-058] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Coat`
+
+[INS-059] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Europe`
+
+[INS-060] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Europe`
+
+[INS-061] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Motto`
+
+[INS-062] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `One`
+
+[INS-063] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Psalm`
+
+[INS-064] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Show`
+
+[INS-065] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Show`
+
+[INS-066] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Swiss`
+
+[INS-067] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Switzerland`
+
+[INS-068] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `Unus`
+
+[INS-069] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `all`
+
+[INS-070] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `all`
+
+[INS-071] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `and`
+
+[INS-072] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `arms`
+
+[INS-073] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `dark`
+
+[INS-074] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `for`
+
+[INS-075] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `globe`
+
+[INS-076] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `green`
+
+[INS-077] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `grey`
+
+[INS-078] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `map`
+
+[INS-079] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `of`
+
+[INS-080] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `omnes`
+
+[INS-081] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `omnibus`
+
+[INS-082] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `one`
+
+[INS-083] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `pro`
+
+[INS-084] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `pro`
+
+[INS-085] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `uno`
+
+[INS-086] PATH /country/info
+Reason: Add data that exists in target but not in source.
+Action: insert `unofficial`
+
+[INS-087] PATH /country/internet_tld
+Reason: Add data that exists in target but not in source.
+Action: insert `ch`
+
+[INS-088] PATH /country/internet_tld
+Reason: Add data that exists in target but not in source.
+Action: insert `swiss`
+
+[INS-089] PATH /country/legislature
+Reason: Add data that exists in target but not in source.
+Action: insert `Assembly`
+
+[INS-090] PATH /country/legislature
+Reason: Add data that exists in target but not in source.
+Action: insert `Federal`
+
+[INS-091] PATH /country/official_languages
+Reason: Add data that exists in target but not in source.
+Action: insert `0`
+
+[INS-092] PATH /country/official_languages
+Reason: Add data that exists in target but not in source.
+Action: insert `23`
+
+[INS-093] PATH /country/official_languages
+Reason: Add data that exists in target but not in source.
+Action: insert `5`
+
+[INS-094] PATH /country/official_languages
+Reason: Add data that exists in target but not in source.
+Action: insert `62`
+
+[INS-095] PATH /country/official_languages
+Reason: Add data that exists in target but not in source.
+Action: insert `8`
+
+[INS-096] PATH /country/official_languages
+Reason: Add data that exists in target but not in source.
+Action: insert `French`
+
+[INS-097] PATH /country/official_languages
+Reason: Add data that exists in target but not in source.
+Action: insert `German`
+
+[INS-098] PATH /country/official_languages
+Reason: Add data that exists in target but not in source.
+Action: insert `Italian`
+
+[INS-099] PATH /country/official_languages
+Reason: Add data that exists in target but not in source.
+Action: insert `Romansh`
+
+[INS-100] PATH /country/per_capita
+Reason: Add data that exists in target but not in source.
+Action: insert `047`
+
+[INS-101] PATH /country/per_capita
+Reason: Add data that exists in target but not in source.
+Action: insert `111`
+
+[INS-102] PATH /country/per_capita
+Reason: Add data that exists in target but not in source.
+Action: insert `3rd`
+
+[INS-103] PATH /country/per_capita
+Reason: Add data that exists in target but not in source.
+Action: insert `660`
+
+[INS-104] PATH /country/per_capita
+Reason: Add data that exists in target but not in source.
+Action: insert `6th`
+
+[INS-105] PATH /country/per_capita
+Reason: Add data that exists in target but not in source.
+Action: insert `97`
+
+[INS-106] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `18`
+
+[INS-107] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `36`
+
+[INS-108] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `54`
+
+[INS-109] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `6`
+
+[INS-110] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `6`
+
+[INS-111] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `7`
+
+[INS-112] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `7`
+
+[INS-113] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `8`
+
+[INS-114] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `9`
+
+[INS-115] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `Catholicism`
+
+[INS-116] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `Christian`
+
+[INS-117] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `Islam`
+
+[INS-118] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `Protestantism`
+
+[INS-119] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `no`
+
+[INS-120] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `other`
+
+[INS-121] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `other`
+
+[INS-122] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `religion`
+
+[INS-123] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `religions`
+
+[INS-124] PATH /country/religion
+Reason: Add data that exists in target but not in source.
+Action: insert `unanswered`
+
+[INS-125] PATH /country/summer_dst
+Reason: Add data that exists in target but not in source.
+Action: insert `2`
+
+[INS-126] PATH /country/summer_dst
+Reason: Add data that exists in target but not in source.
+Action: insert `CEST`
+
+[INS-127] PATH /country/time_zone
+Reason: Add data that exists in target but not in source.
+Action: insert `1`
+
+[INS-128] PATH /country/time_zone
+Reason: Add data that exists in target but not in source.
+Action: insert `CET`
+
+[INS-129] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `003`
+
+[INS-130] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `083`
+
+[INS-131] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `1`
+
+[INS-132] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `132th`
+
+[INS-133] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `15`
+
+[INS-134] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `20th`
+
+[INS-135] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `291`
+
+[INS-136] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `35th`
+
+[INS-137] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `41`
+
+[INS-138] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `881`
+
+[INS-139] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `943`
+
+[INS-140] PATH /country/total
+Reason: Add data that exists in target but not in source.
+Action: insert `trillion`
+
+[INS-141] PATH /country/water
+Reason: Add data that exists in target but not in source.
+Action: insert `4`
+
+PHASE 3 - UPDATE SHARED DATA
+============================
+[UPD-001] PATH /country/calling_code
+Reason: Change shared field value to target value.
+Action: update `961` -> `41`
+
+[UPD-002] PATH /country/iso_3166_code
+Reason: Change shared field value to target value.
+Action: update `LB` -> `CH`
+

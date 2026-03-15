@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+850 [ 9 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Pyongyang 39°2′N 125°45′E ﻿ / ﻿ 39.033°N 125.750°E ﻿ / 39.033; 125.750",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Korean People's won (₩) ( KPW )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "yy, yyyy년 mm월 dd일 yy, yyyy/mm/dd ( AD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "North Korean Korean",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "16.6 [ 7 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary communist state under a totalitarian hereditary dictatorship",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -106,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".kp [ 10 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KP",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Supreme People's Assembly",
+            "label": "Pyongyang 39°2′N 125°45′E / 39.033°N 125.750°E / 39.033; 125.750",
             "children": []
           }
         ]
@@ -154,83 +55,34 @@
         "label": "religion",
         "children": [
           {
-            "label": "73% no religion [ a ] 13% Chondoism 12% Shamanism 1.5% Buddhism 0.5% other [ b ]",
+            "label": "73% no religion 13% Chondoism 12% Shamanism 1.5% Buddhism 0.5% other",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +09:00 ( PYT [ 8 ] )",
+            "label": "North Korean Korean",
             "children": []
           }
         ]
       },
       {
-        "label": "1st_provisional_government",
+        "label": "government",
         "children": [
           {
-            "label": "8 February 1946",
+            "label": "Unitary communist state under a totalitarian hereditary dictatorship",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "wpk_general_secretary_and_sac_president",
         "children": [
           {
-            "label": "24,052,231",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "26,298,666 [ 4 ] ( 54th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "27 December 1972",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "212/km 2 (549.1/sq mi) ( 68th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dprk_established",
-        "children": [
-          {
-            "label": "10 July 1948",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$600 [ 5 ]",
-            "children": []
-          },
-          {
-            "label": "$1,261",
+            "label": "Kim Jong Un",
             "children": []
           }
         ]
@@ -245,10 +97,10 @@
         ]
       },
       {
-        "label": "soviet_administration_north_of_the_38th_parallel",
+        "label": "spa_standing_committee_chairman_and_sac_first_vice_president",
         "children": [
           {
-            "label": "3 October 1945",
+            "label": "Choe Ryong-hae",
             "children": []
           }
         ]
@@ -263,10 +115,10 @@
         ]
       },
       {
-        "label": "spa_standing_committee_chairman_and_sac_first_vice_president",
+        "label": "legislature",
         "children": [
           {
-            "label": "Choe Ryong-hae",
+            "label": "Supreme People's Assembly",
             "children": []
           }
         ]
@@ -281,18 +133,54 @@
         ]
       },
       {
+        "label": "soviet_administration_north_of_the_38th_parallel",
+        "children": [
+          {
+            "label": "3 October 1945",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "1st_provisional_government",
+        "children": [
+          {
+            "label": "8 February 1946",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "dprk_established",
+        "children": [
+          {
+            "label": "10 July 1948",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "27 December 1972",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
-            "label": "120,538 [ 1 ] km 2 (46,540 sq mi) [ 2 ] [ 3 ] ( 98th )",
+            "label": "120,538 km 2 (46,540 sq mi) ( 98th )",
             "children": []
           },
           {
-            "label": "$15.416 billion [ 5 ]",
+            "label": "$15.416 billion",
             "children": []
           },
           {
-            "label": "$32.036 billion [ 6 ]",
+            "label": "$32.036 billion",
             "children": []
           }
         ]
@@ -307,10 +195,122 @@
         ]
       },
       {
-        "label": "wpk_general_secretary_and_sac_president",
+        "label": "estimate",
         "children": [
           {
-            "label": "Kim Jong Un",
+            "label": "26,298,666 ( 54th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "24,052,231",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "212/km 2 (549.1/sq mi) ( 68th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$600",
+            "children": []
+          },
+          {
+            "label": "$1,261",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "16.6 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Korean People's won (₩) ( KPW )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +09:00 ( PYT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "yy, yyyy년 mm월 dd일 yy, yyyy/mm/dd ( AD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+850",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "KP",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".kp",
             "children": []
           }
         ]

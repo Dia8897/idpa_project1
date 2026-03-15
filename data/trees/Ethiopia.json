@@ -22,100 +22,28 @@
         ]
       },
       {
-        "label": "calling_code",
+        "label": "oromo",
         "children": [
           {
-            "label": "+251",
+            "label": "Rippabliikii Federaalawaa Dimokraatawaa Itoophiyaa",
             "children": []
           }
         ]
       },
       {
-        "label": "capital_and_largest_city",
+        "label": "somali",
         "children": [
           {
-            "label": "Addis Ababa 9°1′N 38°45′E ﻿ / ﻿ 9.017°N 38.750°E ﻿ / 9.017; 38.750",
+            "label": "Jamhuuriyadda Dimuqraadiga Federaalka Itoobiya",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "tigrinya",
         "children": [
           {
-            "label": "Birr ( ETB )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Ethiopian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "34.5% Oromo 26.9% Amhara 6.2% Somali 6.1% Tigrayan 4.0% Sidama 2.5% Gurage 2.3% Welayta 1.7% Hadiya 1.7% Afar 1.5% Gamo 12.6% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "35.0 [ 14 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal parliamentary republic [ 8 ] under an authoritarian government [ 9 ] [ 10 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.492 [ 15 ] low ( 176th )",
+            "label": "ናይኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ",
             "children": []
           }
         ]
@@ -138,28 +66,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".et",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ET",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Federal Parliamentary Assembly",
+            "label": "Addis Ababa 9°1′N 38°45′E / 9.017°N 38.750°E / 9.017; 38.750",
             "children": []
           }
         ]
@@ -168,16 +78,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Afar Amharic Oromo Somali Tigrinya [ 1 ] [ 2 ] [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "oromo",
-        "children": [
-          {
-            "label": "Rippabliikii Federaalawaa Dimokraatawaa Itoophiyaa",
+            "label": "Afar Amharic Oromo Somali Tigrinya",
             "children": []
           }
         ]
@@ -192,6 +93,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "34.5% Oromo 26.9% Amhara 6.2% Somali 6.1% Tigrayan 4.0% Sidama 2.5% Gurage 2.3% Welayta 1.7% Hadiya 1.7% Afar 1.5% Gamo 12.6% others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -201,122 +111,19 @@
         ]
       },
       {
-        "label": "somali",
+        "label": "demonyms",
         "children": [
           {
-            "label": "Jamhuuriyadda Dimuqraadiga Federaalka Itoobiya",
+            "label": "Ethiopian",
             "children": []
           }
         ]
       },
       {
-        "label": "tigrinya",
+        "label": "government",
         "children": [
           {
-            "label": "ናይኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ [ a ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( EAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "census",
-        "children": [
-          {
-            "label": "73,750,932 [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "135,500,000 [ 11 ] [ 12 ] ( 10th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "centralisation",
-        "children": [
-          {
-            "label": "1904",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice_of_the_federal_supreme_court",
-        "children": [
-          {
-            "label": "Tewodros Mihret",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "92.7/km 2 (240.1/sq mi) ( 123rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "deputy_prime_ministers",
-        "children": [
-          {
-            "label": "Temesgen Tiruneh Adem Farah",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethiopian_empire",
-        "children": [
-          {
-            "label": "1270",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Peoples' Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "occupied_and_annexed_into_italian_east_africa",
-        "children": [
-          {
-            "label": "9 May 1936",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$4,050 [ 13 ] ( 159th )",
-            "children": []
-          },
-          {
-            "label": "$1,350 [ 13 ] ( 159th )",
+            "label": "Federal parliamentary republic under an authoritarian government",
             "children": []
           }
         ]
@@ -340,36 +147,28 @@
         ]
       },
       {
-        "label": "reestablishment_of_independence",
+        "label": "deputy_prime_ministers",
         "children": [
           {
-            "label": "31 January 1942",
+            "label": "Temesgen Tiruneh Adem Farah",
             "children": []
           }
         ]
       },
       {
-        "label": "reunification",
+        "label": "chief_justice_of_the_federal_supreme_court",
         "children": [
           {
-            "label": "11 February 1855",
+            "label": "Tewodros Mihret",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "1,104,300 km 2 (426,400 sq mi) ( 26th )",
-            "children": []
-          },
-          {
-            "label": "$434.44 billion [ 13 ] ( 55th )",
-            "children": []
-          },
-          {
-            "label": "$145.03 billion [ 13 ] ( 59th )",
+            "label": "Federal Parliamentary Assembly",
             "children": []
           }
         ]
@@ -384,10 +183,19 @@
         ]
       },
       {
-        "label": "water",
+        "label": "lower_house",
         "children": [
           {
-            "label": "0.7",
+            "label": "House of Peoples' Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethiopian_empire",
+        "children": [
+          {
+            "label": "1270",
             "children": []
           }
         ]
@@ -397,6 +205,198 @@
         "children": [
           {
             "label": "7 May 1769",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "reunification",
+        "children": [
+          {
+            "label": "11 February 1855",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "centralisation",
+        "children": [
+          {
+            "label": "1904",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "occupied_and_annexed_into_italian_east_africa",
+        "children": [
+          {
+            "label": "9 May 1936",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "reestablishment_of_independence",
+        "children": [
+          {
+            "label": "31 January 1942",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1,104,300 km 2 (426,400 sq mi) ( 26th )",
+            "children": []
+          },
+          {
+            "label": "$434.44 billion ( 55th )",
+            "children": []
+          },
+          {
+            "label": "$145.03 billion ( 59th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0.7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "135,500,000 ( 10th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "73,750,932",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "92.7/km 2 (240.1/sq mi) ( 123rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$4,050 ( 159th )",
+            "children": []
+          },
+          {
+            "label": "$1,350 ( 159th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "35.0 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.492 low ( 176th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Birr ( ETB )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +3 ( EAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+251",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "ET",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".et",
             "children": []
           }
         ]

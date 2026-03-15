@@ -1,0 +1,962 @@
+{
+  "country_name": "Turkmenistan",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "T",
+            "children": []
+          },
+          {
+            "label": "rkmenistan",
+            "children": []
+          },
+          {
+            "label": "Bitaraplygy",
+            "children": []
+          },
+          {
+            "label": "watanydyr",
+            "children": []
+          },
+          {
+            "label": "Turkmenistan",
+            "children": []
+          },
+          {
+            "label": "is",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "motherland",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Neutrality",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "T",
+            "children": []
+          },
+          {
+            "label": "rkmenistany",
+            "children": []
+          },
+          {
+            "label": "D",
+            "children": []
+          },
+          {
+            "label": "wlet",
+            "children": []
+          },
+          {
+            "label": "senasy",
+            "children": []
+          },
+          {
+            "label": "State",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Turkmenistan",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Turkmenistan",
+            "children": []
+          },
+          {
+            "label": "Turkmenistan",
+            "children": []
+          },
+          {
+            "label": "orthographic",
+            "children": []
+          },
+          {
+            "label": "projection",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Motto: Türkmenistan Bitaraplygyň watanydyr \"Turkmenistan is the motherland of Neutrality\"",
+          "Anthem: Türkmenistanyň Döwlet senasy \" State Anthem of Turkmenistan \"",
+          "Show globe Show map of Turkmenistan Turkmenistan (orthographic projection)"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Ashgabat",
+            "children": []
+          },
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "58",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "58",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "967",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "58",
+            "children": []
+          },
+          {
+            "label": "333",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "967",
+            "children": []
+          },
+          {
+            "label": "58",
+            "children": []
+          },
+          {
+            "label": "333",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ashgabat 37°58′N 58°20′E / 37.967°N 58.333°E / 37.967; 58.333"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Turkmen",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Turkmen"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "86",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Turkmens",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Uzbeks",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Russians",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Baloch",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "86.7% Turkmens 9.1% Uzbeks 1.6% Russians 1.2% Baloch 1.3% others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "95.8% Islam 3.0% no religion 1.1% Christianity 0.1% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Turkmenistani",
+            "children": []
+          },
+          {
+            "label": "Turkmen",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Turkmenistani Turkmen"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "under",
+            "children": []
+          },
+          {
+            "label": "a",
+            "children": []
+          },
+          {
+            "label": "totalitarian",
+            "children": []
+          },
+          {
+            "label": "hereditary",
+            "children": []
+          },
+          {
+            "label": "dictatorship",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic under a totalitarian hereditary dictatorship"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Serdar",
+            "children": []
+          },
+          {
+            "label": "Berdimuhamedow",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Serdar Berdimuhamedow"
+        ]
+      },
+      {
+        "label": "deputy_chairman_of_the_cabinet_of_ministers",
+        "children": [
+          {
+            "label": "Ra",
+            "children": []
+          },
+          {
+            "label": "it",
+            "children": []
+          },
+          {
+            "label": "Meredow",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Raşit Meredow"
+        ]
+      },
+      {
+        "label": "chairman_of_the_peoples_council",
+        "children": [
+          {
+            "label": "Gurbanguly",
+            "children": []
+          },
+          {
+            "label": "Berdimuhamedow",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Gurbanguly Berdimuhamedow"
+        ]
+      },
+      {
+        "label": "chairperson_of_the_assembly",
+        "children": [
+          {
+            "label": "D",
+            "children": []
+          },
+          {
+            "label": "n",
+            "children": []
+          },
+          {
+            "label": "g",
+            "children": []
+          },
+          {
+            "label": "zel",
+            "children": []
+          },
+          {
+            "label": "Gulmanowa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Dünýägözel Gulmanowa"
+        ]
+      },
+      {
+        "label": "chairman_of_the_supreme_court",
+        "children": [
+          {
+            "label": "Begen",
+            "children": []
+          },
+          {
+            "label": "Hojamguly",
+            "children": []
+          },
+          {
+            "label": "ew",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Begenç Hojamgulyýew"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Assembly"
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1990",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "22 August 1990"
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "26 December 1991"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "491",
+            "children": []
+          },
+          {
+            "label": "210",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "189",
+            "children": []
+          },
+          {
+            "label": "660",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "52nd",
+            "children": []
+          },
+          {
+            "label": "186",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "83rd",
+            "children": []
+          },
+          {
+            "label": "89",
+            "children": []
+          },
+          {
+            "label": "05",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "78th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "491,210 km 2 (189,660 sq mi) ( 52nd )",
+          "$186.11 billion ( 83rd )",
+          "$89.05 billion ( 78th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "069",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "293",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "24,069 km 2 (9,293 sq mi)"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4.9"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "057",
+            "children": []
+          },
+          {
+            "label": "841",
+            "children": []
+          },
+          {
+            "label": "105th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7,057,841 ( 105th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "221st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "14.4/km 2 (37.3/sq mi) ( 221st )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "887",
+            "children": []
+          },
+          {
+            "label": "74th",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "334",
+            "children": []
+          },
+          {
+            "label": "72nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$27,887 ( 74th )",
+          "$13,334 ( 72nd )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "40",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "40.8 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "764",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "95th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.764 high ( 95th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Manat",
+            "children": []
+          },
+          {
+            "label": "TMT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Manat ( TMT )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "05",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "TMT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +05:00 ( TMT )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "993",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+993"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "TM",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "TM"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "tm",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".tm"
+        ]
+      }
+    ]
+  }
+}

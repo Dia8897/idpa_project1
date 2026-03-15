@@ -1,0 +1,1242 @@
+{
+  "country_name": "Switzerland",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "german",
+        "children": [
+          {
+            "label": "Schweizerische",
+            "children": []
+          },
+          {
+            "label": "Eidgenossenschaft",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Schweizerische Eidgenossenschaft"
+        ]
+      },
+      {
+        "label": "french",
+        "children": [
+          {
+            "label": "Conf",
+            "children": []
+          },
+          {
+            "label": "d",
+            "children": []
+          },
+          {
+            "label": "ration",
+            "children": []
+          },
+          {
+            "label": "suisse",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Confédération suisse"
+        ]
+      },
+      {
+        "label": "italian",
+        "children": [
+          {
+            "label": "Confederazione",
+            "children": []
+          },
+          {
+            "label": "Svizzera",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Confederazione Svizzera"
+        ]
+      },
+      {
+        "label": "romansh",
+        "children": [
+          {
+            "label": "Confederaziun",
+            "children": []
+          },
+          {
+            "label": "svizra",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Confederaziun svizra"
+        ]
+      },
+      {
+        "label": "latin",
+        "children": [
+          {
+            "label": "Confoederatio",
+            "children": []
+          },
+          {
+            "label": "helvetica",
+            "children": []
+          },
+          {
+            "label": "CH",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Confoederatio helvetica (CH)"
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "unofficial",
+            "children": []
+          },
+          {
+            "label": "Unus",
+            "children": []
+          },
+          {
+            "label": "pro",
+            "children": []
+          },
+          {
+            "label": "omnibus",
+            "children": []
+          },
+          {
+            "label": "omnes",
+            "children": []
+          },
+          {
+            "label": "pro",
+            "children": []
+          },
+          {
+            "label": "uno",
+            "children": []
+          },
+          {
+            "label": "One",
+            "children": []
+          },
+          {
+            "label": "for",
+            "children": []
+          },
+          {
+            "label": "all",
+            "children": []
+          },
+          {
+            "label": "all",
+            "children": []
+          },
+          {
+            "label": "for",
+            "children": []
+          },
+          {
+            "label": "one",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "Psalm",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Europe",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Switzerland",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "Europe",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "grey",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: (unofficial) \" Unus pro omnibus, omnes pro uno \" \"One for all, all for one\"",
+          "Anthem: \" Swiss Psalm \"",
+          "Show globe Show map of Europe Location of Switzerland (green) in Europe (green and dark grey)"
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Bern",
+            "children": []
+          },
+          {
+            "label": "de",
+            "children": []
+          },
+          {
+            "label": "facto",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bern ( de facto )"
+        ]
+      },
+      {
+        "label": "federal_city",
+        "children": [
+          {
+            "label": "Bern",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bern"
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Zurich",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Zurich"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "German",
+            "children": []
+          },
+          {
+            "label": "62",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "Italian",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Romansh",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "German (62%), French (23%), Italian (8%), Romansh (0.5%)"
+        ]
+      },
+      {
+        "label": "nationality",
+        "children": [
+          {
+            "label": "72",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "foreign",
+            "children": []
+          },
+          {
+            "label": "nationals",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "72.6% Swiss 27.4% foreign nationals"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "54",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "religions",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "unanswered",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "54.7% Christianity 30% Catholicism 18.7% Protestantism 6% other Christian 36.8% no religion 6% Islam 1.5% other religions 0.9% unanswered"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "German",
+            "children": []
+          },
+          {
+            "label": "Schweizer",
+            "children": []
+          },
+          {
+            "label": "Schweizerin",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "Suisse",
+            "children": []
+          },
+          {
+            "label": "Suissesse",
+            "children": []
+          },
+          {
+            "label": "Italian",
+            "children": []
+          },
+          {
+            "label": "svizzero",
+            "children": []
+          },
+          {
+            "label": "svizzera",
+            "children": []
+          },
+          {
+            "label": "or",
+            "children": []
+          },
+          {
+            "label": "elvetico",
+            "children": []
+          },
+          {
+            "label": "elvetica",
+            "children": []
+          },
+          {
+            "label": "Romansh",
+            "children": []
+          },
+          {
+            "label": "Svizzer",
+            "children": []
+          },
+          {
+            "label": "Svizra",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English: Swiss German: Schweizer/Schweizerin French: Suisse/Suissesse Italian : svizzero/svizzera or elvetico/elvetica Romansh : Svizzer/Svizra"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "assembly",
+            "children": []
+          },
+          {
+            "label": "independent",
+            "children": []
+          },
+          {
+            "label": "directorial",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal assembly-independent directorial republic"
+        ]
+      },
+      {
+        "label": "federal_council",
+        "children": [
+          {
+            "label": "Guy",
+            "children": []
+          },
+          {
+            "label": "Parmelin",
+            "children": []
+          },
+          {
+            "label": "President",
+            "children": []
+          },
+          {
+            "label": "Ignazio",
+            "children": []
+          },
+          {
+            "label": "Cassis",
+            "children": []
+          },
+          {
+            "label": "Vice",
+            "children": []
+          },
+          {
+            "label": "president",
+            "children": []
+          },
+          {
+            "label": "Karin",
+            "children": []
+          },
+          {
+            "label": "Keller",
+            "children": []
+          },
+          {
+            "label": "Sutter",
+            "children": []
+          },
+          {
+            "label": "Albert",
+            "children": []
+          },
+          {
+            "label": "R",
+            "children": []
+          },
+          {
+            "label": "sti",
+            "children": []
+          },
+          {
+            "label": "lisabeth",
+            "children": []
+          },
+          {
+            "label": "Baume",
+            "children": []
+          },
+          {
+            "label": "Schneider",
+            "children": []
+          },
+          {
+            "label": "Beat",
+            "children": []
+          },
+          {
+            "label": "Jans",
+            "children": []
+          },
+          {
+            "label": "Martin",
+            "children": []
+          },
+          {
+            "label": "Pfister",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Guy Parmelin ( President ) Ignazio Cassis ( Vice president ) Karin Keller-Sutter Albert Rösti Élisabeth Baume-Schneider Beat Jans Martin Pfister"
+        ]
+      },
+      {
+        "label": "federal_chancellor",
+        "children": [
+          {
+            "label": "Viktor",
+            "children": []
+          },
+          {
+            "label": "Rossi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Viktor Rossi"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal Assembly"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Council",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "States",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Council of States"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Council",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Council"
+        ]
+      },
+      {
+        "label": "founded",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1291",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 August 1291"
+        ]
+      },
+      {
+        "label": "sovereignty_recognised_peace_of_westphalia",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1648",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "24 October 1648"
+        ]
+      },
+      {
+        "label": "federal_treaty",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1815",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7 August 1815"
+        ]
+      },
+      {
+        "label": "federal_state",
+        "children": [
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1848",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "12 September 1848"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "291",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "943",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "132th",
+            "children": []
+          },
+          {
+            "label": "881",
+            "children": []
+          },
+          {
+            "label": "083",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "35th",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "003",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "20th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "41,291 km 2 (15,943 sq mi) ( 132th )",
+          "$881.083 billion ( 35th )",
+          "$1.003 trillion ( 20th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "060",
+            "children": []
+          },
+          {
+            "label": "598",
+            "children": []
+          },
+          {
+            "label": "99th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9,060,598 ( 99th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "327",
+            "children": []
+          },
+          {
+            "label": "126",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "8,327,126"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "207",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "536",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "67th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "207/km 2 (536.1/sq mi) ( 67th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "97",
+            "children": []
+          },
+          {
+            "label": "660",
+            "children": []
+          },
+          {
+            "label": "6th",
+            "children": []
+          },
+          {
+            "label": "111",
+            "children": []
+          },
+          {
+            "label": "047",
+            "children": []
+          },
+          {
+            "label": "3rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$97,660 ( 6th )",
+          "$111,047 ( 3rd )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "31.5 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "970",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "2nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.970 very high ( 2nd )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "franc",
+            "children": []
+          },
+          {
+            "label": "CHF",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Swiss franc ( CHF )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "CET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +1 ( CET )"
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "CEST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( CEST )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          },
+          {
+            "label": "AD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd.mm.yyyy ( AD )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "41",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+41"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "CH",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "CH"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "ch",
+            "children": []
+          },
+          {
+            "label": "swiss",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".ch , .swiss"
+        ]
+      }
+    ]
+  }
+}

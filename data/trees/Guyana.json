@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+592",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Georgetown 6°48′04″N 58°09′18″W ﻿ / ﻿ 6.80111°N 58.15500°W ﻿ / 6.80111; -58.15500",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Guyanese dollar ( GYD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd-mm-yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Guyanese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "44.4% Indian 32.3% African 20.0% Mixed [ a ] 10.5% Indigenous 0.3% European [ b ] 0.2% Chinese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "44.6 [ 8 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic with an executive presidency [ c ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.776 [ 9 ] high ( 89th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -124,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".gy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Georgetown 6°48′04′′N 58°09′18′′W / 6.80111°N 58.15500°W / 6.80111; -58.15500",
             "children": []
           }
         ]
@@ -160,37 +43,10 @@
         ]
       },
       {
-        "label": "other_languages",
-        "children": [
-          {
-            "label": "6 languages Guyanese Hindustani Portuguese Dutch Spanish Chinese",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "recognised_regional_languages",
         "children": [
           {
             "label": "10 indigenous languages Akawaio Macushi Waiwai Arawak (Lokono) Patamona Warao Carib Wapishana Pemon (Arekuna) Mawayana",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "55.5% Christianity 31.0% Hinduism 9.5% Islam 4.2% no religion 3.3% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC -04:00 ( GYT )",
             "children": []
           }
         ]
@@ -205,86 +61,46 @@
         ]
       },
       {
-        "label": "estimate",
+        "label": "other_languages",
         "children": [
           {
-            "label": "950,986 [ 6 ] ( 166th )",
+            "label": "6 languages Guyanese Hindustani Portuguese Dutch Spanish Chinese",
             "children": []
           }
         ]
       },
       {
-        "label": "acting_chief_justice",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "Roxane George-Wiltshire",
+            "label": "44.4% Indian 32.3% African 20.0% Mixed 10.5% Indigenous 0.3% European 0.2% Chinese",
             "children": []
           }
         ]
       },
       {
-        "label": "british_guiana",
+        "label": "religion",
         "children": [
           {
-            "label": "1831–1966",
+            "label": "55.5% Christianity 31.0% Hinduism 9.5% Islam 4.2% no religion 3.3% others",
             "children": []
           }
         ]
       },
       {
-        "label": "current_constitution",
+        "label": "demonyms",
         "children": [
           {
-            "label": "6 October 1980",
+            "label": "Guyanese",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "government",
         "children": [
           {
-            "label": "4.25/km 2 (11.0/sq mi) ( 235th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dutch_control",
-        "children": [
-          {
-            "label": "1667–1815",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom_as_guyana",
-        "children": [
-          {
-            "label": "26 May 1966",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "joined_caricom_at_the_treaty_of_chaguaramas",
-        "children": [
-          {
-            "label": "1 August 1973",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$94,258 [ 7 ] ( 8th )",
-            "children": []
-          },
-          {
-            "label": "$32,326 [ 7 ] ( 37th )",
+            "label": "Unitary parliamentary republic with an executive presidency",
             "children": []
           }
         ]
@@ -308,15 +124,6 @@
         ]
       },
       {
-        "label": "republic",
-        "children": [
-          {
-            "label": "23 February 1970",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "second_vice_president",
         "children": [
           {
@@ -335,18 +142,90 @@
         ]
       },
       {
+        "label": "acting_chief_justice",
+        "children": [
+          {
+            "label": "Roxane George-Wiltshire",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "dutch_control",
+        "children": [
+          {
+            "label": "1667–1815",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "british_guiana",
+        "children": [
+          {
+            "label": "1831–1966",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_the_united_kingdom_as_guyana",
+        "children": [
+          {
+            "label": "26 May 1966",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic",
+        "children": [
+          {
+            "label": "23 February 1970",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "joined_caricom_at_the_treaty_of_chaguaramas",
+        "children": [
+          {
+            "label": "1 August 1973",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "6 October 1980",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
-            "label": "214,969 [ 3 ] [ 4 ] [ 5 ] km 2 (83,000 sq mi) ( 83rd )",
+            "label": "214,969 km 2 (83,000 sq mi) ( 83rd )",
             "children": []
           },
           {
-            "label": "$75.294 billion [ 7 ] ( 110th )",
+            "label": "$75.294 billion ( 110th )",
             "children": []
           },
           {
-            "label": "$25.822 billion [ 7 ] ( 119th )",
+            "label": "$25.822 billion ( 119th )",
             "children": []
           }
         ]
@@ -356,6 +235,127 @@
         "children": [
           {
             "label": "8.4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "950,986 ( 166th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "4.25/km 2 (11.0/sq mi) ( 235th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$94,258 ( 8th )",
+            "children": []
+          },
+          {
+            "label": "$32,326 ( 37th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "44.6 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.776 high ( 89th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Guyanese dollar ( GYD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC -04:00 ( GYT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd-mm-yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+592",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "GY",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".gy",
             "children": []
           }
         ]

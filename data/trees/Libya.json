@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+218",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Tripoli [ 1 ] 32°52′N 13°11′E ﻿ / ﻿ 32.867°N 13.183°E ﻿ / 32.867; 13.183",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Libyan dinar ( LYD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Libyan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "92% Arabs 5% Berbers 3% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "foreign_languages",
-        "children": [
-          {
-            "label": "Italian and English",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary republic under a provisional government ( GNU )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.721 [ 7 ] high ( 115th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,19 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ly ليبيا.",
+            "label": "Tripoli 32°52′N 13°11′E / 32.867°N 13.183°E / 32.867; 13.183",
             "children": []
           }
         ]
       },
       {
-        "label": "iso_3166_code",
+        "label": "official_languages",
         "children": [
           {
-            "label": "LY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "High Council of State House of Representatives",
+            "label": "Arabic",
             "children": []
           }
         ]
@@ -151,10 +52,19 @@
         ]
       },
       {
-        "label": "official_languages",
+        "label": "foreign_languages",
         "children": [
           {
-            "label": "Arabic [b]",
+            "label": "Italian and English",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "92% Arabs 5% Berbers 3% others",
             "children": []
           }
         ]
@@ -169,19 +79,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +2 ( EET )",
+            "label": "Libyan",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "7,361,263 [ 1 ] ( 103rd )",
+            "label": "Unitary republic under a provisional government ( GNU )",
             "children": []
           }
         ]
@@ -196,104 +106,10 @@
         ]
       },
       {
-        "label": "coup_detat_by_muammar_gaddafi",
+        "label": "vice_chairman_of_the_presidential_council",
         "children": [
           {
-            "label": "1 September 1969",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "4.2/km 2 (10.9/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "end_of_second_libyan_civil_war",
-        "children": [
-          {
-            "label": "23 October 2020",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_libyan_civil_war",
-        "children": [
-          {
-            "label": "17 February 2011",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "great_socialist_peoples_libyan_arab_jamahiriya",
-        "children": [
-          {
-            "label": "2 March 1977",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "italian_invasion_of_libya",
-        "children": [
-          {
-            "label": "1911",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_libya",
-        "children": [
-          {
-            "label": "24 December 1951",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "libyan_resistance_movement",
-        "children": [
-          {
-            "label": "1911–1951",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "nato_intervention_in_libya",
-        "children": [
-          {
-            "label": "19 March 2011",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ottoman_tripolitania",
-        "children": [
-          {
-            "label": "1551",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$17,760 [ 4 ] ( 101th )",
-            "children": []
-          },
-          {
-            "label": "$6,800 [ 6 ] ( 102th )",
+            "label": "Musa Al-Koni",
             "children": []
           }
         ]
@@ -302,7 +118,7 @@
         "label": "prime_minister",
         "children": [
           {
-            "label": "Abdul Hamid Dbeibeh [ a ]",
+            "label": "Abdul Hamid Dbeibeh",
             "children": []
           }
         ]
@@ -317,18 +133,37 @@
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "1,759,541 km 2 (679,363 sq mi) ( 16th )",
+            "label": "High Council of State House of Representatives",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "ottoman_tripolitania",
+        "children": [
           {
-            "label": "$123.990 billion [ 3 ] ( 96th )",
+            "label": "1551",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "italian_invasion_of_libya",
+        "children": [
           {
-            "label": "$47.480 billion [ 5 ] ( 95th )",
+            "label": "1911",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "libyan_resistance_movement",
+        "children": [
+          {
+            "label": "1911–1951",
             "children": []
           }
         ]
@@ -343,10 +178,175 @@
         ]
       },
       {
-        "label": "vice_chairman_of_the_presidential_council",
+        "label": "kingdom_of_libya",
         "children": [
           {
-            "label": "Musa Al-Koni",
+            "label": "24 December 1951",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "coup_detat_by_muammar_gaddafi",
+        "children": [
+          {
+            "label": "1 September 1969",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "great_socialist_peoples_libyan_arab_jamahiriya",
+        "children": [
+          {
+            "label": "2 March 1977",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "first_libyan_civil_war",
+        "children": [
+          {
+            "label": "17 February 2011",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "nato_intervention_in_libya",
+        "children": [
+          {
+            "label": "19 March 2011",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "end_of_second_libyan_civil_war",
+        "children": [
+          {
+            "label": "23 October 2020",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1,759,541 km 2 (679,363 sq mi) ( 16th )",
+            "children": []
+          },
+          {
+            "label": "$123.990 billion ( 96th )",
+            "children": []
+          },
+          {
+            "label": "$47.480 billion ( 95th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "7,361,263 ( 103rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "4.2/km 2 (10.9/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$17,760 ( 101th )",
+            "children": []
+          },
+          {
+            "label": "$6,800 ( 102th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.721 high ( 115th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Libyan dinar ( LYD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( EET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+218",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "LY",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ly ليبيا.",
             "children": []
           }
         ]

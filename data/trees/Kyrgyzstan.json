@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+996",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Bishkek 42°52′N 74°36′E ﻿ / ﻿ 42.867°N 74.600°E ﻿ / 42.867; 74.600",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Kyrgyzstani som ( c ) ( KGS )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Kyrgyz Kyrgyzstani [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "77.8% Kyrgyz 14.3% Uzbeks 3.7% Russians 1.0% Dungans 0.9% Tajiks 2.3% Others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "26.4 [ 12 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.720 [ 13 ] high ( 117th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -120,28 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".kg",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Supreme Council",
+            "label": "Bishkek 42°52′N 74°36′E / 42.867°N 74.600°E / 42.867; 74.600",
             "children": []
           }
         ]
@@ -150,7 +33,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Kyrgyz (state) Russian (official) [ 1 ]",
+            "label": "Kyrgyz (state) Russian (official)",
             "children": []
           }
         ]
@@ -165,6 +48,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "77.8% Kyrgyz 14.3% Uzbeks 3.7% Russians 1.0% Dungans 0.9% Tajiks 2.3% Others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -174,28 +66,28 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +6 ( KGT )",
+            "label": "Kyrgyz Kyrgyzstani",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "7.4 million [ 7 ] ( 107th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
       },
       {
-        "label": "annexed_by_the_russian_empire",
+        "label": "president",
         "children": [
           {
-            "label": "1876",
+            "label": "Sadyr Japarov",
             "children": []
           }
         ]
@@ -210,46 +102,28 @@
         ]
       },
       {
-        "label": "current_constitution",
+        "label": "speaker_of_the_supreme_council",
         "children": [
           {
-            "label": "11 April 2021",
+            "label": "Marlen Mamataliev",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "legislature",
         "children": [
           {
-            "label": "37/km 2 (95.8/sq mi) ( 109th )",
+            "label": "Supreme Council",
             "children": []
           }
         ]
       },
       {
-        "label": "independence_declared_from_ussr",
+        "label": "kyrgyz_khaganate",
         "children": [
           {
-            "label": "31 August 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_recognized",
-        "children": [
-          {
-            "label": "26 December 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "karakirghiz_ao",
-        "children": [
-          {
-            "label": "14 October 1924",
+            "label": "840",
             "children": []
           }
         ]
@@ -259,6 +133,24 @@
         "children": [
           {
             "label": "1842–1867",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "annexed_by_the_russian_empire",
+        "children": [
+          {
+            "label": "1876",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "karakirghiz_ao",
+        "children": [
+          {
+            "label": "14 October 1924",
             "children": []
           }
         ]
@@ -282,37 +174,6 @@
         ]
       },
       {
-        "label": "kyrgyz_khaganate",
-        "children": [
-          {
-            "label": "840",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$8,870 [ 9 ] ( 136th )",
-            "children": []
-          },
-          {
-            "label": "$3,101 [ 11 ] ( 139th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Sadyr Japarov",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "sovereignty_declared",
         "children": [
           {
@@ -322,10 +183,28 @@
         ]
       },
       {
-        "label": "speaker_of_the_supreme_council",
+        "label": "independence_declared_from_ussr",
         "children": [
           {
-            "label": "Marlen Mamataliev",
+            "label": "31 August 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_recognized",
+        "children": [
+          {
+            "label": "26 December 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "11 April 2021",
             "children": []
           }
         ]
@@ -334,15 +213,15 @@
         "label": "total",
         "children": [
           {
-            "label": "200,105 km 2 (77,261 sq mi) [ 6 ] ( 85th )",
+            "label": "200,105 km 2 (77,261 sq mi) ( 85th )",
             "children": []
           },
           {
-            "label": "$64.110 billion [ 8 ] ( 128th )",
+            "label": "$64.110 billion ( 128th )",
             "children": []
           },
           {
-            "label": "$22.587 billion [ 10 ] ( 126th )",
+            "label": "$22.587 billion ( 126th )",
             "children": []
           }
         ]
@@ -361,6 +240,127 @@
         "children": [
           {
             "label": "3.6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "7.4 million ( 107th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "37/km 2 (95.8/sq mi) ( 109th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$8,870 ( 136th )",
+            "children": []
+          },
+          {
+            "label": "$3,101 ( 139th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "26.4 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.720 high ( 117th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Kyrgyzstani som ( c ) ( KGS )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +6 ( KGT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+996",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "KG",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".kg",
             "children": []
           }
         ]

@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+245",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Bissau 11°52′N 15°36′W ﻿ / ﻿ 11.867°N 15.600°W ﻿ / 11.867; -15.600",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West African CFA franc ( XOF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Guinean Bissau-Guinean [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "30% Balanta 30% Fula 14% Manjak 13% Mandinka 7% Papel 6% other / unspecified",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "33.4 [ 12 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic under a military junta",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.514 [ 13 ] low ( 174th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".gw",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GW",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Transitional Council (transitional) [ 8 ] [ 9 ] National People's Assembly (suspended)",
+            "label": "Bissau 11°52′N 15°36′W / 11.867°N 15.600°W / 11.867; -15.600",
             "children": []
           }
         ]
@@ -151,15 +43,6 @@
         ]
       },
       {
-        "label": "religion",
-        "children": [
-          {
-            "label": "46.1% Islam 30.6% Traditional 18.9% Christianity 3% No religion 1% others",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "spoken_languages",
         "children": [
           {
@@ -169,46 +52,37 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "UTC ±00:00 ( GMT )",
+            "label": "30% Balanta 30% Fula 14% Manjak 13% Mandinka 7% Papel 6% other / unspecified",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "religion",
         "children": [
           {
-            "label": "2,080,000 [ 10 ] ( 150th )",
+            "label": "46.1% Islam 30.6% Traditional 18.9% Christianity 3% No religion 1% others",
             "children": []
           }
         ]
       },
       {
-        "label": "guineabissau_coup_detat",
+        "label": "demonyms",
         "children": [
           {
-            "label": "26 November 2025",
+            "label": "Guinean Bissau-Guinean",
             "children": []
           }
         ]
       },
       {
-        "label": "declaration",
+        "label": "government",
         "children": [
           {
-            "label": "24 September 1973",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "47/km 2 (121.7/sq mi) ( 154th )",
+            "label": "Unitary semi-presidential republic under a military junta",
             "children": []
           }
         ]
@@ -223,14 +97,10 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "transitional_president",
         "children": [
           {
-            "label": "$3,280 [ 11 ] ( 168th )",
-            "children": []
-          },
-          {
-            "label": "$1,130 [ 11 ] ( 165th )",
+            "label": "Horta Inta-A Na Man",
             "children": []
           }
         ]
@@ -239,7 +109,25 @@
         "label": "prime_minister",
         "children": [
           {
-            "label": "Ilídio Vieira Té [ 7 ]",
+            "label": "Ilídio Vieira Té",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Transitional Council (transitional) National People's Assembly (suspended)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declaration",
+        "children": [
+          {
+            "label": "24 September 1973",
             "children": []
           }
         ]
@@ -254,6 +142,15 @@
         ]
       },
       {
+        "label": "guineabissau_coup_detat",
+        "children": [
+          {
+            "label": "26 November 2025",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
@@ -261,20 +158,11 @@
             "children": []
           },
           {
-            "label": "$6.620 billion [ 11 ] ( 172th )",
+            "label": "$6.620 billion ( 172th )",
             "children": []
           },
           {
-            "label": "$2.270 billion [ 11 ] ( 174th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "transitional_president",
-        "children": [
-          {
-            "label": "Horta Inta-A Na Man",
+            "label": "$2.270 billion ( 174th )",
             "children": []
           }
         ]
@@ -284,6 +172,118 @@
         "children": [
           {
             "label": "22.4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "2,080,000 ( 150th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "47/km 2 (121.7/sq mi) ( 154th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$3,280 ( 168th )",
+            "children": []
+          },
+          {
+            "label": "$1,130 ( 165th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "33.4 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.514 low ( 174th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "West African CFA franc ( XOF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC ±00:00 ( GMT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+245",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "GW",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".gw",
             "children": []
           }
         ]

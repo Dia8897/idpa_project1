@@ -1,0 +1,999 @@
+{
+  "country_name": "Uganda",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "luganda",
+        "children": [
+          {
+            "label": "Lipabuliika",
+            "children": []
+          },
+          {
+            "label": "ya",
+            "children": []
+          },
+          {
+            "label": "Uganda",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Lipabuliika ya Uganda"
+        ]
+      },
+      {
+        "label": "lusoga",
+        "children": [
+          {
+            "label": "Uganda",
+            "children": []
+          },
+          {
+            "label": "Eryetwala",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Uganda Eryetwala"
+        ]
+      },
+      {
+        "label": "lumasaba",
+        "children": [
+          {
+            "label": "Linambo",
+            "children": []
+          },
+          {
+            "label": "lya",
+            "children": []
+          },
+          {
+            "label": "Uganda",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Linambo lya Uganda"
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "For",
+            "children": []
+          },
+          {
+            "label": "God",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "My",
+            "children": []
+          },
+          {
+            "label": "Country",
+            "children": []
+          },
+          {
+            "label": "Kwa",
+            "children": []
+          },
+          {
+            "label": "Mungu",
+            "children": []
+          },
+          {
+            "label": "na",
+            "children": []
+          },
+          {
+            "label": "nchi",
+            "children": []
+          },
+          {
+            "label": "yangu",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Oh",
+            "children": []
+          },
+          {
+            "label": "Uganda",
+            "children": []
+          },
+          {
+            "label": "Land",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Beauty",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          },
+          {
+            "label": "006",
+            "children": []
+          },
+          {
+            "label": "from",
+            "children": []
+          },
+          {
+            "label": "Kenya",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Tanzania",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \"For God and My Country\" \"Kwa Mungu na nchi yangu\"",
+          "Anthem: \" Oh Uganda, Land of Beauty \"",
+          "Show globe Show map of Africa",
+          "+006 from Kenya and Tanzania"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Kampala",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kampala"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Swahili",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English Swahili"
+        ]
+      },
+      {
+        "label": "other_languages",
+        "children": [
+          {
+            "label": "See",
+            "children": []
+          },
+          {
+            "label": "Languages",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Uganda",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "See Languages of Uganda"
+        ]
+      },
+      {
+        "label": "dialect_of_english",
+        "children": [
+          {
+            "label": "Uglish",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Uglish"
+        ]
+      },
+      {
+        "label": "ethnic_groups_census",
+        "children": [
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Baganda",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Banyankole",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Basoga",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Bakiga",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Iteso",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "Langi",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Bagisu",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Acholi",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Lugbara",
+            "children": []
+          },
+          {
+            "label": "37",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "15.3% Baganda 9.1% Banyankole 8.1% Basoga 6.4% Bakiga 6.8% Iteso 5.9% Langi 4.5% Bagisu 4.2% Acholi 2.6% Lugbara 37.1% others"
+        ]
+      },
+      {
+        "label": "religion_census",
+        "children": [
+          {
+            "label": "81",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "Roman",
+            "children": []
+          },
+          {
+            "label": "Catholic",
+            "children": []
+          },
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "Protestant",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "unclassified",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "81.7% Christianity 42% Roman Catholic 29% Protestant 13.2% Islam 3.3% unclassified 1.6% others 0.2% no religion"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Ugandan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ugandan"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "under",
+            "children": []
+          },
+          {
+            "label": "a",
+            "children": []
+          },
+          {
+            "label": "dictatorship",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic under a dictatorship"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Yoweri",
+            "children": []
+          },
+          {
+            "label": "Museveni",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Yoweri Museveni"
+        ]
+      },
+      {
+        "label": "vicepresident",
+        "children": [
+          {
+            "label": "Jessica",
+            "children": []
+          },
+          {
+            "label": "Alupo",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Jessica Alupo"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Robinah",
+            "children": []
+          },
+          {
+            "label": "Nabbanja",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Robinah Nabbanja"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "dominion",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1962",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9 October 1962"
+        ]
+      },
+      {
+        "label": "republic_declared",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1963",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9 October 1963"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1995",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "8 October 1995"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "241",
+            "children": []
+          },
+          {
+            "label": "038",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "93",
+            "children": []
+          },
+          {
+            "label": "065",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "79th",
+            "children": []
+          },
+          {
+            "label": "187",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "82th",
+            "children": []
+          },
+          {
+            "label": "64",
+            "children": []
+          },
+          {
+            "label": "280",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "88th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "241,038 km 2 (93,065 sq mi) ( 79th )",
+          "$187.11 billion ( 82th )",
+          "$64.280 billion ( 88th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "39",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "15.39"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "45",
+            "children": []
+          },
+          {
+            "label": "905",
+            "children": []
+          },
+          {
+            "label": "417",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "= 45,905,417"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "157",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "406",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "75th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "157.1/km 2 (406.9/sq mi) ( 75th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "900",
+            "children": []
+          },
+          {
+            "label": "161st",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "340",
+            "children": []
+          },
+          {
+            "label": "160th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$3,900 ( 161st )",
+          "$1,340 ( 160th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "42.0 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "582",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "157th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.582 medium ( 157th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Ugandan",
+            "children": []
+          },
+          {
+            "label": "shilling",
+            "children": []
+          },
+          {
+            "label": "UGX",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ugandan shilling ( UGX )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "EAT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +3 ( EAT )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "256",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+256"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "UG",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UG"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "ug",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".ug"
+        ]
+      }
+    ]
+  }
+}

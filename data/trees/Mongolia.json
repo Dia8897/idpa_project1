@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+976",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Ulaanbaatar [ a ] 48°N 106°E ﻿ / ﻿ 48°N 106°E ﻿ / 48; 106",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Tögrög ( MNT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Mongolian , Mongol",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "95.6% Mongols 3.8% Kazakhs 0.6% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "32.7 [ 8 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.747 [ 9 ] high ( 104th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -111,28 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".mn , .мон",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MN",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "State Great Khural",
+            "label": "Ulaanbaatar 48°N 106°E / 48°N 106°E / 48; 106",
             "children": []
           }
         ]
@@ -150,7 +42,16 @@
         "label": "official_scripts",
         "children": [
           {
-            "label": "Mongolian Cyrillic [ 1 ]",
+            "label": "Mongolian Cyrillic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "95.6% Mongols 3.8% Kazakhs 0.6% other",
             "children": []
           }
         ]
@@ -165,113 +66,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +7/+8 [ 10 ]",
+            "label": "Mongolian , Mongol",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "3,504,741 ( 131st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "bogd_khanate",
-        "children": [
-          {
-            "label": "29 December 1911",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chairman_of_the_state_great_khural",
-        "children": [
-          {
-            "label": "Nyam-Osoryn Uchral",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "completion_of_qing_conquest",
-        "children": [
-          {
-            "label": "1696, 1758",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "12 February 1992",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "2.24/km 2 (5.8/sq mi) ( 238th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "khamag_mongol",
-        "children": [
-          {
-            "label": "1125",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "mongol_empire",
-        "children": [
-          {
-            "label": "1206",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "mongolian_peoples_republic",
-        "children": [
-          {
-            "label": "26 November 1924",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "northern_yuan",
-        "children": [
-          {
-            "label": "1368",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$20,450 [ 7 ] ( 90th )",
-            "children": []
-          },
-          {
-            "label": "$7,200 [ 7 ] ( 97th )",
+            "label": "Unitary semi-presidential republic",
             "children": []
           }
         ]
@@ -295,36 +102,19 @@
         ]
       },
       {
-        "label": "rouran_khaganate",
+        "label": "chairman_of_the_state_great_khural",
         "children": [
           {
-            "label": "330 AD",
+            "label": "Nyam-Osoryn Uchral",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "1,564,116 km 2 (603,909 sq mi) ( 18th )",
-            "children": []
-          },
-          {
-            "label": "$73.280 billion [ 7 ] ( 113th )",
-            "children": []
-          },
-          {
-            "label": "$25.800 billion [ 7 ] ( 118th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "water",
-        "children": [
-          {
-            "label": "0.67 [ 5 ]",
+            "label": "State Great Khural",
             "children": []
           }
         ]
@@ -339,10 +129,220 @@
         ]
       },
       {
+        "label": "rouran_khaganate",
+        "children": [
+          {
+            "label": "330 AD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "khamag_mongol",
+        "children": [
+          {
+            "label": "1125",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "mongol_empire",
+        "children": [
+          {
+            "label": "1206",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "yuan_dynasty",
         "children": [
           {
             "label": "1260",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "northern_yuan",
+        "children": [
+          {
+            "label": "1368",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "completion_of_qing_conquest",
+        "children": [
+          {
+            "label": "1696, 1758",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "bogd_khanate",
+        "children": [
+          {
+            "label": "29 December 1911",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "mongolian_peoples_republic",
+        "children": [
+          {
+            "label": "26 November 1924",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "12 February 1992",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1,564,116 km 2 (603,909 sq mi) ( 18th )",
+            "children": []
+          },
+          {
+            "label": "$73.280 billion ( 113th )",
+            "children": []
+          },
+          {
+            "label": "$25.800 billion ( 118th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0.67",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "3,504,741 ( 131st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "2.24/km 2 (5.8/sq mi) ( 238th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$20,450 ( 90th )",
+            "children": []
+          },
+          {
+            "label": "$7,200 ( 97th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "32.7 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.747 high ( 104th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Tögrög ( MNT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +7/+8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+976",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "MN",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".mn , .мон",
             "children": []
           }
         ]

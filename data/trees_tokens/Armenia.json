@@ -1,0 +1,1050 @@
+{
+  "country_name": "Armenia",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Mer",
+            "children": []
+          },
+          {
+            "label": "Hayrenik",
+            "children": []
+          },
+          {
+            "label": "Our",
+            "children": []
+          },
+          {
+            "label": "Fatherland",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Armenia",
+            "children": []
+          },
+          {
+            "label": "Website",
+            "children": []
+          },
+          {
+            "label": "www",
+            "children": []
+          },
+          {
+            "label": "gov",
+            "children": []
+          },
+          {
+            "label": "am",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Anthem: Մեր Հայրենիք Mer Hayrenik \"Our Fatherland\"",
+          "Location of Armenia",
+          "Website www .gov .am"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Yerevan",
+            "children": []
+          },
+          {
+            "label": "40",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "40",
+            "children": []
+          },
+          {
+            "label": "183",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "517",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "40",
+            "children": []
+          },
+          {
+            "label": "183",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "517",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Yerevan 40°11′N 44°31′E / 40.183°N 44.517°E / 40.183; 44.517"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Armenian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Armenian"
+        ]
+      },
+      {
+        "label": "recognized_languages",
+        "children": [
+          {
+            "label": "List",
+            "children": []
+          },
+          {
+            "label": "Assyrian",
+            "children": []
+          },
+          {
+            "label": "German",
+            "children": []
+          },
+          {
+            "label": "Greek",
+            "children": []
+          },
+          {
+            "label": "Kurdish",
+            "children": []
+          },
+          {
+            "label": "Russian",
+            "children": []
+          },
+          {
+            "label": "Ukrainian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "List : Assyrian German Greek Kurdish Russian Ukrainian"
+        ]
+      },
+      {
+        "label": "official_script",
+        "children": [
+          {
+            "label": "Armenian",
+            "children": []
+          },
+          {
+            "label": "alphabet",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Armenian alphabet"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "98",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Armenians",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Yazidis",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "98.1% Armenians 1.1% Yazidis 0.8% other"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "96",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Armenian",
+            "children": []
+          },
+          {
+            "label": "Apostolic",
+            "children": []
+          },
+          {
+            "label": "Church",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "unspecified",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "96.8% Christianity 95.2% Armenian Apostolic Church 1.6% other Christian 0.6% no religion 0.9% other 1.7% unspecified"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Armenian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Armenian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Vahagn",
+            "children": []
+          },
+          {
+            "label": "Khachaturyan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Vahagn Khachaturyan"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Nikol",
+            "children": []
+          },
+          {
+            "label": "Pashinyan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Nikol Pashinyan"
+        ]
+      },
+      {
+        "label": "president_of_the_national_assembly",
+        "children": [
+          {
+            "label": "Alen",
+            "children": []
+          },
+          {
+            "label": "Simonyan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Alen Simonyan"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "urartu",
+        "children": [
+          {
+            "label": "860",
+            "children": []
+          },
+          {
+            "label": "BC",
+            "children": []
+          },
+          {
+            "label": "547",
+            "children": []
+          },
+          {
+            "label": "90",
+            "children": []
+          },
+          {
+            "label": "BC",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "860 BC–547/90 BC"
+        ]
+      },
+      {
+        "label": "kingdom_of_armenia",
+        "children": [
+          {
+            "label": "331",
+            "children": []
+          },
+          {
+            "label": "BC",
+            "children": []
+          },
+          {
+            "label": "428",
+            "children": []
+          },
+          {
+            "label": "AD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "331 BC–428 AD"
+        ]
+      },
+      {
+        "label": "bagratid_armenia",
+        "children": [
+          {
+            "label": "880s",
+            "children": []
+          },
+          {
+            "label": "1045",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "880s–1045"
+        ]
+      },
+      {
+        "label": "armenian_kingdom_of_cilicia",
+        "children": [
+          {
+            "label": "1198",
+            "children": []
+          },
+          {
+            "label": "99",
+            "children": []
+          },
+          {
+            "label": "1375",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1198/99–1375"
+        ]
+      },
+      {
+        "label": "zakarid_armenia",
+        "children": [
+          {
+            "label": "1201",
+            "children": []
+          },
+          {
+            "label": "1350",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1201–1350"
+        ]
+      },
+      {
+        "label": "first_republic_of_armenia",
+        "children": [
+          {
+            "label": "28",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1918",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "28 May 1918"
+        ]
+      },
+      {
+        "label": "armenian_soviet_socialist_republic",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1920",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29 November 1920"
+        ]
+      },
+      {
+        "label": "independence_from_the_ussr",
+        "children": [
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "23 September 1991"
+        ]
+      },
+      {
+        "label": "cis_accession",
+        "children": [
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "21 December 1991"
+        ]
+      },
+      {
+        "label": "admission_to_the_united_nations",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "March",
+            "children": []
+          },
+          {
+            "label": "1992",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2 March 1992"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1995",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "5 July 1995"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "743",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "484",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "138th",
+            "children": []
+          },
+          {
+            "label": "74",
+            "children": []
+          },
+          {
+            "label": "407",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "111th",
+            "children": []
+          },
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "859",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "118th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29,743 km 2 (11,484 sq mi) ( 138th )",
+          "$74.407 billion ( 111th )",
+          "$27.859 billion ( 118th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "71",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4.71"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "081",
+            "children": []
+          },
+          {
+            "label": "100",
+            "children": []
+          },
+          {
+            "label": "135th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3,081,100 ( 135th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "103",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "268",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "103.6/km 2 (268.3/sq mi)"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "954",
+            "children": []
+          },
+          {
+            "label": "78th",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "969",
+            "children": []
+          },
+          {
+            "label": "88th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$23,954 ( 78th )",
+          "$8,969 ( 88th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "27.9 low inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "811",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "69th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.811 very high ( 69th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Dram",
+            "children": []
+          },
+          {
+            "label": "AMD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Dram ( ֏ ) ( AMD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "AMT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +4 ( AMT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd.mm.yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "374",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+374"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "AM",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "AM"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "am",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".am .հայ"
+        ]
+      }
+    ]
+  }
+}

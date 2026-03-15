@@ -4,10 +4,14 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+90",
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Anthem: İstiklal Marşı \"Independence March\"",
             "children": []
           }
         ]
@@ -16,16 +20,34 @@
         "label": "capital",
         "children": [
           {
-            "label": "Ankara 39°55′N 32°51′E ﻿ / ﻿ 39.917°N 32.850°E ﻿ / 39.917; 32.850",
+            "label": "Ankara 39°55′N 32°51′E / 39.917°N 32.850°E / 39.917; 32.850",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "largest_city",
         "children": [
           {
-            "label": "Turkish lira ( ₺ ) ( TRY )",
+            "label": "Istanbul 41°1′N 28°57′E / 41.017°N 28.950°E / 41.017; 28.950",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Turkish",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "spoken_languages",
+        "children": [
+          {
+            "label": "Predominantly Turkish List Kurdish Zaza Arabic Circassian Laz Greek Armenian Albanian Bosnian Bulgarian Other languages",
             "children": []
           }
         ]
@@ -40,10 +62,184 @@
         ]
       },
       {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Recep Tayyip Erdoğan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Cevdet Yılmaz",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "speaker",
+        "children": [
+          {
+            "label": "Numan Kurtulmuş",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Kadir Özkaya",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Grand National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ottoman_empire",
+        "children": [
+          {
+            "label": "c. 1299",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "war_of_independence",
+        "children": [
+          {
+            "label": "19 May 1919",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government_of_the_grand_national_assembly",
+        "children": [
+          {
+            "label": "23 April 1920",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "sultanate_abolished",
+        "children": [
+          {
+            "label": "1 November 1922",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "treaty_of_lausanne",
+        "children": [
+          {
+            "label": "24 July 1923",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic_declared",
+        "children": [
+          {
+            "label": "29 October 1923",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "9 November 1982",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "783,562 km 2 (302,535 sq mi) ( 36th )",
+            "children": []
+          },
+          {
+            "label": "$3.77 trillion ( 11th )",
+            "children": []
+          },
+          {
+            "label": "$1.57 trillion ( 16th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "2.03",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "december_estimate",
+        "children": [
+          {
+            "label": "86,092,168 ( 18th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "112 /km 2 (290.1/sq mi) ( 83rd )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$43,790 ( 51st )",
+            "children": []
+          },
+          {
+            "label": "$18,200 ( 62nd )",
             "children": []
           }
         ]
@@ -61,16 +257,7 @@
         "label": "gini",
         "children": [
           {
-            "label": "44.5 [ 9 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
+            "label": "44.5 medium inequality",
             "children": []
           }
         ]
@@ -79,74 +266,16 @@
         "label": "hdi",
         "children": [
           {
-            "label": "0.853 [ 10 ] very high ( 51st )",
+            "label": "0.853 very high ( 51st )",
             "children": []
           }
         ]
       },
       {
-        "label": "info",
+        "label": "currency",
         "children": [
           {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Anthem: İstiklal Marşı \"Independence March\" [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".tr",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "largest_city",
-        "children": [
-          {
-            "label": "Istanbul 41°1′N 28°57′E ﻿ / ﻿ 41.017°N 28.950°E ﻿ / 41.017; 28.950",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Grand National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Turkish [ 2 ] [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "spoken_languages",
-        "children": [
-          {
-            "label": "Predominantly Turkish [ 4 ] List Kurdish Zaza Arabic Circassian Laz Greek Armenian Albanian Bosnian Bulgarian Other languages",
+            "label": "Turkish lira ( ₺ ) ( TRY )",
             "children": []
           }
         ]
@@ -161,157 +290,28 @@
         ]
       },
       {
-        "label": "chief_justice",
+        "label": "calling_code",
         "children": [
           {
-            "label": "Kadir Özkaya",
+            "label": "+90",
             "children": []
           }
         ]
       },
       {
-        "label": "current_constitution",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "9 November 1982 [ 5 ]",
+            "label": "TR",
             "children": []
           }
         ]
       },
       {
-        "label": "december_estimate",
+        "label": "internet_tld",
         "children": [
           {
-            "label": "86,092,168 [ 7 ] ( 18th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "112 [ 7 ] /km 2 (290.1/sq mi) ( 83rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government_of_the_grand_national_assembly",
-        "children": [
-          {
-            "label": "23 April 1920",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ottoman_empire",
-        "children": [
-          {
-            "label": "c. 1299",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$43,790 [ 8 ] ( 51st )",
-            "children": []
-          },
-          {
-            "label": "$18,200 [ 8 ] ( 62nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Recep Tayyip Erdoğan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "republic_declared",
-        "children": [
-          {
-            "label": "29 October 1923",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "speaker",
-        "children": [
-          {
-            "label": "Numan Kurtulmuş",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "sultanate_abolished",
-        "children": [
-          {
-            "label": "1 November 1922",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "783,562 km 2 (302,535 sq mi) ( 36th )",
-            "children": []
-          },
-          {
-            "label": "$3.77 trillion [ 8 ] ( 11th )",
-            "children": []
-          },
-          {
-            "label": "$1.57 trillion [ 8 ] ( 16th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "treaty_of_lausanne",
-        "children": [
-          {
-            "label": "24 July 1923",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Cevdet Yılmaz",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "war_of_independence",
-        "children": [
-          {
-            "label": "19 May 1919",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "water",
-        "children": [
-          {
-            "label": "2.03 [ 6 ]",
+            "label": ".tr",
             "children": []
           }
         ]

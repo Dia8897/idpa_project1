@@ -4,10 +4,18 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+372",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: Mu isamaa, mu õnn ja rõõm (English: \"My Fatherland, My Happiness and Joy\" )",
+            "children": []
+          },
+          {
+            "label": "Location of Estonia (dark green) – in Europe (green & dark grey) – in the European Union (green) –",
             "children": []
           }
         ]
@@ -16,22 +24,13 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Tallinn 59°25′N 24°45′E ﻿ / ﻿ 59.417°N 24.750°E ﻿ / 59.417; 24.750",
+            "label": "Tallinn 59°25′N 24°45′E / 59.417°N 24.750°E / 59.417; 24.750",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
+        "label": "official_languages",
         "children": [
           {
             "label": "Estonian",
@@ -49,104 +48,6 @@
         ]
       },
       {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "30.6 [ 11 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.905 [ 12 ] very high ( 36th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Mu isamaa, mu õnn ja rõõm (English: \"My Fatherland, My Happiness and Joy\" [ 1 ] )",
-            "children": []
-          },
-          {
-            "label": "Location of Estonia (dark green) – in Europe (green & dark grey) – in the European Union (green) – [ Legend ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ee",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "EE",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Riigikogu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Estonian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "religion",
         "children": [
           {
@@ -156,68 +57,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +02:00 ( EET )",
+            "label": "Estonian",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "1,331,824 [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "1,362,954 [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "24 February 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "30.3/km 2 (78.5/sq mi) ( 148th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "german_and_soviet_occupations",
-        "children": [
-          {
-            "label": "1940–1991 [ a ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$50,758 [ 8 ] ( 42nd )",
-            "children": []
-          },
-          {
-            "label": "$37,195 [ 10 ] ( 37th )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -241,10 +93,157 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Riigikogu",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declaration_of_independence",
+        "children": [
+          {
+            "label": "24 February 1918",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "german_and_soviet_occupations",
+        "children": [
+          {
+            "label": "1940–1991",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "restoration_of_independence",
         "children": [
           {
             "label": "20 August 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "45,335 km 2 (17,504 sq mi) ( 129th d )",
+            "children": []
+          },
+          {
+            "label": "$68.240 billion ( 119th )",
+            "children": []
+          },
+          {
+            "label": "$45.00 billion ( 99th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "4.6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "1,362,954",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "1,331,824",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "30.3/km 2 (78.5/sq mi) ( 148th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$50,758 ( 42nd )",
+            "children": []
+          },
+          {
+            "label": "$37,195 ( 37th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "30.6 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.905 very high ( 36th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +02:00 ( EET )",
             "children": []
           }
         ]
@@ -259,27 +258,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "calling_code",
         "children": [
           {
-            "label": "45,335 [ 4 ] km 2 (17,504 sq mi) ( 129th d )",
-            "children": []
-          },
-          {
-            "label": "$68.240 billion [ 7 ] ( 119th )",
-            "children": []
-          },
-          {
-            "label": "$45.00 billion [ 9 ] ( 99th )",
+            "label": "+372",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "4.6",
+            "label": "EE",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ee",
             "children": []
           }
         ]

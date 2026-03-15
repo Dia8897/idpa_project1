@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+965",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Kuwait City",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Kuwaiti dinar ( KWD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Kuwaiti",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "57.8% Arab 40.3% South Asian 1.0% African 0.9% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-constitutional monarchy [ 3 ] [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.852 [ 13 ] very high ( 52nd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -110,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".kw",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KW",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "The National Assembly [ 5 ] (suspended) [ 6 ]",
+            "label": "Kuwait City",
             "children": []
           }
         ]
@@ -140,7 +41,16 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Arabic [ 1 ]",
+            "label": "Arabic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "57.8% Arab 40.3% South Asian 1.0% African 0.9% other",
             "children": []
           }
         ]
@@ -155,19 +65,64 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +3 ( AST )",
+            "label": "Kuwaiti",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "4,985,716 [ 7 ] [ 8 ] ( 128th )",
+            "label": "Unitary semi-constitutional monarchy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "emir",
+        "children": [
+          {
+            "label": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "crown_prince",
+        "children": [
+          {
+            "label": "Sabah Al-Khalid Al-Sabah",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Ahmad Al-Abdullah Al-Sabah",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "The National Assembly (suspended)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_bani_khalid",
+        "children": [
+          {
+            "label": "1752",
             "children": []
           }
         ]
@@ -191,42 +146,6 @@
         ]
       },
       {
-        "label": "crown_prince",
-        "children": [
-          {
-            "label": "Sabah Al-Khalid Al-Sabah",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "11 November 1962",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "200.2/km 2 (518.5/sq mi) ( 62nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "emir",
-        "children": [
-          {
-            "label": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "end_of_british_protectorate",
         "children": [
           {
@@ -236,10 +155,10 @@
         ]
       },
       {
-        "label": "independence_from_bani_khalid",
+        "label": "current_constitution",
         "children": [
           {
-            "label": "1752",
+            "label": "11 November 1962",
             "children": []
           }
         ]
@@ -263,28 +182,6 @@
         ]
       },
       {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$50,960 [ 10 ] ( 40th )",
-            "children": []
-          },
-          {
-            "label": "$29,950 [ 12 ] ( 41st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ahmad Al-Abdullah Al-Sabah",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "total",
         "children": [
           {
@@ -292,11 +189,11 @@
             "children": []
           },
           {
-            "label": "$260.500 billion [ 9 ] ( 74th )",
+            "label": "$260.500 billion ( 74th )",
             "children": []
           },
           {
-            "label": "$153.100 billion [ 11 ] ( 59th )",
+            "label": "$153.100 billion ( 59th )",
             "children": []
           }
         ]
@@ -306,6 +203,109 @@
         "children": [
           {
             "label": "negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "4,985,716 ( 128th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "200.2/km 2 (518.5/sq mi) ( 62nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$50,960 ( 40th )",
+            "children": []
+          },
+          {
+            "label": "$29,950 ( 41st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.852 very high ( 52nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Kuwaiti dinar ( KWD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +3 ( AST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+965",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "KW",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".kw",
             "children": []
           }
         ]

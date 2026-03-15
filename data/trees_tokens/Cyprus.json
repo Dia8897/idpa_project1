@@ -1,0 +1,861 @@
+{
+  "country_name": "Cyprus",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Hymn",
+            "children": []
+          },
+          {
+            "label": "to",
+            "children": []
+          },
+          {
+            "label": "Liberty",
+            "children": []
+          },
+          {
+            "label": "Cyprus",
+            "children": []
+          },
+          {
+            "label": "Territory",
+            "children": []
+          },
+          {
+            "label": "claimed",
+            "children": []
+          },
+          {
+            "label": "but",
+            "children": []
+          },
+          {
+            "label": "not",
+            "children": []
+          },
+          {
+            "label": "controlled",
+            "children": []
+          },
+          {
+            "label": "Northern",
+            "children": []
+          },
+          {
+            "label": "Cyprus",
+            "children": []
+          },
+          {
+            "label": "Rest",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "European",
+            "children": []
+          },
+          {
+            "label": "Union",
+            "children": []
+          },
+          {
+            "label": "Territory",
+            "children": []
+          },
+          {
+            "label": "administered",
+            "children": []
+          },
+          {
+            "label": "by",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Republic",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Cyprus",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Anthem: Ὕμνος εἰς τὴν Ἐλευθερίαν (English: \" Hymn to Liberty \")",
+          "Cyprus Territory claimed but not controlled (Northern Cyprus) Rest of the European Union",
+          "Territory administered by the Republic of Cyprus"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Nicosia",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "167",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "367",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "167",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "367",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Nicosia 35°10′N 33°22′E / 35.167°N 33.367°E / 35.167; 33.367"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Greek",
+            "children": []
+          },
+          {
+            "label": "Turkish",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Greek Turkish"
+        ]
+      },
+      {
+        "label": "minority_languages",
+        "children": [
+          {
+            "label": "Armenian",
+            "children": []
+          },
+          {
+            "label": "Cypriot",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Armenian Cypriot Arabic"
+        ]
+      },
+      {
+        "label": "vernaculars",
+        "children": [
+          {
+            "label": "Cypriot",
+            "children": []
+          },
+          {
+            "label": "Greek",
+            "children": []
+          },
+          {
+            "label": "Cypriot",
+            "children": []
+          },
+          {
+            "label": "Turkish",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Cypriot Greek Cypriot Turkish"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "Greek",
+            "children": []
+          },
+          {
+            "label": "Cypriots",
+            "children": []
+          },
+          {
+            "label": "Turkish",
+            "children": []
+          },
+          {
+            "label": "Cypriots",
+            "children": []
+          },
+          {
+            "label": "Armenian",
+            "children": []
+          },
+          {
+            "label": "Cypriots",
+            "children": []
+          },
+          {
+            "label": "Maronite",
+            "children": []
+          },
+          {
+            "label": "Cypriots",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Greek Cypriots Turkish Cypriots Armenian Cypriots Maronite Cypriots"
+        ]
+      },
+      {
+        "label": "religion_including_northern_cyprus",
+        "children": [
+          {
+            "label": "72",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "72.3% Christianity 25.0% Islam 1.9% no religion 0.8% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Cypriot",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Cypriot"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Nikos",
+            "children": []
+          },
+          {
+            "label": "Christodoulides",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Nikos Christodoulides"
+        ]
+      },
+      {
+        "label": "vicepresident",
+        "children": [
+          {
+            "label": "Vacant",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Vacant"
+        ]
+      },
+      {
+        "label": "president_of_the_house_of_representatives",
+        "children": [
+          {
+            "label": "Annita",
+            "children": []
+          },
+          {
+            "label": "Demetriou",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Annita Demetriou"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Representatives"
+        ]
+      },
+      {
+        "label": "londonzurich_agreements",
+        "children": [
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1959",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "19 February 1959"
+        ]
+      },
+      {
+        "label": "independence_proclaimed",
+        "children": [
+          {
+            "label": "16",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1960",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "16 August 1960"
+        ]
+      },
+      {
+        "label": "independence_day",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1960",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 October 1960"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "501",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "126th",
+            "children": []
+          },
+          {
+            "label": "39",
+            "children": []
+          },
+          {
+            "label": "943",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "102nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$61.501 billion ( 126th )",
+          "$39.943 billion ( 102nd )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.11"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "923",
+            "children": []
+          },
+          {
+            "label": "272",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "923,272"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "123",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "319",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "82nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "123.4 /km 2 (319.6/sq mi) ( 82nd )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "65",
+            "children": []
+          },
+          {
+            "label": "304",
+            "children": []
+          },
+          {
+            "label": "28th",
+            "children": []
+          },
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "413",
+            "children": []
+          },
+          {
+            "label": "28th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$65,304 ( 28th )",
+          "$42,413 ( 28th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29.4 low inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "913",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "32nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.913 very high ( 32nd )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro",
+            "children": []
+          },
+          {
+            "label": "EUR",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Euro ( € ) ( EUR )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "02",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "EET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +02:00 ( EET )"
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "03",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "EEST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +03:00 ( EEST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "357",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+357"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "CY",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "CY"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "cy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".cy"
+        ]
+      }
+    ]
+  }
+}

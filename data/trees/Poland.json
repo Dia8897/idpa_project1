@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+48",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Warsaw 52°13′N 21°02′E ﻿ / ﻿ 52.217°N 21.033°E ﻿ / 52.217; 21.033",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Złoty ( PLN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy ( CE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Polish Pole",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "98.8% Polish [ a ] 96.3% only Polish 2.6% Polish and others 1.1% only non-Polish",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "26.3 [ 12 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.906 [ 13 ] very high ( 35th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -114,7 +15,7 @@
             "children": []
           },
           {
-            "label": "Show globe Show map of Europe Location of Poland (dark green) – in Europe (green & dark grey) – in the European Union (green) – [ Legend ]",
+            "label": "Show globe Show map of Europe Location of Poland (dark green) – in Europe (green & dark grey) – in the European Union (green) –",
             "children": []
           },
           {
@@ -124,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".pl",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PL",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Warsaw 52°13′N 21°02′E / 52.217°N 21.033°E / 52.217; 21.033",
             "children": []
           }
         ]
@@ -154,7 +37,16 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Polish [ 1 ]",
+            "label": "Polish",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "98.8% Polish 96.3% only Polish 2.6% Polish and others 1.1% only non-Polish",
             "children": []
           }
         ]
@@ -169,95 +61,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( CET )",
+            "label": "Polish Pole",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "37,893,970 [ 10 ] ( 38th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "baptism_of_poland",
-        "children": [
-          {
-            "label": "14 April 966",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "126/km 2 (326.3/sq mi) ( 98th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "governmentinexile",
-        "children": [
-          {
-            "label": "17 September 1939",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_poland",
-        "children": [
-          {
-            "label": "18 April 1025",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Sejm",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "peoples_republic",
-        "children": [
-          {
-            "label": "22 July 1944",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$55,340 [ 11 ] ( 37th )",
-            "children": []
-          },
-          {
-            "label": "$28,484 [ 11 ] ( 44th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "polishlithuanian_commonwealth",
-        "children": [
-          {
-            "label": "1 July 1569",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -281,45 +97,10 @@
         ]
       },
       {
-        "label": "second_republic",
+        "label": "legislature",
         "children": [
           {
-            "label": "11 November 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "summer_dst",
-        "children": [
-          {
-            "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "third_republic",
-        "children": [
-          {
-            "label": "31 December 1989 [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "312,696 km 2 (120,733 sq mi) [ 8 ] [ 9 ] ( 69th )",
-            "children": []
-          },
-          {
-            "label": "$2.019 trillion [ 11 ] ( 19th )",
-            "children": []
-          },
-          {
-            "label": "$1.039 trillion [ 11 ] ( 20th )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -334,10 +115,229 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Sejm",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "baptism_of_poland",
+        "children": [
+          {
+            "label": "14 April 966",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom_of_poland",
+        "children": [
+          {
+            "label": "18 April 1025",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "polishlithuanian_commonwealth",
+        "children": [
+          {
+            "label": "1 July 1569",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "second_republic",
+        "children": [
+          {
+            "label": "11 November 1918",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "governmentinexile",
+        "children": [
+          {
+            "label": "17 September 1939",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "peoples_republic",
+        "children": [
+          {
+            "label": "22 July 1944",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "third_republic",
+        "children": [
+          {
+            "label": "31 December 1989",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "312,696 km 2 (120,733 sq mi) ( 69th )",
+            "children": []
+          },
+          {
+            "label": "$2.019 trillion ( 19th )",
+            "children": []
+          },
+          {
+            "label": "$1.039 trillion ( 20th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
-            "label": "1.48 (2015) [ 7 ]",
+            "label": "1.48 (2015)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "37,893,970 ( 38th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "126/km 2 (326.3/sq mi) ( 98th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$55,340 ( 37th )",
+            "children": []
+          },
+          {
+            "label": "$28,484 ( 44th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "26.3 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.906 very high ( 35th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Złoty ( PLN )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +2 ( CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd.mm.yyyy ( CE )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+48",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "PL",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".pl",
             "children": []
           }
         ]

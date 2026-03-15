@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+82",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Seoul [ a ] 37°33′N 126°58′E ﻿ / ﻿ 37.550°N 126.967°E ﻿ / 37.550; 126.967",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Korean Republic won (₩) ( KRW )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "South Korean Korean",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "94.8% Korean 5.2% Others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "33.3 [ 6 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.937 [ 9 ] very high ( 20th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".kr .한국",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Seoul 37°33′N 126°58′E / 37.550°N 126.967°E / 37.550; 126.967",
             "children": []
           }
         ]
@@ -145,7 +37,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Korean Korean Sign Language [ 1 ]",
+            "label": "Korean Korean Sign Language",
             "children": []
           }
         ]
@@ -160,6 +52,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "94.8% Korean 5.2% Others",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -169,68 +70,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +9 ( Korea Standard Time )",
+            "label": "South Korean Korean",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "52,081,799 [ 7 ] ( 29th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "american_administration_south_of_the_38th_parallel",
-        "children": [
-          {
-            "label": "8 September 1945",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice_of_the_supreme_court",
-        "children": [
-          {
-            "label": "Cho Hee-dae",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution_adopted",
-        "children": [
-          {
-            "label": "17 July 1948",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "507/km 2 (1,313.1/sq mi) ( 27th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$65,080 [ 8 ] ( 29th )",
-            "children": []
-          },
-          {
-            "label": "$35,962 [ 8 ] ( 33rd )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -245,37 +97,10 @@
         ]
       },
       {
-        "label": "president_of_the_constitutional_court",
-        "children": [
-          {
-            "label": "Kim Sanghwan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "prime_minister",
         "children": [
           {
             "label": "Kim Min-seok",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "provisional_government_inexile",
-        "children": [
-          {
-            "label": "11 April 1919",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "rok_established",
-        "children": [
-          {
-            "label": "15 August 1948",
             "children": []
           }
         ]
@@ -290,18 +115,81 @@
         ]
       },
       {
+        "label": "chief_justice_of_the_supreme_court",
+        "children": [
+          {
+            "label": "Cho Hee-dae",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president_of_the_constitutional_court",
+        "children": [
+          {
+            "label": "Kim Sanghwan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "provisional_government_inexile",
+        "children": [
+          {
+            "label": "11 April 1919",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "american_administration_south_of_the_38th_parallel",
+        "children": [
+          {
+            "label": "8 September 1945",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution_adopted",
+        "children": [
+          {
+            "label": "17 July 1948",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "rok_established",
+        "children": [
+          {
+            "label": "15 August 1948",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
-            "label": "100,363 [ 4 ] [ 5 ] [ 6 ] km 2 (38,750 sq mi) ( 107th )",
+            "label": "100,363 km 2 (38,750 sq mi) ( 107th )",
             "children": []
           },
           {
-            "label": "$3.363 trillion [ 8 ] ( 14th )",
+            "label": "$3.363 trillion ( 14th )",
             "children": []
           },
           {
-            "label": "$1.859 trillion [ 8 ] ( 14th )",
+            "label": "$1.859 trillion ( 14th )",
             "children": []
           }
         ]
@@ -311,6 +199,118 @@
         "children": [
           {
             "label": "0.3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "52,081,799 ( 29th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "507/km 2 (1,313.1/sq mi) ( 27th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$65,080 ( 29th )",
+            "children": []
+          },
+          {
+            "label": "$35,962 ( 33rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "33.3 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.937 very high ( 20th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Korean Republic won (₩) ( KRW )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +9 ( Korea Standard Time )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+82",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "KR",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".kr .한국",
             "children": []
           }
         ]

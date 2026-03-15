@@ -4,104 +4,14 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+63",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Manila ( de jure ) Metro Manila [ b ] ( de facto ) 13°N 122°E ﻿ / ﻿ 13°N 122°E ﻿ / 13; 122",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Philippine peso ( ₱ ) ( PHP )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Filipino ( neutral ) Filipina ( feminine ) Pinoy ( colloquial neutral ) Pinay ( colloquial feminine ) Philippine ( adjective for certain common nouns )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "26.0% Tagalog 14.3% Bisaya 8.0% Ilocano 8.0% Cebuano 7.9% Ilonggo 6.5% Bicolano 20.3% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "39.3 [ 13 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.720 [ 14 ] high ( 117th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
-            "label": "Flag Coat of arms [ a ]",
+            "label": "Flag Coat of arms",
             "children": []
           },
           {
-            "label": "Motto: Maka-Diyos, Maka-tao, Makakalikasan at Makabansa [ 1 ] \"For God, People, Nature, and Country\"",
+            "label": "Motto: Maka-Diyos, Maka-tao, Makakalikasan at Makabansa \"For God, People, Nature, and Country\"",
             "children": []
           },
           {
@@ -119,19 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".ph",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PH",
+            "label": "Manila ( de jure ) Metro Manila ( de facto ) 13°N 122°E / 13°N 122°E / 13; 122",
             "children": []
           }
         ]
@@ -146,37 +47,10 @@
         ]
       },
       {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Congress",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "national_sign_language",
-        "children": [
-          {
-            "label": "Filipino Sign Language",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "official_languages",
         "children": [
           {
             "label": "Filipino English",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "other_recognized_languages",
-        "children": [
-          {
-            "label": "Spanish and Arabic",
             "children": []
           }
         ]
@@ -194,7 +68,34 @@
         "label": "recognized_regional_languages",
         "children": [
           {
-            "label": "19 languages [ 4 ]",
+            "label": "19 languages",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "national_sign_language",
+        "children": [
+          {
+            "label": "Filipino Sign Language",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "other_recognized_languages",
+        "children": [
+          {
+            "label": "Spanish and Arabic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "26.0% Tagalog 14.3% Bisaya 8.0% Ilocano 8.0% Cebuano 7.9% Ilonggo 6.5% Bicolano 20.3% other",
             "children": []
           }
         ]
@@ -203,101 +104,25 @@
         "label": "religion",
         "children": [
           {
-            "label": "85.3% Christianity 78.8% Catholicism [ d ] 6.5% other Christian 6.4% Islam 8.2% other",
+            "label": "85.3% Christianity 78.8% Catholicism 6.5% other Christian 6.4% Islam 8.2% other",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +8 ( PhST )",
+            "label": "Filipino ( neutral ) Filipina ( feminine ) Pinoy ( colloquial neutral ) Pinay ( colloquial feminine ) Philippine ( adjective for certain common nouns )",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "112,729,484 [ 11 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "cession",
-        "children": [
-          {
-            "label": "April 11, 1899",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "Alexander Gesmundo",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution",
-        "children": [
-          {
-            "label": "February 2, 1987",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration",
-        "children": [
-          {
-            "label": "June 12, 1898",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "363.45/km 2 (941.3/sq mi) ( 34th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "house_speaker",
-        "children": [
-          {
-            "label": "Bojie Dy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$12,930 [ 12 ] ( 114th )",
-            "children": []
-          },
-          {
-            "label": "$4,350 [ 12 ] ( 125th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -312,19 +137,10 @@
         ]
       },
       {
-        "label": "recognized",
+        "label": "vice_president",
         "children": [
           {
-            "label": "July 4, 1946",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "selfgovernment",
-        "children": [
-          {
-            "label": "November 15, 1935",
+            "label": "Sara Duterte",
             "children": []
           }
         ]
@@ -339,18 +155,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "house_speaker",
         "children": [
           {
-            "label": "300,000 [ 8 ] [ 9 ] [ e ] km 2 (120,000 sq mi) ( 72nd )",
+            "label": "Bojie Dy",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
           {
-            "label": "$1.488 trillion [ 12 ] ( 30th )",
+            "label": "Alexander Gesmundo",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
           {
-            "label": "$497.05 billion [ 12 ] ( 32nd )",
+            "label": "Congress",
             "children": []
           }
         ]
@@ -365,10 +191,72 @@
         ]
       },
       {
-        "label": "vice_president",
+        "label": "lower_house",
         "children": [
           {
-            "label": "Sara Duterte",
+            "label": "House of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declaration",
+        "children": [
+          {
+            "label": "June 12, 1898",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "cession",
+        "children": [
+          {
+            "label": "April 11, 1899",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "selfgovernment",
+        "children": [
+          {
+            "label": "November 15, 1935",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "July 4, 1946",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution",
+        "children": [
+          {
+            "label": "February 2, 1987",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "300,000 km 2 (120,000 sq mi) ( 72nd )",
+            "children": []
+          },
+          {
+            "label": "$1.488 trillion ( 30th )",
+            "children": []
+          },
+          {
+            "label": "$497.05 billion ( 32nd )",
             "children": []
           }
         ]
@@ -377,7 +265,119 @@
         "label": "water",
         "children": [
           {
-            "label": "0.61 [ 10 ] (inland waters)",
+            "label": "0.61 (inland waters)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "112,729,484",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "363.45/km 2 (941.3/sq mi) ( 34th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$12,930 ( 114th )",
+            "children": []
+          },
+          {
+            "label": "$4,350 ( 125th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "39.3 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.720 high ( 117th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Philippine peso ( ₱ ) ( PHP )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +8 ( PhST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+63",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "PH",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ph",
             "children": []
           }
         ]

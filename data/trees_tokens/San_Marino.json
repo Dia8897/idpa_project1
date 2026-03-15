@@ -1,0 +1,979 @@
+{
+  "country_name": "San Marino",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Libertas",
+            "children": []
+          },
+          {
+            "label": "Latin",
+            "children": []
+          },
+          {
+            "label": "Freedom",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Terra",
+            "children": []
+          },
+          {
+            "label": "di",
+            "children": []
+          },
+          {
+            "label": "Libert",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Land",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Liberty",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "San",
+            "children": []
+          },
+          {
+            "label": "Marino",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "Europe",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "grey",
+            "children": []
+          },
+          {
+            "label": "Sources",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: Libertas ( Latin ) \"Freedom\"",
+          "Anthem: \" Terra di Libertà \" (English: \"Land of Liberty\" )",
+          "Location of San Marino (green) in Europe (dark grey)",
+          "Sources:"
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "City",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "San",
+            "children": []
+          },
+          {
+            "label": "Marino",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "56",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "26",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "933",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "433",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "933",
+            "children": []
+          },
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "433",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "City of San Marino 43°56′N 12°26′E / 43.933°N 12.433°E / 43.933; 12.433"
+        ]
+      },
+      {
+        "label": "largest_settlement",
+        "children": [
+          {
+            "label": "Dogana",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "58",
+            "children": []
+          },
+          {
+            "label": "53",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "98139",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "48944",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "98139",
+            "children": []
+          },
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "48944",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Dogana 43°58′53′′N 12°29′22′′E / 43.98139°N 12.48944°E / 43.98139; 12.48944"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Italian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Italian"
+        ]
+      },
+      {
+        "label": "other_languages",
+        "children": [
+          {
+            "label": "Romagnol",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Romagnol"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "90",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "2022",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "denominations",
+            "children": []
+          },
+          {
+            "label": "2022",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Judaism",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "46",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "2015",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "90.3% Catholicism (2022) 7.5% no religion 1.1% Other Christian denominations (2022) 0.1% Judaism 0.46% Islam (2015) 0.34% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Sammarinese",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sammarinese"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "diarchic",
+            "children": []
+          },
+          {
+            "label": "directorial",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary diarchic directorial republic"
+        ]
+      },
+      {
+        "label": "captains_regent",
+        "children": [
+          {
+            "label": "Matteo",
+            "children": []
+          },
+          {
+            "label": "Rossi",
+            "children": []
+          },
+          {
+            "label": "Lorenzo",
+            "children": []
+          },
+          {
+            "label": "Bugli",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Matteo Rossi Lorenzo Bugli"
+        ]
+      },
+      {
+        "label": "secretary_of_state_for_foreign_and_political_affairs",
+        "children": [
+          {
+            "label": "Luca",
+            "children": []
+          },
+          {
+            "label": "Beccari",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Luca Beccari"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Grand",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "General",
+            "children": []
+          },
+          {
+            "label": "Council",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Grand and General Council"
+        ]
+      },
+      {
+        "label": "from_the_roman_empire",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "301",
+            "children": []
+          },
+          {
+            "label": "traditional",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3 September 301 (traditional)"
+        ]
+      },
+      {
+        "label": "from_the_papal_states",
+        "children": [
+          {
+            "label": "1291",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1291"
+        ]
+      },
+      {
+        "label": "constitution",
+        "children": [
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1600",
+            "children": []
+          },
+          {
+            "label": "Statutes",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1974",
+            "children": []
+          },
+          {
+            "label": "Declaration",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Citizen",
+            "children": []
+          },
+          {
+            "label": "Rights",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "8 October 1600 (Statutes) 8 July 1974 (Declaration of Citizen Rights)"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "61",
+            "children": []
+          },
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "63",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "191st",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "978",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "176th",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "034",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "171st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "61.19 km 2 (23.63 sq mi) ( 191st )",
+          "$2.978 billion ( 176th )",
+          "$2.034 billion ( 171st )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "0059",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.0059%"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "172",
+            "children": []
+          },
+          {
+            "label": "191st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "34,172 ( 191st )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "579",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "499",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "24th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "579/km 2 (1,499.6/sq mi) ( 24th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "86",
+            "children": []
+          },
+          {
+            "label": "989",
+            "children": []
+          },
+          {
+            "label": "12th",
+            "children": []
+          },
+          {
+            "label": "59",
+            "children": []
+          },
+          {
+            "label": "405",
+            "children": []
+          },
+          {
+            "label": "12th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$86,989 ( 12th )",
+          "$59,405 ( 12th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2024 estimate"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "915",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "29th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.915 very high ( 29th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro",
+            "children": []
+          },
+          {
+            "label": "EUR",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Euro ( € ) ( EUR )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "01",
+            "children": []
+          },
+          {
+            "label": "CET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +01 ( CET )"
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "02",
+            "children": []
+          },
+          {
+            "label": "CEST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +02 ( CEST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "378",
+            "children": []
+          },
+          {
+            "label": "39",
+            "children": []
+          },
+          {
+            "label": "0549",
+            "children": []
+          },
+          {
+            "label": "calling",
+            "children": []
+          },
+          {
+            "label": "via",
+            "children": []
+          },
+          {
+            "label": "Italy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+378 (+39 0549 calling via Italy)"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SM",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "SM"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "sm",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".sm"
+        ]
+      }
+    ]
+  }
+}

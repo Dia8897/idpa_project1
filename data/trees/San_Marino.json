@@ -4,78 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+378 (+39 0549 calling via Italy)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "City of San Marino 43°56′N 12°26′E ﻿ / ﻿ 43.933°N 12.433°E ﻿ / 43.933; 12.433",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Sammarinese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary diarchic directorial republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.915 [ 8 ] very high ( 29th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -95,25 +23,16 @@
             "children": []
           },
           {
-            "label": "Sources: [ 5 ] [ 9 ]",
+            "label": "Sources:",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".sm",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SM",
+            "label": "City of San Marino 43°56′N 12°26′E / 43.933°N 12.433°E / 43.933; 12.433",
             "children": []
           }
         ]
@@ -122,16 +41,7 @@
         "label": "largest_settlement",
         "children": [
           {
-            "label": "Dogana 43°58′53″N 12°29′22″E ﻿ / ﻿ 43.98139°N 12.48944°E ﻿ / 43.98139; 12.48944",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Grand and General Council",
+            "label": "Dogana 43°58′53′′N 12°29′22′′E / 43.98139°N 12.48944°E / 43.98139; 12.48944",
             "children": []
           }
         ]
@@ -140,7 +50,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Italian [ 1 ]",
+            "label": "Italian",
             "children": []
           }
         ]
@@ -158,25 +68,25 @@
         "label": "religion",
         "children": [
           {
-            "label": "90.3% Catholicism (2022) [ 2 ] 7.5% no religion 1.1% Other Christian denominations (2022) [ 2 ] 0.1% Judaism 0.46% Islam (2015) [ 3 ] 0.34% other",
+            "label": "90.3% Catholicism (2022) 7.5% no religion 1.1% Other Christian denominations (2022) 0.1% Judaism 0.46% Islam (2015) 0.34% other",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +01 ( CET )",
+            "label": "Sammarinese",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "34,172 [ 6 ] ( 191st )",
+            "label": "Unitary parliamentary diarchic directorial republic",
             "children": []
           }
         ]
@@ -191,28 +101,19 @@
         ]
       },
       {
-        "label": "constitution",
+        "label": "secretary_of_state_for_foreign_and_political_affairs",
         "children": [
           {
-            "label": "8 October 1600 (Statutes) 8 July 1974 (Declaration of Citizen Rights)",
+            "label": "Luca Beccari",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "legislature",
         "children": [
           {
-            "label": "579/km 2 (1,499.6/sq mi) ( 24th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_the_papal_states",
-        "children": [
-          {
-            "label": "1291",
+            "label": "Grand and General Council",
             "children": []
           }
         ]
@@ -227,23 +128,121 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "from_the_papal_states",
         "children": [
           {
-            "label": "$86,989 [ 7 ] ( 12th )",
-            "children": []
-          },
-          {
-            "label": "$59,405 [ 7 ] ( 12th )",
+            "label": "1291",
             "children": []
           }
         ]
       },
       {
-        "label": "secretary_of_state_for_foreign_and_political_affairs",
+        "label": "constitution",
         "children": [
           {
-            "label": "Luca Beccari",
+            "label": "8 October 1600 (Statutes) 8 July 1974 (Declaration of Citizen Rights)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "61.19 km 2 (23.63 sq mi) ( 191st )",
+            "children": []
+          },
+          {
+            "label": "$2.978 billion ( 176th )",
+            "children": []
+          },
+          {
+            "label": "$2.034 billion ( 171st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0.0059%",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "34,172 ( 191st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "579/km 2 (1,499.6/sq mi) ( 24th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$86,989 ( 12th )",
+            "children": []
+          },
+          {
+            "label": "$59,405 ( 12th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.915 very high ( 29th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +01 ( CET )",
             "children": []
           }
         ]
@@ -258,27 +257,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "calling_code",
         "children": [
           {
-            "label": "61.19 km 2 (23.63 sq mi) [ 5 ] ( 191st )",
-            "children": []
-          },
-          {
-            "label": "$2.978 billion [ 7 ] ( 176th )",
-            "children": []
-          },
-          {
-            "label": "$2.034 billion [ 7 ] ( 171st )",
+            "label": "+378 (+39 0549 calling via Italy)",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "0.0059% [ 4 ]",
+            "label": "SM",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".sm",
             "children": []
           }
         ]

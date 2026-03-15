@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+64",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Wellington 41°18′S 174°47′E ﻿ / ﻿ 41.300°S 174.783°E ﻿ / -41.300; 174.783",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "New Zealand dollar ($) ( NZD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd / mm / yyyy [ 14 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "New Zealander Kiwi (colloquial)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "67.8% European 19.6% Māori 17.3% Asian 8.9% Pacific peoples 1.9% ME / LA / African 1.1% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "30.0 [ 11 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.938 [ 12 ] very high ( 17th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -120,19 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".nz",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NZ",
+            "label": "Wellington 41°18′S 174°47′E / 41.300°S 174.783°E / -41.300; 174.783",
             "children": []
           }
         ]
@@ -141,16 +33,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Auckland 36°52′S 174°45′E ﻿ / ﻿ 36.867°S 174.750°E ﻿ / -36.867; 174.750",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Auckland 36°52′S 174°45′E / 36.867°S 174.750°E / -36.867; 174.750",
             "children": []
           }
         ]
@@ -165,6 +48,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "67.8% European 19.6% Māori 17.3% Asian 8.9% Pacific peoples 1.9% ME / LA / African 1.1% other",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -174,64 +66,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +12 ( NZST [ n 6 ] )",
+            "label": "New Zealander Kiwi (colloquial)",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "4,993,923 [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution_act",
-        "children": [
-          {
-            "label": "1 January 1987",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "19.9/km 2 (51.5/sq mi) ( 204th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dominion",
-        "children": [
-          {
-            "label": "26 September 1907",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "governorgeneral",
-        "children": [
-          {
-            "label": "Cindy Kiro",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "march_estimate",
-        "children": [
-          {
-            "label": "5,343,650 [ 9 ] ( 121st )",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -246,14 +93,10 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "governorgeneral",
         "children": [
           {
-            "label": "$55,450 [ 10 ] ( 36th )",
-            "children": []
-          },
-          {
-            "label": "$46,013 [ 10 ] ( 23rd )",
+            "label": "Cindy Kiro",
             "children": []
           }
         ]
@@ -268,45 +111,10 @@
         ]
       },
       {
-        "label": "responsible_government",
+        "label": "legislature",
         "children": [
           {
-            "label": "7 May 1856",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "statute_of_westminster_adoption_act",
-        "children": [
-          {
-            "label": "25 November 1947",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "summer_dst",
-        "children": [
-          {
-            "label": "UTC +13 ( NZDT [ n 7 ] )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "263,310 [ 7 ] km 2 (101,660 sq mi) ( 75th )",
-            "children": []
-          },
-          {
-            "label": "$298.93 billion [ 10 ] ( 67th )",
-            "children": []
-          },
-          {
-            "label": "$248.67 billion [ 10 ] ( 52nd )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -321,10 +129,202 @@
         ]
       },
       {
+        "label": "responsible_government",
+        "children": [
+          {
+            "label": "7 May 1856",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "dominion",
+        "children": [
+          {
+            "label": "26 September 1907",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "statute_of_westminster_adoption_act",
+        "children": [
+          {
+            "label": "25 November 1947",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution_act",
+        "children": [
+          {
+            "label": "1 January 1987",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "263,310 km 2 (101,660 sq mi) ( 75th )",
+            "children": []
+          },
+          {
+            "label": "$298.93 billion ( 67th )",
+            "children": []
+          },
+          {
+            "label": "$248.67 billion ( 52nd )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "1.6 [ n 5 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "march_estimate",
+        "children": [
+          {
+            "label": "5,343,650 ( 121st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "4,993,923",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "19.9/km 2 (51.5/sq mi) ( 204th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$55,450 ( 36th )",
+            "children": []
+          },
+          {
+            "label": "$46,013 ( 23rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "30.0 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.938 very high ( 17th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "New Zealand dollar ($) ( NZD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +12 ( NZST [ n 6 ] )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +13 ( NZDT [ n 7 ] )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd / mm / yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+64",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "NZ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".nz",
             "children": []
           }
         ]

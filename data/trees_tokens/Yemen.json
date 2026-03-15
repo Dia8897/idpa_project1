@@ -1,0 +1,962 @@
+{
+  "country_name": "Yemen",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "All",
+            "children": []
+          },
+          {
+            "label": "h",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Wa",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          },
+          {
+            "label": "ath",
+            "children": []
+          },
+          {
+            "label": "Thawrah",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Wa",
+            "children": []
+          },
+          {
+            "label": "dah",
+            "children": []
+          },
+          {
+            "label": "God",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Homeland",
+            "children": []
+          },
+          {
+            "label": "Revolution",
+            "children": []
+          },
+          {
+            "label": "Unity",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Jumh",
+            "children": []
+          },
+          {
+            "label": "riyyah",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Mutta",
+            "children": []
+          },
+          {
+            "label": "idah",
+            "children": []
+          },
+          {
+            "label": "United",
+            "children": []
+          },
+          {
+            "label": "Republic",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Yemen",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Motto: ٱللَّهُ، ٱلْوَطَنُ، ٱلثَوْرَةُ، ٱلْوَحْدَةُ Allāh, al-Waṭan, ath-Thawrah, al-Waḥdah \"God, the Homeland, Revolution, Unity\"",
+          "Anthem: الجمهورية المتحدة al-Jumhūriyyah al-Muttaḥidah \" United Republic \"",
+          "Show globe Show map of Yemen"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Sanaa",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "54",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "34833",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "20639",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "34833",
+            "children": []
+          },
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "20639",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sanaa 15°20′54′′N 44°12′23′′E / 15.34833°N 44.20639°E / 15.34833; 44.20639"
+        ]
+      },
+      {
+        "label": "government_seat",
+        "children": [
+          {
+            "label": "Aden",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Aden"
+        ]
+      },
+      {
+        "label": "official_language_and_national_language",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "92",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Arabs",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Somalis",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Afro",
+            "children": []
+          },
+          {
+            "label": "Arabs",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "Indo",
+            "children": []
+          },
+          {
+            "label": "Pakistani",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "92.8% Arabs 3.7% Somalis 1.1% Afro-Arabs 1.0% Indo - Pakistani 1.4% other"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "99",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          },
+          {
+            "label": "65",
+            "children": []
+          },
+          {
+            "label": "Sunni",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "Zaydi",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "~99.1% Islam ( official ) 65% Sunni 35% Zaydi ~0.9% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Yemeni",
+            "children": []
+          },
+          {
+            "label": "Yemenite",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Yemeni Yemenite"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "semi",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "under",
+            "children": []
+          },
+          {
+            "label": "a",
+            "children": []
+          },
+          {
+            "label": "provisional",
+            "children": []
+          },
+          {
+            "label": "government",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary semi-presidential republic under a provisional government"
+        ]
+      },
+      {
+        "label": "president_of_the_presidential_leadership_council",
+        "children": [
+          {
+            "label": "Rashad",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Alimi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Rashad al-Alimi"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Shaea",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Zindani",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Shaea al-Zindani"
+        ]
+      },
+      {
+        "label": "president_of_the_house_of_representatives",
+        "children": [
+          {
+            "label": "Sultan",
+            "children": []
+          },
+          {
+            "label": "al",
+            "children": []
+          },
+          {
+            "label": "Barakani",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sultan al-Barakani"
+        ]
+      },
+      {
+        "label": "speaker_of_the_shura_council",
+        "children": [
+          {
+            "label": "Ahmed",
+            "children": []
+          },
+          {
+            "label": "Obaid",
+            "children": []
+          },
+          {
+            "label": "Bin",
+            "children": []
+          },
+          {
+            "label": "Dagher",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ahmed Obaid Bin Dagher"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Shura",
+            "children": []
+          },
+          {
+            "label": "Council",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Shura Council"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Representatives"
+        ]
+      },
+      {
+        "label": "unification",
+        "children": [
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1990",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "22 May 1990"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "16",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1991",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "16 May 1991"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "455",
+            "children": []
+          },
+          {
+            "label": "503",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "175",
+            "children": []
+          },
+          {
+            "label": "871",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "54th",
+            "children": []
+          },
+          {
+            "label": "69",
+            "children": []
+          },
+          {
+            "label": "960",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "117th",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "400",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "135th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "455,503 km 2 (175,871 sq mi) ( 54th )",
+          "$69.960 billion ( 117th )",
+          "$17.400 billion ( 135th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "Negligible",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Negligible"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "684",
+            "children": []
+          },
+          {
+            "label": "503",
+            "children": []
+          },
+          {
+            "label": "48th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "32,684,503 ( 48th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "71",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "186",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "143rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "71.8/km 2 (186.0/sq mi) ( 143rd )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "670",
+            "children": []
+          },
+          {
+            "label": "183rd",
+            "children": []
+          },
+          {
+            "label": "416",
+            "children": []
+          },
+          {
+            "label": "190th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$1,670 ( 183rd )",
+          "$416 ( 190th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "36.7 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "470",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "184th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.470 low ( 184th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Yemeni",
+            "children": []
+          },
+          {
+            "label": "rial",
+            "children": []
+          },
+          {
+            "label": "YER",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Yemeni rial ( YER )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "AST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +3 ( AST )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "967",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+967"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "YE",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "YE"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "List",
+            "children": []
+          },
+          {
+            "label": "ye",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "List .ye اليمن."
+        ]
+      }
+    ]
+  }
+}

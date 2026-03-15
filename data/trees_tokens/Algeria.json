@@ -1,0 +1,849 @@
+{
+  "country_name": "Algeria",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Bi",
+            "children": []
+          },
+          {
+            "label": "sh",
+            "children": []
+          },
+          {
+            "label": "sha",
+            "children": []
+          },
+          {
+            "label": "b",
+            "children": []
+          },
+          {
+            "label": "wa",
+            "children": []
+          },
+          {
+            "label": "li",
+            "children": []
+          },
+          {
+            "label": "sh",
+            "children": []
+          },
+          {
+            "label": "sha",
+            "children": []
+          },
+          {
+            "label": "b",
+            "children": []
+          },
+          {
+            "label": "By",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "people",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "for",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "people",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Qasaman",
+            "children": []
+          },
+          {
+            "label": "We",
+            "children": []
+          },
+          {
+            "label": "Pledge",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Motto: بِالشَّعْبِ و لِلشَّعْبِ Bi-sh-shaʿb wa li-sh-shaʿb \"By the people and for the people\"",
+          "Anthem: قَسَمًا Qasaman \"We Pledge\""
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Algiers",
+            "children": []
+          },
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "700",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "217",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "700",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "217",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Algiers 36°42′N 3°13′E / 36.700°N 3.217°E / 36.700; 3.217"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Arabic",
+            "children": []
+          },
+          {
+            "label": "Berber",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Arabic Berber"
+        ]
+      },
+      {
+        "label": "national_vernacular",
+        "children": [
+          {
+            "label": "Algerian",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Algerian Arabic"
+        ]
+      },
+      {
+        "label": "foreign_languages",
+        "children": [
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "French English"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "See",
+            "children": []
+          },
+          {
+            "label": "Ethnic",
+            "children": []
+          },
+          {
+            "label": "groups",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "See Ethnic groups"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "99",
+            "children": []
+          },
+          {
+            "label": "Sunni",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "official",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "99% Sunni Islam ( official ) <1% others"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Algerian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Algerian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "semi",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary semi-presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Abdelmadjid",
+            "children": []
+          },
+          {
+            "label": "Tebboune",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Abdelmadjid Tebboune"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Sifi",
+            "children": []
+          },
+          {
+            "label": "Ghrieb",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Sifi Ghrieb"
+        ]
+      },
+      {
+        "label": "council_president",
+        "children": [
+          {
+            "label": "Azouz",
+            "children": []
+          },
+          {
+            "label": "Nasri",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Azouz Nasri"
+        ]
+      },
+      {
+        "label": "assembly_president",
+        "children": [
+          {
+            "label": "Ibrahim",
+            "children": []
+          },
+          {
+            "label": "Boughali",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ibrahim Boughali"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Council",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Nation",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Council of the Nation"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "People",
+            "children": []
+          },
+          {
+            "label": "s",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "People's National Assembly"
+        ]
+      },
+      {
+        "label": "numidia",
+        "children": [
+          {
+            "label": "202",
+            "children": []
+          },
+          {
+            "label": "BC",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "202 BC"
+        ]
+      },
+      {
+        "label": "regency_of_algiers",
+        "children": [
+          {
+            "label": "1516",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1516"
+        ]
+      },
+      {
+        "label": "french_algeria",
+        "children": [
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1830",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "5 July 1830"
+        ]
+      },
+      {
+        "label": "independence",
+        "children": [
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1962",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "5 July 1962"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "381",
+            "children": []
+          },
+          {
+            "label": "741",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "919",
+            "children": []
+          },
+          {
+            "label": "595",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "10th",
+            "children": []
+          },
+          {
+            "label": "875",
+            "children": []
+          },
+          {
+            "label": "330",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "40th",
+            "children": []
+          },
+          {
+            "label": "268",
+            "children": []
+          },
+          {
+            "label": "890",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "49th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2,381,741 km 2 (919,595 sq mi) ( 10th )",
+          "$875.330 billion ( 40th )",
+          "$268.890 billion ( 49th )"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "47",
+            "children": []
+          },
+          {
+            "label": "400",
+            "children": []
+          },
+          {
+            "label": "000",
+            "children": []
+          },
+          {
+            "label": "32nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "47,400,000 ( 32nd )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "49",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "206th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "19/km 2 (49.2/sq mi) ( 206th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "530",
+            "children": []
+          },
+          {
+            "label": "100th",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "690",
+            "children": []
+          },
+          {
+            "label": "111th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$18,530 ( 100th )",
+          "$5,690 ( 111th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "low",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "27.6 low inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "763",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "96th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.763 high ( 96th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Algerian",
+            "children": []
+          },
+          {
+            "label": "dinar",
+            "children": []
+          },
+          {
+            "label": "DZD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Algerian dinar ( DZD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "CET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +1 ( CET )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "213",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+213"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "DZ",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "DZ"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "dz",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".dz .الجزائر"
+        ]
+      }
+    ]
+  }
+}

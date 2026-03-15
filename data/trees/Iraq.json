@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+964",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Baghdad 33°20′N 44°23′E ﻿ / ﻿ 33.333°N 44.383°E ﻿ / 33.333; 44.383",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Iraqi dinar ( IQD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Iraqi",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "75–80% Arabs 15–20% Kurds 5–10% Assyrians , Turkmen , Jews , Persians , Yazidis , Mandaeans , and others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "29.5 [ 14 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.712 [ 15 ] high ( 122nd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -111,28 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".iq .العراق",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IQ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Council of Representatives",
+            "label": "Baghdad 33°20′N 44°23′E / 33.333°N 44.383°E / 33.333; 44.383",
             "children": []
           }
         ]
@@ -141,7 +33,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Arabic Kurdish [ 2 ]",
+            "label": "Arabic Kurdish",
             "children": []
           }
         ]
@@ -150,7 +42,16 @@
         "label": "recognised_regional_languages",
         "children": [
           {
-            "label": "Assyrian Armenian Turkmen [ 2 ]",
+            "label": "Assyrian Armenian Turkmen",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "75–80% Arabs 15–20% Kurds 5–10% Assyrians , Turkmen , Jews , Persians , Yazidis , Mandaeans , and others",
             "children": []
           }
         ]
@@ -159,101 +60,25 @@
         "label": "religion",
         "children": [
           {
-            "label": "90–95% Islam ( official ) 61% Shia 35% Sunni 5–10% Christianity , Mandaeism , Yazidism , Judaism , Yarsanism , irreligion and others [ 5 ] [ 6 ]",
+            "label": "90–95% Islam ( official ) 61% Shia 35% Sunni 5–10% Christianity , Mandaeism , Yazidism , Judaism , Yarsanism , irreligion and others",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +3 ( AST )",
+            "label": "Iraqi",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "46,118,793 [ 11 ] [ 12 ] ( 34th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "abbasid_caliphate",
-        "children": [
-          {
-            "label": "750 AD",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "akkadian_empire",
-        "children": [
-          {
-            "label": "c. 2334 BC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "babylonia",
-        "children": [
-          {
-            "label": "c. 1890 BC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "15 October 2005",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "82.7/km 2 (214.2/sq mi) ( 125th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "3 October 1932",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Council of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$15,180 [ 13 ] ( 110th )",
-            "children": []
-          },
-          {
-            "label": "$5,670 [ 13 ] ( 112th )",
+            "label": "Federal parliamentary republic",
             "children": []
           }
         ]
@@ -277,19 +102,37 @@
         ]
       },
       {
-        "label": "republic_declared",
+        "label": "speaker",
         "children": [
           {
-            "label": "14 July 1958",
+            "label": "Haibat al-Halbousi",
             "children": []
           }
         ]
       },
       {
-        "label": "speaker",
+        "label": "legislature",
         "children": [
           {
-            "label": "Haibat al-Halbousi",
+            "label": "Council of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Federation Council",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Council of Representatives",
             "children": []
           }
         ]
@@ -304,6 +147,60 @@
         ]
       },
       {
+        "label": "akkadian_empire",
+        "children": [
+          {
+            "label": "c. 2334 BC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "babylonia",
+        "children": [
+          {
+            "label": "c. 1890 BC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "abbasid_caliphate",
+        "children": [
+          {
+            "label": "750 AD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "3 October 1932",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic_declared",
+        "children": [
+          {
+            "label": "14 July 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "15 October 2005",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
@@ -311,20 +208,11 @@
             "children": []
           },
           {
-            "label": "$690.090 billion [ 13 ] ( 44th )",
+            "label": "$690.090 billion ( 44th )",
             "children": []
           },
           {
-            "label": "$258.020 billion [ 13 ] ( 51st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "Federation Council [ a ]",
+            "label": "$258.020 billion ( 51st )",
             "children": []
           }
         ]
@@ -333,7 +221,119 @@
         "label": "water",
         "children": [
           {
-            "label": "4.93 (as of 2024) [ 10 ]",
+            "label": "4.93 (as of 2024)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "46,118,793 ( 34th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "82.7/km 2 (214.2/sq mi) ( 125th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$15,180 ( 110th )",
+            "children": []
+          },
+          {
+            "label": "$5,670 ( 112th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "29.5 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.712 high ( 122nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Iraqi dinar ( IQD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +3 ( AST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+964",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "IQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".iq .العراق",
             "children": []
           }
         ]

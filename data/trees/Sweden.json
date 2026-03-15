@@ -4,10 +4,22 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+46",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" Du gamla, du fria \" (English: \"Thou ancient, Thou free\" ) Royal anthem : \" Kungssången \" (English: \"The King's Song\")",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Europe Location of Sweden (dark green) – in Europe (green & dark grey) – in the European Union (green) –",
+            "children": []
+          },
+          {
+            "label": "Website sweden.se",
             "children": []
           }
         ]
@@ -16,16 +28,25 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Stockholm 59°21′N 18°4′E ﻿ / ﻿ 59.350°N 18.067°E ﻿ / 59.350; 18.067",
+            "label": "Stockholm 59°21′N 18°4′E / 59.350°N 18.067°E / 59.350; 18.067",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "official_languages",
         "children": [
           {
-            "label": "Swedish krona ( SEK )",
+            "label": "Swedish",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "national_minority_languages",
+        "children": [
+          {
+            "label": "Sámi Finnish Meänkieli Romani Yiddish",
             "children": []
           }
         ]
@@ -40,139 +61,10 @@
         ]
       },
       {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "27.6 [ 8 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.959 [ 9 ] very high ( 5th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Du gamla, du fria \" [ a ] (English: \"Thou ancient, Thou free\" ) Royal anthem : \" Kungssången \" (English: \"The King's Song\")",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Europe Location of Sweden (dark green) – in Europe (green & dark grey) – in the European Union (green) – [ Legend ]",
-            "children": []
-          },
-          {
-            "label": "Website sweden.se",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".se [ d ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SE",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Riksdag",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "national_minority_languages",
-        "children": [
-          {
-            "label": "Sámi Finnish Meänkieli Romani Yiddish [ c ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Swedish [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "a_unified_swedish_kingdom_established",
-        "children": [
-          {
-            "label": "By the late 10th century",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "25/km 2 (64.7/sq mi) ( 198th )",
             "children": []
           }
         ]
@@ -187,32 +79,10 @@
         ]
       },
       {
-        "label": "october_estimate",
+        "label": "riksdag_speaker",
         "children": [
           {
-            "label": "10,610,485 [ 6 ] ( 90th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "part_of_the_kalmar_union",
-        "children": [
-          {
-            "label": "17 June 1397 – 6 June 1523",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$74,900 [ 7 ] ( 17th )",
-            "children": []
-          },
-          {
-            "label": "$58,100 [ 7 ] ( 14th )",
+            "label": "Andreas Norlén",
             "children": []
           }
         ]
@@ -227,19 +97,28 @@
         ]
       },
       {
-        "label": "riksdag_speaker",
+        "label": "legislature",
         "children": [
           {
-            "label": "Andreas Norlén",
+            "label": "Riksdag",
             "children": []
           }
         ]
       },
       {
-        "label": "summer_dst",
+        "label": "a_unified_swedish_kingdom_established",
         "children": [
           {
-            "label": "UTC +2 ( CEST )",
+            "label": "By the late 10th century",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "part_of_the_kalmar_union",
+        "children": [
+          {
+            "label": "17 June 1397 – 6 June 1523",
             "children": []
           }
         ]
@@ -257,15 +136,15 @@
         "label": "total",
         "children": [
           {
-            "label": "450,295 [ 4 ] km 2 (173,860 sq mi) ( 55th )",
+            "label": "450,295 km 2 (173,860 sq mi) ( 55th )",
             "children": []
           },
           {
-            "label": "$799.68 billion [ 7 ] ( 41st )",
+            "label": "$799.68 billion ( 41st )",
             "children": []
           },
           {
-            "label": "$620.30 billion [ 7 ] ( 24th )",
+            "label": "$620.30 billion ( 24th )",
             "children": []
           }
         ]
@@ -274,7 +153,128 @@
         "label": "water",
         "children": [
           {
-            "label": "8.97 (2022) [ 5 ]",
+            "label": "8.97 (2022)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "october_estimate",
+        "children": [
+          {
+            "label": "10,610,485 ( 90th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "25/km 2 (64.7/sq mi) ( 198th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$74,900 ( 17th )",
+            "children": []
+          },
+          {
+            "label": "$58,100 ( 14th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "27.6 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.959 very high ( 5th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Swedish krona ( SEK )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +2 ( CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+46",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SE",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".se",
             "children": []
           }
         ]

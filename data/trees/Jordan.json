@@ -4,10 +4,22 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+962",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: الله، الوطن، الملك Allāh, al-Waṭan, al-Malik \"God, Country, King\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: السلام الملكي الأردني Al-Salām al-Malakī al-Urdunī \" Peace to the King of Jordan \"",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Jordan",
             "children": []
           }
         ]
@@ -16,25 +28,16 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Amman 31°57′N 35°56′E ﻿ / ﻿ 31.950°N 35.933°E ﻿ / 31.950; 35.933",
+            "label": "Amman 31°57′N 35°56′E / 31.950°N 35.933°E / 31.950; 35.933",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "official_languages",
         "children": [
           {
-            "label": "Jordanian dinar ( JOD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Jordanian",
+            "label": "Arabic",
             "children": []
           }
         ]
@@ -49,28 +52,19 @@
         ]
       },
       {
-        "label": "gdp_ppp",
+        "label": "religion",
         "children": [
           {
-            "label": "2023 estimate",
+            "label": "95% Islam ( official ) 3% Christianity 1% Druze , Baháʼí 1% others",
             "children": []
           }
         ]
       },
       {
-        "label": "gdp_nominal",
+        "label": "demonyms",
         "children": [
           {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "35.4 [ 6 ] medium inequality",
+            "label": "Jordanian",
             "children": []
           }
         ]
@@ -85,49 +79,19 @@
         ]
       },
       {
-        "label": "hdi",
+        "label": "monarch",
         "children": [
           {
-            "label": "0.754 [ 7 ] high ( 100th )",
+            "label": "Abdullah II",
             "children": []
           }
         ]
       },
       {
-        "label": "info",
+        "label": "prime_minister",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Motto: الله، الوطن، الملك Allāh, al-Waṭan, al-Malik \"God, Country, King\" [ 1 ]",
-            "children": []
-          },
-          {
-            "label": "Anthem: السلام الملكي الأردني Al-Salām al-Malakī al-Urdunī \" Peace to the King of Jordan \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Jordan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".jo .الاردن",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "JO",
+            "label": "Jafar Hassan",
             "children": []
           }
         ]
@@ -142,64 +106,19 @@
         ]
       },
       {
-        "label": "official_languages",
+        "label": "upper_house",
         "children": [
           {
-            "label": "Arabic [ 2 ]",
+            "label": "Senate",
             "children": []
           }
         ]
       },
       {
-        "label": "religion",
+        "label": "lower_house",
         "children": [
           {
-            "label": "95% Islam ( official ) 3% Christianity 1% Druze , Baháʼí 1% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +03:00 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "census",
-        "children": [
-          {
-            "label": "9,531,712 [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "11,484,805 [ 3 ] ( 84th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "11 January 1952",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "114/km 2 (295.3/sq mi) ( 70th )",
+            "label": "House of Representatives",
             "children": []
           }
         ]
@@ -223,41 +142,10 @@
         ]
       },
       {
-        "label": "lower_house",
+        "label": "current_constitution",
         "children": [
           {
-            "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "monarch",
-        "children": [
-          {
-            "label": "Abdullah II",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$12,809 [ 5 ] ( 112th )",
-            "children": []
-          },
-          {
-            "label": "$4,850 [ 5 ] ( 114th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Jafar Hassan",
+            "label": "11 January 1952",
             "children": []
           }
         ]
@@ -270,20 +158,11 @@
             "children": []
           },
           {
-            "label": "$132.092 billion [ 5 ] ( 91st )",
+            "label": "$132.092 billion ( 91st )",
             "children": []
           },
           {
-            "label": "$50.022 billion [ 5 ] ( 93rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "Senate",
+            "label": "$50.022 billion ( 93rd )",
             "children": []
           }
         ]
@@ -293,6 +172,127 @@
         "children": [
           {
             "label": "0.6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "11,484,805 ( 84th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "9,531,712",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "114/km 2 (295.3/sq mi) ( 70th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$12,809 ( 112th )",
+            "children": []
+          },
+          {
+            "label": "$4,850 ( 114th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "35.4 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.754 high ( 100th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Jordanian dinar ( JOD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +03:00 ( AST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+962",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "JO",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".jo .الاردن",
             "children": []
           }
         ]

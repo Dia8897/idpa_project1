@@ -4,163 +4,7 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+263",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Harare 17°49′45″S 31°03′08″E ﻿ / ﻿ 17.82917°S 31.05222°E ﻿ / -17.82917; 31.05222",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chewa",
-        "children": [
-          {
-            "label": "Dziko la Zimbabwe",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "De jure : Zimbabwe Gold ( ZWG ) [ 13 ] De facto : United States dollar ( USD ) [ 14 ] South African rand ( ZAR ); [ 14 ] Other currencies [ note 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Zimbabwean Zimbo [ 6 ] (colloquial)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups_census",
-        "children": [
-          {
-            "label": "99.6% Indigenous African [ a ] 0.2% European 0.1% Coloured 0.1% other [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "45.5 [ 11 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.598 [ 12 ] medium ( 153rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Motto: \"Unity, Freedom, Work\" [ 1 ]",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Blessed Be the Land of Zimbabwe \" [ 2 ]",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".zw",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ZW",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ndau",
+        "label": "shona",
         "children": [
           {
             "label": "Nyika yeZimbabwe",
@@ -178,46 +22,10 @@
         ]
       },
       {
-        "label": "official_languages",
+        "label": "chewa",
         "children": [
           {
-            "label": "16 languages : [ 3 ] Chewa Chibarwe English Kalanga Khoisan Nambya Ndau Ndebele Shangani Shona Sotho Tonga Tswana Venda Xhosa Zimbabwean sign language",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "84.1% Christianity 69.2% Protestantism 14.9% other Christian 10.2% no religion 4.5% traditional faiths 1.2% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "shona",
-        "children": [
-          {
-            "label": "Nyika yeZimbabwe",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "sotho",
-        "children": [
-          {
-            "label": "Rephabliki ea Zimbabwe",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( CAT [ 15 ] )",
+            "label": "Dziko la Zimbabwe",
             "children": []
           }
         ]
@@ -227,6 +35,15 @@
         "children": [
           {
             "label": "Lefatshe la Zimbabwe",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "xitsonga",
+        "children": [
+          {
+            "label": "Tiko ra Zimbabwe",
             "children": []
           }
         ]
@@ -250,95 +67,94 @@
         ]
       },
       {
-        "label": "xitsonga",
+        "label": "sotho",
         "children": [
           {
-            "label": "Tiko ra Zimbabwe",
+            "label": "Rephabliki ea Zimbabwe",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "ndau",
         "children": [
           {
-            "label": "15,178,957 [ 8 ]",
+            "label": "Nyika yeZimbabwe",
             "children": []
           }
         ]
       },
       {
-        "label": "current_constitution",
+        "label": "info",
         "children": [
           {
-            "label": "15 May 2013",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "11 November 1965",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "45/km 2 (116.5/sq mi) ( 179th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "february_estimate",
-        "children": [
-          {
-            "label": "17,166,852 [ 7 ] ( 74th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_vicepresident",
-        "children": [
-          {
-            "label": "Constantino Chiwenga",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_recognised",
-        "children": [
-          {
-            "label": "18 April 1980",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$5,410 [ 9 ] ( 151st )",
+            "label": "Flag Coat of arms",
             "children": []
           },
           {
-            "label": "$3,070 [ 9 ] ( 152nd )",
+            "label": "Motto: \"Unity, Freedom, Work\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" Blessed Be the Land of Zimbabwe \"",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Africa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Harare 17°49′45′′S 31°03′08′′E / 17.82917°S 31.05222°E / -17.82917; 31.05222",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "16 languages : Chewa Chibarwe English Kalanga Khoisan Nambya Ndau Ndebele Shangani Shona Sotho Tonga Tswana Venda Xhosa Zimbabwean sign language",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups_census",
+        "children": [
+          {
+            "label": "99.6% Indigenous African 0.2% European 0.1% Coloured 0.1% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "84.1% Christianity 69.2% Protestantism 14.9% other Christian 10.2% no religion 4.5% traditional faiths 1.2% others",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Zimbabwean Zimbo (colloquial)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -353,10 +169,10 @@
         ]
       },
       {
-        "label": "republic",
+        "label": "first_vicepresident",
         "children": [
           {
-            "label": "2 March 1970",
+            "label": "Constantino Chiwenga",
             "children": []
           }
         ]
@@ -371,18 +187,10 @@
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "390,757 km 2 (150,872 sq mi) ( 60th )",
-            "children": []
-          },
-          {
-            "label": "$93.870 billion [ 9 ] ( 104th )",
-            "children": []
-          },
-          {
-            "label": "$53.310 billion [ 10 ] ( 101st )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -397,10 +205,28 @@
         ]
       },
       {
-        "label": "water",
+        "label": "lower_house",
         "children": [
           {
-            "label": "1",
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "11 November 1965",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic",
+        "children": [
+          {
+            "label": "2 March 1970",
             "children": []
           }
         ]
@@ -410,6 +236,180 @@
         "children": [
           {
             "label": "1 June 1979",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_recognised",
+        "children": [
+          {
+            "label": "18 April 1980",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "15 May 2013",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "390,757 km 2 (150,872 sq mi) ( 60th )",
+            "children": []
+          },
+          {
+            "label": "$93.870 billion ( 104th )",
+            "children": []
+          },
+          {
+            "label": "$53.310 billion ( 101st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "february_estimate",
+        "children": [
+          {
+            "label": "17,166,852 ( 74th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "15,178,957",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "45/km 2 (116.5/sq mi) ( 179th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$5,410 ( 151st )",
+            "children": []
+          },
+          {
+            "label": "$3,070 ( 152nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "45.5 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.598 medium ( 153rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "De jure : Zimbabwe Gold ( ZWG ) De facto : United States dollar ( USD ) South African rand ( ZAR ); Other currencies [ note 1 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( CAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+263",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "ZW",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".zw",
             "children": []
           }
         ]

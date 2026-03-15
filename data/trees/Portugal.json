@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+351",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Lisbon 38°46′N 9°9′W ﻿ / ﻿ 38.767°N 9.150°W ﻿ / 38.767; -9.150",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro [ e ] ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "yyyy - mm - dd [ 13 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Portuguese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "31.9 [ 11 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic [ 1 ] [ a ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.890 [ 12 ] very high ( 40th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -111,28 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".pt",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PT",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Assembly of the Republic",
+            "label": "Lisbon 38°46′N 9°9′W / 38.767°N 9.150°W / 38.767; -9.150",
             "children": []
           }
         ]
@@ -165,122 +57,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +0 and -1",
+            "label": "Portuguese",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "10,343,066 [ 9 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "10,749,635 [ 8 ] ( 87th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "battle_of_ourique",
-        "children": [
-          {
-            "label": "25 July 1139",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "conference_of_zamora",
-        "children": [
-          {
-            "label": "4–5 October 1143",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "county",
-        "children": [
-          {
-            "label": "868",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "25 April 1976 [ c ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "democratisation",
-        "children": [
-          {
-            "label": "25 April 1974",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "116.6/km 2 (302.0/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_constitution",
-        "children": [
-          {
-            "label": "23 September 1822",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "land",
-        "children": [
-          {
-            "label": "92,225 km 2 (35,608 sq mi) [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "manifestis_probatum",
-        "children": [
-          {
-            "label": "23 May 1179",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$51,853 [ 10 ] ( 42nd )",
-            "children": []
-          },
-          {
-            "label": "$33,972 [ 10 ] ( 41st )",
+            "label": "Unitary semi-presidential republic",
             "children": []
           }
         ]
@@ -304,10 +93,64 @@
         ]
       },
       {
-        "label": "republic",
+        "label": "speaker",
         "children": [
           {
-            "label": "5 October 1910",
+            "label": "José Pedro Aguiar-Branco",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Assembly of the Republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "county",
+        "children": [
+          {
+            "label": "868",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "sovereignty",
+        "children": [
+          {
+            "label": "24 June 1128",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "battle_of_ourique",
+        "children": [
+          {
+            "label": "25 July 1139",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "conference_of_zamora",
+        "children": [
+          {
+            "label": "4–5 October 1143",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "manifestis_probatum",
+        "children": [
+          {
+            "label": "23 May 1179",
             "children": []
           }
         ]
@@ -322,19 +165,175 @@
         ]
       },
       {
-        "label": "sovereignty",
+        "label": "first_constitution",
         "children": [
           {
-            "label": "24 June 1128 [ b ]",
+            "label": "23 September 1822",
             "children": []
           }
         ]
       },
       {
-        "label": "speaker",
+        "label": "republic",
         "children": [
           {
-            "label": "José Pedro Aguiar-Branco",
+            "label": "5 October 1910",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "democratisation",
+        "children": [
+          {
+            "label": "25 April 1974",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "25 April 1976",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "156,597 km 2 (60,462 sq mi) ( 92nd )",
+            "children": []
+          },
+          {
+            "label": "$556.383 billion ( 50th )",
+            "children": []
+          },
+          {
+            "label": "$364.527 billion ( 44th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "land",
+        "children": [
+          {
+            "label": "92,225 km 2 (35,608 sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "64,372 km 2 (24,854 sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1.2 (2015)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "10,749,635 ( 87th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "10,343,066",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "116.6/km 2 (302.0/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$51,853 ( 42nd )",
+            "children": []
+          },
+          {
+            "label": "$33,972 ( 41st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "31.9 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.890 very high ( 40th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +0 and -1",
             "children": []
           }
         ]
@@ -349,36 +348,37 @@
         ]
       },
       {
-        "label": "total",
+        "label": "date_format",
         "children": [
           {
-            "label": "156,597 km 2 (60,462 sq mi) [ d ] ( 92nd )",
-            "children": []
-          },
-          {
-            "label": "$556.383 billion [ 10 ] ( 50th )",
-            "children": []
-          },
-          {
-            "label": "$364.527 billion [ 10 ] ( 44th )",
+            "label": "yyyy - mm - dd",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "calling_code",
         "children": [
           {
-            "label": "64,372 km 2 (24,854 sq mi) [ 7 ]",
+            "label": "+351",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "1.2 (2015) [ 4 ]",
+            "label": "PT",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".pt",
             "children": []
           }
         ]

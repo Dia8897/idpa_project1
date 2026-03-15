@@ -4,10 +4,22 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+52",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Anthem: Himno Nacional Mexicano (English: Mexican National Anthem )",
+            "children": []
+          },
+          {
+            "label": "Mexico in the Western Hemisphere Mexico and its states",
+            "children": []
+          },
+          {
+            "label": "^ Article 4 of the General Law of Linguistic Rights of the Indigenous Peoples ^ Spanish is the de facto official language in the Mexican federal government.",
             "children": []
           }
         ]
@@ -16,7 +28,16 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Mexico City 19°26′N 99°8′W ﻿ / ﻿ 19.433°N 99.133°W ﻿ / 19.433; -99.133",
+            "label": "Mexico City 19°26′N 99°8′W / 19.433°N 99.133°W / 19.433; -99.133",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "national_language",
+        "children": [
+          {
+            "label": "Spanish",
             "children": []
           }
         ]
@@ -25,34 +46,7 @@
         "label": "coofficial_languages",
         "children": [
           {
-            "label": "68 Indigenous languages [a]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Mexican peso ( MXN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Mexican",
+            "label": "68 Indigenous languages",
             "children": []
           }
         ]
@@ -67,10 +61,220 @@
         ]
       },
       {
+        "label": "religion",
+        "children": [
+          {
+            "label": "88.9% Christianity 77.7% Catholicism 11.2% Protestantism 8.1% Irreligion 2.4% other religion 0.5% prefer not to say",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Mexican",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal presidential republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Claudia Sheinbaum",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president_of_the_senate",
+        "children": [
+          {
+            "label": "Laura Itzel Castillo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president_of_the_chamber_of_deputies",
+        "children": [
+          {
+            "label": "Kenia López Rabadán",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Hugo Aguilar Ortiz",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Congress",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber of Deputies",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "start_of_war_of_independence",
+        "children": [
+          {
+            "label": "16 September 1810",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "27 September 1821",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "28 December 1836",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "first_constitution",
+        "children": [
+          {
+            "label": "4 October 1824",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "second_constitution",
+        "children": [
+          {
+            "label": "5 February 1857",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "5 February 1917",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1,972,550 km 2 (761,610 sq mi) ( 13th )",
+            "children": []
+          },
+          {
+            "label": "$3.396 trillion ( 13th )",
+            "children": []
+          },
+          {
+            "label": "$1.693 trillion ( 13th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1.58 (as of 2015)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "131,946,900 ( 10th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "126,014,024",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "61/km 2 (158.0/sq mi) ( 142nd )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$25,463 ( 77th )",
+            "children": []
+          },
+          {
+            "label": "$12,692 ( 75th )",
             "children": []
           }
         ]
@@ -88,16 +292,7 @@
         "label": "gini",
         "children": [
           {
-            "label": "40.2 [ 7 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal presidential republic [ 2 ]",
+            "label": "40.2 medium inequality",
             "children": []
           }
         ]
@@ -106,73 +301,16 @@
         "label": "hdi",
         "children": [
           {
-            "label": "0.789 [ 8 ] high ( 81st )",
+            "label": "0.789 high ( 81st )",
             "children": []
           }
         ]
       },
       {
-        "label": "info",
+        "label": "currency",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Himno Nacional Mexicano (English: Mexican National Anthem )",
-            "children": []
-          },
-          {
-            "label": "Mexico in the Western Hemisphere Mexico and its states",
-            "children": []
-          },
-          {
-            "label": "^ Article 4 of the General Law of Linguistic Rights of the Indigenous Peoples [ 9 ] [ 10 ] ^ Spanish is the de facto official language in the Mexican federal government.",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".mx",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MX",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Congress",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "national_language",
-        "children": [
-          {
-            "label": "Spanish [b]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "88.9% Christianity 77.7% Catholicism 11.2% Protestantism 8.1% Irreligion 2.4% other religion 0.5% prefer not to say",
+            "label": "Mexican peso ( MXN )",
             "children": []
           }
         ]
@@ -187,145 +325,6 @@
         ]
       },
       {
-        "label": "census",
-        "children": [
-          {
-            "label": "126,014,024 [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "131,946,900 [ 4 ] ( 10th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "Hugo Aguilar Ortiz",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "5 February 1917",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "27 September 1821",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "61/km 2 (158.0/sq mi) ( 142nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_constitution",
-        "children": [
-          {
-            "label": "4 October 1824",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Chamber of Deputies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$25,463 [ 6 ] ( 77th )",
-            "children": []
-          },
-          {
-            "label": "$12,692 [ 6 ] ( 75th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Claudia Sheinbaum",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president_of_the_chamber_of_deputies",
-        "children": [
-          {
-            "label": "Kenia López Rabadán",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president_of_the_senate",
-        "children": [
-          {
-            "label": "Laura Itzel Castillo",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "recognized",
-        "children": [
-          {
-            "label": "28 December 1836",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "second_constitution",
-        "children": [
-          {
-            "label": "5 February 1857",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "start_of_war_of_independence",
-        "children": [
-          {
-            "label": "16 September 1810",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -335,36 +334,37 @@
         ]
       },
       {
-        "label": "total",
+        "label": "date_format",
         "children": [
           {
-            "label": "1,972,550 km 2 (761,610 sq mi) ( 13th )",
-            "children": []
-          },
-          {
-            "label": "$3.396 trillion [ 6 ] ( 13th )",
-            "children": []
-          },
-          {
-            "label": "$1.693 trillion [ 6 ] ( 13th )",
+            "label": "dd/mm/yyyy",
             "children": []
           }
         ]
       },
       {
-        "label": "upper_house",
+        "label": "calling_code",
         "children": [
           {
-            "label": "Senate",
+            "label": "+52",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "1.58 (as of 2015) [ 3 ]",
+            "label": "MX",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".mx",
             "children": []
           }
         ]

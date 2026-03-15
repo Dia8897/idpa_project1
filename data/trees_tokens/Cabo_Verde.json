@@ -1,0 +1,826 @@
+{
+  "country_name": "Cabo Verde",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Unidade",
+            "children": []
+          },
+          {
+            "label": "Trabalho",
+            "children": []
+          },
+          {
+            "label": "Progresso",
+            "children": []
+          },
+          {
+            "label": "Portuguese",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Unity",
+            "children": []
+          },
+          {
+            "label": "Work",
+            "children": []
+          },
+          {
+            "label": "Progress",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Cntico",
+            "children": []
+          },
+          {
+            "label": "da",
+            "children": []
+          },
+          {
+            "label": "Liberdade",
+            "children": []
+          },
+          {
+            "label": "Portuguese",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Song",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Liberty",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Emblem",
+          "Motto: Unidade, Trabalho, Progresso (Portuguese) (English: \"Unity, Work, Progress\" )",
+          "Anthem: Cntico da Liberdade (Portuguese) (English: \"Song of Liberty\" )",
+          "Show globe Show map of Africa"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Praia",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "54",
+            "children": []
+          },
+          {
+            "label": "59",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "34",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "91639",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "50944",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "91639",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "50944",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Praia 14°54′59′′N 23°30′34′′W / 14.91639°N 23.50944°W / 14.91639; -23.50944"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Portuguese",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Portuguese"
+        ]
+      },
+      {
+        "label": "recognized_national_languages",
+        "children": [
+          {
+            "label": "Cape",
+            "children": []
+          },
+          {
+            "label": "Verdean",
+            "children": []
+          },
+          {
+            "label": "Creole",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Cape Verdean Creole"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "81",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "72",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "81.7% Christianity 72.5% Catholicism 9.2% other Christian 15.6% no religion 1.3% Islam 1.2% others"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Cape",
+            "children": []
+          },
+          {
+            "label": "Verdean",
+            "children": []
+          },
+          {
+            "label": "or",
+            "children": []
+          },
+          {
+            "label": "Cabo",
+            "children": []
+          },
+          {
+            "label": "Verdean",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Cape Verdean or Cabo Verdean"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "semi",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary semi-presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Jos",
+            "children": []
+          },
+          {
+            "label": "Maria",
+            "children": []
+          },
+          {
+            "label": "Neves",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "José Maria Neves"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Ulisses",
+            "children": []
+          },
+          {
+            "label": "Correia",
+            "children": []
+          },
+          {
+            "label": "e",
+            "children": []
+          },
+          {
+            "label": "Silva",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ulisses Correia e Silva"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "granted",
+        "children": [
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1975",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "5 July 1975"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "033",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "557",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "166th",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "717",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "170th",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "598",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "181st",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4,033 km 2 (1,557 sq mi) ( 166th )",
+          "$5.717 billion ( 170th )",
+          "$2.598 billion ( 181st )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "negligible",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "negligible"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "491",
+            "children": []
+          },
+          {
+            "label": "233",
+            "children": []
+          },
+          {
+            "label": "172nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "491,233 ( 172nd )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "130",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "336",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "89th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "130/km 2 (336.7/sq mi) ( 89th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "909",
+            "children": []
+          },
+          {
+            "label": "125th",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "502",
+            "children": []
+          },
+          {
+            "label": "117th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$9,909 ( 125th )",
+          "$4,502 ( 117th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "42.4 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "668",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "135th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.668 medium ( 135th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Cape",
+            "children": []
+          },
+          {
+            "label": "Verdean",
+            "children": []
+          },
+          {
+            "label": "escudo",
+            "children": []
+          },
+          {
+            "label": "CVE",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Cape Verdean escudo ( CVE )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "01",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "CVT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC –01:00 ( CVT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "238",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+238"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "CV",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "CV"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "cv",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".cv"
+        ]
+      }
+    ]
+  }
+}

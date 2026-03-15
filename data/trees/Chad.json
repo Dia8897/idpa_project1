@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+235",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "N'Djamena 12°06′19″N 15°02′41″E ﻿ / ﻿ 12.10528°N 15.04472°E ﻿ / 12.10528; 15.04472",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Central African CFA franc ( XAF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Chadian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "37.4 [ 9 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic under a hereditary dictatorship",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.416 [ 10 ] low ( 190th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -106,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".td",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TD",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Bicameral parliament [ 2 ]",
+            "label": "N'Djamena 12°06′19′′N 15°02′41′′E / 12.10528°N 15.04472°E / 12.10528; 15.04472",
             "children": []
           }
         ]
@@ -151,68 +52,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +01:00 ( WAT )",
+            "label": "Chadian",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "19,093,595 [ 4 ] ( 66th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "autonomy_granted",
-        "children": [
-          {
-            "label": "28 November 1958",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "colony_established",
-        "children": [
-          {
-            "label": "5 September 1900",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "14.4/km 2 (37.3/sq mi) ( 218th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$3,240 [ 6 ] ( 179th )",
-            "children": []
-          },
-          {
-            "label": "$1,210 [ 8 ] ( 183rd )",
+            "label": "Unitary semi-presidential republic under a hereditary dictatorship",
             "children": []
           }
         ]
@@ -236,27 +88,10 @@
         ]
       },
       {
-        "label": "sovereign_state",
+        "label": "legislature",
         "children": [
           {
-            "label": "11 August 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "1,280,000 [ 3 ] km 2 (490,000 sq mi) ( 20th )",
-            "children": []
-          },
-          {
-            "label": "$63.070 billion [ 5 ] ( 147th )",
-            "children": []
-          },
-          {
-            "label": "$23.560 billion [ 7 ] ( 145th )",
+            "label": "Bicameral parliament",
             "children": []
           }
         ]
@@ -271,10 +106,175 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "colony_established",
+        "children": [
+          {
+            "label": "5 September 1900",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "autonomy_granted",
+        "children": [
+          {
+            "label": "28 November 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "sovereign_state",
+        "children": [
+          {
+            "label": "11 August 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1,280,000 km 2 (490,000 sq mi) ( 20th )",
+            "children": []
+          },
+          {
+            "label": "$63.070 billion ( 147th )",
+            "children": []
+          },
+          {
+            "label": "$23.560 billion ( 145th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "1.9",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "19,093,595 ( 66th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "14.4/km 2 (37.3/sq mi) ( 218th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$3,240 ( 179th )",
+            "children": []
+          },
+          {
+            "label": "$1,210 ( 183rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "37.4 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.416 low ( 190th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Central African CFA franc ( XAF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +01:00 ( WAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+235",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "TD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".td",
             "children": []
           }
         ]

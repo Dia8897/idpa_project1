@@ -4,87 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+670",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Dili 8°33′S 125°34′E ﻿ / ﻿ 8.55°S 125.56°E ﻿ / -8.55; 125.56",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "United States dollar Timor-Leste centavo ( USD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "East Timorese Timorese Maubere (informal) [ 2 ] [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "28.7 [ 8 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.634 [ 9 ] medium ( 142nd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -106,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".tl [ a ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TL",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Parliament",
+            "label": "Dili 8°33′S 125°34′E / 8.55°S 125.56°E / -8.55; 125.56",
             "children": []
           }
         ]
@@ -160,95 +61,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +9 ( Timor-Leste Time )",
+            "label": "East Timorese Timorese Maubere (informal)",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "1,341,737 [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "1,354,662 ( 153rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "administered_by_untaet",
-        "children": [
-          {
-            "label": "25 October 1999",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "annexation_by_indonesia",
-        "children": [
-          {
-            "label": "17 July 1976",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "94/km 2 (243.5/sq mi) ( 120th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "28 November 1975",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_restored",
-        "children": [
-          {
-            "label": "20 May 2002",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$4,920 [ 7 ] ( 152nd )",
-            "children": []
-          },
-          {
-            "label": "$1,490 [ 7 ] ( 157th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "portuguese_timor",
-        "children": [
-          {
-            "label": "Early 18th century",
+            "label": "Unitary semi-presidential republic",
             "children": []
           }
         ]
@@ -272,18 +97,72 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "portuguese_timor",
+        "children": [
+          {
+            "label": "Early 18th century",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "28 November 1975",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "annexation_by_indonesia",
+        "children": [
+          {
+            "label": "17 July 1976",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "administered_by_untaet",
+        "children": [
+          {
+            "label": "25 October 1999",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_restored",
+        "children": [
+          {
+            "label": "20 May 2002",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "total",
         "children": [
           {
-            "label": "14,950 [ 5 ] km 2 (5,770 sq mi) ( 154th )",
+            "label": "14,950 km 2 (5,770 sq mi) ( 154th )",
             "children": []
           },
           {
-            "label": "$6.970 billion [ 7 ] ( 169th )",
+            "label": "$6.970 billion ( 169th )",
             "children": []
           },
           {
-            "label": "$2.120 billion [ 7 ] ( 176th )",
+            "label": "$2.120 billion ( 176th )",
             "children": []
           }
         ]
@@ -293,6 +172,127 @@
         "children": [
           {
             "label": "Negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "1,354,662 ( 153rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "1,341,737",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "94/km 2 (243.5/sq mi) ( 120th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$4,920 ( 152nd )",
+            "children": []
+          },
+          {
+            "label": "$1,490 ( 157th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "28.7 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.634 medium ( 142nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "United States dollar Timor-Leste centavo ( USD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +9 ( Timor-Leste Time )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+670",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "TL",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".tl",
             "children": []
           }
         ]

@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+972",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Jerusalem ( limited recognition ) [ fn 1 ] [ fn 2 ] 31°47′N 35°13′E ﻿ / ﻿ 31.783°N 35.217°E ﻿ / 31.783; 35.217",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "New shekel ( ₪ ) ( ILS )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Israeli",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups_est",
-        "children": [
-          {
-            "label": "71.9% Jews 21% Arabs 7.1% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "37.9 [ 21 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.919 [ 22 ] very high ( 27th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".il",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IL",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Knesset",
+            "label": "Jerusalem ( limited recognition ) [ fn 1 ] [ fn 2 ] 31°47′N 35°13′E / 31.783°N 35.217°E / 31.783; 35.217",
             "children": []
           }
         ]
@@ -145,16 +37,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Hebrew [ 9 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion_est",
-        "children": [
-          {
-            "label": "73.7% Judaism 18.3% Islam 1.9% Christianity 1.6% Druze faith 4.5% others",
+            "label": "Hebrew",
             "children": []
           }
         ]
@@ -169,77 +52,37 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "ethnic_groups_est",
         "children": [
           {
-            "label": "UTC +2:00 ( IST )",
+            "label": "71.9% Jews 21% Arabs 7.1% others",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "religion_est",
         "children": [
           {
-            "label": "9,601,720 [ 19 ] [ fn 4 ]",
+            "label": "73.7% Judaism 18.3% Islam 1.9% Christianity 1.6% Druze faith 4.5% others",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "demonyms",
         "children": [
           {
-            "label": "10,147,200 [ 18 ] ( 93rd )",
+            "label": "Israeli",
             "children": []
           }
         ]
       },
       {
-        "label": "chief_justice",
+        "label": "government",
         "children": [
           {
-            "label": "Yitzhak Amit",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "14 May 1948",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "463/km 2 (1,199.2/sq mi) ( 30th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "knesset_speaker",
-        "children": [
-          {
-            "label": "Amir Ohana",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$55,770 [ 20 ] ( 35th )",
-            "children": []
-          },
-          {
-            "label": "$60,010 [ 20 ] ( 14th )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -263,6 +106,162 @@
         ]
       },
       {
+        "label": "knesset_speaker",
+        "children": [
+          {
+            "label": "Amir Ohana",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Yitzhak Amit",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Knesset",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declaration_of_independence",
+        "children": [
+          {
+            "label": "14 May 1948",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "22,072 or 20,770 km 2 (8,522 or 8,019 sq mi) ( 148th )",
+            "children": []
+          },
+          {
+            "label": "$567.55 billion ( 48th )",
+            "children": []
+          },
+          {
+            "label": "$610.75 billion ( 26th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "2.71",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "10,147,200 ( 93rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "9,601,720 [ fn 4 ]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "463/km 2 (1,199.2/sq mi) ( 30th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$55,770 ( 35th )",
+            "children": []
+          },
+          {
+            "label": "$60,010 ( 14th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "37.9 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.919 very high ( 27th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "New shekel ( ₪ ) ( ILS )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2:00 ( IST )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "summer_dst",
         "children": [
           {
@@ -272,27 +271,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "calling_code",
         "children": [
           {
-            "label": "22,072 or 20,770 [ 15 ] [ 16 ] km 2 (8,522 or 8,019 sq mi) [ a ] ( 148th )",
-            "children": []
-          },
-          {
-            "label": "$567.55 billion [ 20 ] ( 48th )",
-            "children": []
-          },
-          {
-            "label": "$610.75 billion [ 20 ] ( 26th )",
+            "label": "+972",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "2.71 [ 17 ]",
+            "label": "IL",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".il",
             "children": []
           }
         ]

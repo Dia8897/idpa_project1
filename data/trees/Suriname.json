@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+597",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Paramaribo 5°50′N 55°10′W ﻿ / ﻿ 5.833°N 55.167°W ﻿ / 5.833; -55.167",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Surinamese dollar ( SRD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Surinamese",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "42.6% Asian Surinamese 27.4% Hindustani 13.7% Javanese 1.5% Chinese 37.4% Afro-Surinamese 21.7% Maroon 15.7% Creole 13.4% Multiracial 3.8% Indigenous 0.3% European",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary assembly-independent republic [ 8 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.722 [ 13 ] high ( 114th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".sr",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Paramaribo 5°50′N 55°10′W / 5.833°N 55.167°W / 5.833; -55.167",
             "children": []
           }
         ]
@@ -151,6 +43,15 @@
         ]
       },
       {
+        "label": "recognised_regional_languages",
+        "children": [
+          {
+            "label": "8 indigenous languages Akurio Arawak-Lokono Carib-Kari'nja Sikiana-Kashuyana Tiro-Tiriyó Waiwai Warao Wayana",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "other_languages",
         "children": [
           {
@@ -160,10 +61,10 @@
         ]
       },
       {
-        "label": "recognised_regional_languages",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "8 indigenous languages Akurio Arawak-Lokono Carib-Kari'nja Sikiana-Kashuyana Tiro-Tiriyó Waiwai Warao Wayana",
+            "label": "42.6% Asian Surinamese 27.4% Hindustani 13.7% Javanese 1.5% Chinese 37.4% Afro-Surinamese 21.7% Maroon 15.7% Creole 13.4% Multiracial 3.8% Indigenous 0.3% European",
             "children": []
           }
         ]
@@ -178,77 +79,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC -03:00 ( SRT )",
+            "label": "Surinamese",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "632,638 [ 10 ] [ 11 ] ( 170th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constituent_country_within_the_kingdom_of_the_netherlands",
-        "children": [
-          {
-            "label": "15 December 1954",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "3.9/km 2 (10.1/sq mi) ( 231st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "high_court_of_justice_president",
-        "children": [
-          {
-            "label": "Iwan Rasoelbaks (acting)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_kingdom_of_the_netherlands",
-        "children": [
-          {
-            "label": "25 November 1975",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "national_assembly_chairman",
-        "children": [
-          {
-            "label": "Ashwin Adhin",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$22,439 [ 12 ] ( 91st )",
-            "children": []
-          },
-          {
-            "label": "$6,858 [ 12 ] ( 106th )",
+            "label": "Unitary assembly-independent republic",
             "children": []
           }
         ]
@@ -263,23 +106,6 @@
         ]
       },
       {
-        "label": "total",
-        "children": [
-          {
-            "label": "165,940 [ 9 ] km 2 (64,070 sq mi) ( 90th )",
-            "children": []
-          },
-          {
-            "label": "$14.743 billion [ 12 ] ( 160th )",
-            "children": []
-          },
-          {
-            "label": "$4.506 billion [ 12 ] ( 173rd )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "vice_president",
         "children": [
           {
@@ -289,10 +115,184 @@
         ]
       },
       {
+        "label": "national_assembly_chairman",
+        "children": [
+          {
+            "label": "Ashwin Adhin",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "high_court_of_justice_president",
+        "children": [
+          {
+            "label": "Iwan Rasoelbaks (acting)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constituent_country_within_the_kingdom_of_the_netherlands",
+        "children": [
+          {
+            "label": "15 December 1954",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_the_kingdom_of_the_netherlands",
+        "children": [
+          {
+            "label": "25 November 1975",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "165,940 km 2 (64,070 sq mi) ( 90th )",
+            "children": []
+          },
+          {
+            "label": "$14.743 billion ( 160th )",
+            "children": []
+          },
+          {
+            "label": "$4.506 billion ( 173rd )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "1.1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "632,638 ( 170th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "3.9/km 2 (10.1/sq mi) ( 231st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$22,439 ( 91st )",
+            "children": []
+          },
+          {
+            "label": "$6,858 ( 106th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.722 high ( 114th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Surinamese dollar ( SRD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC -03:00 ( SRT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+597",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SR",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".sr",
             "children": []
           }
         ]

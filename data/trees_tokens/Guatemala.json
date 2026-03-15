@@ -1,0 +1,995 @@
+{
+  "country_name": "Guatemala",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Libre",
+            "children": []
+          },
+          {
+            "label": "crezca",
+            "children": []
+          },
+          {
+            "label": "fecundo",
+            "children": []
+          },
+          {
+            "label": "Spanish",
+            "children": []
+          },
+          {
+            "label": "Grow",
+            "children": []
+          },
+          {
+            "label": "Free",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Fecund",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Himno",
+            "children": []
+          },
+          {
+            "label": "Nacional",
+            "children": []
+          },
+          {
+            "label": "de",
+            "children": []
+          },
+          {
+            "label": "Guatemala",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Guatemala",
+            "children": []
+          },
+          {
+            "label": "March",
+            "children": []
+          },
+          {
+            "label": "La",
+            "children": []
+          },
+          {
+            "label": "Granadera",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "The",
+            "children": []
+          },
+          {
+            "label": "Grenadier",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Western",
+            "children": []
+          },
+          {
+            "label": "Hemisphere",
+            "children": []
+          },
+          {
+            "label": "Guatemala",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "its",
+            "children": []
+          },
+          {
+            "label": "neighbors",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: Libre crezca fecundo (Spanish) \"Grow Free and Fecund\"",
+          "Anthem: Himno Nacional de Guatemala (English: \"National Anthem of Guatemala\" )",
+          "March: La Granadera (English: \"The Grenadier\" )",
+          "Location in the Western Hemisphere Guatemala and its neighbors"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Guatemala",
+            "children": []
+          },
+          {
+            "label": "City",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "38",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "90",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "633",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "90",
+            "children": []
+          },
+          {
+            "label": "500",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "633",
+            "children": []
+          },
+          {
+            "label": "90",
+            "children": []
+          },
+          {
+            "label": "500",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Guatemala City 14°38′N 90°30′W / 14.633°N 90.500°W / 14.633; -90.500"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Spanish",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Spanish"
+        ]
+      },
+      {
+        "label": "recognised_national_languages",
+        "children": [
+          {
+            "label": "Mayan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mayan"
+        ]
+      },
+      {
+        "label": "recognised_regional_languages",
+        "children": [
+          {
+            "label": "Garifuna",
+            "children": []
+          },
+          {
+            "label": "Xinca",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Garifuna Xinca"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "56",
+            "children": []
+          },
+          {
+            "label": "01",
+            "children": []
+          },
+          {
+            "label": "Ladino",
+            "children": []
+          },
+          {
+            "label": "mixed",
+            "children": []
+          },
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "66",
+            "children": []
+          },
+          {
+            "label": "Maya",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "77",
+            "children": []
+          },
+          {
+            "label": "Xinca",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "19",
+            "children": []
+          },
+          {
+            "label": "Black",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "Garifuna",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "Other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "56.01% Ladino (mixed) 41.66% Maya 1.77% Xinca 0.19% Black 0.13% Garifuna 0.24% Other"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "88",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "45",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "88.1% Christianity 45.7% Protestantism 42.4% Catholicism 11% no religion 0.9% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Guatemalan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Guatemalan"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Bernardo",
+            "children": []
+          },
+          {
+            "label": "Ar",
+            "children": []
+          },
+          {
+            "label": "valo",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bernardo Arévalo"
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Karin",
+            "children": []
+          },
+          {
+            "label": "Herrera",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Karin Herrera"
+        ]
+      },
+      {
+        "label": "president_of_the_congress",
+        "children": [
+          {
+            "label": "Luis",
+            "children": []
+          },
+          {
+            "label": "Contreras",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Luis Contreras"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Congress",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Congress of the Republic"
+        ]
+      },
+      {
+        "label": "declared_from_the_spanish_empire",
+        "children": [
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1821",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "15 September 1821"
+        ]
+      },
+      {
+        "label": "declared_from_the_first_mexican_empire",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1823",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 July 1823"
+        ]
+      },
+      {
+        "label": "declared_from_the_federal_republic_of_central_america",
+        "children": [
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "1839",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "17 April 1839"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1993",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "17 November 1993"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "108",
+            "children": []
+          },
+          {
+            "label": "889",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "42",
+            "children": []
+          },
+          {
+            "label": "042",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "105th",
+            "children": []
+          },
+          {
+            "label": "278",
+            "children": []
+          },
+          {
+            "label": "508",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "77th",
+            "children": []
+          },
+          {
+            "label": "120",
+            "children": []
+          },
+          {
+            "label": "964",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "70th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "108,889 km 2 (42,042 sq mi) ( 105th )",
+          "$278.508 billion ( 77th )",
+          "$120.964 billion ( 70th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.4"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "255",
+            "children": []
+          },
+          {
+            "label": "216",
+            "children": []
+          },
+          {
+            "label": "70th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "18,255,216 ( 70th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "166",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "429",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "76th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "166/km 2 (429.9/sq mi) ( 76th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "386",
+            "children": []
+          },
+          {
+            "label": "121nd",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "682",
+            "children": []
+          },
+          {
+            "label": "108th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$15,386 ( 121nd )",
+          "$6,682 ( 108th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "45",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "45.2 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "662",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "137th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.662 medium ( 137th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Quetzal",
+            "children": []
+          },
+          {
+            "label": "GTQ",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Quetzal ( GTQ )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "CST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC −6 ( CST )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "502",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+502"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "GT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "GT"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "gt",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".gt"
+        ]
+      }
+    ]
+  }
+}

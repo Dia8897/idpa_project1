@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+377",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Monaco ( city-state ) 43°43′52″N 07°25′12″E ﻿ / ﻿ 43.73111°N 7.42000°E ﻿ / 43.73111; 7.42000",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "common_languages",
-        "children": [
-          {
-            "label": "Italian Monégasque Ligurian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Monégasque [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "Monégasques French Italians Occitans",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary semi- constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -119,19 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".mc",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MC",
+            "label": "Monaco ( city-state ) 43°43′52′′N 07°25′12′′E / 43.73111°N 7.42000°E / 43.73111; 7.42000",
             "children": []
           }
         ]
@@ -146,19 +47,28 @@
         ]
       },
       {
-        "label": "legislature",
+        "label": "official_languages",
         "children": [
           {
-            "label": "National Council",
+            "label": "French ( Meridional )",
             "children": []
           }
         ]
       },
       {
-        "label": "official_languages",
+        "label": "common_languages",
         "children": [
           {
-            "label": "French [ 1 ] ( Meridional )",
+            "label": "Italian Monégasque Ligurian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "Monégasques French Italians Occitans",
             "children": []
           }
         ]
@@ -167,88 +77,25 @@
         "label": "religion",
         "children": [
           {
-            "label": "86.0% Christianity 80.9% Catholicism ( official ) [ 2 ] 5.1% other Christian 11.7% no religion 1.7% Judaism 0.4% Islam 0.2% other [ 3 ]",
+            "label": "86.0% Christianity 80.9% Catholicism ( official ) 5.1% other Christian 11.7% no religion 1.7% Judaism 0.4% Islam 0.2% other",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( CET )",
+            "label": "Monégasque",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "38,423 [ 7 ] ( 190th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution",
-        "children": [
-          {
-            "label": "5 January 1911",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "18,446/km 2 (47,774.9/sq mi) ( 1st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "francomonegasque_treaty",
-        "children": [
-          {
-            "label": "11 February 1861",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_occupation_of_the_sixth_coalition",
-        "children": [
-          {
-            "label": "17 June 1814",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_the_french_empire",
-        "children": [
-          {
-            "label": "17 May 1814",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "house_of_grimaldi_under_the_sovereignty_of_the_republic_of_genoa",
-        "children": [
-          {
-            "label": "8 January 1297",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "minister_of_state",
-        "children": [
-          {
-            "label": "Christophe Mirmand",
+            "label": "Unitary parliamentary semi- constitutional monarchy",
             "children": []
           }
         ]
@@ -263,14 +110,157 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "minister_of_state",
         "children": [
           {
-            "label": "$270,100 [ 8 ]",
+            "label": "Christophe Mirmand",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Council",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "house_of_grimaldi_under_the_sovereignty_of_the_republic_of_genoa",
+        "children": [
+          {
+            "label": "8 January 1297",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "from_the_french_empire",
+        "children": [
+          {
+            "label": "17 May 1814",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "from_occupation_of_the_sixth_coalition",
+        "children": [
+          {
+            "label": "17 June 1814",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "francomonegasque_treaty",
+        "children": [
+          {
+            "label": "11 February 1861",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution",
+        "children": [
+          {
+            "label": "5 January 1911",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "2.084 km 2 (0.805 sq mi) ( 194th )",
             "children": []
           },
           {
-            "label": "$315,800 [ 8 ]",
+            "label": "$8.924 billion ( 165th )",
+            "children": []
+          },
+          {
+            "label": "$10.434 billion",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "38,423 ( 190th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "18,446/km 2 (47,774.9/sq mi) ( 1st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$270,100",
+            "children": []
+          },
+          {
+            "label": "$315,800",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Euro ( € ) ( EUR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
             "children": []
           }
         ]
@@ -285,27 +275,37 @@
         ]
       },
       {
-        "label": "total",
+        "label": "date_format",
         "children": [
           {
-            "label": "2.084 [ 5 ] km 2 (0.805 sq mi) ( 194th )",
-            "children": []
-          },
-          {
-            "label": "$8.924 billion [ 8 ] ( 165th )",
-            "children": []
-          },
-          {
-            "label": "$10.434 billion [ 8 ]",
+            "label": "dd/mm/yyyy",
             "children": []
           }
         ]
       },
       {
-        "label": "water",
+        "label": "calling_code",
         "children": [
           {
-            "label": "negligible [ 6 ]",
+            "label": "+377",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "MC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".mc",
             "children": []
           }
         ]

@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+58",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Caracas 10°30′22″N 66°54′52″W ﻿ / ﻿ 10.50611°N 66.91444°W ﻿ / 10.50611; -66.91444",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Venezuelan bolívar (VED) (official)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy ( CE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Venezuelan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "51.6% Moreno 43.6% White 3.6% Black 1.2% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "44.8 [ 25 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal presidential republic under an authoritarian [ a ] dictatorship [ b ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.709 [ 26 ] high ( 121st )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -128,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ve",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "VE",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Caracas 10°30′22′′N 66°54′52′′W / 10.50611°N 66.91444°W / 10.50611; -66.91444",
             "children": []
           }
         ]
@@ -158,7 +41,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Spanish [b]",
+            "label": "Spanish",
             "children": []
           }
         ]
@@ -167,7 +50,16 @@
         "label": "recognized_regional_languages",
         "children": [
           {
-            "label": "26 languages Piapoco Baniwa Locono Wayúu Warao Pemón Panare Yek'uana Yukpa Carib Akawaio Japrería Mapoyo Yawarana Hodï Puinave Jivi Barí Uruak Sapé Pumé Piaroa Yanomamö Sanemá Yanam Yeral",
+            "label": "26 languages Piapoco Baniwa Locono Wayu Warao Pemn Panare Yek'uana Yukpa Carib Akawaio Japrera Mapoyo Yawarana Hod Puinave Jivi Bar Uruak Sap Pum Piaroa Yanomam Sanem Yanam Yeral",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "51.6% Moreno 43.6% White 3.6% Black 1.2% other",
             "children": []
           }
         ]
@@ -182,68 +74,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −04:00 ( VET )",
+            "label": "Venezuelan",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "31,800,000 [ 23 ] [ verification needed ] ( 53rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "20 December 1999 [ 21 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "5 July 1811",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "32/km 2 (82.9/sq mi) ( 184th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_gran_colombia",
-        "children": [
-          {
-            "label": "13 January 1830",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$8,790 [ 24 ] ( 133rd )",
-            "children": []
-          },
-          {
-            "label": "$3,100 [ 24 ] ( 127th )",
+            "label": "Federal presidential republic under an authoritarian dictatorship",
             "children": []
           }
         ]
@@ -252,33 +95,7 @@
         "label": "president",
         "children": [
           {
-            "label": "Delcy Rodríguez (acting) Nicolás Maduro (de jure) [ c ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "recognized",
-        "children": [
-          {
-            "label": "29 March 1845",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "916,445 [ 22 ] km 2 (353,841 sq mi) ( 32nd )",
-            "children": []
-          },
-          {
-            "label": "$234.340 billion [ 24 ] ( 77th )",
-            "children": []
-          },
-          {
-            "label": "$82.770 billion [ 24 ] ( 69th )",
+            "label": "Delcy Rodríguez (acting) Nicolás Maduro (de jure)",
             "children": []
           }
         ]
@@ -293,10 +110,193 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "5 July 1811",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "from_gran_colombia",
+        "children": [
+          {
+            "label": "13 January 1830",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "29 March 1845",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "20 December 1999",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "916,445 km 2 (353,841 sq mi) ( 32nd )",
+            "children": []
+          },
+          {
+            "label": "$234.340 billion ( 77th )",
+            "children": []
+          },
+          {
+            "label": "$82.770 billion ( 69th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
-            "label": "3.2% [d]",
+            "label": "3.2%",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "31,800,000 [ verification needed ] ( 53rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "32/km 2 (82.9/sq mi) ( 184th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$8,790 ( 133rd )",
+            "children": []
+          },
+          {
+            "label": "$3,100 ( 127th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "44.8 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.709 high ( 121st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Venezuelan bolívar (VED) (official)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −04:00 ( VET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy ( CE )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+58",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "VE",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ve",
             "children": []
           }
         ]

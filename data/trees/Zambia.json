@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+260",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Lusaka 15°25′S 28°17′E ﻿ / ﻿ 15.417°S 28.283°E ﻿ / -15.417; 28.283",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Zambian kwacha ( ZMW )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Zambian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "List 19.0% Bemba 13.6% Tonga 7.5% Tumbuka 6.0% Chewa 5.7% Lozi 5.3% Nsenga 3.0% Ngoni 3.1% Lala 3.9% Kaonde 2.8% Namwanga 2.6% Lunda (Northern) 2.5% Mambwe 2.2% Luvale 2.4% Lamba 1.9% Ushi 1.6% Bisa 1.6% Lenje 1.2% Mbunda 0.9% Lunda (Luapula) 0.9% Senga 0.8% Ila 0.8% Lungu 0.7% Tabwa 0.7% Soli 0.7% Kunda 0.6% Ngumbo 0.5% Chishinga 0.5% Chokwe 0.5% Nkoya 5.4% other ethnics 0.8% major racial [ a ] 0.4% unclassified",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "51.5 [ 7 ] high inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.595 [ 8 ] medium ( 154th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -128,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".zm",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ZM",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly of Zambia",
+            "label": "Lusaka 15°25′S 28°17′E / 15.417°S 28.283°E / -15.417; 28.283",
             "children": []
           }
         ]
@@ -173,6 +56,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "List 19.0% Bemba 13.6% Tonga 7.5% Tumbuka 6.0% Chewa 5.7% Lozi 5.3% Nsenga 3.0% Ngoni 3.1% Lala 3.9% Kaonde 2.8% Namwanga 2.6% Lunda (Northern) 2.5% Mambwe 2.2% Luvale 2.4% Lamba 1.9% Ushi 1.6% Bisa 1.6% Lenje 1.2% Mbunda 0.9% Lunda (Luapula) 0.9% Senga 0.8% Ila 0.8% Lungu 0.7% Tabwa 0.7% Soli 0.7% Kunda 0.6% Ngumbo 0.5% Chishinga 0.5% Chokwe 0.5% Nkoya 5.4% other ethnics 0.8% major racial 0.4% unclassified",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -182,59 +74,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +2 ( CAT )",
+            "label": "Zambian",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "20,216,029 [ 5 ] ( 64th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "Mumba Malila",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "24 October 1964",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "17.2/km 2 (44.5/sq mi) ( 191st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$4,068 [ 6 ] ( 155th )",
-            "children": []
-          },
-          {
-            "label": "$1,435 [ 6 ] ( 159th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -249,32 +101,6 @@
         ]
       },
       {
-        "label": "speaker",
-        "children": [
-          {
-            "label": "Nelly Mutti",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "752,617 km 2 (290,587 sq mi) [ 4 ] ( 38th )",
-            "children": []
-          },
-          {
-            "label": "$83.687 billion [ 6 ] ( 100th )",
-            "children": []
-          },
-          {
-            "label": "$29.536 billion [ 6 ] ( 113th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "vicepresident",
         "children": [
           {
@@ -284,10 +110,184 @@
         ]
       },
       {
+        "label": "speaker",
+        "children": [
+          {
+            "label": "Nelly Mutti",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Mumba Malila",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly of Zambia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "24 October 1964",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "752,617 km 2 (290,587 sq mi) ( 38th )",
+            "children": []
+          },
+          {
+            "label": "$83.687 billion ( 100th )",
+            "children": []
+          },
+          {
+            "label": "$29.536 billion ( 113th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "20,216,029 ( 64th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "17.2/km 2 (44.5/sq mi) ( 191st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$4,068 ( 155th )",
+            "children": []
+          },
+          {
+            "label": "$1,435 ( 159th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "51.5 high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.595 medium ( 154th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Zambian kwacha ( ZMW )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( CAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+260",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "ZM",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".zm",
             "children": []
           }
         ]

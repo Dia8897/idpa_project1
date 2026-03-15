@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+992",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Dushanbe 38°33′N 68°48′E ﻿ / ﻿ 38.550°N 68.800°E ﻿ / 38.550; 68.800",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Somoni ( TJS )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Tajikistani Tajik [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "86.1% Tajiks 11.3% Uzbeks 0.4% Kyrgyz 0.3% Russians 1.9% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "34 [ 16 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic [ b ] under an authoritarian dictatorship [ 9 ] [ 10 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.691 [ 17 ] medium ( 128th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -124,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".tj",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TJ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Supreme Assembly",
+            "label": "Dushanbe 38°33′N 68°48′E / 38.550°N 68.800°E / 38.550; 68.800",
             "children": []
           }
         ]
@@ -154,7 +37,16 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Tajik Russian [ a ]",
+            "label": "Tajik Russian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "86.1% Tajiks 11.3% Uzbeks 0.4% Kyrgyz 0.3% Russians 1.9% other",
             "children": []
           }
         ]
@@ -169,59 +61,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +5 ( TJT )",
+            "label": "Tajikistani Tajik",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "10,786,734 [ 14 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "9 September 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "75.4/km 2 (195.3/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Assembly of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$5,832 [ 15 ] ( 145th )",
-            "children": []
-          },
-          {
-            "label": "$1,176 [ 15 ] ( 163rd )",
+            "label": "Unitary presidential republic under an authoritarian dictatorship",
             "children": []
           }
         ]
@@ -245,6 +97,42 @@
         ]
       },
       {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Supreme Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Assembly of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "9 September 1991",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "recognised",
         "children": [
           {
@@ -257,24 +145,15 @@
         "label": "total",
         "children": [
           {
-            "label": "143,100 [ 11 ] [ 12 ] [ 13 ] km 2 (55,300 sq mi) ( 94th )",
+            "label": "143,100 km 2 (55,300 sq mi) ( 94th )",
             "children": []
           },
           {
-            "label": "$59.415 billion [ 15 ] ( 119th )",
+            "label": "$59.415 billion ( 119th )",
             "children": []
           },
           {
-            "label": "$12.953 billion [ 15 ] ( 141st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "$12.953 billion ( 141st )",
             "children": []
           }
         ]
@@ -293,6 +172,127 @@
         "children": [
           {
             "label": "1.8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "10,786,734",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "75.4/km 2 (195.3/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$5,832 ( 145th )",
+            "children": []
+          },
+          {
+            "label": "$1,176 ( 163rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "34 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.691 medium ( 128th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Somoni ( TJS )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +5 ( TJT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd.mm.yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+992",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "TJ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".tj",
             "children": []
           }
         ]

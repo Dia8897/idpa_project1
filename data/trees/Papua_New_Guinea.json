@@ -4,10 +4,22 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+675",
+            "label": "Flag Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto: ' Unity in diversity ' : 52",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" O Arise, All You Sons \"",
+            "children": []
+          },
+          {
+            "label": "Location of Papua New Guinea (green)",
             "children": []
           }
         ]
@@ -16,16 +28,34 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Port Moresby 09°28′44″S 147°08′58″E ﻿ / ﻿ 9.47889°S 147.14944°E ﻿ / -9.47889; 147.14944",
+            "label": "Port Moresby 09°28′44′′S 147°08′58′′E / 9.47889°S 147.14944°E / -9.47889; 147.14944",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "official_languages",
         "children": [
           {
-            "label": "Kina ( PGK )",
+            "label": "English Hiri Motu PNG Sign Language Tok Pisin",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "indigenous_languages",
+        "children": [
+          {
+            "label": "839 languages",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "95.5% Christianity ( official ) 64.3% Protestantism 26.0% Catholicism 5.2% other Christian 3.1% unspecified 1.4% others or none",
             "children": []
           }
         ]
@@ -40,10 +70,139 @@
         ]
       },
       {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary parliamentary constitutional monarchy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "monarch",
+        "children": [
+          {
+            "label": "Charles III",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "governorgeneral",
+        "children": [
+          {
+            "label": "Bob Dadae",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "James Marape",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "administrative_union",
+        "children": [
+          {
+            "label": "1 July 1949",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence",
+        "children": [
+          {
+            "label": "16 September 1975",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "462,840 km 2 (178,700 sq mi) ( 54th )",
+            "children": []
+          },
+          {
+            "label": "$41.810 billion ( 135th )",
+            "children": []
+          },
+          {
+            "label": "$32.840 billion ( 108th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "2.2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "11,781,559 ( 82nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "10,185,363",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "25.5/km 2 (66.0/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$3,760 ( 162th )",
+            "children": []
+          },
+          {
+            "label": "$2,560 ( 142th )",
             "children": []
           }
         ]
@@ -61,16 +220,7 @@
         "label": "gini",
         "children": [
           {
-            "label": "41.9 [ 11 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
+            "label": "41.9 medium inequality",
             "children": []
           }
         ]
@@ -79,82 +229,16 @@
         "label": "hdi",
         "children": [
           {
-            "label": "0.576 [ 12 ] medium ( 160th )",
+            "label": "0.576 medium ( 160th )",
             "children": []
           }
         ]
       },
       {
-        "label": "indigenous_languages",
+        "label": "currency",
         "children": [
           {
-            "label": "839 languages [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto: ' Unity in diversity ' [ 1 ] : 52",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" O Arise, All You Sons \" [ 2 ] [ 3 ]",
-            "children": []
-          },
-          {
-            "label": "Location of Papua New Guinea (green)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".pg",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "English Hiri Motu PNG Sign Language Tok Pisin [ 3 ] [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "95.5% Christianity ( official ) [ 7 ] 64.3% Protestantism 26.0% Catholicism 5.2% other Christian 3.1% unspecified 1.4% others or none",
+            "label": "Kina ( PGK )",
             "children": []
           }
         ]
@@ -169,112 +253,28 @@
         ]
       },
       {
-        "label": "estimate",
+        "label": "calling_code",
         "children": [
           {
-            "label": "11,781,559 [ 8 ] ( 82nd )",
+            "label": "+675",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "10,185,363 [ 9 ]",
+            "label": "PG",
             "children": []
           }
         ]
       },
       {
-        "label": "administrative_union",
+        "label": "internet_tld",
         "children": [
           {
-            "label": "1 July 1949",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "25.5/km 2 (66.0/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "governorgeneral",
-        "children": [
-          {
-            "label": "Bob Dadae",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "16 September 1975",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "monarch",
-        "children": [
-          {
-            "label": "Charles III",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$3,760 [ 10 ] ( 162th )",
-            "children": []
-          },
-          {
-            "label": "$2,560 [ 10 ] ( 142th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "James Marape",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "462,840 km 2 (178,700 sq mi) ( 54th )",
-            "children": []
-          },
-          {
-            "label": "$41.810 billion [ 10 ] ( 135th )",
-            "children": []
-          },
-          {
-            "label": "$32.840 billion [ 10 ] ( 108th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "water",
-        "children": [
-          {
-            "label": "2.2",
+            "label": ".pg",
             "children": []
           }
         ]

@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+375",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Minsk 53°55′N 27°33′E ﻿ / ﻿ 53.917°N 27.550°E ﻿ / 53.917; 27.550",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Belarusian ruble ( BYN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Belarusian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "84.9% Belarusians 7.5% Russians 3.1% Poles 1.7% Ukrainians 2.8% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "25.3 [ 12 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic under an authoritarian dictatorship [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.824 [ 13 ] very high ( 65th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -114,7 +15,7 @@
             "children": []
           },
           {
-            "label": "Show globe Show map of Europe Location of Belarus (green) in Europe (dark grey) – [ Legend ]",
+            "label": "Show globe Show map of Europe Location of Belarus (green) in Europe (dark grey) –",
             "children": []
           },
           {
@@ -124,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".by .бел [ 15 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Minsk 53°55′N 27°33′E / 53.917°N 27.550°E / 53.917; 27.550",
             "children": []
           }
         ]
@@ -160,24 +43,6 @@
         ]
       },
       {
-        "label": "religion",
-        "children": [
-          {
-            "label": "91.0% Christianity 83.3% Eastern Orthodoxy 7.7% other Christian 7.8% no religion 1.2% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( MSK [ 14 ] )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "widely_used_minority_languages",
         "children": [
           {
@@ -187,10 +52,91 @@
         ]
       },
       {
-        "label": "estimate",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "9,109,280 [ 10 ] ( 98th )",
+            "label": "84.9% Belarusians 7.5% Russians 3.1% Poles 1.7% Ukrainians 2.8% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "91.0% Christianity 83.3% Eastern Orthodoxy 7.7% other Christian 7.8% no religion 1.2% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Belarusian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary semi-presidential republic under an authoritarian dictatorship",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Alexander Lukashenko",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Alexander Turchin",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Council of the Republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kievan_rus",
+        "children": [
+          {
+            "label": "882",
             "children": []
           }
         ]
@@ -214,28 +160,10 @@
         ]
       },
       {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "15 March 1994",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "declaration_of_independence",
         "children": [
           {
             "label": "25 August 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "43.9/km 2 (113.7/sq mi)",
             "children": []
           }
         ]
@@ -250,50 +178,10 @@
         ]
       },
       {
-        "label": "kievan_rus",
+        "label": "current_constitution",
         "children": [
           {
-            "label": "882",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$24,016 [ 11 ] ( 71st )",
-            "children": []
-          },
-          {
-            "label": "$7,477 [ 11 ] ( 82nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Alexander Lukashenko [ a ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Alexander Turchin",
+            "label": "15 March 1994",
             "children": []
           }
         ]
@@ -302,24 +190,15 @@
         "label": "total",
         "children": [
           {
-            "label": "207,600 [ 9 ] km 2 (80,200 sq mi) ( 84th )",
+            "label": "207,600 km 2 (80,200 sq mi) ( 84th )",
             "children": []
           },
           {
-            "label": "$221.186 billion [ 11 ] ( 73rd )",
+            "label": "$221.186 billion ( 73rd )",
             "children": []
           },
           {
-            "label": "$68.864 billion [ 11 ] ( 74th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "Council of the Republic",
+            "label": "$68.864 billion ( 74th )",
             "children": []
           }
         ]
@@ -328,7 +207,128 @@
         "label": "water",
         "children": [
           {
-            "label": "2.26% (4.700 km 2 or 1.815 sq mi) [ 9 ]",
+            "label": "2.26% (4.700 km 2 or 1.815 sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "9,109,280 ( 98th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "43.9/km 2 (113.7/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$24,016 ( 71st )",
+            "children": []
+          },
+          {
+            "label": "$7,477 ( 82nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "25.3 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.824 very high ( 65th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Belarusian ruble ( BYN )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +3 ( MSK )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd.mm.yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+375",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BY",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".by .бел",
             "children": []
           }
         ]

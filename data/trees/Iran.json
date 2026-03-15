@@ -4,10 +4,22 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+98",
+            "label": "Flag Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto: Allhu Akbar ( Takbir ) \" God is the Greatest\" ( de jure ) ϡ Esteqll, zdi, Jomhuri-ye Eslmi \"Independence, freedom, the Islamic Republic\" ( de facto )",
+            "children": []
+          },
+          {
+            "label": "Anthem: Mehr-e Khvarn \"Eastern Sun\"",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Iran",
             "children": []
           }
         ]
@@ -16,16 +28,16 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Tehran 35°41′N 51°25′E ﻿ / ﻿ 35.683°N 51.417°E ﻿ / 35.683; 51.417",
+            "label": "Tehran 35°41′N 51°25′E / 35.683°N 51.417°E / 35.683; 51.417",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "official_languages",
         "children": [
           {
-            "label": "Iranian rial ( ریال ) ( IRR )",
+            "label": "Persian",
             "children": []
           }
         ]
@@ -40,10 +52,256 @@
         ]
       },
       {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary presidential theocratic Islamic republic under an authoritarian dictatorship",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "supreme_leader",
+        "children": [
+          {
+            "label": "Mojtaba Khamenei",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Masoud Pezeshkian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Mohammad Reza Aref",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "speaker_of_the_assembly",
+        "children": [
+          {
+            "label": "Mohammad Bagher Ghalibaf",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Gholam-Hossein Mohseni-Eje'i",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Islamic Consultative Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "median_kingdom",
+        "children": [
+          {
+            "label": "c. 678 BC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "achaemenid_empire",
+        "children": [
+          {
+            "label": "550 BC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "parthian_empire",
+        "children": [
+          {
+            "label": "247 BC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "sasanian_empire",
+        "children": [
+          {
+            "label": "224 AD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iranian_intermezzo",
+        "children": [
+          {
+            "label": "821",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "safavid_iran",
+        "children": [
+          {
+            "label": "22 December 1501",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "afsharid_iran",
+        "children": [
+          {
+            "label": "22 January 1736",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "zand_iran",
+        "children": [
+          {
+            "label": "1751",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "qajar_iran",
+        "children": [
+          {
+            "label": "20 March 1794",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitutional_revolution",
+        "children": [
+          {
+            "label": "12 December 1905",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "pahlavi_iran",
+        "children": [
+          {
+            "label": "15 December 1925",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iranian_revolution",
+        "children": [
+          {
+            "label": "11 February 1979",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "3 December 1979",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution_amendment",
+        "children": [
+          {
+            "label": "28 July 1989",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1,648,195 km 2 (636,372 sq mi) ( 17th )",
+            "children": []
+          },
+          {
+            "label": "$1.879 trillion ( 22nd )",
+            "children": []
+          },
+          {
+            "label": "$356.513 billion ( 42nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1.63 (as of 2015)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "92,417,681 ( 17th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "52/km 2 (134.7/sq mi) ( 163rd )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$21,473 ( 88th )",
+            "children": []
+          },
+          {
+            "label": "$4,074 ( 132nd )",
             "children": []
           }
         ]
@@ -61,16 +319,7 @@
         "label": "gini",
         "children": [
           {
-            "label": "35.9 [ 5 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential theocratic Islamic republic under an authoritarian dictatorship [ a ]",
+            "label": "35.9 medium inequality",
             "children": []
           }
         ]
@@ -79,64 +328,16 @@
         "label": "hdi",
         "children": [
           {
-            "label": "0.799 [ 6 ] high ( 75th )",
+            "label": "0.799 high ( 75th )",
             "children": []
           }
         ]
       },
       {
-        "label": "info",
+        "label": "currency",
         "children": [
           {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto: اَللَّٰهُ أَكْبَرُ Allāhu ʾAkbar ( Takbir ) \" God is the Greatest\" ( de jure ) استقلال، آزادی، جمهوری اسلامی Esteqlâl, Âzâdi, Jomhuri-ye Eslâmi \"Independence, freedom, the Islamic Republic\" ( de facto ) [ 1 ]",
-            "children": []
-          },
-          {
-            "label": "Anthem: مهر خاوران Mehr-e Khâvarân \"Eastern Sun\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Iran",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ir ایران.",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Islamic Consultative Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Persian",
+            "label": "Iranian rial ( ریال ) ( IRR )",
             "children": []
           }
         ]
@@ -151,229 +352,28 @@
         ]
       },
       {
-        "label": "estimate",
+        "label": "calling_code",
         "children": [
           {
-            "label": "92,417,681 [ 3 ] ( 17th )",
+            "label": "+98",
             "children": []
           }
         ]
       },
       {
-        "label": "achaemenid_empire",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "550 BC",
+            "label": "IR",
             "children": []
           }
         ]
       },
       {
-        "label": "afsharid_iran",
+        "label": "internet_tld",
         "children": [
           {
-            "label": "22 January 1736",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "Gholam-Hossein Mohseni-Eje'i",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution_amendment",
-        "children": [
-          {
-            "label": "28 July 1989",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitutional_revolution",
-        "children": [
-          {
-            "label": "12 December 1905",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "3 December 1979",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "52/km 2 (134.7/sq mi) ( 163rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iranian_intermezzo",
-        "children": [
-          {
-            "label": "821",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iranian_revolution",
-        "children": [
-          {
-            "label": "11 February 1979",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "median_kingdom",
-        "children": [
-          {
-            "label": "c. 678 BC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "pahlavi_iran",
-        "children": [
-          {
-            "label": "15 December 1925",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "parthian_empire",
-        "children": [
-          {
-            "label": "247 BC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$21,473 [ 4 ] ( 88th )",
-            "children": []
-          },
-          {
-            "label": "$4,074 [ 4 ] ( 132nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Masoud Pezeshkian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "qajar_iran",
-        "children": [
-          {
-            "label": "20 March 1794",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "safavid_iran",
-        "children": [
-          {
-            "label": "22 December 1501",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "sasanian_empire",
-        "children": [
-          {
-            "label": "224 AD",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "speaker_of_the_assembly",
-        "children": [
-          {
-            "label": "Mohammad Bagher Ghalibaf",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "supreme_leader",
-        "children": [
-          {
-            "label": "Mojtaba Khamenei",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "1,648,195 km 2 (636,372 sq mi) ( 17th )",
-            "children": []
-          },
-          {
-            "label": "$1.879 trillion [ 4 ] ( 22nd )",
-            "children": []
-          },
-          {
-            "label": "$356.513 billion [ 4 ] ( 42nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Mohammad Reza Aref",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "water",
-        "children": [
-          {
-            "label": "1.63 (as of 2015) [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "zand_iran",
-        "children": [
-          {
-            "label": "1751",
+            "label": ".ir ایران.",
             "children": []
           }
         ]

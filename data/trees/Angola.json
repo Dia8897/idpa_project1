@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+244",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Luanda 8°50′S 13°20′E ﻿ / ﻿ 8.833°S 13.333°E ﻿ / -8.833; 13.333",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Angolan kwanza ( AOA )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Angolan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "37% Ovimbundu 25% Ambundu 13% Bakongo 21% other African 2% Mestiço (mixed European and African) 2% Asian 1% European",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "51.3 [ 5 ] high inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.616 [ 6 ] medium ( 148th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -111,37 +21,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ao",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AO",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "national_languages",
-        "children": [
-          {
-            "label": "Chokwe , Kimbundu , Kikongo , Oshiwambo , Luchazi , Umbundu",
+            "label": "Luanda 8°50′S 13°20′E / 8.833°S 13.333°E / -8.833; 13.333",
             "children": []
           }
         ]
@@ -156,6 +39,24 @@
         ]
       },
       {
+        "label": "national_languages",
+        "children": [
+          {
+            "label": "Chokwe , Kimbundu , Kikongo , Oshiwambo , Luchazi , Umbundu",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "37% Ovimbundu 25% Ambundu 13% Bakongo 21% other African 2% Mestiço (mixed European and African) 2% Asian 1% European",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -165,68 +66,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( WAT )",
+            "label": "Angolan",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "36,604,681 [ 2 ] ( 41st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "Ademilson Loboto",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "21 January 2010",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "29.4/km 2 (76.1/sq mi) ( 189th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "granted",
-        "children": [
-          {
-            "label": "11 November 1975",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$10,230 [ 4 ] ( 125th )",
-            "children": []
-          },
-          {
-            "label": "$2,880 [ 4 ] ( 137th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -241,6 +93,15 @@
         ]
       },
       {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Esperança da Costa",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "president_of_the_national_assembly",
         "children": [
           {
@@ -250,18 +111,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "chief_justice",
         "children": [
           {
-            "label": "1,246,700 km 2 (481,400 sq mi) ( 22nd )",
+            "label": "Ademilson Loboto",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
           {
-            "label": "$402.160 billion [ 4 ] ( 58th )",
+            "label": "National Assembly",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "granted",
+        "children": [
           {
-            "label": "$113.34 billion [ 4 ] ( 68th )",
+            "label": "11 November 1975",
             "children": []
           }
         ]
@@ -276,10 +147,27 @@
         ]
       },
       {
-        "label": "vice_president",
+        "label": "current_constitution",
         "children": [
           {
-            "label": "Esperança da Costa [ 3 ]",
+            "label": "21 January 2010",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1,246,700 km 2 (481,400 sq mi) ( 22nd )",
+            "children": []
+          },
+          {
+            "label": "$402.160 billion ( 58th )",
+            "children": []
+          },
+          {
+            "label": "$113.34 billion ( 68th )",
             "children": []
           }
         ]
@@ -289,6 +177,118 @@
         "children": [
           {
             "label": "negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "36,604,681 ( 41st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "29.4/km 2 (76.1/sq mi) ( 189th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$10,230 ( 125th )",
+            "children": []
+          },
+          {
+            "label": "$2,880 ( 137th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "51.3 high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.616 medium ( 148th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Angolan kwanza ( AOA )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( WAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+244",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "AO",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ao",
             "children": []
           }
         ]

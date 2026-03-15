@@ -4,100 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+595",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Asunción 25°16′S 57°40′W ﻿ / ﻿ 25.267°S 57.667°W ﻿ / -25.267; -57.667",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Guaraní ( PYG )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Paraguayan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2026 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "44.4 [ 7 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.756 [ 8 ] high ( 99th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
-            "label": "Flag [ b ] Seal [ a ]",
+            "label": "Flag Seal",
             "children": []
           },
           {
@@ -115,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".py",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Congress",
+            "label": "Asunción 25°16′S 57°40′W / 25.267°S 57.667°W / -25.267; -57.667",
             "children": []
           }
         ]
@@ -160,77 +52,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC –03:00 ( PYT )",
+            "label": "Paraguayan",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "6,109,903 [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "6,413,627 [ 4 ] ( 113th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "20 June 1992",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "14 May 1811",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "39/sq mi (15.1/km 2 ) ( 223rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Chamber of Deputies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$22,462 [ 6 ] ( 84th )",
-            "children": []
-          },
-          {
-            "label": "$7,990 [ 6 ] ( 93rd )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -245,10 +79,10 @@
         ]
       },
       {
-        "label": "president_of_the_chamber_of_deputies",
+        "label": "vice_president",
         "children": [
           {
-            "label": "Raul Latorre",
+            "label": "Pedro Alliana",
             "children": []
           }
         ]
@@ -263,6 +97,15 @@
         ]
       },
       {
+        "label": "president_of_the_chamber_of_deputies",
+        "children": [
+          {
+            "label": "Raul Latorre",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "president_of_the_supreme_court",
         "children": [
           {
@@ -272,27 +115,10 @@
         ]
       },
       {
-        "label": "recognized",
+        "label": "legislature",
         "children": [
           {
-            "label": "25 November 1842",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "406,752 km 2 (157,048 sq mi) ( 59th )",
-            "children": []
-          },
-          {
-            "label": "$145.110 billion [ 6 ] ( 92th )",
-            "children": []
-          },
-          {
-            "label": "$51.670 billion [ 6 ] ( 99th )",
+            "label": "Congress",
             "children": []
           }
         ]
@@ -307,10 +133,54 @@
         ]
       },
       {
-        "label": "vice_president",
+        "label": "lower_house",
         "children": [
           {
-            "label": "Pedro Alliana",
+            "label": "Chamber of Deputies",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "14 May 1811",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "25 November 1842",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "20 June 1992",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "406,752 km 2 (157,048 sq mi) ( 59th )",
+            "children": []
+          },
+          {
+            "label": "$145.110 billion ( 92th )",
+            "children": []
+          },
+          {
+            "label": "$51.670 billion ( 99th )",
             "children": []
           }
         ]
@@ -320,6 +190,136 @@
         "children": [
           {
             "label": "2.6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "6,413,627 ( 113th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "6,109,903",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "39/sq mi (15.1/km 2 ) ( 223rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$22,462 ( 84th )",
+            "children": []
+          },
+          {
+            "label": "$7,990 ( 93rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "44.4 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.756 high ( 99th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Guaraní ( PYG )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC –03:00 ( PYT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+595",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "PY",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".py",
             "children": []
           }
         ]

@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+501",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Belmopan 17°15′N 88°46′W ﻿ / ﻿ 17.250°N 88.767°W ﻿ / 17.250; -88.767",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Belize dollar ($) ( BZD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd / mm / yyyy ( AD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Belizean",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "52.9% Mestizo 25.9% Creole 11.3% Mayan 6.1% Garifuna 3.9% East Indian 3.6% Mennonite 1.2% White 1.0% Asian 1.2% Other 0.3% Unknown [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "53.1 [ 8 ] high inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.721 [ 9 ] high ( 115th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -124,19 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".bz",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BZ",
+            "label": "Belmopan 17°15′N 88°46′W / 17.250°N 88.767°W / 17.250; -88.767",
             "children": []
           }
         ]
@@ -145,16 +37,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Belize City 17°29′N 88°11′W ﻿ / ﻿ 17.483°N 88.183°W ﻿ / 17.483; -88.183",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
+            "label": "Belize City 17°29′N 88°11′W / 17.483°N 88.183°W / 17.483; -88.183",
             "children": []
           }
         ]
@@ -163,7 +46,25 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "English [ 1 ]",
+            "label": "English",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "spoken_languages",
+        "children": [
+          {
+            "label": "Belizean Creole Spanish Mayan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "52.9% Mestizo 25.9% Creole 11.3% Mayan 6.1% Garifuna 3.9% East Indian 3.6% Mennonite 1.2% White 1.0% Asian 1.2% Other 0.3% Unknown",
             "children": []
           }
         ]
@@ -178,55 +79,19 @@
         ]
       },
       {
-        "label": "spoken_languages",
+        "label": "demonyms",
         "children": [
           {
-            "label": "Belizean Creole Spanish Mayan [ 2 ]",
+            "label": "Belizean",
             "children": []
           }
         ]
       },
       {
-        "label": "time_zone",
+        "label": "government",
         "children": [
           {
-            "label": "UTC −06:00 ( CST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "census",
-        "children": [
-          {
-            "label": "397,483 [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "17.31/km 2 (44.8/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "governorgeneral",
-        "children": [
-          {
-            "label": "Froyla Tzalam",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Representatives",
+            "label": "Unitary parliamentary constitutional monarchy",
             "children": []
           }
         ]
@@ -241,14 +106,10 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "governorgeneral",
         "children": [
           {
-            "label": "$15,363 [ 7 ] ( 123rd )",
-            "children": []
-          },
-          {
-            "label": "$8,355 [ 7 ] ( 98th )",
+            "label": "Froyla Tzalam",
             "children": []
           }
         ]
@@ -263,36 +124,10 @@
         ]
       },
       {
-        "label": "realm",
+        "label": "legislature",
         "children": [
           {
-            "label": "21 September 1981",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "selfgovernance",
-        "children": [
-          {
-            "label": "January 1964",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "22,966 km 2 (8,867 sq mi) [ 4 ] [ 5 ] ( 147th )",
-            "children": []
-          },
-          {
-            "label": "$6.414 billion [ 7 ] ( 180th )",
-            "children": []
-          },
-          {
-            "label": "$3.488 billion [ 7 ] ( 179th )",
+            "label": "National Assembly",
             "children": []
           }
         ]
@@ -307,10 +142,175 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "selfgovernance",
+        "children": [
+          {
+            "label": "January 1964",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "realm",
+        "children": [
+          {
+            "label": "21 September 1981",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "22,966 km 2 (8,867 sq mi) ( 147th )",
+            "children": []
+          },
+          {
+            "label": "$6.414 billion ( 180th )",
+            "children": []
+          },
+          {
+            "label": "$3.488 billion ( 179th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "0.8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "397,483",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "17.31/km 2 (44.8/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$15,363 ( 123rd )",
+            "children": []
+          },
+          {
+            "label": "$8,355 ( 98th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "53.1 high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.721 high ( 115th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Belize dollar ($) ( BZD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −06:00 ( CST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd / mm / yyyy ( AD )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+501",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "BZ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".bz",
             "children": []
           }
         ]

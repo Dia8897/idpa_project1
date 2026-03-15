@@ -4,10 +4,22 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+84",
+            "label": "Flag Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto: Độc lập – Tự do – Hạnh phúc \"Independence – Freedom – Happiness\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: Tin qun ca \"The Song of the Marching Troops\"",
+            "children": []
+          },
+          {
+            "label": "Show globe Show ASEAN Location of Vietnam (green) in Southeast Asia",
             "children": []
           }
         ]
@@ -16,16 +28,52 @@
         "label": "capital",
         "children": [
           {
-            "label": "Hanoi 21°2′N 105°51′E ﻿ / ﻿ 21.033°N 105.850°E ﻿ / 21.033; 105.850",
+            "label": "Hanoi 21°2′N 105°51′E / 21.033°N 105.850°E / 21.033; 105.850",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "largest_city_by_municipal_boundary",
         "children": [
           {
-            "label": "Vietnamese đồng (₫) ( VND )",
+            "label": "Da Nang 16°20′N 107°35′E / 16.333°N 107.583°E / 16.333; 107.583",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "largest_city_by_urban_population",
+        "children": [
+          {
+            "label": "Ho Chi Minh City 10°48′N 106°39′E / 10.800°N 106.650°E / 10.800; 106.650",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Vietnamese",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "85.32% Kinh Vietnamese 14.68% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "86.32% no religion / folk 6.1% Catholicism 4.79% Buddhism 1.02% Hoahaoism 1% Protestantism 0.58% Caodaism 0.07% Islam 0.12% other",
             "children": []
           }
         ]
@@ -40,42 +88,6 @@
         ]
       },
       {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "85.32% Kinh Vietnamese 14.68% other [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "36.1 [ 10 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -85,224 +97,10 @@
         ]
       },
       {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.766 [ 11 ] high ( 93rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto: Độc lập – Tự do – Hạnh phúc \"Independence – Freedom – Happiness\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Tiến quân ca \"The Song of the Marching Troops\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show ASEAN Location of Vietnam (green) in Southeast Asia",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".vn",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "VN",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "largest_city_by_municipal_boundary",
-        "children": [
-          {
-            "label": "Da Nang 16°20′N 107°35′E ﻿ / ﻿ 16.333°N 107.583°E ﻿ / 16.333; 107.583",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "largest_city_by_urban_population",
-        "children": [
-          {
-            "label": "Ho Chi Minh City 10°48′N 106°39′E ﻿ / ﻿ 10.800°N 106.650°E ﻿ / 10.800; 106.650",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Vietnamese [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "86.32% no religion / folk 6.1% Catholicism 4.79% Buddhism 1.02% Hoahaoism 1% Protestantism 0.58% Caodaism 0.07% Islam 0.12% other [ 2 ] [ a ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +07:00 ( Vietnam Standard Time )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "census",
-        "children": [
-          {
-            "label": "96,208,984 [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "102,300,000 [ 8 ] ( 16th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "28 November 2013 [ c ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "2 September 1945",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "309/km 2 (800.3/sq mi) ( 43th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "end_of_vietnam_war",
-        "children": [
-          {
-            "label": "30 April 1975",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "general_secretary",
         "children": [
           {
-            "label": "Tô Lâm",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hans_annexation",
-        "children": [
-          {
-            "label": "111 BC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_china",
-        "children": [
-          {
-            "label": "939",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "national_assembly_chairman",
-        "children": [
-          {
-            "label": "Trần Thanh Mẫn",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "nguyen_s_unification",
-        "children": [
-          {
-            "label": "1802",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "northsouth_partition",
-        "children": [
-          {
-            "label": "21 July 1954",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$17,484 [ 9 ] ( 104th )",
-            "children": []
-          },
-          {
-            "label": "$4,806 [ 9 ] ( 119th )",
+            "label": "T Lm",
             "children": []
           }
         ]
@@ -326,45 +124,19 @@
         ]
       },
       {
-        "label": "protectorate_treaty",
+        "label": "national_assembly_chairman",
         "children": [
           {
-            "label": "25 August 1883",
+            "label": "Trần Thanh Mẫn",
             "children": []
           }
         ]
       },
       {
-        "label": "regaining_independence",
+        "label": "legislature",
         "children": [
           {
-            "label": "1428",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "reunification",
-        "children": [
-          {
-            "label": "2 July 1976",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "331,344.82 [ 6 ] [ d ] km 2 (127,932.95 sq mi) ( 66th )",
-            "children": []
-          },
-          {
-            "label": "$1.786 trillion [ 9 ] ( 23rd )",
-            "children": []
-          },
-          {
-            "label": "$490.970 billion [ 9 ] ( 33rd )",
+            "label": "National Assembly",
             "children": []
           }
         ]
@@ -379,6 +151,122 @@
         ]
       },
       {
+        "label": "u_lc",
+        "children": [
+          {
+            "label": "3rd century BC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hans_annexation",
+        "children": [
+          {
+            "label": "111 BC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_china",
+        "children": [
+          {
+            "label": "939",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "regaining_independence",
+        "children": [
+          {
+            "label": "1428",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "nguyen_s_unification",
+        "children": [
+          {
+            "label": "1802",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "protectorate_treaty",
+        "children": [
+          {
+            "label": "25 August 1883",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declaration_of_independence",
+        "children": [
+          {
+            "label": "2 September 1945",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "northsouth_partition",
+        "children": [
+          {
+            "label": "21 July 1954",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "end_of_vietnam_war",
+        "children": [
+          {
+            "label": "30 April 1975",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "reunification",
+        "children": [
+          {
+            "label": "2 July 1976",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "28 November 2013",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "331,344.82 km 2 (127,932.95 sq mi) ( 66th )",
+            "children": []
+          },
+          {
+            "label": "$1.786 trillion ( 23rd )",
+            "children": []
+          },
+          {
+            "label": "$490.970 billion ( 33rd )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
@@ -388,10 +276,122 @@
         ]
       },
       {
-        "label": "au_lac",
+        "label": "estimate",
         "children": [
           {
-            "label": "3rd century BC",
+            "label": "102,300,000 ( 16th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "96,208,984",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "309/km 2 (800.3/sq mi) ( 43th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$17,484 ( 104th )",
+            "children": []
+          },
+          {
+            "label": "$4,806 ( 119th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "36.1 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.766 high ( 93rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Vietnamese đồng (₫) ( VND )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +07:00 ( Vietnam Standard Time )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+84",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "VN",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".vn",
             "children": []
           }
         ]

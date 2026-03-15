@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+502",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Guatemala City 14°38′N 90°30′W ﻿ / ﻿ 14.633°N 90.500°W ﻿ / 14.633; -90.500",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Quetzal ( GTQ )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Guatemalan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "56.01% Ladino (mixed) 41.66% Maya 1.77% Xinca 0.19% Black 0.13% Garifuna 0.24% Other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "45.2 [ 6 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.662 [ 7 ] medium ( 137th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -110,7 +11,7 @@
             "children": []
           },
           {
-            "label": "Motto: Libre crezca fecundo [ 1 ] (Spanish) \"Grow Free and Fecund\"",
+            "label": "Motto: Libre crezca fecundo (Spanish) \"Grow Free and Fecund\"",
             "children": []
           },
           {
@@ -128,28 +29,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".gt",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GT",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Congress of the Republic",
+            "label": "Guatemala City 14°38′N 90°30′W / 14.633°N 90.500°W / 14.633; -90.500",
             "children": []
           }
         ]
@@ -182,6 +65,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "56.01% Ladino (mixed) 41.66% Maya 1.77% Xinca 0.19% Black 0.13% Garifuna 0.24% Other",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -191,77 +83,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −6 ( CST )",
+            "label": "Guatemalan",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "18,255,216 [ 4 ] ( 70th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "17 November 1993",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared_from_the_federal_republic_of_central_america",
-        "children": [
-          {
-            "label": "17 April 1839",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared_from_the_first_mexican_empire",
-        "children": [
-          {
-            "label": "1 July 1823",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared_from_the_spanish_empire",
-        "children": [
-          {
-            "label": "15 September 1821",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "166/km 2 (429.9/sq mi) ( 76th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$15,386 [ 5 ] ( 121nd )",
-            "children": []
-          },
-          {
-            "label": "$6,682 [ 5 ] ( 108th )",
+            "label": "Unitary presidential republic",
             "children": []
           }
         ]
@@ -276,10 +110,64 @@
         ]
       },
       {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Karin Herrera",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "president_of_the_congress",
         "children": [
           {
             "label": "Luis Contreras",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Congress of the Republic",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared_from_the_spanish_empire",
+        "children": [
+          {
+            "label": "15 September 1821",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared_from_the_first_mexican_empire",
+        "children": [
+          {
+            "label": "1 July 1823",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared_from_the_federal_republic_of_central_america",
+        "children": [
+          {
+            "label": "17 April 1839",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "17 November 1993",
             "children": []
           }
         ]
@@ -292,20 +180,11 @@
             "children": []
           },
           {
-            "label": "$278.508 billion [ 5 ] ( 77th )",
+            "label": "$278.508 billion ( 77th )",
             "children": []
           },
           {
-            "label": "$120.964 billion [ 5 ] ( 70th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Karin Herrera",
+            "label": "$120.964 billion ( 70th )",
             "children": []
           }
         ]
@@ -315,6 +194,127 @@
         "children": [
           {
             "label": "0.4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "18,255,216 ( 70th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "166/km 2 (429.9/sq mi) ( 76th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$15,386 ( 121nd )",
+            "children": []
+          },
+          {
+            "label": "$6,682 ( 108th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "45.2 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.662 medium ( 137th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Quetzal ( GTQ )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −6 ( CST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+502",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "GT",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".gt",
             "children": []
           }
         ]

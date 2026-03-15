@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+509",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Port-au-Prince 18°32′10″N 72°20′47″W ﻿ / ﻿ 18.53611°N 72.34639°W ﻿ / 18.53611; -72.34639",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Gourde (G) ( HTG )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Haitian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "95% African 5% other [ 2 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "41 [ 9 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.554 [ 6 ] medium ( 166th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -110,7 +11,7 @@
             "children": []
           },
           {
-            "label": "Motto: L'union fait la force ( French ) \"Inite se fòs\" ( Haitian Creole ) [ 1 ] \"Union makes strength\"",
+            "label": "Motto: L'union fait la force ( French ) \"Inite se fòs\" ( Haitian Creole ) \"Union makes strength\"",
             "children": []
           },
           {
@@ -124,28 +25,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ht",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "HT",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Assembly (vacant)",
+            "label": "Port-au-Prince 18°32′10′′N 72°20′47′′W / 18.53611°N 72.34639°W / 18.53611; -72.34639",
             "children": []
           }
         ]
@@ -160,6 +43,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "95% African 5% other",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -169,122 +61,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC −05:00 ( EST )",
+            "label": "Haitian",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "government",
         "children": [
           {
-            "label": "11,470,261 [ 7 ] ( 83rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "20 June 2012",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "417/km 2 (1,080.0/sq mi) ( 32nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dissolution",
-        "children": [
-          {
-            "label": "27 February 1844",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_empire",
-        "children": [
-          {
-            "label": "22 September 1804",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "1 January 1804",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_united_states",
-        "children": [
-          {
-            "label": "15 August 1934",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_recognized",
-        "children": [
-          {
-            "label": "17 April 1825",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "28 March 1811",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Chamber of Deputies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "northern_state",
-        "children": [
-          {
-            "label": "17 October 1806",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$3,040 [ 8 ] ( 169th )",
-            "children": []
-          },
-          {
-            "label": "$2,670 [ 8 ] ( 141st )",
+            "label": "Unitary semi-presidential republic",
             "children": []
           }
         ]
@@ -302,78 +91,16 @@
         "label": "prime_minister",
         "children": [
           {
-            "label": "Alix Didier Fils-Aimé (acting) [ 4 ]",
+            "label": "Alix Didier Fils-Aimé (acting)",
             "children": []
           }
         ]
       },
       {
-        "label": "republic",
+        "label": "legislature",
         "children": [
           {
-            "label": "15 January 1859",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "second_empire",
-        "children": [
-          {
-            "label": "26 August 1849",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "southern_republic",
-        "children": [
-          {
-            "label": "17 October 1806",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "summer_dst",
-        "children": [
-          {
-            "label": "UTC −04:00 ( EDT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "27,700 [ 5 ] [ 6 ] km 2 (10,700 sq mi) ( 143rd )",
-            "children": []
-          },
-          {
-            "label": "$38.200 billion [ 8 ] ( 144th )",
-            "children": []
-          },
-          {
-            "label": "$33.550 billion [ 8 ] ( 107th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "unification_of_hispaniola",
-        "children": [
-          {
-            "label": "9 February 1822",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "united_states_occupation",
-        "children": [
-          {
-            "label": "28 July 1915 – 1 August 1934",
+            "label": "National Assembly (vacant)",
             "children": []
           }
         ]
@@ -388,10 +115,283 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber of Deputies",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "1 January 1804",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_recognized",
+        "children": [
+          {
+            "label": "17 April 1825",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "first_empire",
+        "children": [
+          {
+            "label": "22 September 1804",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "southern_republic",
+        "children": [
+          {
+            "label": "17 October 1806",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "northern_state",
+        "children": [
+          {
+            "label": "17 October 1806",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom",
+        "children": [
+          {
+            "label": "28 March 1811",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "unification_of_hispaniola",
+        "children": [
+          {
+            "label": "9 February 1822",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "dissolution",
+        "children": [
+          {
+            "label": "27 February 1844",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "second_empire",
+        "children": [
+          {
+            "label": "26 August 1849",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic",
+        "children": [
+          {
+            "label": "15 January 1859",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "united_states_occupation",
+        "children": [
+          {
+            "label": "28 July 1915 – 1 August 1934",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_the_united_states",
+        "children": [
+          {
+            "label": "15 August 1934",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "20 June 2012",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "27,700 km 2 (10,700 sq mi) ( 143rd )",
+            "children": []
+          },
+          {
+            "label": "$38.200 billion ( 144th )",
+            "children": []
+          },
+          {
+            "label": "$33.550 billion ( 107th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "0.7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "11,470,261 ( 83rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "417/km 2 (1,080.0/sq mi) ( 32nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$3,040 ( 169th )",
+            "children": []
+          },
+          {
+            "label": "$2,670 ( 141st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "41 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.554 medium ( 166th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Gourde (G) ( HTG )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC −05:00 ( EST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC −04:00 ( EDT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+509",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "HT",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ht",
             "children": []
           }
         ]

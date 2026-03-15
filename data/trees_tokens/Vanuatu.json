@@ -1,0 +1,793 @@
+{
+  "country_name": "Vanuatu",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Long",
+            "children": []
+          },
+          {
+            "label": "God",
+            "children": []
+          },
+          {
+            "label": "yumi",
+            "children": []
+          },
+          {
+            "label": "stanap",
+            "children": []
+          },
+          {
+            "label": "Bislama",
+            "children": []
+          },
+          {
+            "label": "Nous",
+            "children": []
+          },
+          {
+            "label": "nous",
+            "children": []
+          },
+          {
+            "label": "tenons",
+            "children": []
+          },
+          {
+            "label": "devant",
+            "children": []
+          },
+          {
+            "label": "Dieu",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "With",
+            "children": []
+          },
+          {
+            "label": "God",
+            "children": []
+          },
+          {
+            "label": "we",
+            "children": []
+          },
+          {
+            "label": "stand",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Yumi",
+            "children": []
+          },
+          {
+            "label": "Yumi",
+            "children": []
+          },
+          {
+            "label": "Yumi",
+            "children": []
+          },
+          {
+            "label": "Bislama",
+            "children": []
+          },
+          {
+            "label": "We",
+            "children": []
+          },
+          {
+            "label": "We",
+            "children": []
+          },
+          {
+            "label": "We",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \"Long God yumi stanap\" (Bislama) Nous nous tenons devant Dieu (French) \"With God we stand\"",
+          "Anthem: \" Yumi, Yumi, Yumi \" (Bislama) \"We, We, We\""
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Port",
+            "children": []
+          },
+          {
+            "label": "Vila",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "168",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "168",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "168",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Port Vila 17°S 168°E / 17°S 168°E / -17; 168"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Bislama",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bislama English French"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "98",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Ni",
+            "children": []
+          },
+          {
+            "label": "Vanuatu",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "98.5% Ni-Vanuatu 1.5% others"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "93",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "75",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Animism",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Bah",
+            "children": []
+          },
+          {
+            "label": "Faith",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "none",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "93.4% Christianity 75.1% Protestantism 13.5% Catholicism 4.8% other Christian 4.6% Animism 1.4% Baháʼí Faith 0.6% other / none"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Ni",
+            "children": []
+          },
+          {
+            "label": "Vanuatu",
+            "children": []
+          },
+          {
+            "label": "or",
+            "children": []
+          },
+          {
+            "label": "rarely",
+            "children": []
+          },
+          {
+            "label": "Vanuatuan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ni-Vanuatu (or rarely: Vanuatuan )"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Nikenike",
+            "children": []
+          },
+          {
+            "label": "Vurobaravu",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Nikenike Vurobaravu"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Jotham",
+            "children": []
+          },
+          {
+            "label": "Napat",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Jotham Napat"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "from_the_united_kingdom_and_france",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "July",
+            "children": []
+          },
+          {
+            "label": "1980",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "30 July 1980"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "189",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "706",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "157th",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "002",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "064",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "12,189 km 2 (4,706 sq mi) ( 157th )",
+          "$1.002 billion",
+          "$1.064 billion"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "335",
+            "children": []
+          },
+          {
+            "label": "908",
+            "children": []
+          },
+          {
+            "label": "182nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "335,908 ( 182nd )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "300",
+            "children": []
+          },
+          {
+            "label": "019",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "300,019"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "71",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "188th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "27.6/km 2 (71.5/sq mi) ( 188th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "001",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "188",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$3,001",
+          "$3,188"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2023 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "32.3 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "621",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "146th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.621 medium ( 146th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Vatu",
+            "children": []
+          },
+          {
+            "label": "VUV",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Vatu ( VUV )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "VUT",
+            "children": []
+          },
+          {
+            "label": "Vanuatu",
+            "children": []
+          },
+          {
+            "label": "Time",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +11 (VUT ( Vanuatu Time ))"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "678",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+678"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "VU",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "VU"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "vu",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".vu"
+        ]
+      }
+    ]
+  }
+}

@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+54",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Buenos Aires 34°36′S 58°23′W ﻿ / ﻿ 34.600°S 58.383°W ﻿ / -34.600; -58.383",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Argentine peso ( $ ) ( ARS )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd / mm / yyyy ( CE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Argentine Argentinian Argentinean",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "40.7 [ 11 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Federal presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.865 [ 12 ] very high ( 47th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -109,7 +19,7 @@
             "children": []
           },
           {
-            "label": "Sol de Mayo [ 1 ] \"Sun of May\"",
+            "label": "Sol de Mayo \"Sun of May\"",
             "children": []
           },
           {
@@ -123,28 +33,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".ar",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "National Congress",
+            "label": "Buenos Aires 34°36′S 58°23′W / 34.600°S 58.383°W / -34.600; -58.383",
             "children": []
           }
         ]
@@ -153,7 +45,7 @@
         "label": "national_language",
         "children": [
           {
-            "label": "Spanish [ a ]",
+            "label": "Spanish",
             "children": []
           }
         ]
@@ -162,7 +54,7 @@
         "label": "regional_languages",
         "children": [
           {
-            "label": "Guaraní in Corrientes [ 2 ] Quechua in Santiago del Estero [ 3 ] Qom , Mocoví , and Wichí in Chaco [ 4 ]",
+            "label": "Guaraní in Corrientes Quechua in Santiago del Estero Qom , Mocoví , and Wichí in Chaco",
             "children": []
           }
         ]
@@ -177,28 +69,37 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC – 03:00 ( ART )",
+            "label": "Argentine Argentinian Argentinean",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "46,044,703 [ 9 ] ( 32nd )",
+            "label": "Federal presidential republic",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "president",
         "children": [
           {
-            "label": "46,735,004 [ 8 ] ( 33rd )",
+            "label": "Javier Milei",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Victoria Villarruel",
             "children": []
           }
         ]
@@ -213,28 +114,37 @@
         ]
       },
       {
-        "label": "constitution",
+        "label": "president_of_the_chamber_of_deputies",
         "children": [
           {
-            "label": "1 May 1853",
+            "label": "Martín Menem",
             "children": []
           }
         ]
       },
       {
-        "label": "declared",
+        "label": "president_of_supreme_court",
         "children": [
           {
-            "label": "9 July 1816",
+            "label": "Horacio Rosatti",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "legislature",
         "children": [
           {
-            "label": "16.8/km 2 (43.5/sq mi) ( 214th )",
+            "label": "National Congress",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Chamber of Senators",
             "children": []
           }
         ]
@@ -258,41 +168,19 @@
         ]
       },
       {
-        "label": "per_capita",
+        "label": "declared",
         "children": [
           {
-            "label": "$31,379 [ 10 ] ( 68th )",
-            "children": []
-          },
-          {
-            "label": "$14,362 [ 10 ] ( 66th )",
+            "label": "9 July 1816",
             "children": []
           }
         ]
       },
       {
-        "label": "president",
+        "label": "constitution",
         "children": [
           {
-            "label": "Javier Milei",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president_of_supreme_court",
-        "children": [
-          {
-            "label": "Horacio Rosatti",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president_of_the_chamber_of_deputies",
-        "children": [
-          {
-            "label": "Martín Menem",
+            "label": "1 May 1853",
             "children": []
           }
         ]
@@ -301,33 +189,15 @@
         "label": "total",
         "children": [
           {
-            "label": "2,780,085 [ 6 ] [ 7 ] km 2 (1,073,397 sq mi) [ A ] ( 8th )",
+            "label": "2,780,085 km 2 (1,073,397 sq mi) ( 8th )",
             "children": []
           },
           {
-            "label": "$1.493 trillion [ 10 ] ( 28th )",
+            "label": "$1.493 trillion ( 28th )",
             "children": []
           },
           {
-            "label": "$683.533 billion [ 10 ] ( 23rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "Chamber of Senators",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Victoria Villarruel",
+            "label": "$683.533 billion ( 23rd )",
             "children": []
           }
         ]
@@ -337,6 +207,136 @@
         "children": [
           {
             "label": "1.57",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "46,735,004 ( 33rd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "46,044,703 ( 32nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "16.8/km 2 (43.5/sq mi) ( 214th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$31,379 ( 68th )",
+            "children": []
+          },
+          {
+            "label": "$14,362 ( 66th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "40.7 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.865 very high ( 47th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Argentine peso ( $ ) ( ARS )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC – 03:00 ( ART )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd / mm / yyyy ( CE )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+54",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "AR",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ar",
             "children": []
           }
         ]

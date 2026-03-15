@@ -1,0 +1,910 @@
+{
+  "country_name": "Paraguay",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Seal",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Paz",
+            "children": []
+          },
+          {
+            "label": "y",
+            "children": []
+          },
+          {
+            "label": "justicia",
+            "children": []
+          },
+          {
+            "label": "Spanish",
+            "children": []
+          },
+          {
+            "label": "Peace",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "justice",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Himno",
+            "children": []
+          },
+          {
+            "label": "Nacional",
+            "children": []
+          },
+          {
+            "label": "Paraguayo",
+            "children": []
+          },
+          {
+            "label": "Spanish",
+            "children": []
+          },
+          {
+            "label": "Paraguayan",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Paraguay",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "America",
+            "children": []
+          },
+          {
+            "label": "gray",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Seal",
+          "Motto: Paz y justicia (Spanish) \"Peace and justice\"",
+          "Anthem: Himno Nacional Paraguayo (Spanish) \" Paraguayan National Anthem \"",
+          "Location of Paraguay (dark green) in South America (gray)"
+        ]
+      },
+      {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Asunci",
+            "children": []
+          },
+          {
+            "label": "n",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "16",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "57",
+            "children": []
+          },
+          {
+            "label": "40",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "267",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "57",
+            "children": []
+          },
+          {
+            "label": "667",
+            "children": []
+          },
+          {
+            "label": "W",
+            "children": []
+          },
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "267",
+            "children": []
+          },
+          {
+            "label": "57",
+            "children": []
+          },
+          {
+            "label": "667",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Asunción 25°16′S 57°40′W / 25.267°S 57.667°W / -25.267; -57.667"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "Spanish",
+            "children": []
+          },
+          {
+            "label": "Guarani",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Spanish Guarani"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "87",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "95.5% Christianity 87.4% Catholicism 8.1% other Christian 4.1% no religion 0.4% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Paraguayan",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Paraguayan"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Santiago",
+            "children": []
+          },
+          {
+            "label": "Pe",
+            "children": []
+          },
+          {
+            "label": "a",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Santiago Peña"
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Pedro",
+            "children": []
+          },
+          {
+            "label": "Alliana",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Pedro Alliana"
+        ]
+      },
+      {
+        "label": "president_of_the_senate",
+        "children": [
+          {
+            "label": "Silvio",
+            "children": []
+          },
+          {
+            "label": "Ovelar",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Silvio Ovelar"
+        ]
+      },
+      {
+        "label": "president_of_the_chamber_of_deputies",
+        "children": [
+          {
+            "label": "Raul",
+            "children": []
+          },
+          {
+            "label": "Latorre",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Raul Latorre"
+        ]
+      },
+      {
+        "label": "president_of_the_supreme_court",
+        "children": [
+          {
+            "label": "C",
+            "children": []
+          },
+          {
+            "label": "sar",
+            "children": []
+          },
+          {
+            "label": "Diesel",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "César Diesel"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Congress",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Congress"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Deputies",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Chamber of Deputies"
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "14",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1811",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "14 May 1811"
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "25",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1842",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "25 November 1842"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "June",
+            "children": []
+          },
+          {
+            "label": "1992",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "20 June 1992"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "406",
+            "children": []
+          },
+          {
+            "label": "752",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "157",
+            "children": []
+          },
+          {
+            "label": "048",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "59th",
+            "children": []
+          },
+          {
+            "label": "145",
+            "children": []
+          },
+          {
+            "label": "110",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "92th",
+            "children": []
+          },
+          {
+            "label": "51",
+            "children": []
+          },
+          {
+            "label": "670",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "99th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "406,752 km 2 (157,048 sq mi) ( 59th )",
+          "$145.110 billion ( 92th )",
+          "$51.670 billion ( 99th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2.6"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "413",
+            "children": []
+          },
+          {
+            "label": "627",
+            "children": []
+          },
+          {
+            "label": "113th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "6,413,627 ( 113th )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "109",
+            "children": []
+          },
+          {
+            "label": "903",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "6,109,903"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "39",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "223rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "39/sq mi (15.1/km 2 ) ( 223rd )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "462",
+            "children": []
+          },
+          {
+            "label": "84th",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "990",
+            "children": []
+          },
+          {
+            "label": "93rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$22,462 ( 84th )",
+          "$7,990 ( 93rd )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "44",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "44.4 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "756",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "99th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.756 high ( 99th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Guaran",
+            "children": []
+          },
+          {
+            "label": "PYG",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Guaraní ( PYG )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "03",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "PYT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC –03:00 ( PYT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "595",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+595"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "PY",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "PY"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "py",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".py"
+        ]
+      }
+    ]
+  }
+}

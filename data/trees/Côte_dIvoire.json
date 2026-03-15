@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+225",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Yamoussoukro 6°51′N 5°18′W ﻿ / ﻿ 6.850°N 5.300°W ﻿ / 6.850; -5.300",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West African CFA franc ( XOF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Ivorian Ivory Coasters",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups_census",
-        "children": [
-          {
-            "label": "78.0% Ivorian 38.0% Akan 22.0% Northern Mande 22.0% Voltaiques/Gur 9.1% Kru 8.6% Southern Mande 0.3% Naturalized Ivorian 22.0% non-Ivorian a",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2023 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "35.3 [ 6 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic under an authoritarian regime",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.582 [ 7 ] medium ( 157th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -132,19 +33,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital",
         "children": [
           {
-            "label": ".ci",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CI",
+            "label": "Yamoussoukro 6°51′N 5°18′W / 6.850°N 5.300°W / 6.850; -5.300",
             "children": []
           }
         ]
@@ -159,37 +51,10 @@
         ]
       },
       {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament of Ivory Coast",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "official_languages",
         "children": [
           {
             "label": "French",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion_census",
-        "children": [
-          {
-            "label": "42.5% Islam 39.8% Christianity [ a ] 12.6% no religion 2.2% traditional faiths 2.2% unanswered 0.7% other religions",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC ±00:00 ( GMT )",
             "children": []
           }
         ]
@@ -204,68 +69,37 @@
         ]
       },
       {
-        "label": "december_census",
+        "label": "ethnic_groups_census",
         "children": [
           {
-            "label": "29,389,150 [ 4 ]",
+            "label": "78.0% Ivorian 38.0% Akan 22.0% Northern Mande 22.0% Voltaiques/Gur 9.1% Kru 8.6% Southern Mande 0.3% Naturalized Ivorian 22.0% non-Ivorian a",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "religion_census",
         "children": [
           {
-            "label": "97.7/km 2 (253.0/sq mi) ( 139th )",
+            "label": "42.5% Islam 39.8% Christianity 12.6% no religion 2.2% traditional faiths 2.2% unanswered 0.7% other religions",
             "children": []
           }
         ]
       },
       {
-        "label": "deputy_viceprime_minister",
+        "label": "demonyms",
         "children": [
           {
-            "label": "Téné Birahima Ouattara",
+            "label": "Ivorian Ivory Coasters",
             "children": []
           }
         ]
       },
       {
-        "label": "independence_from_france",
+        "label": "government",
         "children": [
           {
-            "label": "7 August 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "july_estimate",
-        "children": [
-          {
-            "label": "31,500,000 [ 3 ] ( 49th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$6,960 [ 5 ] ( 138th )",
-            "children": []
-          },
-          {
-            "label": "$2,728 [ 5 ] ( 141st )",
+            "label": "Unitary presidential republic under an authoritarian regime",
             "children": []
           }
         ]
@@ -280,6 +114,15 @@
         ]
       },
       {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Tiémoko Meyliet Koné",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "prime_minister",
         "children": [
           {
@@ -289,27 +132,19 @@
         ]
       },
       {
-        "label": "republic_established",
+        "label": "deputy_viceprime_minister",
         "children": [
           {
-            "label": "4 December 1958",
+            "label": "Téné Birahima Ouattara",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "322,462 km 2 (124,503 sq mi) ( 68th )",
-            "children": []
-          },
-          {
-            "label": "$202.647 billion [ 5 ] ( 78th )",
-            "children": []
-          },
-          {
-            "label": "$79.430 billion [ 5 ] ( 84th )",
+            "label": "Parliament of Ivory Coast",
             "children": []
           }
         ]
@@ -324,10 +159,45 @@
         ]
       },
       {
-        "label": "vice_president",
+        "label": "lower_house",
         "children": [
           {
-            "label": "Tiémoko Meyliet Koné",
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic_established",
+        "children": [
+          {
+            "label": "4 December 1958",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_france",
+        "children": [
+          {
+            "label": "7 August 1960",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "322,462 km 2 (124,503 sq mi) ( 68th )",
+            "children": []
+          },
+          {
+            "label": "$202.647 billion ( 78th )",
+            "children": []
+          },
+          {
+            "label": "$79.430 billion ( 84th )",
             "children": []
           }
         ]
@@ -336,7 +206,137 @@
         "label": "water",
         "children": [
           {
-            "label": "1.4 [ 2 ]",
+            "label": "1.4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "july_estimate",
+        "children": [
+          {
+            "label": "31,500,000 ( 49th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "december_census",
+        "children": [
+          {
+            "label": "29,389,150",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "97.7/km 2 (253.0/sq mi) ( 139th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$6,960 ( 138th )",
+            "children": []
+          },
+          {
+            "label": "$2,728 ( 141st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "35.3 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.582 medium ( 157th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "West African CFA franc ( XOF )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC ±00:00 ( GMT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+225",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "CI",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".ci",
             "children": []
           }
         ]

@@ -4,176 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+94",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Sri Jayawardenepura Kotte (legislative) [ 1 ] Colombo (executive and judicial) [ 2 ] 6°56′N 79°52′E ﻿ / ﻿ 6.933°N 79.867°E ﻿ / 6.933; 79.867",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Sri Lankan rupee ( Rs ) ( LKR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Sri Lankan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "74.1% Sinhalese 12.3% Sri Lankan Tamils 10.5% Sri Lankan Moors 2.8% Indian Tamils 0.3% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "39.8 [ 13 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary semi-presidential republic [ 5 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.776 [ 14 ] high ( 89th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Sri Lanka Matha \" ශ්‍රී ලංකා මාතා (Sinhala) தாயே இலங்கை (Tamil) (English: \"Mother Sri Lanka\" )",
-            "children": []
-          },
-          {
-            "label": "Website gov.lk",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".lk .ලංකා .இலங்கை",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LK",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "largest_city",
-        "children": [
-          {
-            "label": "Colombo",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages_and_recognised_national_languages",
-        "children": [
-          {
-            "label": "Sinhala Tamil [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "recognised_language",
-        "children": [
-          {
-            "label": "English",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "69.8% Buddhism ( official ) 12.6% Hinduism 10.7% Islam 6.9% Christianity 0.1% other/none",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "sinhala",
         "children": [
           {
@@ -192,113 +22,90 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "info",
         "children": [
           {
-            "label": "UTC +5:30 ( SLST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "census",
-        "children": [
-          {
-            "label": "21,781,800 [ 9 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "23,300,000 [ 8 ] ( 60th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anuradhapura_period",
-        "children": [
-          {
-            "label": "377 BCE – 1017 CE",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "british_ceylon_period",
-        "children": [
-          {
-            "label": "1815–1948",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "Padman Surasena",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_constitution",
-        "children": [
-          {
-            "label": "7 September 1978",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "337.7/km 2 (874.6/sq mi) ( 36th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "4 February 1948",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kandyan_period",
-        "children": [
-          {
-            "label": "1592–1815",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$15,632 [ 11 ] ( 111th )",
+            "label": "Flag Emblem",
             "children": []
           },
           {
-            "label": "$4,516 ( 120th )",
+            "label": "Anthem: \" Sri Lanka Matha \" ශ්රී ලංකා මාතා (Sinhala) தாயே இலங்கை (Tamil) (English: \"Mother Sri Lanka\" )",
+            "children": []
+          },
+          {
+            "label": "Website gov.lk",
             "children": []
           }
         ]
       },
       {
-        "label": "polonnaruwa_period",
+        "label": "capital",
         "children": [
           {
-            "label": "1017–1232",
+            "label": "Sri Jayawardenepura Kotte (legislative) Colombo (executive and judicial) 6°56′N 79°52′E / 6.933°N 79.867°E / 6.933; 79.867",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Colombo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "official_languages_and_recognised_national_languages",
+        "children": [
+          {
+            "label": "Sinhala Tamil",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognised_language",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "74.1% Sinhalese 12.3% Sri Lankan Tamils 10.5% Sri Lankan Moors 2.8% Indian Tamils 0.3% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "69.8% Buddhism ( official ) 12.6% Hinduism 10.7% Islam 6.9% Christianity 0.1% other/none",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Sri Lankan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary semi-presidential republic",
             "children": []
           }
         ]
@@ -322,10 +129,28 @@
         ]
       },
       {
-        "label": "republic",
+        "label": "speaker_of_the_parliament",
         "children": [
           {
-            "label": "22 May 1972",
+            "label": "Jagath Wickramaratne",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Padman Surasena",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -340,27 +165,19 @@
         ]
       },
       {
-        "label": "speaker_of_the_parliament",
+        "label": "anuradhapura_period",
         "children": [
           {
-            "label": "Jagath Wickramaratne",
+            "label": "377 BCE – 1017 CE",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "polonnaruwa_period",
         "children": [
           {
-            "label": "67,240 [ 7 ] km 2 (25,960 sq mi) ( 120th )",
-            "children": []
-          },
-          {
-            "label": "$342.6 billion [ 10 ] ( 62nd )",
-            "children": []
-          },
-          {
-            "label": "$98.9 billion [ 12 ] ( 71st )",
+            "label": "1017–1232",
             "children": []
           }
         ]
@@ -375,10 +192,193 @@
         ]
       },
       {
+        "label": "kandyan_period",
+        "children": [
+          {
+            "label": "1592–1815",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "british_ceylon_period",
+        "children": [
+          {
+            "label": "1815–1948",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence",
+        "children": [
+          {
+            "label": "4 February 1948",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "republic",
+        "children": [
+          {
+            "label": "22 May 1972",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "7 September 1978",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "67,240 km 2 (25,960 sq mi) ( 120th )",
+            "children": []
+          },
+          {
+            "label": "$342.6 billion ( 62nd )",
+            "children": []
+          },
+          {
+            "label": "$98.9 billion ( 71st )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
             "label": "4.4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "23,300,000 ( 60th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "21,781,800",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "337.7/km 2 (874.6/sq mi) ( 36th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$15,632 ( 111th )",
+            "children": []
+          },
+          {
+            "label": "$4,516 ( 120th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "39.8 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.776 high ( 89th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Sri Lankan rupee ( Rs ) ( LKR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +5:30 ( SLST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+94",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "LK",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".lk .ලංකා .இலங்கை",
             "children": []
           }
         ]

@@ -4,105 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+420 [ c ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Prague 50°05′N 14°28′E ﻿ / ﻿ 50.083°N 14.467°E ﻿ / 50.083; 14.467",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Czech koruna ( CZK )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "d. m. yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Czech",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "89% Czechs 3.3% Moravians 0.9% Slovaks 0.7% Ukrainians 2.1% other 4.0% two nationalities",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2024 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "24.4 [ 12 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.915 [ 13 ] very high ( 29th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -118,34 +19,16 @@
             "children": []
           },
           {
-            "label": "Show globe Show map of the European Union Location of the Czech Republic (dark green) – in Europe (green & dark gray) – in the European Union (green) – [ Legend ]",
+            "label": "Show globe Show map of the European Union Location of the Czech Republic (dark green) – in Europe (green & dark gray) – in the European Union (green) –",
             "children": []
           }
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".cz [ d ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CZ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Prague 50°05′N 14°28′E / 50.083°N 14.467°E / 50.083; 14.467",
             "children": []
           }
         ]
@@ -154,7 +37,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Czech [ 1 ]",
+            "label": "Czech",
             "children": []
           }
         ]
@@ -163,7 +46,16 @@
         "label": "officially_recognized_minority_languages",
         "children": [
           {
-            "label": "Belarusian Bulgarian Croatian German Greek Hungarian Polish Romani Russian Rusyn Serbian Slovak Ukrainian Vietnamese As of 2022 [update] [ a ] [ b ]",
+            "label": "Belarusian Bulgarian Croatian German Greek Hungarian Polish Romani Russian Rusyn Serbian Slovak Ukrainian Vietnamese As of 2022",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "89% Czechs 3.3% Moravians 0.9% Slovaks 0.7% Ukrainians 2.1% other 4.0% two nationalities",
             "children": []
           }
         ]
@@ -178,95 +70,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +1 ( CET )",
+            "label": "Czech",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "10,524,167 [ 7 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "10,900,555 [ 10 ] ( 85th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "czech_republic",
-        "children": [
-          {
-            "label": "1 January 1993",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "czechoslovakia",
-        "children": [
-          {
-            "label": "28 October 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "133/km 2 (344.5/sq mi) ( 91st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "duchy_of_bohemia",
-        "children": [
-          {
-            "label": "c. 870",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_bohemia",
-        "children": [
-          {
-            "label": "1198",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Chamber of Deputies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$56,686 [ 11 ] ( 38th )",
-            "children": []
-          },
-          {
-            "label": "$31,365 [ 11 ] ( 38th )",
+            "label": "Unitary parliamentary republic",
             "children": []
           }
         ]
@@ -290,27 +106,10 @@
         ]
       },
       {
-        "label": "summer_dst",
+        "label": "legislature",
         "children": [
           {
-            "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "78,871 km 2 (30,452 sq mi) [ 9 ] ( 115th )",
-            "children": []
-          },
-          {
-            "label": "$619.881 billion [ 11 ] ( 46th )",
-            "children": []
-          },
-          {
-            "label": "$342.992 billion [ 11 ] ( 47th )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -325,10 +124,211 @@
         ]
       },
       {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "Chamber of Deputies",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "duchy_of_bohemia",
+        "children": [
+          {
+            "label": "c. 870",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "kingdom_of_bohemia",
+        "children": [
+          {
+            "label": "1198",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "czechoslovakia",
+        "children": [
+          {
+            "label": "28 October 1918",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "czech_republic",
+        "children": [
+          {
+            "label": "1 January 1993",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "78,871 km 2 (30,452 sq mi) ( 115th )",
+            "children": []
+          },
+          {
+            "label": "$619.881 billion ( 46th )",
+            "children": []
+          },
+          {
+            "label": "$342.992 billion ( 47th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "water",
         "children": [
           {
-            "label": "2.16 (as of 2022) [ 9 ]",
+            "label": "2.16 (as of 2022)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "10,900,555 ( 85th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "10,524,167",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "133/km 2 (344.5/sq mi) ( 91st )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$56,686 ( 38th )",
+            "children": []
+          },
+          {
+            "label": "$31,365 ( 38th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2024 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "24.4 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.915 very high ( 29th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Czech koruna ( CZK )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +1 ( CET )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC +2 ( CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "d. m. yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+420",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "CZ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".cz",
             "children": []
           }
         ]

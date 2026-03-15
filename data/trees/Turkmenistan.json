@@ -4,10 +4,22 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+993",
+            "label": "Flag Emblem",
+            "children": []
+          },
+          {
+            "label": "Motto: Türkmenistan Bitaraplygyň watanydyr \"Turkmenistan is the motherland of Neutrality\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: Türkmenistanyň Döwlet senasy \" State Anthem of Turkmenistan \"",
+            "children": []
+          },
+          {
+            "label": "Show globe Show map of Turkmenistan Turkmenistan (orthographic projection)",
             "children": []
           }
         ]
@@ -16,25 +28,16 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Ashgabat 37°58′N 58°20′E ﻿ / ﻿ 37.967°N 58.333°E ﻿ / 37.967; 58.333",
+            "label": "Ashgabat 37°58′N 58°20′E / 37.967°N 58.333°E / 37.967; 58.333",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "official_languages",
         "children": [
           {
-            "label": "Manat ( TMT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Turkmenistani [ 6 ] Turkmen [ 7 ]",
+            "label": "Turkmen",
             "children": []
           }
         ]
@@ -49,10 +52,175 @@
         ]
       },
       {
+        "label": "religion",
+        "children": [
+          {
+            "label": "95.8% Islam 3.0% no religion 1.1% Christianity 0.1% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Turkmenistani Turkmen",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary presidential republic under a totalitarian hereditary dictatorship",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Serdar Berdimuhamedow",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "deputy_chairman_of_the_cabinet_of_ministers",
+        "children": [
+          {
+            "label": "Raşit Meredow",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "chairman_of_the_peoples_council",
+        "children": [
+          {
+            "label": "Gurbanguly Berdimuhamedow",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "chairperson_of_the_assembly",
+        "children": [
+          {
+            "label": "Dünýägözel Gulmanowa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "chairman_of_the_supreme_court",
+        "children": [
+          {
+            "label": "Begenç Hojamgulyýew",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "declared",
+        "children": [
+          {
+            "label": "22 August 1990",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "recognized",
+        "children": [
+          {
+            "label": "26 December 1991",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "491,210 km 2 (189,660 sq mi) ( 52nd )",
+            "children": []
+          },
+          {
+            "label": "$186.11 billion ( 83rd )",
+            "children": []
+          },
+          {
+            "label": "$89.05 billion ( 78th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "24,069 km 2 (9,293 sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "4.9",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "7,057,841 ( 105th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "14.4/km 2 (37.3/sq mi) ( 221st )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "gdp_ppp",
         "children": [
           {
             "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$27,887 ( 74th )",
+            "children": []
+          },
+          {
+            "label": "$13,334 ( 72nd )",
             "children": []
           }
         ]
@@ -76,85 +244,19 @@
         ]
       },
       {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic under a totalitarian hereditary dictatorship [ 8 ] [ 9 ]",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "hdi",
         "children": [
           {
-            "label": "0.764 [ 13 ] high ( 95th )",
+            "label": "0.764 high ( 95th )",
             "children": []
           }
         ]
       },
       {
-        "label": "info",
+        "label": "currency",
         "children": [
           {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto: Türkmenistan Bitaraplygyň watanydyr \"Turkmenistan is the motherland of Neutrality\" [ 1 ] [ 2 ]",
-            "children": []
-          },
-          {
-            "label": "Anthem: Türkmenistanyň Döwlet senasy \" State Anthem of Turkmenistan \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Turkmenistan Turkmenistan (orthographic projection)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".tm",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TM",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "Turkmen [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "95.8% Islam 3.0% no religion 1.1% Christianity 0.1% other",
+            "label": "Manat ( TMT )",
             "children": []
           }
         ]
@@ -169,130 +271,28 @@
         ]
       },
       {
-        "label": "census",
+        "label": "calling_code",
         "children": [
           {
-            "label": "7,057,841 ( 105th )",
+            "label": "+993",
             "children": []
           }
         ]
       },
       {
-        "label": "chairman_of_the_peoples_council",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "Gurbanguly Berdimuhamedow",
+            "label": "TM",
             "children": []
           }
         ]
       },
       {
-        "label": "chairman_of_the_supreme_court",
+        "label": "internet_tld",
         "children": [
           {
-            "label": "Begenç Hojamgulyýew",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chairperson_of_the_assembly",
-        "children": [
-          {
-            "label": "Dünýägözel Gulmanowa",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared",
-        "children": [
-          {
-            "label": "22 August 1990",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "14.4/km 2 (37.3/sq mi) ( 221st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "deputy_chairman_of_the_cabinet_of_ministers",
-        "children": [
-          {
-            "label": "Raşit Meredow",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$27,887 [ 12 ] ( 74th )",
-            "children": []
-          },
-          {
-            "label": "$13,334 [ 12 ] ( 72nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Serdar Berdimuhamedow",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "recognized",
-        "children": [
-          {
-            "label": "26 December 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "491,210 km 2 (189,660 sq mi) [ 10 ] ( 52nd )",
-            "children": []
-          },
-          {
-            "label": "$186.11 billion [ 12 ] ( 83rd )",
-            "children": []
-          },
-          {
-            "label": "$89.05 billion [ 12 ] ( 78th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "water",
-        "children": [
-          {
-            "label": "24,069 km 2 (9,293 sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "water",
-        "children": [
-          {
-            "label": "4.9",
+            "label": ".tm",
             "children": []
           }
         ]

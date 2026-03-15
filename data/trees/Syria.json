@@ -4,10 +4,18 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+963",
+            "label": "Flag Emblem",
+            "children": []
+          },
+          {
+            "label": "Anthem: حُمَاةَ الدِّيَارِ \" Ḥumāt ad-Diyār \" Guardians of the Homeland ( de jure ) فِي سَبِيلِ المَجد \" Fī Sabīli al-Majd \" In Pursuit of Glory ( de facto )",
+            "children": []
+          },
+          {
+            "label": "Location of Syria Israeli-occupied territories Show globe Show map of Syria",
             "children": []
           }
         ]
@@ -16,132 +24,7 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Damascus 33°30′N 36°18′E ﻿ / ﻿ 33.500°N 36.300°E ﻿ / 33.500; 36.300",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Syrian pound ( SYP/LS )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd-mm-yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Syrian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "80–90% Arabs 9–10% Kurds 1–10% others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2021 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2022 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "26.6 [ 15 ] low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary presidential republic under a provisional government",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.564 [ 16 ] medium ( 162nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "info",
-        "children": [
-          {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: حُمَاةَ الدِّيَارِ \" Ḥumāt ad-Diyār \" Guardians of the Homeland ( de jure ) [ a ] فِي سَبِيلِ المَجد \" Fī Sabīli al-Majd \" In Pursuit of Glory ( de facto ) [ 1 ]",
-            "children": []
-          },
-          {
-            "label": "Location of Syria [ b ] Israeli-occupied territories [ c ] Show globe Show map of Syria",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".sy سوريا.",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "People's Assembly",
+            "label": "Damascus 33°30′N 36°18′E / 33.500°N 36.300°E / 33.500; 36.300",
             "children": []
           }
         ]
@@ -150,7 +33,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Arabic [ 2 ] [ 3 ]",
+            "label": "Arabic",
             "children": []
           }
         ]
@@ -159,16 +42,7 @@
         "label": "recognized_national_languages",
         "children": [
           {
-            "label": "Kurdish [ d ] [ discuss ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "94.17% Islam [ e ] 79.19% Sunni 14.1% Shia 10–13% Alawites 3.84% Christianity 1.99% other",
+            "label": "Kurdish",
             "children": []
           }
         ]
@@ -183,19 +57,55 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "ethnic_groups",
         "children": [
           {
-            "label": "UTC +03:00 ( AST )",
+            "label": "80–90% Arabs 9–10% Kurds 1–10% others",
             "children": []
           }
         ]
       },
       {
-        "label": "estimate",
+        "label": "religion",
         "children": [
           {
-            "label": "26,019,711 [ 13 ] [ 14 ] ( 56th )",
+            "label": "94.17% Islam 79.19% Sunni 14.1% Shia 10–13% Alawites 3.84% Christianity 1.99% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Syrian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary presidential republic under a provisional government",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Ahmed al-Sharaa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "People's Assembly",
             "children": []
           }
         ]
@@ -205,6 +115,42 @@
         "children": [
           {
             "label": "8 March 1920",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "state_of_syria_under_french_mandate",
+        "children": [
+          {
+            "label": "1 December 1924",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "first_syrian_republic",
+        "children": [
+          {
+            "label": "14 May 1930",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "end_of_the_french_mandate",
+        "children": [
+          {
+            "label": "17 April 1946",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "part_of_the_united_arab_republic",
+        "children": [
+          {
+            "label": "22 February 1958 – 28 September 1961",
             "children": []
           }
         ]
@@ -228,85 +174,18 @@
         ]
       },
       {
-        "label": "density",
-        "children": [
-          {
-            "label": "118.3/km 2 (306.4/sq mi) ( 70th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "end_of_the_french_mandate",
-        "children": [
-          {
-            "label": "17 April 1946",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_syrian_republic",
-        "children": [
-          {
-            "label": "14 May 1930",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "part_of_the_united_arab_republic",
-        "children": [
-          {
-            "label": "22 February 1958 – 28 September 1961",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$3,300 [ 2 ]",
-            "children": []
-          },
-          {
-            "label": "$800",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Ahmed al-Sharaa",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "state_of_syria_under_french_mandate",
-        "children": [
-          {
-            "label": "1 December 1924",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "total",
         "children": [
           {
-            "label": "185,180 [ 12 ] km 2 (71,500 sq mi) ( 87th )",
+            "label": "185,180 km 2 (71,500 sq mi) ( 87th )",
             "children": []
           },
           {
-            "label": "$50.28 billion [ 2 ]",
+            "label": "$50.28 billion",
             "children": []
           },
           {
-            "label": "$9.8 billion [ 2 ]",
+            "label": "$9.8 billion",
             "children": []
           }
         ]
@@ -316,6 +195,127 @@
         "children": [
           {
             "label": "1.1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "26,019,711 ( 56th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "118.3/km 2 (306.4/sq mi) ( 70th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2021 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$3,300",
+            "children": []
+          },
+          {
+            "label": "$800",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2022 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "26.6 low inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.564 medium ( 162nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Syrian pound ( SYP/LS )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +03:00 ( AST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd-mm-yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+963",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SY",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".sy سوريا.",
             "children": []
           }
         ]

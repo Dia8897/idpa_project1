@@ -7,79 +7,7 @@
         "label": "afrikaans",
         "children": [
           {
-            "label": "Republiek van Namibië [ 1 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+264",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Windhoek 22°34′S 17°5′E ﻿ / ﻿ 22.567°S 17.083°E ﻿ / -22.567; 17.083",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Namibian dollar (NAD) South African rand (ZAR)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Namibian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ethnic_groups",
-        "children": [
-          {
-            "label": "93.2% Indigenous African [ A ] 3.6% Coloured and Basters 1.8% White 1.4% Asian / other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
+            "label": "Republiek van Namibië",
             "children": []
           }
         ]
@@ -88,34 +16,61 @@
         "label": "german",
         "children": [
           {
-            "label": "Republik Namibia [ 2 ]",
+            "label": "Republik Namibia",
             "children": []
           }
         ]
       },
       {
-        "label": "gini",
+        "label": "khoekhoegowab",
         "children": [
           {
-            "label": "59.1 [ 15 ] high inequality",
+            "label": "Republiki Namibiab dib",
             "children": []
           }
         ]
       },
       {
-        "label": "government",
+        "label": "oshiwambo",
         "children": [
           {
-            "label": "Unitary semi-presidential republic [ 12 ] [ needs update ]",
+            "label": "Orepublika yaNamibia",
             "children": []
           }
         ]
       },
       {
-        "label": "hdi",
+        "label": "otjiherero",
         "children": [
           {
-            "label": "0.665 [ 16 ] medium ( 136th )",
+            "label": "Orepublika yaNamibia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "rukwangali",
+        "children": [
+          {
+            "label": "Republika zaNamibia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "setswana",
+        "children": [
+          {
+            "label": "Rephaboliki ya Namibia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "silozi",
+        "children": [
+          {
+            "label": "Namibia ye Lukuluhile",
             "children": []
           }
         ]
@@ -142,37 +97,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".na",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "khoekhoegowab",
-        "children": [
-          {
-            "label": "Republiki Namibiab dib [ 3 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
+            "label": "Windhoek 22°34′S 17°5′E / 22.567°S 17.083°E / -22.567; 17.083",
             "children": []
           }
         ]
@@ -181,25 +109,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "English [ 9 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "oshiwambo",
-        "children": [
-          {
-            "label": "Orepublika yaNamibia [ 4 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "otjiherero",
-        "children": [
-          {
-            "label": "Orepublika yaNamibia [ 5 ]",
+            "label": "English",
             "children": []
           }
         ]
@@ -223,6 +133,15 @@
         ]
       },
       {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "93.2% Indigenous African 3.6% Coloured and Basters 1.8% White 1.4% Asian / other",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "religion",
         "children": [
           {
@@ -232,113 +151,19 @@
         ]
       },
       {
-        "label": "rukwangali",
+        "label": "demonyms",
         "children": [
           {
-            "label": "Republika zaNamibia [ 6 ]",
+            "label": "Namibian",
             "children": []
           }
         ]
       },
       {
-        "label": "setswana",
+        "label": "government",
         "children": [
           {
-            "label": "Rephaboliki ya Namibia [ 7 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "silozi",
-        "children": [
-          {
-            "label": "Namibia ye Lukuluhile [ 8 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( CAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "census",
-        "children": [
-          {
-            "label": "3,022,401 [ 13 ] [ 10 ] ( 136th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "chief_justice",
-        "children": [
-          {
-            "label": "Peter Shivute",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constitution",
-        "children": [
-          {
-            "label": "9 February 1990",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "3.7/km 2 (9.6/sq mi)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "deputy_prime_minister",
-        "children": [
-          {
-            "label": "Vacant",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "21 March 1990",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$12,370 [ 14 ] ( 117th )",
-            "children": []
-          },
-          {
-            "label": "$4,660 [ 14 ] ( 120th )",
+            "label": "Unitary semi-presidential republic [ needs update ]",
             "children": []
           }
         ]
@@ -353,6 +178,15 @@
         ]
       },
       {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Lucia Witbooi",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "prime_minister",
         "children": [
           {
@@ -362,18 +196,28 @@
         ]
       },
       {
-        "label": "total",
+        "label": "deputy_prime_minister",
         "children": [
           {
-            "label": "825,615 km 2 (318,772 sq mi) ( 34th )",
+            "label": "Vacant",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
           {
-            "label": "$37.73 billion [ 14 ] ( 145th )",
+            "label": "Peter Shivute",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
           {
-            "label": "$14.21 billion [ 14 ] ( 145th )",
+            "label": "Parliament",
             "children": []
           }
         ]
@@ -388,10 +232,45 @@
         ]
       },
       {
-        "label": "vice_president",
+        "label": "lower_house",
         "children": [
           {
-            "label": "Lucia Witbooi",
+            "label": "National Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution",
+        "children": [
+          {
+            "label": "9 February 1990",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence",
+        "children": [
+          {
+            "label": "21 March 1990",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "825,615 km 2 (318,772 sq mi) ( 34th )",
+            "children": []
+          },
+          {
+            "label": "$37.73 billion ( 145th )",
+            "children": []
+          },
+          {
+            "label": "$14.21 billion ( 145th )",
             "children": []
           }
         ]
@@ -401,6 +280,127 @@
         "children": [
           {
             "label": "Negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "3,022,401 ( 136th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "3.7/km 2 (9.6/sq mi)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$12,370 ( 117th )",
+            "children": []
+          },
+          {
+            "label": "$4,660 ( 120th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "59.1 high inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.665 medium ( 136th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Namibian dollar (NAD) South African rand (ZAR)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +2 ( CAT )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd/mm/yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+264",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "NA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".na",
             "children": []
           }
         ]

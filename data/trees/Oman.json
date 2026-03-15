@@ -4,96 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+968",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital_and_largest_city",
-        "children": [
-          {
-            "label": "Muscat 23°35′20″N 58°24′30″E ﻿ / ﻿ 23.58889°N 58.40833°E ﻿ / 23.58889; 58.40833",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Omani rial ( OMR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Omani",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "2025 estimate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "30.75 [ 8 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary Islamic absolute monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0.858 [ 9 ] very high ( 50th )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "info",
         "children": [
           {
@@ -123,28 +33,10 @@
         ]
       },
       {
-        "label": "internet_tld",
+        "label": "capital_and_largest_city",
         "children": [
           {
-            "label": ".om , عمان.",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "OM",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Council of Oman",
+            "label": "Muscat 23°35′20′′N 58°24′30′′E / 23.58889°N 58.40833°E / 23.58889; 58.40833",
             "children": []
           }
         ]
@@ -153,7 +45,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "Arabic [ 1 ]",
+            "label": "Arabic",
             "children": []
           }
         ]
@@ -168,140 +60,19 @@
         ]
       },
       {
-        "label": "time_zone",
+        "label": "demonyms",
         "children": [
           {
-            "label": "UTC +4 ( GST )",
+            "label": "Omani",
             "children": []
           }
         ]
       },
       {
-        "label": "census",
+        "label": "government",
         "children": [
           {
-            "label": "2,773,479 [ 6 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "5,494,691 [ 5 ] ( 122nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "al_bu_said_dynasty",
-        "children": [
-          {
-            "label": "20 November 1744",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "azd_tribe_migration",
-        "children": [
-          {
-            "label": "130",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "basic_statute",
-        "children": [
-          {
-            "label": "6 November 1996",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "crown_prince",
-        "children": [
-          {
-            "label": "Theyazin bin Haitham",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "15/km 2 (38.8/sq mi) ( 177th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "imamate_established",
-        "children": [
-          {
-            "label": "751",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "Consultative Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "muscat_and_oman",
-        "children": [
-          {
-            "label": "8 January 1856",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "nabhani_dynasty",
-        "children": [
-          {
-            "label": "1154",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "omani_empire",
-        "children": [
-          {
-            "label": "1696",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$42,010 [ 7 ] ( 53rd )",
-            "children": []
-          },
-          {
-            "label": "$18,097 [ 7 ] ( 55th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "portuguese_rule",
-        "children": [
-          {
-            "label": "1507–1656",
+            "label": "Unitary Islamic absolute monarchy",
             "children": []
           }
         ]
@@ -316,27 +87,19 @@
         ]
       },
       {
-        "label": "sultanate_of_oman",
+        "label": "crown_prince",
         "children": [
           {
-            "label": "9 August 1970",
+            "label": "Theyazin bin Haitham",
             "children": []
           }
         ]
       },
       {
-        "label": "total",
+        "label": "legislature",
         "children": [
           {
-            "label": "315,331 [ b ] [ 4 ] km 2 (121,750 sq mi) ( 69th )",
-            "children": []
-          },
-          {
-            "label": "$231.16 billion [ 7 ] ( 76th )",
-            "children": []
-          },
-          {
-            "label": "$104.35 billion [ 7 ] ( 70th )",
+            "label": "Council of Oman",
             "children": []
           }
         ]
@@ -351,10 +114,46 @@
         ]
       },
       {
-        "label": "water",
+        "label": "lower_house",
         "children": [
           {
-            "label": "negligible",
+            "label": "Consultative Assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "azd_tribe_migration",
+        "children": [
+          {
+            "label": "130",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "imamate_established",
+        "children": [
+          {
+            "label": "751",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "nabhani_dynasty",
+        "children": [
+          {
+            "label": "1154",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "portuguese_rule",
+        "children": [
+          {
+            "label": "1507–1656",
             "children": []
           }
         ]
@@ -364,6 +163,207 @@
         "children": [
           {
             "label": "1624",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "omani_empire",
+        "children": [
+          {
+            "label": "1696",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "al_bu_said_dynasty",
+        "children": [
+          {
+            "label": "20 November 1744",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "muscat_and_oman",
+        "children": [
+          {
+            "label": "8 January 1856",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "sultanate_of_oman",
+        "children": [
+          {
+            "label": "9 August 1970",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "basic_statute",
+        "children": [
+          {
+            "label": "6 November 1996",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "315,331 km 2 (121,750 sq mi) ( 69th )",
+            "children": []
+          },
+          {
+            "label": "$231.16 billion ( 76th )",
+            "children": []
+          },
+          {
+            "label": "$104.35 billion ( 70th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "negligible",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "5,494,691 ( 122nd )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "2,773,479",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "15/km 2 (38.8/sq mi) ( 177th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$42,010 ( 53rd )",
+            "children": []
+          },
+          {
+            "label": "$18,097 ( 55th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "30.75 medium inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0.858 very high ( 50th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Omani rial ( OMR )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC +4 ( GST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd.mm.yyyy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "+968",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "OM",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": ".om , عمان.",
             "children": []
           }
         ]

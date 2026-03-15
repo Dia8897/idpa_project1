@@ -1,0 +1,946 @@
+{
+  "country_name": "Singapore",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Majulah",
+            "children": []
+          },
+          {
+            "label": "Singapura",
+            "children": []
+          },
+          {
+            "label": "Malay",
+            "children": []
+          },
+          {
+            "label": "Onward",
+            "children": []
+          },
+          {
+            "label": "Singapore",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Majulah",
+            "children": []
+          },
+          {
+            "label": "Singapura",
+            "children": []
+          },
+          {
+            "label": "Malay",
+            "children": []
+          },
+          {
+            "label": "Onward",
+            "children": []
+          },
+          {
+            "label": "Singapore",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "ASEAN",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Singapore",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "Southeast",
+            "children": []
+          },
+          {
+            "label": "Asia",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: Majulah Singapura ( Malay ) \"Onward Singapore\"",
+          "Anthem: Majulah Singapura ( Malay ) \"Onward Singapore\"",
+          "Show globe Show ASEAN Location of Singapore (green) in Southeast Asia"
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Singapore",
+            "children": []
+          },
+          {
+            "label": "city",
+            "children": []
+          },
+          {
+            "label": "state",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "103",
+            "children": []
+          },
+          {
+            "label": "50",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "283",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "103",
+            "children": []
+          },
+          {
+            "label": "833",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "283",
+            "children": []
+          },
+          {
+            "label": "103",
+            "children": []
+          },
+          {
+            "label": "833",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Singapore ( city-state ) 1°17′N 103°50′E / 1.283°N 103.833°E / 1.283; 103.833"
+        ]
+      },
+      {
+        "label": "largest_planning_area_by_population",
+        "children": [
+          {
+            "label": "Tampines",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tampines"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Malay",
+            "children": []
+          },
+          {
+            "label": "Mandarin",
+            "children": []
+          },
+          {
+            "label": "Tamil",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English Malay Mandarin Tamil"
+        ]
+      },
+      {
+        "label": "national_language",
+        "children": [
+          {
+            "label": "Malay",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Malay"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "74",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Chinese",
+            "children": []
+          },
+          {
+            "label": "13",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Malay",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "Indian",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "74.3% Chinese 13.5% Malay 9.0% Indian 3.2% Other"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Buddhism",
+            "children": []
+          },
+          {
+            "label": "20",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "No",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Taoism",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "Hinduism",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Sikhism",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "31.1% Buddhism 20.0% No religion 18.9% Christianity 15.6% Islam 8.8% Taoism 5.0% Hinduism 0.3% Sikhism 0.3% Other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Singaporean",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Singaporean"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Tharman",
+            "children": []
+          },
+          {
+            "label": "Shanmugaratnam",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tharman Shanmugaratnam"
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Lawrence",
+            "children": []
+          },
+          {
+            "label": "Wong",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Lawrence Wong"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "selfgovernance",
+        "children": [
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "June",
+            "children": []
+          },
+          {
+            "label": "1959",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "3 June 1959"
+        ]
+      },
+      {
+        "label": "malaysia_agreement",
+        "children": [
+          {
+            "label": "16",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1963",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "16 September 1963"
+        ]
+      },
+      {
+        "label": "proclamation_of_singapore",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1965",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9 August 1965"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "744",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "287",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "176th",
+            "children": []
+          },
+          {
+            "label": "952",
+            "children": []
+          },
+          {
+            "label": "600",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "34th",
+            "children": []
+          },
+          {
+            "label": "564",
+            "children": []
+          },
+          {
+            "label": "700",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "27th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "744.3 km 2 (287.4 sq mi) ( 176th )",
+          "$952.600 billion ( 34th )",
+          "$564.700 billion ( 27th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "43",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1.43%"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "110",
+            "children": []
+          },
+          {
+            "label": "200",
+            "children": []
+          },
+          {
+            "label": "111th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "6,110,200 ( 111th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "290",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "21",
+            "children": []
+          },
+          {
+            "label": "471",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "3rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "8,290/km 2 (21,471.0/sq mi) ( 3rd )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "156",
+            "children": []
+          },
+          {
+            "label": "755",
+            "children": []
+          },
+          {
+            "label": "1st",
+            "children": []
+          },
+          {
+            "label": "93",
+            "children": []
+          },
+          {
+            "label": "956",
+            "children": []
+          },
+          {
+            "label": "4th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$156,755 ( 1st )",
+          "$93,956 ( 4th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "43",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "43.3 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "946",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "13th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.946 very high ( 13th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Singapore",
+            "children": []
+          },
+          {
+            "label": "dollar",
+            "children": []
+          },
+          {
+            "label": "S",
+            "children": []
+          },
+          {
+            "label": "SGD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Singapore dollar (S$) ( SGD )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "SGT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +8 ( SGT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          },
+          {
+            "label": "AD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd-mm-yyyy ( AD )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "65",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+65"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "SG",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "SG"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "sg",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".sg"
+        ]
+      }
+    ]
+  }
+}

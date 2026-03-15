@@ -4,10 +4,22 @@
     "label": "country",
     "children": [
       {
-        "label": "calling_code",
+        "label": "info",
         "children": [
           {
-            "label": "+1",
+            "label": "Flag Coat of arms",
+            "children": []
+          },
+          {
+            "label": "Motto: \"Ever Conscious of God We Aspire, Build and Advance as One People\"",
+            "children": []
+          },
+          {
+            "label": "Anthem: \" Hail Grenada \" Royal anthem : \" God Save the King \"",
+            "children": []
+          },
+          {
+            "label": "Plus trace of Arawak / Carib .",
             "children": []
           }
         ]
@@ -16,34 +28,16 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "St. George's 12°3′14″N 61°44′43″W ﻿ / ﻿ 12.05389°N 61.74528°W ﻿ / 12.05389; -61.74528 ﻿ ( Grenada House of Parliament )",
+            "label": "St. George's 12°3′14′′N 61°44′43′′W / 12.05389°N 61.74528°W / 12.05389; -61.74528 ( Grenada House of Parliament )",
             "children": []
           }
         ]
       },
       {
-        "label": "currency",
+        "label": "official_languages",
         "children": [
           {
-            "label": "Eastern Caribbean dollar ( XCD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Grenadian [ 6 ]",
+            "label": "English",
             "children": []
           }
         ]
@@ -58,10 +52,184 @@
         ]
       },
       {
+        "label": "religion",
+        "children": [
+          {
+            "label": "96.6% Christianity 48.8% Protestantism 39.2% Catholicism 8.6% other Christian 1.3% Hinduism 1.0% no religion 0.7% Rastafari 0.4% other",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Grenadian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary parliamentary constitutional monarchy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "monarch",
+        "children": [
+          {
+            "label": "Charles III",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "governorgeneral",
+        "children": [
+          {
+            "label": "Cécile La Grenade",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Dickon Mitchell",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House of Representatives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "associated_state",
+        "children": [
+          {
+            "label": "3 March 1967",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "independence_from_the_united_kingdom",
+        "children": [
+          {
+            "label": "7 February 1974",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "grenadian_revolution",
+        "children": [
+          {
+            "label": "13 March 1979",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "constitution_restoration",
+        "children": [
+          {
+            "label": "4 December 1984",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "344 km 2 (133 sq mi) ( 185th )",
+            "children": []
+          },
+          {
+            "label": "$2.3 billion",
+            "children": []
+          },
+          {
+            "label": "$1.3 billion",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1.6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "114,621 ( 180th )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "333/km 2 (862.5/sq mi) ( 38th )",
+            "children": []
+          }
+        ]
+      },
+      {
         "label": "gdp_ppp",
         "children": [
           {
             "label": "2023 estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "$20,195",
+            "children": []
+          },
+          {
+            "label": "$11,437",
             "children": []
           }
         ]
@@ -79,16 +247,7 @@
         "label": "gini",
         "children": [
           {
-            "label": "43.8 [ 9 ] medium inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "government",
-        "children": [
-          {
-            "label": "Unitary parliamentary constitutional monarchy",
+            "label": "43.8 medium inequality",
             "children": []
           }
         ]
@@ -97,73 +256,16 @@
         "label": "hdi",
         "children": [
           {
-            "label": "0.791 [ 10 ] high ( 80th )",
+            "label": "0.791 high ( 80th )",
             "children": []
           }
         ]
       },
       {
-        "label": "info",
+        "label": "currency",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Motto: \"Ever Conscious of God We Aspire, Build and Advance as One People\" [ 1 ]",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Hail Grenada \" Royal anthem : \" God Save the King \" [ a ]",
-            "children": []
-          },
-          {
-            "label": "Plus trace of Arawak / Carib .",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".gd",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GD",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "official_languages",
-        "children": [
-          {
-            "label": "English",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "religion",
-        "children": [
-          {
-            "label": "96.6% Christianity 48.8% Protestantism 39.2% Catholicism 8.6% other Christian 1.3% Hinduism 1.0% no religion 0.7% Rastafari 0.4% other",
+            "label": "Eastern Caribbean dollar ( XCD )",
             "children": []
           }
         ]
@@ -178,139 +280,37 @@
         ]
       },
       {
-        "label": "estimate",
+        "label": "date_format",
         "children": [
           {
-            "label": "114,621 [ 7 ] ( 180th )",
+            "label": "dd/mm/yyyy",
             "children": []
           }
         ]
       },
       {
-        "label": "associated_state",
+        "label": "calling_code",
         "children": [
           {
-            "label": "3 March 1967",
+            "label": "+1",
             "children": []
           }
         ]
       },
       {
-        "label": "constitution_restoration",
+        "label": "iso_3166_code",
         "children": [
           {
-            "label": "4 December 1984",
+            "label": "GD",
             "children": []
           }
         ]
       },
       {
-        "label": "density",
+        "label": "internet_tld",
         "children": [
           {
-            "label": "333/km 2 (862.5/sq mi) ( 38th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "governorgeneral",
-        "children": [
-          {
-            "label": "Cécile La Grenade",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "grenadian_revolution",
-        "children": [
-          {
-            "label": "13 March 1979",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom",
-        "children": [
-          {
-            "label": "7 February 1974",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "lower_house",
-        "children": [
-          {
-            "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "monarch",
-        "children": [
-          {
-            "label": "Charles III",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "$20,195 [ 8 ]",
-            "children": []
-          },
-          {
-            "label": "$11,437 [ 8 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Dickon Mitchell",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "344 [ 7 ] km 2 (133 sq mi) ( 185th )",
-            "children": []
-          },
-          {
-            "label": "$2.3 billion [ 8 ]",
-            "children": []
-          },
-          {
-            "label": "$1.3 billion [ 8 ]",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "upper_house",
-        "children": [
-          {
-            "label": "Senate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "water",
-        "children": [
-          {
-            "label": "1.6",
+            "label": ".gd",
             "children": []
           }
         ]

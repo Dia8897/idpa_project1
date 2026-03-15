@@ -1,0 +1,1414 @@
+{
+  "country_name": "South Africa",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "afrikaans",
+        "children": [
+          {
+            "label": "Republiek",
+            "children": []
+          },
+          {
+            "label": "van",
+            "children": []
+          },
+          {
+            "label": "Suid",
+            "children": []
+          },
+          {
+            "label": "Afrika",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Republiek van Suid-Afrika"
+        ]
+      },
+      {
+        "label": "zulu",
+        "children": [
+          {
+            "label": "iRiphabhuliki",
+            "children": []
+          },
+          {
+            "label": "yaseNingizimu",
+            "children": []
+          },
+          {
+            "label": "Afrika",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "iRiphabhuliki yaseNingizimu Afrika"
+        ]
+      },
+      {
+        "label": "xhosa",
+        "children": [
+          {
+            "label": "iRiphabhlikhi",
+            "children": []
+          },
+          {
+            "label": "yoMzantsi",
+            "children": []
+          },
+          {
+            "label": "Afrika",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "iRiphabhlikhi yoMzantsi Afrika"
+        ]
+      },
+      {
+        "label": "pedi",
+        "children": [
+          {
+            "label": "Repabliki",
+            "children": []
+          },
+          {
+            "label": "ya",
+            "children": []
+          },
+          {
+            "label": "Afrika",
+            "children": []
+          },
+          {
+            "label": "Borwa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Repabliki ya Afrika-Borwa"
+        ]
+      },
+      {
+        "label": "southern_sotho",
+        "children": [
+          {
+            "label": "Rephaboliki",
+            "children": []
+          },
+          {
+            "label": "ya",
+            "children": []
+          },
+          {
+            "label": "Afrika",
+            "children": []
+          },
+          {
+            "label": "Borwa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Rephaboliki ya Afrika Borwa"
+        ]
+      },
+      {
+        "label": "tswana",
+        "children": [
+          {
+            "label": "Rephaboliki",
+            "children": []
+          },
+          {
+            "label": "ya",
+            "children": []
+          },
+          {
+            "label": "Aforika",
+            "children": []
+          },
+          {
+            "label": "Borwa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Rephaboliki ya Aforika Borwa"
+        ]
+      },
+      {
+        "label": "tsonga",
+        "children": [
+          {
+            "label": "Riphabliki",
+            "children": []
+          },
+          {
+            "label": "ya",
+            "children": []
+          },
+          {
+            "label": "Afrika",
+            "children": []
+          },
+          {
+            "label": "Dzonga",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Riphabliki ya Afrika Dzonga"
+        ]
+      },
+      {
+        "label": "swati",
+        "children": [
+          {
+            "label": "iRiphabhulikhi",
+            "children": []
+          },
+          {
+            "label": "yaseNingizimu",
+            "children": []
+          },
+          {
+            "label": "Afrika",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "iRiphabhulikhi yaseNingizimu-Afrika"
+        ]
+      },
+      {
+        "label": "venda",
+        "children": [
+          {
+            "label": "Riphabu",
+            "children": []
+          },
+          {
+            "label": "iki",
+            "children": []
+          },
+          {
+            "label": "ya",
+            "children": []
+          },
+          {
+            "label": "Afurika",
+            "children": []
+          },
+          {
+            "label": "Tshipembe",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Riphabuḽiki ya Afurika Tshipembe"
+        ]
+      },
+      {
+        "label": "southern_ndebele",
+        "children": [
+          {
+            "label": "iRiphabliki",
+            "children": []
+          },
+          {
+            "label": "yeSewula",
+            "children": []
+          },
+          {
+            "label": "Afrika",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "iRiphabliki yeSewula Afrika"
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "ke",
+            "children": []
+          },
+          {
+            "label": "e",
+            "children": []
+          },
+          {
+            "label": "xarra",
+            "children": []
+          },
+          {
+            "label": "ke",
+            "children": []
+          },
+          {
+            "label": "Xam",
+            "children": []
+          },
+          {
+            "label": "Unity",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "diversity",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \" ǃke e: ǀxarra ǁke \" ( ǀXam ) \" Unity in diversity \"",
+          "Anthem: \" National Anthem of South Africa \"",
+          "Show globe Show map of South Africa"
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Pretoria",
+            "children": []
+          },
+          {
+            "label": "executive",
+            "children": []
+          },
+          {
+            "label": "Cape",
+            "children": []
+          },
+          {
+            "label": "Town",
+            "children": []
+          },
+          {
+            "label": "legislative",
+            "children": []
+          },
+          {
+            "label": "Bloemfontein",
+            "children": []
+          },
+          {
+            "label": "judicial",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Pretoria (executive) Cape Town (legislative) Bloemfontein (judicial)"
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Johannesburg",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Johannesburg"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "languages",
+            "children": []
+          },
+          {
+            "label": "Afrikaans",
+            "children": []
+          },
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Ndebele",
+            "children": []
+          },
+          {
+            "label": "Sepedi",
+            "children": []
+          },
+          {
+            "label": "Sesotho",
+            "children": []
+          },
+          {
+            "label": "Setswana",
+            "children": []
+          },
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "Sign",
+            "children": []
+          },
+          {
+            "label": "Language",
+            "children": []
+          },
+          {
+            "label": "Swazi",
+            "children": []
+          },
+          {
+            "label": "Tshivenda",
+            "children": []
+          },
+          {
+            "label": "Xhosa",
+            "children": []
+          },
+          {
+            "label": "Xitsonga",
+            "children": []
+          },
+          {
+            "label": "Zulu",
+            "children": []
+          },
+          {
+            "label": "Languages",
+            "children": []
+          },
+          {
+            "label": "with",
+            "children": []
+          },
+          {
+            "label": "special",
+            "children": []
+          },
+          {
+            "label": "status",
+            "children": []
+          },
+          {
+            "label": "Khoe",
+            "children": []
+          },
+          {
+            "label": "languages",
+            "children": []
+          },
+          {
+            "label": "Nama",
+            "children": []
+          },
+          {
+            "label": "Khoisan",
+            "children": []
+          },
+          {
+            "label": "languages",
+            "children": []
+          },
+          {
+            "label": "German",
+            "children": []
+          },
+          {
+            "label": "Greek",
+            "children": []
+          },
+          {
+            "label": "Gujarati",
+            "children": []
+          },
+          {
+            "label": "Hindi",
+            "children": []
+          },
+          {
+            "label": "Portuguese",
+            "children": []
+          },
+          {
+            "label": "Telugu",
+            "children": []
+          },
+          {
+            "label": "Tamil",
+            "children": []
+          },
+          {
+            "label": "Urdu",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          },
+          {
+            "label": "Hebrew",
+            "children": []
+          },
+          {
+            "label": "Sanskrit",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "12 languages Afrikaans English Ndebele Sepedi Sesotho Setswana South African Sign Language Swazi Tshivenda Xhosa Xitsonga Zulu Languages with special status Khoe languages Nama Khoisan languages German Greek Gujarati Hindi Portuguese Telugu Tamil Urdu Arabic Hebrew Sanskrit"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "81",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Black",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Coloured",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "White",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Indian",
+            "children": []
+          },
+          {
+            "label": "or",
+            "children": []
+          },
+          {
+            "label": "Asian",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "81.4% Black 8.2% Coloured 7.3% White 2.7% Indian or Asian 0.4% other"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "85",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Traditional",
+            "children": []
+          },
+          {
+            "label": "faiths",
+            "children": []
+          },
+          {
+            "label": "3",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "No",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "Hinduism",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "85.3% Christianity 7.8% Traditional faiths 3.1% No religion 1.6% Islam 1.1% Hinduism 1.1% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "South African"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Unitary",
+            "children": []
+          },
+          {
+            "label": "parliamentary",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          },
+          {
+            "label": "with",
+            "children": []
+          },
+          {
+            "label": "an",
+            "children": []
+          },
+          {
+            "label": "executive",
+            "children": []
+          },
+          {
+            "label": "presidency",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Unitary parliamentary republic with an executive presidency"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Cyril",
+            "children": []
+          },
+          {
+            "label": "Ramaphosa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Cyril Ramaphosa"
+        ]
+      },
+      {
+        "label": "deputy_president",
+        "children": [
+          {
+            "label": "Paul",
+            "children": []
+          },
+          {
+            "label": "Mashatile",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Paul Mashatile"
+        ]
+      },
+      {
+        "label": "speaker_of_the_national_assembly",
+        "children": [
+          {
+            "label": "Thoko",
+            "children": []
+          },
+          {
+            "label": "Didiza",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Thoko Didiza"
+        ]
+      },
+      {
+        "label": "chairperson_of_the_national_council_of_provinces",
+        "children": [
+          {
+            "label": "Refilwe",
+            "children": []
+          },
+          {
+            "label": "Mtsweni",
+            "children": []
+          },
+          {
+            "label": "Tsipane",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Refilwe Mtsweni-Tsipane"
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Mandisa",
+            "children": []
+          },
+          {
+            "label": "Maya",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Mandisa Maya"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Parliament",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Parliament"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Council",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Provinces",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Council of Provinces"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "union",
+        "children": [
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1910",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "31 May 1910"
+        ]
+      },
+      {
+        "label": "statute_of_westminster",
+        "children": [
+          {
+            "label": "11",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1931",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "11 December 1931"
+        ]
+      },
+      {
+        "label": "republic",
+        "children": [
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1961",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "31 May 1961"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "February",
+            "children": []
+          },
+          {
+            "label": "1997",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4 February 1997"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "221",
+            "children": []
+          },
+          {
+            "label": "037",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "471",
+            "children": []
+          },
+          {
+            "label": "445",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "24th",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "060",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "33rd",
+            "children": []
+          },
+          {
+            "label": "443",
+            "children": []
+          },
+          {
+            "label": "64",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "38th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1,221,037 km 2 (471,445 sq mi) ( 24th )",
+          "$1.060 trillion ( 33rd )",
+          "$443.64 billion ( 38th )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "380",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.380"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "63",
+            "children": []
+          },
+          {
+            "label": "015",
+            "children": []
+          },
+          {
+            "label": "904",
+            "children": []
+          },
+          {
+            "label": "23rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "63,015,904 ( 23rd )"
+        ]
+      },
+      {
+        "label": "census",
+        "children": [
+          {
+            "label": "62",
+            "children": []
+          },
+          {
+            "label": "027",
+            "children": []
+          },
+          {
+            "label": "503",
+            "children": []
+          },
+          {
+            "label": "23rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "62,027,503 ( 23rd )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "50",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "131",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "169th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "50.8/km 2 (131.6/sq mi) ( 169th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "16",
+            "children": []
+          },
+          {
+            "label": "280",
+            "children": []
+          },
+          {
+            "label": "107th",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "830",
+            "children": []
+          },
+          {
+            "label": "107th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$16,280 ( 107th )",
+          "$6,830 ( 107th )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2026",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2026 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "63",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "63.0 very high inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "741",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "106th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.741 high ( 106th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "South",
+            "children": []
+          },
+          {
+            "label": "African",
+            "children": []
+          },
+          {
+            "label": "rand",
+            "children": []
+          },
+          {
+            "label": "ZAR",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "South African rand ( ZAR )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "SAST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( SAST )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "Short",
+            "children": []
+          },
+          {
+            "label": "formats",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "dd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Short formats: yyyy/mm/dd yyyy-mm-dd"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "27",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+27"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "ZA",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "ZA"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "za",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".za"
+        ]
+      }
+    ]
+  }
+}

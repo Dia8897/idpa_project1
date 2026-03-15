@@ -1,0 +1,1198 @@
+{
+  "country_name": "Nigeria",
+  "tree": {
+    "label": "country",
+    "children": [
+      {
+        "label": "hausa",
+        "children": [
+          {
+            "label": "Jamhuriyar",
+            "children": []
+          },
+          {
+            "label": "Tarayyar",
+            "children": []
+          },
+          {
+            "label": "Najeriya",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Jamhuriyar Tarayyar Najeriya"
+        ]
+      },
+      {
+        "label": "igbo",
+        "children": [
+          {
+            "label": "h",
+            "children": []
+          },
+          {
+            "label": "j",
+            "children": []
+          },
+          {
+            "label": "k",
+            "children": []
+          },
+          {
+            "label": "h",
+            "children": []
+          },
+          {
+            "label": "n",
+            "children": []
+          },
+          {
+            "label": "z",
+            "children": []
+          },
+          {
+            "label": "Na",
+            "children": []
+          },
+          {
+            "label": "j",
+            "children": []
+          },
+          {
+            "label": "r",
+            "children": []
+          },
+          {
+            "label": "y",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà"
+        ]
+      },
+      {
+        "label": "yoruba",
+        "children": [
+          {
+            "label": "Or",
+            "children": []
+          },
+          {
+            "label": "l",
+            "children": []
+          },
+          {
+            "label": "d",
+            "children": []
+          },
+          {
+            "label": "Ol",
+            "children": []
+          },
+          {
+            "label": "m",
+            "children": []
+          },
+          {
+            "label": "niira",
+            "children": []
+          },
+          {
+            "label": "pap",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "j",
+            "children": []
+          },
+          {
+            "label": "r",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Orílẹ̀-èdè Olómìniira Àpapọ̀ Nàìjíríà"
+        ]
+      },
+      {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "Unity",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Faith",
+            "children": []
+          },
+          {
+            "label": "Peace",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "Progress",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Nigeria",
+            "children": []
+          },
+          {
+            "label": "We",
+            "children": []
+          },
+          {
+            "label": "Hail",
+            "children": []
+          },
+          {
+            "label": "Thee",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Africa",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: \"Unity and Faith, Peace and Progress\"",
+          "Anthem: \" Nigeria, We Hail Thee \"",
+          "Show globe Show map of Africa"
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Abuja",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "067",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "483",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "067",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "483",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Abuja 9°4′N 7°29′E / 9.067°N 7.483°E / 9.067; 7.483"
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Lagos",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Lagos"
+        ]
+      },
+      {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English"
+        ]
+      },
+      {
+        "label": "recognised_languages",
+        "children": [
+          {
+            "label": "List",
+            "children": []
+          },
+          {
+            "label": "Hausa",
+            "children": []
+          },
+          {
+            "label": "Yoruba",
+            "children": []
+          },
+          {
+            "label": "Igbo",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "List Hausa Yoruba Igbo"
+        ]
+      },
+      {
+        "label": "regional_languages",
+        "children": [
+          {
+            "label": "Over",
+            "children": []
+          },
+          {
+            "label": "525",
+            "children": []
+          },
+          {
+            "label": "languages",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Over 525 languages"
+        ]
+      },
+      {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "Hausa",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "Yoruba",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "Igbo",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Fulani",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Tiv",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Kanuri",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Ibibio",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Ijaw",
+            "children": []
+          },
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "30% Hausa 15.5% Yoruba 15.2% Igbo 6% Fulani 2.4% Tiv 2.4% Kanuri 1.8% Ibibio 1.8% Ijaw 24.7% other"
+        ]
+      },
+      {
+        "label": "religion",
+        "children": [
+          {
+            "label": "53",
+            "children": []
+          },
+          {
+            "label": "50",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "45",
+            "children": []
+          },
+          {
+            "label": "90",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "Protestants",
+            "children": []
+          },
+          {
+            "label": "10",
+            "children": []
+          },
+          {
+            "label": "60",
+            "children": []
+          },
+          {
+            "label": "Catholics",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "60",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "53.50% Islam 45.90% Christianity 35.30% Protestants 10.60% Catholics 0.60% other"
+        ]
+      },
+      {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "Nigerian",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Nigerian"
+        ]
+      },
+      {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "presidential",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal presidential republic"
+        ]
+      },
+      {
+        "label": "president",
+        "children": [
+          {
+            "label": "Bola",
+            "children": []
+          },
+          {
+            "label": "Tinubu",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bola Tinubu"
+        ]
+      },
+      {
+        "label": "vice_president",
+        "children": [
+          {
+            "label": "Kashim",
+            "children": []
+          },
+          {
+            "label": "Shettima",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kashim Shettima"
+        ]
+      },
+      {
+        "label": "senate_president",
+        "children": [
+          {
+            "label": "Godswill",
+            "children": []
+          },
+          {
+            "label": "Akpabio",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Godswill Akpabio"
+        ]
+      },
+      {
+        "label": "house_speaker",
+        "children": [
+          {
+            "label": "Tajudeen",
+            "children": []
+          },
+          {
+            "label": "Abbas",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tajudeen Abbas"
+        ]
+      },
+      {
+        "label": "chief_justice",
+        "children": [
+          {
+            "label": "Kudirat",
+            "children": []
+          },
+          {
+            "label": "Kekere",
+            "children": []
+          },
+          {
+            "label": "Ekun",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Kudirat Kekere-Ekun"
+        ]
+      },
+      {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Assembly"
+        ]
+      },
+      {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Senate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Senate"
+        ]
+      },
+      {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "House",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Representatives",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "House of Representatives"
+        ]
+      },
+      {
+        "label": "northern_nigeria_protectorate",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "January",
+            "children": []
+          },
+          {
+            "label": "1900",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 January 1900"
+        ]
+      },
+      {
+        "label": "southern_nigeria_protectorate",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "January",
+            "children": []
+          },
+          {
+            "label": "1900",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 January 1900"
+        ]
+      },
+      {
+        "label": "unification_of_nigeria",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "January",
+            "children": []
+          },
+          {
+            "label": "1914",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 January 1914"
+        ]
+      },
+      {
+        "label": "declared_independent_as_a_sovereign_state",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1960",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 October 1960"
+        ]
+      },
+      {
+        "label": "became_a_republic",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1963",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 October 1963"
+        ]
+      },
+      {
+        "label": "current_constitution",
+        "children": [
+          {
+            "label": "29",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1999",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "29 May 1999"
+        ]
+      },
+      {
+        "label": "total",
+        "children": [
+          {
+            "label": "923",
+            "children": []
+          },
+          {
+            "label": "769",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "356",
+            "children": []
+          },
+          {
+            "label": "669",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "31st",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "254",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "19th",
+            "children": []
+          },
+          {
+            "label": "285",
+            "children": []
+          },
+          {
+            "label": "003",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "52nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "923,769 km 2 (356,669 sq mi) ( 31st )",
+          "$2.254 trillion ( 19th )",
+          "$285.003 billion ( 52nd )"
+        ]
+      },
+      {
+        "label": "water",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1.4"
+        ]
+      },
+      {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "236",
+            "children": []
+          },
+          {
+            "label": "747",
+            "children": []
+          },
+          {
+            "label": "130",
+            "children": []
+          },
+          {
+            "label": "6th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "236,747,130 ( 6th )"
+        ]
+      },
+      {
+        "label": "density",
+        "children": [
+          {
+            "label": "249",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "647",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "57th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "249.8/km 2 (647.0/sq mi) ( 57th )"
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "488",
+            "children": []
+          },
+          {
+            "label": "135th",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "200",
+            "children": []
+          },
+          {
+            "label": "173rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$9,488 ( 135th )",
+          "$1,200 ( 173rd )"
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      },
+      {
+        "label": "gini",
+        "children": [
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "35.1 medium inequality"
+        ]
+      },
+      {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "560",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "164th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.560 medium ( 164th )"
+        ]
+      },
+      {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Naira",
+            "children": []
+          },
+          {
+            "label": "NGN",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Naira (₦) ( NGN )"
+        ]
+      },
+      {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "01",
+            "children": []
+          },
+          {
+            "label": "00",
+            "children": []
+          },
+          {
+            "label": "WAT",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +01:00 ( WAT )"
+        ]
+      },
+      {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd/mm/yyyy"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "234",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+234"
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "NG",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "NG"
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "ng",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".ng"
+        ]
+      }
+    ]
+  }
+}
