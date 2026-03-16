@@ -4,10 +4,10 @@
   "source": "Lebanon",
   "target": "Switzerland",
   "operation_counts": {
-    "total": 252,
+    "total": 273,
     "delete": 109,
     "insert": 141,
-    "update": 2
+    "update": 23
   },
   "operations": [
     {
@@ -16,6 +16,7 @@
       "old": "capital_and_largest_city",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 1,
       "subtree": {
         "label": "capital_and_largest_city",
         "children": [
@@ -87,6 +88,9 @@
             "label": "533",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Beirut 33°54′N 35°32′E / 33.900°N 35.533°E / 33.900; 35.533"
         ]
       }
     },
@@ -96,6 +100,7 @@
       "old": "local_vernacular",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 3,
       "subtree": {
         "label": "local_vernacular",
         "children": [
@@ -107,6 +112,9 @@
             "label": "Arabic",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Lebanese Arabic"
         ]
       }
     },
@@ -116,6 +124,7 @@
       "old": "recognised_minority_language",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 4,
       "subtree": {
         "label": "recognised_minority_language",
         "children": [
@@ -123,6 +132,9 @@
             "label": "French",
             "children": []
           }
+        ],
+        "raw_values": [
+          "French"
         ]
       }
     },
@@ -132,6 +144,7 @@
       "old": "ethnic_groups",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 5,
       "subtree": {
         "label": "ethnic_groups",
         "children": [
@@ -159,6 +172,9 @@
             "label": "others",
             "children": []
           }
+        ],
+        "raw_values": [
+          "95% Arab 4% Armenian 1% others"
         ]
       }
     },
@@ -168,6 +184,7 @@
       "old": "president",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 9,
       "subtree": {
         "label": "president",
         "children": [
@@ -179,6 +196,9 @@
             "label": "Aoun",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Joseph Aoun"
         ]
       }
     },
@@ -188,6 +208,7 @@
       "old": "prime_minister",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 10,
       "subtree": {
         "label": "prime_minister",
         "children": [
@@ -199,6 +220,9 @@
             "label": "Salam",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Nawaf Salam"
         ]
       }
     },
@@ -208,6 +232,7 @@
       "old": "speaker_of_the_parliament",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 11,
       "subtree": {
         "label": "speaker_of_the_parliament",
         "children": [
@@ -219,6 +244,9 @@
             "label": "Berri",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Nabih Berri"
         ]
       }
     },
@@ -228,6 +256,7 @@
       "old": "emirate_of_mount_lebanon",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 13,
       "subtree": {
         "label": "emirate_of_mount_lebanon",
         "children": [
@@ -235,6 +264,9 @@
             "label": "1516",
             "children": []
           }
+        ],
+        "raw_values": [
+          "1516"
         ]
       }
     },
@@ -244,6 +276,7 @@
       "old": "double_qaimmaqamate_of_mount_lebanon",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 14,
       "subtree": {
         "label": "double_qaimmaqamate_of_mount_lebanon",
         "children": [
@@ -259,6 +292,9 @@
             "label": "1843",
             "children": []
           }
+        ],
+        "raw_values": [
+          "1 December 1843"
         ]
       }
     },
@@ -268,6 +304,7 @@
       "old": "mount_lebanon_mutasarrifate",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 15,
       "subtree": {
         "label": "mount_lebanon_mutasarrifate",
         "children": [
@@ -283,6 +320,9 @@
             "label": "1861",
             "children": []
           }
+        ],
+        "raw_values": [
+          "9 June 1861"
         ]
       }
     },
@@ -292,6 +332,7 @@
       "old": "greater_lebanon",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 16,
       "subtree": {
         "label": "greater_lebanon",
         "children": [
@@ -307,6 +348,9 @@
             "label": "1920",
             "children": []
           }
+        ],
+        "raw_values": [
+          "1 September 1920"
         ]
       }
     },
@@ -316,6 +360,7 @@
       "old": "constitution",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 17,
       "subtree": {
         "label": "constitution",
         "children": [
@@ -331,6 +376,9 @@
             "label": "1926",
             "children": []
           }
+        ],
+        "raw_values": [
+          "23 May 1926"
         ]
       }
     },
@@ -340,6 +388,7 @@
       "old": "independence_declared",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 18,
       "subtree": {
         "label": "independence_declared",
         "children": [
@@ -355,6 +404,9 @@
             "label": "1943",
             "children": []
           }
+        ],
+        "raw_values": [
+          "22 November 1943"
         ]
       }
     },
@@ -364,6 +416,7 @@
       "old": "french_mandate_ended",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 19,
       "subtree": {
         "label": "french_mandate_ended",
         "children": [
@@ -379,6 +432,9 @@
             "label": "1945",
             "children": []
           }
+        ],
+        "raw_values": [
+          "24 October 1945"
         ]
       }
     },
@@ -388,6 +444,7 @@
       "old": "withdrawal_of_french_forces",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 20,
       "subtree": {
         "label": "withdrawal_of_french_forces",
         "children": [
@@ -403,6 +460,9 @@
             "label": "1946",
             "children": []
           }
+        ],
+        "raw_values": [
+          "17 April 1946"
         ]
       }
     },
@@ -412,6 +472,7 @@
       "old": "israeli_troops_withdrawn",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 21,
       "subtree": {
         "label": "israeli_troops_withdrawn",
         "children": [
@@ -427,6 +488,9 @@
             "label": "2000",
             "children": []
           }
+        ],
+        "raw_values": [
+          "24 May 2000"
         ]
       }
     },
@@ -436,6 +500,7 @@
       "old": "syrian_troops_withdrawn",
       "new": null,
       "node_is_leaf": false,
+      "child_index": 22,
       "subtree": {
         "label": "syrian_troops_withdrawn",
         "children": [
@@ -451,6 +516,9 @@
             "label": "2005",
             "children": []
           }
+        ],
+        "raw_values": [
+          "30 April 2005"
         ]
       }
     },
@@ -460,6 +528,7 @@
       "old": null,
       "new": "german",
       "node_is_leaf": false,
+      "child_index": 0,
       "subtree": {
         "label": "german",
         "children": [
@@ -471,6 +540,9 @@
             "label": "Eidgenossenschaft",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Schweizerische Eidgenossenschaft"
         ]
       }
     },
@@ -480,6 +552,7 @@
       "old": null,
       "new": "french",
       "node_is_leaf": false,
+      "child_index": 1,
       "subtree": {
         "label": "french",
         "children": [
@@ -499,6 +572,9 @@
             "label": "suisse",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Confédération suisse"
         ]
       }
     },
@@ -508,6 +584,7 @@
       "old": null,
       "new": "italian",
       "node_is_leaf": false,
+      "child_index": 2,
       "subtree": {
         "label": "italian",
         "children": [
@@ -519,6 +596,9 @@
             "label": "Svizzera",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Confederazione Svizzera"
         ]
       }
     },
@@ -528,6 +608,7 @@
       "old": null,
       "new": "romansh",
       "node_is_leaf": false,
+      "child_index": 3,
       "subtree": {
         "label": "romansh",
         "children": [
@@ -539,6 +620,9 @@
             "label": "svizra",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Confederaziun svizra"
         ]
       }
     },
@@ -548,6 +632,7 @@
       "old": null,
       "new": "latin",
       "node_is_leaf": false,
+      "child_index": 4,
       "subtree": {
         "label": "latin",
         "children": [
@@ -563,6 +648,9 @@
             "label": "CH",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Confoederatio helvetica (CH)"
         ]
       }
     },
@@ -572,6 +660,7 @@
       "old": null,
       "new": "capital",
       "node_is_leaf": false,
+      "child_index": 6,
       "subtree": {
         "label": "capital",
         "children": [
@@ -587,6 +676,9 @@
             "label": "facto",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Bern ( de facto )"
         ]
       }
     },
@@ -596,6 +688,7 @@
       "old": null,
       "new": "federal_city",
       "node_is_leaf": false,
+      "child_index": 7,
       "subtree": {
         "label": "federal_city",
         "children": [
@@ -603,6 +696,9 @@
             "label": "Bern",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Bern"
         ]
       }
     },
@@ -612,6 +708,7 @@
       "old": null,
       "new": "largest_city",
       "node_is_leaf": false,
+      "child_index": 8,
       "subtree": {
         "label": "largest_city",
         "children": [
@@ -619,6 +716,9 @@
             "label": "Zurich",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Zurich"
         ]
       }
     },
@@ -628,6 +728,7 @@
       "old": null,
       "new": "nationality",
       "node_is_leaf": false,
+      "child_index": 10,
       "subtree": {
         "label": "nationality",
         "children": [
@@ -659,6 +760,9 @@
             "label": "nationals",
             "children": []
           }
+        ],
+        "raw_values": [
+          "72.6% Swiss 27.4% foreign nationals"
         ]
       }
     },
@@ -668,6 +772,7 @@
       "old": null,
       "new": "federal_council",
       "node_is_leaf": false,
+      "child_index": 14,
       "subtree": {
         "label": "federal_council",
         "children": [
@@ -751,6 +856,9 @@
             "label": "Pfister",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Guy Parmelin ( President ) Ignazio Cassis ( Vice president ) Karin Keller-Sutter Albert Rösti Élisabeth Baume-Schneider Beat Jans Martin Pfister"
         ]
       }
     },
@@ -760,6 +868,7 @@
       "old": null,
       "new": "federal_chancellor",
       "node_is_leaf": false,
+      "child_index": 15,
       "subtree": {
         "label": "federal_chancellor",
         "children": [
@@ -771,6 +880,9 @@
             "label": "Rossi",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Viktor Rossi"
         ]
       }
     },
@@ -780,6 +892,7 @@
       "old": null,
       "new": "upper_house",
       "node_is_leaf": false,
+      "child_index": 17,
       "subtree": {
         "label": "upper_house",
         "children": [
@@ -795,6 +908,9 @@
             "label": "States",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Council of States"
         ]
       }
     },
@@ -804,6 +920,7 @@
       "old": null,
       "new": "lower_house",
       "node_is_leaf": false,
+      "child_index": 18,
       "subtree": {
         "label": "lower_house",
         "children": [
@@ -815,6 +932,9 @@
             "label": "Council",
             "children": []
           }
+        ],
+        "raw_values": [
+          "National Council"
         ]
       }
     },
@@ -824,6 +944,7 @@
       "old": null,
       "new": "founded",
       "node_is_leaf": false,
+      "child_index": 19,
       "subtree": {
         "label": "founded",
         "children": [
@@ -839,6 +960,9 @@
             "label": "1291",
             "children": []
           }
+        ],
+        "raw_values": [
+          "1 August 1291"
         ]
       }
     },
@@ -848,6 +972,7 @@
       "old": null,
       "new": "sovereignty_recognised_peace_of_westphalia",
       "node_is_leaf": false,
+      "child_index": 20,
       "subtree": {
         "label": "sovereignty_recognised_peace_of_westphalia",
         "children": [
@@ -863,6 +988,9 @@
             "label": "1648",
             "children": []
           }
+        ],
+        "raw_values": [
+          "24 October 1648"
         ]
       }
     },
@@ -872,6 +1000,7 @@
       "old": null,
       "new": "federal_treaty",
       "node_is_leaf": false,
+      "child_index": 21,
       "subtree": {
         "label": "federal_treaty",
         "children": [
@@ -887,6 +1016,9 @@
             "label": "1815",
             "children": []
           }
+        ],
+        "raw_values": [
+          "7 August 1815"
         ]
       }
     },
@@ -896,6 +1028,7 @@
       "old": null,
       "new": "federal_state",
       "node_is_leaf": false,
+      "child_index": 22,
       "subtree": {
         "label": "federal_state",
         "children": [
@@ -911,6 +1044,9 @@
             "label": "1848",
             "children": []
           }
+        ],
+        "raw_values": [
+          "12 September 1848"
         ]
       }
     },
@@ -920,6 +1056,7 @@
       "old": null,
       "new": "census",
       "node_is_leaf": false,
+      "child_index": 26,
       "subtree": {
         "label": "census",
         "children": [
@@ -935,6 +1072,9 @@
             "label": "126",
             "children": []
           }
+        ],
+        "raw_values": [
+          "8,327,126"
         ]
       }
     },
@@ -944,6 +1084,7 @@
       "old": null,
       "new": "date_format",
       "node_is_leaf": false,
+      "child_index": 36,
       "subtree": {
         "label": "date_format",
         "children": [
@@ -963,6 +1104,176 @@
             "label": "AD",
             "children": []
           }
+        ],
+        "raw_values": [
+          "dd.mm.yyyy ( AD )"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/info",
+      "old": "info",
+      "new": "info",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "info",
+        "children": [
+          {
+            "label": "Flag",
+            "children": []
+          },
+          {
+            "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "arms",
+            "children": []
+          },
+          {
+            "label": "Motto",
+            "children": []
+          },
+          {
+            "label": "unofficial",
+            "children": []
+          },
+          {
+            "label": "Unus",
+            "children": []
+          },
+          {
+            "label": "pro",
+            "children": []
+          },
+          {
+            "label": "omnibus",
+            "children": []
+          },
+          {
+            "label": "omnes",
+            "children": []
+          },
+          {
+            "label": "pro",
+            "children": []
+          },
+          {
+            "label": "uno",
+            "children": []
+          },
+          {
+            "label": "One",
+            "children": []
+          },
+          {
+            "label": "for",
+            "children": []
+          },
+          {
+            "label": "all",
+            "children": []
+          },
+          {
+            "label": "all",
+            "children": []
+          },
+          {
+            "label": "for",
+            "children": []
+          },
+          {
+            "label": "one",
+            "children": []
+          },
+          {
+            "label": "Anthem",
+            "children": []
+          },
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "Psalm",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "globe",
+            "children": []
+          },
+          {
+            "label": "Show",
+            "children": []
+          },
+          {
+            "label": "map",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Europe",
+            "children": []
+          },
+          {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Switzerland",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "in",
+            "children": []
+          },
+          {
+            "label": "Europe",
+            "children": []
+          },
+          {
+            "label": "green",
+            "children": []
+          },
+          {
+            "label": "and",
+            "children": []
+          },
+          {
+            "label": "dark",
+            "children": []
+          },
+          {
+            "label": "grey",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: (unofficial) \" Unus pro omnibus, omnes pro uno \" \"One for all, all for one\"",
+          "Anthem: \" Swiss Psalm \"",
+          "Show globe Show map of Europe Location of Switzerland (green) in Europe (green and dark grey)"
         ]
       }
     },
@@ -972,6 +1283,7 @@
       "old": "Anthem",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "Anthem",
         "children": []
@@ -983,6 +1295,7 @@
       "old": "Kullun",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "Kullun",
         "children": []
@@ -994,6 +1307,7 @@
       "old": "li",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 3,
       "subtree": {
         "label": "li",
         "children": []
@@ -1005,6 +1319,7 @@
       "old": "l",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 4,
       "subtree": {
         "label": "l",
         "children": []
@@ -1016,6 +1331,7 @@
       "old": "wa",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 5,
       "subtree": {
         "label": "wa",
         "children": []
@@ -1027,6 +1343,7 @@
       "old": "an",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 6,
       "subtree": {
         "label": "an",
         "children": []
@@ -1038,6 +1355,7 @@
       "old": "All",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 7,
       "subtree": {
         "label": "All",
         "children": []
@@ -1049,6 +1367,7 @@
       "old": "us",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 9,
       "subtree": {
         "label": "us",
         "children": []
@@ -1060,6 +1379,7 @@
       "old": "our",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 11,
       "subtree": {
         "label": "our",
         "children": []
@@ -1071,6 +1391,7 @@
       "old": "country",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 12,
       "subtree": {
         "label": "country",
         "children": []
@@ -1082,6 +1403,7 @@
       "old": "Lebanon",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 15,
       "subtree": {
         "label": "Lebanon",
         "children": []
@@ -1093,6 +1415,7 @@
       "old": null,
       "new": "Coat",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "Coat",
         "children": []
@@ -1104,6 +1427,7 @@
       "old": null,
       "new": "arms",
       "node_is_leaf": true,
+      "child_index": 3,
       "subtree": {
         "label": "arms",
         "children": []
@@ -1115,6 +1439,7 @@
       "old": null,
       "new": "Motto",
       "node_is_leaf": true,
+      "child_index": 4,
       "subtree": {
         "label": "Motto",
         "children": []
@@ -1126,6 +1451,7 @@
       "old": null,
       "new": "unofficial",
       "node_is_leaf": true,
+      "child_index": 5,
       "subtree": {
         "label": "unofficial",
         "children": []
@@ -1137,6 +1463,7 @@
       "old": null,
       "new": "Unus",
       "node_is_leaf": true,
+      "child_index": 6,
       "subtree": {
         "label": "Unus",
         "children": []
@@ -1148,6 +1475,7 @@
       "old": null,
       "new": "pro",
       "node_is_leaf": true,
+      "child_index": 7,
       "subtree": {
         "label": "pro",
         "children": []
@@ -1159,6 +1487,7 @@
       "old": null,
       "new": "omnibus",
       "node_is_leaf": true,
+      "child_index": 8,
       "subtree": {
         "label": "omnibus",
         "children": []
@@ -1170,6 +1499,7 @@
       "old": null,
       "new": "omnes",
       "node_is_leaf": true,
+      "child_index": 9,
       "subtree": {
         "label": "omnes",
         "children": []
@@ -1181,6 +1511,7 @@
       "old": null,
       "new": "pro",
       "node_is_leaf": true,
+      "child_index": 10,
       "subtree": {
         "label": "pro",
         "children": []
@@ -1192,6 +1523,7 @@
       "old": null,
       "new": "uno",
       "node_is_leaf": true,
+      "child_index": 11,
       "subtree": {
         "label": "uno",
         "children": []
@@ -1203,6 +1535,7 @@
       "old": null,
       "new": "One",
       "node_is_leaf": true,
+      "child_index": 12,
       "subtree": {
         "label": "One",
         "children": []
@@ -1214,6 +1547,7 @@
       "old": null,
       "new": "for",
       "node_is_leaf": true,
+      "child_index": 13,
       "subtree": {
         "label": "for",
         "children": []
@@ -1225,6 +1559,7 @@
       "old": null,
       "new": "all",
       "node_is_leaf": true,
+      "child_index": 14,
       "subtree": {
         "label": "all",
         "children": []
@@ -1236,6 +1571,7 @@
       "old": null,
       "new": "all",
       "node_is_leaf": true,
+      "child_index": 15,
       "subtree": {
         "label": "all",
         "children": []
@@ -1247,6 +1583,7 @@
       "old": null,
       "new": "one",
       "node_is_leaf": true,
+      "child_index": 17,
       "subtree": {
         "label": "one",
         "children": []
@@ -1258,6 +1595,7 @@
       "old": null,
       "new": "Anthem",
       "node_is_leaf": true,
+      "child_index": 18,
       "subtree": {
         "label": "Anthem",
         "children": []
@@ -1269,6 +1607,7 @@
       "old": null,
       "new": "Swiss",
       "node_is_leaf": true,
+      "child_index": 19,
       "subtree": {
         "label": "Swiss",
         "children": []
@@ -1280,6 +1619,7 @@
       "old": null,
       "new": "Psalm",
       "node_is_leaf": true,
+      "child_index": 20,
       "subtree": {
         "label": "Psalm",
         "children": []
@@ -1291,6 +1631,7 @@
       "old": null,
       "new": "Show",
       "node_is_leaf": true,
+      "child_index": 21,
       "subtree": {
         "label": "Show",
         "children": []
@@ -1302,6 +1643,7 @@
       "old": null,
       "new": "globe",
       "node_is_leaf": true,
+      "child_index": 22,
       "subtree": {
         "label": "globe",
         "children": []
@@ -1313,6 +1655,7 @@
       "old": null,
       "new": "Show",
       "node_is_leaf": true,
+      "child_index": 23,
       "subtree": {
         "label": "Show",
         "children": []
@@ -1324,6 +1667,7 @@
       "old": null,
       "new": "map",
       "node_is_leaf": true,
+      "child_index": 24,
       "subtree": {
         "label": "map",
         "children": []
@@ -1335,6 +1679,7 @@
       "old": null,
       "new": "of",
       "node_is_leaf": true,
+      "child_index": 25,
       "subtree": {
         "label": "of",
         "children": []
@@ -1346,6 +1691,7 @@
       "old": null,
       "new": "Europe",
       "node_is_leaf": true,
+      "child_index": 26,
       "subtree": {
         "label": "Europe",
         "children": []
@@ -1357,6 +1703,7 @@
       "old": null,
       "new": "Switzerland",
       "node_is_leaf": true,
+      "child_index": 29,
       "subtree": {
         "label": "Switzerland",
         "children": []
@@ -1368,6 +1715,7 @@
       "old": null,
       "new": "green",
       "node_is_leaf": true,
+      "child_index": 30,
       "subtree": {
         "label": "green",
         "children": []
@@ -1379,6 +1727,7 @@
       "old": null,
       "new": "Europe",
       "node_is_leaf": true,
+      "child_index": 32,
       "subtree": {
         "label": "Europe",
         "children": []
@@ -1390,6 +1739,7 @@
       "old": null,
       "new": "and",
       "node_is_leaf": true,
+      "child_index": 34,
       "subtree": {
         "label": "and",
         "children": []
@@ -1401,6 +1751,7 @@
       "old": null,
       "new": "dark",
       "node_is_leaf": true,
+      "child_index": 35,
       "subtree": {
         "label": "dark",
         "children": []
@@ -1412,9 +1763,62 @@
       "old": null,
       "new": "grey",
       "node_is_leaf": true,
+      "child_index": 36,
       "subtree": {
         "label": "grey",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/official_languages",
+      "old": "official_languages",
+      "new": "official_languages",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "German",
+            "children": []
+          },
+          {
+            "label": "62",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "Italian",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Romansh",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "German (62%), French (23%), Italian (8%), Romansh (0.5%)"
+        ]
       }
     },
     {
@@ -1423,6 +1827,7 @@
       "old": "Arabic",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "Arabic",
         "children": []
@@ -1434,6 +1839,7 @@
       "old": null,
       "new": "German",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "German",
         "children": []
@@ -1445,6 +1851,7 @@
       "old": null,
       "new": "62",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "62",
         "children": []
@@ -1456,6 +1863,7 @@
       "old": null,
       "new": "French",
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "French",
         "children": []
@@ -1467,6 +1875,7 @@
       "old": null,
       "new": "23",
       "node_is_leaf": true,
+      "child_index": 3,
       "subtree": {
         "label": "23",
         "children": []
@@ -1478,6 +1887,7 @@
       "old": null,
       "new": "Italian",
       "node_is_leaf": true,
+      "child_index": 4,
       "subtree": {
         "label": "Italian",
         "children": []
@@ -1489,6 +1899,7 @@
       "old": null,
       "new": "8",
       "node_is_leaf": true,
+      "child_index": 5,
       "subtree": {
         "label": "8",
         "children": []
@@ -1500,6 +1911,7 @@
       "old": null,
       "new": "Romansh",
       "node_is_leaf": true,
+      "child_index": 6,
       "subtree": {
         "label": "Romansh",
         "children": []
@@ -1511,6 +1923,7 @@
       "old": null,
       "new": "0",
       "node_is_leaf": true,
+      "child_index": 7,
       "subtree": {
         "label": "0",
         "children": []
@@ -1522,9 +1935,122 @@
       "old": null,
       "new": "5",
       "node_is_leaf": true,
+      "child_index": 8,
       "subtree": {
         "label": "5",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "religion",
+      "new": "religion",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "religion",
+        "children": [
+          {
+            "label": "54",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "religions",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "unanswered",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "54.7% Christianity 30% Catholicism 18.7% Protestantism 6% other Christian 36.8% no religion 6% Islam 1.5% other religions 0.9% unanswered"
+        ]
       }
     },
     {
@@ -1533,6 +2059,7 @@
       "old": "53",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "53",
         "children": []
@@ -1544,6 +2071,7 @@
       "old": "31",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "31",
         "children": []
@@ -1555,6 +2083,7 @@
       "old": "Islam",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "Islam",
         "children": []
@@ -1566,6 +2095,7 @@
       "old": "26",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 3,
       "subtree": {
         "label": "26",
         "children": []
@@ -1577,6 +2107,7 @@
       "old": "84",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 4,
       "subtree": {
         "label": "84",
         "children": []
@@ -1588,6 +2119,7 @@
       "old": "Shia",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 5,
       "subtree": {
         "label": "Shia",
         "children": []
@@ -1599,6 +2131,7 @@
       "old": "0",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 6,
       "subtree": {
         "label": "0",
         "children": []
@@ -1610,6 +2143,7 @@
       "old": "64",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 7,
       "subtree": {
         "label": "64",
         "children": []
@@ -1621,6 +2155,7 @@
       "old": "Alawite",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 8,
       "subtree": {
         "label": "Alawite",
         "children": []
@@ -1632,6 +2167,7 @@
       "old": "26",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 9,
       "subtree": {
         "label": "26",
         "children": []
@@ -1643,6 +2179,7 @@
       "old": "55",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 10,
       "subtree": {
         "label": "55",
         "children": []
@@ -1654,6 +2191,7 @@
       "old": "Sunni",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 11,
       "subtree": {
         "label": "Sunni",
         "children": []
@@ -1665,6 +2203,7 @@
       "old": "41",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 12,
       "subtree": {
         "label": "41",
         "children": []
@@ -1676,6 +2215,7 @@
       "old": "40",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 13,
       "subtree": {
         "label": "40",
         "children": []
@@ -1687,6 +2227,7 @@
       "old": "28",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 15,
       "subtree": {
         "label": "28",
         "children": []
@@ -1698,6 +2239,7 @@
       "old": "11",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 16,
       "subtree": {
         "label": "11",
         "children": []
@@ -1709,6 +2251,7 @@
       "old": "Catholic",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 17,
       "subtree": {
         "label": "Catholic",
         "children": []
@@ -1720,6 +2263,7 @@
       "old": "8",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 18,
       "subtree": {
         "label": "8",
         "children": []
@@ -1731,6 +2275,7 @@
       "old": "Orthodox",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 20,
       "subtree": {
         "label": "Orthodox",
         "children": []
@@ -1742,6 +2287,7 @@
       "old": "2",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 21,
       "subtree": {
         "label": "2",
         "children": []
@@ -1753,6 +2299,7 @@
       "old": "92",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 22,
       "subtree": {
         "label": "92",
         "children": []
@@ -1764,6 +2311,7 @@
       "old": "Armenian",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 23,
       "subtree": {
         "label": "Armenian",
         "children": []
@@ -1775,6 +2323,7 @@
       "old": "Apostolic",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 24,
       "subtree": {
         "label": "Apostolic",
         "children": []
@@ -1786,6 +2335,7 @@
       "old": "0",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 25,
       "subtree": {
         "label": "0",
         "children": []
@@ -1797,6 +2347,7 @@
       "old": "53",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 26,
       "subtree": {
         "label": "53",
         "children": []
@@ -1808,6 +2359,7 @@
       "old": "Protestant",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 27,
       "subtree": {
         "label": "Protestant",
         "children": []
@@ -1819,6 +2371,7 @@
       "old": "64",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 29,
       "subtree": {
         "label": "64",
         "children": []
@@ -1830,6 +2383,7 @@
       "old": "Other",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 30,
       "subtree": {
         "label": "Other",
         "children": []
@@ -1841,6 +2395,7 @@
       "old": "Christians",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 31,
       "subtree": {
         "label": "Christians",
         "children": []
@@ -1852,6 +2407,7 @@
       "old": "21",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 33,
       "subtree": {
         "label": "21",
         "children": []
@@ -1863,6 +2419,7 @@
       "old": "Druze",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 34,
       "subtree": {
         "label": "Druze",
         "children": []
@@ -1874,6 +2431,7 @@
       "old": "08",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 36,
       "subtree": {
         "label": "08",
         "children": []
@@ -1885,6 +2443,7 @@
       "old": "No",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 37,
       "subtree": {
         "label": "No",
         "children": []
@@ -1896,6 +2455,7 @@
       "old": "religion",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 38,
       "subtree": {
         "label": "religion",
         "children": []
@@ -1907,6 +2467,7 @@
       "old": null,
       "new": "54",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "54",
         "children": []
@@ -1918,6 +2479,7 @@
       "old": null,
       "new": "7",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "7",
         "children": []
@@ -1929,6 +2491,7 @@
       "old": null,
       "new": "Catholicism",
       "node_is_leaf": true,
+      "child_index": 4,
       "subtree": {
         "label": "Catholicism",
         "children": []
@@ -1940,6 +2503,7 @@
       "old": null,
       "new": "18",
       "node_is_leaf": true,
+      "child_index": 5,
       "subtree": {
         "label": "18",
         "children": []
@@ -1951,6 +2515,7 @@
       "old": null,
       "new": "7",
       "node_is_leaf": true,
+      "child_index": 6,
       "subtree": {
         "label": "7",
         "children": []
@@ -1962,6 +2527,7 @@
       "old": null,
       "new": "Protestantism",
       "node_is_leaf": true,
+      "child_index": 7,
       "subtree": {
         "label": "Protestantism",
         "children": []
@@ -1973,6 +2539,7 @@
       "old": null,
       "new": "6",
       "node_is_leaf": true,
+      "child_index": 8,
       "subtree": {
         "label": "6",
         "children": []
@@ -1984,6 +2551,7 @@
       "old": null,
       "new": "other",
       "node_is_leaf": true,
+      "child_index": 9,
       "subtree": {
         "label": "other",
         "children": []
@@ -1995,6 +2563,7 @@
       "old": null,
       "new": "Christian",
       "node_is_leaf": true,
+      "child_index": 10,
       "subtree": {
         "label": "Christian",
         "children": []
@@ -2006,6 +2575,7 @@
       "old": null,
       "new": "36",
       "node_is_leaf": true,
+      "child_index": 11,
       "subtree": {
         "label": "36",
         "children": []
@@ -2017,6 +2587,7 @@
       "old": null,
       "new": "8",
       "node_is_leaf": true,
+      "child_index": 12,
       "subtree": {
         "label": "8",
         "children": []
@@ -2028,6 +2599,7 @@
       "old": null,
       "new": "no",
       "node_is_leaf": true,
+      "child_index": 13,
       "subtree": {
         "label": "no",
         "children": []
@@ -2039,6 +2611,7 @@
       "old": null,
       "new": "religion",
       "node_is_leaf": true,
+      "child_index": 14,
       "subtree": {
         "label": "religion",
         "children": []
@@ -2050,6 +2623,7 @@
       "old": null,
       "new": "6",
       "node_is_leaf": true,
+      "child_index": 15,
       "subtree": {
         "label": "6",
         "children": []
@@ -2061,6 +2635,7 @@
       "old": null,
       "new": "Islam",
       "node_is_leaf": true,
+      "child_index": 16,
       "subtree": {
         "label": "Islam",
         "children": []
@@ -2072,6 +2647,7 @@
       "old": null,
       "new": "other",
       "node_is_leaf": true,
+      "child_index": 19,
       "subtree": {
         "label": "other",
         "children": []
@@ -2083,6 +2659,7 @@
       "old": null,
       "new": "religions",
       "node_is_leaf": true,
+      "child_index": 20,
       "subtree": {
         "label": "religions",
         "children": []
@@ -2094,6 +2671,7 @@
       "old": null,
       "new": "9",
       "node_is_leaf": true,
+      "child_index": 22,
       "subtree": {
         "label": "9",
         "children": []
@@ -2105,9 +2683,94 @@
       "old": null,
       "new": "unanswered",
       "node_is_leaf": true,
+      "child_index": 23,
       "subtree": {
         "label": "unanswered",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/demonyms",
+      "old": "demonyms",
+      "new": "demonyms",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "German",
+            "children": []
+          },
+          {
+            "label": "Schweizer",
+            "children": []
+          },
+          {
+            "label": "Schweizerin",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "Suisse",
+            "children": []
+          },
+          {
+            "label": "Suissesse",
+            "children": []
+          },
+          {
+            "label": "Italian",
+            "children": []
+          },
+          {
+            "label": "svizzero",
+            "children": []
+          },
+          {
+            "label": "svizzera",
+            "children": []
+          },
+          {
+            "label": "or",
+            "children": []
+          },
+          {
+            "label": "elvetico",
+            "children": []
+          },
+          {
+            "label": "elvetica",
+            "children": []
+          },
+          {
+            "label": "Romansh",
+            "children": []
+          },
+          {
+            "label": "Svizzer",
+            "children": []
+          },
+          {
+            "label": "Svizra",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English: Swiss German: Schweizer/Schweizerin French: Suisse/Suissesse Italian : svizzero/svizzera or elvetico/elvetica Romansh : Svizzer/Svizra"
+        ]
       }
     },
     {
@@ -2116,6 +2779,7 @@
       "old": "Lebanese",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "Lebanese",
         "children": []
@@ -2127,6 +2791,7 @@
       "old": null,
       "new": "English",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "English",
         "children": []
@@ -2138,6 +2803,7 @@
       "old": null,
       "new": "Swiss",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "Swiss",
         "children": []
@@ -2149,6 +2815,7 @@
       "old": null,
       "new": "German",
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "German",
         "children": []
@@ -2160,6 +2827,7 @@
       "old": null,
       "new": "Schweizer",
       "node_is_leaf": true,
+      "child_index": 3,
       "subtree": {
         "label": "Schweizer",
         "children": []
@@ -2171,6 +2839,7 @@
       "old": null,
       "new": "Schweizerin",
       "node_is_leaf": true,
+      "child_index": 4,
       "subtree": {
         "label": "Schweizerin",
         "children": []
@@ -2182,6 +2851,7 @@
       "old": null,
       "new": "French",
       "node_is_leaf": true,
+      "child_index": 5,
       "subtree": {
         "label": "French",
         "children": []
@@ -2193,6 +2863,7 @@
       "old": null,
       "new": "Suisse",
       "node_is_leaf": true,
+      "child_index": 6,
       "subtree": {
         "label": "Suisse",
         "children": []
@@ -2204,6 +2875,7 @@
       "old": null,
       "new": "Suissesse",
       "node_is_leaf": true,
+      "child_index": 7,
       "subtree": {
         "label": "Suissesse",
         "children": []
@@ -2215,6 +2887,7 @@
       "old": null,
       "new": "Italian",
       "node_is_leaf": true,
+      "child_index": 8,
       "subtree": {
         "label": "Italian",
         "children": []
@@ -2226,6 +2899,7 @@
       "old": null,
       "new": "svizzero",
       "node_is_leaf": true,
+      "child_index": 9,
       "subtree": {
         "label": "svizzero",
         "children": []
@@ -2237,6 +2911,7 @@
       "old": null,
       "new": "svizzera",
       "node_is_leaf": true,
+      "child_index": 10,
       "subtree": {
         "label": "svizzera",
         "children": []
@@ -2248,6 +2923,7 @@
       "old": null,
       "new": "or",
       "node_is_leaf": true,
+      "child_index": 11,
       "subtree": {
         "label": "or",
         "children": []
@@ -2259,6 +2935,7 @@
       "old": null,
       "new": "elvetico",
       "node_is_leaf": true,
+      "child_index": 12,
       "subtree": {
         "label": "elvetico",
         "children": []
@@ -2270,6 +2947,7 @@
       "old": null,
       "new": "elvetica",
       "node_is_leaf": true,
+      "child_index": 13,
       "subtree": {
         "label": "elvetica",
         "children": []
@@ -2281,6 +2959,7 @@
       "old": null,
       "new": "Romansh",
       "node_is_leaf": true,
+      "child_index": 14,
       "subtree": {
         "label": "Romansh",
         "children": []
@@ -2292,6 +2971,7 @@
       "old": null,
       "new": "Svizzer",
       "node_is_leaf": true,
+      "child_index": 15,
       "subtree": {
         "label": "Svizzer",
         "children": []
@@ -2303,9 +2983,46 @@
       "old": null,
       "new": "Svizra",
       "node_is_leaf": true,
+      "child_index": 16,
       "subtree": {
         "label": "Svizra",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/government",
+      "old": "government",
+      "new": "government",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "assembly",
+            "children": []
+          },
+          {
+            "label": "independent",
+            "children": []
+          },
+          {
+            "label": "directorial",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal assembly-independent directorial republic"
+        ]
       }
     },
     {
@@ -2314,6 +3031,7 @@
       "old": "Unitary",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "Unitary",
         "children": []
@@ -2325,6 +3043,7 @@
       "old": "parliamentary",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "parliamentary",
         "children": []
@@ -2336,6 +3055,7 @@
       "old": "under",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 3,
       "subtree": {
         "label": "under",
         "children": []
@@ -2347,6 +3067,7 @@
       "old": "confessionalism",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 4,
       "subtree": {
         "label": "confessionalism",
         "children": []
@@ -2358,6 +3079,7 @@
       "old": null,
       "new": "Federal",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "Federal",
         "children": []
@@ -2369,6 +3091,7 @@
       "old": null,
       "new": "assembly",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "assembly",
         "children": []
@@ -2380,6 +3103,7 @@
       "old": null,
       "new": "independent",
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "independent",
         "children": []
@@ -2391,9 +3115,34 @@
       "old": null,
       "new": "directorial",
       "node_is_leaf": true,
+      "child_index": 3,
       "subtree": {
         "label": "directorial",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/legislature",
+      "old": "legislature",
+      "new": "legislature",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal Assembly"
+        ]
       }
     },
     {
@@ -2402,6 +3151,7 @@
       "old": "Parliament",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "Parliament",
         "children": []
@@ -2413,6 +3163,7 @@
       "old": null,
       "new": "Federal",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "Federal",
         "children": []
@@ -2424,9 +3175,96 @@
       "old": null,
       "new": "Assembly",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "Assembly",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "total",
+      "new": "total",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "total",
+        "children": [
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "291",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "943",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "132th",
+            "children": []
+          },
+          {
+            "label": "881",
+            "children": []
+          },
+          {
+            "label": "083",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "35th",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "003",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "20th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "41,291 km 2 (15,943 sq mi) ( 132th )",
+          "$881.083 billion ( 35th )",
+          "$1.003 trillion ( 20th )"
+        ]
       }
     },
     {
@@ -2435,6 +3273,7 @@
       "old": "10",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "10",
         "children": []
@@ -2446,6 +3285,7 @@
       "old": "452",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "452",
         "children": []
@@ -2457,6 +3297,7 @@
       "old": "4",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 4,
       "subtree": {
         "label": "4",
         "children": []
@@ -2468,6 +3309,7 @@
       "old": "036",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 5,
       "subtree": {
         "label": "036",
         "children": []
@@ -2479,6 +3321,7 @@
       "old": "161st",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 8,
       "subtree": {
         "label": "161st",
         "children": []
@@ -2490,6 +3333,7 @@
       "old": "78",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 9,
       "subtree": {
         "label": "78",
         "children": []
@@ -2501,6 +3345,7 @@
       "old": "233",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 10,
       "subtree": {
         "label": "233",
         "children": []
@@ -2512,6 +3357,7 @@
       "old": "108th",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 12,
       "subtree": {
         "label": "108th",
         "children": []
@@ -2523,6 +3369,7 @@
       "old": "21",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 13,
       "subtree": {
         "label": "21",
         "children": []
@@ -2534,6 +3381,7 @@
       "old": "780",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 14,
       "subtree": {
         "label": "780",
         "children": []
@@ -2545,6 +3393,7 @@
       "old": "billion",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 15,
       "subtree": {
         "label": "billion",
         "children": []
@@ -2556,6 +3405,7 @@
       "old": "103rd",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 16,
       "subtree": {
         "label": "103rd",
         "children": []
@@ -2567,6 +3417,7 @@
       "old": null,
       "new": "41",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "41",
         "children": []
@@ -2578,6 +3429,7 @@
       "old": null,
       "new": "291",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "291",
         "children": []
@@ -2589,6 +3441,7 @@
       "old": null,
       "new": "15",
       "node_is_leaf": true,
+      "child_index": 4,
       "subtree": {
         "label": "15",
         "children": []
@@ -2600,6 +3453,7 @@
       "old": null,
       "new": "943",
       "node_is_leaf": true,
+      "child_index": 5,
       "subtree": {
         "label": "943",
         "children": []
@@ -2611,6 +3465,7 @@
       "old": null,
       "new": "132th",
       "node_is_leaf": true,
+      "child_index": 8,
       "subtree": {
         "label": "132th",
         "children": []
@@ -2622,6 +3477,7 @@
       "old": null,
       "new": "881",
       "node_is_leaf": true,
+      "child_index": 9,
       "subtree": {
         "label": "881",
         "children": []
@@ -2633,6 +3489,7 @@
       "old": null,
       "new": "083",
       "node_is_leaf": true,
+      "child_index": 10,
       "subtree": {
         "label": "083",
         "children": []
@@ -2644,6 +3501,7 @@
       "old": null,
       "new": "35th",
       "node_is_leaf": true,
+      "child_index": 12,
       "subtree": {
         "label": "35th",
         "children": []
@@ -2655,6 +3513,7 @@
       "old": null,
       "new": "1",
       "node_is_leaf": true,
+      "child_index": 13,
       "subtree": {
         "label": "1",
         "children": []
@@ -2666,6 +3525,7 @@
       "old": null,
       "new": "003",
       "node_is_leaf": true,
+      "child_index": 14,
       "subtree": {
         "label": "003",
         "children": []
@@ -2677,6 +3537,7 @@
       "old": null,
       "new": "trillion",
       "node_is_leaf": true,
+      "child_index": 15,
       "subtree": {
         "label": "trillion",
         "children": []
@@ -2688,9 +3549,30 @@
       "old": null,
       "new": "20th",
       "node_is_leaf": true,
+      "child_index": 16,
       "subtree": {
         "label": "20th",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/water",
+      "old": "water",
+      "new": "water",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "water",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4"
+        ]
       }
     },
     {
@@ -2699,6 +3581,7 @@
       "old": "1",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "1",
         "children": []
@@ -2710,6 +3593,7 @@
       "old": "8",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "8",
         "children": []
@@ -2721,9 +3605,42 @@
       "old": null,
       "new": "4",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "4",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/estimate",
+      "old": "estimate",
+      "new": "estimate",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "060",
+            "children": []
+          },
+          {
+            "label": "598",
+            "children": []
+          },
+          {
+            "label": "99th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9,060,598 ( 99th )"
+        ]
       }
     },
     {
@@ -2732,6 +3649,7 @@
       "old": "5",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "5",
         "children": []
@@ -2743,6 +3661,7 @@
       "old": "364",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "364",
         "children": []
@@ -2754,6 +3673,7 @@
       "old": "482",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "482",
         "children": []
@@ -2765,6 +3685,7 @@
       "old": "117th",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 3,
       "subtree": {
         "label": "117th",
         "children": []
@@ -2776,6 +3697,7 @@
       "old": null,
       "new": "9",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "9",
         "children": []
@@ -2787,6 +3709,7 @@
       "old": null,
       "new": "060",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "060",
         "children": []
@@ -2798,6 +3721,7 @@
       "old": null,
       "new": "598",
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "598",
         "children": []
@@ -2809,9 +3733,58 @@
       "old": null,
       "new": "99th",
       "node_is_leaf": true,
+      "child_index": 3,
       "subtree": {
         "label": "99th",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/density",
+      "old": "density",
+      "new": "density",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "density",
+        "children": [
+          {
+            "label": "207",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "536",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "67th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "207/km 2 (536.1/sq mi) ( 67th )"
+        ]
       }
     },
     {
@@ -2820,6 +3793,7 @@
       "old": "513",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "513",
         "children": []
@@ -2831,6 +3805,7 @@
       "old": "328",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 4,
       "subtree": {
         "label": "328",
         "children": []
@@ -2842,6 +3817,7 @@
       "old": "7",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 5,
       "subtree": {
         "label": "7",
         "children": []
@@ -2853,6 +3829,7 @@
       "old": null,
       "new": "207",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "207",
         "children": []
@@ -2864,6 +3841,7 @@
       "old": null,
       "new": "536",
       "node_is_leaf": true,
+      "child_index": 3,
       "subtree": {
         "label": "536",
         "children": []
@@ -2875,9 +3853,34 @@
       "old": null,
       "new": "67th",
       "node_is_leaf": true,
+      "child_index": 7,
       "subtree": {
         "label": "67th",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/gdp_ppp",
+      "old": "gdp_ppp",
+      "new": "gdp_ppp",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
       }
     },
     {
@@ -2886,6 +3889,7 @@
       "old": "2022",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "2022",
         "children": []
@@ -2897,9 +3901,51 @@
       "old": null,
       "new": "2025",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "2025",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/per_capita",
+      "old": "per_capita",
+      "new": "per_capita",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "97",
+            "children": []
+          },
+          {
+            "label": "660",
+            "children": []
+          },
+          {
+            "label": "6th",
+            "children": []
+          },
+          {
+            "label": "111",
+            "children": []
+          },
+          {
+            "label": "047",
+            "children": []
+          },
+          {
+            "label": "3rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$97,660 ( 6th )",
+          "$111,047 ( 3rd )"
+        ]
       }
     },
     {
@@ -2908,6 +3954,7 @@
       "old": "11",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "11",
         "children": []
@@ -2919,6 +3966,7 @@
       "old": "793",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "793",
         "children": []
@@ -2930,6 +3978,7 @@
       "old": "114th",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "114th",
         "children": []
@@ -2941,6 +3990,7 @@
       "old": "3",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 3,
       "subtree": {
         "label": "3",
         "children": []
@@ -2952,6 +4002,7 @@
       "old": "283",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 4,
       "subtree": {
         "label": "283",
         "children": []
@@ -2963,6 +4014,7 @@
       "old": "133rd",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 5,
       "subtree": {
         "label": "133rd",
         "children": []
@@ -2974,6 +4026,7 @@
       "old": null,
       "new": "97",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "97",
         "children": []
@@ -2985,6 +4038,7 @@
       "old": null,
       "new": "660",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "660",
         "children": []
@@ -2996,6 +4050,7 @@
       "old": null,
       "new": "6th",
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "6th",
         "children": []
@@ -3007,6 +4062,7 @@
       "old": null,
       "new": "111",
       "node_is_leaf": true,
+      "child_index": 3,
       "subtree": {
         "label": "111",
         "children": []
@@ -3018,6 +4074,7 @@
       "old": null,
       "new": "047",
       "node_is_leaf": true,
+      "child_index": 4,
       "subtree": {
         "label": "047",
         "children": []
@@ -3029,9 +4086,34 @@
       "old": null,
       "new": "3rd",
       "node_is_leaf": true,
+      "child_index": 5,
       "subtree": {
         "label": "3rd",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/gdp_nominal",
+      "old": "gdp_nominal",
+      "new": "gdp_nominal",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
       }
     },
     {
@@ -3040,6 +4122,7 @@
       "old": "2022",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "2022",
         "children": []
@@ -3051,9 +4134,42 @@
       "old": null,
       "new": "2025",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "2025",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/gini",
+      "old": "gini",
+      "new": "gini",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "gini",
+        "children": [
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "31.5 medium inequality"
+        ]
       }
     },
     {
@@ -3062,6 +4178,7 @@
       "old": "8",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "8",
         "children": []
@@ -3073,9 +4190,46 @@
       "old": null,
       "new": "5",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "5",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/hdi",
+      "old": "hdi",
+      "new": "hdi",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "970",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "2nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.970 very high ( 2nd )"
+        ]
       }
     },
     {
@@ -3084,6 +4238,7 @@
       "old": "752",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "752",
         "children": []
@@ -3095,6 +4250,7 @@
       "old": "102nd",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 3,
       "subtree": {
         "label": "102nd",
         "children": []
@@ -3106,6 +4262,7 @@
       "old": null,
       "new": "970",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "970",
         "children": []
@@ -3117,6 +4274,7 @@
       "old": null,
       "new": "very",
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "very",
         "children": []
@@ -3128,9 +4286,38 @@
       "old": null,
       "new": "2nd",
       "node_is_leaf": true,
+      "child_index": 4,
       "subtree": {
         "label": "2nd",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/currency",
+      "old": "currency",
+      "new": "currency",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "franc",
+            "children": []
+          },
+          {
+            "label": "CHF",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Swiss franc ( CHF )"
+        ]
       }
     },
     {
@@ -3139,6 +4326,7 @@
       "old": "Lebanese",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "Lebanese",
         "children": []
@@ -3150,6 +4338,7 @@
       "old": "pound",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "pound",
         "children": []
@@ -3161,6 +4350,7 @@
       "old": "LBP",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "LBP",
         "children": []
@@ -3172,6 +4362,7 @@
       "old": null,
       "new": "Swiss",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "Swiss",
         "children": []
@@ -3183,6 +4374,7 @@
       "old": null,
       "new": "franc",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "franc",
         "children": []
@@ -3194,9 +4386,38 @@
       "old": null,
       "new": "CHF",
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "CHF",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/time_zone",
+      "old": "time_zone",
+      "new": "time_zone",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "CET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +1 ( CET )"
+        ]
       }
     },
     {
@@ -3205,6 +4426,7 @@
       "old": "2",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "2",
         "children": []
@@ -3216,6 +4438,7 @@
       "old": "EET",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "EET",
         "children": []
@@ -3227,6 +4450,7 @@
       "old": null,
       "new": "1",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "1",
         "children": []
@@ -3238,9 +4462,38 @@
       "old": null,
       "new": "CET",
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "CET",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/summer_dst",
+      "old": "summer_dst",
+      "new": "summer_dst",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "CEST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( CEST )"
+        ]
       }
     },
     {
@@ -3249,6 +4502,7 @@
       "old": "3",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "3",
         "children": []
@@ -3260,6 +4514,7 @@
       "old": "EEST",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "EEST",
         "children": []
@@ -3271,6 +4526,7 @@
       "old": null,
       "new": "2",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "2",
         "children": []
@@ -3282,6 +4538,7 @@
       "old": null,
       "new": "CEST",
       "node_is_leaf": true,
+      "child_index": 2,
       "subtree": {
         "label": "CEST",
         "children": []
@@ -3290,9 +4547,30 @@
     {
       "kind": "UPD",
       "path": "/country/calling_code",
+      "old": "calling_code",
+      "new": "calling_code",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "41",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+41"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/calling_code",
       "old": "961",
       "new": "41",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "41",
         "children": []
@@ -3301,12 +4579,57 @@
     {
       "kind": "UPD",
       "path": "/country/iso_3166_code",
+      "old": "iso_3166_code",
+      "new": "iso_3166_code",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "CH",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "CH"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/iso_3166_code",
       "old": "LB",
       "new": "CH",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "CH",
         "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/internet_tld",
+      "old": "internet_tld",
+      "new": "internet_tld",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "ch",
+            "children": []
+          },
+          {
+            "label": "swiss",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".ch , .swiss"
+        ]
       }
     },
     {
@@ -3315,6 +4638,7 @@
       "old": "lb",
       "new": null,
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "lb",
         "children": []
@@ -3326,6 +4650,7 @@
       "old": null,
       "new": "ch",
       "node_is_leaf": true,
+      "child_index": 0,
       "subtree": {
         "label": "ch",
         "children": []
@@ -3337,6 +4662,7 @@
       "old": null,
       "new": "swiss",
       "node_is_leaf": true,
+      "child_index": 1,
       "subtree": {
         "label": "swiss",
         "children": []

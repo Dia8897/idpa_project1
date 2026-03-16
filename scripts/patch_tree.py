@@ -18,13 +18,16 @@ from pathlib import Path
 from typing import Dict, List, Optional
 
 
+def load_payload(path: Path) -> Dict:
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
 def load_tree(path: Path) -> Dict:
-    return json.loads(path.read_text(encoding="utf-8"))["tree"]
+    return load_payload(path)["tree"]
 
 
-def save_tree(tree: Dict, path: Path):
+def save_tree(payload: Dict, path: Path):
     path.parent.mkdir(parents=True, exist_ok=True)
-    payload = {"tree": tree}
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
@@ -49,8 +52,26 @@ def find_node(root: Dict, path: str) -> Optional[Dict]:
     return cur
 
 
-def delete_child(parent: Dict, label: str) -> bool:
+def copy_node(node: Dict) -> Dict:
+    return copy.deepcopy(node)
+
+
+def replace_node_metadata(node: Dict, target_snapshot: Dict):
+    keep_children = node.get("children", [])
+    node.clear()
+    for key, value in target_snapshot.items():
+        if key == "children":
+            continue
+        node[key] = copy.deepcopy(value)
+    node["children"] = keep_children
+
+
+def delete_child(parent: Dict, label: str, child_index: Optional[int] = None) -> bool:
     children = parent.get("children", [])
+    if child_index is not None and 0 <= child_index < len(children):
+        if children[child_index].get("label") == label:
+            del children[child_index]
+            return True
     for i, ch in enumerate(children):
         if ch.get("label") == label:
             del children[i]
@@ -58,8 +79,28 @@ def delete_child(parent: Dict, label: str) -> bool:
     return False
 
 
-def insert_child(parent: Dict, subtree: Dict):
-    parent.setdefault("children", []).append(copy.deepcopy(subtree))
+def insert_child(parent: Dict, subtree: Dict, child_index: Optional[int] = None):
+    children = parent.setdefault("children", [])
+    snapshot = copy_node(subtree)
+    if child_index is None or child_index < 0 or child_index > len(children):
+        children.append(snapshot)
+    else:
+        children.insert(child_index, snapshot)
+
+
+def update_leaf_child(parent: Dict, op: Dict) -> bool:
+    children = parent.get("children", [])
+    idx = op.get("child_index")
+    snapshot = copy_node(op.get("subtree") or {"label": op["new"], "children": []})
+    if idx is not None and 0 <= idx < len(children):
+        if children[idx].get("label") == op["old"]:
+            children[idx] = snapshot
+            return True
+    for i, ch in enumerate(children):
+        if ch.get("label") == op["old"]:
+            children[i] = snapshot
+            return True
+    return False
 
 
 def apply_ops(tree: Dict, ops: List[Dict]) -> Dict:
@@ -73,7 +114,7 @@ def apply_ops(tree: Dict, ops: List[Dict]) -> Dict:
         parent = find_node(tree, op["path"])
         if not parent:
             continue
-        delete_child(parent, op["old"])
+        delete_child(parent, op["old"], child_index=op.get("child_index"))
 
     # Inserts
     for op in ins_ops:
@@ -81,19 +122,29 @@ def apply_ops(tree: Dict, ops: List[Dict]) -> Dict:
         if not parent:
             continue
         subtree = op.get("subtree") or {"label": op["new"], "children": []}
-        insert_child(parent, subtree)
+        insert_child(parent, subtree, child_index=op.get("child_index"))
 
-    # Updates (leaf value change)
+    # Updates
     for op in upd_ops:
-        parent = find_node(tree, op["path"])
-        if not parent:
+        if op.get("node_is_leaf", False):
+            parent = find_node(tree, op["path"])
+            if not parent:
+                continue
+            update_leaf_child(parent, op)
             continue
-        for ch in parent.get("children", []):
-            if ch.get("label") == op["old"]:
-                ch["label"] = op["new"]
-                break
+
+        node = find_node(tree, op["path"])
+        if not node:
+            continue
+        subtree = op.get("subtree")
+        if subtree:
+            replace_node_metadata(node, subtree)
 
     return tree
+
+
+def trees_equal(a: Dict, b: Dict) -> bool:
+    return json.dumps(a, ensure_ascii=False, sort_keys=True) == json.dumps(b, ensure_ascii=False, sort_keys=True)
 
 
 def main():
@@ -101,17 +152,26 @@ def main():
     parser.add_argument("--source", required=True, type=Path, help="Source tree JSON (tokenized).")
     parser.add_argument("--diff", required=True, type=Path, help="Diff JSON produced by ted_edit_script.py.")
     parser.add_argument("--out", required=True, type=Path, help="Output patched tree JSON path.")
+    parser.add_argument("--target", type=Path, help="Optional target tree JSON to verify the patch result.")
     args = parser.parse_args()
 
-    src_tree = load_tree(args.source)
+    src_payload = load_payload(args.source)
+    src_tree = src_payload["tree"]
     diff = json.loads(args.diff.read_text(encoding="utf-8"))
     ops = diff.get("operations", [])
 
     patched = apply_ops(src_tree, ops)
-    save_tree(patched, args.out)
+    out_payload = dict(src_payload)
+    out_payload["tree"] = patched
+    if "target" in diff:
+        out_payload["country_name"] = diff["target"]
+    save_tree(out_payload, args.out)
 
     print(f"Patched tree written to {args.out}")
     print(f"Ops applied: {len(ops)}")
+    if args.target:
+        target_tree = load_tree(args.target)
+        print(f"Matches target: {trees_equal(patched, target_tree)}")
 
 
 if __name__ == "__main__":

@@ -42,6 +42,9 @@
             <option value="both">Tree & Table</option>
             <option value="tree">Tree Only</option>
             <option value="table">Table Only</option>
+            <option value="tokenized-both">Tokenized Tree & Table</option>
+            <option value="tokenized-tree">Tokenized Tree Only</option>
+            <option value="tokenized-table">Tokenized Table Only</option>
           </select>
         </div>
       </div>
@@ -81,7 +84,6 @@
           <div class="btn-group align-end">
             <button id="compareBtn" type="button" class="btn primary">Compare</button>
             <button id="toggleDiffBtn" type="button" class="btn" disabled>Show Diff</button>
-            <button id="patchBtn" type="button" class="btn" disabled>Patch Source → Target</button>
           </div>
         </div>
       </div>
@@ -116,6 +118,11 @@
           <option value="source">Source only</option>
           <option value="target">Target only</option>
         </select>
+        <label for="treeDataMode" class="mb-0 ms-3">Tree data</label>
+        <select id="treeDataMode">
+          <option value="display">Readable</option>
+          <option value="tokenized">Tokenized</option>
+        </select>
       </div>
 
       <div class="split">
@@ -133,12 +140,25 @@
         </article>
       </div>
 
+      <div class="result-actions">
+        <button id="patchBtn" type="button" class="btn" disabled>Patch Source -> Target</button>
+        <button id="postJsonBtn" type="button" class="btn" disabled>Postprocess JSON</button>
+        <button id="postXmlBtn" type="button" class="btn" disabled>Postprocess XML</button>
+      </div>
+
       <article class="card" id="patchedCard" style="display:none;">
         <div class="card-head">
           <h3>Patched Source</h3>
           <small>Result of applying the (display) diff to the source tree</small>
         </div>
         <div id="patchedGraph" class="graph scroll"></div>
+        <div class="postprocess-block">
+          <div class="card-head">
+            <h3>Post-Processed Output</h3>
+            <small>Client-side reconstruction of the patched result</small>
+          </div>
+          <pre id="postprocessContent" class="mono postprocess-view">Generate JSON or XML after patching.</pre>
+        </div>
       </article>
 
       <div class="phases">

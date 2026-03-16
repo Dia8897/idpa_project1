@@ -1,40 +1,119 @@
 {
+  "country_name": "Switzerland",
   "tree": {
     "label": "country",
     "children": [
       {
+        "label": "german",
+        "children": [
+          {
+            "label": "Schweizerische",
+            "children": []
+          },
+          {
+            "label": "Eidgenossenschaft",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Schweizerische Eidgenossenschaft"
+        ]
+      },
+      {
+        "label": "french",
+        "children": [
+          {
+            "label": "Conf",
+            "children": []
+          },
+          {
+            "label": "d",
+            "children": []
+          },
+          {
+            "label": "ration",
+            "children": []
+          },
+          {
+            "label": "suisse",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Confédération suisse"
+        ]
+      },
+      {
+        "label": "italian",
+        "children": [
+          {
+            "label": "Confederazione",
+            "children": []
+          },
+          {
+            "label": "Svizzera",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Confederazione Svizzera"
+        ]
+      },
+      {
+        "label": "romansh",
+        "children": [
+          {
+            "label": "Confederaziun",
+            "children": []
+          },
+          {
+            "label": "svizra",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Confederaziun svizra"
+        ]
+      },
+      {
+        "label": "latin",
+        "children": [
+          {
+            "label": "Confoederatio",
+            "children": []
+          },
+          {
+            "label": "helvetica",
+            "children": []
+          },
+          {
+            "label": "CH",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Confoederatio helvetica (CH)"
+        ]
+      },
+      {
         "label": "info",
+        "raw_values": [
+          "Flag Coat of arms",
+          "Motto: (unofficial) \" Unus pro omnibus, omnes pro uno \" \"One for all, all for one\"",
+          "Anthem: \" Swiss Psalm \"",
+          "Show globe Show map of Europe Location of Switzerland (green) in Europe (green and dark grey)"
+        ],
         "children": [
           {
             "label": "Flag",
             "children": []
           },
           {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
             "label": "Coat",
+            "children": []
+          },
+          {
+            "label": "of",
             "children": []
           },
           {
@@ -90,6 +169,10 @@
             "children": []
           },
           {
+            "label": "for",
+            "children": []
+          },
+          {
             "label": "one",
             "children": []
           },
@@ -130,6 +213,14 @@
             "children": []
           },
           {
+            "label": "Location",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
             "label": "Switzerland",
             "children": []
           },
@@ -138,7 +229,15 @@
             "children": []
           },
           {
+            "label": "in",
+            "children": []
+          },
+          {
             "label": "Europe",
+            "children": []
+          },
+          {
+            "label": "green",
             "children": []
           },
           {
@@ -153,15 +252,57 @@
             "label": "grey",
             "children": []
           }
+        ]
+      },
+      {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Bern",
+            "children": []
+          },
+          {
+            "label": "de",
+            "children": []
+          },
+          {
+            "label": "facto",
+            "children": []
+          }
         ],
         "raw_values": [
-          "Flag",
-          "Anthem: كلّنا للوطن Kullunā li-l-waṭan \"All of us, for our country!\"",
-          "Location of Lebanon (in green)"
+          "Bern ( de facto )"
+        ]
+      },
+      {
+        "label": "federal_city",
+        "children": [
+          {
+            "label": "Bern",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bern"
+        ]
+      },
+      {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Zurich",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Zurich"
         ]
       },
       {
         "label": "official_languages",
+        "raw_values": [
+          "German (62%), French (23%), Italian (8%), Romansh (0.5%)"
+        ],
         "children": [
           {
             "label": "German",
@@ -199,40 +340,64 @@
             "label": "5",
             "children": []
           }
+        ]
+      },
+      {
+        "label": "nationality",
+        "children": [
+          {
+            "label": "72",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "foreign",
+            "children": []
+          },
+          {
+            "label": "nationals",
+            "children": []
+          }
         ],
         "raw_values": [
-          "Arabic"
+          "72.6% Swiss 27.4% foreign nationals"
         ]
       },
       {
         "label": "religion",
+        "raw_values": [
+          "54.7% Christianity 30% Catholicism 18.7% Protestantism 6% other Christian 36.8% no religion 6% Islam 1.5% other religions 0.9% unanswered"
+        ],
         "children": [
-          {
-            "label": "Christianity",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
           {
             "label": "54",
             "children": []
           },
           {
             "label": "7",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "30",
             "children": []
           },
           {
@@ -288,11 +453,23 @@
             "children": []
           },
           {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
             "label": "other",
             "children": []
           },
           {
             "label": "religions",
+            "children": []
+          },
+          {
+            "label": "0",
             "children": []
           },
           {
@@ -303,13 +480,13 @@
             "label": "unanswered",
             "children": []
           }
-        ],
-        "raw_values": [
-          "53.31% Islam 26.84% Shia 0.64% Alawite 26.55% Sunni 41.40% Christianity 28.11% Catholic 8.30% Orthodox 2.92% Armenian Apostolic 0.53% Protestant 1.64% Other Christians 5.21% Druze 0.08% No religion"
         ]
       },
       {
         "label": "demonyms",
+        "raw_values": [
+          "English: Swiss German: Schweizer/Schweizerin French: Suisse/Suissesse Italian : svizzero/svizzera or elvetico/elvetica Romansh : Svizzer/Svizra"
+        ],
         "children": [
           {
             "label": "English",
@@ -379,18 +556,14 @@
             "label": "Svizra",
             "children": []
           }
-        ],
-        "raw_values": [
-          "Lebanese"
         ]
       },
       {
         "label": "government",
+        "raw_values": [
+          "Federal assembly-independent directorial republic"
+        ],
         "children": [
-          {
-            "label": "republic",
-            "children": []
-          },
           {
             "label": "Federal",
             "children": []
@@ -406,540 +579,9 @@
           {
             "label": "directorial",
             "children": []
-          }
-        ],
-        "raw_values": [
-          "Unitary parliamentary republic under confessionalism"
-        ]
-      },
-      {
-        "label": "legislature",
-        "children": [
-          {
-            "label": "Federal",
-            "children": []
-          },
-          {
-            "label": "Assembly",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Parliament"
-        ]
-      },
-      {
-        "label": "total",
-        "children": [
-          {
-            "label": "km",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "sq",
-            "children": []
-          },
-          {
-            "label": "mi",
-            "children": []
-          },
-          {
-            "label": "billion",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "291",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "943",
-            "children": []
-          },
-          {
-            "label": "132th",
-            "children": []
-          },
-          {
-            "label": "881",
-            "children": []
-          },
-          {
-            "label": "083",
-            "children": []
-          },
-          {
-            "label": "35th",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "003",
-            "children": []
-          },
-          {
-            "label": "trillion",
-            "children": []
-          },
-          {
-            "label": "20th",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "10,452 km 2 (4,036 sq mi) ( 161st )",
-          "$78.233 billion ( 108th )",
-          "$21.780 billion ( 103rd )"
-        ]
-      },
-      {
-        "label": "water",
-        "children": [
-          {
-            "label": "4",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1.8"
-        ]
-      },
-      {
-        "label": "estimate",
-        "children": [
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "060",
-            "children": []
-          },
-          {
-            "label": "598",
-            "children": []
-          },
-          {
-            "label": "99th",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "5,364,482 ( 117th )"
-        ]
-      },
-      {
-        "label": "density",
-        "children": [
-          {
-            "label": "km",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "sq",
-            "children": []
-          },
-          {
-            "label": "mi",
-            "children": []
-          },
-          {
-            "label": "207",
-            "children": []
-          },
-          {
-            "label": "536",
-            "children": []
-          },
-          {
-            "label": "67th",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "513/km 2 (1,328.7/sq mi)"
-        ]
-      },
-      {
-        "label": "gdp_ppp",
-        "children": [
-          {
-            "label": "estimate",
-            "children": []
-          },
-          {
-            "label": "2025",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "2022 estimate"
-        ]
-      },
-      {
-        "label": "per_capita",
-        "children": [
-          {
-            "label": "97",
-            "children": []
-          },
-          {
-            "label": "660",
-            "children": []
-          },
-          {
-            "label": "6th",
-            "children": []
-          },
-          {
-            "label": "111",
-            "children": []
-          },
-          {
-            "label": "047",
-            "children": []
-          },
-          {
-            "label": "3rd",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "$11,793 ( 114th )",
-          "$3,283 ( 133rd )"
-        ]
-      },
-      {
-        "label": "gdp_nominal",
-        "children": [
-          {
-            "label": "estimate",
-            "children": []
-          },
-          {
-            "label": "2025",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "2022 estimate"
-        ]
-      },
-      {
-        "label": "gini",
-        "children": [
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "medium",
-            "children": []
-          },
-          {
-            "label": "inequality",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "31.8 medium inequality"
-        ]
-      },
-      {
-        "label": "hdi",
-        "children": [
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "high",
-            "children": []
-          },
-          {
-            "label": "970",
-            "children": []
-          },
-          {
-            "label": "very",
-            "children": []
-          },
-          {
-            "label": "2nd",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "0.752 high ( 102nd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Swiss",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "CHF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Lebanese pound ( LBP )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( EET )"
-        ]
-      },
-      {
-        "label": "summer_dst",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "CEST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( EEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "41",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+961"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CH",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "LB"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ch",
-            "children": []
-          },
-          {
-            "label": "swiss",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".lb .لبنان"
-        ]
-      },
-      {
-        "label": "german",
-        "children": [
-          {
-            "label": "Schweizerische",
-            "children": []
-          },
-          {
-            "label": "Eidgenossenschaft",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "french",
-        "children": [
-          {
-            "label": "Conf",
-            "children": []
-          },
-          {
-            "label": "d",
-            "children": []
-          },
-          {
-            "label": "ration",
-            "children": []
-          },
-          {
-            "label": "suisse",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "italian",
-        "children": [
-          {
-            "label": "Confederazione",
-            "children": []
-          },
-          {
-            "label": "Svizzera",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "romansh",
-        "children": [
-          {
-            "label": "Confederaziun",
-            "children": []
-          },
-          {
-            "label": "svizra",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "latin",
-        "children": [
-          {
-            "label": "Confoederatio",
-            "children": []
-          },
-          {
-            "label": "helvetica",
-            "children": []
-          },
-          {
-            "label": "CH",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "capital",
-        "children": [
-          {
-            "label": "Bern",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "facto",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "federal_city",
-        "children": [
-          {
-            "label": "Bern",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "largest_city",
-        "children": [
-          {
-            "label": "Zurich",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "nationality",
-        "children": [
-          {
-            "label": "72",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "Swiss",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "foreign",
-            "children": []
           },
           {
-            "label": "nationals",
+            "label": "republic",
             "children": []
           }
         ]
@@ -1027,6 +669,9 @@
             "label": "Pfister",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Guy Parmelin ( President ) Ignazio Cassis ( Vice president ) Karin Keller-Sutter Albert Rösti Élisabeth Baume-Schneider Beat Jans Martin Pfister"
         ]
       },
       {
@@ -1038,6 +683,25 @@
           },
           {
             "label": "Rossi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Viktor Rossi"
+        ]
+      },
+      {
+        "label": "legislature",
+        "raw_values": [
+          "Federal Assembly"
+        ],
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "Assembly",
             "children": []
           }
         ]
@@ -1057,6 +721,9 @@
             "label": "States",
             "children": []
           }
+        ],
+        "raw_values": [
+          "Council of States"
         ]
       },
       {
@@ -1070,6 +737,9 @@
             "label": "Council",
             "children": []
           }
+        ],
+        "raw_values": [
+          "National Council"
         ]
       },
       {
@@ -1087,6 +757,9 @@
             "label": "1291",
             "children": []
           }
+        ],
+        "raw_values": [
+          "1 August 1291"
         ]
       },
       {
@@ -1104,6 +777,9 @@
             "label": "1648",
             "children": []
           }
+        ],
+        "raw_values": [
+          "24 October 1648"
         ]
       },
       {
@@ -1121,6 +797,9 @@
             "label": "1815",
             "children": []
           }
+        ],
+        "raw_values": [
+          "7 August 1815"
         ]
       },
       {
@@ -1138,6 +817,123 @@
             "label": "1848",
             "children": []
           }
+        ],
+        "raw_values": [
+          "12 September 1848"
+        ]
+      },
+      {
+        "label": "total",
+        "raw_values": [
+          "41,291 km 2 (15,943 sq mi) ( 132th )",
+          "$881.083 billion ( 35th )",
+          "$1.003 trillion ( 20th )"
+        ],
+        "children": [
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "291",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "943",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "132th",
+            "children": []
+          },
+          {
+            "label": "881",
+            "children": []
+          },
+          {
+            "label": "083",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "35th",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "003",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "20th",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "water",
+        "raw_values": [
+          "4"
+        ],
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "estimate",
+        "raw_values": [
+          "9,060,598 ( 99th )"
+        ],
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "060",
+            "children": []
+          },
+          {
+            "label": "598",
+            "children": []
+          },
+          {
+            "label": "99th",
+            "children": []
+          }
         ]
       },
       {
@@ -1153,6 +949,226 @@
           },
           {
             "label": "126",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "8,327,126"
+        ]
+      },
+      {
+        "label": "density",
+        "raw_values": [
+          "207/km 2 (536.1/sq mi) ( 67th )"
+        ],
+        "children": [
+          {
+            "label": "207",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "536",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "67th",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_ppp",
+        "raw_values": [
+          "2025 estimate"
+        ],
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "per_capita",
+        "raw_values": [
+          "$97,660 ( 6th )",
+          "$111,047 ( 3rd )"
+        ],
+        "children": [
+          {
+            "label": "97",
+            "children": []
+          },
+          {
+            "label": "660",
+            "children": []
+          },
+          {
+            "label": "6th",
+            "children": []
+          },
+          {
+            "label": "111",
+            "children": []
+          },
+          {
+            "label": "047",
+            "children": []
+          },
+          {
+            "label": "3rd",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gdp_nominal",
+        "raw_values": [
+          "2025 estimate"
+        ],
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "gini",
+        "raw_values": [
+          "31.5 medium inequality"
+        ],
+        "children": [
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "hdi",
+        "raw_values": [
+          "0.970 very high ( 2nd )"
+        ],
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "970",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "2nd",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "currency",
+        "raw_values": [
+          "Swiss franc ( CHF )"
+        ],
+        "children": [
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "franc",
+            "children": []
+          },
+          {
+            "label": "CHF",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "time_zone",
+        "raw_values": [
+          "UTC +1 ( CET )"
+        ],
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "CET",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "summer_dst",
+        "raw_values": [
+          "UTC +2 ( CEST )"
+        ],
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "CEST",
             "children": []
           }
         ]
@@ -1174,6 +1190,49 @@
           },
           {
             "label": "AD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd.mm.yyyy ( AD )"
+        ]
+      },
+      {
+        "label": "calling_code",
+        "raw_values": [
+          "+41"
+        ],
+        "children": [
+          {
+            "label": "41",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "iso_3166_code",
+        "raw_values": [
+          "CH"
+        ],
+        "children": [
+          {
+            "label": "CH",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "internet_tld",
+        "raw_values": [
+          ".ch , .swiss"
+        ],
+        "children": [
+          {
+            "label": "ch",
+            "children": []
+          },
+          {
+            "label": "swiss",
             "children": []
           }
         ]

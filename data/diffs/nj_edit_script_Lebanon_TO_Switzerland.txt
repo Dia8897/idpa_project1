@@ -2,10 +2,10 @@ COUNTRY TRANSFORMATION EDIT SCRIPT
 =================================
 Source: Lebanon
 Target: Switzerland
-Total operations: 252
+Total operations: 273
 Delete operations: 109
 Insert operations: 141
-Update operations: 2
+Update operations: 23
 
 EXECUTION ORDER
 ---------------
@@ -1023,7 +1023,91 @@ PHASE 3 - UPDATE SHARED DATA
 Reason: Change shared field value to target value.
 Action: update `961` -> `41`
 
-[UPD-002] PATH /country/iso_3166_code
+[UPD-002] PATH /country/calling_code
+Reason: Change shared field value to target value.
+Action: update `calling_code` -> `calling_code`
+
+[UPD-003] PATH /country/currency
+Reason: Change shared field value to target value.
+Action: update `currency` -> `currency`
+
+[UPD-004] PATH /country/demonyms
+Reason: Change shared field value to target value.
+Action: update `demonyms` -> `demonyms`
+
+[UPD-005] PATH /country/density
+Reason: Change shared field value to target value.
+Action: update `density` -> `density`
+
+[UPD-006] PATH /country/estimate
+Reason: Change shared field value to target value.
+Action: update `estimate` -> `estimate`
+
+[UPD-007] PATH /country/gdp_nominal
+Reason: Change shared field value to target value.
+Action: update `gdp_nominal` -> `gdp_nominal`
+
+[UPD-008] PATH /country/gdp_ppp
+Reason: Change shared field value to target value.
+Action: update `gdp_ppp` -> `gdp_ppp`
+
+[UPD-009] PATH /country/gini
+Reason: Change shared field value to target value.
+Action: update `gini` -> `gini`
+
+[UPD-010] PATH /country/government
+Reason: Change shared field value to target value.
+Action: update `government` -> `government`
+
+[UPD-011] PATH /country/hdi
+Reason: Change shared field value to target value.
+Action: update `hdi` -> `hdi`
+
+[UPD-012] PATH /country/info
+Reason: Change shared field value to target value.
+Action: update `info` -> `info`
+
+[UPD-013] PATH /country/internet_tld
+Reason: Change shared field value to target value.
+Action: update `internet_tld` -> `internet_tld`
+
+[UPD-014] PATH /country/iso_3166_code
 Reason: Change shared field value to target value.
 Action: update `LB` -> `CH`
+
+[UPD-015] PATH /country/iso_3166_code
+Reason: Change shared field value to target value.
+Action: update `iso_3166_code` -> `iso_3166_code`
+
+[UPD-016] PATH /country/legislature
+Reason: Change shared field value to target value.
+Action: update `legislature` -> `legislature`
+
+[UPD-017] PATH /country/official_languages
+Reason: Change shared field value to target value.
+Action: update `official_languages` -> `official_languages`
+
+[UPD-018] PATH /country/per_capita
+Reason: Change shared field value to target value.
+Action: update `per_capita` -> `per_capita`
+
+[UPD-019] PATH /country/religion
+Reason: Change shared field value to target value.
+Action: update `religion` -> `religion`
+
+[UPD-020] PATH /country/summer_dst
+Reason: Change shared field value to target value.
+Action: update `summer_dst` -> `summer_dst`
+
+[UPD-021] PATH /country/time_zone
+Reason: Change shared field value to target value.
+Action: update `time_zone` -> `time_zone`
+
+[UPD-022] PATH /country/total
+Reason: Change shared field value to target value.
+Action: update `total` -> `total`
+
+[UPD-023] PATH /country/water
+Reason: Change shared field value to target value.
+Action: update `water` -> `water`
 

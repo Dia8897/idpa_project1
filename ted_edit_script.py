@@ -34,6 +34,21 @@ def join_path(path: str, label: str) -> str:
     return f"{path}/{label}"
 
 
+def clone_node(node: dict) -> dict:
+    cloned = {}
+    for key, value in node.items():
+        if key == "children":
+            cloned[key] = [clone_node(c) for c in value]
+        else:
+            cloned[key] = value
+    cloned.setdefault("children", [])
+    return cloned
+
+
+def node_payload(node: dict) -> dict:
+    return {k: v for k, v in node.items() if k != "children"}
+
+
 # ---------- Nierman & Jagadish similarity (match weight) ----------
 @lru_cache(maxsize=None)
 def sim_cached(a_serial: str, b_serial: str) -> int:
@@ -118,13 +133,7 @@ def align_children(uc, vc):
 def nj_edit_script(t1: dict, t2: dict):
     ops: list = []
 
-    def clone_node(node: dict) -> dict:
-        return {
-            "label": node_label(node),
-            "children": [clone_node(c) for c in node.get("children", [])],
-        }
-
-    def add_ins(path, node):
+    def add_ins(path, node, child_index=None):
         ops.append(
             {
                 "kind": "INS",
@@ -132,11 +141,12 @@ def nj_edit_script(t1: dict, t2: dict):
                 "old": None,
                 "new": subtree_signature(node),
                 "node_is_leaf": is_leaf(node),
+                "child_index": child_index,
                 "subtree": clone_node(node),
             }
         )
 
-    def add_del(path, node):
+    def add_del(path, node, child_index=None):
         ops.append(
             {
                 "kind": "DEL",
@@ -144,18 +154,33 @@ def nj_edit_script(t1: dict, t2: dict):
                 "old": subtree_signature(node),
                 "new": None,
                 "node_is_leaf": is_leaf(node),
+                "child_index": child_index,
                 "subtree": clone_node(node),
             }
         )
 
-    def add_upd(path, old, new):
+    def add_upd(path, old, new, child_index=None):
         ops.append(
             {
                 "kind": "UPD",
                 "path": path,
                 "old": subtree_signature(old),
                 "new": subtree_signature(new),
-                "node_is_leaf": True,
+                "node_is_leaf": is_leaf(old) and is_leaf(new),
+                "child_index": child_index,
+                "subtree": clone_node(new),
+            }
+        )
+
+    def add_meta_upd(node_path, old, new):
+        ops.append(
+            {
+                "kind": "UPD",
+                "path": node_path,
+                "old": subtree_signature(old),
+                "new": subtree_signature(new),
+                "node_is_leaf": False,
+                "child_index": None,
                 "subtree": clone_node(new),
             }
         )
@@ -170,12 +195,15 @@ def nj_edit_script(t1: dict, t2: dict):
         vc = v.get("children", [])
         current = join_path(path, node_label(u))
 
+        if node_payload(u) != node_payload(v):
+            add_meta_upd(current, u, v)
+
         if len(uc) == 0 and len(vc) == 0:
             return
 
         if len(uc) == 1 and len(vc) == 1 and is_leaf(uc[0]) and is_leaf(vc[0]):
             if node_label(uc[0]) != node_label(vc[0]):
-                add_upd(current, uc[0], vc[0])
+                add_upd(current, uc[0], vc[0], child_index=0)
             return
 
         matches = align_children(uc, vc)
@@ -184,11 +212,11 @@ def nj_edit_script(t1: dict, t2: dict):
 
         for i, child in enumerate(uc):
             if i not in matched_u:
-                add_del(current, child)
+                add_del(current, child, child_index=i)
 
         for j, child in enumerate(vc):
             if j not in matched_v:
-                add_ins(current, child)
+                add_ins(current, child, child_index=j)
 
         for i, j in matches:
             diff(uc[i], vc[j], current)

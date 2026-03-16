@@ -32,12 +32,16 @@ const els = {
   sourceTitle: document.getElementById("sourceTitle"),
   targetTitle: document.getElementById("targetTitle"),
   treeViewMode: document.getElementById("treeViewMode"),
+  treeDataMode: document.getElementById("treeDataMode"),
   diffCard: document.getElementById("diffCard"),
   diffContent: document.getElementById("diffContent"),
   diffOverlay: document.getElementById("diffOverlay"),
   diffOverlayContent: document.getElementById("diffOverlayContent"),
   patchedCard: document.getElementById("patchedCard"),
   patchedGraph: document.getElementById("patchedGraph"),
+  postJsonBtn: document.getElementById("postJsonBtn"),
+  postXmlBtn: document.getElementById("postXmlBtn"),
+  postprocessContent: document.getElementById("postprocessContent"),
 };
 
 function initModeSelector() {
@@ -69,7 +73,9 @@ function initViewMode() {
   if (!els.viewMode || !els.explorerContent) return;
 
   const updateView = () => {
-    const mode = els.viewMode.value;
+    const mode = els.viewMode.value.startsWith("tokenized-")
+      ? els.viewMode.value.replace("tokenized-", "")
+      : els.viewMode.value;
     const cards = els.explorerContent.querySelectorAll('.card');
 
     cards.forEach((card, index) => {
@@ -97,6 +103,11 @@ function initViewMode() {
 
   els.viewMode.addEventListener('change', updateView);
   updateView(); // Initial call
+}
+
+function getExplorerTreeDir() {
+  if (!els.viewMode) return DISPLAY_TREE_DIR;
+  return els.viewMode.value.startsWith("tokenized-") ? TED_TREE_DIR : DISPLAY_TREE_DIR;
 }
 
 function initHome() {
@@ -193,10 +204,13 @@ async function loadTreeByCountry(countryName, dir = DISPLAY_TREE_DIR) {
 }
 
 function cloneNode(node) {
-  return {
-    label: node.label,
-    children: (node.children || []).map(cloneNode),
-  };
+  const cloned = {};
+  Object.keys(node || {}).forEach((key) => {
+    if (key === "children") cloned[key] = (node.children || []).map(cloneNode);
+    else cloned[key] = node[key];
+  });
+  cloned.children = cloned.children || [];
+  return cloned;
 }
 
 function findNode(root, pathParts) {
@@ -244,6 +258,90 @@ function applyOps(tree, ops) {
   });
 
   return root;
+}
+
+function mergeValue(existing, incoming) {
+  if (existing == null) return incoming;
+  if (Array.isArray(existing)) {
+    if (Array.isArray(incoming)) existing.push(...incoming);
+    else existing.push(incoming);
+    return existing;
+  }
+  if (Array.isArray(incoming)) return [existing, ...incoming];
+  return [existing, incoming];
+}
+
+function nodeToInfoboxValue(node) {
+  const children = node.children || [];
+  if (!children.length) return String(node.label || "");
+
+  if (Array.isArray(node.raw_values) && node.raw_values.length) {
+    return node.raw_values.length === 1 ? node.raw_values[0] : [...node.raw_values];
+  }
+
+  if (children.every((child) => !child.children || child.children.length === 0)) {
+    const values = children.map((child) => String(child.label || ""));
+    return values.length === 1 ? values[0] : values;
+  }
+
+  const obj = {};
+  children.forEach((child) => {
+    const key = String(child.label || "");
+    obj[key] = mergeValue(obj[key], nodeToInfoboxValue(child));
+  });
+  return obj;
+}
+
+function treeToInfoboxPayload(countryName, tree) {
+  const infobox = {};
+  (tree.children || []).forEach((child) => {
+    const key = String(child.label || "");
+    infobox[key] = mergeValue(infobox[key], nodeToInfoboxValue(child));
+  });
+  return { country_name: countryName, infobox };
+}
+
+function escapeXml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&apos;");
+}
+
+function valueToXml(key, value, indent = "  ") {
+  if (Array.isArray(value)) {
+    return value.map((item) => valueToXml(key, item, indent)).join("\n");
+  }
+  if (value && typeof value === "object") {
+    const inner = Object.entries(value)
+      .map(([childKey, childValue]) => valueToXml(childKey, childValue, `${indent}  `))
+      .join("\n");
+    return `${indent}<${key}>\n${inner}\n${indent}</${key}>`;
+  }
+  return `${indent}<${key}>${escapeXml(value)}</${key}>`;
+}
+
+function payloadToXml(payload) {
+  const body = Object.entries(payload.infobox)
+    .map(([key, value]) => valueToXml(key, value))
+    .join("\n");
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<country name="${escapeXml(payload.country_name)}">\n${body}\n</country>`;
+}
+
+function showPostprocessed(format) {
+  if (!els.postprocessContent) return;
+  const patchedTree = window.__lastPatchedToken || window.__lastPatchedDisplay;
+  const targetName = window.__lastTarget || "Patched";
+  if (!patchedTree) {
+    els.postprocessContent.textContent = "Run patching first.";
+    return;
+  }
+  const payload = treeToInfoboxPayload(targetName, patchedTree);
+  els.postprocessContent.textContent =
+    format === "xml" ? payloadToXml(payload) : JSON.stringify(payload, null, 2);
+  if (els.patchedCard) els.patchedCard.style.display = "block";
 }
 
 async function loadDisplayAndTedTrees(source, target) {
@@ -1042,11 +1140,33 @@ function applyTreeViewMode() {
   }
 }
 
+function getComparisonTreeMode() {
+  return els.treeDataMode?.value || "display";
+}
+
+function renderComparisonTrees() {
+  const dataMode = getComparisonTreeMode();
+  const sourceTree = dataMode === "tokenized" ? window.__lastSourceTed : window.__lastSourceDisplay;
+  const targetTree = dataMode === "tokenized" ? window.__lastTargetTed : window.__lastTargetDisplay;
+  const nodeMaps = dataMode === "tokenized" ? null : window.__lastNodeMaps;
+
+  if (sourceTree && els.sourceGraph) {
+    renderNodeTree(els.sourceGraph, sourceTree, { transformMap: nodeMaps?.source || null });
+  }
+  if (targetTree && els.targetGraph) {
+    renderNodeTree(els.targetGraph, targetTree, { transformMap: nodeMaps?.target || null });
+  }
+  if (window.__lastPatchedDisplay || window.__lastPatchedToken) {
+    const patchedTree = dataMode === "tokenized" ? window.__lastPatchedToken : window.__lastPatchedDisplay;
+    if (patchedTree && els.patchedGraph) renderNodeTree(els.patchedGraph, patchedTree);
+  }
+}
+
 async function onCountryChange() {
   const country = els.countrySelect.value;
   if (!country) return;
   try {
-    const treeObj = await loadTreeByCountry(country, DISPLAY_TREE_DIR);
+    const treeObj = await loadTreeByCountry(country, getExplorerTreeDir());
     renderCountry(treeObj);
   } catch (err) {
     els.countryGraph.textContent = String(err);
@@ -1068,8 +1188,12 @@ async function onCompare() {
     const nodeMaps = buildNodeTransformMaps(opsDisplay);
     renderTransform.sourceNodeCount = countNodes(sTed.tree);
     renderTransform.targetNodeCount = countNodes(tTed.tree);
-    renderNodeTree(els.sourceGraph, sDisplay.tree, { transformMap: nodeMaps.source });
-    renderNodeTree(els.targetGraph, tDisplay.tree, { transformMap: nodeMaps.target });
+    window.__lastSourceDisplay = sDisplay.tree;
+    window.__lastTargetDisplay = tDisplay.tree;
+    window.__lastSourceTed = sTed.tree;
+    window.__lastTargetTed = tTed.tree;
+    window.__lastNodeMaps = nodeMaps;
+    renderComparisonTrees();
     renderTransform(opsToken); // similarity & stats use tokenized ops
     applyTreeViewMode();
 
@@ -1083,7 +1207,10 @@ async function onCompare() {
     if (els.patchBtn) {
       els.patchBtn.disabled = opsDisplay.length === 0;
     }
+    if (els.postJsonBtn) els.postJsonBtn.disabled = true;
+    if (els.postXmlBtn) els.postXmlBtn.disabled = true;
     updateDiffPanel(source, target, opsDisplay);
+    window.__lastTarget = target;
   } catch (err) {
     els.stats.innerHTML = `<div class="empty">${escapeHtml(String(err))}</div>`;
     els.sourceGraph.textContent = "";
@@ -1093,6 +1220,8 @@ async function onCompare() {
     els.updOps.innerHTML = "";
     if (els.toggleDiffBtn) els.toggleDiffBtn.disabled = true;
     if (els.patchBtn) els.patchBtn.disabled = true;
+    if (els.postJsonBtn) els.postJsonBtn.disabled = true;
+    if (els.postXmlBtn) els.postXmlBtn.disabled = true;
     if (els.diffOverlay) els.diffOverlay.style.display = "none";
   }
 }
@@ -1156,20 +1285,41 @@ function enableDiffToggle() {
 function enablePatchPreview() {
   if (!els.patchBtn) return;
   els.patchBtn.addEventListener("click", () => {
-    const ops = window.__lastOps || [];
-    if (!ops.length) return;
     const source = els.sourceSelect.value;
     if (!source) return;
-    loadTreeByCountry(source, DISPLAY_TREE_DIR)
-      .then((sTed) => {
-        const patched = applyOps(sTed.tree, ops);
+    const opsDisplay = window.__lastOps || [];
+    const opsToken = window.__lastOpsToken || [];
+    if (!opsDisplay.length) return;
+    Promise.all([
+      loadTreeByCountry(source, DISPLAY_TREE_DIR),
+      loadTreeByCountry(source, TED_TREE_DIR),
+    ])
+      .then(([displayTree, tokenTree]) => {
+        const patchedDisplay = applyOps(displayTree.tree, opsDisplay);
+        const patchedToken = applyOps(tokenTree.tree, opsToken);
+        window.__lastPatchedDisplay = patchedDisplay;
+        window.__lastPatchedToken = patchedToken;
         if (els.patchedCard) els.patchedCard.style.display = "block";
-        if (els.patchedGraph) renderNodeTree(els.patchedGraph, patched);
+        renderComparisonTrees();
+        if (els.postprocessContent) {
+          els.postprocessContent.textContent = "Patched tree ready. Generate JSON or XML.";
+        }
+        if (els.postJsonBtn) els.postJsonBtn.disabled = false;
+        if (els.postXmlBtn) els.postXmlBtn.disabled = false;
       })
       .catch((err) => {
         console.error(err);
       });
   });
+}
+
+function enablePostprocessButtons() {
+  if (els.postJsonBtn) {
+    els.postJsonBtn.addEventListener("click", () => showPostprocessed("json"));
+  }
+  if (els.postXmlBtn) {
+    els.postXmlBtn.addEventListener("click", () => showPostprocessed("xml"));
+  }
 }
 
 async function init() {
@@ -1191,11 +1341,14 @@ async function init() {
     els.targetSelect.value = targetDefault;
 
     els.countrySelect.addEventListener("change", onCountryChange);
+    if (els.viewMode) els.viewMode.addEventListener("change", onCountryChange);
     els.compareBtn.addEventListener("click", onCompare);
     enableDiffToggle();
     enablePatchPreview();
+    enablePostprocessButtons();
     if (els.opFilter) els.opFilter.addEventListener("change", onCompare);
     if (els.treeViewMode) els.treeViewMode.addEventListener("change", applyTreeViewMode);
+    if (els.treeDataMode) els.treeDataMode.addEventListener("change", renderComparisonTrees);
     initHome();
     initModeSelector();
     initViewMode();
