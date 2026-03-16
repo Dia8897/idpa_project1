@@ -1,108 +1,159 @@
+import argparse
 import json
-import os
 from functools import lru_cache
+from pathlib import Path
 
-# ----------------- Load tree -----------------
-def load_tree(path: str):
+
+DEFAULT_TREE_DIR = Path("data/trees_tokens")
+
+
+def load_tree(path: Path):
     with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)["tree"]  # {"label": ..., "children": [...]}
+        return json.load(f)["tree"]
+# It opens a JSON file and returns only the "tree" part.
 
-# ----------------- Assign stable IDs (needed for memoization) -----------------
-def assign_ids(root):
+def node_label(node: dict) -> str:
+    return str(node.get("label", ""))
+# get the label of a node
+# node_label({"label": "capital", "children": []})
+# extract: "capital"
+
+def count_nodes(node: dict) -> int:
+    total = 1
+    for child in node.get("children", []):
+        total += count_nodes(child)
+    return total
+# count how many nodes a tree has (total of root + children + ... )
+
+
+def serialize_node(node: dict) -> str:
+    # We serialize the subtree so the memoized similarity function can use
+    # immutable string keys instead of mutable dict objects.
+    return json.dumps(
+        {
+            "label": node_label(node),
+            "children": [json.loads(serialize_node(child)) for child in node.get("children", [])],
+        },
+        ensure_ascii=False,
+        sort_keys=True,
+    )
+# convert a subtree into a string
+
+@lru_cache(maxsize=None)
+def nj_similarity(a_serial: str, b_serial: str) -> int:
+    # It takes two serialized subtrees and returns a similarity score
     """
-    Returns (nodes, root_id) where nodes[id] = node_dict.
-    IDs are pre-order assigned (stable).
+    Nierman-Jagadish style subtree similarity.
+
+    Interpretation:
+    - If root labels differ, the two subtrees contribute nothing.
+    - If root labels match, we align the ordered child lists using a weighted
+      LCS-style dynamic program.
+    - The score is 1 for the matching roots plus the best child alignment score.
     """
-    nodes = {}
+    a = json.loads(a_serial)
+    b = json.loads(b_serial)
+    # Earlier they were turned into strings.
+    # Now they are converted back into dictionaries.
 
-    def dfs(node, next_id):
-        my_id = next_id
-        nodes[my_id] = node
-        cid = my_id + 1
-        child_ids = []
-        for ch in node.get("children", []):
-            cid, ch_id = dfs(ch, cid)
-            child_ids.append(ch_id)
-        # store child ids into node for quick access (not saved to disk)
-        node["_child_ids"] = child_ids
-        return cid, my_id
+    if node_label(a) != node_label(b):
+        return 0
+    # if the two roots have different labels, they contribute nothing
+    # "capital" vs "currency" → similarity = 0
 
-    _, root_id = dfs(root, 1)
-    return nodes, root_id
+    a_children = a.get("children", [])
+    b_children = b.get("children", [])
+    rows = len(a_children)
+    cols = len(b_children)
 
-# ----------------- Size of subtree -----------------
-def subtree_size(nodes, u_id):
-    node = nodes[u_id]
-    s = 1
-    for c in node.get("_child_ids", []):
-        s += subtree_size(nodes, c)
-    return s
+    dp = [[0] * (cols + 1) for _ in range(rows + 1)]
+    # This is a dynamic programming matrix.
+    # dp[i][j] = best similarity score using:
+    # first i children of tree A
+    # first j children of tree B
 
-# ----------------- Nierman & Jagadish-style similarity -----------------
-def nj_similarity_and_distance(tree1, tree2):
-    nodes1, r1 = assign_ids(tree1)
-    nodes2, r2 = assign_ids(tree2)
+    for i in range(1, rows + 1):
+        for j in range(1, cols + 1):
+            match_weight = nj_similarity(
+                serialize_node(a_children[i - 1]),
+                serialize_node(b_children[j - 1]),
+            )
+            dp[i][j] = max(
+                dp[i - 1][j],                  # skip a child from tree A
+                dp[i][j - 1],                  # skip a child from tree B
+                dp[i - 1][j - 1] + match_weight,  # match these two children
+            )
 
-    @lru_cache(maxsize=None)
-    def sim(u_id, v_id):
-        u = nodes1[u_id]
-        v = nodes2[v_id]
+    return 1 + dp[rows][cols]
 
-        # labels must match to contribute
-        if u["label"] != v["label"]:
-            return 0
 
-        uc = u.get("_child_ids", [])
-        vc = v.get("_child_ids", [])
-        a, b = len(uc), len(vc)
+def nj_similarity_and_distance(tree1: dict, tree2: dict):
+    # convert similarity into distance
+    """
+    Compute a similarity score and a TED-like distance from tokenized trees.
 
-        # DP like weighted LCS:
-        # dp[i][j] = best similarity sum using first i children of u and first j children of v
-        dp = [[0] * (b + 1) for _ in range(a + 1)]
+    This is not an elementary-cost TED implementation. It is a similarity-first
+    formulation based on the Nierman-Jagadish idea:
 
-        for i in range(1, a + 1):
-            for j in range(1, b + 1):
-                w = sim(uc[i - 1], vc[j - 1])  # weight if we match these subtrees
-                dp[i][j] = max(
-                    dp[i - 1][j],           # skip u child
-                    dp[i][j - 1],           # skip v child
-                    dp[i - 1][j - 1] + w    # match them
-                )
+        distance = |T1| + |T2| - 2 * common_score
 
-        # 1 for matching the root labels + best aligned children similarity
-        return 1 + dp[a][b]
-
-    s = sim(r1, r2)
-    size1 = subtree_size(nodes1, r1)
-    size2 = subtree_size(nodes2, r2)
-
-    # Convert similarity to a distance-like value (common formula):
-    # distance = size1 + size2 - 2 * common
-    dist = size1 + size2 - 2 * s
-
-    # Normalized similarity in [0,1]
-    # 1 means identical structure+labels, 0 means no match at root labels
-    norm_sim = (2 * s) / (size1 + size2) if (size1 + size2) else 1.0
+    where common_score is the recursively computed subtree similarity.
+    """
+    common_score = nj_similarity(serialize_node(tree1), serialize_node(tree2))
+    size1 = count_nodes(tree1)
+    size2 = count_nodes(tree2)
+    distance = size1 + size2 - 2 * common_score
+    normalized_similarity = (2 * common_score) / (size1 + size2) if (size1 + size2) else 1.0
 
     return {
-        "common_score": s,
+        "common_score": common_score,
         "size1": size1,
         "size2": size2,
-        "distance": dist,
-        "normalized_similarity": norm_sim
+        "distance": distance,
+        "normalized_similarity": normalized_similarity,
+        "tree_dir": str(DEFAULT_TREE_DIR),
     }
 
-# ----------------- Quick test -----------------
+
 if __name__ == "__main__":
-    TDIR = "data/trees"
-    A = "Lebanon.json"
-    B = "Switzerland.json"   # change to any country
+    # terminal input section
+    parser = argparse.ArgumentParser(description="Compute NJ-style TED similarity on tokenized country trees.")
+    parser.add_argument("source", nargs="?", default="Lebanon.json", help="Source tree file name or country name")
+    parser.add_argument("target", nargs="?", default="Switzerland.json", help="Target tree file name or country name")
+    parser.add_argument(
+        "--tree-dir",
+        default=DEFAULT_TREE_DIR,
+        type=Path,
+        help="Directory containing tokenized tree JSON files (default: data/trees_tokens)",
+    )
+    # This lets you choose another folder if needed.
+    args = parser.parse_args()
+    # This stores the user input.
 
-    t1 = load_tree(os.path.join(TDIR, A))
-    t2 = load_tree(os.path.join(TDIR, B))
+    source_name = Path(args.source).name if str(args.source).endswith(".json") else f"{args.source}.json"
+    target_name = Path(args.target).name if str(args.target).endswith(".json") else f"{args.target}.json"
 
-    res = nj_similarity_and_distance(t1, t2)
-    print("Common score:", res["common_score"])
-    print("Size1:", res["size1"], "| Size2:", res["size2"])
-    print("Distance:", res["distance"])
-    print("Normalized similarity:", round(res["normalized_similarity"], 4))
+# This allows both styles:
+# Lebanon
+# Lebanon.json
+# Both become Lebanon.json.
+    source_path = args.tree_dir / source_name
+    target_path = args.tree_dir / target_name
+
+    if not source_path.exists() or not target_path.exists():
+        raise SystemExit(f"Missing tree file(s): {source_path} or {target_path}")
+# So the program stops nicely if a file is missing.
+
+# load trees
+    tree1 = load_tree(source_path)
+    tree2 = load_tree(target_path)
+
+# compute result
+    result = nj_similarity_and_distance(tree1, tree2)
+
+# print final output
+    print("Tree directory:", result["tree_dir"])
+    print("Common score:", result["common_score"])
+    print("Size1:", result["size1"], "| Size2:", result["size2"])
+    print("Distance:", result["distance"])
+    print("Normalized similarity:", round(result["normalized_similarity"], 4))
