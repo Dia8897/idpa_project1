@@ -5,119 +5,175 @@ from pathlib import Path
 
 
 DEFAULT_TREE_DIR = Path("data/trees_tokens")
+_ACTIVE_SOURCE_SUBTREES = frozenset()
+_ACTIVE_TARGET_SUBTREES = frozenset()
 
 
 def load_tree(path: Path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)["tree"]
-# It opens a JSON file and returns only the "tree" part.
+        # This opens a JSON file and returns only the "tree" part.
+
 
 def node_label(node: dict) -> str:
     return str(node.get("label", ""))
-# get the label of a node
-# node_label({"label": "capital", "children": []})
-# extract: "capital"
+    # {"label": "capital", "children": [...]}
+# This function extracts "capital".
 
-def count_nodes(node: dict) -> int:
-    total = 1
-    for child in node.get("children", []):
-        total += count_nodes(child)
-    return total
-# count how many nodes a tree has (total of root + children + ... )
+
+def is_leaf(node: dict) -> bool:
+    return len(node.get("children", [])) == 0
+
+
+def clone_serializable(node: dict) -> dict:
+    """
+    Only keep the fields that matter to TED itself.
+    Metadata such as raw_values is ignored for the distance computation.
+    """
+    return {
+        "label": node_label(node),
+        "children": [clone_serializable(child) for child in node.get("children", [])],
+    }
+    # This removes anything extra from the node.
 
 
 def serialize_node(node: dict) -> str:
-    # We serialize the subtree so the memoized similarity function can use
-    # immutable string keys instead of mutable dict objects.
-    return json.dumps(
-        {
-            "label": node_label(node),
-            "children": [json.loads(serialize_node(child)) for child in node.get("children", [])],
-        },
-        ensure_ascii=False,
-        sort_keys=True,
-    )
-# convert a subtree into a string
+    return json.dumps(clone_serializable(node), ensure_ascii=False, sort_keys=True)
+# This turns a subtree into a JSON string.
+
+
+def collect_subtree_serials(node: dict) -> set[str]:
+    serials = {serialize_node(node)}
+    for child in node.get("children", []):
+        serials.update(collect_subtree_serials(child))
+    return serials
+
+
+def contained_in_source_tree(node: dict) -> bool:
+    return serialize_node(node) in _ACTIVE_SOURCE_SUBTREES
+
+
+def contained_in_target_tree(node: dict) -> bool:
+    return serialize_node(node) in _ACTIVE_TARGET_SUBTREES
+
+
+def subtree_size(node: dict) -> int:
+    return 1 + sum(subtree_size(child) for child in node.get("children", []))
+# This counts how many nodes are inside a subtree.
+
+def cost_del_tree(node: dict) -> int:
+    """
+    Nierman-Jagadish subtree deletion cost:
+    - 1 if the subtree already exists somewhere in the destination tree
+    - otherwise fall back to subtree size
+    """
+    if contained_in_target_tree(node):
+        return 1
+    return subtree_size(node)
+
+
+def cost_ins_tree(node: dict) -> int:
+    """
+    Nierman-Jagadish subtree insertion cost:
+    - 1 if the subtree already exists somewhere in the source tree
+    - otherwise fall back to subtree size
+    """
+    if contained_in_source_tree(node):
+        return 1
+    return subtree_size(node)
+
+
+def cost_upd_root(a: dict, b: dict) -> int:
+    """
+    Root update cost.
+
+    Project rule:
+    - identical labels => 0
+    - different leaf labels => 1
+    - different internal labels => replace whole subtree rather than rename it
+    """
+    if node_label(a) == node_label(b):
+        return 0
+    if is_leaf(a) and is_leaf(b):
+        return 1
+    return cost_del_tree(a) + cost_ins_tree(b)
+
 
 @lru_cache(maxsize=None)
-def nj_similarity(a_serial: str, b_serial: str) -> int:
-    # It takes two serialized subtrees and returns a similarity score
+def ted(a_serial: str, b_serial: str) -> int:
     """
-    Nierman-Jagadish style subtree similarity.
+    Ordered tree edit distance based on the subtree-DP recurrence in the provided
+    algorithm sketch.
 
-    Interpretation:
-    - If root labels differ, the two subtrees contribute nothing.
-    - If root labels match, we align the ordered child lists using a weighted
-      LCS-style dynamic program.
-    - The score is 1 for the matching roots plus the best child alignment score.
+    Dist[i][j] stores the best cost for transforming the first i children of A
+    into the first j children of B, after accounting for the root update cost.
     """
     a = json.loads(a_serial)
     b = json.loads(b_serial)
-    # Earlier they were turned into strings.
-    # Now they are converted back into dictionaries.
 
-    if node_label(a) != node_label(b):
-        return 0
-    # if the two roots have different labels, they contribute nothing
-    # "capital" vs "currency" → similarity = 0
+    if node_label(a) != node_label(b) and not (is_leaf(a) and is_leaf(b)):
+        return cost_del_tree(a) + cost_ins_tree(b)
 
     a_children = a.get("children", [])
     b_children = b.get("children", [])
-    rows = len(a_children)
-    cols = len(b_children)
+    m = len(a_children)
+    n = len(b_children)
 
-    dp = [[0] * (cols + 1) for _ in range(rows + 1)]
-    # This is a dynamic programming matrix.
-    # dp[i][j] = best similarity score using:
-    # first i children of tree A
-    # first j children of tree B
+    dist = [[0] * (n + 1) for _ in range(m + 1)]
+    dist[0][0] = cost_upd_root(a, b)
 
-    for i in range(1, rows + 1):
-        for j in range(1, cols + 1):
-            match_weight = nj_similarity(
-                serialize_node(a_children[i - 1]),
-                serialize_node(b_children[j - 1]),
+    for i in range(1, m + 1):
+        dist[i][0] = dist[i - 1][0] + cost_del_tree(a_children[i - 1])
+
+    for j in range(1, n + 1):
+        dist[0][j] = dist[0][j - 1] + cost_ins_tree(b_children[j - 1])
+
+    for i in range(1, m + 1):
+        for j in range(1, n + 1):
+            dist[i][j] = min(
+                dist[i - 1][j - 1] + ted(serialize_node(a_children[i - 1]), serialize_node(b_children[j - 1])),
+                dist[i - 1][j] + cost_del_tree(a_children[i - 1]),
+                dist[i][j - 1] + cost_ins_tree(b_children[j - 1]),
             )
-            dp[i][j] = max(
-                dp[i - 1][j],                  # skip a child from tree A
-                dp[i][j - 1],                  # skip a child from tree B
-                dp[i - 1][j - 1] + match_weight,  # match these two children
-            )
 
-    return 1 + dp[rows][cols]
+    return dist[m][n]
 
 
-def nj_similarity_and_distance(tree1: dict, tree2: dict):
-    # convert similarity into distance
+def normalized_similarity(distance: int, size1: int, size2: int) -> float:
     """
-    Compute a similarity score and a TED-like distance from tokenized trees.
-
-    This is not an elementary-cost TED implementation. It is a similarity-first
-    formulation based on the Nierman-Jagadish idea:
-
-        distance = |T1| + |T2| - 2 * common_score
-
-    where common_score is the recursively computed subtree similarity.
+    Convert the distance into an intuitive similarity score in [0,1].
     """
-    common_score = nj_similarity(serialize_node(tree1), serialize_node(tree2))
-    size1 = count_nodes(tree1)
-    size2 = count_nodes(tree2)
-    distance = size1 + size2 - 2 * common_score
-    normalized_similarity = (2 * common_score) / (size1 + size2) if (size1 + size2) else 1.0
+    total = size1 + size2
+    if total == 0:
+        return 1.0
+    return max(0.0, 1.0 - (distance / total))
+
+
+def ted_distance(tree1: dict, tree2: dict):
+    global _ACTIVE_SOURCE_SUBTREES, _ACTIVE_TARGET_SUBTREES
+
+    _ACTIVE_SOURCE_SUBTREES = frozenset(collect_subtree_serials(tree1))
+    _ACTIVE_TARGET_SUBTREES = frozenset(collect_subtree_serials(tree2))
+    ted.cache_clear()
+
+    size1 = subtree_size(tree1)
+    size2 = subtree_size(tree2)
+    distance = ted(serialize_node(tree1), serialize_node(tree2))
+    similarity = normalized_similarity(distance, size1, size2)
+    common_score = (size1 + size2 - distance) / 2
 
     return {
-        "common_score": common_score,
+        "tree_dir": str(DEFAULT_TREE_DIR),
         "size1": size1,
         "size2": size2,
         "distance": distance,
-        "normalized_similarity": normalized_similarity,
-        "tree_dir": str(DEFAULT_TREE_DIR),
+        "common_score": common_score,
+        "normalized_similarity": similarity,
     }
 
 
 if __name__ == "__main__":
-    # terminal input section
-    parser = argparse.ArgumentParser(description="Compute NJ-style TED similarity on tokenized country trees.")
+    parser = argparse.ArgumentParser(description="Compute ordered TED on tokenized country trees.")
     parser.add_argument("source", nargs="?", default="Lebanon.json", help="Source tree file name or country name")
     parser.add_argument("target", nargs="?", default="Switzerland.json", help="Target tree file name or country name")
     parser.add_argument(
@@ -126,34 +182,22 @@ if __name__ == "__main__":
         type=Path,
         help="Directory containing tokenized tree JSON files (default: data/trees_tokens)",
     )
-    # This lets you choose another folder if needed.
     args = parser.parse_args()
-    # This stores the user input.
 
     source_name = Path(args.source).name if str(args.source).endswith(".json") else f"{args.source}.json"
     target_name = Path(args.target).name if str(args.target).endswith(".json") else f"{args.target}.json"
-
-# This allows both styles:
-# Lebanon
-# Lebanon.json
-# Both become Lebanon.json.
     source_path = args.tree_dir / source_name
     target_path = args.tree_dir / target_name
 
     if not source_path.exists() or not target_path.exists():
         raise SystemExit(f"Missing tree file(s): {source_path} or {target_path}")
-# So the program stops nicely if a file is missing.
 
-# load trees
     tree1 = load_tree(source_path)
     tree2 = load_tree(target_path)
+    result = ted_distance(tree1, tree2)
 
-# compute result
-    result = nj_similarity_and_distance(tree1, tree2)
-
-# print final output
     print("Tree directory:", result["tree_dir"])
-    print("Common score:", result["common_score"])
     print("Size1:", result["size1"], "| Size2:", result["size2"])
     print("Distance:", result["distance"])
+    print("Common score:", result["common_score"])
     print("Normalized similarity:", round(result["normalized_similarity"], 4))
