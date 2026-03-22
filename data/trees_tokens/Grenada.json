@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Ever",
             "children": []
@@ -73,11 +53,15 @@
           {
             "label": "People",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Ever Conscious of God We Aspire, Build and Advance as One People"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Hail",
             "children": []
@@ -109,33 +93,10 @@
           {
             "label": "King",
             "children": []
-          },
-          {
-            "label": "Plus",
-            "children": []
-          },
-          {
-            "label": "trace",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Arawak",
-            "children": []
-          },
-          {
-            "label": "Carib",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Ever Conscious of God We Aspire, Build and Advance as One People\"",
-          "Anthem: \" Hail Grenada \" Royal anthem : \" God Save the King \"",
-          "Plus trace of Arawak / Carib ."
+          "Hail Grenada \" Royal anthem : \" God Save the King"
         ]
       },
       {

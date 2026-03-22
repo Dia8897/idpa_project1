@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Qolobaa",
             "children": []
@@ -57,64 +37,10 @@
           {
             "label": "Flag",
             "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Somalia",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Anthem: Qolobaa Calankeed \"Every Nation Has Its Own Flag\"",
-          "Territory controlled Territory claimed but not controlled Show globe Show map of Somalia"
+          "Qolobaa Calankeed \"Every Nation Has Its Own Flag\""
         ]
       },
       {

@@ -4,22 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: 애국가 ( Aegukga ) \" Patriotic Song \"",
-            "children": []
-          },
-          {
-            "label": "National Seal :",
-            "children": []
-          },
-          {
-            "label": "Territory controlled Territory claimed but not controlled (North Korea)",
+            "label": "애국가 ( Aegukga ) \" Patriotic Song \"",
             "children": []
           }
         ]

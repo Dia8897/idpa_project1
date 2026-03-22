@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Justitia – Pietas – Fides ( Latin ) Gerechtigheid – Vroomheid – Vertrouwen ( Dutch ) \"Justice – Piety – Trust\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Justitia – Pietas – Fides ( Latin ) Gerechtigheid – Vroomheid – Vertrouwen ( Dutch ) \"Justice – Piety – Trust\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: God zij met ons Suriname (Dutch) \"God be with our Suriname\"",
-            "children": []
-          },
-          {
-            "label": "Land controlled by Suriname shown in dark green; claimed land shown in light green.",
+            "label": "God zij met ons Suriname (Dutch) \"God be with our Suriname\"",
             "children": []
           }
         ]

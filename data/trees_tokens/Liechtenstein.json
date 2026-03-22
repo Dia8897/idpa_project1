@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "F",
             "children": []
@@ -73,11 +53,15 @@
           {
             "label": "Fatherland",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Für Gott, Fürst und Vaterland\" \"For God, Prince and Fatherland"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Oben",
             "children": []
@@ -117,45 +101,10 @@
           {
             "label": "Rhine",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Liechtenstein",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "agate",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Für Gott, Fürst und Vaterland\" \"For God, Prince and Fatherland\"",
-          "Anthem: Oben am jungen Rhein (English: \"High on the Young Rhine\")",
-          "Location of Liechtenstein (green) in Europe (agate grey) –"
+          "Oben am jungen Rhein (English: \"High on the Young Rhine\")"
         ]
       },
       {

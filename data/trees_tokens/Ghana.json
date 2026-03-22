@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Freedom",
             "children": []
@@ -37,11 +17,15 @@
           {
             "label": "Justice",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Freedom and Justice"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "God",
             "children": []
@@ -61,37 +45,10 @@
           {
             "label": "Ghana",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Freedom and Justice\"",
-          "Anthem: \" God Bless Our Homeland Ghana \"",
-          "Show globe Show map of Africa"
+          "God Bless Our Homeland Ghana"
         ]
       },
       {

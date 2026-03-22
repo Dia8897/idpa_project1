@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "All",
             "children": []
@@ -65,11 +45,15 @@
           {
             "label": "King",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "ٱللَّٰه، ٱلْوَطَن، ٱلْمَلِك \"Allāh, al-Waṭan, al-Malik\" \"God, Country, King\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "an",
             "children": []
@@ -105,93 +89,10 @@
           {
             "label": "Anthem",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Morocco",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "northwest",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Undisputed",
-            "children": []
-          },
-          {
-            "label": "territory",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Morocco",
-            "children": []
-          },
-          {
-            "label": "Western",
-            "children": []
-          },
-          {
-            "label": "Sahara",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "territory",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "partly",
-            "children": []
-          },
-          {
-            "label": "occupied",
-            "children": []
-          },
-          {
-            "label": "by",
-            "children": []
-          },
-          {
-            "label": "Morocco",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: ٱللَّٰه، ٱلْوَطَن، ٱلْمَلِك \"Allāh, al-Waṭan, al-Malik\" \"God, Country, King\"",
-          "Anthem: ٱلنَّشِيْد ٱلْوَطَنِي \"an-Našīd al-Waṭanīy\" \" Cherifian Anthem \"",
-          "Location of Morocco in northwest Africa Undisputed territory of Morocco Western Sahara , a territory claimed and partly occupied by Morocco"
+          "ٱلنَّشِيْد ٱلْوَطَنِي \"an-Našīd al-Waṭanīy\" \" Cherifian Anthem \""
         ]
       },
       {

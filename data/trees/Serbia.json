@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Боже правде Bože pravde (English: \"God of Justice\" )",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Europe Location of Serbia (green) and the claimed but uncontrolled territory of Kosovo (light green) in Europe (dark grey)",
+            "label": "Боже правде Bože pravde (English: \"God of Justice\" )",
             "children": []
           }
         ]

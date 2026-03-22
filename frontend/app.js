@@ -1201,10 +1201,18 @@ function opCard(op, idx) {
 
   const summary =
     op.kind === "DEL"
-      ? `Remove <code>${oldVal}</code> from <code>${escapeHtml(path)}</code>`
+      ? (op.nodeIsLeaf
+        ? `Delete token/value <code>${oldVal}</code> at <code>${escapeHtml(path)}</code>`
+        : `Delete key/subtree <code>${oldVal}</code> from <code>${escapeHtml(path)}</code>`)
       : op.kind === "INS"
-        ? `Add <code>${newVal}</code> under <code>${escapeHtml(path)}</code>`
-        : `Update value at <code>${escapeHtml(path)}</code> from <code>${oldVal}</code> to <code>${newVal}</code>`;
+        ? (op.nodeIsLeaf
+          ? `Insert token/value <code>${newVal}</code> at <code>${escapeHtml(path)}</code>`
+          : `Insert key/subtree <code>${newVal}</code> under <code>${escapeHtml(path)}</code>`)
+        : (op.old === op.new
+          ? `Refresh metadata for key <code>${escapeHtml(path)}</code>`
+          : op.nodeIsLeaf
+            ? `Replace token/value at <code>${escapeHtml(path)}</code>: <code>${oldVal}</code> → <code>${newVal}</code>`
+            : `Update key node at <code>${escapeHtml(path)}</code>: <code>${oldVal}</code> → <code>${newVal}</code>`);
 
   return `
     <article class="op ${op.kind.toLowerCase()}">
@@ -1213,14 +1221,16 @@ function opCard(op, idx) {
     </article>`;
 }
 
-function renderTransform(ops) {
-  // Hide numeric-only token leaves in the UI to keep it readable.
-  const visibleOps = ops.filter(
+function renderTransform(opsForDisplay, opsForTed = opsForDisplay) {
+  // Render operation cards from display-level trees (whole words/fields),
+  // not token-level trees, so the diff is easier for humans to read.
+  const visibleOps = opsForDisplay.filter(
     (o) =>
       !(
         o.nodeIsLeaf &&
         ((o.old && isNoiseToken(o.old)) || (o.new && isNoiseToken(o.new)))
       )
+      && !(o.kind === "UPD" && o.old === o.new)
   );
 
   const delOps = sortOps(visibleOps.filter((o) => o.kind === "DEL"));
@@ -1229,7 +1239,8 @@ function renderTransform(ops) {
   const size1 = renderTransform.sourceNodeCount || 0;
   const size2 = renderTransform.targetNodeCount || 0;
   const totalNodes = size1 + size2;
-  const ted = ops.length;
+  // Keep TED/similarity based on token-level operations (algorithm output).
+  const ted = opsForTed.length;
   const outputSimilarity = totalNodes ? Math.max(0, 1 - ted / totalNodes) : 1;
 
   els.stats.innerHTML = `
@@ -1243,7 +1254,7 @@ function renderTransform(ops) {
 
   if (els.scoreValue) {
     els.scoreValue.textContent = `${(outputSimilarity * 100).toFixed(2)}%`;
-    els.scoreExplain.textContent = `Based on ${size1 + size2} total nodes and ${ops.length} operations.`;
+    els.scoreExplain.textContent = `Based on ${size1 + size2} total nodes and ${opsForTed.length} token-level operations.`;
   }
 
   const filter = els.opFilter?.value || "ALL";
@@ -1277,7 +1288,7 @@ function fillSelect(select, countries) {
 function filterCountries(countries, query) {
   if (!query) return countries;
   const q = query.toLowerCase().trim();
-  return countries.filter((c) => c.toLowerCase().includes(q));
+  return countries.filter((c) => c.toLowerCase().startsWith(q));
 }
 
 function setupSearch(searchEl, selectEl, allCountries) {
@@ -1420,7 +1431,7 @@ async function onCompare() {
     window.__lastTargetTed = tTed.tree;
     window.__lastNodeMaps = nodeMaps;
     renderComparisonTrees();
-    renderTransform(opsToken); // similarity & stats use tokenized ops
+    renderTransform(opsDisplay, opsToken); // readable cards + token-level TED stats
     applyTreeViewMode();
 
     window.__lastOps = opsDisplay; // for diff overlay + patch (readable)

@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Ubumwe",
             "children": []
@@ -93,11 +73,15 @@
           {
             "label": "Swahili",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Ubumwe, Umurimo, Gukunda Igihugu ( Kinyarwanda ) Unity, Work, Patriotism ( English ) Unité, Travail, Patriotisme ( French ) Umoja, Kazi, Uzalendo ( Swahili )"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Rwanda",
             "children": []
@@ -117,54 +101,10 @@
           {
             "label": "Rwanda",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Website",
-            "children": []
-          },
-          {
-            "label": "www",
-            "children": []
-          },
-          {
-            "label": "gov",
-            "children": []
-          },
-          {
-            "label": "rw",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Ubumwe, Umurimo, Gukunda Igihugu ( Kinyarwanda ) Unity, Work, Patriotism ( English ) Unité, Travail, Patriotisme ( French ) Umoja, Kazi, Uzalendo ( Swahili )",
-          "Anthem: \" Rwanda nziza \" (English: \"Beautiful Rwanda\" )",
-          "Show globe Show map of Africa",
-          "Website www .gov .rw"
+          "\" Rwanda nziza \" (English: \"Beautiful Rwanda\" )"
         ]
       },
       {

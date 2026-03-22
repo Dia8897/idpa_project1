@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "Unidade, Luta, Progresso \"Unity, Struggle, Progress\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Unidade, Luta, Progresso \"Unity, Struggle, Progress\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Esta É a Nossa Pátria Amada \"This Is Our Beloved Homeland\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa Show map of Guinea-Bissau Location of Guinea-Bissau in Africa",
+            "label": "Esta É a Nossa Pátria Amada \"This Is Our Beloved Homeland\"",
             "children": []
           }
         ]

@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Unity",
             "children": []
@@ -37,11 +17,15 @@
           {
             "label": "Justice",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Unity, Freedom, Justice"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "High",
             "children": []
@@ -73,58 +57,10 @@
           {
             "label": "Free",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Rank",
-            "children": []
-          },
-          {
-            "label": "based",
-            "children": []
-          },
-          {
-            "label": "on",
-            "children": []
-          },
-          {
-            "label": "2007",
-            "children": []
-          },
-          {
-            "label": "figure",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Unity, Freedom, Justice\"",
-          "Anthem: \" High We Exalt Thee, Realm of the Free \"",
-          "Show globe Show map of Africa",
-          "Rank based on 2007 figure"
+          "High We Exalt Thee, Realm of the Free"
         ]
       },
       {
@@ -229,18 +165,10 @@
           {
             "label": "Krio",
             "children": []
-          },
-          {
-            "label": "citation",
-            "children": []
-          },
-          {
-            "label": "needed",
-            "children": []
           }
         ],
         "raw_values": [
-          "Krio [ citation needed ]"
+          "Krio"
         ]
       },
       {

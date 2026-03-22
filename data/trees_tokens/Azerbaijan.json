@@ -4,24 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Az",
             "children": []
@@ -85,36 +69,10 @@
           {
             "label": "Azerbaijan",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Azerbaijan",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag National emblem",
-          "Anthem: Azərbaycan Respublikasının Dövlət himni \" State Anthem of the Republic of Azerbaijan \"",
-          "Show globe Show map of Azerbaijan"
+          "Azərbaycan Respublikasının Dövlət himni \" State Anthem of the Republic of Azerbaijan \""
         ]
       },
       {

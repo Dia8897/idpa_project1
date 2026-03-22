@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "The Love of Liberty Brought Us Here",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"The Love of Liberty Brought Us Here\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" All Hail, Liberia, Hail! \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          },
-          {
-            "label": "Website www .emansion .gov .lr Executive mansion",
+            "label": "All Hail, Liberia, Hail!",
             "children": []
           }
         ]

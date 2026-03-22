@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Libertad",
             "children": []
@@ -53,11 +33,15 @@
           {
             "label": "Death",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Libertad o Muerte (Spanish) \"Freedom or Death\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Himno",
             "children": []
@@ -89,70 +73,10 @@
           {
             "label": "Uruguay",
             "children": []
-          },
-          {
-            "label": "Sol",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "Mayo",
-            "children": []
-          },
-          {
-            "label": "Sun",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Uruguay",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "America",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Libertad o Muerte (Spanish) \"Freedom or Death\"",
-          "Anthem: Himno Nacional del Uruguay \" National Anthem of Uruguay \"",
-          "Sol de Mayo (Sun of May)",
-          "Location of Uruguay (dark green) in South America"
+          "Himno Nacional del Uruguay \" National Anthem of Uruguay \""
         ]
       },
       {
@@ -271,14 +195,6 @@
             "children": []
           },
           {
-            "label": "note",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
             "label": "10",
             "children": []
           },
@@ -332,7 +248,7 @@
           }
         ],
         "raw_values": [
-          "86.0% White [ note 1 ] 10.4% Black 6.3% Indigenous 0.7% East Asian 6.3% other"
+          "86.0% White 10.4% Black 6.3% Indigenous 0.7% East Asian 6.3% other"
         ]
       },
       {

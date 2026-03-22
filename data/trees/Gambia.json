@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Progress, Peace, and Prosperity",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Progress, Peace, and Prosperity\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" For The Gambia Our Homeland \"",
-            "children": []
-          },
-          {
-            "label": "Location of the Gambia (dark green) in western Africa",
+            "label": "For The Gambia Our Homeland",
             "children": []
           }
         ]

@@ -194,6 +194,9 @@ def build_edit_script(t1: dict, t2: dict):
         )
 
     def add_upd(path, old, new, child_index=None):
+        # Defensive guard: do not emit leaf updates when labels are identical.
+        if node_label(old) == node_label(new):
+            return
         ops.append(
             {
                 "kind": "UPD",
@@ -267,6 +270,30 @@ def build_edit_script(t1: dict, t2: dict):
                 continue
 
     backtrack(t1, t2, "")
+
+    def is_redundant_update(op: dict) -> bool:
+        """
+        Remove obvious no-op updates that clutter the diff, such as:
+        - leaf updates where old == new
+        - internal updates where old == new and subtree carries no metadata
+          beyond label/children
+        """
+        if op.get("kind") != "UPD":
+            return False
+
+        old = str(op.get("old") or "")
+        new = str(op.get("new") or "")
+        if old != new:
+            return False
+
+        if op.get("node_is_leaf", False):
+            return True
+
+        subtree = op.get("subtree") or {}
+        extra_meta = [k for k in subtree.keys() if k not in {"label", "children"}]
+        return len(extra_meta) == 0
+
+    ops = [op for op in ops if not is_redundant_update(op)]
     return ops
 
 

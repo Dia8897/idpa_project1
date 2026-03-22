@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Por",
             "children": []
@@ -73,11 +53,15 @@
           {
             "label": "force",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Por la razón o la fuerza (\"By reason or by force\")"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Himno",
             "children": []
@@ -109,247 +93,10 @@
           {
             "label": "Chile",
             "children": []
-          },
-          {
-            "label": "Chilean",
-            "children": []
-          },
-          {
-            "label": "territory",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "uncontrolled",
-            "children": []
-          },
-          {
-            "label": "territory",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "light",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "Magallanes",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Chilean",
-            "children": []
-          },
-          {
-            "label": "Antarctica",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Ays",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "Region",
-            "children": []
-          },
-          {
-            "label": "observes",
-            "children": []
-          },
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "year",
-            "children": []
-          },
-          {
-            "label": "round",
-            "children": []
-          },
-          {
-            "label": "Legislature",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "based",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Valpara",
-            "children": []
-          },
-          {
-            "label": "so",
-            "children": []
-          },
-          {
-            "label": "Includes",
-            "children": []
-          },
-          {
-            "label": "Easter",
-            "children": []
-          },
-          {
-            "label": "Island",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Isla",
-            "children": []
-          },
-          {
-            "label": "Salas",
-            "children": []
-          },
-          {
-            "label": "y",
-            "children": []
-          },
-          {
-            "label": "G",
-            "children": []
-          },
-          {
-            "label": "mez",
-            "children": []
-          },
-          {
-            "label": "does",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "include",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "250",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "square",
-            "children": []
-          },
-          {
-            "label": "kilometres",
-            "children": []
-          },
-          {
-            "label": "480",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "sq",
-            "children": []
-          },
-          {
-            "label": "mi",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "territory",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Antarctica",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Por la razón o la fuerza (\"By reason or by force\")",
-          "Anthem: Himno Nacional de Chile (\"National Anthem of Chile\")",
-          "Chilean territory in dark green; claimed but uncontrolled territory in light green",
-          "Magallanes and the Chilean Antarctica, and Aysén Region observes UTC−3 year-round.",
-          "^ Legislature is based in Valparaíso . ^ Includes Easter Island and Isla Salas y Gómez ; does not include 1,250,000 square kilometres (480,000 sq mi) of territory claimed in Antarctica."
+          "Himno Nacional de Chile (\"National Anthem of Chile\")"
         ]
       },
       {

@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Eendracht",
             "children": []
@@ -97,11 +77,15 @@
           {
             "label": "strength",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Eendracht maakt macht ( Dutch ) L'union fait la force ( French ) Einigkeit macht stark ( German ) (English: \" Unity makes strength \" )"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "La",
             "children": []
@@ -121,45 +105,10 @@
           {
             "label": "Brabantian",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "European",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Eendracht maakt macht ( Dutch ) L'union fait la force ( French ) Einigkeit macht stark ( German ) (English: \" Unity makes strength \" )",
-          "Anthem: La Brabançonne The Brabantian",
-          "Show globe Show map of the European Union"
+          "La Brabançonne The Brabantian"
         ]
       },
       {

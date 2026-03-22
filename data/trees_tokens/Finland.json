@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Maamme",
             "children": []
@@ -61,138 +41,10 @@
           {
             "label": "Land",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Finland",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "European",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "Website",
-            "children": []
-          },
-          {
-            "label": "finland",
-            "children": []
-          },
-          {
-            "label": "fi",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "ax",
-            "children": []
-          },
-          {
-            "label": "domain",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "used",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "land",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Anthem: Maamme (Finnish) Vårt land (Swedish) (English: \"Our Land\" )",
-          "Show globe Show map of Europe Location of Finland (dark green) – in Europe (green & dark grey) – in the European Union (green) –",
-          "Website finland .fi",
-          "The .ax domain is used in Åland ."
+          "Maamme (Finnish) Vårt land (Swedish) (English: \"Our Land\" )"
         ]
       },
       {
@@ -367,14 +219,6 @@
             "children": []
           },
           {
-            "label": "note",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
             "label": "11",
             "children": []
           },
@@ -388,7 +232,7 @@
           }
         ],
         "raw_values": [
-          "88.9% Finns [ note 1 ] 11.1% others"
+          "88.9% Finns 11.1% others"
         ]
       },
       {

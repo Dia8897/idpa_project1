@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "Độc lập – Tự do – Hạnh phúc \"Independence – Freedom – Happiness\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Độc lập – Tự do – Hạnh phúc \"Independence – Freedom – Happiness\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Tin qun ca \"The Song of the Marching Troops\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show ASEAN Location of Vietnam (green) in Southeast Asia",
+            "label": "Tiến quân ca \"The Song of the Marching Troops\"",
             "children": []
           }
         ]
@@ -100,7 +97,7 @@
         "label": "general_secretary",
         "children": [
           {
-            "label": "T Lm",
+            "label": "Tô Lâm",
             "children": []
           }
         ]
@@ -151,7 +148,7 @@
         ]
       },
       {
-        "label": "u_lc",
+        "label": "u_lac",
         "children": [
           {
             "label": "3rd century BC",

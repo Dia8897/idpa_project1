@@ -4,26 +4,28 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "Bhinneka Tunggal Ika ( Old Javanese ) \"Unity in Diversity\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Bhinneka Tunggal Ika ( Old Javanese ) \"Unity in Diversity\"",
+            "label": "Indonesia Raya \"Great Indonesia\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "national_ideology_and_philosophy",
+        "children": [
           {
-            "label": "Anthem: Indonesia Raya \"Great Indonesia\"",
-            "children": []
-          },
-          {
-            "label": "National ideology and philosophy: Pancasila ( Sanskrit ) \"The Five Principles\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show ASEAN Location of Indonesia (green) in ASEAN",
+            "label": "Pancasila ( Sanskrit ) \"The Five Principles\"",
             "children": []
           }
         ]

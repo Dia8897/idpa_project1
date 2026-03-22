@@ -36,28 +36,8 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Firme",
             "children": []
@@ -113,11 +93,15 @@
           {
             "label": "Union",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Firme y feliz por la unión \" (Spanish) \"Firm and Happy for the Union"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Himno",
             "children": []
@@ -185,82 +169,10 @@
           {
             "label": "Flags",
             "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "seal",
-            "children": []
-          },
-          {
-            "label": "Gran",
-            "children": []
-          },
-          {
-            "label": "Sello",
-            "children": []
-          },
-          {
-            "label": "del",
-            "children": []
-          },
-          {
-            "label": "Estado",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "Great",
-            "children": []
-          },
-          {
-            "label": "Seal",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "State",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Peru",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \" Firme y feliz por la unión \" (Spanish) \"Firm and Happy for the Union\"",
-          "Anthem: \" Himno Nacional del Perú \" (Spanish) \"National Anthem of Peru\" March: \" Marcha de Banderas \" (Spanish) \"March of Flags\"",
-          "National seal Gran Sello del Estado (Spanish) Great Seal of the State",
-          "Location of Peru (dark green)"
+          "Himno Nacional del Perú \" (Spanish) \"National Anthem of Peru\" March: \" Marcha de Banderas \" (Spanish) \"March of Flags"
         ]
       },
       {

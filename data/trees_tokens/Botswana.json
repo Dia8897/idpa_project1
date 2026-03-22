@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Pula",
             "children": []
@@ -33,11 +13,15 @@
           {
             "label": "Rain",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Pula \"Rain\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Fatshe",
             "children": []
@@ -69,37 +53,10 @@
           {
             "label": "Ours",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Pula \"Rain\"",
-          "Anthem: \" Fatshe leno la rona \" \"This Land of Ours\"",
-          "Show globe Show map of Africa"
+          "Fatshe leno la rona \" \"This Land of Ours"
         ]
       },
       {

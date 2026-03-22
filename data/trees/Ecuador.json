@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Pro Deo, Patria et Libertate (Latin) Dios, patria y libertad (Spanish) \"Lord, homeland and freedom\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Pro Deo, Patria et Libertate (Latin) Dios, patria y libertad (Spanish) \"Lord, homeland and freedom\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Salve, Oh Patria (Spanish) English: \"Hail, Oh Fatherland\"",
-            "children": []
-          },
-          {
-            "label": "Location of Ecuador (dark green)",
-            "children": []
-          },
-          {
-            "label": "Ecuadorian sucre until 2000, replaced by the US dollar and Ecuadorian centavo coins .",
+            "label": "Salve, Oh Patria (Spanish) English: \"Hail, Oh Fatherland\"",
             "children": []
           }
         ]

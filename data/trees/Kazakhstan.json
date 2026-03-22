@@ -4,14 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: Menıñ Qazaqstanym \"My Kazakhstan\"",
+            "label": "Menıñ Qazaqstanym \"My Kazakhstan\"",
             "children": []
           }
         ]

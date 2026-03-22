@@ -4,18 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "God's will first",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"God's will first\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Nauru Bwiema (Nauruan) \"Nauru, Our Homeland\"",
+            "label": "Nauru Bwiema (Nauruan) \"Nauru, Our Homeland\"",
             "children": []
           }
         ]

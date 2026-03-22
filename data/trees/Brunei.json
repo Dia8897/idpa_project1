@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "الدائمون المحسنون بالهدى ( Arabic ) Ad-dāʾimūna al-muḥsinūna bi-l-hudā ( Sentiasa membuat kebajikan dengan petunjuk Allah ) \"Always in service with God 's guidance\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: الدائمون المحسنون بالهدى ( Arabic ) Ad-dāʾimūna al-muḥsinūna bi-l-hudā ( Sentiasa membuat kebajikan dengan petunjuk Allah ) \"Always in service with God 's guidance\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Allah Peliharakan Sultan الله ڤليهاراکن سلطان \"God Bless the Sultan\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Brunei Show ASEAN Location of Brunei (green) in Southeast Asia",
-            "children": []
-          },
-          {
-            "label": "^ Also 080 from East Malaysia",
+            "label": "Allah Peliharakan Sultan الله ڤليهاراکن سلطان \"God Bless the Sultan\"",
             "children": []
           }
         ]

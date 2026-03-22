@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Each",
             "children": []
@@ -41,11 +21,15 @@
           {
             "label": "achieving",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Each endeavouring, all achieving"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Fair",
             "children": []
@@ -65,45 +49,10 @@
           {
             "label": "Thee",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Antigua",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Barbuda",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \" Each endeavouring, all achieving \"",
-          "Anthem: \" Fair Antigua, We Salute Thee \"",
-          "Show globe Show map of Antigua and Barbuda"
+          "Fair Antigua, We Salute Thee"
         ]
       },
       {

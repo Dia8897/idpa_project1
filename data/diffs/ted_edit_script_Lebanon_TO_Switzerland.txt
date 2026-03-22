@@ -1,0 +1,753 @@
+COUNTRY TRANSFORMATION EDIT SCRIPT
+=================================
+Source: Lebanon
+Target: Switzerland
+Total operations: 183
+Delete operations: 43
+Insert operations: 48
+Update operations: 92
+
+EXECUTION ORDER
+---------------
+1) Apply all deletes.
+2) Apply all inserts.
+3) Apply all updates.
+
+PHASE 1 - DELETE SOURCE-ONLY DATA
+=================================
+[DEL-001] PATH /country/local_vernacular
+Reason: Delete a source subtree or token.
+Action: delete `local_vernacular`
+
+[DEL-002] PATH /country/recognised_minority_language
+Reason: Delete a source subtree or token.
+Action: delete `recognised_minority_language`
+
+[DEL-003] PATH /country/president
+Reason: Delete a source subtree or token.
+Action: delete `president`
+
+[DEL-004] PATH /country/emirate_of_mount_lebanon
+Reason: Delete a source subtree or token.
+Action: delete `emirate_of_mount_lebanon`
+
+[DEL-005] PATH /country/double_qaimmaqamate_of_mount_lebanon
+Reason: Delete a source subtree or token.
+Action: delete `double_qaimmaqamate_of_mount_lebanon`
+
+[DEL-006] PATH /country/mount_lebanon_mutasarrifate
+Reason: Delete a source subtree or token.
+Action: delete `mount_lebanon_mutasarrifate`
+
+[DEL-007] PATH /country/greater_lebanon
+Reason: Delete a source subtree or token.
+Action: delete `greater_lebanon`
+
+[DEL-008] PATH /country/capital_and_largest_city
+Reason: Delete a source subtree or token.
+Action: delete `capital_and_largest_city`
+
+[DEL-009] PATH /country/constitution
+Reason: Delete a source subtree or token.
+Action: delete `constitution`
+
+[DEL-010] PATH /country/ethnic_groups
+Reason: Delete a source subtree or token.
+Action: delete `ethnic_groups`
+
+[DEL-011] PATH /country/french_mandate_ended
+Reason: Delete a source subtree or token.
+Action: delete `french_mandate_ended`
+
+[DEL-012] PATH /country/independence_declared
+Reason: Delete a source subtree or token.
+Action: delete `independence_declared`
+
+[DEL-013] PATH /country/israeli_troops_withdrawn
+Reason: Delete a source subtree or token.
+Action: delete `israeli_troops_withdrawn`
+
+[DEL-014] PATH /country/prime_minister
+Reason: Delete a source subtree or token.
+Action: delete `prime_minister`
+
+[DEL-015] PATH /country/speaker_of_the_parliament
+Reason: Delete a source subtree or token.
+Action: delete `speaker_of_the_parliament`
+
+[DEL-016] PATH /country/syrian_troops_withdrawn
+Reason: Delete a source subtree or token.
+Action: delete `syrian_troops_withdrawn`
+
+[DEL-017] PATH /country/withdrawal_of_french_forces
+Reason: Delete a source subtree or token.
+Action: delete `withdrawal_of_french_forces`
+
+[DEL-018] PATH /country/anthem
+Reason: Delete a source subtree or token.
+Action: delete `Kullun`
+
+[DEL-019] PATH /country/anthem
+Reason: Delete a source subtree or token.
+Action: delete `li`
+
+[DEL-020] PATH /country/anthem
+Reason: Delete a source subtree or token.
+Action: delete `l`
+
+[DEL-021] PATH /country/anthem
+Reason: Delete a source subtree or token.
+Action: delete `wa`
+
+[DEL-022] PATH /country/anthem
+Reason: Delete a source subtree or token.
+Action: delete `an`
+
+[DEL-023] PATH /country/anthem
+Reason: Delete a source subtree or token.
+Action: delete `All`
+
+[DEL-024] PATH /country/anthem
+Reason: Delete a source subtree or token.
+Action: delete `of`
+
+[DEL-025] PATH /country/anthem
+Reason: Delete a source subtree or token.
+Action: delete `us`
+
+[DEL-026] PATH /country/anthem
+Reason: Delete a source subtree or token.
+Action: delete `for`
+
+[DEL-027] PATH /country/density
+Reason: Delete a source subtree or token.
+Action: delete `1`
+
+[DEL-028] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `53`
+
+[DEL-029] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `31`
+
+[DEL-030] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `Islam`
+
+[DEL-031] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `26`
+
+[DEL-032] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `84`
+
+[DEL-033] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `Shia`
+
+[DEL-034] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `30`
+
+[DEL-035] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `Orthodox`
+
+[DEL-036] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `2`
+
+[DEL-037] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `92`
+
+[DEL-038] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `Armenian`
+
+[DEL-039] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `64`
+
+[DEL-040] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `Other`
+
+[DEL-041] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `Christians`
+
+[DEL-042] PATH /country/religion
+Reason: Delete a source subtree or token.
+Action: delete `08`
+
+[DEL-043] PATH /country/water
+Reason: Delete a source subtree or token.
+Action: delete `1`
+
+PHASE 2 - INSERT TARGET-ONLY DATA
+=================================
+[INS-001] PATH /country/german
+Reason: Insert a target subtree or token.
+Action: insert `german`
+
+[INS-002] PATH /country/french
+Reason: Insert a target subtree or token.
+Action: insert `french`
+
+[INS-003] PATH /country/italian
+Reason: Insert a target subtree or token.
+Action: insert `italian`
+
+[INS-004] PATH /country/romansh
+Reason: Insert a target subtree or token.
+Action: insert `romansh`
+
+[INS-005] PATH /country/latin
+Reason: Insert a target subtree or token.
+Action: insert `latin`
+
+[INS-006] PATH /country/motto
+Reason: Insert a target subtree or token.
+Action: insert `motto`
+
+[INS-007] PATH /country/capital
+Reason: Insert a target subtree or token.
+Action: insert `capital`
+
+[INS-008] PATH /country/federal_city
+Reason: Insert a target subtree or token.
+Action: insert `federal_city`
+
+[INS-009] PATH /country/census
+Reason: Insert a target subtree or token.
+Action: insert `census`
+
+[INS-010] PATH /country/date_format
+Reason: Insert a target subtree or token.
+Action: insert `date_format`
+
+[INS-011] PATH /country/federal_chancellor
+Reason: Insert a target subtree or token.
+Action: insert `federal_chancellor`
+
+[INS-012] PATH /country/federal_council
+Reason: Insert a target subtree or token.
+Action: insert `federal_council`
+
+[INS-013] PATH /country/federal_state
+Reason: Insert a target subtree or token.
+Action: insert `federal_state`
+
+[INS-014] PATH /country/federal_treaty
+Reason: Insert a target subtree or token.
+Action: insert `federal_treaty`
+
+[INS-015] PATH /country/founded
+Reason: Insert a target subtree or token.
+Action: insert `founded`
+
+[INS-016] PATH /country/largest_city
+Reason: Insert a target subtree or token.
+Action: insert `largest_city`
+
+[INS-017] PATH /country/lower_house
+Reason: Insert a target subtree or token.
+Action: insert `lower_house`
+
+[INS-018] PATH /country/nationality
+Reason: Insert a target subtree or token.
+Action: insert `nationality`
+
+[INS-019] PATH /country/sovereignty_recognised_peace_of_westphalia
+Reason: Insert a target subtree or token.
+Action: insert `sovereignty_recognised_peace_of_westphalia`
+
+[INS-020] PATH /country/upper_house
+Reason: Insert a target subtree or token.
+Action: insert `upper_house`
+
+[INS-021] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `English`
+
+[INS-022] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `Swiss`
+
+[INS-023] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `German`
+
+[INS-024] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `Schweizer`
+
+[INS-025] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `Schweizerin`
+
+[INS-026] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `French`
+
+[INS-027] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `Suisse`
+
+[INS-028] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `Suissesse`
+
+[INS-029] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `Italian`
+
+[INS-030] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `svizzero`
+
+[INS-031] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `svizzera`
+
+[INS-032] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `or`
+
+[INS-033] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `elvetico`
+
+[INS-034] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `elvetica`
+
+[INS-035] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `Romansh`
+
+[INS-036] PATH /country/demonyms
+Reason: Insert a target subtree or token.
+Action: insert `Svizzer`
+
+[INS-037] PATH /country/density
+Reason: Insert a target subtree or token.
+Action: insert `67th`
+
+[INS-038] PATH /country/hdi
+Reason: Insert a target subtree or token.
+Action: insert `970`
+
+[INS-039] PATH /country/internet_tld
+Reason: Insert a target subtree or token.
+Action: insert `ch`
+
+[INS-040] PATH /country/legislature
+Reason: Insert a target subtree or token.
+Action: insert `Federal`
+
+[INS-041] PATH /country/official_languages
+Reason: Insert a target subtree or token.
+Action: insert `German`
+
+[INS-042] PATH /country/official_languages
+Reason: Insert a target subtree or token.
+Action: insert `62`
+
+[INS-043] PATH /country/official_languages
+Reason: Insert a target subtree or token.
+Action: insert `French`
+
+[INS-044] PATH /country/official_languages
+Reason: Insert a target subtree or token.
+Action: insert `23`
+
+[INS-045] PATH /country/official_languages
+Reason: Insert a target subtree or token.
+Action: insert `Italian`
+
+[INS-046] PATH /country/official_languages
+Reason: Insert a target subtree or token.
+Action: insert `8`
+
+[INS-047] PATH /country/official_languages
+Reason: Insert a target subtree or token.
+Action: insert `Romansh`
+
+[INS-048] PATH /country/official_languages
+Reason: Insert a target subtree or token.
+Action: insert `0`
+
+PHASE 3 - UPDATE SHARED DATA
+============================
+[UPD-001] PATH /country/anthem
+Reason: Update metadata attached to a matched structural node.
+Action: update `anthem` -> `anthem`
+
+[UPD-002] PATH /country/anthem
+Reason: Update token/content value.
+Action: update `country` -> `Psalm`
+
+[UPD-003] PATH /country/anthem
+Reason: Update token/content value.
+Action: update `our` -> `Swiss`
+
+[UPD-004] PATH /country/calling_code
+Reason: Update token/content value.
+Action: update `961` -> `41`
+
+[UPD-005] PATH /country/calling_code
+Reason: Update metadata attached to a matched structural node.
+Action: update `calling_code` -> `calling_code`
+
+[UPD-006] PATH /country/currency
+Reason: Update token/content value.
+Action: update `LBP` -> `CHF`
+
+[UPD-007] PATH /country/currency
+Reason: Update token/content value.
+Action: update `Lebanese` -> `Swiss`
+
+[UPD-008] PATH /country/currency
+Reason: Update metadata attached to a matched structural node.
+Action: update `currency` -> `currency`
+
+[UPD-009] PATH /country/currency
+Reason: Update token/content value.
+Action: update `pound` -> `franc`
+
+[UPD-010] PATH /country/demonyms
+Reason: Update token/content value.
+Action: update `Lebanese` -> `Svizra`
+
+[UPD-011] PATH /country/demonyms
+Reason: Update metadata attached to a matched structural node.
+Action: update `demonyms` -> `demonyms`
+
+[UPD-012] PATH /country/density
+Reason: Update token/content value.
+Action: update `328` -> `536`
+
+[UPD-013] PATH /country/density
+Reason: Update token/content value.
+Action: update `513` -> `207`
+
+[UPD-014] PATH /country/density
+Reason: Update token/content value.
+Action: update `7` -> `1`
+
+[UPD-015] PATH /country/density
+Reason: Update metadata attached to a matched structural node.
+Action: update `density` -> `density`
+
+[UPD-016] PATH /country/estimate
+Reason: Update token/content value.
+Action: update `117th` -> `99th`
+
+[UPD-017] PATH /country/estimate
+Reason: Update token/content value.
+Action: update `364` -> `060`
+
+[UPD-018] PATH /country/estimate
+Reason: Update token/content value.
+Action: update `482` -> `598`
+
+[UPD-019] PATH /country/estimate
+Reason: Update token/content value.
+Action: update `5` -> `9`
+
+[UPD-020] PATH /country/estimate
+Reason: Update metadata attached to a matched structural node.
+Action: update `estimate` -> `estimate`
+
+[UPD-021] PATH /country/gdp_nominal
+Reason: Update token/content value.
+Action: update `2022` -> `2025`
+
+[UPD-022] PATH /country/gdp_nominal
+Reason: Update metadata attached to a matched structural node.
+Action: update `gdp_nominal` -> `gdp_nominal`
+
+[UPD-023] PATH /country/gdp_ppp
+Reason: Update token/content value.
+Action: update `2022` -> `2025`
+
+[UPD-024] PATH /country/gdp_ppp
+Reason: Update metadata attached to a matched structural node.
+Action: update `gdp_ppp` -> `gdp_ppp`
+
+[UPD-025] PATH /country/gini
+Reason: Update token/content value.
+Action: update `8` -> `5`
+
+[UPD-026] PATH /country/gini
+Reason: Update metadata attached to a matched structural node.
+Action: update `gini` -> `gini`
+
+[UPD-027] PATH /country/government
+Reason: Update token/content value.
+Action: update `Unitary` -> `Federal`
+
+[UPD-028] PATH /country/government
+Reason: Update token/content value.
+Action: update `confessionalism` -> `republic`
+
+[UPD-029] PATH /country/government
+Reason: Update metadata attached to a matched structural node.
+Action: update `government` -> `government`
+
+[UPD-030] PATH /country/government
+Reason: Update token/content value.
+Action: update `parliamentary` -> `assembly`
+
+[UPD-031] PATH /country/government
+Reason: Update token/content value.
+Action: update `republic` -> `independent`
+
+[UPD-032] PATH /country/government
+Reason: Update token/content value.
+Action: update `under` -> `directorial`
+
+[UPD-033] PATH /country/hdi
+Reason: Update token/content value.
+Action: update `102nd` -> `2nd`
+
+[UPD-034] PATH /country/hdi
+Reason: Update token/content value.
+Action: update `752` -> `very`
+
+[UPD-035] PATH /country/hdi
+Reason: Update metadata attached to a matched structural node.
+Action: update `hdi` -> `hdi`
+
+[UPD-036] PATH /country/internet_tld
+Reason: Update metadata attached to a matched structural node.
+Action: update `internet_tld` -> `internet_tld`
+
+[UPD-037] PATH /country/internet_tld
+Reason: Update token/content value.
+Action: update `lb` -> `swiss`
+
+[UPD-038] PATH /country/iso_3166_code
+Reason: Update token/content value.
+Action: update `LB` -> `CH`
+
+[UPD-039] PATH /country/iso_3166_code
+Reason: Update metadata attached to a matched structural node.
+Action: update `iso_3166_code` -> `iso_3166_code`
+
+[UPD-040] PATH /country/legislature
+Reason: Update token/content value.
+Action: update `Parliament` -> `Assembly`
+
+[UPD-041] PATH /country/legislature
+Reason: Update metadata attached to a matched structural node.
+Action: update `legislature` -> `legislature`
+
+[UPD-042] PATH /country/official_languages
+Reason: Update token/content value.
+Action: update `Arabic` -> `5`
+
+[UPD-043] PATH /country/official_languages
+Reason: Update metadata attached to a matched structural node.
+Action: update `official_languages` -> `official_languages`
+
+[UPD-044] PATH /country/per_capita
+Reason: Update token/content value.
+Action: update `11` -> `97`
+
+[UPD-045] PATH /country/per_capita
+Reason: Update token/content value.
+Action: update `114th` -> `6th`
+
+[UPD-046] PATH /country/per_capita
+Reason: Update token/content value.
+Action: update `133rd` -> `3rd`
+
+[UPD-047] PATH /country/per_capita
+Reason: Update token/content value.
+Action: update `283` -> `047`
+
+[UPD-048] PATH /country/per_capita
+Reason: Update token/content value.
+Action: update `3` -> `111`
+
+[UPD-049] PATH /country/per_capita
+Reason: Update token/content value.
+Action: update `793` -> `660`
+
+[UPD-050] PATH /country/per_capita
+Reason: Update metadata attached to a matched structural node.
+Action: update `per_capita` -> `per_capita`
+
+[UPD-051] PATH /country/religion
+Reason: Update token/content value.
+Action: update `0` -> `54`
+
+[UPD-052] PATH /country/religion
+Reason: Update token/content value.
+Action: update `0` -> `religion`
+
+[UPD-053] PATH /country/religion
+Reason: Update token/content value.
+Action: update `11` -> `Christian`
+
+[UPD-054] PATH /country/religion
+Reason: Update token/content value.
+Action: update `21` -> `other`
+
+[UPD-055] PATH /country/religion
+Reason: Update token/content value.
+Action: update `26` -> `30`
+
+[UPD-056] PATH /country/religion
+Reason: Update token/content value.
+Action: update `28` -> `other`
+
+[UPD-057] PATH /country/religion
+Reason: Update token/content value.
+Action: update `40` -> `Protestantism`
+
+[UPD-058] PATH /country/religion
+Reason: Update token/content value.
+Action: update `41` -> `7`
+
+[UPD-059] PATH /country/religion
+Reason: Update token/content value.
+Action: update `53` -> `6`
+
+[UPD-060] PATH /country/religion
+Reason: Update token/content value.
+Action: update `55` -> `Catholicism`
+
+[UPD-061] PATH /country/religion
+Reason: Update token/content value.
+Action: update `64` -> `7`
+
+[UPD-062] PATH /country/religion
+Reason: Update token/content value.
+Action: update `Alawite` -> `Christianity`
+
+[UPD-063] PATH /country/religion
+Reason: Update token/content value.
+Action: update `Apostolic` -> `no`
+
+[UPD-064] PATH /country/religion
+Reason: Update token/content value.
+Action: update `Catholic` -> `36`
+
+[UPD-065] PATH /country/religion
+Reason: Update token/content value.
+Action: update `Christianity` -> `6`
+
+[UPD-066] PATH /country/religion
+Reason: Update token/content value.
+Action: update `Druze` -> `religions`
+
+[UPD-067] PATH /country/religion
+Reason: Update token/content value.
+Action: update `No` -> `9`
+
+[UPD-068] PATH /country/religion
+Reason: Update token/content value.
+Action: update `Protestant` -> `Islam`
+
+[UPD-069] PATH /country/religion
+Reason: Update token/content value.
+Action: update `Sunni` -> `18`
+
+[UPD-070] PATH /country/religion
+Reason: Update metadata attached to a matched structural node.
+Action: update `religion` -> `religion`
+
+[UPD-071] PATH /country/religion
+Reason: Update token/content value.
+Action: update `religion` -> `unanswered`
+
+[UPD-072] PATH /country/summer_dst
+Reason: Update token/content value.
+Action: update `3` -> `2`
+
+[UPD-073] PATH /country/summer_dst
+Reason: Update token/content value.
+Action: update `EEST` -> `CEST`
+
+[UPD-074] PATH /country/summer_dst
+Reason: Update metadata attached to a matched structural node.
+Action: update `summer_dst` -> `summer_dst`
+
+[UPD-075] PATH /country/time_zone
+Reason: Update token/content value.
+Action: update `2` -> `1`
+
+[UPD-076] PATH /country/time_zone
+Reason: Update token/content value.
+Action: update `EET` -> `CET`
+
+[UPD-077] PATH /country/time_zone
+Reason: Update metadata attached to a matched structural node.
+Action: update `time_zone` -> `time_zone`
+
+[UPD-078] PATH /country/total
+Reason: Update token/content value.
+Action: update `036` -> `943`
+
+[UPD-079] PATH /country/total
+Reason: Update token/content value.
+Action: update `10` -> `41`
+
+[UPD-080] PATH /country/total
+Reason: Update token/content value.
+Action: update `103rd` -> `20th`
+
+[UPD-081] PATH /country/total
+Reason: Update token/content value.
+Action: update `108th` -> `35th`
+
+[UPD-082] PATH /country/total
+Reason: Update token/content value.
+Action: update `161st` -> `132th`
+
+[UPD-083] PATH /country/total
+Reason: Update token/content value.
+Action: update `21` -> `1`
+
+[UPD-084] PATH /country/total
+Reason: Update token/content value.
+Action: update `233` -> `083`
+
+[UPD-085] PATH /country/total
+Reason: Update token/content value.
+Action: update `4` -> `15`
+
+[UPD-086] PATH /country/total
+Reason: Update token/content value.
+Action: update `452` -> `291`
+
+[UPD-087] PATH /country/total
+Reason: Update token/content value.
+Action: update `78` -> `881`
+
+[UPD-088] PATH /country/total
+Reason: Update token/content value.
+Action: update `780` -> `003`
+
+[UPD-089] PATH /country/total
+Reason: Update token/content value.
+Action: update `billion` -> `trillion`
+
+[UPD-090] PATH /country/total
+Reason: Update metadata attached to a matched structural node.
+Action: update `total` -> `total`
+
+[UPD-091] PATH /country/water
+Reason: Update token/content value.
+Action: update `8` -> `4`
+
+[UPD-092] PATH /country/water
+Reason: Update metadata attached to a matched structural node.
+Action: update `water` -> `water`
+

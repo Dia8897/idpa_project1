@@ -40,26 +40,19 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Plus ultra ( Latin ) (English: 'Further Beyond')",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Plus ultra ( Latin ) (English: 'Further Beyond')",
-            "children": []
-          },
-          {
-            "label": "Anthem: Marcha Real ( Spanish ) (English: 'Royal March')",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Europe Location of Spain Spain within the European Union De jure non-self-governing territory",
-            "children": []
-          },
-          {
-            "label": "Note: most of Spain observes CET/CEST, except the Canary Islands which observe WET/WEST.",
+            "label": "Marcha Real ( Spanish ) (English: 'Royal March')",
             "children": []
           }
         ]
@@ -342,6 +335,15 @@
         "children": [
           {
             "label": "UTC +1 to +2 ( WEST and CEST )",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "note",
+        "children": [
+          {
+            "label": "most of Spain observes CET/CEST, except the Canary Islands which observe WET/WEST.",
             "children": []
           }
         ]

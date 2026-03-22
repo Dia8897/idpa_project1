@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Each endeavouring, all achieving",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \" Each endeavouring, all achieving \"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Fair Antigua, We Salute Thee \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Antigua and Barbuda",
+            "label": "Fair Antigua, We Salute Thee",
             "children": []
           }
         ]

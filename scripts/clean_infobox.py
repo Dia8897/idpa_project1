@@ -11,7 +11,7 @@ import json
 import re
 import unicodedata
 from pathlib import Path
-from typing import Any
+from typing import Any, Dict
 
 
 try:
@@ -21,15 +21,38 @@ except Exception:  # pragma: no cover - optional dependency
     fix_text = None
 
 
-WEIRD_CHARS = ["â", "Â", "ï", "آ", "�"]
-# Matches footnote markers like "[ 12 ]" or "[ a ]".
-CITATION_RE = re.compile(r"\[\s*[0-9a-zA-Z]+\s*\]")
+# Heuristics: characters/sequences that usually indicate bad decoding.
+WEIRD_MARKERS = [
+    "â", "Â", "ï", "آ", "�", "Ã", "أ،", "أ¢", "أ¯", "أ¤", "�",
+    "â€", "â�", "â€™", "â€œ", "â€‌", "â€¢"
+]
+# Matches citation-like square-bracket notes such as:
+# [12], [a], [N 1], [note 3], [nb 2], [n 4]
+CITATION_RE = re.compile(
+    r"\[\s*(?:[A-Za-z]{1,10}(?:\s+[A-Za-z]{1,10})*\s+)?\d+\s*\]"
+    r"|\[\s*[A-Za-z]{1,4}\s*\]"
+)
 ZERO_WIDTH_RE = re.compile(r"[\u200b\u200c\u200d\u200e\u200f\ufeff]")
+CUSTOM_REPLACEMENTS: Dict[str, str] = {
+    "آ°": "°",
+    "â€²": "′",
+    "â€³": "″",
+    "â€“": "–",
+    "â€”": "—",
+    "â€¢": "•",
+    "ï»؟": "",  # stray BOM sequence
+    "أ،ت¼أ­": "Bahá’í",
+}
 
 
 def score_weird(text: str) -> int:
-    """Count obvious mojibake markers."""
-    return sum(text.count(ch) for ch in WEIRD_CHARS)
+    """
+    Heuristic cost: obvious mojibake markers plus replacement chars.
+    Lower is better.
+    """
+    score = sum(text.count(ch) for ch in WEIRD_MARKERS)
+    score += text.count("?")  # replacement characters from failed decodes
+    return score
 
 
 def demojibake(text: str) -> str:
@@ -49,7 +72,8 @@ def demojibake(text: str) -> str:
 
     for enc in ("cp1256", "cp1252", "latin1"):
         try:
-            candidate = text.encode(enc, errors="ignore").decode("utf-8", errors="ignore")
+            # Use 'replace' to keep location info instead of silently dropping chars.
+            candidate = text.encode(enc, errors="replace").decode("utf-8", errors="replace")
         except Exception:
             continue
         candidate_score = score_weird(candidate)
@@ -63,12 +87,18 @@ def clean_text(text: str) -> str:
     """Clean a single string field."""
     cleaned = demojibake(text)
 
-    # Remove zero-width marks and stray BOM strings.
-    cleaned = ZERO_WIDTH_RE.sub("", cleaned).replace("ï»؟", "")
+    # Targeted fixes for frequent mojibake patterns.
+    for bad, good in CUSTOM_REPLACEMENTS.items():
+        cleaned = cleaned.replace(bad, good)
 
-    # Normalize Unicode and trim citations like "[ 12 ]".
+    # Remove zero-width marks and stray BOM strings.
+    cleaned = ZERO_WIDTH_RE.sub("", cleaned)
+
+    # Normalize Unicode and trim citations like "[12]", "[N 1]", "[note 3]".
     cleaned = unicodedata.normalize("NFKC", cleaned)
     cleaned = CITATION_RE.sub("", cleaned)
+    # Also drop short trailing bracket notes as a safety net.
+    cleaned = re.sub(r"\s*\[\s*[^\]]{1,16}\s*\]\s*$", "", cleaned)
 
     # Simple punctuation fixes.
     cleaned = (
@@ -77,7 +107,19 @@ def clean_text(text: str) -> str:
         .replace("â€“", "–")
         .replace("â€”", "—")
         .replace("Â", "")
+        .replace("“", '"')
+        .replace("”", '"')
+        .replace("‘", "'")
+        .replace("’", "'")
     )
+
+    # Drop wrapping quotes when the entire field is quoted.
+    # Example: '" Advance Australia Fair "' -> 'Advance Australia Fair'
+    prev = None
+    while prev != cleaned:
+        prev = cleaned
+        cleaned = re.sub(r'^\s*"\s*(.*?)\s*"\s*$', r"\1", cleaned)
+        cleaned = re.sub(r"^\s*'\s*(.*?)\s*'\s*$", r"\1", cleaned)
 
     # Collapse whitespace.
     cleaned = re.sub(r"\s{2,}", " ", cleaned).strip()

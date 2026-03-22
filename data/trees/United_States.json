@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "In God We Trust \" Other traditional mottos: \" E pluribus unum \" ( Latin ) \"Out of many, one\" \" Annuit cœptis \" ( Latin ) \"Providence favors our undertakings\" \" Novus ordo seclorum \" ( Latin ) \"New order of the ages",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \" In God We Trust \" Other traditional mottos: \" E pluribus unum \" ( Latin ) \"Out of many, one\" \" Annuit cœptis \" ( Latin ) \"Providence favors our undertakings\" \" Novus ordo seclorum \" ( Latin ) \"New order of the ages\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" The Star-Spangled Banner \"",
-            "children": []
-          },
-          {
-            "label": "Show globe ( states and D.C. only) Show the U.S., its territories , and the Compacts of Free Association states Show territories with boundaries of U.S. exclusive economic zone",
+            "label": "The Star-Spangled Banner",
             "children": []
           }
         ]

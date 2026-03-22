@@ -60,28 +60,8 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "For",
             "children": []
@@ -121,11 +101,15 @@
           {
             "label": "yangu",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "For God and My Country\" \"Kwa Mungu na nchi yangu"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Oh",
             "children": []
@@ -145,58 +129,10 @@
           {
             "label": "Beauty",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "006",
-            "children": []
-          },
-          {
-            "label": "from",
-            "children": []
-          },
-          {
-            "label": "Kenya",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Tanzania",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"For God and My Country\" \"Kwa Mungu na nchi yangu\"",
-          "Anthem: \" Oh Uganda, Land of Beauty \"",
-          "Show globe Show map of Africa",
-          "+006 from Kenya and Tanzania"
+          "Oh Uganda, Land of Beauty"
         ]
       },
       {

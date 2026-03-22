@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "الله، الوطن، الملك Allāh, al-Waṭan, al-Malik \"God, Country, King\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: الله، الوطن، الملك Allāh, al-Waṭan, al-Malik \"God, Country, King\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: السلام الملكي الأردني Al-Salām al-Malakī al-Urdunī \" Peace to the King of Jordan \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Jordan",
+            "label": "السلام الملكي الأردني Al-Salām al-Malakī al-Urdunī \" Peace to the King of Jordan \"",
             "children": []
           }
         ]

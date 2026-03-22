@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Pro Mundi Beneficio ( Latin ) \"For the Benefit of the World\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Pro Mundi Beneficio ( Latin ) \"For the Benefit of the World\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Himno Istmeño (Spanish) \"Hymn of the Isthmus\"",
-            "children": []
-          },
-          {
-            "label": "Location in the Western Hemisphere Panama and its neighbors",
+            "label": "Himno Istmeño (Spanish) \"Hymn of the Isthmus\"",
             "children": []
           }
         ]

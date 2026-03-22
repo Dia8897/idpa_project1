@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "The",
             "children": []
@@ -49,11 +29,15 @@
           {
             "label": "Light",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "The Land, The People, The Light"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Sons",
             "children": []
@@ -101,53 +85,10 @@
           {
             "label": "King",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Saint",
-            "children": []
-          },
-          {
-            "label": "Lucia",
-            "children": []
-          },
-          {
-            "label": "circled",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "red",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Caribbean",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \" The Land, The People, The Light \"",
-          "Anthem: \" Sons and Daughters of Saint Lucia \" Royal anthem : \" God Save the King \"",
-          "Location of Saint Lucia (circled in red) in the Caribbean"
+          "Sons and Daughters of Saint Lucia \" Royal anthem : \" God Save the King"
         ]
       },
       {

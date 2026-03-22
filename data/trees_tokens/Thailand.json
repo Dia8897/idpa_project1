@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Phleng",
             "children": []
@@ -73,56 +61,10 @@
           {
             "label": "King",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "ASEAN",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Thailand",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Southeast",
-            "children": []
-          },
-          {
-            "label": "Asia",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Anthem: เพลงชาติไทย Phleng Chat Thai \"Thai National Anthem\" Royal anthem : สรรเสริญพระบารมี Sansoen Phra Barami \"Praise the King\"",
-          "Show globe Show ASEAN Location of Thailand (green) in Southeast Asia"
+          "เพลงชาติไทย Phleng Chat Thai \"Thai National Anthem\" Royal anthem : สรรเสริญพระบารมี Sansoen Phra Barami \"Praise the King\""
         ]
       },
       {

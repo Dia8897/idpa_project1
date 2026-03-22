@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Libertas",
             "children": []
@@ -37,11 +17,15 @@
           {
             "label": "Freedom",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Libertas ( Latin ) \"Freedom\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Terra",
             "children": []
@@ -69,54 +53,10 @@
           {
             "label": "Liberty",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "San",
-            "children": []
-          },
-          {
-            "label": "Marino",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
-          },
-          {
-            "label": "Sources",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Libertas ( Latin ) \"Freedom\"",
-          "Anthem: \" Terra di Libertà \" (English: \"Land of Liberty\" )",
-          "Location of San Marino (green) in Europe (dark grey)",
-          "Sources:"
+          "\" Terra di Libertà \" (English: \"Land of Liberty\" )"
         ]
       },
       {

@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "All",
             "children": []
@@ -77,11 +65,15 @@
           {
             "label": "Unity",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "ٱللَّهُ، ٱلْوَطَنُ، ٱلثَوْرَةُ، ٱلْوَحْدَةُ Allāh, al-Waṭan, ath-Thawrah, al-Waḥdah \"God, the Homeland, Revolution, Unity\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "al",
             "children": []
@@ -113,37 +105,10 @@
           {
             "label": "Republic",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Yemen",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: ٱللَّهُ، ٱلْوَطَنُ، ٱلثَوْرَةُ، ٱلْوَحْدَةُ Allāh, al-Waṭan, ath-Thawrah, al-Waḥdah \"God, the Homeland, Revolution, Unity\"",
-          "Anthem: الجمهورية المتحدة al-Jumhūriyyah al-Muttaḥidah \" United Republic \"",
-          "Show globe Show map of Yemen"
+          "الجمهورية المتحدة al-Jumhūriyyah al-Muttaḥidah \" United Republic \""
         ]
       },
       {

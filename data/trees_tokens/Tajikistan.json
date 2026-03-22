@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Tajik",
             "children": []
@@ -61,11 +49,15 @@
           {
             "label": "Homeland",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Истиқлол, Озодӣ, Ватан (Tajik) Istiqlol, Ozodī, Vatan Независимость, Свобода, Родина (Russian) Nezavisimost', Svoboda, Rodina \"Independence, Freedom, Homeland\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Tajik",
             "children": []
@@ -85,37 +77,10 @@
           {
             "label": "Anthem",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Tajikistan",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: Истиқлол, Озодӣ, Ватан (Tajik) Istiqlol, Ozodī, Vatan Независимость, Свобода, Родина (Russian) Nezavisimost', Svoboda, Rodina \"Independence, Freedom, Homeland\"",
-          "Anthem: Суруди Миллӣ (Tajik) Surudi Milli \"National Anthem\"",
-          "Show globe Show map of Tajikistan"
+          "Суруди Миллӣ (Tajik) Surudi Milli \"National Anthem\""
         ]
       },
       {

@@ -1,7 +1,6 @@
 import csv
 import os
 import time
-
 import requests
 
 # Source list of countries and their Wikipedia URLs.

@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Imperial crest",
-            "children": []
-          },
-          {
-            "label": "Anthem: 君が代 (\" Kimigayo \") ' His Majesty's Reign '",
-            "children": []
-          },
-          {
-            "label": "Location of Japan Territory claimed but not controlled",
+            "label": "君が代 (\" Kimigayo \") ' His Majesty's Reign '",
             "children": []
           }
         ]

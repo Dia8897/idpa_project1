@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Seal",
+            "label": "Paz y justicia (Spanish) \"Peace and justice\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Paz y justicia (Spanish) \"Peace and justice\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Himno Nacional Paraguayo (Spanish) \" Paraguayan National Anthem \"",
-            "children": []
-          },
-          {
-            "label": "Location of Paraguay (dark green) in South America (gray)",
+            "label": "Himno Nacional Paraguayo (Spanish) \" Paraguayan National Anthem \"",
             "children": []
           }
         ]

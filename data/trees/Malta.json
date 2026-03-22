@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Virtute et constantia ( Latin ) \"Strength and persistence\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Virtute et constantia ( Latin ) \"Strength and persistence\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: L-Innu Malti ( Maltese ) \"The Maltese Hymn\"",
-            "children": []
-          },
-          {
-            "label": "Location of Malta (green circle) – in Europe (light green & dark grey) – in the European Union (light green) –",
-            "children": []
-          },
-          {
-            "label": "^ 2021 Malta census Chapter 4: Racial Origin according to the most recent national census. Meanwhile 77.8% of the population were Maltese citizens or nationals. ^ Also .eu, shared with other European Union member states",
+            "label": "L-Innu Malti ( Maltese ) \"The Maltese Hymn\"",
             "children": []
           }
         ]
@@ -279,6 +272,15 @@
         "children": [
           {
             "label": ".mt",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "malta_census_chapter_4",
+        "children": [
+          {
+            "label": "Racial Origin according to the most recent national census. Meanwhile 77.8% of the population were Maltese citizens or nationals. ^ Also .eu, shared with other European Union member states",
             "children": []
           }
         ]

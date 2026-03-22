@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Justice, Liberty, Prosperity",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Justice, Liberty, Prosperity\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" South Sudan, Oyee! \"",
-            "children": []
-          },
-          {
-            "label": "Location of the Republic of South Sudan Territory claimed but not controlled",
-            "children": []
-          },
-          {
-            "label": "^ Registered and operational since 2019",
+            "label": "South Sudan, Oyee!",
             "children": []
           }
         ]
@@ -50,7 +43,7 @@
         "label": "recognised_national_languages",
         "children": [
           {
-            "label": "Dinka Nuer Bari Murle Luo (Anyuak, Acholi, Shilluk, Pari, Jur-Luo, others) Ma'di Otuho Zande and around 60 other languages [ note 1 ]",
+            "label": "Dinka Nuer Bari Murle Luo (Anyuak, Acholi, Shilluk, Pari, Jur-Luo, others) Ma'di Otuho Zande and around 60 other languages",
             "children": []
           }
         ]

@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Together",
             "children": []
@@ -49,11 +29,15 @@
           {
             "label": "achieve",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Together we aspire, together we achieve"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Forged",
             "children": []
@@ -77,165 +61,10 @@
           {
             "label": "Liberty",
             "children": []
-          },
-          {
-            "label": "incl",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "other",
-            "children": []
-          },
-          {
-            "label": "European",
-            "children": []
-          },
-          {
-            "label": "Despite",
-            "children": []
-          },
-          {
-            "label": "becoming",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "republic",
-            "children": []
-          },
-          {
-            "label": "on",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          },
-          {
-            "label": "Day",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "celebrated",
-            "children": []
-          },
-          {
-            "label": "as",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "public",
-            "children": []
-          },
-          {
-            "label": "holiday",
-            "children": []
-          },
-          {
-            "label": "on",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "because",
-            "children": []
-          },
-          {
-            "label": "this",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "date",
-            "children": []
-          },
-          {
-            "label": "when",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "first",
-            "children": []
-          },
-          {
-            "label": "Parliament",
-            "children": []
-          },
-          {
-            "label": "met",
-            "children": []
-          },
-          {
-            "label": "under",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "new",
-            "children": []
-          },
-          {
-            "label": "Republican",
-            "children": []
-          },
-          {
-            "label": "Constitution",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Together we aspire, together we achieve\"",
-          "Anthem: \" Forged from the Love of Liberty \"",
-          "^ incl. 0.59% other European ^ Despite becoming a republic on 1 August, Republic Day is celebrated as a public holiday on 24 September because this is the date when the first Parliament met under the new Republican Constitution."
+          "Forged from the Love of Liberty"
         ]
       },
       {

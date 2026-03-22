@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Ba",
             "children": []
@@ -41,130 +21,10 @@
           {
             "label": "Bahrain",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Bahrain",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "its",
-            "children": []
-          },
-          {
-            "label": "region",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Bahrain",
-            "children": []
-          },
-          {
-            "label": "Website",
-            "children": []
-          },
-          {
-            "label": "bahrain",
-            "children": []
-          },
-          {
-            "label": "bh",
-            "children": []
-          },
-          {
-            "label": "Since",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1967",
-            "children": []
-          },
-          {
-            "label": "46",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "Bahraini",
-            "children": []
-          },
-          {
-            "label": "citizens",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "other",
-            "children": []
-          },
-          {
-            "label": "Arabs",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Anthem: بحريننا Baḥraynunā \"Our Bahrain\"",
-          "Show globe Show map of Bahrain in its region Show map of Bahrain",
-          "Website bahrain .bh",
-          "Since 17 November 1967 46% are Bahraini citizens, 4.7% are other Arabs."
+          "بحريننا Baḥraynunā \"Our Bahrain\""
         ]
       },
       {

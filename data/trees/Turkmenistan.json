@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "Türkmenistan Bitaraplygyň watanydyr \"Turkmenistan is the motherland of Neutrality\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Türkmenistan Bitaraplygyň watanydyr \"Turkmenistan is the motherland of Neutrality\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Türkmenistanyň Döwlet senasy \" State Anthem of Turkmenistan \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Turkmenistan Turkmenistan (orthographic projection)",
+            "label": "Türkmenistanyň Döwlet senasy \" State Anthem of Turkmenistan \"",
             "children": []
           }
         ]

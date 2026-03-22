@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Maka-Diyos, Maka-tao, Makakalikasan at Makabansa \"For God, People, Nature, and Country\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Maka-Diyos, Maka-tao, Makakalikasan at Makabansa \"For God, People, Nature, and Country\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Lupang Hinirang \" \"Chosen Land\"",
-            "children": []
-          },
-          {
-            "label": "Great Seal :",
-            "children": []
-          },
-          {
-            "label": "Show globe Show ASEAN Location of Philippines (green) in Southeast Asia",
+            "label": "Lupang Hinirang \" \"Chosen Land",
             "children": []
           }
         ]

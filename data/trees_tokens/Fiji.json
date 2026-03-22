@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Rerevaka",
             "children": []
@@ -81,11 +61,15 @@
           {
             "label": "King",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Rerevaka na Kalou ka Doka na Tui\" (Fijian) \"Fear God and honour the King"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "God",
             "children": []
@@ -100,9 +84,7 @@
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Rerevaka na Kalou ka Doka na Tui\" (Fijian) \"Fear God and honour the King\"",
-          "Anthem: \" God Bless Fiji \""
+          "God Bless Fiji"
         ]
       },
       {

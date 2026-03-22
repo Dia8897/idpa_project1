@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Un",
             "children": []
@@ -113,11 +93,15 @@
           {
             "label": "Faith",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "\"Un peuple, un but, une foi\" (French) \"Wenn Askan, Benn Jubluwaay, Benn Pas-Pas\" (Wolof) (English: \"One People, One Goal, One Faith\" )"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Le",
             "children": []
@@ -145,33 +129,10 @@
           {
             "label": "Lion",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Senegal",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Un peuple, un but, une foi\" (French) \"Wenn Askan, Benn Jubluwaay, Benn Pas-Pas\" (Wolof) (English: \"One People, One Goal, One Faith\" )",
-          "Anthem: Le Lion rouge (English: \"The Red Lion\" )",
-          "Location of Senegal (dark green)"
+          "Le Lion rouge (English: \"The Red Lion\" )"
         ]
       },
       {

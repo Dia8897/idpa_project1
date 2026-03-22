@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "The",
             "children": []
@@ -53,11 +33,15 @@
           {
             "label": "Here",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "The Love of Liberty Brought Us Here"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "All",
             "children": []
@@ -73,66 +57,10 @@
           {
             "label": "Hail",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Website",
-            "children": []
-          },
-          {
-            "label": "www",
-            "children": []
-          },
-          {
-            "label": "emansion",
-            "children": []
-          },
-          {
-            "label": "gov",
-            "children": []
-          },
-          {
-            "label": "lr",
-            "children": []
-          },
-          {
-            "label": "Executive",
-            "children": []
-          },
-          {
-            "label": "mansion",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"The Love of Liberty Brought Us Here\"",
-          "Anthem: \" All Hail, Liberia, Hail! \"",
-          "Show globe Show map of Africa",
-          "Website www .emansion .gov .lr Executive mansion"
+          "All Hail, Liberia, Hail!"
         ]
       },
       {

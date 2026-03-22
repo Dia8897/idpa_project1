@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "ძალა ერთობაშია Dzala ertobashia \"Strength is in Unity\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: ძალა ერთობაშია Dzala ertobashia \"Strength is in Unity\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: თავისუფლება Tavisupleba \"Freedom\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Europe ( de jure borders) Location of Georgia Russian-occupied territories",
-            "children": []
-          },
-          {
-            "label": "^ Not including occupied territories",
+            "label": "თავისუფლება Tavisupleba \"Freedom\"",
             "children": []
           }
         ]

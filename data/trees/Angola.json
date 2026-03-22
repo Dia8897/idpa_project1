@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: Angola Avante (English: Forward Angola )",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa Show map of Angola Major cities of Angola",
+            "label": "Angola Avante (English: Forward Angola )",
             "children": []
           }
         ]

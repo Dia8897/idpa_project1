@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "Unidade, Trabalho, Progresso (Portuguese) (English: \"Unity, Work, Progress\" )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Unidade, Trabalho, Progresso (Portuguese) (English: \"Unity, Work, Progress\" )",
-            "children": []
-          },
-          {
-            "label": "Anthem: Cntico da Liberdade (Portuguese) (English: \"Song of Liberty\" )",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "Cântico da Liberdade (Portuguese) (English: \"Song of Liberty\" )",
             "children": []
           }
         ]

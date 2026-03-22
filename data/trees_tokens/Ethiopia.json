@@ -76,20 +76,8 @@
         ]
       },
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Wedef",
             "children": []
@@ -141,36 +129,10 @@
           {
             "label": "Ethiopia",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Anthem: ወደፊት ገሥግሺ ፣ ውድ እናት ኢትዮጵያ \"Wedefīt Gesigishī Wid Inat ītiyop'ya\" (English: \" March Forward, Dear Mother Ethiopia \" )",
-          "Show globe Show map of Africa"
+          "ወደፊት ገሥግሺ ፣ ውድ እናት ኢትዮጵያ \"Wedefīt Gesigishī Wid Inat ītiyop'ya\" (English: \" March Forward, Dear Mother Ethiopia \" )"
         ]
       },
       {

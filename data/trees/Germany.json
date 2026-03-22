@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Das Lied der Deutschen \" The Song of the Germans",
-            "children": []
-          },
-          {
-            "label": "Germany on the globe centred on Europe Show map of the European Union",
+            "label": "\" Das Lied der Deutschen \" The Song of the Germans",
             "children": []
           }
         ]

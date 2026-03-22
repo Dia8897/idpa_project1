@@ -58,22 +58,19 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Un peuple, un but, une foi\" (French) \"Mɔgɔ kelen, laɲini kelen, dannaya kelen\" ( Bambara ) \"One people, one goal, one faith",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Un peuple, un but, une foi\" (French) \"Mɔgɔ kelen, laɲini kelen, dannaya kelen\" ( Bambara ) \"One people, one goal, one faith\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Le Mali \" (French)",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "\" Le Mali \" (French)",
             "children": []
           }
         ]
@@ -154,7 +151,7 @@
         "label": "president",
         "children": [
           {
-            "label": "Assimi Gota",
+            "label": "Assimi Goïta",
             "children": []
           }
         ]
@@ -163,7 +160,7 @@
         "label": "prime_minister",
         "children": [
           {
-            "label": "Abdoulaye Maga (interim)",
+            "label": "Abdoulaye Maïga (interim)",
             "children": []
           }
         ]

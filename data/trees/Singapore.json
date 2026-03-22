@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Majulah Singapura ( Malay ) \"Onward Singapore\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Majulah Singapura ( Malay ) \"Onward Singapore\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Majulah Singapura ( Malay ) \"Onward Singapore\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show ASEAN Location of Singapore (green) in Southeast Asia",
+            "label": "Majulah Singapura ( Malay ) \"Onward Singapore\"",
             "children": []
           }
         ]

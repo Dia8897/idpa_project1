@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Patria o Muerte, Venceremos (\"Homeland or Death, We Shall Overcome!\")",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Patria o Muerte, Venceremos (\"Homeland or Death, We Shall Overcome!\")",
-            "children": []
-          },
-          {
-            "label": "Anthem: La Bayamesa (\"The Bayamo Song\")",
-            "children": []
-          },
-          {
-            "label": "Cuba, shown in dark green",
-            "children": []
-          },
-          {
-            "label": "^ Data represents racial self-identification from Cuba's 2012 national census. ^ The most powerful political position is First Secretary of the Communist Party of Cuba , not President . The first secretary controls the Politburo and the Secretariat , Cuba's top decision-making bodies, making the officeholder de facto leader of Cuba.",
+            "label": "La Bayamesa (\"The Bayamo Song\")",
             "children": []
           }
         ]

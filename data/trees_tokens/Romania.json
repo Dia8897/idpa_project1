@@ -4,30 +4,14 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag",
+            "label": "De",
             "children": []
           },
           {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "Deteapt",
+            "label": "teapt",
             "children": []
           },
           {
@@ -35,7 +19,11 @@
             "children": []
           },
           {
-            "label": "romne",
+            "label": "rom",
+            "children": []
+          },
+          {
+            "label": "ne",
             "children": []
           },
           {
@@ -49,36 +37,10 @@
           {
             "label": "Romanian",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Anthem: Deteapt-te, romne! \"Awaken Thee, Romanian!\"",
-          "Show globe Show map of Europe"
+          "Deșteaptă-te, române! \"Awaken Thee, Romanian!\""
         ]
       },
       {

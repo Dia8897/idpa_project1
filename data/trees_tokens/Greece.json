@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Elefther",
             "children": []
@@ -57,11 +37,15 @@
           {
             "label": "Death",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Ελευθερία ή Θάνατος Elefthería í Thánatos (English: \" Freedom or Death \")"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "mnos",
             "children": []
@@ -97,105 +81,10 @@
           {
             "label": "Liberty",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Greece",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "light",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "European",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "light",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Ελευθερία ή Θάνατος Elefthería í Thánatos (English: \" Freedom or Death \")",
-          "Anthem: Ύμνος εις την Ελευθερίαν Ýmnos eis tin Eleftherían (English: \" Hymn to Liberty \")",
-          "Show globe Show map of Europe Location of Greece (dark green) – in Europe (light green & dark grey) – in the European Union (light green)"
+          "Ύμνος εις την Ελευθερίαν Ýmnos eis tin Eleftherían (English: \" Hymn to Liberty \")"
         ]
       },
       {

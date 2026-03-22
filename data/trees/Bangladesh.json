@@ -4,22 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: আমার সোনার বাংলা ( Bengali ) Amar Sonar Bangla \"My Golden Bengal\"",
-            "children": []
-          },
-          {
-            "label": "Government Seal",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Bangladesh",
+            "label": "আমার সোনার বাংলা ( Bengali ) Amar Sonar Bangla \"My Golden Bengal\"",
             "children": []
           }
         ]

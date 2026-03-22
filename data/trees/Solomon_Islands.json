@@ -4,18 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "To Lead is to Serve",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"To Lead is to Serve\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" God Save Our Solomon Islands \"",
+            "label": "God Save Our Solomon Islands",
             "children": []
           }
         ]

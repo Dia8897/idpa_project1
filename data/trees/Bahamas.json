@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Forward, Upward, Onward, Together",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Forward, Upward, Onward, Together\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" March On, Bahamaland \" Royal anthem : \" God Save the King \"",
-            "children": []
-          },
-          {
-            "label": "Location in the Western Hemisphere The Bahamas in its region",
-            "children": []
-          },
-          {
-            "label": "^ Also referred to as Bahamian",
+            "label": "March On, Bahamaland \" Royal anthem : \" God Save the King",
             "children": []
           }
         ]

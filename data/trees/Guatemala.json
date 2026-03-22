@@ -4,26 +4,28 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Libre crezca fecundo (Spanish) \"Grow Free and Fecund\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Libre crezca fecundo (Spanish) \"Grow Free and Fecund\"",
+            "label": "Himno Nacional de Guatemala (English: \"National Anthem of Guatemala\" )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "march",
+        "children": [
           {
-            "label": "Anthem: Himno Nacional de Guatemala (English: \"National Anthem of Guatemala\" )",
-            "children": []
-          },
-          {
-            "label": "March: La Granadera (English: \"The Grenadier\" )",
-            "children": []
-          },
-          {
-            "label": "Location in the Western Hemisphere Guatemala and its neighbors",
+            "label": "La Granadera (English: \"The Grenadier\" )",
             "children": []
           }
         ]

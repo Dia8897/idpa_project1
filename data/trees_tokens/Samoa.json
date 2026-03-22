@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Fa",
             "children": []
@@ -73,11 +53,15 @@
           {
             "label": "God",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Faʻavae i le Atua Sāmoa \"Samoa is founded on God\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "O",
             "children": []
@@ -137,183 +121,10 @@
           {
             "label": "Freedom",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Samoa",
-            "children": []
-          },
-          {
-            "label": "Map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Samoa",
-            "children": []
-          },
-          {
-            "label": "Head",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "state",
-            "children": []
-          },
-          {
-            "label": "Symbols",
-            "children": []
-          },
-          {
-            "label": "SAT",
-            "children": []
-          },
-          {
-            "label": "ST",
-            "children": []
-          },
-          {
-            "label": "or",
-            "children": []
-          },
-          {
-            "label": "T",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "use",
-            "children": []
-          },
-          {
-            "label": "as",
-            "children": []
-          },
-          {
-            "label": "well",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "terms",
-            "children": []
-          },
-          {
-            "label": "t",
-            "children": []
-          },
-          {
-            "label": "l",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "sene",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "translations",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "words",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "cent",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Samoan",
-            "children": []
-          },
-          {
-            "label": "language",
-            "children": []
-          },
-          {
-            "label": "Since",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "2011",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Faʻavae i le Atua Sāmoa \"Samoa is founded on God\"",
-          "Anthem: O Le Fuʻa o le Saʻolotoga o Sāmoa \"The Banner of Freedom\"",
-          "Location of Samoa",
-          "Map of Samoa",
-          "^ Head of state ^ Symbols SAT, ST or T are in use as well. The terms tālā and sene are translations of the English words dollar and cent in the Samoan language . ^ Since 31 December 2011."
+          "O Le Fuʻa o le Saʻolotoga o Sāmoa \"The Banner of Freedom\""
         ]
       },
       {

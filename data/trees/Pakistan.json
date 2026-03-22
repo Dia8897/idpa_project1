@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag State emblem",
+            "label": "Īmān, Ittihād, Nazam ( Urdu ) ایمان، اتحاد، نظم \"Faith, Unity, Discipline\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Īmān, Ittihād, Nazam ( Urdu ) ایمان، اتحاد، نظم \"Faith, Unity, Discipline\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Qaumī Tarānah ( Urdu ) قَومی ترانہ \"The National Anthem\"",
-            "children": []
-          },
-          {
-            "label": "Territory controlled by Pakistan Territory claimed but not controlled ( Kashmir , Junagadh , and Sir Creek )",
-            "children": []
-          },
-          {
-            "label": "Website www .pakistan .gov .pk",
+            "label": "Qaumī Tarānah ( Urdu ) قَومی ترانہ \"The National Anthem\"",
             "children": []
           }
         ]

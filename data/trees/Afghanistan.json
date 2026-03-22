@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "لَا إِلهَ إِلَّا اللَّهُ، مُحَمَّدٌ رَسُولُ اللَّهِ ( Arabic ) Lā ʾilāha ʾillā llāh, Muhammadun rasūlu llāh \"There is no god but God ; Muhammad is the messenger of God.\" ( Shahada )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: لَا إِلهَ إِلَّا اللَّهُ، مُحَمَّدٌ رَسُولُ اللَّهِ ( Arabic ) Lā ʾilāha ʾillā llāh, Muhammadun rasūlu llāh \"There is no god but God ; Muhammad is the messenger of God.\" ( Shahada )",
-            "children": []
-          },
-          {
-            "label": "Anthem: دا د باتورانو کور ( Pashto ) Dā Də Bātorāno Kor \" This is the Home of the Brave \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Afghanistan",
+            "label": "دا د باتورانو کور ( Pashto ) Dā Də Bātorāno Kor \" This is the Home of the Brave \"",
             "children": []
           }
         ]

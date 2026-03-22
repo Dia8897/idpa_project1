@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "En",
             "children": []
@@ -57,11 +37,15 @@
           {
             "label": "Trust",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "En Dios confiamos ( Spanish ) \" In God We Trust \""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Salve",
             "children": []
@@ -93,25 +77,22 @@
           {
             "label": "Nicaragua",
             "children": []
-          },
-          {
-            "label": "Dual",
-            "children": []
-          },
-          {
-            "label": "flag",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Salve a ti, Nicaragua \"Hail to Thee, Nicaragua\""
+        ]
+      },
+      {
+        "label": "dual_flag",
+        "children": [
           {
             "label": "Rojinegra",
             "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: En Dios confiamos ( Spanish ) \" In God We Trust \"",
-          "Anthem: Salve a ti, Nicaragua \"Hail to Thee, Nicaragua\"",
-          "Dual flag: Rojinegra"
+          "Rojinegra"
         ]
       },
       {

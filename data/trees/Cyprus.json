@@ -4,22 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Ὕμνος εἰς τὴν Ἐλευθερίαν (English: \" Hymn to Liberty \")",
-            "children": []
-          },
-          {
-            "label": "Cyprus Territory claimed but not controlled (Northern Cyprus) Rest of the European Union",
-            "children": []
-          },
-          {
-            "label": "Territory administered by the Republic of Cyprus",
+            "label": "Ὕμνος εἰς τὴν Ἐλευθερίαν (English: \" Hymn to Liberty \")",
             "children": []
           }
         ]

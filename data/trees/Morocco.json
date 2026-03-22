@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "ٱللَّٰه، ٱلْوَطَن، ٱلْمَلِك \"Allāh, al-Waṭan, al-Malik\" \"God, Country, King\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: ٱللَّٰه، ٱلْوَطَن، ٱلْمَلِك \"Allāh, al-Waṭan, al-Malik\" \"God, Country, King\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: ٱلنَّشِيْد ٱلْوَطَنِي \"an-Našīd al-Waṭanīy\" \" Cherifian Anthem \"",
-            "children": []
-          },
-          {
-            "label": "Location of Morocco in northwest Africa Undisputed territory of Morocco Western Sahara , a territory claimed and partly occupied by Morocco",
+            "label": "ٱلنَّشِيْد ٱلْوَطَنِي \"an-Našīd al-Waṭanīy\" \" Cherifian Anthem \"",
             "children": []
           }
         ]

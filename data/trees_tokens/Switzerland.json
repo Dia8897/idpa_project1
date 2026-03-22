@@ -96,28 +96,8 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "unofficial",
             "children": []
@@ -169,11 +149,15 @@
           {
             "label": "one",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "(unofficial) \" Unus pro omnibus, omnes pro uno \" \"One for all, all for one\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Swiss",
             "children": []
@@ -181,77 +165,10 @@
           {
             "label": "Psalm",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Switzerland",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: (unofficial) \" Unus pro omnibus, omnes pro uno \" \"One for all, all for one\"",
-          "Anthem: \" Swiss Psalm \"",
-          "Show globe Show map of Europe Location of Switzerland (green) in Europe (green and dark grey)"
+          "Swiss Psalm"
         ]
       },
       {

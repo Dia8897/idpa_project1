@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "\"Fraternité, Justice, Travail\" (French) Fraternity, Justice, Labour",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Fraternité, Justice, Travail\" (French) Fraternity, Justice, Labour",
-            "children": []
-          },
-          {
-            "label": "Anthem: L'Aube nouvelle (French) \"The New Dawn\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          },
-          {
-            "label": "Cotonou is the seat of government.",
+            "label": "L'Aube nouvelle (French) \"The New Dawn\"",
             "children": []
           }
         ]

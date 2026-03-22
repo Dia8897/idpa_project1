@@ -84,28 +84,8 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Plus",
             "children": []
@@ -129,11 +109,15 @@
           {
             "label": "Beyond",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Plus ultra ( Latin ) (English: 'Further Beyond')"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Marcha",
             "children": []
@@ -157,154 +141,10 @@
           {
             "label": "March",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Spain",
-            "children": []
-          },
-          {
-            "label": "Spain",
-            "children": []
-          },
-          {
-            "label": "within",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "European",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "De",
-            "children": []
-          },
-          {
-            "label": "jure",
-            "children": []
-          },
-          {
-            "label": "non",
-            "children": []
-          },
-          {
-            "label": "self",
-            "children": []
-          },
-          {
-            "label": "governing",
-            "children": []
-          },
-          {
-            "label": "territory",
-            "children": []
-          },
-          {
-            "label": "Note",
-            "children": []
-          },
-          {
-            "label": "most",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Spain",
-            "children": []
-          },
-          {
-            "label": "observes",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          },
-          {
-            "label": "CEST",
-            "children": []
-          },
-          {
-            "label": "except",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Canary",
-            "children": []
-          },
-          {
-            "label": "Islands",
-            "children": []
-          },
-          {
-            "label": "which",
-            "children": []
-          },
-          {
-            "label": "observe",
-            "children": []
-          },
-          {
-            "label": "WET",
-            "children": []
-          },
-          {
-            "label": "WEST",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Plus ultra ( Latin ) (English: 'Further Beyond')",
-          "Anthem: Marcha Real ( Spanish ) (English: 'Royal March')",
-          "Show globe Show map of Europe Location of Spain Spain within the European Union De jure non-self-governing territory",
-          "Note: most of Spain observes CET/CEST, except the Canary Islands which observe WET/WEST."
+          "Marcha Real ( Spanish ) (English: 'Royal March')"
         ]
       },
       {
@@ -1176,6 +1016,70 @@
         ],
         "raw_values": [
           "UTC +1 to +2 ( WEST and CEST )"
+        ]
+      },
+      {
+        "label": "note",
+        "children": [
+          {
+            "label": "most",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "Spain",
+            "children": []
+          },
+          {
+            "label": "observes",
+            "children": []
+          },
+          {
+            "label": "CET",
+            "children": []
+          },
+          {
+            "label": "CEST",
+            "children": []
+          },
+          {
+            "label": "except",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Canary",
+            "children": []
+          },
+          {
+            "label": "Islands",
+            "children": []
+          },
+          {
+            "label": "which",
+            "children": []
+          },
+          {
+            "label": "observe",
+            "children": []
+          },
+          {
+            "label": "WET",
+            "children": []
+          },
+          {
+            "label": "WEST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "most of Spain observes CET/CEST, except the Canary Islands which observe WET/WEST."
         ]
       },
       {

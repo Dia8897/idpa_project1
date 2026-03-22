@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Himno",
             "children": []
@@ -53,149 +33,10 @@
           {
             "label": "Anthem",
             "children": []
-          },
-          {
-            "label": "Mexico",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Western",
-            "children": []
-          },
-          {
-            "label": "Hemisphere",
-            "children": []
-          },
-          {
-            "label": "Mexico",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "its",
-            "children": []
-          },
-          {
-            "label": "states",
-            "children": []
-          },
-          {
-            "label": "Article",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "General",
-            "children": []
-          },
-          {
-            "label": "Law",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Linguistic",
-            "children": []
-          },
-          {
-            "label": "Rights",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Indigenous",
-            "children": []
-          },
-          {
-            "label": "Peoples",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "facto",
-            "children": []
-          },
-          {
-            "label": "official",
-            "children": []
-          },
-          {
-            "label": "language",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Mexican",
-            "children": []
-          },
-          {
-            "label": "federal",
-            "children": []
-          },
-          {
-            "label": "government",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Anthem: Himno Nacional Mexicano (English: Mexican National Anthem )",
-          "Mexico in the Western Hemisphere Mexico and its states",
-          "^ Article 4 of the General Law of Linguistic Rights of the Indigenous Peoples ^ Spanish is the de facto official language in the Mexican federal government."
+          "Himno Nacional Mexicano (English: Mexican National Anthem )"
         ]
       },
       {

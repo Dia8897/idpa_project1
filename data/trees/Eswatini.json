@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Siyinqaba\" ( Swazi ) \"We are a fortress\" \"We are a mystery\" \"We hide ourselves away\" \"We are powerful ones",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Siyinqaba\" ( Swazi ) \"We are a fortress\" \"We are a mystery\" \"We hide ourselves away\" \"We are powerful ones\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Nkulunkulu Mnikati wetibusiso temaSwati \" \"Oh God, Giver of Blessings to the Swazi\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          },
-          {
-            "label": "Website www .gov .sz",
+            "label": "Nkulunkulu Mnikati wetibusiso temaSwati \" \"Oh God, Giver of Blessings to the Swazi",
             "children": []
           }
         ]

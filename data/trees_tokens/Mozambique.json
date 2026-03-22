@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "P",
             "children": []
@@ -41,57 +29,10 @@
           {
             "label": "Homeland",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Website",
-            "children": []
-          },
-          {
-            "label": "www",
-            "children": []
-          },
-          {
-            "label": "portaldogoverno",
-            "children": []
-          },
-          {
-            "label": "gov",
-            "children": []
-          },
-          {
-            "label": "mz",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Anthem: Pátria Amada (Portuguese) \"Beloved Homeland\"",
-          "Show globe Show map of Africa",
-          "Website www .portaldogoverno .gov .mz"
+          "Pátria Amada (Portuguese) \"Beloved Homeland\""
         ]
       },
       {

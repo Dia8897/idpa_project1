@@ -85,22 +85,19 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Unity, Freedom, Work",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Unity, Freedom, Work\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Blessed Be the Land of Zimbabwe \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "Blessed Be the Land of Zimbabwe",
             "children": []
           }
         ]
@@ -364,7 +361,7 @@
         "label": "currency",
         "children": [
           {
-            "label": "De jure : Zimbabwe Gold ( ZWG ) De facto : United States dollar ( USD ) South African rand ( ZAR ); Other currencies [ note 1 ]",
+            "label": "De jure : Zimbabwe Gold ( ZWG ) De facto : United States dollar ( USD ) South African rand ( ZAR ); Other currencies",
             "children": []
           }
         ]

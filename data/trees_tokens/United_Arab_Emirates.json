@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "sh",
             "children": []
@@ -45,95 +33,10 @@
           {
             "label": "Country",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "United",
-            "children": []
-          },
-          {
-            "label": "Arab",
-            "children": []
-          },
-          {
-            "label": "Emirates",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Arabian",
-            "children": []
-          },
-          {
-            "label": "Peninsula",
-            "children": []
-          },
-          {
-            "label": "United",
-            "children": []
-          },
-          {
-            "label": "Arab",
-            "children": []
-          },
-          {
-            "label": "Emirates",
-            "children": []
-          },
-          {
-            "label": "Website",
-            "children": []
-          },
-          {
-            "label": "u",
-            "children": []
-          },
-          {
-            "label": "ae",
-            "children": []
-          },
-          {
-            "label": "United",
-            "children": []
-          },
-          {
-            "label": "Arab",
-            "children": []
-          },
-          {
-            "label": "Emirates",
-            "children": []
-          },
-          {
-            "label": "portal",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Anthem: عيشي بلادي Īshī Bilādī \"Long Live My Country\"",
-          "Location of United Arab Emirates (green) in the Arabian Peninsula",
-          "United Arab Emirates",
-          "Website u .ae",
-          "United Arab Emirates portal"
+          "عيشي بلادي Īshī Bilādī \"Long Live My Country\""
         ]
       },
       {

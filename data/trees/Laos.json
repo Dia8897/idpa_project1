@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "ສັນຕິພາບ ເອກະລາດ ປະຊາທິປະໄຕ ເອກະພາບ ວັດທະນະຖາວອນ Santiphap, Ekalat, Paxathipatai, Ekaphap, Vatthanathavon \"Peace, Independence, Democracy, Unity and Prosperity\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: ສັນຕິພາບ ເອກະລາດ ປະຊາທິປະໄຕ ເອກະພາບ ວັດທະນະຖາວອນ Santiphap, Ekalat, Paxathipatai, Ekaphap, Vatthanathavon \"Peace, Independence, Democracy, Unity and Prosperity\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: ເພງຊາດລາວ Pheng Xat Lao \"Lao National Anthem\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show ASEAN Location of Laos (green) in Southeast Asia",
-            "children": []
-          },
-          {
-            "label": "^ Including over 100 smaller ethnic groups ^ \"The State respects and protects all lawful activities of Buddhists and of followers of other religions, mobilises and encourages Buddhist monks and novices as well as the priests of other religions to participate in activities that are beneficial to the country and people.\"",
+            "label": "ເພງຊາດລາວ Pheng Xat Lao \"Lao National Anthem\"",
             "children": []
           }
         ]

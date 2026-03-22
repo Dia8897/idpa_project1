@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Dr",
             "children": []
@@ -73,149 +53,10 @@
           {
             "label": "Herzegovina",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Bosnia",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Herzegovina",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "high",
-            "children": []
-          },
-          {
-            "label": "representative",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "international",
-            "children": []
-          },
-          {
-            "label": "civilian",
-            "children": []
-          },
-          {
-            "label": "overseer",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Dayton",
-            "children": []
-          },
-          {
-            "label": "Agreement",
-            "children": []
-          },
-          {
-            "label": "with",
-            "children": []
-          },
-          {
-            "label": "authority",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "dismiss",
-            "children": []
-          },
-          {
-            "label": "elected",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "non",
-            "children": []
-          },
-          {
-            "label": "elected",
-            "children": []
-          },
-          {
-            "label": "officials",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "enact",
-            "children": []
-          },
-          {
-            "label": "legislation",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Anthem: Državna himna Bosne i Hercegovine Државна химна Босне и Херцеговине \" National Anthem of Bosnia and Herzegovina \"",
-          "Location of Bosnia and Herzegovina (green) in Europe (dark grey)",
-          "^ The high representative is an international civilian overseer of the Dayton Agreement with authority to dismiss elected and non-elected officials and enact legislation."
+          "Državna himna Bosne i Hercegovine Државна химна Босне и Херцеговине \" National Anthem of Bosnia and Herzegovina \""
         ]
       },
       {

@@ -4,26 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Belau rekid \"Our Palau\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Palau",
-            "children": []
-          },
-          {
-            "label": "Website PalauGov.pw",
-            "children": []
-          },
-          {
-            "label": "^ Japanese is an official language per the 1982 constitution of Angaur Island. However, it is no longer spoken. Sonsorolese and Tobian are official in their respective states. GDP estimate includes US subsidy (2004 estimate).",
+            "label": "Belau rekid \"Our Palau\"",
             "children": []
           }
         ]

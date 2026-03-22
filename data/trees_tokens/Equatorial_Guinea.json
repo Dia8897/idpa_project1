@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Unidad",
             "children": []
@@ -53,11 +33,15 @@
           {
             "label": "Justice",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Unidad, Paz, Justicia ( Spanish ) \"Unity, Peace, Justice\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Himno",
             "children": []
@@ -101,62 +85,10 @@
           {
             "label": "Guinea",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Including",
-            "children": []
-          },
-          {
-            "label": "Equatoguinean",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "Espa",
-            "children": []
-          },
-          {
-            "label": "ol",
-            "children": []
-          },
-          {
-            "label": "ecuatoguineano",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Unidad, Paz, Justicia ( Spanish ) \"Unity, Peace, Justice\"",
-          "Anthem: Himno Nacional de Guinea Ecuatorial (Spanish) \" National Anthem of Equatorial Guinea \"",
-          "Show globe Show map of Africa",
-          "Including Equatoguinean Spanish ( Español ecuatoguineano )."
+          "Himno Nacional de Guinea Ecuatorial (Spanish) \" National Anthem of Equatorial Guinea \""
         ]
       },
       {

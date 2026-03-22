@@ -1,33 +1,22 @@
 {
-  "country_name": "Côte d’Ivoire",
+  "country_name": "Côte d'Ivoire",
   "tree": {
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Union – Discipline – Travail' ( French ) 'Unity – Discipline – Work",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: 'Union – Discipline – Travail' ( French ) 'Unity – Discipline – Work'",
-            "children": []
-          },
-          {
-            "label": "Anthem: L'Abidjanaise (English: \"Song of Abidjan\" )",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          },
-          {
-            "label": "Including approximately 130,000 Lebanese and 14,000 French people .",
-            "children": []
-          },
-          {
-            "label": "^ Includes other Christian (22.8%) and Roman Catholic (17.0%)",
+            "label": "L'Abidjanaise (English: \"Song of Abidjan\" )",
             "children": []
           }
         ]

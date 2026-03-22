@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Ó Guð vors lands \"O God of Our Land\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Europe Location of Iceland (dark green)",
+            "label": "Ó Guð vors lands \"O God of Our Land\"",
             "children": []
           }
         ]

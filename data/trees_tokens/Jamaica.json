@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Out",
             "children": []
@@ -45,11 +25,15 @@
           {
             "label": "People",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Out of Many, One People"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Jamaica",
             "children": []
@@ -68,9 +52,7 @@
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \" Out of Many, One People \"",
-          "Anthem: \" Jamaica, Land We Love \""
+          "Jamaica, Land We Love"
         ]
       },
       {

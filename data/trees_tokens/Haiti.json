@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "L",
             "children": []
@@ -85,11 +65,15 @@
           {
             "label": "strength",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "L'union fait la force ( French ) \"Inite se fòs\" ( Haitian Creole ) \"Union makes strength\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "La",
             "children": []
@@ -105,49 +89,10 @@
           {
             "label": "Dessaline",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Western",
-            "children": []
-          },
-          {
-            "label": "Hemisphere",
-            "children": []
-          },
-          {
-            "label": "Haiti",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "its",
-            "children": []
-          },
-          {
-            "label": "neighbors",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: L'union fait la force ( French ) \"Inite se fòs\" ( Haitian Creole ) \"Union makes strength\"",
-          "Anthem: La Dessalinienne \"The Dessaline\"",
-          "Location in the Western Hemisphere Haiti and its neighbors"
+          "La Dessalinienne \"The Dessaline\""
         ]
       },
       {

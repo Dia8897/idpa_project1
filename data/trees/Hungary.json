@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Himnusz \" ( Hungarian ) (English: \"Hymn\" )",
-            "children": []
-          },
-          {
-            "label": "Location of Hungary (dark green) – in Europe (green & dark grey) – in the European Union (green)",
+            "label": "\" Himnusz \" ( Hungarian ) (English: \"Hymn\" )",
             "children": []
           }
         ]

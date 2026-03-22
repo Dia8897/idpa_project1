@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Fraternit",
             "children": []
@@ -57,11 +37,15 @@
           {
             "label": "Progress",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Fraternité, Travail, Progrès\" ( French ) \"Fraternity, Work, Progress"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "L",
             "children": []
@@ -105,37 +89,10 @@
           {
             "label": "Fatherland",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Fraternité, Travail, Progrès\" ( French ) \"Fraternity, Work, Progress\"",
-          "Anthem: L'Honneur de la Patrie (French) \"The Honour of the Fatherland\"",
-          "Show globe Show map of Africa"
+          "L'Honneur de la Patrie (French) \"The Honour of the Fatherland\""
         ]
       },
       {

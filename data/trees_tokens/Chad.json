@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Unit",
             "children": []
@@ -57,11 +37,15 @@
           {
             "label": "Progress",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Unité, Travail, Progrès\" ( French ) \"Unity, Work, Progress"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "La",
             "children": []
@@ -89,37 +73,10 @@
           {
             "label": "Chad",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Unité, Travail, Progrès\" ( French ) \"Unity, Work, Progress\"",
-          "Anthem: \" La Tchadienne \" (French) \"The Song of Chad\"",
-          "Show globe Show map of Africa"
+          "La Tchadienne \" (French) \"The Song of Chad"
         ]
       },
       {

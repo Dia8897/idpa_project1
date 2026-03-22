@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "an",
             "children": []
@@ -45,11 +33,15 @@
           {
             "label": "ours",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "النصر لنا an-Naṣr lanā \"Victory is ours\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Na",
             "children": []
@@ -117,61 +109,10 @@
           {
             "label": "Homeland",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Sudan",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: النصر لنا an-Naṣr lanā \"Victory is ours\"",
-          "Anthem: نحن جند اللّٰه، جند الوطن Naḥnu jund Allah, jund al-waṭan \"We are Soldiers of God , Soldiers of the Homeland\"",
-          "Location of the Republic of the Sudan Territory claimed but not controlled"
+          "نحن جند اللّٰه، جند الوطن Naḥnu jund Allah, jund al-waṭan \"We are Soldiers of God , Soldiers of the Homeland\""
         ]
       },
       {
@@ -334,14 +275,6 @@
             "children": []
           },
           {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
             "label": "16",
             "children": []
           },
@@ -355,7 +288,7 @@
           }
         ],
         "raw_values": [
-          "70% Sudanese Arab 5.9% Beja 2.5% Nuba 2% Fur 2% Egyptian 1.3% Nubian [ n 1 ] 16.3% others"
+          "70% Sudanese Arab 5.9% Beja 2.5% Nuba 2% Fur 2% Egyptian 1.3% Nubian 16.3% others"
         ]
       },
       {
@@ -448,18 +381,10 @@
           {
             "label": "Burhan",
             "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
           }
         ],
         "raw_values": [
-          "Abdel Fattah al-Burhan [ n 2 ]"
+          "Abdel Fattah al-Burhan"
         ]
       },
       {
@@ -472,18 +397,10 @@
           {
             "label": "Agar",
             "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
           }
         ],
         "raw_values": [
-          "Malik Agar [ n 3 ]"
+          "Malik Agar"
         ]
       },
       {
@@ -496,18 +413,10 @@
           {
             "label": "Idris",
             "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
           }
         ],
         "raw_values": [
-          "Kamil Idris [ n 4 ]"
+          "Kamil Idris"
         ]
       },
       {
@@ -524,18 +433,10 @@
           {
             "label": "Authority",
             "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
           }
         ],
         "raw_values": [
-          "Transitional Legislative Authority [ n 5 ]"
+          "Transitional Legislative Authority"
         ]
       },
       {

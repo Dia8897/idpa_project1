@@ -4,16 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Libert",
             "children": []
@@ -37,11 +29,15 @@
           {
             "label": "fraternity",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "\" Liberté, égalité, fraternité \" Liberty, equality, fraternity"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "La",
             "children": []
@@ -49,121 +45,10 @@
           {
             "label": "Marseillaise",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Metropolitan",
-            "children": []
-          },
-          {
-            "label": "France",
-            "children": []
-          },
-          {
-            "label": "European",
-            "children": []
-          },
-          {
-            "label": "part",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "France",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "Metropolitan",
-            "children": []
-          },
-          {
-            "label": "France",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "its",
-            "children": []
-          },
-          {
-            "label": "neighbours",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "France",
-            "children": []
-          },
-          {
-            "label": "its",
-            "children": []
-          },
-          {
-            "label": "overseas",
-            "children": []
-          },
-          {
-            "label": "territories",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "its",
-            "children": []
-          },
-          {
-            "label": "exclusive",
-            "children": []
-          },
-          {
-            "label": "economic",
-            "children": []
-          },
-          {
-            "label": "zones",
-            "children": []
-          },
-          {
-            "label": "Labelled",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag",
-          "Motto: \" Liberté, égalité, fraternité \" Liberty, equality, fraternity",
-          "Anthem: \" La Marseillaise \"",
-          "Show globe Metropolitan France (European part of France) in Europe Metropolitan France and its neighbours Show France, its overseas territories and its exclusive economic zones Labelled map"
+          "La Marseillaise"
         ]
       },
       {

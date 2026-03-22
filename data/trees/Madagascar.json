@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "Fitiavana, Tanindrazana, Fandrosoana (Malagasy) Amour, Patrie, Progrès (French) \"Love, Fatherland, Progress\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Fitiavana, Tanindrazana, Fandrosoana (Malagasy) Amour, Patrie, Progrès (French) \"Love, Fatherland, Progress\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Ry Tanindrazanay malala ô ! (Malagasy) Ô Terre de nos ancêtres bien-aimés! (French) \"Oh, land of our beloved ancestors!\"",
-            "children": []
-          },
-          {
-            "label": "Location of Madagascar (dark green)",
+            "label": "Ry Tanindrazanay malala ô ! (Malagasy) Ô Terre de nos ancêtres bien-aimés! (French) \"Oh, land of our beloved ancestors!\"",
             "children": []
           }
         ]

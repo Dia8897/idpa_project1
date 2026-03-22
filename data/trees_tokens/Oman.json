@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "All",
             "children": []
@@ -61,11 +49,15 @@
           {
             "label": "Sultan",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "ٱللَّهُ، ٱلْوَطَنُ، ٱلسُّلْطَانُ Allāh, al-Waṭan, as-Sulṭān \" God , Nation, Sultan\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Ta",
             "children": []
@@ -101,67 +93,10 @@
           {
             "label": "Sultan",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Oman",
-            "children": []
-          },
-          {
-            "label": "DST",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "observed",
-            "children": []
-          },
-          {
-            "label": "Website",
-            "children": []
-          },
-          {
-            "label": "oman",
-            "children": []
-          },
-          {
-            "label": "om",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: ٱللَّهُ، ٱلْوَطَنُ، ٱلسُّلْطَانُ Allāh, al-Waṭan, as-Sulṭān \" God , Nation, Sultan\"",
-          "Anthem: تحية السلطان Taḥīyah al-Sulṭān \"Salute to the Sultan\"",
-          "Show globe Show map of Oman",
-          "DST is not observed.",
-          "Website oman.om"
+          "تحية السلطان Taḥīyah al-Sulṭān \"Salute to the Sultan\""
         ]
       },
       {

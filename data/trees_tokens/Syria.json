@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "um",
             "children": []
@@ -105,60 +93,10 @@
           {
             "label": "facto",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Syria",
-            "children": []
-          },
-          {
-            "label": "Israeli",
-            "children": []
-          },
-          {
-            "label": "occupied",
-            "children": []
-          },
-          {
-            "label": "territories",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Syria",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Anthem: حُمَاةَ الدِّيَارِ \" Ḥumāt ad-Diyār \" Guardians of the Homeland ( de jure ) فِي سَبِيلِ المَجد \" Fī Sabīli al-Majd \" In Pursuit of Glory ( de facto )",
-          "Location of Syria Israeli-occupied territories Show globe Show map of Syria"
+          "حُمَاةَ الدِّيَارِ \" Ḥumāt ad-Diyār \" Guardians of the Homeland ( de jure ) فِي سَبِيلِ المَجد \" Fī Sabīli al-Majd \" In Pursuit of Glory ( de facto )"
         ]
       },
       {

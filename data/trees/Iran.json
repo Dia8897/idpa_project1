@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "اَللَّٰهُ أَكْبَرُ Allāhu ʾAkbar ( Takbir ) \" God is the Greatest\" ( de jure ) استقلال، آزادی، جمهوری اسلامی Esteqlâl, zâdi, Jomhuri-ye Eslâmi \"Independence, freedom, the Islamic Republic\" ( de facto )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Allhu Akbar ( Takbir ) \" God is the Greatest\" ( de jure ) ϡ Esteqll, zdi, Jomhuri-ye Eslmi \"Independence, freedom, the Islamic Republic\" ( de facto )",
-            "children": []
-          },
-          {
-            "label": "Anthem: Mehr-e Khvarn \"Eastern Sun\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Iran",
+            "label": "مهر خاوران Mehr-e Khâvarân \"Eastern Sun\"",
             "children": []
           }
         ]

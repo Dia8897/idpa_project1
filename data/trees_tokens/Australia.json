@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Advance",
             "children": []
@@ -37,145 +17,10 @@
           {
             "label": "Fair",
             "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Australian",
-            "children": []
-          },
-          {
-            "label": "States",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Territories",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "territories",
-            "children": []
-          },
-          {
-            "label": "with",
-            "children": []
-          },
-          {
-            "label": "boundaries",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Australia",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "exclusive",
-            "children": []
-          },
-          {
-            "label": "economic",
-            "children": []
-          },
-          {
-            "label": "zone",
-            "children": []
-          },
-          {
-            "label": "Commonwealth",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Australia",
-            "children": []
-          },
-          {
-            "label": "External",
-            "children": []
-          },
-          {
-            "label": "territories",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Australia",
-            "children": []
-          },
-          {
-            "label": "DST",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "observed",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Qld",
-            "children": []
-          },
-          {
-            "label": "WA",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "NT",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Anthem: \" Advance Australia Fair \" [ N 1 ]",
-          "Show globe (Australian States and Territories) Show territories with boundaries of Australia's exclusive economic zone Commonwealth of Australia External territories of Australia",
-          "DST not observed in Qld, WA and NT"
+          "Advance Australia Fair"
         ]
       },
       {
@@ -280,18 +125,10 @@
           {
             "label": "urban",
             "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
           }
         ],
         "raw_values": [
-          "Sydney (metropolitan) Melbourne (urban) [ N 2 ]"
+          "Sydney (metropolitan) Melbourne (urban)"
         ]
       },
       {
@@ -396,18 +233,10 @@
           {
             "label": "unanswered",
             "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
           }
         ],
         "raw_values": [
-          "43.9% Christianity 38.9% no religion 3.2% Islam 2.7% Hinduism 2.4% Buddhism 1.7% other 7.2% unanswered [ N 3 ]"
+          "43.9% Christianity 38.9% no religion 3.2% Islam 2.7% Hinduism 2.4% Buddhism 1.7% other 7.2% unanswered"
         ]
       },
       {
@@ -424,18 +253,10 @@
           {
             "label": "colloquial",
             "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
           }
         ],
         "raw_values": [
-          "Australian Aussie (colloquial) [ N 4 ]"
+          "Australian Aussie (colloquial)"
         ]
       },
       {
@@ -999,18 +820,10 @@
           {
             "label": "AEST",
             "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
           }
         ],
         "raw_values": [
-          "UTC +8; +9.5; +10 ( AWST, ACST, AEST [ N 5 ] )"
+          "UTC +8; +9.5; +10 ( AWST, ACST, AEST )"
         ]
       },
       {
@@ -1039,18 +852,10 @@
           {
             "label": "AEDT",
             "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
           }
         ],
         "raw_values": [
-          "UTC +10.5; +11 ( ACDT, AEDT [ N 5 ] )"
+          "UTC +10.5; +11 ( ACDT, AEDT )"
         ]
       },
       {

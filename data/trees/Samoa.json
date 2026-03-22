@@ -4,30 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Faʻavae i le Atua Sāmoa \"Samoa is founded on God\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Faʻavae i le Atua Sāmoa \"Samoa is founded on God\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: O Le Fuʻa o le Saʻolotoga o Sāmoa \"The Banner of Freedom\"",
-            "children": []
-          },
-          {
-            "label": "Location of Samoa",
-            "children": []
-          },
-          {
-            "label": "Map of Samoa",
-            "children": []
-          },
-          {
-            "label": "^ Head of state ^ Symbols SAT, ST or T are in use as well. The terms tālā and sene are translations of the English words dollar and cent in the Samoan language . ^ Since 31 December 2011.",
+            "label": "O Le Fuʻa o le Saʻolotoga o Sāmoa \"The Banner of Freedom\"",
             "children": []
           }
         ]

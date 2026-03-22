@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "La Patrie ou la Mort, Nous Vaincrons \" ( French ) \"Homeland or Death, we will overcome",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \" La Patrie ou la Mort, Nous Vaincrons \" ( French ) \"Homeland or Death, we will overcome\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Ditanyè",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "Ditanyè",
             "children": []
           }
         ]

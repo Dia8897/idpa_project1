@@ -1,13 +1,8 @@
 {
   "country_name": "Malta",
   "infobox": {
-    "info": [
-      "Flag Coat of arms",
-      "Motto: Virtute et constantia ( Latin ) \"Strength and persistence\"",
-      "Anthem: L-Innu Malti ( Maltese ) \"The Maltese Hymn\"",
-      "Location of Malta (green circle) – in Europe (light green & dark grey) – in the European Union (light green) –",
-      "^ 2021 Malta census Chapter 4: Racial Origin according to the most recent national census. Meanwhile 77.8% of the population were Maltese citizens or nationals. ^ Also .eu, shared with other European Union member states"
-    ],
+    "Motto": "Virtute et constantia ( Latin ) \"Strength and persistence\"",
+    "Anthem": "L-Innu Malti ( Maltese ) \"The Maltese Hymn\"",
     "Capital": "Valletta 35°54′N 14°31′E / 35.900°N 14.517°E / 35.900; 14.517",
     "Official languages": "Maltese English",
     "Other languages": "Maltese Sign Language Italian",
@@ -41,6 +36,7 @@
     "Summer ( DST )": "UTC +2 ( CEST )",
     "Calling code": "+356",
     "ISO 3166 code": "MT",
-    "Internet TLD": ".mt"
+    "Internet TLD": ".mt",
+    "^ 2021 Malta census Chapter 4": "Racial Origin according to the most recent national census. Meanwhile 77.8% of the population were Maltese citizens or nationals. ^ Also .eu, shared with other European Union member states"
   }
 }

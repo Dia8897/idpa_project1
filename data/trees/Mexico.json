@@ -4,22 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Himno Nacional Mexicano (English: Mexican National Anthem )",
-            "children": []
-          },
-          {
-            "label": "Mexico in the Western Hemisphere Mexico and its states",
-            "children": []
-          },
-          {
-            "label": "^ Article 4 of the General Law of Linguistic Rights of the Indigenous Peoples ^ Spanish is the de facto official language in the Mexican federal government.",
+            "label": "Himno Nacional Mexicano (English: Mexican National Anthem )",
             "children": []
           }
         ]

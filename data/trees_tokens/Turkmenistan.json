@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "T",
             "children": []
@@ -57,11 +45,15 @@
           {
             "label": "Neutrality",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Türkmenistan Bitaraplygyň watanydyr \"Turkmenistan is the motherland of Neutrality\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "T",
             "children": []
@@ -97,49 +89,10 @@
           {
             "label": "Turkmenistan",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Turkmenistan",
-            "children": []
-          },
-          {
-            "label": "Turkmenistan",
-            "children": []
-          },
-          {
-            "label": "orthographic",
-            "children": []
-          },
-          {
-            "label": "projection",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: Türkmenistan Bitaraplygyň watanydyr \"Turkmenistan is the motherland of Neutrality\"",
-          "Anthem: Türkmenistanyň Döwlet senasy \" State Anthem of Turkmenistan \"",
-          "Show globe Show map of Turkmenistan Turkmenistan (orthographic projection)"
+          "Türkmenistanyň Döwlet senasy \" State Anthem of Turkmenistan \""
         ]
       },
       {

@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Ordem",
             "children": []
@@ -49,11 +29,15 @@
           {
             "label": "Progress",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Ordem e Progresso \"Order and Progress\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Hino",
             "children": []
@@ -109,53 +93,10 @@
           {
             "label": "Anthem",
             "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Seal",
-            "children": []
-          },
-          {
-            "label": "Selo",
-            "children": []
-          },
-          {
-            "label": "Nacional",
-            "children": []
-          },
-          {
-            "label": "do",
-            "children": []
-          },
-          {
-            "label": "Brasil",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Seal",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Brazil",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Ordem e Progresso \"Order and Progress\"",
-          "Anthem: Hino Nacional Brasileiro \"Brazilian National Anthem\" Flag anthem : Hino à Bandeira Nacional \"National Flag Anthem\"",
-          "National Seal Selo Nacional do Brasil National Seal of Brazil"
+          "Hino Nacional Brasileiro \"Brazilian National Anthem\" Flag anthem : Hino à Bandeira Nacional \"National Flag Anthem\""
         ]
       },
       {

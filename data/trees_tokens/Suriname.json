@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Justitia",
             "children": []
@@ -69,11 +49,15 @@
           {
             "label": "Trust",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Justitia – Pietas – Fides ( Latin ) Gerechtigheid – Vroomheid – Vertrouwen ( Dutch ) \"Justice – Piety – Trust\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "God",
             "children": []
@@ -117,69 +101,10 @@
           {
             "label": "Suriname",
             "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
-          },
-          {
-            "label": "by",
-            "children": []
-          },
-          {
-            "label": "Suriname",
-            "children": []
-          },
-          {
-            "label": "shown",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "land",
-            "children": []
-          },
-          {
-            "label": "shown",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "light",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Justitia – Pietas – Fides ( Latin ) Gerechtigheid – Vroomheid – Vertrouwen ( Dutch ) \"Justice – Piety – Trust\"",
-          "Anthem: God zij met ons Suriname (Dutch) \"God be with our Suriname\"",
-          "Land controlled by Suriname shown in dark green; claimed land shown in light green."
+          "God zij met ons Suriname (Dutch) \"God be with our Suriname\""
         ]
       },
       {

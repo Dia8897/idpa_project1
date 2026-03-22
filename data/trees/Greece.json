@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Ελευθερία ή Θάνατος Elefthería í Thánatos (English: \" Freedom or Death \")",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Ελευθερία ή Θάνατος Elefthería í Thánatos (English: \" Freedom or Death \")",
-            "children": []
-          },
-          {
-            "label": "Anthem: Ύμνος εις την Ελευθερίαν Ýmnos eis tin Eleftherían (English: \" Hymn to Liberty \")",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Europe Location of Greece (dark green) – in Europe (light green & dark grey) – in the European Union (light green)",
+            "label": "Ύμνος εις την Ελευθερίαν Ýmnos eis tin Eleftherían (English: \" Hymn to Liberty \")",
             "children": []
           }
         ]

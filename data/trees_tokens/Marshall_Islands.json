@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Seal",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Jepilpilin",
             "children": []
@@ -45,11 +33,15 @@
           {
             "label": "effort",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Jepilpilin ke ejukaan \" \"Accomplishment through joint effort"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Indeeo",
             "children": []
@@ -76,9 +68,7 @@
           }
         ],
         "raw_values": [
-          "Flag Seal",
-          "Motto: \" Jepilpilin ke ejukaan \" \"Accomplishment through joint effort\"",
-          "Anthem: Indeeo M̧ajeļ \" Forever Marshall Islands \""
+          "Indeeo M̧ajeļ \" Forever Marshall Islands \""
         ]
       },
       {

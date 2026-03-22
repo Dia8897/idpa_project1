@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "All",
             "children": []
@@ -65,11 +45,15 @@
           {
             "label": "King",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "الله، الوطن، الملك Allāh, al-Waṭan, al-Malik \"God, Country, King\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Al",
             "children": []
@@ -121,37 +105,10 @@
           {
             "label": "Jordan",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Jordan",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: الله، الوطن، الملك Allāh, al-Waṭan, al-Malik \"God, Country, King\"",
-          "Anthem: السلام الملكي الأردني Al-Salām al-Malakī al-Urdunī \" Peace to the King of Jordan \"",
-          "Show globe Show map of Jordan"
+          "السلام الملكي الأردني Al-Salām al-Malakī al-Urdunī \" Peace to the King of Jordan \""
         ]
       },
       {

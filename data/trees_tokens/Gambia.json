@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Progress",
             "children": []
@@ -41,11 +21,15 @@
           {
             "label": "Prosperity",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Progress, Peace, and Prosperity"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "For",
             "children": []
@@ -65,49 +49,10 @@
           {
             "label": "Homeland",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Gambia",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "western",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Progress, Peace, and Prosperity\"",
-          "Anthem: \" For The Gambia Our Homeland \"",
-          "Location of the Gambia (dark green) in western Africa"
+          "For The Gambia Our Homeland"
         ]
       },
       {

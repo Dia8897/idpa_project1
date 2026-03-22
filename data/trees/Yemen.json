@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "ٱللَّهُ، ٱلْوَطَنُ، ٱلثَوْرَةُ، ٱلْوَحْدَةُ Allāh, al-Waṭan, ath-Thawrah, al-Waḥdah \"God, the Homeland, Revolution, Unity\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: ٱللَّهُ، ٱلْوَطَنُ، ٱلثَوْرَةُ، ٱلْوَحْدَةُ Allāh, al-Waṭan, ath-Thawrah, al-Waḥdah \"God, the Homeland, Revolution, Unity\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: الجمهورية المتحدة al-Jumhūriyyah al-Muttaḥidah \" United Republic \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Yemen",
+            "label": "الجمهورية المتحدة al-Jumhūriyyah al-Muttaḥidah \" United Republic \"",
             "children": []
           }
         ]

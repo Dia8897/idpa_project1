@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Ko",
             "children": []
@@ -85,11 +65,15 @@
           {
             "label": "inheritance",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Ko e ʻOtua mo Tonga ko hoku tofiʻa \" \"God and Tonga are my inheritance"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Ko",
             "children": []
@@ -165,29 +149,10 @@
           {
             "label": "Islands",
             "children": []
-          },
-          {
-            "label": "Based",
-            "children": []
-          },
-          {
-            "label": "on",
-            "children": []
-          },
-          {
-            "label": "2005",
-            "children": []
-          },
-          {
-            "label": "figures",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \" Ko e ʻOtua mo Tonga ko hoku tofiʻa \" \"God and Tonga are my inheritance\"",
-          "Anthem: \" Ko e fasi ʻo e tuʻi ʻo e ʻOtu Tonga \" \"Song of the King of the Tonga Islands\"",
-          "Based on 2005 figures."
+          "Ko e fasi ʻo e tuʻi ʻo e ʻOtu Tonga \" \"Song of the King of the Tonga Islands"
         ]
       },
       {

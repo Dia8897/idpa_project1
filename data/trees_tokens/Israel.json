@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Hat",
             "children": []
@@ -37,221 +25,10 @@
           {
             "label": "Hope",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Israel",
-            "children": []
-          },
-          {
-            "label": "Green",
-            "children": []
-          },
-          {
-            "label": "Line",
-            "children": []
-          },
-          {
-            "label": "Israel",
-            "children": []
-          },
-          {
-            "label": "within",
-            "children": []
-          },
-          {
-            "label": "internationally",
-            "children": []
-          },
-          {
-            "label": "recognised",
-            "children": []
-          },
-          {
-            "label": "borders",
-            "children": []
-          },
-          {
-            "label": "Israeli",
-            "children": []
-          },
-          {
-            "label": "occupied",
-            "children": []
-          },
-          {
-            "label": "territories",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "770",
-            "children": []
-          },
-          {
-            "label": "km",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "Israel",
-            "children": []
-          },
-          {
-            "label": "within",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Green",
-            "children": []
-          },
-          {
-            "label": "Line",
-            "children": []
-          },
-          {
-            "label": "22",
-            "children": []
-          },
-          {
-            "label": "072",
-            "children": []
-          },
-          {
-            "label": "km",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "includes",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "occupied",
-            "children": []
-          },
-          {
-            "label": "Golan",
-            "children": []
-          },
-          {
-            "label": "Heights",
-            "children": []
-          },
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "200",
-            "children": []
-          },
-          {
-            "label": "km",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "460",
-            "children": []
-          },
-          {
-            "label": "sq",
-            "children": []
-          },
-          {
-            "label": "mi",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "East",
-            "children": []
-          },
-          {
-            "label": "Jerusalem",
-            "children": []
-          },
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "64",
-            "children": []
-          },
-          {
-            "label": "km",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "sq",
-            "children": []
-          },
-          {
-            "label": "mi",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Anthem: הַתִּקְוָה ( Hatīkvāh ; \"The Hope\")",
-          "Show globe Map of Israel ( Green Line ) Israel within internationally recognised borders Israeli-occupied territories",
-          "^ 20,770 km 2 is Israel within the Green Line . 22,072 km 2 includes the occupied Golan Heights (c. 1,200 km 2 (460 sq mi)) and East Jerusalem (c. 64 km 2 (25 sq mi))."
+          "הַתִּקְוָה ( Hatīkvāh ; \"The Hope\")"
         ]
       },
       {
@@ -267,22 +44,6 @@
           },
           {
             "label": "recognition",
-            "children": []
-          },
-          {
-            "label": "fn",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "fn",
-            "children": []
-          },
-          {
-            "label": "2",
             "children": []
           },
           {
@@ -351,7 +112,7 @@
           }
         ],
         "raw_values": [
-          "Jerusalem ( limited recognition ) [ fn 1 ] [ fn 2 ] 31°47′N 35°13′E / 31.783°N 35.217°E / 31.783; 35.217"
+          "Jerusalem ( limited recognition ) 31°47′N 35°13′E / 31.783°N 35.217°E / 31.783; 35.217"
         ]
       },
       {
@@ -372,18 +133,10 @@
           {
             "label": "Arabic",
             "children": []
-          },
-          {
-            "label": "fn",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
           }
         ],
         "raw_values": [
-          "Arabic [ fn 3 ]"
+          "Arabic"
         ]
       },
       {
@@ -782,18 +535,10 @@
           {
             "label": "720",
             "children": []
-          },
-          {
-            "label": "fn",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
           }
         ],
         "raw_values": [
-          "9,601,720 [ fn 4 ]"
+          "9,601,720"
         ]
       },
       {

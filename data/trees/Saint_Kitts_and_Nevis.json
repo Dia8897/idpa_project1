@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Country Above Self",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Country Above Self\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" O Land of Beauty! \"",
-            "children": []
-          },
-          {
-            "label": "Or \"Saint Kitts and Nevis\".",
+            "label": "O Land of Beauty!",
             "children": []
           }
         ]

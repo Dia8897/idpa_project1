@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Bilady",
             "children": []
@@ -68,8 +48,7 @@
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Anthem: Bilady, Bilady, Bilady \"بلادي، بلادي، بلادي\" (English: My country, my country, my country )"
+          "Bilady, Bilady, Bilady \"بلادي، بلادي، بلادي\" (English: My country, my country, my country )"
         ]
       },
       {

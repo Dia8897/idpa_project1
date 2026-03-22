@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: เพลงชาติไทย Phleng Chat Thai \"Thai National Anthem\" Royal anthem : สรรเสริญพระบารมี Sansoen Phra Barami \"Praise the King\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show ASEAN Location of Thailand (green) in Southeast Asia",
+            "label": "เพลงชาติไทย Phleng Chat Thai \"Thai National Anthem\" Royal anthem : สรรเสริญพระบารมี Sansoen Phra Barami \"Praise the King\"",
             "children": []
           }
         ]

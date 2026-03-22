@@ -96,20 +96,8 @@
         ]
       },
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Sri",
             "children": []
@@ -145,24 +133,10 @@
           {
             "label": "Lanka",
             "children": []
-          },
-          {
-            "label": "Website",
-            "children": []
-          },
-          {
-            "label": "gov",
-            "children": []
-          },
-          {
-            "label": "lk",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Anthem: \" Sri Lanka Matha \" ශ්රී ලංකා මාතා (Sinhala) தாயே இலங்கை (Tamil) (English: \"Mother Sri Lanka\" )",
-          "Website gov.lk"
+          "\" Sri Lanka Matha \" ශ්රී ලංකා මාතා (Sinhala) தாயே இலங்கை (Tamil) (English: \"Mother Sri Lanka\" )"
         ]
       },
       {

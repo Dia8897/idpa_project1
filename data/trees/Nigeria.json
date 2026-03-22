@@ -31,22 +31,19 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Unity and Faith, Peace and Progress",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Unity and Faith, Peace and Progress\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Nigeria, We Hail Thee \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "Nigeria, We Hail Thee",
             "children": []
           }
         ]

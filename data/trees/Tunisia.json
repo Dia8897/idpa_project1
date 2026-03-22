@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "حرية، نظام، عدالة \" Ḥurrīyah, Niẓām, 'Adālah \" \" Freedom, Order, Justice \"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: حرية، نظام، عدالة \" Ḥurrīyah, Niẓām, 'Adālah \" \" Freedom, Order, Justice \"",
-            "children": []
-          },
-          {
-            "label": "Anthem: حماة الحمى \" Humat al-Hima \" (English: \"Defenders of the Homeland\" )",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Tunisia",
+            "label": "حماة الحمى \" Humat al-Hima \" (English: \"Defenders of the Homeland\" )",
             "children": []
           }
         ]

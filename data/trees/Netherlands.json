@@ -7,7 +7,7 @@
         "label": "west_frisian",
         "children": [
           {
-            "label": "Nederln",
+            "label": "Nederlân",
             "children": []
           }
         ]
@@ -22,26 +22,19 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Constituent country in the Kingdom of the Netherlands",
+            "label": "Je maintiendrai ( French ) ( \"I will maintain\" )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Motto : Je maintiendrai ( French ) ( \"I will maintain\" )",
-            "children": []
-          },
-          {
-            "label": "Anthem : Wilhelmus ( Dutch ) ( \"William\" )",
-            "children": []
-          },
-          {
-            "label": "Netherlands on the globe Metropolitan Netherlands in Europe Municipalities in the Caribbean Location of Netherlands (dark green) – in Europe (light green & dark grey) – in the European Union (light green)",
+            "label": "Wilhelmus ( Dutch ) ( \"William\" )",
             "children": []
           }
         ]

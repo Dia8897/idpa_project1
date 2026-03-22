@@ -4,18 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag",
+            "label": "A mari usque ad mare ( Latin ) \"From Sea to Sea\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: A mari usque ad mare ( Latin ) \"From Sea to Sea\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" O Canada \" Royal anthem : \" God Save the King \"",
+            "label": "O Canada \" Royal anthem : \" God Save the King",
             "children": []
           }
         ]

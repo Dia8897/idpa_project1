@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Anthem: كلّنا للوطن Kullunā li-l-waṭan \"All of us, for our country!\"",
-            "children": []
-          },
-          {
-            "label": "Location of Lebanon (in green)",
+            "label": "كلّنا للوطن Kullunā li-l-waṭan \"All of us, for our country!\"",
             "children": []
           }
         ]

@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Съединението прави силата Sŭedinenieto pravi silata ( \" Unity makes strength \" )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Съединението прави силата Sŭedinenieto pravi silata ( \" Unity makes strength \" )",
-            "children": []
-          },
-          {
-            "label": "Anthem: Мила Родино Mila Rodino ( \"Dear Motherland\" )",
-            "children": []
-          },
-          {
-            "label": "Location of Bulgaria (dark green) – in Europe (green & dark grey) – in the European Union (green) –",
+            "label": "Мила Родино Mila Rodino ( \"Dear Motherland\" )",
             "children": []
           }
         ]

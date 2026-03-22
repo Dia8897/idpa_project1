@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Ordem e Progresso \"Order and Progress\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Ordem e Progresso \"Order and Progress\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Hino Nacional Brasileiro \"Brazilian National Anthem\" Flag anthem : Hino à Bandeira Nacional \"National Flag Anthem\"",
-            "children": []
-          },
-          {
-            "label": "National Seal Selo Nacional do Brasil National Seal of Brazil",
+            "label": "Hino Nacional Brasileiro \"Brazilian National Anthem\" Flag anthem : Hino à Bandeira Nacional \"National Flag Anthem\"",
             "children": []
           }
         ]

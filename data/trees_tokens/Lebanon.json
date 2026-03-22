@@ -4,16 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Kullun",
             "children": []
@@ -57,32 +49,10 @@
           {
             "label": "country",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Lebanon",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag",
-          "Anthem: كلّنا للوطن Kullunā li-l-waṭan \"All of us, for our country!\"",
-          "Location of Lebanon (in green)"
+          "كلّنا للوطن Kullunā li-l-waṭan \"All of us, for our country!\""
         ]
       },
       {

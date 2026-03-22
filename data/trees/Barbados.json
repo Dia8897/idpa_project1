@@ -4,18 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Pride and Industry",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Pride and Industry\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" National Anthem of Barbados \"",
+            "label": "National Anthem of Barbados",
             "children": []
           }
         ]

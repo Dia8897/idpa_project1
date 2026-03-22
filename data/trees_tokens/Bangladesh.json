@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Bengali",
             "children": []
@@ -45,45 +33,10 @@
           {
             "label": "Bengal",
             "children": []
-          },
-          {
-            "label": "Government",
-            "children": []
-          },
-          {
-            "label": "Seal",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Bangladesh",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Anthem: আমার সোনার বাংলা ( Bengali ) Amar Sonar Bangla \"My Golden Bengal\"",
-          "Government Seal",
-          "Show globe Show map of Bangladesh"
+          "আমার সোনার বাংলা ( Bengali ) Amar Sonar Bangla \"My Golden Bengal\""
         ]
       },
       {

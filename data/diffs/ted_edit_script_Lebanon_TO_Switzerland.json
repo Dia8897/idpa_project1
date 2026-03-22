@@ -1,0 +1,3510 @@
+{
+  "algorithm": "Subtree-DP ordered TED",
+  "tree_dir": "data\\trees_tokens",
+  "source": "Lebanon",
+  "target": "Switzerland",
+  "operation_counts": {
+    "total": 183,
+    "delete": 43,
+    "insert": 48,
+    "update": 92
+  },
+  "operations": [
+    {
+      "kind": "UPD",
+      "path": "/country/internet_tld",
+      "old": "internet_tld",
+      "new": "internet_tld",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "internet_tld",
+        "children": [
+          {
+            "label": "ch",
+            "children": []
+          },
+          {
+            "label": "swiss",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          ".ch , .swiss"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/internet_tld",
+      "old": "lb",
+      "new": "swiss",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "swiss",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/internet_tld",
+      "old": null,
+      "new": "ch",
+      "node_is_leaf": true,
+      "child_index": 0,
+      "subtree": {
+        "label": "ch",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/iso_3166_code",
+      "old": "iso_3166_code",
+      "new": "iso_3166_code",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "iso_3166_code",
+        "children": [
+          {
+            "label": "CH",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "CH"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/iso_3166_code",
+      "old": "LB",
+      "new": "CH",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "CH",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/calling_code",
+      "old": "calling_code",
+      "new": "calling_code",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "calling_code",
+        "children": [
+          {
+            "label": "41",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "+41"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/calling_code",
+      "old": "961",
+      "new": "41",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "41",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "date_format",
+      "node_is_leaf": false,
+      "child_index": 37,
+      "subtree": {
+        "label": "date_format",
+        "children": [
+          {
+            "label": "dd",
+            "children": []
+          },
+          {
+            "label": "mm",
+            "children": []
+          },
+          {
+            "label": "yyyy",
+            "children": []
+          },
+          {
+            "label": "AD",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "dd.mm.yyyy ( AD )"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/summer_dst",
+      "old": "summer_dst",
+      "new": "summer_dst",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "summer_dst",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "CEST",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +2 ( CEST )"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/summer_dst",
+      "old": "EEST",
+      "new": "CEST",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "CEST",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/summer_dst",
+      "old": "3",
+      "new": "2",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "2",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/time_zone",
+      "old": "time_zone",
+      "new": "time_zone",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "time_zone",
+        "children": [
+          {
+            "label": "UTC",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "CET",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "UTC +1 ( CET )"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/time_zone",
+      "old": "EET",
+      "new": "CET",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "CET",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/time_zone",
+      "old": "2",
+      "new": "1",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "1",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/currency",
+      "old": "currency",
+      "new": "currency",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "currency",
+        "children": [
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "franc",
+            "children": []
+          },
+          {
+            "label": "CHF",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Swiss franc ( CHF )"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/currency",
+      "old": "LBP",
+      "new": "CHF",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "CHF",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/currency",
+      "old": "pound",
+      "new": "franc",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "franc",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/currency",
+      "old": "Lebanese",
+      "new": "Swiss",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "Swiss",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/hdi",
+      "old": "hdi",
+      "new": "hdi",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "hdi",
+        "children": [
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "970",
+            "children": []
+          },
+          {
+            "label": "very",
+            "children": []
+          },
+          {
+            "label": "high",
+            "children": []
+          },
+          {
+            "label": "2nd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "0.970 very high ( 2nd )"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/hdi",
+      "old": "102nd",
+      "new": "2nd",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "2nd",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/hdi",
+      "old": "752",
+      "new": "very",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "very",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/hdi",
+      "old": null,
+      "new": "970",
+      "node_is_leaf": true,
+      "child_index": 1,
+      "subtree": {
+        "label": "970",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/gini",
+      "old": "gini",
+      "new": "gini",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "gini",
+        "children": [
+          {
+            "label": "31",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "medium",
+            "children": []
+          },
+          {
+            "label": "inequality",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "31.5 medium inequality"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/gini",
+      "old": "8",
+      "new": "5",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "5",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/gdp_nominal",
+      "old": "gdp_nominal",
+      "new": "gdp_nominal",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "gdp_nominal",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/gdp_nominal",
+      "old": "2022",
+      "new": "2025",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "2025",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/per_capita",
+      "old": "per_capita",
+      "new": "per_capita",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "per_capita",
+        "children": [
+          {
+            "label": "97",
+            "children": []
+          },
+          {
+            "label": "660",
+            "children": []
+          },
+          {
+            "label": "6th",
+            "children": []
+          },
+          {
+            "label": "111",
+            "children": []
+          },
+          {
+            "label": "047",
+            "children": []
+          },
+          {
+            "label": "3rd",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "$97,660 ( 6th )",
+          "$111,047 ( 3rd )"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/per_capita",
+      "old": "133rd",
+      "new": "3rd",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "3rd",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/per_capita",
+      "old": "283",
+      "new": "047",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "047",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/per_capita",
+      "old": "3",
+      "new": "111",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "111",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/per_capita",
+      "old": "114th",
+      "new": "6th",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "6th",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/per_capita",
+      "old": "793",
+      "new": "660",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "660",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/per_capita",
+      "old": "11",
+      "new": "97",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "97",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/gdp_ppp",
+      "old": "gdp_ppp",
+      "new": "gdp_ppp",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "gdp_ppp",
+        "children": [
+          {
+            "label": "2025",
+            "children": []
+          },
+          {
+            "label": "estimate",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "2025 estimate"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/gdp_ppp",
+      "old": "2022",
+      "new": "2025",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "2025",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/density",
+      "old": "density",
+      "new": "density",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "density",
+        "children": [
+          {
+            "label": "207",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "536",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "67th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "207/km 2 (536.1/sq mi) ( 67th )"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/density",
+      "old": null,
+      "new": "67th",
+      "node_is_leaf": true,
+      "child_index": 7,
+      "subtree": {
+        "label": "67th",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/density",
+      "old": "7",
+      "new": "1",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "1",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/density",
+      "old": "328",
+      "new": "536",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "536",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/density",
+      "old": "1",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 3,
+      "subtree": {
+        "label": "1",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/density",
+      "old": "513",
+      "new": "207",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "207",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "census",
+      "node_is_leaf": false,
+      "child_index": 27,
+      "subtree": {
+        "label": "census",
+        "children": [
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "327",
+            "children": []
+          },
+          {
+            "label": "126",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "8,327,126"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/estimate",
+      "old": "estimate",
+      "new": "estimate",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "estimate",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "060",
+            "children": []
+          },
+          {
+            "label": "598",
+            "children": []
+          },
+          {
+            "label": "99th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9,060,598 ( 99th )"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/estimate",
+      "old": "117th",
+      "new": "99th",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "99th",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/estimate",
+      "old": "482",
+      "new": "598",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "598",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/estimate",
+      "old": "364",
+      "new": "060",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "060",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/estimate",
+      "old": "5",
+      "new": "9",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "9",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/water",
+      "old": "water",
+      "new": "water",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "water",
+        "children": [
+          {
+            "label": "4",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "4"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/water",
+      "old": "8",
+      "new": "4",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "4",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/water",
+      "old": "1",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 0,
+      "subtree": {
+        "label": "1",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "total",
+      "new": "total",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "total",
+        "children": [
+          {
+            "label": "41",
+            "children": []
+          },
+          {
+            "label": "291",
+            "children": []
+          },
+          {
+            "label": "km",
+            "children": []
+          },
+          {
+            "label": "2",
+            "children": []
+          },
+          {
+            "label": "15",
+            "children": []
+          },
+          {
+            "label": "943",
+            "children": []
+          },
+          {
+            "label": "sq",
+            "children": []
+          },
+          {
+            "label": "mi",
+            "children": []
+          },
+          {
+            "label": "132th",
+            "children": []
+          },
+          {
+            "label": "881",
+            "children": []
+          },
+          {
+            "label": "083",
+            "children": []
+          },
+          {
+            "label": "billion",
+            "children": []
+          },
+          {
+            "label": "35th",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "003",
+            "children": []
+          },
+          {
+            "label": "trillion",
+            "children": []
+          },
+          {
+            "label": "20th",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "41,291 km 2 (15,943 sq mi) ( 132th )",
+          "$881.083 billion ( 35th )",
+          "$1.003 trillion ( 20th )"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "103rd",
+      "new": "20th",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "20th",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "billion",
+      "new": "trillion",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "trillion",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "780",
+      "new": "003",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "003",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "21",
+      "new": "1",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "1",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "108th",
+      "new": "35th",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "35th",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "233",
+      "new": "083",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "083",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "78",
+      "new": "881",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "881",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "161st",
+      "new": "132th",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "132th",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "036",
+      "new": "943",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "943",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "4",
+      "new": "15",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "15",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "452",
+      "new": "291",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "291",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/total",
+      "old": "10",
+      "new": "41",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "41",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "syrian_troops_withdrawn",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "syrian_troops_withdrawn",
+        "children": [
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "2005",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "30 April 2005"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "federal_state",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "federal_state",
+        "children": [
+          {
+            "label": "12",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1848",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "12 September 1848"
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "israeli_troops_withdrawn",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "israeli_troops_withdrawn",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "2000",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "24 May 2000"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "federal_treaty",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "federal_treaty",
+        "children": [
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1815",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "7 August 1815"
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "withdrawal_of_french_forces",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "withdrawal_of_french_forces",
+        "children": [
+          {
+            "label": "17",
+            "children": []
+          },
+          {
+            "label": "April",
+            "children": []
+          },
+          {
+            "label": "1946",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "17 April 1946"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "sovereignty_recognised_peace_of_westphalia",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "sovereignty_recognised_peace_of_westphalia",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1648",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "24 October 1648"
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "french_mandate_ended",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "french_mandate_ended",
+        "children": [
+          {
+            "label": "24",
+            "children": []
+          },
+          {
+            "label": "October",
+            "children": []
+          },
+          {
+            "label": "1945",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "24 October 1945"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "founded",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "founded",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "August",
+            "children": []
+          },
+          {
+            "label": "1291",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 August 1291"
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "independence_declared",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "independence_declared",
+        "children": [
+          {
+            "label": "22",
+            "children": []
+          },
+          {
+            "label": "November",
+            "children": []
+          },
+          {
+            "label": "1943",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "22 November 1943"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "lower_house",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "lower_house",
+        "children": [
+          {
+            "label": "National",
+            "children": []
+          },
+          {
+            "label": "Council",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "National Council"
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "constitution",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "constitution",
+        "children": [
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "May",
+            "children": []
+          },
+          {
+            "label": "1926",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "23 May 1926"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "upper_house",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "upper_house",
+        "children": [
+          {
+            "label": "Council",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "States",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Council of States"
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "greater_lebanon",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": 16,
+      "subtree": {
+        "label": "greater_lebanon",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "September",
+            "children": []
+          },
+          {
+            "label": "1920",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 September 1920"
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "mount_lebanon_mutasarrifate",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": 15,
+      "subtree": {
+        "label": "mount_lebanon_mutasarrifate",
+        "children": [
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "June",
+            "children": []
+          },
+          {
+            "label": "1861",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "9 June 1861"
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "double_qaimmaqamate_of_mount_lebanon",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": 14,
+      "subtree": {
+        "label": "double_qaimmaqamate_of_mount_lebanon",
+        "children": [
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "December",
+            "children": []
+          },
+          {
+            "label": "1843",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1 December 1843"
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "emirate_of_mount_lebanon",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": 13,
+      "subtree": {
+        "label": "emirate_of_mount_lebanon",
+        "children": [
+          {
+            "label": "1516",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "1516"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/legislature",
+      "old": "legislature",
+      "new": "legislature",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "legislature",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "Assembly",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal Assembly"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/legislature",
+      "old": "Parliament",
+      "new": "Assembly",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "Assembly",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/legislature",
+      "old": null,
+      "new": "Federal",
+      "node_is_leaf": true,
+      "child_index": 0,
+      "subtree": {
+        "label": "Federal",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "speaker_of_the_parliament",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "speaker_of_the_parliament",
+        "children": [
+          {
+            "label": "Nabih",
+            "children": []
+          },
+          {
+            "label": "Berri",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Nabih Berri"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "federal_chancellor",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "federal_chancellor",
+        "children": [
+          {
+            "label": "Viktor",
+            "children": []
+          },
+          {
+            "label": "Rossi",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Viktor Rossi"
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "prime_minister",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "prime_minister",
+        "children": [
+          {
+            "label": "Nawaf",
+            "children": []
+          },
+          {
+            "label": "Salam",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Nawaf Salam"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "federal_council",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "federal_council",
+        "children": [
+          {
+            "label": "Guy",
+            "children": []
+          },
+          {
+            "label": "Parmelin",
+            "children": []
+          },
+          {
+            "label": "President",
+            "children": []
+          },
+          {
+            "label": "Ignazio",
+            "children": []
+          },
+          {
+            "label": "Cassis",
+            "children": []
+          },
+          {
+            "label": "Vice",
+            "children": []
+          },
+          {
+            "label": "president",
+            "children": []
+          },
+          {
+            "label": "Karin",
+            "children": []
+          },
+          {
+            "label": "Keller",
+            "children": []
+          },
+          {
+            "label": "Sutter",
+            "children": []
+          },
+          {
+            "label": "Albert",
+            "children": []
+          },
+          {
+            "label": "R",
+            "children": []
+          },
+          {
+            "label": "sti",
+            "children": []
+          },
+          {
+            "label": "lisabeth",
+            "children": []
+          },
+          {
+            "label": "Baume",
+            "children": []
+          },
+          {
+            "label": "Schneider",
+            "children": []
+          },
+          {
+            "label": "Beat",
+            "children": []
+          },
+          {
+            "label": "Jans",
+            "children": []
+          },
+          {
+            "label": "Martin",
+            "children": []
+          },
+          {
+            "label": "Pfister",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Guy Parmelin ( President ) Ignazio Cassis ( Vice president ) Karin Keller-Sutter Albert Rösti Élisabeth Baume-Schneider Beat Jans Martin Pfister"
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "president",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": 9,
+      "subtree": {
+        "label": "president",
+        "children": [
+          {
+            "label": "Joseph",
+            "children": []
+          },
+          {
+            "label": "Aoun",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Joseph Aoun"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/government",
+      "old": "government",
+      "new": "government",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "government",
+        "children": [
+          {
+            "label": "Federal",
+            "children": []
+          },
+          {
+            "label": "assembly",
+            "children": []
+          },
+          {
+            "label": "independent",
+            "children": []
+          },
+          {
+            "label": "directorial",
+            "children": []
+          },
+          {
+            "label": "republic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Federal assembly-independent directorial republic"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/government",
+      "old": "confessionalism",
+      "new": "republic",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "republic",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/government",
+      "old": "under",
+      "new": "directorial",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "directorial",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/government",
+      "old": "republic",
+      "new": "independent",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "independent",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/government",
+      "old": "parliamentary",
+      "new": "assembly",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "assembly",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/government",
+      "old": "Unitary",
+      "new": "Federal",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "Federal",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/demonyms",
+      "old": "demonyms",
+      "new": "demonyms",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "demonyms",
+        "children": [
+          {
+            "label": "English",
+            "children": []
+          },
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "German",
+            "children": []
+          },
+          {
+            "label": "Schweizer",
+            "children": []
+          },
+          {
+            "label": "Schweizerin",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "Suisse",
+            "children": []
+          },
+          {
+            "label": "Suissesse",
+            "children": []
+          },
+          {
+            "label": "Italian",
+            "children": []
+          },
+          {
+            "label": "svizzero",
+            "children": []
+          },
+          {
+            "label": "svizzera",
+            "children": []
+          },
+          {
+            "label": "or",
+            "children": []
+          },
+          {
+            "label": "elvetico",
+            "children": []
+          },
+          {
+            "label": "elvetica",
+            "children": []
+          },
+          {
+            "label": "Romansh",
+            "children": []
+          },
+          {
+            "label": "Svizzer",
+            "children": []
+          },
+          {
+            "label": "Svizra",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "English: Swiss German: Schweizer/Schweizerin French: Suisse/Suissesse Italian : svizzero/svizzera or elvetico/elvetica Romansh : Svizzer/Svizra"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/demonyms",
+      "old": "Lebanese",
+      "new": "Svizra",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "Svizra",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Svizzer",
+      "node_is_leaf": true,
+      "child_index": 15,
+      "subtree": {
+        "label": "Svizzer",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Romansh",
+      "node_is_leaf": true,
+      "child_index": 14,
+      "subtree": {
+        "label": "Romansh",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "elvetica",
+      "node_is_leaf": true,
+      "child_index": 13,
+      "subtree": {
+        "label": "elvetica",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "elvetico",
+      "node_is_leaf": true,
+      "child_index": 12,
+      "subtree": {
+        "label": "elvetico",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "or",
+      "node_is_leaf": true,
+      "child_index": 11,
+      "subtree": {
+        "label": "or",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "svizzera",
+      "node_is_leaf": true,
+      "child_index": 10,
+      "subtree": {
+        "label": "svizzera",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "svizzero",
+      "node_is_leaf": true,
+      "child_index": 9,
+      "subtree": {
+        "label": "svizzero",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Italian",
+      "node_is_leaf": true,
+      "child_index": 8,
+      "subtree": {
+        "label": "Italian",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Suissesse",
+      "node_is_leaf": true,
+      "child_index": 7,
+      "subtree": {
+        "label": "Suissesse",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Suisse",
+      "node_is_leaf": true,
+      "child_index": 6,
+      "subtree": {
+        "label": "Suisse",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "French",
+      "node_is_leaf": true,
+      "child_index": 5,
+      "subtree": {
+        "label": "French",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Schweizerin",
+      "node_is_leaf": true,
+      "child_index": 4,
+      "subtree": {
+        "label": "Schweizerin",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Schweizer",
+      "node_is_leaf": true,
+      "child_index": 3,
+      "subtree": {
+        "label": "Schweizer",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "German",
+      "node_is_leaf": true,
+      "child_index": 2,
+      "subtree": {
+        "label": "German",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "Swiss",
+      "node_is_leaf": true,
+      "child_index": 1,
+      "subtree": {
+        "label": "Swiss",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/demonyms",
+      "old": null,
+      "new": "English",
+      "node_is_leaf": true,
+      "child_index": 0,
+      "subtree": {
+        "label": "English",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "religion",
+      "new": "religion",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "religion",
+        "children": [
+          {
+            "label": "54",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Christianity",
+            "children": []
+          },
+          {
+            "label": "30",
+            "children": []
+          },
+          {
+            "label": "Catholicism",
+            "children": []
+          },
+          {
+            "label": "18",
+            "children": []
+          },
+          {
+            "label": "7",
+            "children": []
+          },
+          {
+            "label": "Protestantism",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "Christian",
+            "children": []
+          },
+          {
+            "label": "36",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "no",
+            "children": []
+          },
+          {
+            "label": "religion",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Islam",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "religions",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "9",
+            "children": []
+          },
+          {
+            "label": "unanswered",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "54.7% Christianity 30% Catholicism 18.7% Protestantism 6% other Christian 36.8% no religion 6% Islam 1.5% other religions 0.9% unanswered"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "religion",
+      "new": "unanswered",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "unanswered",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "No",
+      "new": "9",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "9",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "08",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 36,
+      "subtree": {
+        "label": "08",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "Druze",
+      "new": "religions",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "religions",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "21",
+      "new": "other",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "other",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Christians",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 31,
+      "subtree": {
+        "label": "Christians",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Other",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 30,
+      "subtree": {
+        "label": "Other",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "64",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 29,
+      "subtree": {
+        "label": "64",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "Protestant",
+      "new": "Islam",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "Islam",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "53",
+      "new": "6",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "6",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "0",
+      "new": "religion",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "religion",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "Apostolic",
+      "new": "no",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "no",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Armenian",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 23,
+      "subtree": {
+        "label": "Armenian",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "92",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 22,
+      "subtree": {
+        "label": "92",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "2",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 21,
+      "subtree": {
+        "label": "2",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Orthodox",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 20,
+      "subtree": {
+        "label": "Orthodox",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "30",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 19,
+      "subtree": {
+        "label": "30",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "Catholic",
+      "new": "36",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "36",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "11",
+      "new": "Christian",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "Christian",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "28",
+      "new": "other",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "other",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "Christianity",
+      "new": "6",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "6",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "40",
+      "new": "Protestantism",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "Protestantism",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "41",
+      "new": "7",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "7",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "Sunni",
+      "new": "18",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "18",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "55",
+      "new": "Catholicism",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "Catholicism",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "26",
+      "new": "30",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "30",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "Alawite",
+      "new": "Christianity",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "Christianity",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "64",
+      "new": "7",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "7",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/religion",
+      "old": "0",
+      "new": "54",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "54",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Shia",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 5,
+      "subtree": {
+        "label": "Shia",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "84",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 4,
+      "subtree": {
+        "label": "84",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "26",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 3,
+      "subtree": {
+        "label": "26",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "Islam",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 2,
+      "subtree": {
+        "label": "Islam",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "31",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 1,
+      "subtree": {
+        "label": "31",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/religion",
+      "old": "53",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 0,
+      "subtree": {
+        "label": "53",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "ethnic_groups",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "ethnic_groups",
+        "children": [
+          {
+            "label": "95",
+            "children": []
+          },
+          {
+            "label": "Arab",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "Armenian",
+            "children": []
+          },
+          {
+            "label": "1",
+            "children": []
+          },
+          {
+            "label": "others",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "95% Arab 4% Armenian 1% others"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "nationality",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "nationality",
+        "children": [
+          {
+            "label": "72",
+            "children": []
+          },
+          {
+            "label": "6",
+            "children": []
+          },
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "27",
+            "children": []
+          },
+          {
+            "label": "4",
+            "children": []
+          },
+          {
+            "label": "foreign",
+            "children": []
+          },
+          {
+            "label": "nationals",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "72.6% Swiss 27.4% foreign nationals"
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "recognised_minority_language",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": 4,
+      "subtree": {
+        "label": "recognised_minority_language",
+        "children": [
+          {
+            "label": "French",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "French"
+        ]
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "local_vernacular",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": 3,
+      "subtree": {
+        "label": "local_vernacular",
+        "children": [
+          {
+            "label": "Lebanese",
+            "children": []
+          },
+          {
+            "label": "Arabic",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Lebanese Arabic"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/official_languages",
+      "old": "official_languages",
+      "new": "official_languages",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "official_languages",
+        "children": [
+          {
+            "label": "German",
+            "children": []
+          },
+          {
+            "label": "62",
+            "children": []
+          },
+          {
+            "label": "French",
+            "children": []
+          },
+          {
+            "label": "23",
+            "children": []
+          },
+          {
+            "label": "Italian",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "Romansh",
+            "children": []
+          },
+          {
+            "label": "0",
+            "children": []
+          },
+          {
+            "label": "5",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "German (62%), French (23%), Italian (8%), Romansh (0.5%)"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/official_languages",
+      "old": "Arabic",
+      "new": "5",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "5",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "0",
+      "node_is_leaf": true,
+      "child_index": 7,
+      "subtree": {
+        "label": "0",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "Romansh",
+      "node_is_leaf": true,
+      "child_index": 6,
+      "subtree": {
+        "label": "Romansh",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "8",
+      "node_is_leaf": true,
+      "child_index": 5,
+      "subtree": {
+        "label": "8",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "Italian",
+      "node_is_leaf": true,
+      "child_index": 4,
+      "subtree": {
+        "label": "Italian",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "23",
+      "node_is_leaf": true,
+      "child_index": 3,
+      "subtree": {
+        "label": "23",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "French",
+      "node_is_leaf": true,
+      "child_index": 2,
+      "subtree": {
+        "label": "French",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "62",
+      "node_is_leaf": true,
+      "child_index": 1,
+      "subtree": {
+        "label": "62",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country/official_languages",
+      "old": null,
+      "new": "German",
+      "node_is_leaf": true,
+      "child_index": 0,
+      "subtree": {
+        "label": "German",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country",
+      "old": "capital_and_largest_city",
+      "new": null,
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "capital_and_largest_city",
+        "children": [
+          {
+            "label": "Beirut",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "54",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "32",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "900",
+            "children": []
+          },
+          {
+            "label": "N",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "533",
+            "children": []
+          },
+          {
+            "label": "E",
+            "children": []
+          },
+          {
+            "label": "33",
+            "children": []
+          },
+          {
+            "label": "900",
+            "children": []
+          },
+          {
+            "label": "35",
+            "children": []
+          },
+          {
+            "label": "533",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Beirut 33°54′N 35°32′E / 33.900°N 35.533°E / 33.900; 35.533"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "largest_city",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "largest_city",
+        "children": [
+          {
+            "label": "Zurich",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Zurich"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "federal_city",
+      "node_is_leaf": false,
+      "child_index": 8,
+      "subtree": {
+        "label": "federal_city",
+        "children": [
+          {
+            "label": "Bern",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bern"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "capital",
+      "node_is_leaf": false,
+      "child_index": 7,
+      "subtree": {
+        "label": "capital",
+        "children": [
+          {
+            "label": "Bern",
+            "children": []
+          },
+          {
+            "label": "de",
+            "children": []
+          },
+          {
+            "label": "facto",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Bern ( de facto )"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/anthem",
+      "old": "anthem",
+      "new": "anthem",
+      "node_is_leaf": false,
+      "child_index": null,
+      "subtree": {
+        "label": "anthem",
+        "children": [
+          {
+            "label": "Swiss",
+            "children": []
+          },
+          {
+            "label": "Psalm",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Swiss Psalm"
+        ]
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/anthem",
+      "old": "country",
+      "new": "Psalm",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "Psalm",
+        "children": []
+      }
+    },
+    {
+      "kind": "UPD",
+      "path": "/country/anthem",
+      "old": "our",
+      "new": "Swiss",
+      "node_is_leaf": true,
+      "child_index": null,
+      "subtree": {
+        "label": "Swiss",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/anthem",
+      "old": "for",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 8,
+      "subtree": {
+        "label": "for",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/anthem",
+      "old": "us",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 7,
+      "subtree": {
+        "label": "us",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/anthem",
+      "old": "of",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 6,
+      "subtree": {
+        "label": "of",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/anthem",
+      "old": "All",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 5,
+      "subtree": {
+        "label": "All",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/anthem",
+      "old": "an",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 4,
+      "subtree": {
+        "label": "an",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/anthem",
+      "old": "wa",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 3,
+      "subtree": {
+        "label": "wa",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/anthem",
+      "old": "l",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 2,
+      "subtree": {
+        "label": "l",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/anthem",
+      "old": "li",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 1,
+      "subtree": {
+        "label": "li",
+        "children": []
+      }
+    },
+    {
+      "kind": "DEL",
+      "path": "/country/anthem",
+      "old": "Kullun",
+      "new": null,
+      "node_is_leaf": true,
+      "child_index": 0,
+      "subtree": {
+        "label": "Kullun",
+        "children": []
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "motto",
+      "node_is_leaf": false,
+      "child_index": 5,
+      "subtree": {
+        "label": "motto",
+        "children": [
+          {
+            "label": "unofficial",
+            "children": []
+          },
+          {
+            "label": "Unus",
+            "children": []
+          },
+          {
+            "label": "pro",
+            "children": []
+          },
+          {
+            "label": "omnibus",
+            "children": []
+          },
+          {
+            "label": "omnes",
+            "children": []
+          },
+          {
+            "label": "pro",
+            "children": []
+          },
+          {
+            "label": "uno",
+            "children": []
+          },
+          {
+            "label": "One",
+            "children": []
+          },
+          {
+            "label": "for",
+            "children": []
+          },
+          {
+            "label": "all",
+            "children": []
+          },
+          {
+            "label": "all",
+            "children": []
+          },
+          {
+            "label": "for",
+            "children": []
+          },
+          {
+            "label": "one",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "(unofficial) \" Unus pro omnibus, omnes pro uno \" \"One for all, all for one\""
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "latin",
+      "node_is_leaf": false,
+      "child_index": 4,
+      "subtree": {
+        "label": "latin",
+        "children": [
+          {
+            "label": "Confoederatio",
+            "children": []
+          },
+          {
+            "label": "helvetica",
+            "children": []
+          },
+          {
+            "label": "CH",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Confoederatio helvetica (CH)"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "romansh",
+      "node_is_leaf": false,
+      "child_index": 3,
+      "subtree": {
+        "label": "romansh",
+        "children": [
+          {
+            "label": "Confederaziun",
+            "children": []
+          },
+          {
+            "label": "svizra",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Confederaziun svizra"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "italian",
+      "node_is_leaf": false,
+      "child_index": 2,
+      "subtree": {
+        "label": "italian",
+        "children": [
+          {
+            "label": "Confederazione",
+            "children": []
+          },
+          {
+            "label": "Svizzera",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Confederazione Svizzera"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "french",
+      "node_is_leaf": false,
+      "child_index": 1,
+      "subtree": {
+        "label": "french",
+        "children": [
+          {
+            "label": "Conf",
+            "children": []
+          },
+          {
+            "label": "d",
+            "children": []
+          },
+          {
+            "label": "ration",
+            "children": []
+          },
+          {
+            "label": "suisse",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Confédération suisse"
+        ]
+      }
+    },
+    {
+      "kind": "INS",
+      "path": "/country",
+      "old": null,
+      "new": "german",
+      "node_is_leaf": false,
+      "child_index": 0,
+      "subtree": {
+        "label": "german",
+        "children": [
+          {
+            "label": "Schweizerische",
+            "children": []
+          },
+          {
+            "label": "Eidgenossenschaft",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Schweizerische Eidgenossenschaft"
+        ]
+      }
+    }
+  ],
+  "execution_order": {
+    "delete_first": true,
+    "insert_second": true,
+    "update_third": true
+  }
+}

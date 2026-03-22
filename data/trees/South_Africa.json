@@ -94,22 +94,19 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "ǃke e: ǀxarra ǁke \" ( ǀXam ) \" Unity in diversity",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \" ǃke e: ǀxarra ǁke \" ( ǀXam ) \" Unity in diversity \"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" National Anthem of South Africa \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of South Africa",
+            "label": "National Anthem of South Africa",
             "children": []
           }
         ]

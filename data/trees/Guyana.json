@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "One People, One Nation, One Destiny",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"One People, One Nation, One Destiny\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Dear Land of Guyana \"",
-            "children": []
-          },
-          {
-            "label": "Location of Guyana (green) Location of South America in grey",
+            "label": "Dear Land of Guyana",
             "children": []
           }
         ]

@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Ti Shqipëri, më jep nder, më jep emrin Shqipëtar \"You Albania, you give me honour, you give me the name Albanian\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Ti Shqipëri, më jep nder, më jep emrin Shqipëtar \"You Albania, you give me honour, you give me the name Albanian\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Himni i Flamurit \" \"Hymn to the Flag\"",
-            "children": []
-          },
-          {
-            "label": "Location of Albania (green) in Europe (dark grey)",
+            "label": "Himni i Flamurit \" \"Hymn to the Flag",
             "children": []
           }
         ]

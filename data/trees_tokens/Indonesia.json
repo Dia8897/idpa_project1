@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Bhinneka",
             "children": []
@@ -49,11 +37,15 @@
           {
             "label": "Diversity",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Bhinneka Tunggal Ika ( Old Javanese ) \"Unity in Diversity\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Indonesia",
             "children": []
@@ -69,23 +61,15 @@
           {
             "label": "Indonesia",
             "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "ideology",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "philosophy",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Indonesia Raya \"Great Indonesia\""
+        ]
+      },
+      {
+        "label": "national_ideology_and_philosophy",
+        "children": [
           {
             "label": "Pancasila",
             "children": []
@@ -105,54 +89,10 @@
           {
             "label": "Principles",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "ASEAN",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Indonesia",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "ASEAN",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: Bhinneka Tunggal Ika ( Old Javanese ) \"Unity in Diversity\"",
-          "Anthem: Indonesia Raya \"Great Indonesia\"",
-          "National ideology and philosophy: Pancasila ( Sanskrit ) \"The Five Principles\"",
-          "Show globe Show ASEAN Location of Indonesia (green) in ASEAN"
+          "Pancasila ( Sanskrit ) \"The Five Principles\""
         ]
       },
       {

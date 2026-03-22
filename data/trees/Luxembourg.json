@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Mir wëlle bleiwe wat mir sinn \" \"We want to stay what we are",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \" Mir wëlle bleiwe wat mir sinn \" \"We want to stay what we are\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Ons Heemecht \" (\"Our Homeland\") Royal anthem : \" De Wilhelmus \" a",
-            "children": []
-          },
-          {
-            "label": "Location of Luxembourg (green circle) – in Europe (light green & dark grey) – in the European Union (light green) –",
-            "children": []
-          },
-          {
-            "label": "Not the same as Het Wilhelmus of the Netherlands The .eu domain is also used, as it is shared with other European Union member states. ^ \"Field Listing – Distribution of family income – Gini index\" . The World Factbook . Central Intelligence Agency . Archived from the original on 13 June 2007 . Retrieved 3 May 2013 . These figures are likely an underestimation, as dual citizens with Luxembourgish nationality are counted solely as Luxembourgers in official estimates.",
+            "label": "\" Ons Heemecht \" (\"Our Homeland\") Royal anthem : \" De Wilhelmus \" a",
             "children": []
           }
         ]

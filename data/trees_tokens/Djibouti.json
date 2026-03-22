@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Midnimo",
             "children": []
@@ -85,45 +73,22 @@
           {
             "label": "English",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Midnimo, Sinnaan, Nabad ( Somali ) Inkittiino, Qeedala, Wagari ( Afar ) Unité, Égalité, Paix ( French ) اتحاد، مساواة، سلام ( Arabic ) Unity, Equality, Peace ( English )"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Djibouti",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
             "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: Midnimo, Sinnaan, Nabad ( Somali ) Inkittiino, Qeedala, Wagari ( Afar ) Unité, Égalité, Paix ( French ) اتحاد، مساواة، سلام ( Arabic ) Unity, Equality, Peace ( English )",
-          "Anthem: Djibouti",
-          "Show globe Show map of Africa"
+          "Djibouti"
         ]
       },
       {
@@ -394,7 +359,11 @@
         "label": "president",
         "children": [
           {
-            "label": "Ismal",
+            "label": "Isma",
+            "children": []
+          },
+          {
+            "label": "l",
             "children": []
           },
           {
@@ -407,7 +376,7 @@
           }
         ],
         "raw_values": [
-          "Ismal Omar Guelleh"
+          "Ismaïl Omar Guelleh"
         ]
       },
       {

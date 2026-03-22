@@ -4,24 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "State",
-            "children": []
-          },
-          {
-            "label": "emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "m",
             "children": []
@@ -57,11 +41,15 @@
           {
             "label": "Discipline",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Īmān, Ittihād, Nazam ( Urdu ) ایمان، اتحاد، نظم \"Faith, Unity, Discipline\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Qaum",
             "children": []
@@ -89,90 +77,10 @@
           {
             "label": "Anthem",
             "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
-          },
-          {
-            "label": "by",
-            "children": []
-          },
-          {
-            "label": "Pakistan",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
-          },
-          {
-            "label": "Kashmir",
-            "children": []
-          },
-          {
-            "label": "Junagadh",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Sir",
-            "children": []
-          },
-          {
-            "label": "Creek",
-            "children": []
-          },
-          {
-            "label": "Website",
-            "children": []
-          },
-          {
-            "label": "www",
-            "children": []
-          },
-          {
-            "label": "pakistan",
-            "children": []
-          },
-          {
-            "label": "gov",
-            "children": []
-          },
-          {
-            "label": "pk",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag State emblem",
-          "Motto: Īmān, Ittihād, Nazam ( Urdu ) ایمان، اتحاد، نظم \"Faith, Unity, Discipline\"",
-          "Anthem: Qaumī Tarānah ( Urdu ) قَومی ترانہ \"The National Anthem\"",
-          "Territory controlled by Pakistan Territory claimed but not controlled ( Kashmir , Junagadh , and Sir Creek )",
-          "Website www .pakistan .gov .pk"
+          "Qaumī Tarānah ( Urdu ) قَومی ترانہ \"The National Anthem\""
         ]
       },
       {

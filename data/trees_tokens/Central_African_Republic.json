@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Zo",
             "children": []
@@ -85,11 +65,15 @@
           {
             "label": "Work",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Zo Kwe Zo\" ( Sango ) \"All people are people\" \"Unité, Dignité, Travail\" ( French ) \"Unity, Dignity, Work"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "E",
             "children": []
@@ -121,37 +105,10 @@
           {
             "label": "Renaissance",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Zo Kwe Zo\" ( Sango ) \"All people are people\" \"Unité, Dignité, Travail\" ( French ) \"Unity, Dignity, Work\"",
-          "Anthem: E Zingo (Sango) La Renaissance (French) \"The Renaissance\"",
-          "Show globe Show map of Africa"
+          "E Zingo (Sango) La Renaissance (French) \"The Renaissance\""
         ]
       },
       {

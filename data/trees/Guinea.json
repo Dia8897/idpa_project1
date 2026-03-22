@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "\"Travail, Justice, Solidarité\" ( French ) Work, Justice, Solidarity",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Travail, Justice, Solidarité\" ( French ) Work, Justice, Solidarity",
-            "children": []
-          },
-          {
-            "label": "Anthem: Liberté ( French ) \"Liberty\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "Liberté ( French ) \"Liberty\"",
             "children": []
           }
         ]

@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag National emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: Денес над Македонија (Macedonian) \"Today over Macedonia\"",
-            "children": []
-          },
-          {
-            "label": "Location of North Macedonia (green) in Europe (dark grey) –",
+            "label": "Денес над Македонија (Macedonian) \"Today over Macedonia\"",
             "children": []
           }
         ]

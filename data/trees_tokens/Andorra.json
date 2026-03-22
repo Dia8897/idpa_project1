@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Virtus",
             "children": []
@@ -57,11 +37,15 @@
           {
             "label": "stronger",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Virtus Unita Fortior ( Latin ) \"United virtue is stronger\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "El",
             "children": []
@@ -85,57 +69,10 @@
           {
             "label": "Charlemagne",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Andorra",
-            "children": []
-          },
-          {
-            "label": "centre",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "circle",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Virtus Unita Fortior ( Latin ) \"United virtue is stronger\"",
-          "Anthem: \" El Gran Carlemany \" \"The Great Charlemagne \"",
-          "Location of Andorra (centre of green circle) in Europe (dark grey)"
+          "El Gran Carlemany \" \"The Great Charlemagne"
         ]
       },
       {

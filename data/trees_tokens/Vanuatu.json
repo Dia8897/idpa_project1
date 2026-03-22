@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Long",
             "children": []
@@ -85,11 +65,15 @@
           {
             "label": "stand",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Long God yumi stanap\" (Bislama) Nous nous tenons devant Dieu (French) \"With God we stand"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Yumi",
             "children": []
@@ -120,9 +104,7 @@
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Long God yumi stanap\" (Bislama) Nous nous tenons devant Dieu (French) \"With God we stand\"",
-          "Anthem: \" Yumi, Yumi, Yumi \" (Bislama) \"We, We, We\""
+          "Yumi, Yumi, Yumi \" (Bislama) \"We, We, We"
         ]
       },
       {

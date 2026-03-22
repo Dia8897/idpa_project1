@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Ever Conscious of God We Aspire, Build and Advance as One People",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Ever Conscious of God We Aspire, Build and Advance as One People\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Hail Grenada \" Royal anthem : \" God Save the King \"",
-            "children": []
-          },
-          {
-            "label": "Plus trace of Arawak / Carib .",
+            "label": "Hail Grenada \" Royal anthem : \" God Save the King",
             "children": []
           }
         ]

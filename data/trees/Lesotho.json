@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Khotso, Pula, Nala\" \"Peace, Rain, Prosperity",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Khotso, Pula, Nala\" \"Peace, Rain, Prosperity\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Lesotho fatše la bo-ntat'a rona (English: \"Lesotho, Land of Our Fathers\" )",
-            "children": []
-          },
-          {
-            "label": "Location of Lesotho (dark green)",
+            "label": "Lesotho fatše la bo-ntat'a rona (English: \"Lesotho, Land of Our Fathers\" )",
             "children": []
           }
         ]

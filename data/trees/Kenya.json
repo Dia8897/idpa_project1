@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "\" Harambee \" (English: \"Let us all pull together\" )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \" Harambee \" (English: \"Let us all pull together\" )",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Ee Mungu Nguvu Yetu \" (English: \"O God of All Creation\" )",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          },
-          {
-            "label": "According to the CIA , estimates for this country explicitly take into account the effects of mortality because of AIDS ; this can result in lower life expectancy , higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex, than would otherwise be expected.",
+            "label": "\" Ee Mungu Nguvu Yetu \" (English: \"O God of All Creation\" )",
             "children": []
           }
         ]

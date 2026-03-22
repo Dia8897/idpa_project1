@@ -4,24 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Imperial",
-            "children": []
-          },
-          {
-            "label": "crest",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Kimigayo",
             "children": []
@@ -41,44 +25,10 @@
           {
             "label": "Reign",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Japan",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Imperial crest",
-          "Anthem: 君が代 (\" Kimigayo \") ' His Majesty's Reign '",
-          "Location of Japan Territory claimed but not controlled"
+          "君が代 (\" Kimigayo \") ' His Majesty's Reign '"
         ]
       },
       {

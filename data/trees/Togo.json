@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "\"Travail, Liberté, Patrie\" (English: \"Work, Liberty, Homeland\" )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Travail, Liberté, Patrie\" (English: \"Work, Liberty, Homeland\" )",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Terre de nos aeux \" (English: \"Land of our ancestors\" )",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          },
-          {
-            "label": "Such as Ewe , Mina and Aja . Largest are the Ewe , Mina, Kotokoli Tem and Kabyè . Mostly European, Indian & Syrian-Lebanese. Estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected. Rankings based on 2017 figures ( CIA World Factbook – \"Togo\" )",
+            "label": "\" Terre de nos aïeux \" (English: \"Land of our ancestors\" )",
             "children": []
           }
         ]

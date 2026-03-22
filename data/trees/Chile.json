@@ -4,30 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Por la razón o la fuerza (\"By reason or by force\")",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Por la razón o la fuerza (\"By reason or by force\")",
-            "children": []
-          },
-          {
-            "label": "Anthem: Himno Nacional de Chile (\"National Anthem of Chile\")",
-            "children": []
-          },
-          {
-            "label": "Chilean territory in dark green; claimed but uncontrolled territory in light green",
-            "children": []
-          },
-          {
-            "label": "Magallanes and the Chilean Antarctica, and Aysén Region observes UTC−3 year-round.",
-            "children": []
-          },
-          {
-            "label": "^ Legislature is based in Valparaíso . ^ Includes Easter Island and Isla Salas y Gómez ; does not include 1,250,000 square kilometres (480,000 sq mi) of territory claimed in Antarctica.",
+            "label": "Himno Nacional de Chile (\"National Anthem of Chile\")",
             "children": []
           }
         ]

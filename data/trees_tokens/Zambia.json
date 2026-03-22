@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "One",
             "children": []
@@ -41,11 +21,15 @@
           {
             "label": "Nation",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "One Zambia, One Nation"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Stand",
             "children": []
@@ -77,46 +61,10 @@
           {
             "label": "Free",
             "children": []
-          },
-          {
-            "label": "Public",
-            "children": []
-          },
-          {
-            "label": "Seal",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"One Zambia, One Nation\"",
-          "Anthem: \" Stand and Sing of Zambia, Proud and Free \"",
-          "Public Seal",
-          "Show globe Show map of Africa"
+          "Stand and Sing of Zambia, Proud and Free"
         ]
       },
       {

@@ -4,24 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Royal",
-            "children": []
-          },
-          {
-            "label": "Arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Cheat",
             "children": []
@@ -49,11 +33,15 @@
           {
             "label": "King",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "ជាតិ សាសនា ព្រះមហាក្សត្រ Cheat, Sasna, Preah Mohaksat \"Nation, Religion, King\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Noko",
             "children": []
@@ -69,57 +57,10 @@
           {
             "label": "Kingdom",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "ASEAN",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Cambodia",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Southeast",
-            "children": []
-          },
-          {
-            "label": "Asia",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Royal Arms",
-          "Motto: ជាតិ សាសនា ព្រះមហាក្សត្រ Cheat, Sasna, Preah Mohaksat \"Nation, Religion, King\"",
-          "Anthem: នគររាជ Noko Reach \"Royal Kingdom\"",
-          "Show globe Show ASEAN Location of Cambodia (green) in Southeast Asia"
+          "នគររាជ Noko Reach \"Royal Kingdom\""
         ]
       },
       {

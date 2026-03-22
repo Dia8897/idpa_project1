@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: འབྲུག་ཙན་དན། Druk Tsenden \"The Thunder Dragon Kingdom\"",
-            "children": []
-          },
-          {
-            "label": "The population of Bhutan had been estimated based on the reported figure of about 1 million in the 1970s when the country had joined the United Nations and precise statistics were lacking. Thus, using the annual increase rate of 2–3%, the most population estimates were around 2 million in 2000. A national census was carried out in 2005 and it turned out that the population was 672,425. Consequently, United Nations Population Division reduced its estimation of the country's population in the 2006 revision for the whole period from 1950 to 2000.",
+            "label": "འབྲུག་ཙན་དན། Druk Tsenden \"The Thunder Dragon Kingdom\"",
             "children": []
           }
         ]

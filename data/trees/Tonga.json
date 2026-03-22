@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Ko e ʻOtua mo Tonga ko hoku tofiʻa \" \"God and Tonga are my inheritance",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \" Ko e ʻOtua mo Tonga ko hoku tofiʻa \" \"God and Tonga are my inheritance\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Ko e fasi ʻo e tuʻi ʻo e ʻOtu Tonga \" \"Song of the King of the Tonga Islands\"",
-            "children": []
-          },
-          {
-            "label": "Based on 2005 figures.",
+            "label": "Ko e fasi ʻo e tuʻi ʻo e ʻOtu Tonga \" \"Song of the King of the Tonga Islands",
             "children": []
           }
         ]

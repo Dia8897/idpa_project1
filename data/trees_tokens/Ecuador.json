@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Pro",
             "children": []
@@ -85,11 +65,15 @@
           {
             "label": "freedom",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Pro Deo, Patria et Libertate (Latin) Dios, patria y libertad (Spanish) \"Lord, homeland and freedom\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Salve",
             "children": []
@@ -121,86 +105,10 @@
           {
             "label": "Fatherland",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Ecuador",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "Ecuadorian",
-            "children": []
-          },
-          {
-            "label": "sucre",
-            "children": []
-          },
-          {
-            "label": "until",
-            "children": []
-          },
-          {
-            "label": "2000",
-            "children": []
-          },
-          {
-            "label": "replaced",
-            "children": []
-          },
-          {
-            "label": "by",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "US",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Ecuadorian",
-            "children": []
-          },
-          {
-            "label": "centavo",
-            "children": []
-          },
-          {
-            "label": "coins",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Pro Deo, Patria et Libertate (Latin) Dios, patria y libertad (Spanish) \"Lord, homeland and freedom\"",
-          "Anthem: Salve, Oh Patria (Spanish) English: \"Hail, Oh Fatherland\"",
-          "Location of Ecuador (dark green)",
-          "Ecuadorian sucre until 2000, replaced by the US dollar and Ecuadorian centavo coins ."
+          "Salve, Oh Patria (Spanish) English: \"Hail, Oh Fatherland\""
         ]
       },
       {

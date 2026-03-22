@@ -4,26 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Maamme (Finnish) Vårt land (Swedish) (English: \"Our Land\" )",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Europe Location of Finland (dark green) – in Europe (green & dark grey) – in the European Union (green) –",
-            "children": []
-          },
-          {
-            "label": "Website finland .fi",
-            "children": []
-          },
-          {
-            "label": "The .ax domain is used in Åland .",
+            "label": "Maamme (Finnish) Vårt land (Swedish) (English: \"Our Land\" )",
             "children": []
           }
         ]
@@ -59,7 +43,7 @@
         "label": "ethnic_groups",
         "children": [
           {
-            "label": "88.9% Finns [ note 1 ] 11.1% others",
+            "label": "88.9% Finns 11.1% others",
             "children": []
           }
         ]

@@ -4,34 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
-        "children": [
-          {
-            "label": "Geographical",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Micronesia",
-            "children": []
-          },
-          {
-            "label": "cropped",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Geographical map of Micronesia (cropped)"
-        ]
-      },
-      {
         "label": "total",
         "children": [
           {

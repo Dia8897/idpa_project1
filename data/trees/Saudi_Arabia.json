@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "لَا إِلهَ إِلَّا اللَّهُ، مُحَمَّدٌ رَسُولُ اللَّهِ Lā ʾilāha ʾillā llāh, Muhammadun rasūlu llāh ( Shahada ) \"There is no god but God ; Muhammad is the messenger of God \"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: لَا إِلهَ إِلَّا اللَّهُ، مُحَمَّدٌ رَسُولُ اللَّهِ Lā ʾilāha ʾillā llāh, Muhammadun rasūlu llāh ( Shahada ) \"There is no god but God ; Muhammad is the messenger of God \"",
-            "children": []
-          },
-          {
-            "label": "Anthem: النشيد الوطني السعودي an-Našīd al-Waṭaniyy as-Suʿūdiyy \"Chant of the Saudi Nation\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Saudi Arabia",
+            "label": "النشيد الوطني السعودي an-Našīd al-Waṭaniyy as-Suʿūdiyy \"Chant of the Saudi Nation\"",
             "children": []
           }
         ]

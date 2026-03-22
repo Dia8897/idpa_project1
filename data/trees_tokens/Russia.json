@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Gosudarstvennyy",
             "children": []
@@ -65,76 +45,10 @@
           {
             "label": "Federation",
             "children": []
-          },
-          {
-            "label": "Recognised",
-            "children": []
-          },
-          {
-            "label": "territory",
-            "children": []
-          },
-          {
-            "label": "Claimed",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "internationally",
-            "children": []
-          },
-          {
-            "label": "unrecognised",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "region",
-            "children": []
-          },
-          {
-            "label": "with",
-            "children": []
-          },
-          {
-            "label": "labels",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Anthem: Государственный гимн Российской Федерации Gosudarstvennyy gimn Rossiyskoy Federatsii \" State Anthem of the Russian Federation \"",
-          "Recognised territory Claimed but internationally unrecognised Show globe Show region with labels Show map of Europe"
+          "Государственный гимн Российской Федерации Gosudarstvennyy gimn Rossiyskoy Federatsii \" State Anthem of the Russian Federation \""
         ]
       },
       {

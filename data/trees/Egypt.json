@@ -4,14 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Bilady, Bilady, Bilady \"بلادي، بلادي، بلادي\" (English: My country, my country, my country )",
+            "label": "Bilady, Bilady, Bilady \"بلادي، بلادي، بلادي\" (English: My country, my country, my country )",
             "children": []
           }
         ]

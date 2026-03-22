@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Paix – Travail – Patrie\" ( French ) \"Peace – Work – Fatherland",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Paix – Travail – Patrie\" ( French ) \"Peace – Work – Fatherland\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \"Chant de Ralliement\" (French) \" Rallying Song \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          },
-          {
-            "label": "These are the titles as given in the Constitution of the Republic of Cameroon , Article X ( English at the Wayback Machine (archived 28 February 2006) and French at the Wayback Machine (archived 28 February 2006) versions). 18 January 1996. The French version of the song is sometimes called Chant de Ralliement , as in Swarovski Orchestra (2004). National Anthems of the World . Koch International Classics; and the English version \"O Cameroon, Cradle of Our Forefathers\", as in DeLancey and DeLancey 61.",
+            "label": "Chant de Ralliement\" (French) \" Rallying Song",
             "children": []
           }
         ]

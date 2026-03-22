@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "En",
             "children": []
@@ -61,11 +41,15 @@
           {
             "label": "Freedom",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "En unión y libertad \"In Union and Freedom\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Himno",
             "children": []
@@ -89,231 +73,10 @@
           {
             "label": "Anthem",
             "children": []
-          },
-          {
-            "label": "Sol",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "Mayo",
-            "children": []
-          },
-          {
-            "label": "Sun",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Argentina",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Argentina",
-            "children": []
-          },
-          {
-            "label": "Though",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "declared",
-            "children": []
-          },
-          {
-            "label": "official",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "jure",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "language",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "only",
-            "children": []
-          },
-          {
-            "label": "one",
-            "children": []
-          },
-          {
-            "label": "used",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "wording",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "laws",
-            "children": []
-          },
-          {
-            "label": "decrees",
-            "children": []
-          },
-          {
-            "label": "resolutions",
-            "children": []
-          },
-          {
-            "label": "official",
-            "children": []
-          },
-          {
-            "label": "documents",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "public",
-            "children": []
-          },
-          {
-            "label": "acts",
-            "children": []
-          },
-          {
-            "label": "thus",
-            "children": []
-          },
-          {
-            "label": "making",
-            "children": []
-          },
-          {
-            "label": "it",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "facto",
-            "children": []
-          },
-          {
-            "label": "official",
-            "children": []
-          },
-          {
-            "label": "language",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: En unión y libertad \"In Union and Freedom\"",
-          "Anthem: Himno Nacional Argentino \"Argentine National Anthem\"",
-          "Sol de Mayo \"Sun of May\"",
-          "Location of Argentina Territory claimed but not controlled Show globe Show map of Argentina",
-          "^ Though not declared official de jure , the Spanish language is the only one used in the wording of laws, decrees, resolutions, official documents and public acts thus making it the de facto official language."
+          "Himno Nacional Argentino \"Argentine National Anthem\""
         ]
       },
       {

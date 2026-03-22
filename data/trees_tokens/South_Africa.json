@@ -232,28 +232,8 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "ke",
             "children": []
@@ -285,11 +265,15 @@
           {
             "label": "diversity",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "ǃke e: ǀxarra ǁke \" ( ǀXam ) \" Unity in diversity"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "National",
             "children": []
@@ -309,41 +293,10 @@
           {
             "label": "Africa",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \" ǃke e: ǀxarra ǁke \" ( ǀXam ) \" Unity in diversity \"",
-          "Anthem: \" National Anthem of South Africa \"",
-          "Show globe Show map of South Africa"
+          "National Anthem of South Africa"
         ]
       },
       {

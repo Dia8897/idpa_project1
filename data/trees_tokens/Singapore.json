@@ -4,29 +4,9 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
-          {
             "label": "Majulah",
             "children": []
           },
@@ -44,82 +24,39 @@
           },
           {
             "label": "Singapore",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "Majulah",
-            "children": []
-          },
-          {
-            "label": "Singapura",
-            "children": []
-          },
-          {
-            "label": "Malay",
-            "children": []
-          },
-          {
-            "label": "Onward",
-            "children": []
-          },
-          {
-            "label": "Singapore",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "ASEAN",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Singapore",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Southeast",
-            "children": []
-          },
-          {
-            "label": "Asia",
             "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Majulah Singapura ( Malay ) \"Onward Singapore\"",
-          "Anthem: Majulah Singapura ( Malay ) \"Onward Singapore\"",
-          "Show globe Show ASEAN Location of Singapore (green) in Southeast Asia"
+          "Majulah Singapura ( Malay ) \"Onward Singapore\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
+          {
+            "label": "Majulah",
+            "children": []
+          },
+          {
+            "label": "Singapura",
+            "children": []
+          },
+          {
+            "label": "Malay",
+            "children": []
+          },
+          {
+            "label": "Onward",
+            "children": []
+          },
+          {
+            "label": "Singapore",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Majulah Singapura ( Malay ) \"Onward Singapore\""
         ]
       },
       {

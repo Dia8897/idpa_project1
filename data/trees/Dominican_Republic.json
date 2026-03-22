@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Dios, Patria, Libertad\" (Spanish) \"God, Homeland, Freedom",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Dios, Patria, Libertad\" (Spanish) \"God, Homeland, Freedom\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Quisqueyanos valientes Valiant Quisqueyans",
-            "children": []
-          },
-          {
-            "label": "Sources for area, capital, coat of arms, coordinates, flag, language, motto and names: For an alternate area figure of 48,730 km 2 (18,810 sq mi), calling code 809 and Internet TLD:",
+            "label": "Quisqueyanos valientes Valiant Quisqueyans",
             "children": []
           }
         ]

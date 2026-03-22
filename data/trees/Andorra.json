@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Virtus Unita Fortior ( Latin ) \"United virtue is stronger\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Virtus Unita Fortior ( Latin ) \"United virtue is stronger\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" El Gran Carlemany \" \"The Great Charlemagne \"",
-            "children": []
-          },
-          {
-            "label": "Location of Andorra (centre of green circle) in Europe (dark grey)",
+            "label": "El Gran Carlemany \" \"The Great Charlemagne",
             "children": []
           }
         ]

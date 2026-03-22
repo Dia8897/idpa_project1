@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Unidade",
             "children": []
@@ -41,11 +29,15 @@
           {
             "label": "Progress",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Unidade, Luta, Progresso \"Unity, Struggle, Progress\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Esta",
             "children": []
@@ -89,81 +81,10 @@
           {
             "label": "Homeland",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Guinea",
-            "children": []
-          },
-          {
-            "label": "Bissau",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Guinea",
-            "children": []
-          },
-          {
-            "label": "Bissau",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: Unidade, Luta, Progresso \"Unity, Struggle, Progress\"",
-          "Anthem: Esta É a Nossa Pátria Amada \"This Is Our Beloved Homeland\"",
-          "Show globe Show map of Africa Show map of Guinea-Bissau Location of Guinea-Bissau in Africa"
+          "Esta É a Nossa Pátria Amada \"This Is Our Beloved Homeland\""
         ]
       },
       {

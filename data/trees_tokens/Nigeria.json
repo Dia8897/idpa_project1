@@ -120,28 +120,8 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Unity",
             "children": []
@@ -165,11 +145,15 @@
           {
             "label": "Progress",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Unity and Faith, Peace and Progress"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Nigeria",
             "children": []
@@ -185,37 +169,10 @@
           {
             "label": "Thee",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Unity and Faith, Peace and Progress\"",
-          "Anthem: \" Nigeria, We Hail Thee \"",
-          "Show globe Show map of Africa"
+          "Nigeria, We Hail Thee"
         ]
       },
       {

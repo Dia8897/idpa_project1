@@ -4,68 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
-          {
-            "label": "Tuvalu",
-            "children": []
-          },
-          {
-            "label": "mo",
-            "children": []
-          },
-          {
-            "label": "te",
-            "children": []
-          },
-          {
-            "label": "Atua",
-            "children": []
-          },
-          {
-            "label": "Tuvaluan",
-            "children": []
-          },
-          {
-            "label": "Tuvalu",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Almighty",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Tuvalu",
             "children": []
@@ -104,9 +44,51 @@
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Tuvalu mo te Atua ( Tuvaluan ) \"Tuvalu for the Almighty\"",
-          "Anthem: Tuvalu mo te Atua ( Tuvaluan ) \"Tuvalu for the Almighty\""
+          "Tuvalu mo te Atua ( Tuvaluan ) \"Tuvalu for the Almighty\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
+          {
+            "label": "Tuvalu",
+            "children": []
+          },
+          {
+            "label": "mo",
+            "children": []
+          },
+          {
+            "label": "te",
+            "children": []
+          },
+          {
+            "label": "Atua",
+            "children": []
+          },
+          {
+            "label": "Tuvaluan",
+            "children": []
+          },
+          {
+            "label": "Tuvalu",
+            "children": []
+          },
+          {
+            "label": "for",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "Almighty",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Tuvalu mo te Atua ( Tuvaluan ) \"Tuvalu for the Almighty\""
         ]
       },
       {

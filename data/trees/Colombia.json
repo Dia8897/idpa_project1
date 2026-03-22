@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Libertad y Orden\" (Spanish) \"Freedom and Order",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Libertad y Orden\" (Spanish) \"Freedom and Order\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Himno Nacional de la República de Colombia (Spanish) \"National Anthem of the Republic of Colombia\"",
-            "children": []
-          },
-          {
-            "label": "Location of Colombia (dark green)",
-            "children": []
-          },
-          {
-            "label": "^ Although the Colombian Constitution specifies Spanish ( Castellano ) as the official language in all Colombian territory, other languages spoken in the country by ethnic groups – approximately 68 languages – each is also official in its territory. English is also official in the archipelago of San Andrés, Providencia and Santa Catalina . ^ The official Colombian time is controlled and coordinated by the National Institute of Metrology.",
+            "label": "Himno Nacional de la República de Colombia (Spanish) \"National Anthem of the Republic of Colombia\"",
             "children": []
           }
         ]

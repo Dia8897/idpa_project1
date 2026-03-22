@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Siyinqaba",
             "children": []
@@ -97,11 +77,15 @@
           {
             "label": "ones",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Siyinqaba\" ( Swazi ) \"We are a fortress\" \"We are a mystery\" \"We hide ourselves away\" \"We are powerful ones"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Nkulunkulu",
             "children": []
@@ -149,54 +133,10 @@
           {
             "label": "Swazi",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Website",
-            "children": []
-          },
-          {
-            "label": "www",
-            "children": []
-          },
-          {
-            "label": "gov",
-            "children": []
-          },
-          {
-            "label": "sz",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Siyinqaba\" ( Swazi ) \"We are a fortress\" \"We are a mystery\" \"We hide ourselves away\" \"We are powerful ones\"",
-          "Anthem: \" Nkulunkulu Mnikati wetibusiso temaSwati \" \"Oh God, Giver of Blessings to the Swazi\"",
-          "Show globe Show map of Africa",
-          "Website www .gov .sz"
+          "Nkulunkulu Mnikati wetibusiso temaSwati \" \"Oh God, Giver of Blessings to the Swazi"
         ]
       },
       {

@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag",
+            "label": "\" Liberté, égalité, fraternité \" Liberty, equality, fraternity",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \" Liberté, égalité, fraternité \" Liberty, equality, fraternity",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" La Marseillaise \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Metropolitan France (European part of France) in Europe Metropolitan France and its neighbours Show France, its overseas territories and its exclusive economic zones Labelled map",
+            "label": "La Marseillaise",
             "children": []
           }
         ]

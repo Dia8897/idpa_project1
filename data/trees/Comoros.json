@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Seal",
+            "label": "Unité – Solidarité – Développement\" ( French ) وحدة، تضامن، تنمية ( Arabic ) \"Unity – Solidarity – Development",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Unité – Solidarité – Développement\" ( French ) وحدة، تضامن، تنمية ( Arabic ) \"Unity – Solidarity – Development\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Umodja wa Massiwa (Comorian) The Union of the Islands",
-            "children": []
-          },
-          {
-            "label": "Location of the Comoros (circled)",
+            "label": "Umodja wa Massiwa (Comorian) The Union of the Islands",
             "children": []
           }
         ]

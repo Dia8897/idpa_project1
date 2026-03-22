@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "c",
             "children": []
@@ -65,17 +53,29 @@
           {
             "label": "Happiness",
             "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Độc lập – Tự do – Hạnh phúc \"Independence – Freedom – Happiness\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Anthem",
+            "label": "Ti",
             "children": []
           },
           {
-            "label": "Tin",
+            "label": "n",
             "children": []
           },
           {
-            "label": "qun",
+            "label": "qu",
+            "children": []
+          },
+          {
+            "label": "n",
             "children": []
           },
           {
@@ -105,57 +105,10 @@
           {
             "label": "Troops",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "ASEAN",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Vietnam",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Southeast",
-            "children": []
-          },
-          {
-            "label": "Asia",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: Độc lập – Tự do – Hạnh phúc \"Independence – Freedom – Happiness\"",
-          "Anthem: Tin qun ca \"The Song of the Marching Troops\"",
-          "Show globe Show ASEAN Location of Vietnam (green) in Southeast Asia"
+          "Tiến quân ca \"The Song of the Marching Troops\""
         ]
       },
       {
@@ -606,12 +559,16 @@
             "children": []
           },
           {
-            "label": "Lm",
+            "label": "L",
+            "children": []
+          },
+          {
+            "label": "m",
             "children": []
           }
         ],
         "raw_values": [
-          "T Lm"
+          "Tô Lâm"
         ]
       },
       {
@@ -731,7 +688,7 @@
         ]
       },
       {
-        "label": "u_lc",
+        "label": "u_lac",
         "children": [
           {
             "label": "3rd",

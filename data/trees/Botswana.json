@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Pula \"Rain\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Pula \"Rain\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Fatshe leno la rona \" \"This Land of Ours\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "Fatshe leno la rona \" \"This Land of Ours",
             "children": []
           }
         ]

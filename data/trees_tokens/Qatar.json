@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "All",
             "children": []
@@ -57,11 +45,15 @@
           {
             "label": "Emir",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "الله، الوطن، الأمير Allāh, al-Waṭan, al-Amir \" God , Nation, Emir \""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "As",
             "children": []
@@ -101,57 +93,10 @@
           {
             "label": "Emir",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "extent",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Qatar",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "on",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Arabian",
-            "children": []
-          },
-          {
-            "label": "Peninsula",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: الله، الوطن، الأمير Allāh, al-Waṭan, al-Amir \" God , Nation, Emir \"",
-          "Anthem: السلام الأميري As-Salām al-Amīrī \"Peace to the Emir\"",
-          "Location and extent of Qatar (dark green) on the Arabian Peninsula"
+          "السلام الأميري As-Salām al-Amīrī \"Peace to the Emir\""
         ]
       },
       {

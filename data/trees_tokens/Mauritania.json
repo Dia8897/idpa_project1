@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Seal",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Honour",
             "children": []
@@ -29,11 +17,15 @@
           {
             "label": "Justice",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "شرف، إخاء، عدل \"Honour, Fraternity, Justice\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "National",
             "children": []
@@ -49,122 +41,10 @@
           {
             "label": "Mauritania",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "According",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "Article",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Constitution",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "national",
-            "children": []
-          },
-          {
-            "label": "languages",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "Arabic",
-            "children": []
-          },
-          {
-            "label": "Pulaar",
-            "children": []
-          },
-          {
-            "label": "Soninke",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Wolof",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "official",
-            "children": []
-          },
-          {
-            "label": "language",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "Arabic",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Seal",
-          "Motto: شرف، إخاء، عدل \"Honour, Fraternity, Justice\"",
-          "Anthem: النشيد الوطني الموريتاني \" National Anthem of Mauritania \"",
-          "Show globe Show map of Africa",
-          "According to Article 6 of the Constitution: \"The national languages are Arabic, Pulaar , Soninke , and Wolof ; the official language is Arabic.\""
+          "النشيد الوطني الموريتاني \" National Anthem of Mauritania \""
         ]
       },
       {

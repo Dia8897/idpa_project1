@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Pro",
             "children": []
@@ -65,11 +45,15 @@
           {
             "label": "World",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Pro Mundi Beneficio ( Latin ) \"For the Benefit of the World\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Himno",
             "children": []
@@ -101,49 +85,10 @@
           {
             "label": "Isthmus",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Western",
-            "children": []
-          },
-          {
-            "label": "Hemisphere",
-            "children": []
-          },
-          {
-            "label": "Panama",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "its",
-            "children": []
-          },
-          {
-            "label": "neighbors",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Pro Mundi Beneficio ( Latin ) \"For the Benefit of the World\"",
-          "Anthem: Himno Istmeño (Spanish) \"Hymn of the Isthmus\"",
-          "Location in the Western Hemisphere Panama and its neighbors"
+          "Himno Istmeño (Spanish) \"Hymn of the Isthmus\""
         ]
       },
       {

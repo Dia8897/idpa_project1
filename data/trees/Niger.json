@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Fraternité, Travail, Progrès\" ( French ) \"Fraternity, Work, Progress",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Fraternité, Travail, Progrès\" ( French ) \"Fraternity, Work, Progress\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: L'Honneur de la Patrie (French) \"The Honour of the Fatherland\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "L'Honneur de la Patrie (French) \"The Honour of the Fatherland\"",
             "children": []
           }
         ]

@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "English",
             "children": []
@@ -41,93 +21,10 @@
           {
             "label": "Liberty",
             "children": []
-          },
-          {
-            "label": "Cyprus",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
-          },
-          {
-            "label": "Northern",
-            "children": []
-          },
-          {
-            "label": "Cyprus",
-            "children": []
-          },
-          {
-            "label": "Rest",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "European",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "administered",
-            "children": []
-          },
-          {
-            "label": "by",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Cyprus",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Anthem: Ὕμνος εἰς τὴν Ἐλευθερίαν (English: \" Hymn to Liberty \")",
-          "Cyprus Territory claimed but not controlled (Northern Cyprus) Rest of the European Union",
-          "Territory administered by the Republic of Cyprus"
+          "Ὕμνος εἰς τὴν Ἐλευθερίαν (English: \" Hymn to Liberty \")"
         ]
       },
       {

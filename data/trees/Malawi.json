@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Unity and Freedom",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Unity and Freedom\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Mulungu dalitsani Malaŵi \"O God Bless Our Land of Malawi\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa Location of Malawi (dark green) in southeast Africa",
-            "children": []
-          },
-          {
-            "label": "* Population estimates for this country explicitly take into account the effects of excess mortality due to AIDS ; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected. Information is drawn from the CIA World Factbook unless otherwise noted.",
+            "label": "Mulungu dalitsani Malaŵi \"O God Bless Our Land of Malawi\"",
             "children": []
           }
         ]

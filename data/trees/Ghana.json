@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Freedom and Justice",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Freedom and Justice\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" God Bless Our Homeland Ghana \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "God Bless Our Homeland Ghana",
             "children": []
           }
         ]

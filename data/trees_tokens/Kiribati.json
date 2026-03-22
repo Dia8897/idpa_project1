@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Te",
             "children": []
@@ -73,11 +53,15 @@
           {
             "label": "Prosperity",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Te Mauri, te Raoi ao te Tabomoa (Gilbertese) \"Health, Peace, and Prosperity\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Kunan",
             "children": []
@@ -104,9 +88,7 @@
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Te Mauri, te Raoi ao te Tabomoa (Gilbertese) \"Health, Peace, and Prosperity\"",
-          "Anthem: Kunan Kiribati (Gilbertese) \"Song of Kiribati\""
+          "Kunan Kiribati (Gilbertese) \"Song of Kiribati\""
         ]
       },
       {

@@ -4,60 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Constituent",
-            "children": []
-          },
-          {
-            "label": "part",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Kingdom",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Denmark",
-            "children": []
-          },
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Forbundne",
             "children": []
@@ -105,11 +53,15 @@
           {
             "label": "Denmark",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Forbundne, forpligtet, for kongeriget Danmark (United, committed, for the Kingdom of Denmark)"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Der",
             "children": []
@@ -157,15 +109,15 @@
           {
             "label": "country",
             "children": []
-          },
-          {
-            "label": "Royal",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Der er et yndigt land ( Danish ) (English: \"There is a lovely country\" )"
+        ]
+      },
+      {
+        "label": "royal_anthem",
+        "children": [
           {
             "label": "Kong",
             "children": []
@@ -199,14 +151,6 @@
             "children": []
           },
           {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
             "label": "English",
             "children": []
           },
@@ -237,111 +181,10 @@
           {
             "label": "mast",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "metropolitan",
-            "children": []
-          },
-          {
-            "label": "Denmark",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "light",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "European",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "light",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
           }
         ],
         "raw_values": [
-          "Constituent part of the Kingdom of Denmark",
-          "Flag National coat of arms",
-          "Motto : Forbundne, forpligtet, for kongeriget Danmark (United, committed, for the Kingdom of Denmark)",
-          "Anthem : Der er et yndigt land ( Danish ) (English: \"There is a lovely country\" )",
-          "Royal Anthem : Kong Christian stod ved højen mast ( Danish ) [ N 1 ] (English: \"King Christian stood by the lofty mast\" )",
-          "Show globe Show map of Europe Location of metropolitan Denmark (dark green) – in Europe (light green & dark grey) – in the European Union (light green)"
+          "Kong Christian stod ved højen mast ( Danish ) (English: \"King Christian stood by the lofty mast\" )"
         ]
       },
       {
@@ -498,18 +341,10 @@
           {
             "label": "German",
             "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
           }
         ],
         "raw_values": [
-          "German [ N 2 ]"
+          "German"
         ]
       },
       {
@@ -732,14 +567,6 @@
             "children": []
           },
           {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
             "label": "52nd",
             "children": []
           },
@@ -756,22 +583,14 @@
             "children": []
           },
           {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
             "label": "35th",
             "children": []
           }
         ],
         "raw_values": [
           "43,094 km 2 (16,639 sq mi) ( 130th )",
-          "$533.752 billion [ N 3 ] ( 52nd )",
-          "$449.940 billion [ N 3 ] ( 35th )"
+          "$533.752 billion ( 52nd )",
+          "$449.940 billion ( 35th )"
         ]
       },
       {
@@ -838,20 +657,12 @@
             "children": []
           },
           {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
             "label": "112th",
             "children": []
           }
         ],
         "raw_values": [
-          "6,001,008 [ N 3 ] ( 112th )"
+          "6,001,008 ( 112th )"
         ]
       },
       {
@@ -1117,18 +928,10 @@
           {
             "label": "dk",
             "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
           }
         ],
         "raw_values": [
-          ".dk [ N 4 ]"
+          ".dk"
         ]
       }
     ]

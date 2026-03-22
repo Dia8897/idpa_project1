@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Uhuru",
             "children": []
@@ -49,11 +29,15 @@
           {
             "label": "Unity",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Uhuru na Umoja\" \"Freedom and Unity"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Mungu",
             "children": []
@@ -77,37 +61,10 @@
           {
             "label": "Africa",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Uhuru na Umoja\" \"Freedom and Unity\"",
-          "Anthem: \" Mungu ibariki Afrika \" \"God bless Africa\"",
-          "Show globe Show map of Africa"
+          "Mungu ibariki Afrika \" \"God bless Africa"
         ]
       },
       {

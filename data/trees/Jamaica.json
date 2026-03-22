@@ -4,18 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Out of Many, One People",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \" Out of Many, One People \"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Jamaica, Land We Love \"",
+            "label": "Jamaica, Land We Love",
             "children": []
           }
         ]

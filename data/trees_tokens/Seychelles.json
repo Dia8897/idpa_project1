@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Finis",
             "children": []
@@ -61,11 +41,15 @@
           {
             "label": "Work",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Finis Coronat Opus ( Latin ) \"The End Crowns the Work\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Koste",
             "children": []
@@ -89,81 +73,10 @@
           {
             "label": "Seychellois",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Seychelles",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "blue",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "light",
-            "children": []
-          },
-          {
-            "label": "blue",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "light",
-            "children": []
-          },
-          {
-            "label": "blue",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Finis Coronat Opus ( Latin ) \"The End Crowns the Work\"",
-          "Anthem: Koste Seselwa (Seychellois Creole) \"Unite Seychellois\"",
-          "Location of Seychelles (dark blue) – in Africa (light blue & dark grey) – in the African Union (light blue)"
+          "Koste Seselwa (Seychellois Creole) \"Unite Seychellois\""
         ]
       },
       {

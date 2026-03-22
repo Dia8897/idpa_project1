@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "To",
             "children": []
@@ -45,11 +25,15 @@
           {
             "label": "Serve",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "To Lead is to Serve"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "God",
             "children": []
@@ -72,9 +56,7 @@
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"To Lead is to Serve\"",
-          "Anthem: \" God Save Our Solomon Islands \""
+          "God Save Our Solomon Islands"
         ]
       },
       {

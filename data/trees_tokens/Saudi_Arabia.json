@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "L",
             "children": []
@@ -113,11 +101,15 @@
           {
             "label": "God",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "لَا إِلهَ إِلَّا اللَّهُ، مُحَمَّدٌ رَسُولُ اللَّهِ Lā ʾilāha ʾillā llāh, Muhammadun rasūlu llāh ( Shahada ) \"There is no god but God ; Muhammad is the messenger of God \""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "an",
             "children": []
@@ -173,41 +165,10 @@
           {
             "label": "Nation",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Saudi",
-            "children": []
-          },
-          {
-            "label": "Arabia",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: لَا إِلهَ إِلَّا اللَّهُ، مُحَمَّدٌ رَسُولُ اللَّهِ Lā ʾilāha ʾillā llāh, Muhammadun rasūlu llāh ( Shahada ) \"There is no god but God ; Muhammad is the messenger of God \"",
-          "Anthem: النشيد الوطني السعودي an-Našīd al-Waṭaniyy as-Suʿūdiyy \"Chant of the Saudi Nation\"",
-          "Show globe Show map of Saudi Arabia"
+          "النشيد الوطني السعودي an-Našīd al-Waṭaniyy as-Suʿūdiyy \"Chant of the Saudi Nation\""
         ]
       },
       {

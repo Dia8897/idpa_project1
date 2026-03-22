@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Finis Coronat Opus ( Latin ) \"The End Crowns the Work\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Finis Coronat Opus ( Latin ) \"The End Crowns the Work\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Koste Seselwa (Seychellois Creole) \"Unite Seychellois\"",
-            "children": []
-          },
-          {
-            "label": "Location of Seychelles (dark blue) – in Africa (light blue & dark grey) – in the African Union (light blue)",
+            "label": "Koste Seselwa (Seychellois Creole) \"Unite Seychellois\"",
             "children": []
           }
         ]

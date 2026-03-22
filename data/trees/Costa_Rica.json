@@ -4,18 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "¡Vivan siempre el trabajo y la paz!\" ( Spanish ) \"May work and peace always live!",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"¡Vivan siempre el trabajo y la paz!\" ( Spanish ) \"May work and peace always live!\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Himno Nacional de Costa Rica \"National Anthem of Costa Rica\"",
+            "label": "Himno Nacional de Costa Rica \"National Anthem of Costa Rica\"",
             "children": []
           }
         ]

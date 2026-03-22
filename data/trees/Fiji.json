@@ -4,18 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Rerevaka na Kalou ka Doka na Tui\" (Fijian) \"Fear God and honour the King",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Rerevaka na Kalou ka Doka na Tui\" (Fijian) \"Fear God and honour the King\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" God Bless Fiji \"",
+            "label": "God Bless Fiji",
             "children": []
           }
         ]

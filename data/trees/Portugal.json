@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" A Portuguesa \" ( Portuguese ) \"The Portuguese\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of the European Union Location of Portugal Portugal within the European Union",
+            "label": "A Portuguesa \" ( Portuguese ) \"The Portuguese",
             "children": []
           }
         ]

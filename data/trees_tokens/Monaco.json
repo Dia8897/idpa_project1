@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Deo",
             "children": []
@@ -57,11 +37,15 @@
           {
             "label": "Help",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "\" Deo Juvante \" ( Latin ) (English: \"With God's Help\" )"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Inu",
             "children": []
@@ -85,130 +69,10 @@
           {
             "label": "Hymn",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Monaco",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
-          },
-          {
-            "label": "Government",
-            "children": []
-          },
-          {
-            "label": "offices",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "located",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Monaco",
-            "children": []
-          },
-          {
-            "label": "Ville",
-            "children": []
-          },
-          {
-            "label": "quarter",
-            "children": []
-          },
-          {
-            "label": "GDP",
-            "children": []
-          },
-          {
-            "label": "per",
-            "children": []
-          },
-          {
-            "label": "capita",
-            "children": []
-          },
-          {
-            "label": "calculations",
-            "children": []
-          },
-          {
-            "label": "include",
-            "children": []
-          },
-          {
-            "label": "non",
-            "children": []
-          },
-          {
-            "label": "resident",
-            "children": []
-          },
-          {
-            "label": "workers",
-            "children": []
-          },
-          {
-            "label": "from",
-            "children": []
-          },
-          {
-            "label": "France",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Italy",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \" Deo Juvante \" ( Latin ) (English: \"With God's Help\" )",
-          "Anthem: \" Inu Munegascu \" (English: \"Monégasque Hymn\" )",
-          "Location of Monaco (green) in Europe (dark grey)",
-          "^ Government offices are located in the Monaco-Ville quarter. ^ GDP per capita calculations include non-resident workers from France and Italy."
+          "\" Inu Munegascu \" (English: \"Monégasque Hymn\" )"
         ]
       },
       {

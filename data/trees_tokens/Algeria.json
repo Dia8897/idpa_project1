@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Bi",
             "children": []
@@ -81,11 +69,15 @@
           {
             "label": "people",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "بِالشَّعْبِ و لِلشَّعْبِ Bi-sh-shaʿb wa li-sh-shaʿb \"By the people and for the people\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Qasaman",
             "children": []
@@ -100,9 +92,7 @@
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: بِالشَّعْبِ و لِلشَّعْبِ Bi-sh-shaʿb wa li-sh-shaʿb \"By the people and for the people\"",
-          "Anthem: قَسَمًا Qasaman \"We Pledge\""
+          "قَسَمًا Qasaman \"We Pledge\""
         ]
       },
       {

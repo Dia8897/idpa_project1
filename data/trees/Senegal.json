@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "\"Un peuple, un but, une foi\" (French) \"Wenn Askan, Benn Jubluwaay, Benn Pas-Pas\" (Wolof) (English: \"One People, One Goal, One Faith\" )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Un peuple, un but, une foi\" (French) \"Wenn Askan, Benn Jubluwaay, Benn Pas-Pas\" (Wolof) (English: \"One People, One Goal, One Faith\" )",
-            "children": []
-          },
-          {
-            "label": "Anthem: Le Lion rouge (English: \"The Red Lion\" )",
-            "children": []
-          },
-          {
-            "label": "Location of Senegal (dark green)",
+            "label": "Le Lion rouge (English: \"The Red Lion\" )",
             "children": []
           }
         ]

@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Dzala",
             "children": []
@@ -49,11 +29,15 @@
           {
             "label": "Unity",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "ძალა ერთობაშია Dzala ertobashia \"Strength is in Unity\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Tavisupleba",
             "children": []
@@ -61,90 +45,10 @@
           {
             "label": "Freedom",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "jure",
-            "children": []
-          },
-          {
-            "label": "borders",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Georgia",
-            "children": []
-          },
-          {
-            "label": "Russian",
-            "children": []
-          },
-          {
-            "label": "occupied",
-            "children": []
-          },
-          {
-            "label": "territories",
-            "children": []
-          },
-          {
-            "label": "Not",
-            "children": []
-          },
-          {
-            "label": "including",
-            "children": []
-          },
-          {
-            "label": "occupied",
-            "children": []
-          },
-          {
-            "label": "territories",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: ძალა ერთობაშია Dzala ertobashia \"Strength is in Unity\"",
-          "Anthem: თავისუფლება Tavisupleba \"Freedom\"",
-          "Show globe Show map of Europe ( de jure borders) Location of Georgia Russian-occupied territories",
-          "^ Not including occupied territories"
+          "თავისუფლება Tavisupleba \"Freedom\""
         ]
       },
       {

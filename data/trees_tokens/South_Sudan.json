@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Justice",
             "children": []
@@ -37,11 +17,15 @@
           {
             "label": "Prosperity",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Justice, Liberty, Prosperity"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "South",
             "children": []
@@ -53,82 +37,10 @@
           {
             "label": "Oyee",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "Sudan",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
-          },
-          {
-            "label": "Registered",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "operational",
-            "children": []
-          },
-          {
-            "label": "since",
-            "children": []
-          },
-          {
-            "label": "2019",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Justice, Liberty, Prosperity\"",
-          "Anthem: \" South Sudan, Oyee! \"",
-          "Location of the Republic of South Sudan Territory claimed but not controlled",
-          "^ Registered and operational since 2019"
+          "South Sudan, Oyee!"
         ]
       },
       {
@@ -305,18 +217,10 @@
           {
             "label": "languages",
             "children": []
-          },
-          {
-            "label": "note",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
           }
         ],
         "raw_values": [
-          "Dinka Nuer Bari Murle Luo (Anyuak, Acholi, Shilluk, Pari, Jur-Luo, others) Ma'di Otuho Zande and around 60 other languages [ note 1 ]"
+          "Dinka Nuer Bari Murle Luo (Anyuak, Acholi, Shilluk, Pari, Jur-Luo, others) Ma'di Otuho Zande and around 60 other languages"
         ]
       },
       {

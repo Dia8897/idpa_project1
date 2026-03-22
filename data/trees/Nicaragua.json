@@ -4,22 +4,28 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "En Dios confiamos ( Spanish ) \" In God We Trust \"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: En Dios confiamos ( Spanish ) \" In God We Trust \"",
+            "label": "Salve a ti, Nicaragua \"Hail to Thee, Nicaragua\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "dual_flag",
+        "children": [
           {
-            "label": "Anthem: Salve a ti, Nicaragua \"Hail to Thee, Nicaragua\"",
-            "children": []
-          },
-          {
-            "label": "Dual flag: Rojinegra",
+            "label": "Rojinegra",
             "children": []
           }
         ]

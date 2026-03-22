@@ -4,24 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "State",
-            "children": []
-          },
-          {
-            "label": "Seal",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Kaba",
             "children": []
@@ -57,56 +41,10 @@
           {
             "label": "World",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "ASEAN",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Myanmar",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Southeast",
-            "children": []
-          },
-          {
-            "label": "Asia",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag State Seal",
-          "Anthem: ကမ္ဘာမကျေ Kaba Ma Kyei \"Till the End of the World\"",
-          "Show globe Show ASEAN Location of Myanmar (green) in Southeast Asia"
+          "ကမ္ဘာမကျေ Kaba Ma Kyei \"Till the End of the World\""
         ]
       },
       {

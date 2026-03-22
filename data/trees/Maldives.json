@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "الدولة المحلديبية ( Arabic ) Ad-Dawlat Al-Mahaldibiyyat",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: الدولة المحلديبية ( Arabic ) Ad-Dawlat Al-Mahaldibiyyat",
-            "children": []
-          },
-          {
-            "label": "Anthem: ޤައުމީ ސަލާމް \" Gaumee Salaam \" \"National Salute\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Maldives",
+            "label": "ޤައުމީ ސަލާމް \" Gaumee Salaam \" \"National Salute\"",
             "children": []
           }
         ]

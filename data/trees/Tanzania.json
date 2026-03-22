@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Uhuru na Umoja\" \"Freedom and Unity",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Uhuru na Umoja\" \"Freedom and Unity\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Mungu ibariki Afrika \" \"God bless Africa\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "Mungu ibariki Afrika \" \"God bless Africa",
             "children": []
           }
         ]

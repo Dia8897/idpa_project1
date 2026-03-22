@@ -4,22 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Dievs, svētī Latviju (Latvian) (\"God Bless Latvia\")",
-            "children": []
-          },
-          {
-            "label": "Location of Latvia (dark green) – in Europe (green & dark grey) – in the European Union (green) –",
-            "children": []
-          },
-          {
-            "label": "Latvian is the sole official language. Livonian is considered an indigenous language and has special legal status. Latgalian written language and Latvian Sign Language also have special legal status. Latvia is de jure continuous with its declaration of 18 November 1918.",
+            "label": "Dievs, svētī Latviju (Latvian) (\"God Bless Latvia\")",
             "children": []
           }
         ]

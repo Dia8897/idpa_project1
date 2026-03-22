@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Harambee",
             "children": []
@@ -53,11 +33,15 @@
           {
             "label": "together",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "\" Harambee \" (English: \"Let us all pull together\" )"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Ee",
             "children": []
@@ -97,250 +81,10 @@
           {
             "label": "Creation",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "According",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "CIA",
-            "children": []
-          },
-          {
-            "label": "estimates",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "this",
-            "children": []
-          },
-          {
-            "label": "country",
-            "children": []
-          },
-          {
-            "label": "explicitly",
-            "children": []
-          },
-          {
-            "label": "take",
-            "children": []
-          },
-          {
-            "label": "into",
-            "children": []
-          },
-          {
-            "label": "account",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "effects",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "mortality",
-            "children": []
-          },
-          {
-            "label": "because",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "AIDS",
-            "children": []
-          },
-          {
-            "label": "this",
-            "children": []
-          },
-          {
-            "label": "can",
-            "children": []
-          },
-          {
-            "label": "result",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "lower",
-            "children": []
-          },
-          {
-            "label": "life",
-            "children": []
-          },
-          {
-            "label": "expectancy",
-            "children": []
-          },
-          {
-            "label": "higher",
-            "children": []
-          },
-          {
-            "label": "infant",
-            "children": []
-          },
-          {
-            "label": "mortality",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "death",
-            "children": []
-          },
-          {
-            "label": "rates",
-            "children": []
-          },
-          {
-            "label": "lower",
-            "children": []
-          },
-          {
-            "label": "population",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "growth",
-            "children": []
-          },
-          {
-            "label": "rates",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "changes",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "distribution",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "population",
-            "children": []
-          },
-          {
-            "label": "by",
-            "children": []
-          },
-          {
-            "label": "age",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "sex",
-            "children": []
-          },
-          {
-            "label": "than",
-            "children": []
-          },
-          {
-            "label": "would",
-            "children": []
-          },
-          {
-            "label": "otherwise",
-            "children": []
-          },
-          {
-            "label": "be",
-            "children": []
-          },
-          {
-            "label": "expected",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \" Harambee \" (English: \"Let us all pull together\" )",
-          "Anthem: \" Ee Mungu Nguvu Yetu \" (English: \"O God of All Creation\" )",
-          "Show globe Show map of Africa",
-          "According to the CIA , estimates for this country explicitly take into account the effects of mortality because of AIDS ; this can result in lower life expectancy , higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex, than would otherwise be expected."
+          "\" Ee Mungu Nguvu Yetu \" (English: \"O God of All Creation\" )"
         ]
       },
       {

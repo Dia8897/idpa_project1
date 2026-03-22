@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Bundeshymne der Republik Österreich \" National Anthem of the Republic of Austria",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of the European Union",
+            "label": "\" Bundeshymne der Republik Österreich \" National Anthem of the Republic of Austria",
             "children": []
           }
         ]

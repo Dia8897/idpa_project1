@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "\"Ubumwe, Ibikorwa, Amajambere\" ( Kirundi ) \"Unité, Travail, Progrès\" ( French ) \"Union, Work, Progress\" (English)",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Ubumwe, Ibikorwa, Amajambere\" ( Kirundi ) \"Unité, Travail, Progrès\" ( French ) \"Union, Work, Progress\" (English)",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Burundi Bwacu \" (Kirundi) \"Our Burundi\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa Location of Burundi (dark blue) in Africa (light blue)",
+            "label": "Burundi Bwacu \" (Kirundi) \"Our Burundi",
             "children": []
           }
         ]

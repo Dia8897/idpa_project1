@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Ubumwe",
             "children": []
@@ -77,11 +57,15 @@
           {
             "label": "English",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "\"Ubumwe, Ibikorwa, Amajambere\" ( Kirundi ) \"Unité, Travail, Progrès\" ( French ) \"Union, Work, Progress\" (English)"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Burundi",
             "children": []
@@ -101,73 +85,10 @@
           {
             "label": "Burundi",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Burundi",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "blue",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "light",
-            "children": []
-          },
-          {
-            "label": "blue",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Ubumwe, Ibikorwa, Amajambere\" ( Kirundi ) \"Unité, Travail, Progrès\" ( French ) \"Union, Work, Progress\" (English)",
-          "Anthem: \" Burundi Bwacu \" (Kirundi) \"Our Burundi\"",
-          "Show globe Show map of Africa Location of Burundi (dark blue) in Africa (light blue)"
+          "Burundi Bwacu \" (Kirundi) \"Our Burundi"
         ]
       },
       {

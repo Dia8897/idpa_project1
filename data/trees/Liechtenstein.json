@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Für Gott, Fürst und Vaterland\" \"For God, Prince and Fatherland",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Für Gott, Fürst und Vaterland\" \"For God, Prince and Fatherland\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Oben am jungen Rhein (English: \"High on the Young Rhine\")",
-            "children": []
-          },
-          {
-            "label": "Location of Liechtenstein (green) in Europe (agate grey) –",
+            "label": "Oben am jungen Rhein (English: \"High on the Young Rhine\")",
             "children": []
           }
         ]

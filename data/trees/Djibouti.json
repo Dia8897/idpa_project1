@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "Midnimo, Sinnaan, Nabad ( Somali ) Inkittiino, Qeedala, Wagari ( Afar ) Unité, Égalité, Paix ( French ) اتحاد، مساواة، سلام ( Arabic ) Unity, Equality, Peace ( English )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Midnimo, Sinnaan, Nabad ( Somali ) Inkittiino, Qeedala, Wagari ( Afar ) Unité, Égalité, Paix ( French ) اتحاد، مساواة، سلام ( Arabic ) Unity, Equality, Peace ( English )",
-            "children": []
-          },
-          {
-            "label": "Anthem: Djibouti",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "Djibouti",
             "children": []
           }
         ]
@@ -91,7 +88,7 @@
         "label": "president",
         "children": [
           {
-            "label": "Ismal Omar Guelleh",
+            "label": "Ismaïl Omar Guelleh",
             "children": []
           }
         ]

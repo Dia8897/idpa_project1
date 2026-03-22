@@ -189,6 +189,7 @@ body {
   width: auto;
   flex: 0 0 auto;
   white-space: nowrap;
+  box-shadow: none;
 }
 .controls label { display: block; margin-bottom: 5px; color: var(--muted); font-size: 0.9rem; }
 select, input[type="text"], input[type="range"], button {
@@ -267,11 +268,33 @@ button {
   box-shadow: 0 8px 18px rgba(143, 211, 244, 0.35);
 }
 button:hover { background: #75c6ec; border-color: #63b8e0; }
-#compareBtn:active {
-  background: #bef2d4;
-  border-color: #7bd7a8;
-  color: #0f172a;
-  box-shadow: 0 6px 16px rgba(123, 215, 168, 0.3);
+#compareBtn,
+#toggleDiffBtn {
+  background: var(--accent);
+  color: #fff;
+  border: 1px solid var(--accent);
+  box-shadow: none !important;
+  font-weight: 650;
+  transition: background 140ms ease, border-color 140ms ease, color 140ms ease;
+}
+#compareBtn:hover,
+#toggleDiffBtn:not(:disabled):hover {
+  background: #1d4ed8;
+  border-color: #1d4ed8;
+  box-shadow: none;
+}
+#compareBtn:active,
+#toggleDiffBtn:not(:disabled):active {
+  background: #1e3a8a;
+  border-color: #1e3a8a;
+  box-shadow: none;
+}
+#toggleDiffBtn:disabled {
+  background: #e2e8f0;
+  border-color: #cbd5e1;
+  color: #94a3b8;
+  cursor: not-allowed;
+  box-shadow: none;
 }
 
 .split { display: grid; gap: 12px; grid-template-columns: minmax(320px, 1fr) minmax(320px, 1fr); align-items: stretch; }

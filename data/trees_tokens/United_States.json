@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "In",
             "children": []
@@ -153,11 +133,15 @@
           {
             "label": "ages",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "In God We Trust \" Other traditional mottos: \" E pluribus unum \" ( Latin ) \"Out of many, one\" \" Annuit cœptis \" ( Latin ) \"Providence favors our undertakings\" \" Novus ordo seclorum \" ( Latin ) \"New order of the ages"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "The",
             "children": []
@@ -173,133 +157,10 @@
           {
             "label": "Banner",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "states",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "D",
-            "children": []
-          },
-          {
-            "label": "C",
-            "children": []
-          },
-          {
-            "label": "only",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "U",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "its",
-            "children": []
-          },
-          {
-            "label": "territories",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Compacts",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Free",
-            "children": []
-          },
-          {
-            "label": "Association",
-            "children": []
-          },
-          {
-            "label": "states",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "territories",
-            "children": []
-          },
-          {
-            "label": "with",
-            "children": []
-          },
-          {
-            "label": "boundaries",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "U",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "exclusive",
-            "children": []
-          },
-          {
-            "label": "economic",
-            "children": []
-          },
-          {
-            "label": "zone",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \" In God We Trust \" Other traditional mottos: \" E pluribus unum \" ( Latin ) \"Out of many, one\" \" Annuit cœptis \" ( Latin ) \"Providence favors our undertakings\" \" Novus ordo seclorum \" ( Latin ) \"New order of the ages\"",
-          "Anthem: \" The Star-Spangled Banner \"",
-          "Show globe ( states and D.C. only) Show the U.S., its territories , and the Compacts of Free Association states Show territories with boundaries of U.S. exclusive economic zone"
+          "The Star-Spangled Banner"
         ]
       },
       {

@@ -1,31 +1,11 @@
 {
-  "country_name": "Côte d’Ivoire",
+  "country_name": "Côte d'Ivoire",
   "tree": {
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Union",
             "children": []
@@ -53,11 +33,15 @@
           {
             "label": "Work",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Union – Discipline – Travail' ( French ) 'Unity – Discipline – Work"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "L",
             "children": []
@@ -81,119 +65,10 @@
           {
             "label": "Abidjan",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Including",
-            "children": []
-          },
-          {
-            "label": "approximately",
-            "children": []
-          },
-          {
-            "label": "130",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "Lebanese",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "people",
-            "children": []
-          },
-          {
-            "label": "Includes",
-            "children": []
-          },
-          {
-            "label": "other",
-            "children": []
-          },
-          {
-            "label": "Christian",
-            "children": []
-          },
-          {
-            "label": "22",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Roman",
-            "children": []
-          },
-          {
-            "label": "Catholic",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: 'Union – Discipline – Travail' ( French ) 'Unity – Discipline – Work'",
-          "Anthem: L'Abidjanaise (English: \"Song of Abidjan\" )",
-          "Show globe Show map of Africa",
-          "Including approximately 130,000 Lebanese and 14,000 French people .",
-          "^ Includes other Christian (22.8%) and Roman Catholic (17.0%)"
+          "L'Abidjanaise (English: \"Song of Abidjan\" )"
         ]
       },
       {

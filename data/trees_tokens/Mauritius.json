@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Stella",
             "children": []
@@ -73,190 +53,22 @@
           {
             "label": "Ocean",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Stella Clavisque Maris Indici ( Latin ) \"Star and Key of the Indian Ocean\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Motherland",
-            "children": []
-          },
-          {
-            "label": "Islands",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Mauritius",
-            "children": []
-          },
-          {
-            "label": "Islands",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Mauritius",
-            "children": []
-          },
-          {
-            "label": "labelled",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "black",
-            "children": []
-          },
-          {
-            "label": "Tromelin",
-            "children": []
-          },
-          {
-            "label": "Island",
-            "children": []
-          },
-          {
-            "label": "part",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Southern",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Antarctic",
-            "children": []
-          },
-          {
-            "label": "Lands",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "by",
-            "children": []
-          },
-          {
-            "label": "Mauritius",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Chagos",
-            "children": []
-          },
-          {
-            "label": "Archipelago",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "British",
-            "children": []
-          },
-          {
-            "label": "Indian",
-            "children": []
-          },
-          {
-            "label": "Ocean",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "set",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "be",
-            "children": []
-          },
-          {
-            "label": "transferred",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "Mauritius",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "2026",
             "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Stella Clavisque Maris Indici ( Latin ) \"Star and Key of the Indian Ocean\"",
-          "Anthem: \" Motherland \"",
-          "Islands of the Republic of Mauritius",
-          "Islands of Mauritius labelled in black. * Tromelin Island (part of the French Southern and Antarctic Lands , claimed by Mauritius). * The Chagos Archipelago (the British Indian Ocean Territory ) are set to be transferred to Mauritius in 2026."
+          "Motherland"
         ]
       },
       {

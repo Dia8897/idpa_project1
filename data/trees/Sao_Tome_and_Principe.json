@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "\"Unidade, Disciplina, Trabalho\" (\"Unity, Discipline, Labour\")",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Unidade, Disciplina, Trabalho\" (\"Unity, Discipline, Labour\")",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Independência Total \" (\"Total Independence\")",
-            "children": []
-          },
-          {
-            "label": "Location of São Tomé and Príncipe (dark blue) in Africa (light blue)",
+            "label": "\" Independência Total \" (\"Total Independence\")",
             "children": []
           }
         ]

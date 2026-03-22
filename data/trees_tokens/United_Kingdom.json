@@ -4,16 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "God",
             "children": []
@@ -29,133 +21,10 @@
           {
             "label": "King",
             "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Used",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "relation",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "Scotland",
-            "children": []
-          },
-          {
-            "label": "right",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "elsewhere",
-            "children": []
-          },
-          {
-            "label": "left",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "British",
-            "children": []
-          },
-          {
-            "label": "Overseas",
-            "children": []
-          },
-          {
-            "label": "Territories",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Crown",
-            "children": []
-          },
-          {
-            "label": "Dependencies",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "their",
-            "children": []
-          },
-          {
-            "label": "exclusive",
-            "children": []
-          },
-          {
-            "label": "economic",
-            "children": []
-          },
-          {
-            "label": "zones",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag",
-          "Anthem: \" God Save the King \"",
-          "Coat of arms : Used in relation to Scotland (right) and elsewhere (left)",
-          "Show globe Show map of Europe Show British Overseas Territories and Crown Dependencies Show their exclusive economic zones"
+          "God Save the King"
         ]
       },
       {

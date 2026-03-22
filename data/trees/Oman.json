@@ -4,30 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "ٱللَّهُ، ٱلْوَطَنُ، ٱلسُّلْطَانُ Allāh, al-Waṭan, as-Sulṭān \" God , Nation, Sultan\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: ٱللَّهُ، ٱلْوَطَنُ، ٱلسُّلْطَانُ Allāh, al-Waṭan, as-Sulṭān \" God , Nation, Sultan\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: تحية السلطان Taḥīyah al-Sulṭān \"Salute to the Sultan\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Oman",
-            "children": []
-          },
-          {
-            "label": "DST is not observed.",
-            "children": []
-          },
-          {
-            "label": "Website oman.om",
+            "label": "تحية السلطان Taḥīyah al-Sulṭān \"Salute to the Sultan\"",
             "children": []
           }
         ]

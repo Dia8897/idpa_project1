@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Virtute",
             "children": []
@@ -53,11 +33,15 @@
           {
             "label": "persistence",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Virtute et constantia ( Latin ) \"Strength and persistence\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "L",
             "children": []
@@ -85,218 +69,10 @@
           {
             "label": "Hymn",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Malta",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "circle",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "light",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "European",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "light",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "2021",
-            "children": []
-          },
-          {
-            "label": "Malta",
-            "children": []
-          },
-          {
-            "label": "census",
-            "children": []
-          },
-          {
-            "label": "Chapter",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "Racial",
-            "children": []
-          },
-          {
-            "label": "Origin",
-            "children": []
-          },
-          {
-            "label": "according",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "most",
-            "children": []
-          },
-          {
-            "label": "recent",
-            "children": []
-          },
-          {
-            "label": "national",
-            "children": []
-          },
-          {
-            "label": "census",
-            "children": []
-          },
-          {
-            "label": "Meanwhile",
-            "children": []
-          },
-          {
-            "label": "77",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "population",
-            "children": []
-          },
-          {
-            "label": "were",
-            "children": []
-          },
-          {
-            "label": "Maltese",
-            "children": []
-          },
-          {
-            "label": "citizens",
-            "children": []
-          },
-          {
-            "label": "or",
-            "children": []
-          },
-          {
-            "label": "nationals",
-            "children": []
-          },
-          {
-            "label": "Also",
-            "children": []
-          },
-          {
-            "label": "eu",
-            "children": []
-          },
-          {
-            "label": "shared",
-            "children": []
-          },
-          {
-            "label": "with",
-            "children": []
-          },
-          {
-            "label": "other",
-            "children": []
-          },
-          {
-            "label": "European",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "member",
-            "children": []
-          },
-          {
-            "label": "states",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Virtute et constantia ( Latin ) \"Strength and persistence\"",
-          "Anthem: L-Innu Malti ( Maltese ) \"The Maltese Hymn\"",
-          "Location of Malta (green circle) – in Europe (light green & dark grey) – in the European Union (light green) –",
-          "^ 2021 Malta census Chapter 4: Racial Origin according to the most recent national census. Meanwhile 77.8% of the population were Maltese citizens or nationals. ^ Also .eu, shared with other European Union member states"
+          "L-Innu Malti ( Maltese ) \"The Maltese Hymn\""
         ]
       },
       {
@@ -1044,6 +820,130 @@
         ],
         "raw_values": [
           ".mt"
+        ]
+      },
+      {
+        "label": "malta_census_chapter_4",
+        "children": [
+          {
+            "label": "Racial",
+            "children": []
+          },
+          {
+            "label": "Origin",
+            "children": []
+          },
+          {
+            "label": "according",
+            "children": []
+          },
+          {
+            "label": "to",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "most",
+            "children": []
+          },
+          {
+            "label": "recent",
+            "children": []
+          },
+          {
+            "label": "national",
+            "children": []
+          },
+          {
+            "label": "census",
+            "children": []
+          },
+          {
+            "label": "Meanwhile",
+            "children": []
+          },
+          {
+            "label": "77",
+            "children": []
+          },
+          {
+            "label": "8",
+            "children": []
+          },
+          {
+            "label": "of",
+            "children": []
+          },
+          {
+            "label": "the",
+            "children": []
+          },
+          {
+            "label": "population",
+            "children": []
+          },
+          {
+            "label": "were",
+            "children": []
+          },
+          {
+            "label": "Maltese",
+            "children": []
+          },
+          {
+            "label": "citizens",
+            "children": []
+          },
+          {
+            "label": "or",
+            "children": []
+          },
+          {
+            "label": "nationals",
+            "children": []
+          },
+          {
+            "label": "Also",
+            "children": []
+          },
+          {
+            "label": "eu",
+            "children": []
+          },
+          {
+            "label": "shared",
+            "children": []
+          },
+          {
+            "label": "with",
+            "children": []
+          },
+          {
+            "label": "other",
+            "children": []
+          },
+          {
+            "label": "European",
+            "children": []
+          },
+          {
+            "label": "Union",
+            "children": []
+          },
+          {
+            "label": "member",
+            "children": []
+          },
+          {
+            "label": "states",
+            "children": []
+          }
+        ],
+        "raw_values": [
+          "Racial Origin according to the most recent national census. Meanwhile 77.8% of the population were Maltese citizens or nationals. ^ Also .eu, shared with other European Union member states"
         ]
       }
     ]

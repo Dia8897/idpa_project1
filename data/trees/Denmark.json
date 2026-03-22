@@ -4,30 +4,28 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Constituent part of the Kingdom of Denmark",
+            "label": "Forbundne, forpligtet, for kongeriget Danmark (United, committed, for the Kingdom of Denmark)",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Flag National coat of arms",
+            "label": "Der er et yndigt land ( Danish ) (English: \"There is a lovely country\" )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "royal_anthem",
+        "children": [
           {
-            "label": "Motto : Forbundne, forpligtet, for kongeriget Danmark (United, committed, for the Kingdom of Denmark)",
-            "children": []
-          },
-          {
-            "label": "Anthem : Der er et yndigt land ( Danish ) (English: \"There is a lovely country\" )",
-            "children": []
-          },
-          {
-            "label": "Royal Anthem : Kong Christian stod ved højen mast ( Danish ) [ N 1 ] (English: \"King Christian stood by the lofty mast\" )",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Europe Location of metropolitan Denmark (dark green) – in Europe (light green & dark grey) – in the European Union (light green)",
+            "label": "Kong Christian stod ved højen mast ( Danish ) (English: \"King Christian stood by the lofty mast\" )",
             "children": []
           }
         ]
@@ -81,7 +79,7 @@
         "label": "regional_languages",
         "children": [
           {
-            "label": "German [ N 2 ]",
+            "label": "German",
             "children": []
           }
         ]
@@ -157,11 +155,11 @@
             "children": []
           },
           {
-            "label": "$533.752 billion [ N 3 ] ( 52nd )",
+            "label": "$533.752 billion ( 52nd )",
             "children": []
           },
           {
-            "label": "$449.940 billion [ N 3 ] ( 35th )",
+            "label": "$449.940 billion ( 35th )",
             "children": []
           }
         ]
@@ -188,7 +186,7 @@
         "label": "may_estimate",
         "children": [
           {
-            "label": "6,001,008 [ N 3 ] ( 112th )",
+            "label": "6,001,008 ( 112th )",
             "children": []
           }
         ]
@@ -309,7 +307,7 @@
         "label": "internet_tld",
         "children": [
           {
-            "label": ".dk [ N 4 ]",
+            "label": ".dk",
             "children": []
           }
         ]

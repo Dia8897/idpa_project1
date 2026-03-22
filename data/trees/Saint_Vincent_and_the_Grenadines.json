@@ -4,18 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Pax et Justitia\" ( Latin ) \"Peace and Justice",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Pax et Justitia\" ( Latin ) \"Peace and Justice\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Saint Vincent, Land So Beautiful \" Royal anthem : \" God Save the King \"",
+            "label": "Saint Vincent, Land So Beautiful \" Royal anthem : \" God Save the King",
             "children": []
           }
         ]

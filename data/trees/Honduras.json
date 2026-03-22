@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Libre, Soberana e Independiente \"Free, Sovereign and Independent\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Libre, Soberana e Independiente \"Free, Sovereign and Independent\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Himno Nacional de Honduras \" National Anthem of Honduras \"",
-            "children": []
-          },
-          {
-            "label": "Location of Honduras",
-            "children": []
-          },
-          {
-            "label": "\"Libre, soberana e independiente\" is the official motto, by congressional order, and was put on the coat of arms. Population estimates explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected, as of July 2007.",
+            "label": "Himno Nacional de Honduras \" National Anthem of Honduras \"",
             "children": []
           }
         ]

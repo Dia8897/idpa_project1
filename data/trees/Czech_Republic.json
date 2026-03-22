@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Pravda vítězí (Czech) \"Truth prevails\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Pravda vítězí (Czech) \"Truth prevails\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Kde domov můj (Czech) \"Where My Home Is\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of the European Union Location of the Czech Republic (dark green) – in Europe (green & dark gray) – in the European Union (green) –",
+            "label": "Kde domov můj (Czech) \"Where My Home Is\"",
             "children": []
           }
         ]

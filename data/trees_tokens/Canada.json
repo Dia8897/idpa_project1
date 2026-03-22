@@ -4,16 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "A",
             "children": []
@@ -53,11 +45,15 @@
           {
             "label": "Sea",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "A mari usque ad mare ( Latin ) \"From Sea to Sea\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "O",
             "children": []
@@ -92,9 +88,7 @@
           }
         ],
         "raw_values": [
-          "Flag",
-          "Motto: A mari usque ad mare ( Latin ) \"From Sea to Sea\"",
-          "Anthem: \" O Canada \" Royal anthem : \" God Save the King \""
+          "O Canada \" Royal anthem : \" God Save the King"
         ]
       },
       {

@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Pax",
             "children": []
@@ -53,11 +33,15 @@
           {
             "label": "Justice",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Pax et Justitia\" ( Latin ) \"Peace and Justice"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Saint",
             "children": []
@@ -104,9 +88,7 @@
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Pax et Justitia\" ( Latin ) \"Peace and Justice\"",
-          "Anthem: \" Saint Vincent, Land So Beautiful \" Royal anthem : \" God Save the King \""
+          "Saint Vincent, Land So Beautiful \" Royal anthem : \" God Save the King"
         ]
       },
       {

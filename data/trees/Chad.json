@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Unité, Travail, Progrès\" ( French ) \"Unity, Work, Progress",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Unité, Travail, Progrès\" ( French ) \"Unity, Work, Progress\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" La Tchadienne \" (French) \"The Song of Chad\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "La Tchadienne \" (French) \"The Song of Chad",
             "children": []
           }
         ]

@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Unity",
             "children": []
@@ -33,11 +21,15 @@
           {
             "label": "52",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "' Unity in diversity ' : 52"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "O",
             "children": []
@@ -57,37 +49,10 @@
           {
             "label": "Sons",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Papua",
-            "children": []
-          },
-          {
-            "label": "New",
-            "children": []
-          },
-          {
-            "label": "Guinea",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: ' Unity in diversity ' : 52",
-          "Anthem: \" O Arise, All You Sons \"",
-          "Location of Papua New Guinea (green)"
+          "O Arise, All You Sons"
         ]
       },
       {

@@ -4,22 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" God Save the King \"",
-            "children": []
-          },
-          {
-            "label": "Coat of arms : Used in relation to Scotland (right) and elsewhere (left)",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Europe Show British Overseas Territories and Crown Dependencies Show their exclusive economic zones",
+            "label": "God Save the King",
             "children": []
           }
         ]

@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Unity, Freedom, Justice",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Unity, Freedom, Justice\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" High We Exalt Thee, Realm of the Free \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          },
-          {
-            "label": "Rank based on 2007 figure",
+            "label": "High We Exalt Thee, Realm of the Free",
             "children": []
           }
         ]
@@ -50,7 +43,7 @@
         "label": "recognised_national_languages",
         "children": [
           {
-            "label": "Krio [ citation needed ]",
+            "label": "Krio",
             "children": []
           }
         ]

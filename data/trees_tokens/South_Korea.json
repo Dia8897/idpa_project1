@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Aegukga",
             "children": []
@@ -29,57 +17,10 @@
           {
             "label": "Song",
             "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Seal",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
-          },
-          {
-            "label": "North",
-            "children": []
-          },
-          {
-            "label": "Korea",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Anthem: 애국가 ( Aegukga ) \" Patriotic Song \"",
-          "National Seal :",
-          "Territory controlled Territory claimed but not controlled (North Korea)"
+          "애국가 ( Aegukga ) \" Patriotic Song \""
         ]
       },
       {

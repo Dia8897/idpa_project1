@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "Истиқлол, Озодӣ, Ватан (Tajik) Istiqlol, Ozodī, Vatan Независимость, Свобода, Родина (Russian) Nezavisimost', Svoboda, Rodina \"Independence, Freedom, Homeland\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Истиқлол, Озодӣ, Ватан (Tajik) Istiqlol, Ozodī, Vatan Независимость, Свобода, Родина (Russian) Nezavisimost', Svoboda, Rodina \"Independence, Freedom, Homeland\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Суруди Миллӣ (Tajik) Surudi Milli \"National Anthem\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Tajikistan",
+            "label": "Суруди Миллӣ (Tajik) Surudi Milli \"National Anthem\"",
             "children": []
           }
         ]

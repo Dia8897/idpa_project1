@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Deteapt-te, romne! \"Awaken Thee, Romanian!\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Europe",
+            "label": "Deșteaptă-te, române! \"Awaken Thee, Romanian!\"",
             "children": []
           }
         ]

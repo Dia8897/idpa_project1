@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Forward",
             "children": []
@@ -41,11 +21,15 @@
           {
             "label": "Together",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Forward, Upward, Onward, Together"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "March",
             "children": []
@@ -81,74 +65,10 @@
           {
             "label": "King",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Western",
-            "children": []
-          },
-          {
-            "label": "Hemisphere",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Bahamas",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "its",
-            "children": []
-          },
-          {
-            "label": "region",
-            "children": []
-          },
-          {
-            "label": "Also",
-            "children": []
-          },
-          {
-            "label": "referred",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "as",
-            "children": []
-          },
-          {
-            "label": "Bahamian",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Forward, Upward, Onward, Together\"",
-          "Anthem: \" March On, Bahamaland \" Royal anthem : \" God Save the King \"",
-          "Location in the Western Hemisphere The Bahamas in its region",
-          "^ Also referred to as Bahamian"
+          "March On, Bahamaland \" Royal anthem : \" God Save the King"
         ]
       },
       {

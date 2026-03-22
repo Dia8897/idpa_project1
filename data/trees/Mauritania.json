@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Seal",
+            "label": "شرف، إخاء، عدل \"Honour, Fraternity, Justice\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: شرف، إخاء، عدل \"Honour, Fraternity, Justice\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: النشيد الوطني الموريتاني \" National Anthem of Mauritania \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          },
-          {
-            "label": "According to Article 6 of the Constitution: \"The national languages are Arabic, Pulaar , Soninke , and Wolof ; the official language is Arabic.\"",
+            "label": "النشيد الوطني الموريتاني \" National Anthem of Mauritania \"",
             "children": []
           }
         ]

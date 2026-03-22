@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: Кыргыз Республикасынын Мамлекеттик гимни (Kyrgyz) Kyrgyz Respublikasynyn Mamlekettik gimni \" State Anthem of the Kyrgyz Republic \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Kyrgyzstan",
+            "label": "Кыргыз Республикасынын Мамлекеттик гимни (Kyrgyz) Kyrgyz Respublikasynyn Mamlekettik gimni \" State Anthem of the Kyrgyz Republic \"",
             "children": []
           }
         ]

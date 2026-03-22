@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "urr",
             "children": []
@@ -61,11 +41,15 @@
           {
             "label": "Justice",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "حرية، نظام، عدالة \" Ḥurrīyah, Niẓām, 'Adālah \" \" Freedom, Order, Justice \""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Humat",
             "children": []
@@ -97,37 +81,10 @@
           {
             "label": "Homeland",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Tunisia",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: حرية، نظام، عدالة \" Ḥurrīyah, Niẓām, 'Adālah \" \" Freedom, Order, Justice \"",
-          "Anthem: حماة الحمى \" Humat al-Hima \" (English: \"Defenders of the Homeland\" )",
-          "Show globe Show map of Tunisia"
+          "حماة الحمى \" Humat al-Hima \" (English: \"Defenders of the Homeland\" )"
         ]
       },
       {

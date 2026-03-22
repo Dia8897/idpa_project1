@@ -4,22 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: Pátria Amada (Portuguese) \"Beloved Homeland\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          },
-          {
-            "label": "Website www .portaldogoverno .gov .mz",
+            "label": "Pátria Amada (Portuguese) \"Beloved Homeland\"",
             "children": []
           }
         ]

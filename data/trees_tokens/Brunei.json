@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Arabic",
             "children": []
@@ -117,11 +105,15 @@
           {
             "label": "guidance",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "الدائمون المحسنون بالهدى ( Arabic ) Ad-dāʾimūna al-muḥsinūna bi-l-hudā ( Sentiasa membuat kebajikan dengan petunjuk Allah ) \"Always in service with God 's guidance\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Allah",
             "children": []
@@ -149,94 +141,10 @@
           {
             "label": "Sultan",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Brunei",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "ASEAN",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Brunei",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Southeast",
-            "children": []
-          },
-          {
-            "label": "Asia",
-            "children": []
-          },
-          {
-            "label": "Also",
-            "children": []
-          },
-          {
-            "label": "080",
-            "children": []
-          },
-          {
-            "label": "from",
-            "children": []
-          },
-          {
-            "label": "East",
-            "children": []
-          },
-          {
-            "label": "Malaysia",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: الدائمون المحسنون بالهدى ( Arabic ) Ad-dāʾimūna al-muḥsinūna bi-l-hudā ( Sentiasa membuat kebajikan dengan petunjuk Allah ) \"Always in service with God 's guidance\"",
-          "Anthem: Allah Peliharakan Sultan الله ڤليهاراکن سلطان \"God Bless the Sultan\"",
-          "Show globe Show map of Brunei Show ASEAN Location of Brunei (green) in Southeast Asia",
-          "^ Also 080 from East Malaysia"
+          "Allah Peliharakan Sultan الله ڤليهاراکن سلطان \"God Bless the Sultan\""
         ]
       },
       {

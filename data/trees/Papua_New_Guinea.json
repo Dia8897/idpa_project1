@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "' Unity in diversity ' : 52",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: ' Unity in diversity ' : 52",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" O Arise, All You Sons \"",
-            "children": []
-          },
-          {
-            "label": "Location of Papua New Guinea (green)",
+            "label": "O Arise, All You Sons",
             "children": []
           }
         ]

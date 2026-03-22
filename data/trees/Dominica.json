@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Apres Bondie, C'est La Ter\" ( Dominican Creole French ) \"Post Deum terra est\" ( Latin ) \"After God is the earth",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Apres Bondie, C'est La Ter\" ( Dominican Creole French ) \"Post Deum terra est\" ( Latin ) \"After God is the earth\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Isle of Beauty, Isle of Splendour \"",
-            "children": []
-          },
-          {
-            "label": "Location of Dominica (circled in red) in the Caribbean",
+            "label": "Isle of Beauty, Isle of Splendour",
             "children": []
           }
         ]

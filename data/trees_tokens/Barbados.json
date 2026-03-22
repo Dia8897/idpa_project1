@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Pride",
             "children": []
@@ -37,11 +17,15 @@
           {
             "label": "Industry",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Pride and Industry"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "National",
             "children": []
@@ -60,9 +44,7 @@
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Pride and Industry\"",
-          "Anthem: \" National Anthem of Barbados \""
+          "National Anthem of Barbados"
         ]
       },
       {

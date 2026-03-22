@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Mongol",
             "children": []
@@ -53,20 +41,10 @@
           {
             "label": "Mongolia",
             "children": []
-          },
-          {
-            "label": "State",
-            "children": []
-          },
-          {
-            "label": "seal",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Anthem: Монгол Улсын Төрийн дуулал Mongol ulsyn töriin duulal \" National Anthem of Mongolia \"",
-          "State seal"
+          "Монгол Улсын Төрийн дуулал Mongol ulsyn töriin duulal \" National Anthem of Mongolia \""
         ]
       },
       {

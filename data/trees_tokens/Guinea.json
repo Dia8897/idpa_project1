@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Travail",
             "children": []
@@ -53,11 +33,15 @@
           {
             "label": "Solidarity",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "\"Travail, Justice, Solidarité\" ( French ) Work, Justice, Solidarity"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Libert",
             "children": []
@@ -69,37 +53,10 @@
           {
             "label": "Liberty",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Travail, Justice, Solidarité\" ( French ) Work, Justice, Solidarity",
-          "Anthem: Liberté ( French ) \"Liberty\"",
-          "Show globe Show map of Africa"
+          "Liberté ( French ) \"Liberty\""
         ]
       },
       {

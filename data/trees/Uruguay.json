@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Libertad o Muerte (Spanish) \"Freedom or Death\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Libertad o Muerte (Spanish) \"Freedom or Death\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Himno Nacional del Uruguay \" National Anthem of Uruguay \"",
-            "children": []
-          },
-          {
-            "label": "Sol de Mayo (Sun of May)",
-            "children": []
-          },
-          {
-            "label": "Location of Uruguay (dark green) in South America",
+            "label": "Himno Nacional del Uruguay \" National Anthem of Uruguay \"",
             "children": []
           }
         ]
@@ -50,7 +43,7 @@
         "label": "ethnic_groups",
         "children": [
           {
-            "label": "86.0% White [ note 1 ] 10.4% Black 6.3% Indigenous 0.7% East Asian 6.3% other",
+            "label": "86.0% White 10.4% Black 6.3% Indigenous 0.7% East Asian 6.3% other",
             "children": []
           }
         ]

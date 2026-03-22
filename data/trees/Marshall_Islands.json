@@ -4,18 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Seal",
+            "label": "Jepilpilin ke ejukaan \" \"Accomplishment through joint effort",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \" Jepilpilin ke ejukaan \" \"Accomplishment through joint effort\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Indeeo M̧ajeļ \" Forever Marshall Islands \"",
+            "label": "Indeeo M̧ajeļ \" Forever Marshall Islands \"",
             "children": []
           }
         ]

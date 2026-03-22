@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Men",
             "children": []
@@ -36,8 +24,7 @@
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Anthem: Menıñ Qazaqstanym \"My Kazakhstan\""
+          "Menıñ Qazaqstanym \"My Kazakhstan\""
         ]
       },
       {

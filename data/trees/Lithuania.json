@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Tautiška giesmė \"National Song\"",
-            "children": []
-          },
-          {
-            "label": "Location of Lithuania (dark green) – in Europe (green & dark grey) – in the European Union (green) –",
+            "label": "Tautiška giesmė \"National Song\"",
             "children": []
           }
         ]

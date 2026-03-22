@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Tigrinya",
             "children": []
@@ -33,36 +21,10 @@
           {
             "label": "Eritrea",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Anthem: ኤርትራ ኤርትራ ኤርትራ ( Tigrinya ) \" Eritrea, Eritrea, Eritrea \"",
-          "Show globe Show map of Africa"
+          "ኤርትራ ኤርትራ ኤርትራ ( Tigrinya ) \" Eritrea, Eritrea, Eritrea \""
         ]
       },
       {

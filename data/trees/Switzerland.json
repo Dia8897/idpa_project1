@@ -49,22 +49,19 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "(unofficial) \" Unus pro omnibus, omnes pro uno \" \"One for all, all for one\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: (unofficial) \" Unus pro omnibus, omnes pro uno \" \"One for all, all for one\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Swiss Psalm \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Europe Location of Switzerland (green) in Europe (green and dark grey)",
+            "label": "Swiss Psalm",
             "children": []
           }
         ]

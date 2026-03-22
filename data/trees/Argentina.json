@@ -4,30 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "En unión y libertad \"In Union and Freedom\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: En unión y libertad \"In Union and Freedom\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Himno Nacional Argentino \"Argentine National Anthem\"",
-            "children": []
-          },
-          {
-            "label": "Sol de Mayo \"Sun of May\"",
-            "children": []
-          },
-          {
-            "label": "Location of Argentina Territory claimed but not controlled Show globe Show map of Argentina",
-            "children": []
-          },
-          {
-            "label": "^ Though not declared official de jure , the Spanish language is the only one used in the wording of laws, decrees, resolutions, official documents and public acts thus making it the de facto official language.",
+            "label": "Himno Nacional Argentino \"Argentine National Anthem\"",
             "children": []
           }
         ]

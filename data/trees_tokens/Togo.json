@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Travail",
             "children": []
@@ -53,11 +33,15 @@
           {
             "label": "Homeland",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "\"Travail, Liberté, Patrie\" (English: \"Work, Liberty, Homeland\" )"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Terre",
             "children": []
@@ -71,7 +55,11 @@
             "children": []
           },
           {
-            "label": "aeux",
+            "label": "a",
+            "children": []
+          },
+          {
+            "label": "eux",
             "children": []
           },
           {
@@ -93,354 +81,10 @@
           {
             "label": "ancestors",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Such",
-            "children": []
-          },
-          {
-            "label": "as",
-            "children": []
-          },
-          {
-            "label": "Ewe",
-            "children": []
-          },
-          {
-            "label": "Mina",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Aja",
-            "children": []
-          },
-          {
-            "label": "Largest",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Ewe",
-            "children": []
-          },
-          {
-            "label": "Mina",
-            "children": []
-          },
-          {
-            "label": "Kotokoli",
-            "children": []
-          },
-          {
-            "label": "Tem",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Kaby",
-            "children": []
-          },
-          {
-            "label": "Mostly",
-            "children": []
-          },
-          {
-            "label": "European",
-            "children": []
-          },
-          {
-            "label": "Indian",
-            "children": []
-          },
-          {
-            "label": "Syrian",
-            "children": []
-          },
-          {
-            "label": "Lebanese",
-            "children": []
-          },
-          {
-            "label": "Estimates",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "this",
-            "children": []
-          },
-          {
-            "label": "country",
-            "children": []
-          },
-          {
-            "label": "explicitly",
-            "children": []
-          },
-          {
-            "label": "take",
-            "children": []
-          },
-          {
-            "label": "into",
-            "children": []
-          },
-          {
-            "label": "account",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "effects",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "excess",
-            "children": []
-          },
-          {
-            "label": "mortality",
-            "children": []
-          },
-          {
-            "label": "due",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "AIDS",
-            "children": []
-          },
-          {
-            "label": "this",
-            "children": []
-          },
-          {
-            "label": "can",
-            "children": []
-          },
-          {
-            "label": "result",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "lower",
-            "children": []
-          },
-          {
-            "label": "life",
-            "children": []
-          },
-          {
-            "label": "expectancy",
-            "children": []
-          },
-          {
-            "label": "higher",
-            "children": []
-          },
-          {
-            "label": "infant",
-            "children": []
-          },
-          {
-            "label": "mortality",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "death",
-            "children": []
-          },
-          {
-            "label": "rates",
-            "children": []
-          },
-          {
-            "label": "lower",
-            "children": []
-          },
-          {
-            "label": "population",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "growth",
-            "children": []
-          },
-          {
-            "label": "rates",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "changes",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "distribution",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "population",
-            "children": []
-          },
-          {
-            "label": "by",
-            "children": []
-          },
-          {
-            "label": "age",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "sex",
-            "children": []
-          },
-          {
-            "label": "than",
-            "children": []
-          },
-          {
-            "label": "would",
-            "children": []
-          },
-          {
-            "label": "otherwise",
-            "children": []
-          },
-          {
-            "label": "be",
-            "children": []
-          },
-          {
-            "label": "expected",
-            "children": []
-          },
-          {
-            "label": "Rankings",
-            "children": []
-          },
-          {
-            "label": "based",
-            "children": []
-          },
-          {
-            "label": "on",
-            "children": []
-          },
-          {
-            "label": "2017",
-            "children": []
-          },
-          {
-            "label": "figures",
-            "children": []
-          },
-          {
-            "label": "CIA",
-            "children": []
-          },
-          {
-            "label": "World",
-            "children": []
-          },
-          {
-            "label": "Factbook",
-            "children": []
-          },
-          {
-            "label": "Togo",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Travail, Liberté, Patrie\" (English: \"Work, Liberty, Homeland\" )",
-          "Anthem: \" Terre de nos aeux \" (English: \"Land of our ancestors\" )",
-          "Show globe Show map of Africa",
-          "Such as Ewe , Mina and Aja . Largest are the Ewe , Mina, Kotokoli Tem and Kabyè . Mostly European, Indian & Syrian-Lebanese. Estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected. Rankings based on 2017 figures ( CIA World Factbook – \"Togo\" )"
+          "\" Terre de nos aïeux \" (English: \"Land of our ancestors\" )"
         ]
       },
       {

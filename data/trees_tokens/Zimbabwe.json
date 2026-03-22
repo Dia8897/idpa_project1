@@ -172,28 +172,8 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Unity",
             "children": []
@@ -205,11 +185,15 @@
           {
             "label": "Work",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Unity, Freedom, Work"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Blessed",
             "children": []
@@ -233,37 +217,10 @@
           {
             "label": "Zimbabwe",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Unity, Freedom, Work\"",
-          "Anthem: \" Blessed Be the Land of Zimbabwe \"",
-          "Show globe Show map of Africa"
+          "Blessed Be the Land of Zimbabwe"
         ]
       },
       {
@@ -1175,18 +1132,10 @@
           {
             "label": "currencies",
             "children": []
-          },
-          {
-            "label": "note",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
           }
         ],
         "raw_values": [
-          "De jure : Zimbabwe Gold ( ZWG ) De facto : United States dollar ( USD ) South African rand ( ZAR ); Other currencies [ note 1 ]"
+          "De jure : Zimbabwe Gold ( ZWG ) De facto : United States dollar ( USD ) South African rand ( ZAR ); Other currencies"
         ]
       },
       {

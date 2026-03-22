@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Sub umbra floreo ( Latin ) \"Under the shade I flourish\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Sub umbra floreo ( Latin ) \"Under the shade I flourish\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Land of the Free \" Royal anthem : \" God Save the King \"",
-            "children": []
-          },
-          {
-            "label": "Location of Belize (dark green) in the Americas Belize and its neighbours",
+            "label": "Land of the Free \" Royal anthem : \" God Save the King",
             "children": []
           }
         ]

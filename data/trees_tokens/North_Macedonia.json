@@ -4,24 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Macedonian",
             "children": []
@@ -37,48 +21,10 @@
           {
             "label": "Macedonia",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "North",
-            "children": []
-          },
-          {
-            "label": "Macedonia",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag National emblem",
-          "Anthem: Денес над Македонија (Macedonian) \"Today over Macedonia\"",
-          "Location of North Macedonia (green) in Europe (dark grey) –"
+          "Денес над Македонија (Macedonian) \"Today over Macedonia\""
         ]
       },
       {

@@ -31,26 +31,19 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "For God and My Country\" \"Kwa Mungu na nchi yangu",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"For God and My Country\" \"Kwa Mungu na nchi yangu\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Oh Uganda, Land of Beauty \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          },
-          {
-            "label": "+006 from Kenya and Tanzania",
+            "label": "Oh Uganda, Land of Beauty",
             "children": []
           }
         ]

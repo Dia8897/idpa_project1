@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthems",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthems : God Defend New Zealand (Māori: Aotearoa ) God Save the King [ n 1 ] (Māori: Me tohu e te Atua )",
-            "children": []
-          },
-          {
-            "label": "Location of New Zealand, including outlying islands, its territorial claim in the Antarctic , and Tokelau",
+            "label": "God Defend New Zealand (Māori: Aotearoa ) God Save the King (Māori: Me tohu e te Atua )",
             "children": []
           }
         ]
@@ -42,7 +34,7 @@
         "label": "official_languages",
         "children": [
           {
-            "label": "English [ n 2 ] Māori NZ Sign Language",
+            "label": "English Māori NZ Sign Language",
             "children": []
           }
         ]
@@ -60,7 +52,7 @@
         "label": "religion",
         "children": [
           {
-            "label": "51.6% no religion 32.3% Christianity [ n 4 ] 2.9% Hinduism 6.3% other 6.9% undeclared",
+            "label": "51.6% no religion 32.3% Christianity 2.9% Hinduism 6.3% other 6.9% undeclared",
             "children": []
           }
         ]
@@ -185,7 +177,7 @@
         "label": "water",
         "children": [
           {
-            "label": "1.6 [ n 5 ]",
+            "label": "1.6",
             "children": []
           }
         ]
@@ -279,7 +271,7 @@
         "label": "time_zone",
         "children": [
           {
-            "label": "UTC +12 ( NZST [ n 6 ] )",
+            "label": "UTC +12 ( NZST )",
             "children": []
           }
         ]
@@ -288,7 +280,7 @@
         "label": "summer_dst",
         "children": [
           {
-            "label": "UTC +13 ( NZDT [ n 7 ] )",
+            "label": "UTC +13 ( NZDT )",
             "children": []
           }
         ]

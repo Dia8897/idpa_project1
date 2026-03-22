@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Ti",
             "children": []
@@ -117,11 +97,15 @@
           {
             "label": "Albanian",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Ti Shqipëri, më jep nder, më jep emrin Shqipëtar \"You Albania, you give me honour, you give me the name Albanian\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Himni",
             "children": []
@@ -149,45 +133,10 @@
           {
             "label": "Flag",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Albania",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Ti Shqipëri, më jep nder, më jep emrin Shqipëtar \"You Albania, you give me honour, you give me the name Albanian\"",
-          "Anthem: \" Himni i Flamurit \" \"Hymn to the Flag\"",
-          "Location of Albania (green) in Europe (dark grey)"
+          "Himni i Flamurit \" \"Hymn to the Flag"
         ]
       },
       {

@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "One Zambia, One Nation",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"One Zambia, One Nation\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Stand and Sing of Zambia, Proud and Free \"",
-            "children": []
-          },
-          {
-            "label": "Public Seal",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "Stand and Sing of Zambia, Proud and Free",
             "children": []
           }
         ]

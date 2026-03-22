@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthems",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Anthems",
-            "children": []
-          },
           {
             "label": "God",
             "children": []
@@ -71,14 +51,6 @@
             "children": []
           },
           {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
             "label": "M",
             "children": []
           },
@@ -105,72 +77,10 @@
           {
             "label": "Atua",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "New",
-            "children": []
-          },
-          {
-            "label": "Zealand",
-            "children": []
-          },
-          {
-            "label": "including",
-            "children": []
-          },
-          {
-            "label": "outlying",
-            "children": []
-          },
-          {
-            "label": "islands",
-            "children": []
-          },
-          {
-            "label": "its",
-            "children": []
-          },
-          {
-            "label": "territorial",
-            "children": []
-          },
-          {
-            "label": "claim",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Antarctic",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Tokelau",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Anthems : God Defend New Zealand (Māori: Aotearoa ) God Save the King [ n 1 ] (Māori: Me tohu e te Atua )",
-          "Location of New Zealand, including outlying islands, its territorial claim in the Antarctic , and Tokelau"
+          "God Defend New Zealand (Māori: Aotearoa ) God Save the King (Māori: Me tohu e te Atua )"
         ]
       },
       {
@@ -333,14 +243,6 @@
             "children": []
           },
           {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
             "label": "M",
             "children": []
           },
@@ -362,7 +264,7 @@
           }
         ],
         "raw_values": [
-          "English [ n 2 ] Māori NZ Sign Language"
+          "English Māori NZ Sign Language"
         ]
       },
       {
@@ -493,14 +395,6 @@
             "children": []
           },
           {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
             "label": "2",
             "children": []
           },
@@ -538,7 +432,7 @@
           }
         ],
         "raw_values": [
-          "51.6% no religion 32.3% Christianity [ n 4 ] 2.9% Hinduism 6.3% other 6.9% undeclared"
+          "51.6% no religion 32.3% Christianity 2.9% Hinduism 6.3% other 6.9% undeclared"
         ]
       },
       {
@@ -837,18 +731,10 @@
           {
             "label": "6",
             "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
           }
         ],
         "raw_values": [
-          "1.6 [ n 5 ]"
+          "1.6"
         ]
       },
       {
@@ -1094,18 +980,10 @@
           {
             "label": "NZST",
             "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
           }
         ],
         "raw_values": [
-          "UTC +12 ( NZST [ n 6 ] )"
+          "UTC +12 ( NZST )"
         ]
       },
       {
@@ -1122,18 +1000,10 @@
           {
             "label": "NZDT",
             "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
           }
         ],
         "raw_values": [
-          "UTC +13 ( NZDT [ n 7 ] )"
+          "UTC +13 ( NZDT )"
         ]
       },
       {

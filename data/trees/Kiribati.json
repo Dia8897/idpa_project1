@@ -4,18 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Te Mauri, te Raoi ao te Tabomoa (Gilbertese) \"Health, Peace, and Prosperity\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Te Mauri, te Raoi ao te Tabomoa (Gilbertese) \"Health, Peace, and Prosperity\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Kunan Kiribati (Gilbertese) \"Song of Kiribati\"",
+            "label": "Kunan Kiribati (Gilbertese) \"Song of Kiribati\"",
             "children": []
           }
         ]

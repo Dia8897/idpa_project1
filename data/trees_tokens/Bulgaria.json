@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "S",
             "children": []
@@ -53,11 +33,15 @@
           {
             "label": "strength",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Съединението прави силата Sŭedinenieto pravi silata ( \" Unity makes strength \" )"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Mila",
             "children": []
@@ -73,73 +57,10 @@
           {
             "label": "Motherland",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Bulgaria",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "European",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Съединението прави силата Sŭedinenieto pravi silata ( \" Unity makes strength \" )",
-          "Anthem: Мила Родино Mila Rodino ( \"Dear Motherland\" )",
-          "Location of Bulgaria (dark green) – in Europe (green & dark grey) – in the European Union (green) –"
+          "Мила Родино Mila Rodino ( \"Dear Motherland\" )"
         ]
       },
       {

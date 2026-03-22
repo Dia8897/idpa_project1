@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Dios",
             "children": []
@@ -53,11 +33,15 @@
           {
             "label": "Freedom",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Dios, Patria, Libertad\" (Spanish) \"God, Homeland, Freedom"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Quisqueyanos",
             "children": []
@@ -73,145 +57,10 @@
           {
             "label": "Quisqueyans",
             "children": []
-          },
-          {
-            "label": "Sources",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "area",
-            "children": []
-          },
-          {
-            "label": "capital",
-            "children": []
-          },
-          {
-            "label": "coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "coordinates",
-            "children": []
-          },
-          {
-            "label": "flag",
-            "children": []
-          },
-          {
-            "label": "language",
-            "children": []
-          },
-          {
-            "label": "motto",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "names",
-            "children": []
-          },
-          {
-            "label": "For",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "alternate",
-            "children": []
-          },
-          {
-            "label": "area",
-            "children": []
-          },
-          {
-            "label": "figure",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "730",
-            "children": []
-          },
-          {
-            "label": "km",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "810",
-            "children": []
-          },
-          {
-            "label": "sq",
-            "children": []
-          },
-          {
-            "label": "mi",
-            "children": []
-          },
-          {
-            "label": "calling",
-            "children": []
-          },
-          {
-            "label": "code",
-            "children": []
-          },
-          {
-            "label": "809",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Internet",
-            "children": []
-          },
-          {
-            "label": "TLD",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Dios, Patria, Libertad\" (Spanish) \"God, Homeland, Freedom\"",
-          "Anthem: Quisqueyanos valientes Valiant Quisqueyans",
-          "Sources for area, capital, coat of arms, coordinates, flag, language, motto and names: For an alternate area figure of 48,730 km 2 (18,810 sq mi), calling code 809 and Internet TLD:"
+          "Quisqueyanos valientes Valiant Quisqueyans"
         ]
       },
       {

@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag National emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: Azərbaycan Respublikasının Dövlət himni \" State Anthem of the Republic of Azerbaijan \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Azerbaijan",
+            "label": "Azərbaycan Respublikasının Dövlət himni \" State Anthem of the Republic of Azerbaijan \"",
             "children": []
           }
         ]

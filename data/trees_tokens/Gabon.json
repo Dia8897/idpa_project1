@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Union",
             "children": []
@@ -53,11 +33,15 @@
           {
             "label": "Justice",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Union, Travail, Justice\" (French) \"Union, Work, Justice"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "La",
             "children": []
@@ -77,37 +61,10 @@
           {
             "label": "Concord",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Union, Travail, Justice\" (French) \"Union, Work, Justice\"",
-          "Anthem: \" La Concorde \" (French) \"The Concord\"",
-          "Show globe Show map of Africa"
+          "La Concorde \" (French) \"The Concord"
         ]
       },
       {

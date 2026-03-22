@@ -4,24 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "State",
-            "children": []
-          },
-          {
-            "label": "emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Satyameva",
             "children": []
@@ -45,11 +29,15 @@
           {
             "label": "Triumphs",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Satyameva Jayate ( Sanskrit ) \"Truth Alone Triumphs\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Jana",
             "children": []
@@ -105,15 +93,15 @@
           {
             "label": "People",
             "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "song",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Jana Gana Mana ( Hindi ) \"Thou Art the Ruler of the Minds of All People\""
+        ]
+      },
+      {
+        "label": "national_song",
+        "children": [
           {
             "label": "Vande",
             "children": []
@@ -145,50 +133,10 @@
           {
             "label": "Mother",
             "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
-          },
-          {
-            "label": "by",
-            "children": []
-          },
-          {
-            "label": "India",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag State emblem",
-          "Motto: Satyameva Jayate ( Sanskrit ) \"Truth Alone Triumphs\"",
-          "Anthem: Jana Gana Mana ( Hindi ) \"Thou Art the Ruler of the Minds of All People\"",
-          "National song: Vande Mataram ( Sanskrit ) \"I Bow to Thee, Mother\"",
-          "Territory controlled by India Territory claimed but not controlled"
+          "Vande Mataram ( Sanskrit ) \"I Bow to Thee, Mother\""
         ]
       },
       {

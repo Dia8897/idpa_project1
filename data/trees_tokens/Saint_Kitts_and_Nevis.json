@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Country",
             "children": []
@@ -37,11 +17,15 @@
           {
             "label": "Self",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Country Above Self"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "O",
             "children": []
@@ -57,33 +41,10 @@
           {
             "label": "Beauty",
             "children": []
-          },
-          {
-            "label": "Or",
-            "children": []
-          },
-          {
-            "label": "Saint",
-            "children": []
-          },
-          {
-            "label": "Kitts",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Nevis",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Country Above Self\"",
-          "Anthem: \" O Land of Beauty! \"",
-          "Or \"Saint Kitts and Nevis\"."
+          "O Land of Beauty!"
         ]
       },
       {

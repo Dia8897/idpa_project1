@@ -4,22 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Advance Australia Fair \" [ N 1 ]",
-            "children": []
-          },
-          {
-            "label": "Show globe (Australian States and Territories) Show territories with boundaries of Australia's exclusive economic zone Commonwealth of Australia External territories of Australia",
-            "children": []
-          },
-          {
-            "label": "DST not observed in Qld, WA and NT",
+            "label": "Advance Australia Fair",
             "children": []
           }
         ]
@@ -37,7 +25,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Sydney (metropolitan) Melbourne (urban) [ N 2 ]",
+            "label": "Sydney (metropolitan) Melbourne (urban)",
             "children": []
           }
         ]
@@ -55,7 +43,7 @@
         "label": "religion",
         "children": [
           {
-            "label": "43.9% Christianity 38.9% no religion 3.2% Islam 2.7% Hinduism 2.4% Buddhism 1.7% other 7.2% unanswered [ N 3 ]",
+            "label": "43.9% Christianity 38.9% no religion 3.2% Islam 2.7% Hinduism 2.4% Buddhism 1.7% other 7.2% unanswered",
             "children": []
           }
         ]
@@ -64,7 +52,7 @@
         "label": "demonyms",
         "children": [
           {
-            "label": "Australian Aussie (colloquial) [ N 4 ]",
+            "label": "Australian Aussie (colloquial)",
             "children": []
           }
         ]
@@ -283,7 +271,7 @@
         "label": "time_zone",
         "children": [
           {
-            "label": "UTC +8; +9.5; +10 ( AWST, ACST, AEST [ N 5 ] )",
+            "label": "UTC +8; +9.5; +10 ( AWST, ACST, AEST )",
             "children": []
           }
         ]
@@ -292,7 +280,7 @@
         "label": "summer_dst",
         "children": [
           {
-            "label": "UTC +10.5; +11 ( ACDT, AEDT [ N 5 ] )",
+            "label": "UTC +10.5; +11 ( ACDT, AEDT )",
             "children": []
           }
         ]

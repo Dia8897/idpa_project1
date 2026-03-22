@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "\" Deo Juvante \" ( Latin ) (English: \"With God's Help\" )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \" Deo Juvante \" ( Latin ) (English: \"With God's Help\" )",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Inu Munegascu \" (English: \"Monégasque Hymn\" )",
-            "children": []
-          },
-          {
-            "label": "Location of Monaco (green) in Europe (dark grey)",
-            "children": []
-          },
-          {
-            "label": "^ Government offices are located in the Monaco-Ville quarter. ^ GDP per capita calculations include non-resident workers from France and Italy.",
+            "label": "\" Inu Munegascu \" (English: \"Monégasque Hymn\" )",
             "children": []
           }
         ]

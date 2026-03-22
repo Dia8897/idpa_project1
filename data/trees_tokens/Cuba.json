@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Patria",
             "children": []
@@ -65,11 +45,15 @@
           {
             "label": "Overcome",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Patria o Muerte, Venceremos (\"Homeland or Death, We Shall Overcome!\")"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "La",
             "children": []
@@ -89,234 +73,10 @@
           {
             "label": "Song",
             "children": []
-          },
-          {
-            "label": "Cuba",
-            "children": []
-          },
-          {
-            "label": "shown",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "Data",
-            "children": []
-          },
-          {
-            "label": "represents",
-            "children": []
-          },
-          {
-            "label": "racial",
-            "children": []
-          },
-          {
-            "label": "self",
-            "children": []
-          },
-          {
-            "label": "identification",
-            "children": []
-          },
-          {
-            "label": "from",
-            "children": []
-          },
-          {
-            "label": "Cuba",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "2012",
-            "children": []
-          },
-          {
-            "label": "national",
-            "children": []
-          },
-          {
-            "label": "census",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "most",
-            "children": []
-          },
-          {
-            "label": "powerful",
-            "children": []
-          },
-          {
-            "label": "political",
-            "children": []
-          },
-          {
-            "label": "position",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "First",
-            "children": []
-          },
-          {
-            "label": "Secretary",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Communist",
-            "children": []
-          },
-          {
-            "label": "Party",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Cuba",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "President",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "first",
-            "children": []
-          },
-          {
-            "label": "secretary",
-            "children": []
-          },
-          {
-            "label": "controls",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Politburo",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Secretariat",
-            "children": []
-          },
-          {
-            "label": "Cuba",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "top",
-            "children": []
-          },
-          {
-            "label": "decision",
-            "children": []
-          },
-          {
-            "label": "making",
-            "children": []
-          },
-          {
-            "label": "bodies",
-            "children": []
-          },
-          {
-            "label": "making",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "officeholder",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "facto",
-            "children": []
-          },
-          {
-            "label": "leader",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Cuba",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Patria o Muerte, Venceremos (\"Homeland or Death, We Shall Overcome!\")",
-          "Anthem: La Bayamesa (\"The Bayamo Song\")",
-          "Cuba, shown in dark green",
-          "^ Data represents racial self-identification from Cuba's 2012 national census. ^ The most powerful political position is First Secretary of the Communist Party of Cuba , not President . The first secretary controls the Politburo and the Secretariat , Cuba's top decision-making bodies, making the officeholder de facto leader of Cuba."
+          "La Bayamesa (\"The Bayamo Song\")"
         ]
       },
       {

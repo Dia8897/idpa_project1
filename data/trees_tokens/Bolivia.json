@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Himno",
             "children": []
@@ -61,61 +41,22 @@
           {
             "label": "Bolivia",
             "children": []
-          },
-          {
-            "label": "Dual",
-            "children": []
-          },
-          {
-            "label": "flag",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Himno Nacional de Bolivia (Spanish) \" National Anthem of Bolivia \""
+        ]
+      },
+      {
+        "label": "dual_flag",
+        "children": [
           {
             "label": "Wiphala",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Bolivia",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "America",
-            "children": []
-          },
-          {
-            "label": "gray",
             "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Anthem: Himno Nacional de Bolivia (Spanish) \" National Anthem of Bolivia \"",
-          "Dual flag: Wiphala",
-          "Location of Bolivia (dark green) in South America (gray)"
+          "Wiphala"
         ]
       },
       {

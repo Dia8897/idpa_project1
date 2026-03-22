@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Unidad, Paz, Justicia ( Spanish ) \"Unity, Peace, Justice\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Unidad, Paz, Justicia ( Spanish ) \"Unity, Peace, Justice\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Himno Nacional de Guinea Ecuatorial (Spanish) \" National Anthem of Equatorial Guinea \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          },
-          {
-            "label": "Including Equatoguinean Spanish ( Español ecuatoguineano ).",
+            "label": "Himno Nacional de Guinea Ecuatorial (Spanish) \" National Anthem of Equatorial Guinea \"",
             "children": []
           }
         ]

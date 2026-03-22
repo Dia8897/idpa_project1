@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Libertas ( Latin ) \"Freedom\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Libertas ( Latin ) \"Freedom\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Terra di Libertà \" (English: \"Land of Liberty\" )",
-            "children": []
-          },
-          {
-            "label": "Location of San Marino (green) in Europe (dark grey)",
-            "children": []
-          },
-          {
-            "label": "Sources:",
+            "label": "\" Terra di Libertà \" (English: \"Land of Liberty\" )",
             "children": []
           }
         ]

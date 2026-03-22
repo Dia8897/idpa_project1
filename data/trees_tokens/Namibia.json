@@ -148,28 +148,8 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Unity",
             "children": []
@@ -181,11 +161,15 @@
           {
             "label": "Justice",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Unity, Liberty, Justice"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Namibia",
             "children": []
@@ -205,37 +189,10 @@
           {
             "label": "Brave",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Unity, Liberty, Justice\"",
-          "Anthem: \" Namibia, Land of the Brave \"",
-          "Show globe Show map of Africa"
+          "Namibia, Land of the Brave"
         ]
       },
       {
@@ -588,18 +545,10 @@
           {
             "label": "republic",
             "children": []
-          },
-          {
-            "label": "needs",
-            "children": []
-          },
-          {
-            "label": "update",
-            "children": []
           }
         ],
         "raw_values": [
-          "Unitary semi-presidential republic [ needs update ]"
+          "Unitary semi-presidential republic"
         ]
       },
       {

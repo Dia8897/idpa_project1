@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Ubumwe, Umurimo, Gukunda Igihugu ( Kinyarwanda ) Unity, Work, Patriotism ( English ) Unité, Travail, Patriotisme ( French ) Umoja, Kazi, Uzalendo ( Swahili )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Ubumwe, Umurimo, Gukunda Igihugu ( Kinyarwanda ) Unity, Work, Patriotism ( English ) Unité, Travail, Patriotisme ( French ) Umoja, Kazi, Uzalendo ( Swahili )",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Rwanda nziza \" (English: \"Beautiful Rwanda\" )",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
-            "children": []
-          },
-          {
-            "label": "Website www .gov .rw",
+            "label": "\" Rwanda nziza \" (English: \"Beautiful Rwanda\" )",
             "children": []
           }
         ]

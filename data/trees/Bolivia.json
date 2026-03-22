@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Himno Nacional de Bolivia (Spanish) \" National Anthem of Bolivia \"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "dual_flag",
+        "children": [
           {
-            "label": "Anthem: Himno Nacional de Bolivia (Spanish) \" National Anthem of Bolivia \"",
-            "children": []
-          },
-          {
-            "label": "Dual flag: Wiphala",
-            "children": []
-          },
-          {
-            "label": "Location of Bolivia (dark green) in South America (gray)",
+            "label": "Wiphala",
             "children": []
           }
         ]

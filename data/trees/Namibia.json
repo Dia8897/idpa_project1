@@ -76,22 +76,19 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Unity, Liberty, Justice",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Unity, Liberty, Justice\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Namibia, Land of the Brave \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "Namibia, Land of the Brave",
             "children": []
           }
         ]
@@ -163,7 +160,7 @@
         "label": "government",
         "children": [
           {
-            "label": "Unitary semi-presidential republic [ needs update ]",
+            "label": "Unitary semi-presidential republic",
             "children": []
           }
         ]

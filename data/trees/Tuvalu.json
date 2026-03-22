@@ -4,18 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Tuvalu mo te Atua ( Tuvaluan ) \"Tuvalu for the Almighty\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Tuvalu mo te Atua ( Tuvaluan ) \"Tuvalu for the Almighty\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: Tuvalu mo te Atua ( Tuvaluan ) \"Tuvalu for the Almighty\"",
+            "label": "Tuvalu mo te Atua ( Tuvaluan ) \"Tuvalu for the Almighty\"",
             "children": []
           }
         ]

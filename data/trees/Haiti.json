@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "L'union fait la force ( French ) \"Inite se fòs\" ( Haitian Creole ) \"Union makes strength\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: L'union fait la force ( French ) \"Inite se fòs\" ( Haitian Creole ) \"Union makes strength\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: La Dessalinienne \"The Dessaline\"",
-            "children": []
-          },
-          {
-            "label": "Location in the Western Hemisphere Haiti and its neighbors",
+            "label": "La Dessalinienne \"The Dessaline\"",
             "children": []
           }
         ]

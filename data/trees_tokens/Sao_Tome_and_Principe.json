@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Unidade",
             "children": []
@@ -49,11 +29,15 @@
           {
             "label": "Labour",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "\"Unidade, Disciplina, Trabalho\" (\"Unity, Discipline, Labour\")"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Independ",
             "children": []
@@ -73,69 +57,10 @@
           {
             "label": "Independence",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          },
-          {
-            "label": "Tom",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Pr",
-            "children": []
-          },
-          {
-            "label": "ncipe",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "blue",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "light",
-            "children": []
-          },
-          {
-            "label": "blue",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Unidade, Disciplina, Trabalho\" (\"Unity, Discipline, Labour\")",
-          "Anthem: \" Independência Total \" (\"Total Independence\")",
-          "Location of São Tomé and Príncipe (dark blue) in Africa (light blue)"
+          "\" Independência Total \" (\"Total Independence\")"
         ]
       },
       {

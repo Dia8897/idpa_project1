@@ -4,14 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Anthem: İstiklal Marşı \"Independence March\"",
+            "label": "İstiklal Marşı \"Independence March\"",
             "children": []
           }
         ]

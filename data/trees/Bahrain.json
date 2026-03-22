@@ -4,26 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: بحريننا Baḥraynunā \"Our Bahrain\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Bahrain in its region Show map of Bahrain",
-            "children": []
-          },
-          {
-            "label": "Website bahrain .bh",
-            "children": []
-          },
-          {
-            "label": "Since 17 November 1967 46% are Bahraini citizens, 4.7% are other Arabs.",
+            "label": "بحريننا Baḥraynunā \"Our Bahrain\"",
             "children": []
           }
         ]

@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "النصر لنا an-Naṣr lanā \"Victory is ours\"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: النصر لنا an-Naṣr lanā \"Victory is ours\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: نحن جند اللّٰه، جند الوطن Naḥnu jund Allah, jund al-waṭan \"We are Soldiers of God , Soldiers of the Homeland\"",
-            "children": []
-          },
-          {
-            "label": "Location of the Republic of the Sudan Territory claimed but not controlled",
+            "label": "نحن جند اللّٰه، جند الوطن Naḥnu jund Allah, jund al-waṭan \"We are Soldiers of God , Soldiers of the Homeland\"",
             "children": []
           }
         ]
@@ -46,7 +43,7 @@
         "label": "ethnic_groups",
         "children": [
           {
-            "label": "70% Sudanese Arab 5.9% Beja 2.5% Nuba 2% Fur 2% Egyptian 1.3% Nubian [ n 1 ] 16.3% others",
+            "label": "70% Sudanese Arab 5.9% Beja 2.5% Nuba 2% Fur 2% Egyptian 1.3% Nubian 16.3% others",
             "children": []
           }
         ]
@@ -82,7 +79,7 @@
         "label": "president_of_the_transitional_sovereignty_council",
         "children": [
           {
-            "label": "Abdel Fattah al-Burhan [ n 2 ]",
+            "label": "Abdel Fattah al-Burhan",
             "children": []
           }
         ]
@@ -91,7 +88,7 @@
         "label": "vicepresident_of_the_transitional_sovereignty_council",
         "children": [
           {
-            "label": "Malik Agar [ n 3 ]",
+            "label": "Malik Agar",
             "children": []
           }
         ]
@@ -100,7 +97,7 @@
         "label": "prime_minister",
         "children": [
           {
-            "label": "Kamil Idris [ n 4 ]",
+            "label": "Kamil Idris",
             "children": []
           }
         ]
@@ -109,7 +106,7 @@
         "label": "legislature",
         "children": [
           {
-            "label": "Transitional Legislative Authority [ n 5 ]",
+            "label": "Transitional Legislative Authority",
             "children": []
           }
         ]

@@ -39,16 +39,28 @@
         "label": "southern_sami",
         "children": [
           {
-            "label": "Nrjen",
+            "label": "N",
             "children": []
           },
           {
-            "label": "gnkarjhke",
+            "label": "rjen",
+            "children": []
+          },
+          {
+            "label": "g",
+            "children": []
+          },
+          {
+            "label": "nkar",
+            "children": []
+          },
+          {
+            "label": "jhke",
             "children": []
           }
         ],
         "raw_values": [
-          "Nrjen gnkarjhke"
+          "Nöörjen gånkarïjhke"
         ]
       },
       {
@@ -76,28 +88,8 @@
         ]
       },
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Ja",
             "children": []
@@ -169,414 +161,10 @@
           {
             "label": "Song",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "overseas",
-            "children": []
-          },
-          {
-            "label": "territories",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "dependencies",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Kingdom",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Norway",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Europe",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "grey",
-            "children": []
-          },
-          {
-            "label": "Website",
-            "children": []
-          },
-          {
-            "label": "norge",
-            "children": []
-          },
-          {
-            "label": "no",
-            "children": []
-          },
-          {
-            "label": "Includes",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "mainland",
-            "children": []
-          },
-          {
-            "label": "Svalbard",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Jan",
-            "children": []
-          },
-          {
-            "label": "Mayen",
-            "children": []
-          },
-          {
-            "label": "Without",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "integral",
-            "children": []
-          },
-          {
-            "label": "territories",
-            "children": []
-          },
-          {
-            "label": "it",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "67th",
-            "children": []
-          },
-          {
-            "label": "largest",
-            "children": []
-          },
-          {
-            "label": "country",
-            "children": []
-          },
-          {
-            "label": "at",
-            "children": []
-          },
-          {
-            "label": "323",
-            "children": []
-          },
-          {
-            "label": "802",
-            "children": []
-          },
-          {
-            "label": "square",
-            "children": []
-          },
-          {
-            "label": "kilometres",
-            "children": []
-          },
-          {
-            "label": "This",
-            "children": []
-          },
-          {
-            "label": "percentage",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "mainland",
-            "children": []
-          },
-          {
-            "label": "Svalbard",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Jan",
-            "children": []
-          },
-          {
-            "label": "Mayen",
-            "children": []
-          },
-          {
-            "label": "This",
-            "children": []
-          },
-          {
-            "label": "percentage",
-            "children": []
-          },
-          {
-            "label": "counts",
-            "children": []
-          },
-          {
-            "label": "glaciers",
-            "children": []
-          },
-          {
-            "label": "as",
-            "children": []
-          },
-          {
-            "label": "land",
-            "children": []
-          },
-          {
-            "label": "It",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "calculated",
-            "children": []
-          },
-          {
-            "label": "as",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "940",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "365",
-            "children": []
-          },
-          {
-            "label": "246",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "940",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "citation",
-            "children": []
-          },
-          {
-            "label": "needed",
-            "children": []
-          },
-          {
-            "label": "Two",
-            "children": []
-          },
-          {
-            "label": "more",
-            "children": []
-          },
-          {
-            "label": "TLDs",
-            "children": []
-          },
-          {
-            "label": "have",
-            "children": []
-          },
-          {
-            "label": "been",
-            "children": []
-          },
-          {
-            "label": "assigned",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "used",
-            "children": []
-          },
-          {
-            "label": "sj",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "Svalbard",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Jan",
-            "children": []
-          },
-          {
-            "label": "Mayen",
-            "children": []
-          },
-          {
-            "label": "bv",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "Bouvet",
-            "children": []
-          },
-          {
-            "label": "Island",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Anthem: Ja, vi elsker dette landet (English: \"Yes, we love this country\" ) Royal anthem : Kongesangen (English: \"King's Song\" )",
-          "Show globe Show map of Europe Show overseas territories and dependencies Location of the Kingdom of Norway (green) in Europe (green and dark grey)",
-          "Website norge.no",
-          "Includes the mainland, Svalbard and Jan Mayen . Without the integral territories, it is the 67th largest country at 323,802 square kilometres. This percentage is for the mainland, Svalbard, and Jan Mayen. This percentage counts glaciers as \"land\". It's calculated as 19,940.14/(365,246.17+19,940.14). [ citation needed ] Two more TLDs have been assigned, but are not used: .sj for Svalbard and Jan Mayen; .bv for Bouvet Island ."
+          "Ja, vi elsker dette landet (English: \"Yes, we love this country\" ) Royal anthem : Kongesangen (English: \"King's Song\" )"
         ]
       },
       {
@@ -663,32 +251,16 @@
             "children": []
           },
           {
-            "label": "note",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
             "label": "S",
             "children": []
           },
           {
             "label": "mi",
             "children": []
-          },
-          {
-            "label": "note",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
           }
         ],
         "raw_values": [
-          "Norwegian [ note 1 ] Sámi [ note 2 ]"
+          "Norwegian Sámi"
         ]
       },
       {
@@ -739,14 +311,6 @@
             "children": []
           },
           {
-            "label": "note",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
             "label": "21",
             "children": []
           },
@@ -764,7 +328,7 @@
           }
         ],
         "raw_values": [
-          "78.6% Norwegian [ note 3 ] 21.4% non-Norwegian"
+          "78.6% Norwegian 21.4% non-Norwegian"
         ]
       },
       {
@@ -800,14 +364,6 @@
           },
           {
             "label": "Norway",
-            "children": []
-          },
-          {
-            "label": "note",
-            "children": []
-          },
-          {
-            "label": "4",
             "children": []
           },
           {
@@ -868,7 +424,7 @@
           }
         ],
         "raw_values": [
-          "68.5% Christianity 61.7% Church of Norway [ note 4 ] 6.8% other Christian 27.3% no religion 3.4% Islam 0.8% other"
+          "68.5% Christianity 61.7% Church of Norway 6.8% other Christian 27.3% no religion 3.4% Islam 0.8% other"
         ]
       },
       {

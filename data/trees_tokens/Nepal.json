@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Sanskrit",
             "children": []
@@ -65,11 +53,15 @@
           {
             "label": "Heaven",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "जननी जन्मभूमिश्च स्वर्गादपि गरीयसी ( Sanskrit ) Janani Janmabhumishcha Swargadapi Gariyasi \"Mother and Motherland are Greater Than Heaven\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Nepali",
             "children": []
@@ -97,77 +89,10 @@
           {
             "label": "Flowers",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Nepal",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
-          },
-          {
-            "label": "Nepal",
-            "children": []
-          },
-          {
-            "label": "on",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Administrative",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Nepal",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: जननी जन्मभूमिश्च स्वर्गादपि गरीयसी ( Sanskrit ) Janani Janmabhumishcha Swargadapi Gariyasi \"Mother and Motherland are Greater Than Heaven\"",
-          "Anthem: सयौँ थुँगा फूलका ( Nepali ) Sayaun Thunga Phulka \"Hundreds of Flowers\"",
-          "Location of Nepal Territory claimed but not controlled Nepal on the globe Administrative map of Nepal"
+          "सयौँ थुँगा फूलका ( Nepali ) Sayaun Thunga Phulka \"Hundreds of Flowers\""
         ]
       },
       {

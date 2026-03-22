@@ -22,26 +22,19 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Firme y feliz por la unión \" (Spanish) \"Firm and Happy for the Union",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \" Firme y feliz por la unión \" (Spanish) \"Firm and Happy for the Union\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Himno Nacional del Perú \" (Spanish) \"National Anthem of Peru\" March: \" Marcha de Banderas \" (Spanish) \"March of Flags\"",
-            "children": []
-          },
-          {
-            "label": "National seal Gran Sello del Estado (Spanish) Great Seal of the State",
-            "children": []
-          },
-          {
-            "label": "Location of Peru (dark green)",
+            "label": "Himno Nacional del Perú \" (Spanish) \"National Anthem of Peru\" March: \" Marcha de Banderas \" (Spanish) \"March of Flags",
             "children": []
           }
         ]

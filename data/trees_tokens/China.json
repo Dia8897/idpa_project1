@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
           {
             "label": "Y",
             "children": []
@@ -61,52 +49,10 @@
           {
             "label": "Volunteers",
             "children": []
-          },
-          {
-            "label": "People",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "China",
-            "children": []
-          },
-          {
-            "label": "Territory",
-            "children": []
-          },
-          {
-            "label": "claimed",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "not",
-            "children": []
-          },
-          {
-            "label": "controlled",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Anthem: 义勇军进行曲 Yìyǒngjūn jìnxíngqǔ \" March of the Volunteers \"",
-          "People's Republic of China Territory claimed but not controlled"
+          "义勇军进行曲 Yìyǒngjūn jìnxíngqǔ \" March of the Volunteers \""
         ]
       },
       {

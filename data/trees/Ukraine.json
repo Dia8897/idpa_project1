@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Державний гімн України Derzhavnyi himn Ukrainy \" State Anthem of Ukraine \"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Europe Topographic map of Ukraine with borders and cities Territory controlled by Ukraine Russian-occupied territories",
+            "label": "Державний гімн України Derzhavnyi himn Ukrainy \" State Anthem of Ukraine \"",
             "children": []
           }
         ]

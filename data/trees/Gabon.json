@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Union, Travail, Justice\" (French) \"Union, Work, Justice",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Union, Travail, Justice\" (French) \"Union, Work, Justice\"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" La Concorde \" (French) \"The Concord\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "La Concorde \" (French) \"The Concord",
             "children": []
           }
         ]

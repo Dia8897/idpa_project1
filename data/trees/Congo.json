@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "\"Unité, Travail, Progrès\" (French) (English: \"Unity, Work, Progress\" )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \"Unité, Travail, Progrès\" (French) (English: \"Unity, Work, Progress\" )",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" La Congolaise \" (French) Besi Kôngo ( Kongo ) (English: \"The Congolese\" )",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Africa",
+            "label": "\" La Congolaise \" (French) Besi Kôngo ( Kongo ) (English: \"The Congolese\" )",
             "children": []
           }
         ]

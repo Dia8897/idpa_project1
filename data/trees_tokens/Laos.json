@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Santiphap",
             "children": []
@@ -61,11 +49,15 @@
           {
             "label": "Prosperity",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "ສັນຕິພາບ ເອກະລາດ ປະຊາທິປະໄຕ ເອກະພາບ ວັດທະນະຖາວອນ Santiphap, Ekalat, Paxathipatai, Ekaphap, Vatthanathavon \"Peace, Independence, Democracy, Unity and Prosperity\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Pheng",
             "children": []
@@ -89,254 +81,10 @@
           {
             "label": "Anthem",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "ASEAN",
-            "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Laos",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Southeast",
-            "children": []
-          },
-          {
-            "label": "Asia",
-            "children": []
-          },
-          {
-            "label": "Including",
-            "children": []
-          },
-          {
-            "label": "over",
-            "children": []
-          },
-          {
-            "label": "100",
-            "children": []
-          },
-          {
-            "label": "smaller",
-            "children": []
-          },
-          {
-            "label": "ethnic",
-            "children": []
-          },
-          {
-            "label": "groups",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "State",
-            "children": []
-          },
-          {
-            "label": "respects",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "protects",
-            "children": []
-          },
-          {
-            "label": "all",
-            "children": []
-          },
-          {
-            "label": "lawful",
-            "children": []
-          },
-          {
-            "label": "activities",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Buddhists",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "followers",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "other",
-            "children": []
-          },
-          {
-            "label": "religions",
-            "children": []
-          },
-          {
-            "label": "mobilises",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "encourages",
-            "children": []
-          },
-          {
-            "label": "Buddhist",
-            "children": []
-          },
-          {
-            "label": "monks",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "novices",
-            "children": []
-          },
-          {
-            "label": "as",
-            "children": []
-          },
-          {
-            "label": "well",
-            "children": []
-          },
-          {
-            "label": "as",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "priests",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "other",
-            "children": []
-          },
-          {
-            "label": "religions",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "participate",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "activities",
-            "children": []
-          },
-          {
-            "label": "that",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "beneficial",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "country",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "people",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: ສັນຕິພາບ ເອກະລາດ ປະຊາທິປະໄຕ ເອກະພາບ ວັດທະນະຖາວອນ Santiphap, Ekalat, Paxathipatai, Ekaphap, Vatthanathavon \"Peace, Independence, Democracy, Unity and Prosperity\"",
-          "Anthem: ເພງຊາດລາວ Pheng Xat Lao \"Lao National Anthem\"",
-          "Show globe Show ASEAN Location of Laos (green) in Southeast Asia",
-          "^ Including over 100 smaller ethnic groups ^ \"The State respects and protects all lawful activities of Buddhists and of followers of other religions, mobilises and encourages Buddhist monks and novices as well as the priests of other religions to participate in activities that are beneficial to the country and people.\""
+          "ເພງຊາດລາວ Pheng Xat Lao \"Lao National Anthem\""
         ]
       },
       {

@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "الله، الوطن، الأمير Allāh, al-Waṭan, al-Amir \" God , Nation, Emir \"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: الله، الوطن، الأمير Allāh, al-Waṭan, al-Amir \" God , Nation, Emir \"",
-            "children": []
-          },
-          {
-            "label": "Anthem: السلام الأميري As-Salām al-Amīrī \"Peace to the Emir\"",
-            "children": []
-          },
-          {
-            "label": "Location and extent of Qatar (dark green) on the Arabian Peninsula",
+            "label": "السلام الأميري As-Salām al-Amīrī \"Peace to the Emir\"",
             "children": []
           }
         ]

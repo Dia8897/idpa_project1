@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "Bersekutu Bertambah Mutu برسکوتو برتمبه موتو ( Jawi ) ( \" Unity is Strength \" )",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: Bersekutu Bertambah Mutu برسکوتو برتمبه موتو ( Jawi ) ( \" Unity is Strength \" )",
-            "children": []
-          },
-          {
-            "label": "Anthem: Negaraku ( \"My Country\" )",
-            "children": []
-          },
-          {
-            "label": "Show globe Show ASEAN Location of Malaysia (green) in Southeast Asia",
+            "label": "Negaraku ( \"My Country\" )",
             "children": []
           }
         ]
@@ -28,7 +25,7 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Kuala Lumpur [ fn 1 ] 3°8′N 101°41′E / 3.133°N 101.683°E / 3.133; 101.683",
+            "label": "Kuala Lumpur 3°8′N 101°41′E / 3.133°N 101.683°E / 3.133; 101.683",
             "children": []
           }
         ]
@@ -37,7 +34,7 @@
         "label": "administrative_center",
         "children": [
           {
-            "label": "Putrajaya [ fn 2 ] 2°56′N 101°42′E / 2.933°N 101.700°E / 2.933; 101.700",
+            "label": "Putrajaya 2°56′N 101°42′E / 2.933°N 101.700°E / 2.933; 101.700",
             "children": []
           }
         ]

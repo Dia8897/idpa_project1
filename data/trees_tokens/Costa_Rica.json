@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Vivan",
             "children": []
@@ -81,11 +61,15 @@
           {
             "label": "live",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "¡Vivan siempre el trabajo y la paz!\" ( Spanish ) \"May work and peace always live!"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Himno",
             "children": []
@@ -128,9 +112,7 @@
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"¡Vivan siempre el trabajo y la paz!\" ( Spanish ) \"May work and peace always live!\"",
-          "Anthem: Himno Nacional de Costa Rica \"National Anthem of Costa Rica\""
+          "Himno Nacional de Costa Rica \"National Anthem of Costa Rica\""
         ]
       },
       {

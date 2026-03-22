@@ -4,20 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Justice",
             "children": []
@@ -41,11 +29,15 @@
           {
             "label": "Work",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Justice – Paix – Travail (\"Justice – Peace – Work\")"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Debout",
             "children": []
@@ -61,37 +53,10 @@
           {
             "label": "Congolese",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: Justice – Paix – Travail (\"Justice – Peace – Work\")",
-          "Anthem: Debout Congolais (\"Arise, Congolese\")",
-          "Show globe Show map of Africa"
+          "Debout Congolais (\"Arise, Congolese\")"
         ]
       },
       {

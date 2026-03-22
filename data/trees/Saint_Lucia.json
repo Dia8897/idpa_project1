@@ -4,22 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Coat of arms",
+            "label": "The Land, The People, The Light",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: \" The Land, The People, The Light \"",
-            "children": []
-          },
-          {
-            "label": "Anthem: \" Sons and Daughters of Saint Lucia \" Royal anthem : \" God Save the King \"",
-            "children": []
-          },
-          {
-            "label": "Location of Saint Lucia (circled in red) in the Caribbean",
+            "label": "Sons and Daughters of Saint Lucia \" Royal anthem : \" God Save the King",
             "children": []
           }
         ]

@@ -1,17 +1,12 @@
 {
   "country_name": "Australia",
   "infobox": {
-    "info": [
-      "Flag Coat of arms",
-      "Anthem: \" Advance Australia Fair \" [ N 1 ]",
-      "Show globe (Australian States and Territories) Show territories with boundaries of Australia's exclusive economic zone Commonwealth of Australia External territories of Australia",
-      "DST not observed in Qld, WA and NT"
-    ],
+    "Anthem": "Advance Australia Fair",
     "Capital": "Canberra 35°18′29′′S 149°07′28′′E / 35.30806°S 149.12444°E / -35.30806; 149.12444",
-    "Largest city": "Sydney (metropolitan) Melbourne (urban) [ N 2 ]",
+    "Largest city": "Sydney (metropolitan) Melbourne (urban)",
     "National language": "English",
-    "Religion ( 2021 )": "43.9% Christianity 38.9% no religion 3.2% Islam 2.7% Hinduism 2.4% Buddhism 1.7% other 7.2% unanswered [ N 3 ]",
-    "Demonyms": "Australian Aussie (colloquial) [ N 4 ]",
+    "Religion ( 2021 )": "43.9% Christianity 38.9% no religion 3.2% Islam 2.7% Hinduism 2.4% Buddhism 1.7% other 7.2% unanswered",
+    "Demonyms": "Australian Aussie (colloquial)",
     "Government": "Federal parliamentary constitutional monarchy",
     "Monarch": "Charles III",
     "Governor-General": "Sam Mostyn",
@@ -41,8 +36,8 @@
     "Gini (2020)": "32.4 medium inequality",
     "HDI (2023)": "0.958 very high ( 7th )",
     "Currency": "Australian dollar ( $ ) ( AUD )",
-    "Time zone": "UTC +8; +9.5; +10 ( AWST, ACST, AEST [ N 5 ] )",
-    "Summer ( DST )": "UTC +10.5; +11 ( ACDT, AEDT [ N 5 ] )",
+    "Time zone": "UTC +8; +9.5; +10 ( AWST, ACST, AEST )",
+    "Summer ( DST )": "UTC +10.5; +11 ( ACDT, AEDT )",
     "Date format": "dd / mm / yyyy",
     "Calling code": "+61",
     "ISO 3166 code": "AU",

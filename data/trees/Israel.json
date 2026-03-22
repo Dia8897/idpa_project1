@@ -4,22 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Emblem",
-            "children": []
-          },
-          {
-            "label": "Anthem: הַתִּקְוָה ( Hatīkvāh ; \"The Hope\")",
-            "children": []
-          },
-          {
-            "label": "Show globe Map of Israel ( Green Line ) Israel within internationally recognised borders Israeli-occupied territories",
-            "children": []
-          },
-          {
-            "label": "^ 20,770 km 2 is Israel within the Green Line . 22,072 km 2 includes the occupied Golan Heights (c. 1,200 km 2 (460 sq mi)) and East Jerusalem (c. 64 km 2 (25 sq mi)).",
+            "label": "הַתִּקְוָה ( Hatīkvāh ; \"The Hope\")",
             "children": []
           }
         ]
@@ -28,7 +16,7 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Jerusalem ( limited recognition ) [ fn 1 ] [ fn 2 ] 31°47′N 35°13′E / 31.783°N 35.217°E / 31.783; 35.217",
+            "label": "Jerusalem ( limited recognition ) 31°47′N 35°13′E / 31.783°N 35.217°E / 31.783; 35.217",
             "children": []
           }
         ]
@@ -46,7 +34,7 @@
         "label": "special_status",
         "children": [
           {
-            "label": "Arabic [ fn 3 ]",
+            "label": "Arabic",
             "children": []
           }
         ]
@@ -180,7 +168,7 @@
         "label": "census",
         "children": [
           {
-            "label": "9,601,720 [ fn 4 ]",
+            "label": "9,601,720",
             "children": []
           }
         ]

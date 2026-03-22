@@ -4,26 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag Emblem",
+            "label": "الله، الوطن، الأمير Allāh, al-Waṭan, al-Amir \" God , Nation, Emir \"",
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
-            "label": "Motto: الله، الوطن، الأمير Allāh, al-Waṭan, al-Amir \" God , Nation, Emir \"",
-            "children": []
-          },
-          {
-            "label": "Anthem: النشيد الوطني الكويتي al-Nashīd al-Waṭanī al-Kuwaytī \"National Anthem of Kuwait\"",
-            "children": []
-          },
-          {
-            "label": "Show globe Show map of Kuwait",
-            "children": []
-          },
-          {
-            "label": "Nominal elective succession within the House of Sabah . Emirate",
+            "label": "النشيد الوطني الكويتي al-Nashīd al-Waṭanī al-Kuwaytī \"National Anthem of Kuwait\"",
             "children": []
           }
         ]

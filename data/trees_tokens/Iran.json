@@ -4,22 +4,14 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
           {
-            "label": "Flag",
+            "label": "All",
             "children": []
           },
           {
-            "label": "Emblem",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
-          {
-            "label": "Allhu",
+            "label": "hu",
             "children": []
           },
           {
@@ -55,11 +47,19 @@
             "children": []
           },
           {
-            "label": "Esteqll",
+            "label": "Esteql",
             "children": []
           },
           {
-            "label": "zdi",
+            "label": "l",
+            "children": []
+          },
+          {
+            "label": "z",
+            "children": []
+          },
+          {
+            "label": "di",
             "children": []
           },
           {
@@ -71,7 +71,11 @@
             "children": []
           },
           {
-            "label": "Eslmi",
+            "label": "Esl",
+            "children": []
+          },
+          {
+            "label": "mi",
             "children": []
           },
           {
@@ -101,11 +105,15 @@
           {
             "label": "facto",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "اَللَّٰهُ أَكْبَرُ Allāhu ʾAkbar ( Takbir ) \" God is the Greatest\" ( de jure ) استقلال، آزادی، جمهوری اسلامی Esteqlâl, zâdi, Jomhuri-ye Eslâmi \"Independence, freedom, the Islamic Republic\" ( de facto )"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Mehr",
             "children": []
@@ -115,7 +123,15 @@
             "children": []
           },
           {
-            "label": "Khvarn",
+            "label": "Kh",
+            "children": []
+          },
+          {
+            "label": "var",
+            "children": []
+          },
+          {
+            "label": "n",
             "children": []
           },
           {
@@ -125,37 +141,10 @@
           {
             "label": "Sun",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Iran",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Emblem",
-          "Motto: Allhu Akbar ( Takbir ) \" God is the Greatest\" ( de jure ) ϡ Esteqll, zdi, Jomhuri-ye Eslmi \"Independence, freedom, the Islamic Republic\" ( de facto )",
-          "Anthem: Mehr-e Khvarn \"Eastern Sun\"",
-          "Show globe Show map of Iran"
+          "مهر خاوران Mehr-e Khâvarân \"Eastern Sun\""
         ]
       },
       {

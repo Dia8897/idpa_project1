@@ -4,18 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "anthem",
         "children": [
           {
-            "label": "Flag Coat of arms",
-            "children": []
-          },
-          {
-            "label": "Anthem: Государственный гимн Российской Федерации Gosudarstvennyy gimn Rossiyskoy Federatsii \" State Anthem of the Russian Federation \"",
-            "children": []
-          },
-          {
-            "label": "Recognised territory Claimed but internationally unrecognised Show globe Show region with labels Show map of Europe",
+            "label": "Государственный гимн Российской Федерации Gosudarstvennyy gimn Rossiyskoy Federatsii \" State Anthem of the Russian Federation \"",
             "children": []
           }
         ]

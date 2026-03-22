@@ -120,28 +120,8 @@
         ]
       },
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Un",
             "children": []
@@ -229,11 +209,15 @@
           {
             "label": "faith",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Un peuple, un but, une foi\" (French) \"Mɔgɔ kelen, laɲini kelen, dannaya kelen\" ( Bambara ) \"One people, one goal, one faith"
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Le",
             "children": []
@@ -245,37 +229,10 @@
           {
             "label": "French",
             "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "globe",
-            "children": []
-          },
-          {
-            "label": "Show",
-            "children": []
-          },
-          {
-            "label": "map",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: \"Un peuple, un but, une foi\" (French) \"Mɔgɔ kelen, laɲini kelen, dannaya kelen\" ( Bambara ) \"One people, one goal, one faith\"",
-          "Anthem: \" Le Mali \" (French)",
-          "Show globe Show map of Africa"
+          "\" Le Mali \" (French)"
         ]
       },
       {
@@ -750,12 +707,16 @@
             "children": []
           },
           {
-            "label": "Gota",
+            "label": "Go",
+            "children": []
+          },
+          {
+            "label": "ta",
             "children": []
           }
         ],
         "raw_values": [
-          "Assimi Gota"
+          "Assimi Goïta"
         ]
       },
       {
@@ -766,7 +727,11 @@
             "children": []
           },
           {
-            "label": "Maga",
+            "label": "Ma",
+            "children": []
+          },
+          {
+            "label": "ga",
             "children": []
           },
           {
@@ -775,7 +740,7 @@
           }
         ],
         "raw_values": [
-          "Abdoulaye Maga (interim)"
+          "Abdoulaye Maïga (interim)"
         ]
       },
       {

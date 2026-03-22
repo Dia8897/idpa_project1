@@ -4,28 +4,8 @@
     "label": "country",
     "children": [
       {
-        "label": "info",
+        "label": "motto",
         "children": [
-          {
-            "label": "Flag",
-            "children": []
-          },
-          {
-            "label": "Coat",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "arms",
-            "children": []
-          },
-          {
-            "label": "Motto",
-            "children": []
-          },
           {
             "label": "Sub",
             "children": []
@@ -61,11 +41,15 @@
           {
             "label": "flourish",
             "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
+          }
+        ],
+        "raw_values": [
+          "Sub umbra floreo ( Latin ) \"Under the shade I flourish\""
+        ]
+      },
+      {
+        "label": "anthem",
+        "children": [
           {
             "label": "Land",
             "children": []
@@ -105,61 +89,10 @@
           {
             "label": "King",
             "children": []
-          },
-          {
-            "label": "Location",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Belize",
-            "children": []
-          },
-          {
-            "label": "dark",
-            "children": []
-          },
-          {
-            "label": "green",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Americas",
-            "children": []
-          },
-          {
-            "label": "Belize",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "its",
-            "children": []
-          },
-          {
-            "label": "neighbours",
-            "children": []
           }
         ],
         "raw_values": [
-          "Flag Coat of arms",
-          "Motto: Sub umbra floreo ( Latin ) \"Under the shade I flourish\"",
-          "Anthem: \" Land of the Free \" Royal anthem : \" God Save the King \"",
-          "Location of Belize (dark green) in the Americas Belize and its neighbours"
+          "Land of the Free \" Royal anthem : \" God Save the King"
         ]
       },
       {
