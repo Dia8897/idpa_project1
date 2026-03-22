@@ -144,6 +144,7 @@
         <button id="patchBtn" type="button" class="btn" disabled>Patch Source -> Target</button>
         <button id="postJsonBtn" type="button" class="btn" disabled>Postprocess JSON</button>
         <button id="postXmlBtn" type="button" class="btn" disabled>Postprocess XML</button>
+        <button id="postInfoboxBtn" type="button" class="btn" disabled>Postprocess Infobox</button>
       </div>
 
       <article class="card" id="patchedCard" style="display:none;">
@@ -151,6 +152,7 @@
           <h3>Patched Source</h3>
           <small>Result of applying the (display) diff to the source tree</small>
         </div>
+        <div id="patchStatus" class="patch-status">Run patching to verify whether the patched tree matches the target tree.</div>
         <div id="patchedGraph" class="graph scroll"></div>
         <div class="postprocess-block">
           <div class="card-head">

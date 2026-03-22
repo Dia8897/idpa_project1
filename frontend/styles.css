@@ -394,6 +394,25 @@ button:hover { background: #75c6ec; border-color: #63b8e0; }
   margin-top: 16px;
 }
 
+.patch-status {
+  margin: 0 0 14px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--panel-soft);
+  color: var(--text);
+}
+
+.patch-status.ok {
+  border-color: var(--ins);
+  background: var(--accent-green-soft);
+}
+
+.patch-status.fail {
+  border-color: var(--del);
+  background: #ffeef2;
+}
+
 .mono.postprocess-view {
   margin: 0;
   max-height: 420px;

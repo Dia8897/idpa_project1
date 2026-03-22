@@ -41,6 +41,8 @@ const els = {
   patchedGraph: document.getElementById("patchedGraph"),
   postJsonBtn: document.getElementById("postJsonBtn"),
   postXmlBtn: document.getElementById("postXmlBtn"),
+  postInfoboxBtn: document.getElementById("postInfoboxBtn"),
+  patchStatus: document.getElementById("patchStatus"),
   postprocessContent: document.getElementById("postprocessContent"),
 };
 
@@ -213,6 +215,22 @@ function cloneNode(node) {
   return cloned;
 }
 
+function treesEqual(a, b) {
+  return JSON.stringify(a) === JSON.stringify(b);
+}
+
+function deepCopy(value) {
+  return value == null ? value : JSON.parse(JSON.stringify(value));
+}
+
+function serializeTreeForCompare(node) {
+  return {
+    label: String(node?.label || ""),
+    raw_values: Array.isArray(node?.raw_values) ? [...node.raw_values] : undefined,
+    children: (node?.children || []).map(serializeTreeForCompare),
+  };
+}
+
 function findNode(root, pathParts) {
   if (!pathParts.length) return root;
   let cur = root;
@@ -225,19 +243,45 @@ function findNode(root, pathParts) {
   return cur;
 }
 
+function replaceNodeMetadata(node, snapshot) {
+  const keepChildren = node.children || [];
+  Object.keys(node).forEach((key) => {
+    delete node[key];
+  });
+  Object.keys(snapshot || {}).forEach((key) => {
+    if (key !== "children") node[key] = deepCopy(snapshot[key]);
+  });
+  node.children = keepChildren;
+}
+
 function applyOps(tree, ops) {
   const root = cloneNode(tree);
   const parts = (p) => p.split("/").filter(Boolean).slice(1); // drop leading "country"
-  const delOps = ops.filter((o) => o.kind === "DEL");
-  const insOps = ops.filter((o) => o.kind === "INS");
+  const delOps = ops
+    .filter((o) => o.kind === "DEL")
+    .sort((a, b) => {
+      if (a.path !== b.path) return b.path.localeCompare(a.path);
+      return (b.child_index ?? -1) - (a.child_index ?? -1);
+    });
+  const insOps = ops
+    .filter((o) => o.kind === "INS")
+    .sort((a, b) => {
+      if (a.path !== b.path) return a.path.localeCompare(b.path);
+      return (a.child_index ?? Number.MAX_SAFE_INTEGER) - (b.child_index ?? Number.MAX_SAFE_INTEGER);
+    });
   const updOps = ops.filter((o) => o.kind === "UPD");
 
   // Deletes
   delOps.forEach((op) => {
     const parent = findNode(root, parts(op.path));
     if (!parent) return;
-    const idx = (parent.children || []).findIndex((c) => c.label === op.old);
-    if (idx >= 0) parent.children.splice(idx, 1);
+    const children = parent.children || [];
+    if (op.child_index != null && children[op.child_index]?.label === op.old) {
+      children.splice(op.child_index, 1);
+      return;
+    }
+    const idx = children.findIndex((c) => c.label === op.old);
+    if (idx >= 0) children.splice(idx, 1);
   });
 
   // Inserts
@@ -246,15 +290,31 @@ function applyOps(tree, ops) {
     if (!parent) return;
     const subtree = op.subtree || { label: op.new, children: [] };
     parent.children = parent.children || [];
-    parent.children.push(cloneNode(subtree));
+    if (op.child_index != null && op.child_index >= 0 && op.child_index <= parent.children.length) {
+      parent.children.splice(op.child_index, 0, cloneNode(subtree));
+    } else {
+      parent.children.push(cloneNode(subtree));
+    }
   });
 
   // Updates
   updOps.forEach((op) => {
-    const parent = findNode(root, parts(op.path));
-    if (!parent) return;
-    const child = (parent.children || []).find((c) => c.label === op.old);
-    if (child) child.label = op.new;
+    if (op.nodeIsLeaf) {
+      const parent = findNode(root, parts(op.path));
+      if (!parent) return;
+      const children = parent.children || [];
+      if (op.child_index != null && children[op.child_index]?.label === op.old) {
+        children[op.child_index] = cloneNode(op.subtree || { label: op.new, children: [] });
+        return;
+      }
+      const idx = children.findIndex((c) => c.label === op.old);
+      if (idx >= 0) children[idx] = cloneNode(op.subtree || { label: op.new, children: [] });
+      return;
+    }
+
+    const node = findNode(root, parts(op.path));
+    if (!node) return;
+    if (op.subtree) replaceNodeMetadata(node, op.subtree);
   });
 
   return root;
@@ -330,17 +390,41 @@ function payloadToXml(payload) {
   return `<?xml version="1.0" encoding="UTF-8"?>\n<country name="${escapeXml(payload.country_name)}">\n${body}\n</country>`;
 }
 
+function stringifyInfoboxValue(value) {
+  if (Array.isArray(value)) return value.map(stringifyInfoboxValue).join(" | ");
+  if (value && typeof value === "object") {
+    return Object.entries(value)
+      .map(([key, child]) => `${key}: ${stringifyInfoboxValue(child)}`)
+      .join("; ");
+  }
+  return String(value);
+}
+
+function payloadToInfoboxText(payload) {
+  const lines = ["{{Infobox country", `| name = ${payload.country_name}`];
+  Object.entries(payload.infobox).forEach(([key, value]) => {
+    lines.push(`| ${key} = ${stringifyInfoboxValue(value)}`);
+  });
+  lines.push("}}");
+  return lines.join("\n");
+}
+
 function showPostprocessed(format) {
   if (!els.postprocessContent) return;
-  const patchedTree = window.__lastPatchedToken || window.__lastPatchedDisplay;
+  const patchedTree = window.__lastPatchedDisplay;
   const targetName = window.__lastTarget || "Patched";
   if (!patchedTree) {
     els.postprocessContent.textContent = "Run patching first.";
     return;
   }
   const payload = treeToInfoboxPayload(targetName, patchedTree);
-  els.postprocessContent.textContent =
-    format === "xml" ? payloadToXml(payload) : JSON.stringify(payload, null, 2);
+  if (format === "xml") {
+    els.postprocessContent.textContent = payloadToXml(payload);
+  } else if (format === "infobox") {
+    els.postprocessContent.textContent = payloadToInfoboxText(payload);
+  } else {
+    els.postprocessContent.textContent = JSON.stringify(payload, null, 2);
+  }
   if (els.patchedCard) els.patchedCard.style.display = "block";
 }
 
@@ -874,19 +958,37 @@ function buildEditScript(t1, t2) {
   const ops = [];
   const sim = makeSimilarity();
 
-  function addIns(path, node) {
-    ops.push({ kind: "INS", path, old: null, new: nodeLabel(node), nodeIsLeaf: isLeaf(node) });
+  function addIns(path, node, childIndex = null) {
+    ops.push({
+      kind: "INS",
+      path,
+      old: null,
+      new: nodeLabel(node),
+      nodeIsLeaf: isLeaf(node),
+      child_index: childIndex,
+      subtree: cloneNode(node),
+    });
   }
-  function addDel(path, node) {
-    ops.push({ kind: "DEL", path, old: nodeLabel(node), new: null, nodeIsLeaf: isLeaf(node) });
+  function addDel(path, node, childIndex = null) {
+    ops.push({
+      kind: "DEL",
+      path,
+      old: nodeLabel(node),
+      new: null,
+      nodeIsLeaf: isLeaf(node),
+      child_index: childIndex,
+      subtree: cloneNode(node),
+    });
   }
-  function addUpd(path, oldNode, newNode) {
+  function addUpd(path, oldNode, newNode, childIndex = null) {
     ops.push({
       kind: "UPD",
       path,
       old: nodeLabel(oldNode),
       new: nodeLabel(newNode),
-      nodeIsLeaf: true,
+      nodeIsLeaf: isLeaf(oldNode) && isLeaf(newNode),
+      child_index: childIndex,
+      subtree: cloneNode(newNode),
     });
   }
 
@@ -904,7 +1006,7 @@ function buildEditScript(t1, t2) {
     if (uc.length === 0 && vc.length === 0) return;
 
     if (uc.length === 1 && vc.length === 1 && isLeaf(uc[0]) && isLeaf(vc[0])) {
-      if (nodeLabel(uc[0]) !== nodeLabel(vc[0])) addUpd(current, uc[0], vc[0]);
+      if (nodeLabel(uc[0]) !== nodeLabel(vc[0])) addUpd(current, uc[0], vc[0], 0);
       return;
     }
 
@@ -913,10 +1015,10 @@ function buildEditScript(t1, t2) {
     const matchV = new Set(matches.map((m) => m[1]));
 
     uc.forEach((child, idx) => {
-      if (!matchU.has(idx)) addDel(current, child);
+      if (!matchU.has(idx)) addDel(current, child, idx);
     });
     vc.forEach((child, idx) => {
-      if (!matchV.has(idx)) addIns(current, child);
+      if (!matchV.has(idx)) addIns(current, child, idx);
     });
     matches.forEach(([i, j]) => diff(uc[i], vc[j], current));
   }
@@ -1162,6 +1264,17 @@ function renderComparisonTrees() {
   }
 }
 
+function updatePatchStatus(displayOk, tokenOk) {
+  if (!els.patchStatus) return;
+  if (displayOk && tokenOk) {
+    els.patchStatus.className = "patch-status ok";
+    els.patchStatus.textContent = "Patch verification passed. The patched readable tree and the patched tokenized tree both match the selected target exactly.";
+    return;
+  }
+  els.patchStatus.className = "patch-status fail";
+  els.patchStatus.textContent = `Patch verification failed. Readable match: ${displayOk}. Tokenized match: ${tokenOk}.`;
+}
+
 async function onCountryChange() {
   const country = els.countrySelect.value;
   if (!country) return;
@@ -1209,6 +1322,11 @@ async function onCompare() {
     }
     if (els.postJsonBtn) els.postJsonBtn.disabled = true;
     if (els.postXmlBtn) els.postXmlBtn.disabled = true;
+    if (els.postInfoboxBtn) els.postInfoboxBtn.disabled = true;
+    if (els.patchStatus) {
+      els.patchStatus.className = "patch-status";
+      els.patchStatus.textContent = "Run patching to verify whether the patched tree matches the target tree.";
+    }
     updateDiffPanel(source, target, opsDisplay);
     window.__lastTarget = target;
   } catch (err) {
@@ -1222,6 +1340,7 @@ async function onCompare() {
     if (els.patchBtn) els.patchBtn.disabled = true;
     if (els.postJsonBtn) els.postJsonBtn.disabled = true;
     if (els.postXmlBtn) els.postXmlBtn.disabled = true;
+    if (els.postInfoboxBtn) els.postInfoboxBtn.disabled = true;
     if (els.diffOverlay) els.diffOverlay.style.display = "none";
   }
 }
@@ -1286,6 +1405,7 @@ function enablePatchPreview() {
   if (!els.patchBtn) return;
   els.patchBtn.addEventListener("click", () => {
     const source = els.sourceSelect.value;
+    const target = els.targetSelect.value;
     if (!source) return;
     const opsDisplay = window.__lastOps || [];
     const opsToken = window.__lastOpsToken || [];
@@ -1293,19 +1413,31 @@ function enablePatchPreview() {
     Promise.all([
       loadTreeByCountry(source, DISPLAY_TREE_DIR),
       loadTreeByCountry(source, TED_TREE_DIR),
+      loadTreeByCountry(target, DISPLAY_TREE_DIR),
+      loadTreeByCountry(target, TED_TREE_DIR),
     ])
-      .then(([displayTree, tokenTree]) => {
+      .then(([displayTree, tokenTree, targetDisplayTree, targetTokenTree]) => {
         const patchedDisplay = applyOps(displayTree.tree, opsDisplay);
         const patchedToken = applyOps(tokenTree.tree, opsToken);
         window.__lastPatchedDisplay = patchedDisplay;
         window.__lastPatchedToken = patchedToken;
         if (els.patchedCard) els.patchedCard.style.display = "block";
         renderComparisonTrees();
+        const displayOk = treesEqual(
+          serializeTreeForCompare(patchedDisplay),
+          serializeTreeForCompare(targetDisplayTree.tree),
+        );
+        const tokenOk = treesEqual(
+          serializeTreeForCompare(patchedToken),
+          serializeTreeForCompare(targetTokenTree.tree),
+        );
+        updatePatchStatus(displayOk, tokenOk);
         if (els.postprocessContent) {
-          els.postprocessContent.textContent = "Patched tree ready. Generate JSON or XML.";
+          els.postprocessContent.textContent = "Patched tree ready. Generate JSON, XML, or infobox text.";
         }
         if (els.postJsonBtn) els.postJsonBtn.disabled = false;
         if (els.postXmlBtn) els.postXmlBtn.disabled = false;
+        if (els.postInfoboxBtn) els.postInfoboxBtn.disabled = false;
       })
       .catch((err) => {
         console.error(err);
@@ -1319,6 +1451,9 @@ function enablePostprocessButtons() {
   }
   if (els.postXmlBtn) {
     els.postXmlBtn.addEventListener("click", () => showPostprocessed("xml"));
+  }
+  if (els.postInfoboxBtn) {
+    els.postInfoboxBtn.addEventListener("click", () => showPostprocessed("infobox"));
   }
 }
 
