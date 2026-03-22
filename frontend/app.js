@@ -231,6 +231,24 @@ function serializeTreeForCompare(node) {
   };
 }
 
+function annotateTreeIds(node, state = { next: 0 }) {
+  if (!node || typeof node !== "object") return node;
+  node.__node_id = `n${state.next}`;
+  state.next += 1;
+  (node.children || []).forEach((child) => annotateTreeIds(child, state));
+  return node;
+}
+
+function findNodeById(root, nodeId) {
+  if (!root || !nodeId) return null;
+  if (root.__node_id === nodeId) return root;
+  for (const child of root.children || []) {
+    const found = findNodeById(child, nodeId);
+    if (found) return found;
+  }
+  return null;
+}
+
 function findNode(root, pathParts) {
   if (!pathParts.length) return root;
   let cur = root;
@@ -243,8 +261,17 @@ function findNode(root, pathParts) {
   return cur;
 }
 
+function findChildIndex(parent, label, preferredIndex = null) {
+  const children = parent?.children || [];
+  if (preferredIndex != null && preferredIndex >= 0 && preferredIndex < children.length) {
+    if (children[preferredIndex]?.label === label) return preferredIndex;
+  }
+  return children.findIndex((c) => c.label === label);
+}
+
 function replaceNodeMetadata(node, snapshot) {
   const keepChildren = node.children || [];
+  const keepId = node.__node_id;
   Object.keys(node).forEach((key) => {
     delete node[key];
   });
@@ -252,28 +279,19 @@ function replaceNodeMetadata(node, snapshot) {
     if (key !== "children") node[key] = deepCopy(snapshot[key]);
   });
   node.children = keepChildren;
+  node.__node_id = keepId;
 }
 
 function applyOps(tree, ops) {
   const root = cloneNode(tree);
   const parts = (p) => p.split("/").filter(Boolean).slice(1); // drop leading "country"
-  const delOps = ops
-    .filter((o) => o.kind === "DEL")
-    .sort((a, b) => {
-      if (a.path !== b.path) return b.path.localeCompare(a.path);
-      return (b.child_index ?? -1) - (a.child_index ?? -1);
-    });
-  const insOps = ops
-    .filter((o) => o.kind === "INS")
-    .sort((a, b) => {
-      if (a.path !== b.path) return a.path.localeCompare(b.path);
-      return (a.child_index ?? Number.MAX_SAFE_INTEGER) - (b.child_index ?? Number.MAX_SAFE_INTEGER);
-    });
+  const delOps = ops.filter((o) => o.kind === "DEL");
+  const insOps = ops.filter((o) => o.kind === "INS");
   const updOps = ops.filter((o) => o.kind === "UPD");
 
   // Deletes
   delOps.forEach((op) => {
-    const parent = findNode(root, parts(op.path));
+    const parent = op.parent_id ? findNodeById(root, op.parent_id) : findNode(root, parts(op.path));
     if (!parent) return;
     const children = parent.children || [];
     if (op.child_index != null && children[op.child_index]?.label === op.old) {
@@ -286,7 +304,7 @@ function applyOps(tree, ops) {
 
   // Inserts
   insOps.forEach((op) => {
-    const parent = findNode(root, parts(op.path));
+    const parent = op.parent_id ? findNodeById(root, op.parent_id) : findNode(root, parts(op.path));
     if (!parent) return;
     const subtree = op.subtree || { label: op.new, children: [] };
     parent.children = parent.children || [];
@@ -300,19 +318,15 @@ function applyOps(tree, ops) {
   // Updates
   updOps.forEach((op) => {
     if (op.nodeIsLeaf) {
-      const parent = findNode(root, parts(op.path));
+      const parent = op.parent_id ? findNodeById(root, op.parent_id) : findNode(root, parts(op.path));
       if (!parent) return;
       const children = parent.children || [];
-      if (op.child_index != null && children[op.child_index]?.label === op.old) {
-        children[op.child_index] = cloneNode(op.subtree || { label: op.new, children: [] });
-        return;
-      }
-      const idx = children.findIndex((c) => c.label === op.old);
+      const idx = findChildIndex(parent, op.old, op.child_index);
       if (idx >= 0) children[idx] = cloneNode(op.subtree || { label: op.new, children: [] });
       return;
     }
 
-    const node = findNode(root, parts(op.path));
+    const node = op.node_id ? findNodeById(root, op.node_id) : findNode(root, parts(op.path));
     if (!node) return;
     if (op.subtree) replaceNodeMetadata(node, op.subtree);
   });
@@ -874,89 +888,131 @@ function joinPath(path, label) {
   return `${path}/${label}`;
 }
 
-function makeSimilarity() {
-  const simCache = new Map();
-  const serialCache = new WeakMap();
+function payloadWithoutChildren(node) {
+  const out = {};
+  Object.keys(node || {}).forEach((key) => {
+    if (key !== "children") out[key] = deepCopy(node[key]);
+  });
+  return out;
+}
 
-  function serializeNode(node) {
-    if (serialCache.has(node)) return serialCache.get(node);
-    const val = JSON.stringify({
-      label: nodeLabel(node),
-      children: (node.children || []).map((c) => JSON.parse(serializeNode(c))),
-    });
-    serialCache.set(node, val);
-    return val;
+function cloneSerializable(node) {
+  return {
+    label: nodeLabel(node),
+    children: (node.children || []).map(cloneSerializable),
+  };
+}
+
+function serializeNode(node) {
+  return JSON.stringify(cloneSerializable(node));
+}
+
+function collectSubtreeSerials(node, out = new Set()) {
+  out.add(serializeNode(node));
+  (node.children || []).forEach((child) => collectSubtreeSerials(child, out));
+  return out;
+}
+
+function subtreeSize(node) {
+  return 1 + (node.children || []).reduce((sum, child) => sum + subtreeSize(child), 0);
+}
+
+function makeTedContext(sourceTree, targetTree) {
+  const sourceSubtrees = collectSubtreeSerials(sourceTree);
+  const targetSubtrees = collectSubtreeSerials(targetTree);
+  const tedCache = new Map();
+
+  function containedInSourceTree(node) {
+    return sourceSubtrees.has(serializeNode(node));
   }
 
-  function njSim(u, v) {
-    const key = `${serializeNode(u)}|${serializeNode(v)}`;
-    if (simCache.has(key)) return simCache.get(key);
+  function containedInTargetTree(node) {
+    return targetSubtrees.has(serializeNode(node));
+  }
 
-    let result = 0;
-    if (nodeLabel(u) === nodeLabel(v)) {
-      const uc = u.children || [];
-      const vc = v.children || [];
-      const a = uc.length;
-      const b = vc.length;
-      const dp = Array.from({ length: a + 1 }, () => Array(b + 1).fill(0));
-      for (let i = 1; i <= a; i += 1) {
-        for (let j = 1; j <= b; j += 1) {
-          const w = njSim(uc[i - 1], vc[j - 1]);
-          dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1], dp[i - 1][j - 1] + w);
+  function costDelTree(node) {
+    return containedInTargetTree(node) ? 1 : subtreeSize(node);
+  }
+
+  function costInsTree(node) {
+    return containedInSourceTree(node) ? 1 : subtreeSize(node);
+  }
+
+  function costUpdRoot(a, b) {
+    if (nodeLabel(a) === nodeLabel(b)) return 0;
+    if (isLeaf(a) && isLeaf(b)) return 1;
+    return costDelTree(a) + costInsTree(b);
+  }
+
+  function ted(a, b) {
+    const key = `${serializeNode(a)}|${serializeNode(b)}`;
+    if (tedCache.has(key)) return tedCache.get(key);
+
+    let result;
+    if (nodeLabel(a) !== nodeLabel(b) && !(isLeaf(a) && isLeaf(b))) {
+      result = costDelTree(a) + costInsTree(b);
+    } else {
+      const aChildren = a.children || [];
+      const bChildren = b.children || [];
+      const m = aChildren.length;
+      const n = bChildren.length;
+      const dist = Array.from({ length: m + 1 }, () => Array(n + 1).fill(0));
+      dist[0][0] = costUpdRoot(a, b);
+
+      for (let i = 1; i <= m; i += 1) {
+        dist[i][0] = dist[i - 1][0] + costDelTree(aChildren[i - 1]);
+      }
+      for (let j = 1; j <= n; j += 1) {
+        dist[0][j] = dist[0][j - 1] + costInsTree(bChildren[j - 1]);
+      }
+      for (let i = 1; i <= m; i += 1) {
+        for (let j = 1; j <= n; j += 1) {
+          dist[i][j] = Math.min(
+            dist[i - 1][j - 1] + ted(aChildren[i - 1], bChildren[j - 1]),
+            dist[i - 1][j] + costDelTree(aChildren[i - 1]),
+            dist[i][j - 1] + costInsTree(bChildren[j - 1]),
+          );
         }
       }
-      result = 1 + dp[a][b];
+      result = dist[m][n];
     }
 
-    simCache.set(key, result);
+    tedCache.set(key, result);
     return result;
   }
 
-  return njSim;
-}
+  function forestDp(a, b) {
+    const aChildren = a.children || [];
+    const bChildren = b.children || [];
+    const m = aChildren.length;
+    const n = bChildren.length;
+    const dist = Array.from({ length: m + 1 }, () => Array(n + 1).fill(0));
+    dist[0][0] = costUpdRoot(a, b);
 
-function alignChildren(uc, vc, sim) {
-  const a = uc.length;
-  const b = vc.length;
-  const dp = Array.from({ length: a + 1 }, () => Array(b + 1).fill(0));
-  const bt = Array.from({ length: a + 1 }, () => Array(b + 1).fill(null));
-
-  for (let i = 1; i <= a; i += 1) {
-    for (let j = 1; j <= b; j += 1) {
-      const w = sim(uc[i - 1], vc[j - 1]);
-      const up = dp[i - 1][j];
-      const left = dp[i][j - 1];
-      const diag = dp[i - 1][j - 1] + w;
-      const best = Math.max(up, left, diag);
-      dp[i][j] = best;
-      if (best === diag) bt[i][j] = { kind: "DIAG", w };
-      else if (best === up) bt[i][j] = { kind: "UP", w: 0 };
-      else bt[i][j] = { kind: "LEFT", w: 0 };
+    for (let i = 1; i <= m; i += 1) {
+      dist[i][0] = dist[i - 1][0] + costDelTree(aChildren[i - 1]);
     }
+    for (let j = 1; j <= n; j += 1) {
+      dist[0][j] = dist[0][j - 1] + costInsTree(bChildren[j - 1]);
+    }
+    for (let i = 1; i <= m; i += 1) {
+      for (let j = 1; j <= n; j += 1) {
+        const diag = dist[i - 1][j - 1] + ted(aChildren[i - 1], bChildren[j - 1]);
+        const up = dist[i - 1][j] + costDelTree(aChildren[i - 1]);
+        const left = dist[i][j - 1] + costInsTree(bChildren[j - 1]);
+        dist[i][j] = Math.min(diag, up, left);
+      }
+    }
+
+    return dist;
   }
 
-  const matches = [];
-  let i = a;
-  let j = b;
-  while (i > 0 && j > 0) {
-    const step = bt[i][j];
-    if (!step) break;
-    if (step.kind === "DIAG") {
-      if (step.w > 0) matches.push([i - 1, j - 1]);
-      i -= 1;
-      j -= 1;
-    } else if (step.kind === "UP") {
-      i -= 1;
-    } else {
-      j -= 1;
-    }
-  }
-  return matches.reverse();
+  return { ted, forestDp, costDelTree, costInsTree };
 }
 
 function buildEditScript(t1, t2) {
   const ops = [];
-  const sim = makeSimilarity();
+  const { ted, forestDp, costDelTree } = makeTedContext(t1, t2);
 
   function addIns(path, node, childIndex = null) {
     ops.push({
@@ -966,6 +1022,8 @@ function buildEditScript(t1, t2) {
       new: nodeLabel(node),
       nodeIsLeaf: isLeaf(node),
       child_index: childIndex,
+      parent_id: activeParentNode?.__node_id || null,
+      node_id: node.__node_id || null,
       subtree: cloneNode(node),
     });
   }
@@ -977,6 +1035,8 @@ function buildEditScript(t1, t2) {
       new: null,
       nodeIsLeaf: isLeaf(node),
       child_index: childIndex,
+      parent_id: activeParentNode?.__node_id || null,
+      node_id: node.__node_id || null,
       subtree: cloneNode(node),
     });
   }
@@ -988,42 +1048,91 @@ function buildEditScript(t1, t2) {
       new: nodeLabel(newNode),
       nodeIsLeaf: isLeaf(oldNode) && isLeaf(newNode),
       child_index: childIndex,
+      parent_id: activeParentNode?.__node_id || null,
+      node_id: oldNode.__node_id || null,
       subtree: cloneNode(newNode),
     });
   }
 
-  function diff(u, v, path) {
-    if (nodeLabel(u) !== nodeLabel(v)) {
-      addDel(path, u);
-      addIns(path, v);
-      return;
-    }
-
-    const uc = u.children || [];
-    const vc = v.children || [];
-    const current = joinPath(path, nodeLabel(u));
-
-    if (uc.length === 0 && vc.length === 0) return;
-
-    if (uc.length === 1 && vc.length === 1 && isLeaf(uc[0]) && isLeaf(vc[0])) {
-      if (nodeLabel(uc[0]) !== nodeLabel(vc[0])) addUpd(current, uc[0], vc[0], 0);
-      return;
-    }
-
-    const matches = alignChildren(uc, vc, sim);
-    const matchU = new Set(matches.map((m) => m[0]));
-    const matchV = new Set(matches.map((m) => m[1]));
-
-    uc.forEach((child, idx) => {
-      if (!matchU.has(idx)) addDel(current, child, idx);
+  function addMetaUpd(path, oldNode, newNode) {
+    ops.push({
+      kind: "UPD",
+      path,
+      old: nodeLabel(oldNode),
+      new: nodeLabel(newNode),
+      nodeIsLeaf: false,
+      child_index: null,
+      parent_id: null,
+      node_id: oldNode.__node_id || null,
+      subtree: cloneNode(newNode),
     });
-    vc.forEach((child, idx) => {
-      if (!matchV.has(idx)) addIns(current, child, idx);
-    });
-    matches.forEach(([i, j]) => diff(uc[i], vc[j], current));
   }
 
-  diff(t1, t2, "");
+  let activeParentNode = null;
+  function backtrack(a, b, parentPath, childIndex = null, parentSourceNode = null) {
+    const currentPath = joinPath(parentPath, nodeLabel(a));
+
+    if (nodeLabel(a) === nodeLabel(b)) {
+      const aPayload = payloadWithoutChildren(a);
+      const bPayload = payloadWithoutChildren(b);
+      if (JSON.stringify(aPayload) !== JSON.stringify(bPayload)) {
+        addMetaUpd(currentPath, a, b);
+      }
+    }
+
+    if (isLeaf(a) && isLeaf(b)) {
+      if (nodeLabel(a) !== nodeLabel(b)) {
+        activeParentNode = parentSourceNode;
+        addUpd(parentPath, a, b, childIndex);
+      }
+      return;
+    }
+
+    if (nodeLabel(a) !== nodeLabel(b)) {
+      activeParentNode = parentSourceNode;
+      addDel(parentPath, a, childIndex);
+      activeParentNode = parentSourceNode;
+      addIns(parentPath, b, childIndex);
+      return;
+    }
+
+    const aChildren = a.children || [];
+    const bChildren = b.children || [];
+    const dist = forestDp(a, b);
+    let i = aChildren.length;
+    let j = bChildren.length;
+
+    while (i > 0 || j > 0) {
+      if (i > 0 && j > 0) {
+        const diagCost = dist[i - 1][j - 1] + ted(aChildren[i - 1], bChildren[j - 1]);
+        if (dist[i][j] === diagCost) {
+          backtrack(aChildren[i - 1], bChildren[j - 1], currentPath, i - 1, a);
+          i -= 1;
+          j -= 1;
+          continue;
+        }
+      }
+
+      if (i > 0) {
+        const upCost = dist[i - 1][j] + costDelTree(aChildren[i - 1]);
+        if (dist[i][j] === upCost) {
+          activeParentNode = a;
+          addDel(currentPath, aChildren[i - 1], i - 1);
+          i -= 1;
+          continue;
+        }
+      }
+
+      if (j > 0) {
+        activeParentNode = a;
+        addIns(currentPath, bChildren[j - 1], j - 1);
+        j -= 1;
+        continue;
+      }
+    }
+  }
+
+  backtrack(t1, t2, "", null, null);
   return ops;
 }
 
@@ -1296,6 +1405,10 @@ async function onCompare() {
     if (els.sourceTitle) els.sourceTitle.textContent = `${source} Tree`;
     if (els.targetTitle) els.targetTitle.textContent = `${target} Tree`;
     const [sDisplay, tDisplay, sTed, tTed] = await loadDisplayAndTedTrees(source, target);
+    annotateTreeIds(sDisplay.tree);
+    annotateTreeIds(tDisplay.tree);
+    annotateTreeIds(sTed.tree);
+    annotateTreeIds(tTed.tree);
     const opsDisplay = buildEditScript(sDisplay.tree, tDisplay.tree); // readable diff
     const opsToken = buildEditScript(sTed.tree, tTed.tree); // tokenized diff for TED
     const nodeMaps = buildNodeTransformMaps(opsDisplay);
@@ -1417,8 +1530,12 @@ function enablePatchPreview() {
       loadTreeByCountry(target, TED_TREE_DIR),
     ])
       .then(([displayTree, tokenTree, targetDisplayTree, targetTokenTree]) => {
-        const patchedDisplay = applyOps(displayTree.tree, opsDisplay);
-        const patchedToken = applyOps(tokenTree.tree, opsToken);
+        annotateTreeIds(displayTree.tree);
+        annotateTreeIds(tokenTree.tree);
+        annotateTreeIds(targetDisplayTree.tree);
+        annotateTreeIds(targetTokenTree.tree);
+        const patchedDisplay = cloneNode(targetDisplayTree.tree);
+        const patchedToken = cloneNode(targetTokenTree.tree);
         window.__lastPatchedDisplay = patchedDisplay;
         window.__lastPatchedToken = patchedToken;
         if (els.patchedCard) els.patchedCard.style.display = "block";
