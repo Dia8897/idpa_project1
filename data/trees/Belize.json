@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Sub umbra floreo ( Latin ) \"Under the shade I flourish\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Land of the Free \" Royal anthem : \" God Save the King",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Belmopan 17°15′N 88°46′W / 17.250°N 88.767°W / 17.250; -88.767",
+            "label": "Belmopan",
             "children": []
           }
         ]
@@ -34,7 +16,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Belize City 17°29′N 88°11′W / 17.483°N 88.183°W / 17.483; -88.183",
+            "label": "Belize City",
             "children": []
           }
         ]
@@ -76,15 +58,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Belizean",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -107,15 +80,6 @@
         "children": [
           {
             "label": "Froyla Tzalam",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Johnny Briceño",
             "children": []
           }
         ]
@@ -254,60 +218,6 @@
         "children": [
           {
             "label": "0.721 high ( 115th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Belize dollar ($) ( BZD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −06:00 ( CST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd / mm / yyyy ( AD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+501",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BZ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".bz",
             "children": []
           }
         ]

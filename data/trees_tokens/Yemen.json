@@ -4,195 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "All",
-            "children": []
-          },
-          {
-            "label": "h",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Wa",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "ath",
-            "children": []
-          },
-          {
-            "label": "Thawrah",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Wa",
-            "children": []
-          },
-          {
-            "label": "dah",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          },
-          {
-            "label": "Revolution",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ٱللَّهُ، ٱلْوَطَنُ، ٱلثَوْرَةُ، ٱلْوَحْدَةُ Allāh, al-Waṭan, ath-Thawrah, al-Waḥdah \"God, the Homeland, Revolution, Unity\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Jumh",
-            "children": []
-          },
-          {
-            "label": "riyyah",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Mutta",
-            "children": []
-          },
-          {
-            "label": "idah",
-            "children": []
-          },
-          {
-            "label": "United",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "الجمهورية المتحدة al-Jumhūriyyah al-Muttaḥidah \" United Republic \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Sanaa",
             "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "54",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "34833",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "20639",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "34833",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "20639",
-            "children": []
           }
         ],
         "raw_values": [
-          "Sanaa 15°20′54′′N 44°12′23′′E / 15.34833°N 44.20639°E / 15.34833; 44.20639"
+          "Sanaa"
         ]
       },
       {
@@ -348,22 +168,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Yemeni",
-            "children": []
-          },
-          {
-            "label": "Yemenite",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Yemeni Yemenite"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -421,26 +225,6 @@
         ],
         "raw_values": [
           "Rashad al-Alimi"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Shaea",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Zindani",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Shaea al-Zindani"
         ]
       },
       {
@@ -840,86 +624,6 @@
         ],
         "raw_values": [
           "0.470 low ( 184th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Yemeni",
-            "children": []
-          },
-          {
-            "label": "rial",
-            "children": []
-          },
-          {
-            "label": "YER",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Yemeni rial ( YER )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( AST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "967",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+967"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "YE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "YE"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "List",
-            "children": []
-          },
-          {
-            "label": "ye",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "List .ye اليمن."
         ]
       }
     ]

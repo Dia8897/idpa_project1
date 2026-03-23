@@ -4,123 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Lijepa",
-            "children": []
-          },
-          {
-            "label": "na",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "domovino",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "Beautiful",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Lijepa naša domovino \" (\"Our Beautiful Homeland\")"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Zagreb",
             "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "81306",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "97750",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "81306",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "97750",
-            "children": []
           }
         ],
         "raw_values": [
-          "Zagreb 45°48′47′′N 15°58′39′′E / 45.81306°N 15.97750°E / 45.81306; 15.97750"
+          "Zagreb"
         ]
       },
       {
@@ -304,18 +196,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Croatian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Croatian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -333,54 +213,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Zoran",
-            "children": []
-          },
-          {
-            "label": "Milanovi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Zoran Milanović"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Andrej",
-            "children": []
-          },
-          {
-            "label": "Plenkovi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Andrej Plenković"
-        ]
-      },
-      {
-        "label": "speaker_of_the_parliament",
-        "children": [
-          {
-            "label": "Gordan",
-            "children": []
-          },
-          {
-            "label": "Jandrokovi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Gordan Jandroković"
         ]
       },
       {
@@ -409,18 +241,6 @@
         ],
         "raw_values": [
           "7th century"
-        ]
-      },
-      {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "925",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "925"
         ]
       },
       {
@@ -513,26 +333,6 @@
         ],
         "raw_values": [
           "9 May 1944"
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "25 June 1991"
         ]
       },
       {
@@ -839,42 +639,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -892,50 +656,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "385",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+385"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "HR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "HR"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "hr",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "eu",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".hr and .eu"
         ]
       }
     ]

@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Ελευθερία ή Θάνατος Elefthería í Thánatos (English: \" Freedom or Death \")",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Ύμνος εις την Ελευθερίαν Ýmnos eis tin Eleftherían (English: \" Hymn to Liberty \")",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Athens 37°58′N 23°43′E / 37.967°N 23.717°E / 37.967; 23.717",
+            "label": "Athens",
             "children": []
           }
         ]
@@ -49,37 +31,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Greek Hellene",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Konstantinos Tasoulas",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Kyriakos Mitsotakis",
             "children": []
           }
         ]
@@ -98,15 +53,6 @@
         "children": [
           {
             "label": "Hellenic Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "greek_war_of_independence_against_the_ottoman_empire",
-        "children": [
-          {
-            "label": "25 March 1821 (traditional starting date)",
             "children": []
           }
         ]
@@ -250,55 +196,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +02:00 ( EET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +03:00 ( EEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+30",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".gr .ελ",
             "children": []
           }
         ]

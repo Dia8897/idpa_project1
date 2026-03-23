@@ -4,110 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "All",
-            "children": []
-          },
-          {
-            "label": "h",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Wa",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Amir",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Nation",
-            "children": []
-          },
-          {
-            "label": "Emir",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "الله، الوطن، الأمير Allāh, al-Waṭan, al-Amir \" God , Nation, Emir \""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Nash",
-            "children": []
-          },
-          {
-            "label": "d",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Wa",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Kuwayt",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Kuwait",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "النشيد الوطني الكويتي al-Nashīd al-Waṭanī al-Kuwaytī \"National Anthem of Kuwait\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -244,18 +140,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Kuwaiti",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kuwaiti"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -344,34 +228,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ahmad",
-            "children": []
-          },
-          {
-            "label": "Al",
-            "children": []
-          },
-          {
-            "label": "Abdullah",
-            "children": []
-          },
-          {
-            "label": "Al",
-            "children": []
-          },
-          {
-            "label": "Sabah",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ahmad Al-Abdullah Al-Sabah"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -396,18 +252,6 @@
         ]
       },
       {
-        "label": "independence_from_bani_khalid",
-        "children": [
-          {
-            "label": "1752",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1752"
-        ]
-      },
-      {
         "label": "anglokuwaiti_agreement",
         "children": [
           {
@@ -425,46 +269,6 @@
         ],
         "raw_values": [
           "23 January 1899"
-        ]
-      },
-      {
-        "label": "angloottoman_convention",
-        "children": [
-          {
-            "label": "29",
-            "children": []
-          },
-          {
-            "label": "July",
-            "children": []
-          },
-          {
-            "label": "1913",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "29 July 1913"
-        ]
-      },
-      {
-        "label": "end_of_british_protectorate",
-        "children": [
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1961",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "19 June 1961"
         ]
       },
       {
@@ -776,82 +580,6 @@
         ],
         "raw_values": [
           "0.852 very high ( 52nd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Kuwaiti",
-            "children": []
-          },
-          {
-            "label": "dinar",
-            "children": []
-          },
-          {
-            "label": "KWD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kuwaiti dinar ( KWD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( AST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "965",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+965"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KW",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "KW"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "kw",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".kw"
         ]
       }
     ]

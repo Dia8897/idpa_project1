@@ -4,62 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Majulah",
-            "children": []
-          },
-          {
-            "label": "Singapura",
-            "children": []
-          },
-          {
-            "label": "Malay",
-            "children": []
-          },
-          {
-            "label": "Onward",
-            "children": []
-          },
-          {
-            "label": "Singapore",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Majulah Singapura ( Malay ) \"Onward Singapore\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Majulah",
-            "children": []
-          },
-          {
-            "label": "Singapura",
-            "children": []
-          },
-          {
-            "label": "Malay",
-            "children": []
-          },
-          {
-            "label": "Onward",
-            "children": []
-          },
-          {
-            "label": "Singapore",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Majulah Singapura ( Malay ) \"Onward Singapore\""
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -73,74 +17,10 @@
           {
             "label": "state",
             "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "103",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "283",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "103",
-            "children": []
-          },
-          {
-            "label": "833",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "283",
-            "children": []
-          },
-          {
-            "label": "103",
-            "children": []
-          },
-          {
-            "label": "833",
-            "children": []
           }
         ],
         "raw_values": [
-          "Singapore ( city-state ) 1°17′N 103°50′E / 1.283°N 103.833°E / 1.283; 103.833"
+          "Singapore ( city-state )"
         ]
       },
       {
@@ -356,18 +236,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Singaporean",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Singaporean"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -385,38 +253,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Tharman",
-            "children": []
-          },
-          {
-            "label": "Shanmugaratnam",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tharman Shanmugaratnam"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Lawrence",
-            "children": []
-          },
-          {
-            "label": "Wong",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Lawrence Wong"
         ]
       },
       {
@@ -772,110 +608,6 @@
         ],
         "raw_values": [
           "0.946 very high ( 13th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Singapore",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "SGD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Singapore dollar (S$) ( SGD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "SGT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +8 ( SGT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "AD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd-mm-yyyy ( AD )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "65",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+65"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SG",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "SG"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "sg",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".sg"
         ]
       }
     ]

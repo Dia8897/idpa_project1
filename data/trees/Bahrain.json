@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "بحريننا Baḥraynunā \"Our Bahrain\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Manama 26°13′N 50°35′E / 26.217°N 50.583°E / 26.217; 50.583",
+            "label": "Manama",
             "children": []
           }
         ]
@@ -49,28 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bahraini",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-constitutional monarchy under an authoritarian government",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "king",
-        "children": [
-          {
-            "label": "Hamad bin Isa Al Khalifa",
             "children": []
           }
         ]
@@ -107,42 +80,6 @@
         "children": [
           {
             "label": "Council of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "al_khalifa_dynasty",
-        "children": [
-          {
-            "label": "1783",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared_independence",
-        "children": [
-          {
-            "label": "14 August 1971",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_united_kingdom",
-        "children": [
-          {
-            "label": "15 August 1971",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_bahrain",
-        "children": [
-          {
-            "label": "14 February 2002",
             "children": []
           }
         ]
@@ -236,51 +173,6 @@
         "children": [
           {
             "label": "0.899 very high ( 38th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Bahraini dinar ( BHD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+973",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BH",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".bh",
             "children": []
           }
         ]

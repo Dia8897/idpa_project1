@@ -4,183 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Khotso",
-            "children": []
-          },
-          {
-            "label": "Pula",
-            "children": []
-          },
-          {
-            "label": "Nala",
-            "children": []
-          },
-          {
-            "label": "Peace",
-            "children": []
-          },
-          {
-            "label": "Rain",
-            "children": []
-          },
-          {
-            "label": "Prosperity",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Khotso, Pula, Nala\" \"Peace, Rain, Prosperity"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Lesotho",
-            "children": []
-          },
-          {
-            "label": "fat",
-            "children": []
-          },
-          {
-            "label": "e",
-            "children": []
-          },
-          {
-            "label": "la",
-            "children": []
-          },
-          {
-            "label": "bo",
-            "children": []
-          },
-          {
-            "label": "ntat",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "rona",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Lesotho",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "Fathers",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Lesotho fatše la bo-ntat'a rona (English: \"Lesotho, Land of Our Fathers\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Maseru",
             "children": []
-          },
-          {
-            "label": "29",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "54",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "29",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "29",
-            "children": []
-          },
-          {
-            "label": "31500",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "48694",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "29",
-            "children": []
-          },
-          {
-            "label": "31500",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "48694",
-            "children": []
           }
         ],
         "raw_values": [
-          "Maseru 29°18′54′′S 27°29′13′′E / 29.31500°S 27.48694°E / -29.31500; 27.48694"
+          "Maseru"
         ]
       },
       {
@@ -296,30 +128,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Mosotho",
-            "children": []
-          },
-          {
-            "label": "singular",
-            "children": []
-          },
-          {
-            "label": "Basotho",
-            "children": []
-          },
-          {
-            "label": "plural",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mosotho (singular) Basotho (plural)"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -357,22 +165,6 @@
         ],
         "raw_values": [
           "Letsie III"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Sam",
-            "children": []
-          },
-          {
-            "label": "Matekane",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sam Matekane"
         ]
       },
       {
@@ -433,26 +225,6 @@
         ],
         "raw_values": [
           "18 March 1884"
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "October",
-            "children": []
-          },
-          {
-            "label": "1966",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "4 October 1966"
         ]
       },
       {
@@ -724,102 +496,6 @@
         ],
         "raw_values": [
           "0.550 medium ( 167th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Lesotho",
-            "children": []
-          },
-          {
-            "label": "loti",
-            "children": []
-          },
-          {
-            "label": "LSL",
-            "children": []
-          },
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "rand",
-            "children": []
-          },
-          {
-            "label": "ZAR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Lesotho loti (LSL) South African rand (ZAR)"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "02",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "SAST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +02:00 ( SAST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "266",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+266"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "LS"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ls",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ls"
         ]
       }
     ]

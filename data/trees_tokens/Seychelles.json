@@ -4,155 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Finis",
-            "children": []
-          },
-          {
-            "label": "Coronat",
-            "children": []
-          },
-          {
-            "label": "Opus",
-            "children": []
-          },
-          {
-            "label": "Latin",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "End",
-            "children": []
-          },
-          {
-            "label": "Crowns",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Work",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Finis Coronat Opus ( Latin ) \"The End Crowns the Work\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Koste",
-            "children": []
-          },
-          {
-            "label": "Seselwa",
-            "children": []
-          },
-          {
-            "label": "Seychellois",
-            "children": []
-          },
-          {
-            "label": "Creole",
-            "children": []
-          },
-          {
-            "label": "Unite",
-            "children": []
-          },
-          {
-            "label": "Seychellois",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Koste Seselwa (Seychellois Creole) \"Unite Seychellois\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Victoria",
             "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "37",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "617",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "450",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "617",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "450",
-            "children": []
           }
         ],
         "raw_values": [
-          "Victoria 4°37′S 55°27′E / 4.617°S 55.450°E / -4.617; 55.450"
+          "Victoria"
         ]
       },
       {
@@ -296,30 +156,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Seychellois",
-            "children": []
-          },
-          {
-            "label": "Seychelloise",
-            "children": []
-          },
-          {
-            "label": "Seselwa",
-            "children": []
-          },
-          {
-            "label": "Creole",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Seychellois Seychelloise Seselwa (Creole)"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -337,22 +173,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Patrick",
-            "children": []
-          },
-          {
-            "label": "Herminie",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Patrick Herminie"
         ]
       },
       {
@@ -401,26 +221,6 @@
         ],
         "raw_values": [
           "National Assembly"
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "29",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1976",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "29 June 1976"
         ]
       },
       {
@@ -684,86 +484,6 @@
         ],
         "raw_values": [
           "0.848 very high ( 54th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Seychellois",
-            "children": []
-          },
-          {
-            "label": "rupee",
-            "children": []
-          },
-          {
-            "label": "SCR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Seychellois rupee ( SCR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "04",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "SCT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +04:00 ( SCT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "248",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+248"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SC",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "SC"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "sc",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".sc"
         ]
       }
     ]

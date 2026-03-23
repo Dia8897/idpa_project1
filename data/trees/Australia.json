@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Advance Australia Fair",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Canberra 35°18′29′′S 149°07′28′′E / 35.30806°S 149.12444°E / -35.30806; 149.12444",
+            "label": "Canberra",
             "children": []
           }
         ]
@@ -49,15 +40,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Australian Aussie (colloquial)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -85,15 +67,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Anthony Albanese",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -116,15 +89,6 @@
         "children": [
           {
             "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "federation",
-        "children": [
-          {
-            "label": "1 January 1901",
             "children": []
           }
         ]
@@ -259,64 +223,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Australian dollar ( $ ) ( AUD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +8; +9.5; +10 ( AWST, ACST, AEST )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +10.5; +11 ( ACDT, AEDT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd / mm / yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+61",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AU",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".au",
             "children": []
           }
         ]

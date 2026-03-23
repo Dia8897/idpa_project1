@@ -4,115 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Derzhavnyi",
-            "children": []
-          },
-          {
-            "label": "himn",
-            "children": []
-          },
-          {
-            "label": "Ukrainy",
-            "children": []
-          },
-          {
-            "label": "State",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Ukraine",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Державний гімн України Derzhavnyi himn Ukrainy \" State Anthem of Ukraine \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Kyiv",
             "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "450",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "450",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
           }
         ],
         "raw_values": [
-          "Kyiv 50°27′N 30°31′E / 50.450°N 30.517°E / 50.450; 30.517"
+          "Kyiv"
         ]
       },
       {
@@ -212,18 +112,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Ukrainian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ukrainian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -245,38 +133,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Volodymyr",
-            "children": []
-          },
-          {
-            "label": "Zelenskyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Volodymyr Zelenskyy"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Yulia",
-            "children": []
-          },
-          {
-            "label": "Svyrydenko",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Yulia Svyrydenko"
         ]
       },
       {
@@ -442,26 +298,6 @@
         ],
         "raw_values": [
           "24 October 1945"
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "24 August 1991"
         ]
       },
       {
@@ -760,46 +596,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Ukrainian",
-            "children": []
-          },
-          {
-            "label": "hryvnia",
-            "children": []
-          },
-          {
-            "label": "UAH",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ukrainian hryvnia ( ₴ ) ( UAH )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "EET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( EET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -817,62 +613,6 @@
         ],
         "raw_values": [
           "UTC +3 ( EEST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd.mm.yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "380",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+380"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "UA",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UA"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ua",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ua .укр"
         ]
       }
     ]

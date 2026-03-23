@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Deșteaptă-te, române! \"Awaken Thee, Romanian!\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Bucharest 44°25′N 26°06′E / 44.417°N 26.100°E / 44.417; 26.100",
+            "label": "Bucharest",
             "children": []
           }
         ]
@@ -49,37 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Romanian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Nicușor Dan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ilie Bolojan",
             "children": []
           }
         ]
@@ -157,46 +121,10 @@
         ]
       },
       {
-        "label": "independence_from_the_ottoman_empire",
-        "children": [
-          {
-            "label": "10 May 1877",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_romania",
-        "children": [
-          {
-            "label": "1881–1947",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "great_union",
         "children": [
           {
             "label": "1 December 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "socialist_romania",
-        "children": [
-          {
-            "label": "1947–1989",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "republic_established",
-        "children": [
-          {
-            "label": "8 December 1991",
             "children": []
           }
         ]
@@ -304,64 +232,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Romanian leu ( RON )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( EET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +3 ( EEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy ( CE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+40",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "RO",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ro",
             "children": []
           }
         ]

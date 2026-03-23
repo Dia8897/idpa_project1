@@ -4,74 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Stella",
-            "children": []
-          },
-          {
-            "label": "Clavisque",
-            "children": []
-          },
-          {
-            "label": "Maris",
-            "children": []
-          },
-          {
-            "label": "Indici",
-            "children": []
-          },
-          {
-            "label": "Latin",
-            "children": []
-          },
-          {
-            "label": "Star",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Key",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Indian",
-            "children": []
-          },
-          {
-            "label": "Ocean",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Stella Clavisque Maris Indici ( Latin ) \"Star and Key of the Indian Ocean\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Motherland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Motherland"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -81,74 +13,10 @@
           {
             "label": "Louis",
             "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "57",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "57",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "57",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
           }
         ],
         "raw_values": [
-          "Port Louis 20°12′S 57°30′E / 20.2°S 57.5°E / -20.2; 57.5"
+          "Port Louis"
         ]
       },
       {
@@ -348,18 +216,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Mauritian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mauritian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -380,22 +236,6 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Dharam",
-            "children": []
-          },
-          {
-            "label": "Gokhool",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Dharam Gokhool"
-        ]
-      },
-      {
         "label": "vicepresident",
         "children": [
           {
@@ -409,42 +249,6 @@
         ],
         "raw_values": [
           "Robert Hungley"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Navin",
-            "children": []
-          },
-          {
-            "label": "Ramgoolam",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Navin Ramgoolam"
-        ]
-      },
-      {
-        "label": "deputy_prime_minister",
-        "children": [
-          {
-            "label": "Paul",
-            "children": []
-          },
-          {
-            "label": "B",
-            "children": []
-          },
-          {
-            "label": "renger",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Paul Bérenger"
         ]
       },
       {
@@ -796,106 +600,6 @@
         ],
         "raw_values": [
           "0.806 very high ( 73rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Mauritian",
-            "children": []
-          },
-          {
-            "label": "rupee",
-            "children": []
-          },
-          {
-            "label": "MUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mauritian rupee ( MUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "MUT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +4 ( MUT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "AD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy ( AD )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "230",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+230"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MU",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MU"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "mu",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".mu"
         ]
       }
     ]

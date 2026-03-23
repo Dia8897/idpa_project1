@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unité – Solidarité – Développement\" ( French ) وحدة، تضامن، تنمية ( Arabic ) \"Unity – Solidarity – Development",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Umodja wa Massiwa (Comorian) The Union of the Islands",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Moroni 11°41′S 43°16′E / 11.69°S 43.26°E / -11.69; 43.26",
+            "label": "Moroni",
             "children": []
           }
         ]
@@ -49,28 +31,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Comorian Comorese",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Federal presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Azali Assoumani",
             "children": []
           }
         ]
@@ -112,15 +76,6 @@
         ]
       },
       {
-        "label": "protectorate_of_the_comoros",
-        "children": [
-          {
-            "label": "6 September 1887",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "territory_under_french_madagascar",
         "children": [
           {
@@ -143,15 +98,6 @@
         "children": [
           {
             "label": "22 December 1961",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "6 July 1975",
             "children": []
           }
         ]
@@ -272,51 +218,6 @@
         "children": [
           {
             "label": "0.603 medium ( 152nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Comorian franc ( KMF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( EAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+269",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KM",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".km",
             "children": []
           }
         ]

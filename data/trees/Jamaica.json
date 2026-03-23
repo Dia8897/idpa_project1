@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Out of Many, One People",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Jamaica, Land We Love",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Kingston 17°58′17′′N 76°47′35′′W / 17.97139°N 76.79306°W / 17.97139; -76.79306",
+            "label": "Kingston",
             "children": []
           }
         ]
@@ -67,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Jamaican",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -98,15 +71,6 @@
         "children": [
           {
             "label": "Patrick Allen",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Andrew Holness",
             "children": []
           }
         ]
@@ -245,51 +209,6 @@
         "children": [
           {
             "label": "0.720 high ( 117th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Jamaican dollar ( JMD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC -5:00 ( EST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "JM",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".jm",
             "children": []
           }
         ]

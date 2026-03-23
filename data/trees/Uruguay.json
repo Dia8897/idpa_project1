@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Libertad o Muerte (Spanish) \"Freedom or Death\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno Nacional del Uruguay \" National Anthem of Uruguay \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Montevideo 34°53′S 56°10′W / 34.883°S 56.167°W / -34.883; -56.167",
+            "label": "Montevideo",
             "children": []
           }
         ]
@@ -49,37 +31,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Uruguayan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Yamandú Orsi",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Carolina Cosse",
             "children": []
           }
         ]
@@ -227,60 +182,6 @@
         "children": [
           {
             "label": "0.862 very high ( 48th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Uruguayan peso ( UYU )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −03:00 ( UYT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+598",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "UY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".uy",
             "children": []
           }
         ]

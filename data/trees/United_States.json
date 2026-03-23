@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "In God We Trust \" Other traditional mottos: \" E pluribus unum \" ( Latin ) \"Out of many, one\" \" Annuit cœptis \" ( Latin ) \"Providence favors our undertakings\" \" Novus ordo seclorum \" ( Latin ) \"New order of the ages",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "The Star-Spangled Banner",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Washington, D.C. 38°53′N 77°1′W / 38.883°N 77.017°W / 38.883; -77.017",
+            "label": "Washington, D.C.",
             "children": []
           }
         ]
@@ -34,7 +16,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "New York City 40°43′N 74°0′W / 40.717°N 74.000°W / 40.717; -74.000",
+            "label": "New York City",
             "children": []
           }
         ]
@@ -67,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "American",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Federal presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Donald Trump",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "JD Vance",
             "children": []
           }
         ]
@@ -152,15 +107,6 @@
         "children": [
           {
             "label": "July 4, 1776 ; 249 years ago ( 1776-07-04 )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "confederation",
-        "children": [
-          {
-            "label": "March 1, 1781 ( 1781-03-01 )",
             "children": []
           }
         ]
@@ -300,64 +246,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "U.S. dollar ( $ ) ( USD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −4 to −12 , +10 , +11",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC −4 to −10",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "mm / dd / yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "US",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".com , .us",
             "children": []
           }
         ]

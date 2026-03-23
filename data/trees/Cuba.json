@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Patria o Muerte, Venceremos (\"Homeland or Death, We Shall Overcome!\")",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "La Bayamesa (\"The Bayamo Song\")",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Havana 23°8′N 82°23′W / 23.133°N 82.383°W / 23.133; -82.383",
+            "label": "Havana",
             "children": []
           }
         ]
@@ -58,15 +40,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Cuban",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -80,24 +53,6 @@
         "children": [
           {
             "label": "Miguel Díaz-Canel",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Salvador Valdés Mesa",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Manuel Marrero Cruz",
             "children": []
           }
         ]
@@ -121,37 +76,10 @@
         ]
       },
       {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "10 October 1868",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "war_of_independence",
-        "children": [
-          {
-            "label": "24 February 1895",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "recognized_sovereignty_relinquished_by_spain",
         "children": [
           {
             "label": "10 December 1898",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "republic_declared_end_of_united_states_occupation",
-        "children": [
-          {
-            "label": "20 May 1902",
             "children": []
           }
         ]
@@ -277,64 +205,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Cuban peso ( CUP )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −05:00 ( CST )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC −04:00 ( CDT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+53",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CU",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".cu",
             "children": []
           }
         ]

@@ -4,58 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "diversity",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "' Unity in diversity ' : 52"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "O",
-            "children": []
-          },
-          {
-            "label": "Arise",
-            "children": []
-          },
-          {
-            "label": "All",
-            "children": []
-          },
-          {
-            "label": "You",
-            "children": []
-          },
-          {
-            "label": "Sons",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "O Arise, All You Sons"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -65,82 +13,10 @@
           {
             "label": "Moresby",
             "children": []
-          },
-          {
-            "label": "09",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "147",
-            "children": []
-          },
-          {
-            "label": "08",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "47889",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "147",
-            "children": []
-          },
-          {
-            "label": "14944",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "47889",
-            "children": []
-          },
-          {
-            "label": "147",
-            "children": []
-          },
-          {
-            "label": "14944",
-            "children": []
           }
         ],
         "raw_values": [
-          "Port Moresby 09°28′44′′S 147°08′58′′E / 9.47889°S 147.14944°E / -9.47889; 147.14944"
+          "Port Moresby"
         ]
       },
       {
@@ -296,26 +172,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Papua",
-            "children": []
-          },
-          {
-            "label": "New",
-            "children": []
-          },
-          {
-            "label": "Guinean",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Papua New Guinean"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -372,22 +228,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "James",
-            "children": []
-          },
-          {
-            "label": "Marape",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "James Marape"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -421,26 +261,6 @@
         ],
         "raw_values": [
           "1 July 1949"
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1975",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "16 September 1975"
         ]
       },
       {
@@ -732,82 +552,6 @@
         ],
         "raw_values": [
           "0.576 medium ( 160th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Kina",
-            "children": []
-          },
-          {
-            "label": "PGK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kina ( PGK )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "PNGST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +10, +11 ( PNGST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "675",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+675"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PG",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "PG"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "pg",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".pg"
         ]
       }
     ]

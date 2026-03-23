@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Bersekutu Bertambah Mutu برسکوتو برتمبه موتو ( Jawi ) ( \" Unity is Strength \" )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Negaraku ( \"My Country\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Kuala Lumpur 3°8′N 101°41′E / 3.133°N 101.683°E / 3.133; 101.683",
+            "label": "Kuala Lumpur",
             "children": []
           }
         ]
@@ -76,15 +58,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Malaysian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -98,15 +71,6 @@
         "children": [
           {
             "label": "Ibrahim Iskandar",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Anwar Ibrahim",
             "children": []
           }
         ]
@@ -134,15 +98,6 @@
         "children": [
           {
             "label": "Dewan Rakyat",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "federation_of_malaya",
-        "children": [
-          {
-            "label": "31 August 1957",
             "children": []
           }
         ]
@@ -272,60 +227,6 @@
         "children": [
           {
             "label": "0.819 very high ( 67th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Malaysian ringgit (RM) ( MYR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +8 ( MST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd-mm-yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+60",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".my",
             "children": []
           }
         ]

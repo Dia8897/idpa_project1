@@ -4,187 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "l",
-            "children": []
-          },
-          {
-            "label": "p",
-            "children": []
-          },
-          {
-            "label": "T",
-            "children": []
-          },
-          {
-            "label": "do",
-            "children": []
-          },
-          {
-            "label": "H",
-            "children": []
-          },
-          {
-            "label": "nh",
-            "children": []
-          },
-          {
-            "label": "ph",
-            "children": []
-          },
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "Independence",
-            "children": []
-          },
-          {
-            "label": "Freedom",
-            "children": []
-          },
-          {
-            "label": "Happiness",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Độc lập – Tự do – Hạnh phúc \"Independence – Freedom – Happiness\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Ti",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "qu",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "ca",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Song",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Marching",
-            "children": []
-          },
-          {
-            "label": "Troops",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tiến quân ca \"The Song of the Marching Troops\""
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Hanoi",
             "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "105",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "105",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
-          },
-          {
-            "label": "105",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
           }
         ],
         "raw_values": [
-          "Hanoi 21°2′N 105°51′E / 21.033°N 105.850°E / 21.033; 105.850"
+          "Hanoi"
         ]
       },
       {
@@ -512,26 +340,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Vietnamese",
-            "children": []
-          },
-          {
-            "label": "Viet",
-            "children": []
-          },
-          {
-            "label": "colloquial",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Vietnamese Viet (colloquial)"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -569,58 +377,6 @@
         ],
         "raw_values": [
           "Tô Lâm"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "L",
-            "children": []
-          },
-          {
-            "label": "ng",
-            "children": []
-          },
-          {
-            "label": "C",
-            "children": []
-          },
-          {
-            "label": "ng",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Lương Cường"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ph",
-            "children": []
-          },
-          {
-            "label": "m",
-            "children": []
-          },
-          {
-            "label": "Minh",
-            "children": []
-          },
-          {
-            "label": "Ch",
-            "children": []
-          },
-          {
-            "label": "nh",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Phạm Minh Chính"
         ]
       },
       {
@@ -708,46 +464,6 @@
         ]
       },
       {
-        "label": "hans_annexation",
-        "children": [
-          {
-            "label": "111",
-            "children": []
-          },
-          {
-            "label": "BC",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "111 BC"
-        ]
-      },
-      {
-        "label": "independence_from_china",
-        "children": [
-          {
-            "label": "939",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "939"
-        ]
-      },
-      {
-        "label": "regaining_independence",
-        "children": [
-          {
-            "label": "1428",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1428"
-        ]
-      },
-      {
         "label": "nguyen_s_unification",
         "children": [
           {
@@ -757,46 +473,6 @@
         ],
         "raw_values": [
           "1802"
-        ]
-      },
-      {
-        "label": "protectorate_treaty",
-        "children": [
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1883",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "25 August 1883"
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1945",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "2 September 1945"
         ]
       },
       {
@@ -1176,94 +852,6 @@
         ],
         "raw_values": [
           "0.766 high ( 93rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Vietnamese",
-            "children": []
-          },
-          {
-            "label": "ng",
-            "children": []
-          },
-          {
-            "label": "VND",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Vietnamese đồng (₫) ( VND )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "07",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "Vietnam",
-            "children": []
-          },
-          {
-            "label": "Standard",
-            "children": []
-          },
-          {
-            "label": "Time",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +07:00 ( Vietnam Standard Time )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "84",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+84"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "VN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "VN"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "vn",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".vn"
         ]
       }
     ]

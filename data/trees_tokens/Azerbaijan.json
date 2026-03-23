@@ -4,151 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Az",
-            "children": []
-          },
-          {
-            "label": "rbaycan",
-            "children": []
-          },
-          {
-            "label": "Respublikas",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "D",
-            "children": []
-          },
-          {
-            "label": "vl",
-            "children": []
-          },
-          {
-            "label": "t",
-            "children": []
-          },
-          {
-            "label": "himni",
-            "children": []
-          },
-          {
-            "label": "State",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Azerbaijan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Azərbaycan Respublikasının Dövlət himni \" State Anthem of the Republic of Azerbaijan \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Baku",
             "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "49",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "49",
-            "children": []
-          },
-          {
-            "label": "833",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
-          },
-          {
-            "label": "49",
-            "children": []
-          },
-          {
-            "label": "833",
-            "children": []
           }
         ],
         "raw_values": [
-          "Baku 40°23′N 49°50′E / 40.383°N 49.833°E / 40.383; 49.833"
+          "Baku"
         ]
       },
       {
@@ -292,22 +156,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Azerbaijani",
-            "children": []
-          },
-          {
-            "label": "Azeri",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Azerbaijani Azeri"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -345,54 +193,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic under a hereditary dictatorship"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Ilham",
-            "children": []
-          },
-          {
-            "label": "Aliyev",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ilham Aliyev"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Mehriban",
-            "children": []
-          },
-          {
-            "label": "Aliyeva",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mehriban Aliyeva"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ali",
-            "children": []
-          },
-          {
-            "label": "Asadov",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ali Asadov"
         ]
       },
       {
@@ -449,46 +249,6 @@
         ],
         "raw_values": [
           "28 April 1920"
-        ]
-      },
-      {
-        "label": "independence_from_the_soviet_union",
-        "children": [
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "October",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          },
-          {
-            "label": "declared",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          },
-          {
-            "label": "recognized",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "18 October 1991 (declared) 26 December 1991 (recognized)"
         ]
       },
       {
@@ -772,78 +532,6 @@
         ],
         "raw_values": [
           "0.789 high ( 81st )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Manat",
-            "children": []
-          },
-          {
-            "label": "AZN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Manat (₼) ( AZN )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "AZT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +4 ( AZT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "994",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+994"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AZ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "AZ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "az",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".az"
         ]
       }
     ]

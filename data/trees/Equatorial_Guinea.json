@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unidad, Paz, Justicia ( Spanish ) \"Unity, Peace, Justice\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno Nacional de Guinea Ecuatorial (Spanish) \" National Anthem of Equatorial Guinea \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Ciudad de la Paz 1°35′20′′N 10°49′21′′E / 1.58889°N 10.82250°E / 1.58889; 10.82250",
+            "label": "Ciudad de la Paz",
             "children": []
           }
         ]
@@ -76,46 +58,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Equatoguinean Equatorial Guinean",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic under an authoritarian hereditary dictatorship",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Teodoro Obiang Nguema Mbasogo",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Teodoro Nguema Obiang Mangue",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Manuel Osa Nsue Nsua",
             "children": []
           }
         ]
@@ -254,51 +200,6 @@
         "children": [
           {
             "label": "0.674 medium ( 133rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Central African CFA franc ( XAF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( WAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+240",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GQ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".gq",
             "children": []
           }
         ]

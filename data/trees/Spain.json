@@ -40,28 +40,10 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Plus ultra ( Latin ) (English: 'Further Beyond')",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Marcha Real ( Spanish ) (English: 'Royal March')",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Madrid 40°26′N 3°42′W / 40.433°N 3.700°W / 40.433; -3.700",
+            "label": "Madrid",
             "children": []
           }
         ]
@@ -94,15 +76,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Spaniard Spanish",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -116,15 +89,6 @@
         "children": [
           {
             "label": "Felipe VI",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Pedro Sánchez",
             "children": []
           }
         ]
@@ -313,24 +277,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC ⁠±0 to +1 ( WET and CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -344,42 +290,6 @@
         "children": [
           {
             "label": "most of Spain observes CET/CEST, except the Canary Islands which observe WET/WEST.",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "DD/MM/YYYY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+34",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ES",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".es",
             "children": []
           }
         ]

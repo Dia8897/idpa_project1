@@ -4,24 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Ever Conscious of God We Aspire, Build and Advance as One People",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Hail Grenada \" Royal anthem : \" God Save the King",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -58,15 +40,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Grenadian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -89,15 +62,6 @@
         "children": [
           {
             "label": "Cécile La Grenade",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Dickon Mitchell",
             "children": []
           }
         ]
@@ -134,15 +98,6 @@
         "children": [
           {
             "label": "3 March 1967",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom",
-        "children": [
-          {
-            "label": "7 February 1974",
             "children": []
           }
         ]
@@ -254,60 +209,6 @@
         "children": [
           {
             "label": "0.791 high ( 80th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Eastern Caribbean dollar ( XCD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −4 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GD",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".gd",
             "children": []
           }
         ]

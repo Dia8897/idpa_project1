@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "One People, One Nation, One Destiny",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Dear Land of Guyana",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Georgetown 6°48′04′′N 58°09′18′′W / 6.80111°N 58.15500°W / 6.80111; -58.15500",
+            "label": "Georgetown",
             "children": []
           }
         ]
@@ -85,28 +67,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Guyanese",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic with an executive presidency",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Irfaan Ali",
             "children": []
           }
         ]
@@ -170,15 +134,6 @@
         "children": [
           {
             "label": "1831–1966",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom_as_guyana",
-        "children": [
-          {
-            "label": "26 May 1966",
             "children": []
           }
         ]
@@ -299,60 +254,6 @@
         "children": [
           {
             "label": "0.776 high ( 89th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Guyanese dollar ( GYD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC -04:00 ( GYT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd-mm-yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+592",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".gy",
             "children": []
           }
         ]

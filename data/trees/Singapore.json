@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Majulah Singapura ( Malay ) \"Onward Singapore\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Majulah Singapura ( Malay ) \"Onward Singapore\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Singapore ( city-state ) 1°17′N 103°50′E / 1.283°N 103.833°E / 1.283; 103.833",
+            "label": "Singapore ( city-state )",
             "children": []
           }
         ]
@@ -76,37 +58,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Singaporean",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Tharman Shanmugaratnam",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Lawrence Wong",
             "children": []
           }
         ]
@@ -236,60 +191,6 @@
         "children": [
           {
             "label": "0.946 very high ( 13th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Singapore dollar (S$) ( SGD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +8 ( SGT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd-mm-yyyy ( AD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+65",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".sg",
             "children": []
           }
         ]

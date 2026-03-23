@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Pro Deo, Patria et Libertate (Latin) Dios, patria y libertad (Spanish) \"Lord, homeland and freedom\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Salve, Oh Patria (Spanish) English: \"Hail, Oh Fatherland\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Quito 00°13′12′′S 78°30′43′′W / 0.22000°S 78.51194°W / -0.22000; -78.51194",
+            "label": "Quito",
             "children": []
           }
         ]
@@ -76,37 +58,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Ecuadorian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Daniel Noboa",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "María José Pinto",
             "children": []
           }
         ]
@@ -281,60 +236,6 @@
         "children": [
           {
             "label": "0.777 high ( 88th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "United States dollar a ( USD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −5 / −6 ( ECT / GALT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+593",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "EC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ec",
             "children": []
           }
         ]

@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "كلّنا للوطن Kullunā li-l-waṭan \"All of us, for our country!\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Beirut 33°54′N 35°32′E / 33.900°N 35.533°E / 33.900; 35.533",
+            "label": "Beirut",
             "children": []
           }
         ]
@@ -67,15 +58,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Lebanese",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -85,46 +67,10 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Joseph Aoun",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Nawaf Salam",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "speaker_of_the_parliament",
-        "children": [
-          {
-            "label": "Nabih Berri",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
             "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "emirate_of_mount_lebanon",
-        "children": [
-          {
-            "label": "1516",
             "children": []
           }
         ]
@@ -161,24 +107,6 @@
         "children": [
           {
             "label": "23 May 1926",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "22 November 1943",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "french_mandate_ended",
-        "children": [
-          {
-            "label": "24 October 1945",
             "children": []
           }
         ]
@@ -304,55 +232,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Lebanese pound ( LBP )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( EET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +3 ( EEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+961",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LB",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".lb .لبنان",
             "children": []
           }
         ]

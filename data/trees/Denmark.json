@@ -4,24 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Forbundne, forpligtet, for kongeriget Danmark (United, committed, for the Kingdom of Denmark)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Der er et yndigt land ( Danish ) (English: \"There is a lovely country\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "royal_anthem",
         "children": [
           {
@@ -61,7 +43,7 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Copenhagen 55°43′N 12°34′E / 55.717°N 12.567°E / 55.717; 12.567",
+            "label": "Copenhagen",
             "children": []
           }
         ]
@@ -125,15 +107,6 @@
         "children": [
           {
             "label": "Frederik X",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mette Frederiksen",
             "children": []
           }
         ]
@@ -250,24 +223,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Danish krone",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC+01:00 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -281,33 +236,6 @@
         "children": [
           {
             "label": "Right",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+45",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "DK",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".dk",
             "children": []
           }
         ]

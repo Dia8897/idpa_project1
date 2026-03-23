@@ -4,103 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Maw",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "My",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "مَوْطِنِيْ Mawṭinī \"My Homeland\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Baghdad",
             "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "333",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "333",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
           }
         ],
         "raw_values": [
-          "Baghdad 33°20′N 44°23′E / 33.333°N 44.383°E / 33.333; 44.383"
+          "Baghdad"
         ]
       },
       {
@@ -292,18 +204,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Iraqi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Iraqi"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -321,50 +221,6 @@
         ],
         "raw_values": [
           "Federal parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Abdul",
-            "children": []
-          },
-          {
-            "label": "Latif",
-            "children": []
-          },
-          {
-            "label": "Rashid",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Abdul Latif Rashid"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mohammed",
-            "children": []
-          },
-          {
-            "label": "Shia",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Sudani",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mohammed Shia' al-Sudani"
         ]
       },
       {
@@ -501,42 +357,6 @@
         ],
         "raw_values": [
           "c. 1890 BC"
-        ]
-      },
-      {
-        "label": "abbasid_caliphate",
-        "children": [
-          {
-            "label": "750",
-            "children": []
-          },
-          {
-            "label": "AD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "750 AD"
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "October",
-            "children": []
-          },
-          {
-            "label": "1932",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "3 October 1932"
         ]
       },
       {
@@ -864,82 +684,6 @@
         ],
         "raw_values": [
           "0.712 high ( 122nd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Iraqi",
-            "children": []
-          },
-          {
-            "label": "dinar",
-            "children": []
-          },
-          {
-            "label": "IQD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Iraqi dinar ( IQD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( AST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "964",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+964"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IQ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "IQ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "iq",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".iq .العراق"
         ]
       }
     ]

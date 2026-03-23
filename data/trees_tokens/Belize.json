@@ -4,171 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Sub",
-            "children": []
-          },
-          {
-            "label": "umbra",
-            "children": []
-          },
-          {
-            "label": "floreo",
-            "children": []
-          },
-          {
-            "label": "Latin",
-            "children": []
-          },
-          {
-            "label": "Under",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "shade",
-            "children": []
-          },
-          {
-            "label": "I",
-            "children": []
-          },
-          {
-            "label": "flourish",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sub umbra floreo ( Latin ) \"Under the shade I flourish\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Land",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Free",
-            "children": []
-          },
-          {
-            "label": "Royal",
-            "children": []
-          },
-          {
-            "label": "anthem",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Save",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Land of the Free \" Royal anthem : \" God Save the King"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Belmopan",
             "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "88",
-            "children": []
-          },
-          {
-            "label": "46",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "250",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "88",
-            "children": []
-          },
-          {
-            "label": "767",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "250",
-            "children": []
-          },
-          {
-            "label": "88",
-            "children": []
-          },
-          {
-            "label": "767",
-            "children": []
           }
         ],
         "raw_values": [
-          "Belmopan 17°15′N 88°46′W / 17.250°N 88.767°W / 17.250; -88.767"
+          "Belmopan"
         ]
       },
       {
@@ -181,74 +25,10 @@
           {
             "label": "City",
             "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "29",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "88",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "483",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "88",
-            "children": []
-          },
-          {
-            "label": "183",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "483",
-            "children": []
-          },
-          {
-            "label": "88",
-            "children": []
-          },
-          {
-            "label": "183",
-            "children": []
           }
         ],
         "raw_values": [
-          "Belize City 17°29′N 88°11′W / 17.483°N 88.183°W / 17.483; -88.183"
+          "Belize City"
         ]
       },
       {
@@ -468,18 +248,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Belizean",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Belizean"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -533,26 +301,6 @@
         ],
         "raw_values": [
           "Froyla Tzalam"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Johnny",
-            "children": []
-          },
-          {
-            "label": "Brice",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Johnny Briceño"
         ]
       },
       {
@@ -900,110 +648,6 @@
         ],
         "raw_values": [
           "0.721 high ( 115th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Belize",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "BZD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Belize dollar ($) ( BZD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "06",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "CST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −06:00 ( CST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "AD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd / mm / yyyy ( AD )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "501",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+501"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BZ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BZ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "bz",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".bz"
         ]
       }
     ]

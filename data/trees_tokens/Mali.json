@@ -120,195 +120,15 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Un",
-            "children": []
-          },
-          {
-            "label": "peuple",
-            "children": []
-          },
-          {
-            "label": "un",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "une",
-            "children": []
-          },
-          {
-            "label": "foi",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "M",
-            "children": []
-          },
-          {
-            "label": "g",
-            "children": []
-          },
-          {
-            "label": "kelen",
-            "children": []
-          },
-          {
-            "label": "la",
-            "children": []
-          },
-          {
-            "label": "ini",
-            "children": []
-          },
-          {
-            "label": "kelen",
-            "children": []
-          },
-          {
-            "label": "dannaya",
-            "children": []
-          },
-          {
-            "label": "kelen",
-            "children": []
-          },
-          {
-            "label": "Bambara",
-            "children": []
-          },
-          {
-            "label": "One",
-            "children": []
-          },
-          {
-            "label": "people",
-            "children": []
-          },
-          {
-            "label": "one",
-            "children": []
-          },
-          {
-            "label": "goal",
-            "children": []
-          },
-          {
-            "label": "one",
-            "children": []
-          },
-          {
-            "label": "faith",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Un peuple, un but, une foi\" (French) \"Mɔgɔ kelen, laɲini kelen, dannaya kelen\" ( Bambara ) \"One people, one goal, one faith"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Le",
-            "children": []
-          },
-          {
-            "label": "Mali",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Le Mali \" (French)"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Bamako",
             "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "650",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "650",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
           }
         ],
         "raw_values": [
-          "Bamako 12°39′N 8°0′W / 12.650°N 8.000°W / 12.650; -8.000"
+          "Bamako"
         ]
       },
       {
@@ -652,18 +472,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Malian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Malian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -700,50 +508,6 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Assimi",
-            "children": []
-          },
-          {
-            "label": "Go",
-            "children": []
-          },
-          {
-            "label": "ta",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Assimi Goïta"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Abdoulaye",
-            "children": []
-          },
-          {
-            "label": "Ma",
-            "children": []
-          },
-          {
-            "label": "ga",
-            "children": []
-          },
-          {
-            "label": "interim",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Abdoulaye Maïga (interim)"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -777,66 +541,6 @@
         ],
         "raw_values": [
           "24 November 1958"
-        ]
-      },
-      {
-        "label": "merger_with_senegal_to_create_the_mali_federation",
-        "children": [
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "April",
-            "children": []
-          },
-          {
-            "label": "1959",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "4 April 1959"
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "20 June 1960"
-        ]
-      },
-      {
-        "label": "dissolution_of_the_mali_federation",
-        "children": [
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "20 August 1960"
         ]
       },
       {
@@ -1132,94 +836,6 @@
         ],
         "raw_values": [
           "0.419 low ( 188th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "CFA",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "XOF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "West African CFA franc ( XOF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "GMT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC ±00:00 ( GMT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "223",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+223"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ML",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ML"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ml",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ml"
         ]
       }
     ]

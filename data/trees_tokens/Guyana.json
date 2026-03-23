@@ -4,143 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "One",
-            "children": []
-          },
-          {
-            "label": "People",
-            "children": []
-          },
-          {
-            "label": "One",
-            "children": []
-          },
-          {
-            "label": "Nation",
-            "children": []
-          },
-          {
-            "label": "One",
-            "children": []
-          },
-          {
-            "label": "Destiny",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "One People, One Nation, One Destiny"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Dear",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Guyana",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Dear Land of Guyana"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Georgetown",
             "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "04",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "09",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "80111",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "15500",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "80111",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "15500",
-            "children": []
           }
         ],
         "raw_values": [
-          "Georgetown 6°48′04′′N 58°09′18′′W / 6.80111°N 58.15500°W / 6.80111; -58.15500"
+          "Georgetown"
         ]
       },
       {
@@ -432,18 +304,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Guyanese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Guyanese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -477,22 +337,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic with an executive presidency"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Irfaan",
-            "children": []
-          },
-          {
-            "label": "Ali",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Irfaan Ali"
         ]
       },
       {
@@ -609,26 +453,6 @@
         ],
         "raw_values": [
           "1831–1966"
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom_as_guyana",
-        "children": [
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "1966",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "26 May 1966"
         ]
       },
       {
@@ -960,106 +784,6 @@
         ],
         "raw_values": [
           "0.776 high ( 89th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Guyanese",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "GYD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Guyanese dollar ( GYD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "04",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "GYT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC -04:00 ( GYT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd-mm-yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "592",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+592"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "GY"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "gy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".gy"
         ]
       }
     ]

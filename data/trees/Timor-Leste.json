@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unidade, Acção, Progresso (Portuguese) \"Unity, Action, Progress\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Pátria (Portuguese) \"Fatherland\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Dili 8°33′S 125°34′E / 8.55°S 125.56°E / -8.55; 125.56",
+            "label": "Dili",
             "children": []
           }
         ]
@@ -58,37 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "East Timorese Timorese Maubere (informal)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "José Ramos-Horta",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Xanana Gusmão",
             "children": []
           }
         ]
@@ -112,37 +67,10 @@
         ]
       },
       {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "28 November 1975",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "annexation_by_indonesia",
-        "children": [
-          {
-            "label": "17 July 1976",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "administered_by_untaet",
         "children": [
           {
             "label": "25 October 1999",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_restored",
-        "children": [
-          {
-            "label": "20 May 2002",
             "children": []
           }
         ]
@@ -245,51 +173,6 @@
         "children": [
           {
             "label": "0.634 medium ( 142nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "United States dollar Timor-Leste centavo ( USD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +9 ( Timor-Leste Time )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+670",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TL",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".tl",
             "children": []
           }
         ]

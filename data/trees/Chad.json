@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unité, Travail, Progrès\" ( French ) \"Unity, Work, Progress",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "La Tchadienne \" (French) \"The Song of Chad",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "N'Djamena 12°06′19′′N 15°02′41′′E / 12.10528°N 15.04472°E / 12.10528; 15.04472",
+            "label": "N'Djamena",
             "children": []
           }
         ]
@@ -49,37 +31,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Chadian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-presidential republic under a hereditary dictatorship",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Mahamat Déby",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Allamaye Halina",
             "children": []
           }
         ]
@@ -107,15 +62,6 @@
         "children": [
           {
             "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "colony_established",
-        "children": [
-          {
-            "label": "5 September 1900",
             "children": []
           }
         ]
@@ -227,51 +173,6 @@
         "children": [
           {
             "label": "0.416 low ( 190th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Central African CFA franc ( XAF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +01:00 ( WAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+235",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TD",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".td",
             "children": []
           }
         ]

@@ -4,15 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno Nacional de Bolivia (Spanish) \" National Anthem of Bolivia \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "dual_flag",
         "children": [
           {
@@ -43,7 +34,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Santa Cruz 17°48′S 63°10′W / 17.800°S 63.167°W / -17.800; -63.167",
+            "label": "Santa Cruz",
             "children": []
           }
         ]
@@ -67,37 +58,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bolivian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Rodrigo Paz",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Edmand Lara",
             "children": []
           }
         ]
@@ -263,60 +227,6 @@
         "children": [
           {
             "label": "0.733 high ( 108th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Boliviano ( BOB )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −04:00 ( BOT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+591",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BO",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".bo",
             "children": []
           }
         ]

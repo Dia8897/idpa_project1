@@ -149,17 +149,34 @@ def normalized_similarity(distance: int, size1: int, size2: int) -> float:
     return max(0.0, 1.0 - (distance / total))
 
 
-def ted_distance(tree1: dict, tree2: dict):
+def slide_similarity_formula1(distance: int) -> float:
+    """
+    Slide formula 1:
+    Sim(A, B) = 1 / (1 + TED(A, B))
+    """
+    return 1.0 / (1.0 + distance)
+
+
+def configure_ted_context(tree1: dict, tree2: dict):
+    """
+    Prepare subtree-membership state and clear the TED cache so callers that need
+    both TED values and TED-based backtracking can share the same tested logic.
+    """
     global _ACTIVE_SOURCE_SUBTREES, _ACTIVE_TARGET_SUBTREES
 
     _ACTIVE_SOURCE_SUBTREES = frozenset(collect_subtree_serials(tree1))
     _ACTIVE_TARGET_SUBTREES = frozenset(collect_subtree_serials(tree2))
     ted.cache_clear()
 
+
+def ted_distance(tree1: dict, tree2: dict):
+    configure_ted_context(tree1, tree2)
+
     size1 = subtree_size(tree1)
     size2 = subtree_size(tree2)
     distance = ted(serialize_node(tree1), serialize_node(tree2))
     similarity = normalized_similarity(distance, size1, size2)
+    similarity_formula1 = slide_similarity_formula1(distance)
     common_score = (size1 + size2 - distance) / 2
 
     return {
@@ -168,6 +185,7 @@ def ted_distance(tree1: dict, tree2: dict):
         "size2": size2,
         "distance": distance,
         "common_score": common_score,
+        "slide_similarity_formula1": similarity_formula1,
         "normalized_similarity": similarity,
     }
 
@@ -200,4 +218,5 @@ if __name__ == "__main__":
     print("Size1:", result["size1"], "| Size2:", result["size2"])
     print("Distance:", result["distance"])
     print("Common score:", result["common_score"])
+    print("Slide similarity formula 1:", round(result["slide_similarity_formula1"], 4))
     print("Normalized similarity:", round(result["normalized_similarity"], 4))

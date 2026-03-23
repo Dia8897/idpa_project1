@@ -4,107 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Kimigayo",
-            "children": []
-          },
-          {
-            "label": "His",
-            "children": []
-          },
-          {
-            "label": "Majesty",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "Reign",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "君が代 (\" Kimigayo \") ' His Majesty's Reign '"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Tokyo",
             "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "139",
-            "children": []
-          },
-          {
-            "label": "46",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "683",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "139",
-            "children": []
-          },
-          {
-            "label": "767",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "683",
-            "children": []
-          },
-          {
-            "label": "139",
-            "children": []
-          },
-          {
-            "label": "767",
-            "children": []
           }
         ],
         "raw_values": [
-          "Tokyo 35°41′N 139°46′E / 35.683°N 139.767°E / 35.683; 139.767"
+          "Tokyo"
         ]
       },
       {
@@ -148,18 +56,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Japanese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Japanese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -193,22 +89,6 @@
         ],
         "raw_values": [
           "Naruhito"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Sanae",
-            "children": []
-          },
-          {
-            "label": "Takaichi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sanae Takaichi"
         ]
       },
       {
@@ -560,82 +440,6 @@
         ],
         "raw_values": [
           "0.925 very high ( 23rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Japanese",
-            "children": []
-          },
-          {
-            "label": "yen",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Japanese yen ( ¥ )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "09",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "JST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +09:00 ( JST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "81",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+81"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "JP",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "JP"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "jp",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".jp"
         ]
       }
     ]

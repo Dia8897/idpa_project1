@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "مَوْطِنِيْ Mawṭinī \"My Homeland\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Baghdad 33°20′N 44°23′E / 33.333°N 44.383°E / 33.333; 44.383",
+            "label": "Baghdad",
             "children": []
           }
         ]
@@ -58,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Iraqi",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Federal parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Abdul Latif Rashid",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mohammed Shia' al-Sudani",
             "children": []
           }
         ]
@@ -152,24 +116,6 @@
         "children": [
           {
             "label": "c. 1890 BC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "abbasid_caliphate",
-        "children": [
-          {
-            "label": "750 AD",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "3 October 1932",
             "children": []
           }
         ]
@@ -281,51 +227,6 @@
         "children": [
           {
             "label": "0.712 high ( 122nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Iraqi dinar ( IQD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+964",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IQ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".iq .العراق",
             "children": []
           }
         ]

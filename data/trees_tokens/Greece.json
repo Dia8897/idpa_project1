@@ -4,163 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Elefther",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "Th",
-            "children": []
-          },
-          {
-            "label": "natos",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Freedom",
-            "children": []
-          },
-          {
-            "label": "or",
-            "children": []
-          },
-          {
-            "label": "Death",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ελευθερία ή Θάνατος Elefthería í Thánatos (English: \" Freedom or Death \")"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "mnos",
-            "children": []
-          },
-          {
-            "label": "eis",
-            "children": []
-          },
-          {
-            "label": "tin",
-            "children": []
-          },
-          {
-            "label": "Elefther",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Hymn",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "Liberty",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ύμνος εις την Ελευθερίαν Ýmnos eis tin Eleftherían (English: \" Hymn to Liberty \")"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Athens",
             "children": []
-          },
-          {
-            "label": "37",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "37",
-            "children": []
-          },
-          {
-            "label": "967",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "717",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "37",
-            "children": []
-          },
-          {
-            "label": "967",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "717",
-            "children": []
           }
         ],
         "raw_values": [
-          "Athens 37°58′N 23°43′E / 37.967°N 23.717°E / 37.967; 23.717"
+          "Athens"
         ]
       },
       {
@@ -248,22 +100,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Greek",
-            "children": []
-          },
-          {
-            "label": "Hellene",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Greek Hellene"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -281,38 +117,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Konstantinos",
-            "children": []
-          },
-          {
-            "label": "Tasoulas",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Konstantinos Tasoulas"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Kyriakos",
-            "children": []
-          },
-          {
-            "label": "Mitsotakis",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kyriakos Mitsotakis"
         ]
       },
       {
@@ -345,38 +149,6 @@
         ],
         "raw_values": [
           "Hellenic Parliament"
-        ]
-      },
-      {
-        "label": "greek_war_of_independence_against_the_ottoman_empire",
-        "children": [
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1821",
-            "children": []
-          },
-          {
-            "label": "traditional",
-            "children": []
-          },
-          {
-            "label": "starting",
-            "children": []
-          },
-          {
-            "label": "date",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "25 March 1821 (traditional starting date)"
         ]
       },
       {
@@ -775,46 +547,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "02",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "EET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +02:00 ( EET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -836,42 +568,6 @@
         ],
         "raw_values": [
           "UTC +03:00 ( EEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "30",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+30"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "GR"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "gr",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".gr .ελ"
         ]
       }
     ]

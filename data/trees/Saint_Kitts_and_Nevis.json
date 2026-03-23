@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Country Above Self",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "O Land of Beauty!",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Basseterre 17°18′N 62°44′W / 17.300°N 62.733°W / 17.300; -62.733",
+            "label": "Basseterre",
             "children": []
           }
         ]
@@ -67,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Kittitian Nevisian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -103,15 +76,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Terrance Drew",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -125,15 +89,6 @@
         "children": [
           {
             "label": "27 February 1967",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "19 September 1983",
             "children": []
           }
         ]
@@ -227,60 +182,6 @@
         "children": [
           {
             "label": "0.840 very high ( 58th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "East Caribbean dollar (EC$) ( XCD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC -4 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd-mm-yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KN",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".kn",
             "children": []
           }
         ]

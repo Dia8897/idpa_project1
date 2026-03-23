@@ -76,28 +76,10 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unity, Liberty, Justice",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Namibia, Land of the Brave",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Windhoek 22°34′S 17°5′E / 22.567°S 17.083°E / -22.567; 17.083",
+            "label": "Windhoek",
             "children": []
           }
         ]
@@ -148,55 +130,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Namibian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Netumbo Nandi-Ndaitwah",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Lucia Witbooi",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Elijah Ngurare",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "deputy_prime_minister",
-        "children": [
-          {
-            "label": "Vacant",
             "children": []
           }
         ]
@@ -242,15 +179,6 @@
         "children": [
           {
             "label": "9 February 1990",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "21 March 1990",
             "children": []
           }
         ]
@@ -344,60 +272,6 @@
         "children": [
           {
             "label": "0.665 medium ( 136th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Namibian dollar (NAD) South African rand (ZAR)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( CAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+264",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".na",
             "children": []
           }
         ]

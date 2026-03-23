@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Mir wëlle bleiwe wat mir sinn \" \"We want to stay what we are",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "\" Ons Heemecht \" (\"Our Homeland\") Royal anthem : \" De Wilhelmus \" a",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Luxembourg 49°36′38′′N 6°07′58′′E / 49.6106°N 6.1328°E / 49.6106; 6.1328",
+            "label": "Luxembourg",
             "children": []
           }
         ]
@@ -58,15 +40,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Luxembourger Luxembourgish",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -85,15 +58,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Luc Frieden",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -107,24 +71,6 @@
         "children": [
           {
             "label": "9 June 1815",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_in_personal_union_with_the_netherlands_treaty_of_london",
-        "children": [
-          {
-            "label": "19 April 1839",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "end_of_personal_union_with_the_kingdom_of_the_netherlands",
-        "children": [
-          {
-            "label": "23 November 1890",
             "children": []
           }
         ]
@@ -236,42 +182,6 @@
         "children": [
           {
             "label": "0.922 very high ( 25th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+352",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LU",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".lu b",
             "children": []
           }
         ]

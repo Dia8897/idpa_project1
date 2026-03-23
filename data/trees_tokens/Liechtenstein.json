@@ -4,110 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "F",
-            "children": []
-          },
-          {
-            "label": "r",
-            "children": []
-          },
-          {
-            "label": "Gott",
-            "children": []
-          },
-          {
-            "label": "F",
-            "children": []
-          },
-          {
-            "label": "rst",
-            "children": []
-          },
-          {
-            "label": "und",
-            "children": []
-          },
-          {
-            "label": "Vaterland",
-            "children": []
-          },
-          {
-            "label": "For",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Prince",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Fatherland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Für Gott, Fürst und Vaterland\" \"For God, Prince and Fatherland"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Oben",
-            "children": []
-          },
-          {
-            "label": "am",
-            "children": []
-          },
-          {
-            "label": "jungen",
-            "children": []
-          },
-          {
-            "label": "Rhein",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "High",
-            "children": []
-          },
-          {
-            "label": "on",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Young",
-            "children": []
-          },
-          {
-            "label": "Rhine",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Oben am jungen Rhein (English: \"High on the Young Rhine\")"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -436,18 +332,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Liechtensteiner",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Liechtensteiner"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -532,38 +416,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Brigitte",
-            "children": []
-          },
-          {
-            "label": "Haas",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Brigitte Haas"
-        ]
-      },
-      {
-        "label": "deputy_prime_minister",
-        "children": [
-          {
-            "label": "Sabine",
-            "children": []
-          },
-          {
-            "label": "Monauni",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sabine Monauni"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -613,26 +465,6 @@
         ],
         "raw_values": [
           "12 July 1806"
-        ]
-      },
-      {
-        "label": "separation_from_german_confederation",
-        "children": [
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1866",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "23 August 1866"
         ]
       },
       {
@@ -875,50 +707,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Swiss",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "CHF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Swiss franc ( CHF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "01",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +01:00 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -940,42 +728,6 @@
         ],
         "raw_values": [
           "UTC +02:00 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "423",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+423"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LI",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "LI"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "li",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".li"
         ]
       }
     ]

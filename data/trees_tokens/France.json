@@ -4,127 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Libert",
-            "children": []
-          },
-          {
-            "label": "galit",
-            "children": []
-          },
-          {
-            "label": "fraternit",
-            "children": []
-          },
-          {
-            "label": "Liberty",
-            "children": []
-          },
-          {
-            "label": "equality",
-            "children": []
-          },
-          {
-            "label": "fraternity",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Liberté, égalité, fraternité \" Liberty, equality, fraternity"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "La",
-            "children": []
-          },
-          {
-            "label": "Marseillaise",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "La Marseillaise"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Paris",
             "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "350",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "350",
-            "children": []
           }
         ],
         "raw_values": [
-          "Paris 48°51′N 2°21′E / 48.850°N 2.350°E / 48.850; 2.350"
+          "Paris"
         ]
       },
       {
@@ -208,18 +96,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "French",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "French"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -241,42 +117,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Emmanuel",
-            "children": []
-          },
-          {
-            "label": "Macron",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Emmanuel Macron"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "bastien",
-            "children": []
-          },
-          {
-            "label": "Lecornu",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sébastien Lecornu"
         ]
       },
       {
@@ -836,54 +676,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          },
-          {
-            "label": "CFP",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "XPF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR ) CFP franc (XPF)"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -901,42 +693,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "33",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+33"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "FR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "FR"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "fr",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".fr"
         ]
       }
     ]

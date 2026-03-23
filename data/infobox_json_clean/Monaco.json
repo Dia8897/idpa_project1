@@ -1,9 +1,7 @@
 {
   "country_name": "Monaco",
   "infobox": {
-    "Motto": "\" Deo Juvante \" ( Latin ) (English: \"With God's Help\" )",
-    "Anthem": "\" Inu Munegascu \" (English: \"Monégasque Hymn\" )",
-    "Capital": "Monaco ( city-state ) 43°43′52′′N 07°25′12′′E / 43.73111°N 7.42000°E / 43.73111; 7.42000",
+    "Capital": "Monaco ( city-state )",
     "Largest quarter": "Monte Carlo",
     "Official languages": "French ( Meridional )",
     "Common languages": "Italian Monégasque Ligurian",
@@ -16,7 +14,6 @@
     "Legislature": "National Council",
     "House of Grimaldi (under the sovereignty of the Republic of Genoa )": "8 January 1297",
     "from the French Empire": "17 May 1814",
-    "from occupation of the Sixth Coalition": "17 June 1814",
     "Franco-Monégasque Treaty": "11 February 1861",
     "Constitution": "5 January 1911",
     "Total": [
@@ -33,12 +30,6 @@
       "$315,800"
     ],
     "GDP (nominal)": "2024 estimate",
-    "Currency": "Euro ( € ) ( EUR )",
-    "Time zone": "UTC +1 ( CET )",
-    "Summer ( DST )": "UTC +2 ( CEST )",
-    "Date format": "dd/mm/yyyy",
-    "Calling code": "+377",
-    "ISO 3166 code": "MC",
-    "Internet TLD": ".mc"
+    "Summer ( DST )": "UTC +2 ( CEST )"
   }
 }

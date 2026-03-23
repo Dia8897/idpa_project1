@@ -4,86 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "En",
-            "children": []
-          },
-          {
-            "label": "Dios",
-            "children": []
-          },
-          {
-            "label": "confiamos",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "In",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "Trust",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "En Dios confiamos ( Spanish ) \" In God We Trust \""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Salve",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "ti",
-            "children": []
-          },
-          {
-            "label": "Nicaragua",
-            "children": []
-          },
-          {
-            "label": "Hail",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "Thee",
-            "children": []
-          },
-          {
-            "label": "Nicaragua",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Salve a ti, Nicaragua \"Hail to Thee, Nicaragua\""
-        ]
-      },
-      {
         "label": "dual_flag",
         "children": [
           {
@@ -101,74 +21,10 @@
           {
             "label": "Managua",
             "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "86",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "100",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "86",
-            "children": []
-          },
-          {
-            "label": "233",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "100",
-            "children": []
-          },
-          {
-            "label": "86",
-            "children": []
-          },
-          {
-            "label": "233",
-            "children": []
           }
         ],
         "raw_values": [
-          "Managua 12°6′N 86°14′W / 12.100°N 86.233°W / 12.100; -86.233"
+          "Managua"
         ]
       },
       {
@@ -373,30 +229,6 @@
         ],
         "raw_values": [
           "84.4% Christianity 55.0% Catholicism 27.2% Protestantism 2.2% other Christian 14.7% no religion 0.9% other"
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Nicaraguan",
-            "children": []
-          },
-          {
-            "label": "Pinolero",
-            "children": []
-          },
-          {
-            "label": "Pinolera",
-            "children": []
-          },
-          {
-            "label": "colloquial",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nicaraguan Pinolero/Pinolera (colloquial)"
         ]
       },
       {
@@ -916,102 +748,6 @@
         ],
         "raw_values": [
           "0.706 high ( 123rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "C",
-            "children": []
-          },
-          {
-            "label": "rdoba",
-            "children": []
-          },
-          {
-            "label": "NIO",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Córdoba ( NIO )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "CST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −6 ( CST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd-mm-yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "505",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+505"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NI",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "NI"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ni",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ni"
         ]
       }
     ]

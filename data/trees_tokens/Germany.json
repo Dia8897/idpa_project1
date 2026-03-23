@@ -4,139 +4,19 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Das",
-            "children": []
-          },
-          {
-            "label": "Lied",
-            "children": []
-          },
-          {
-            "label": "der",
-            "children": []
-          },
-          {
-            "label": "Deutschen",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Song",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Germans",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Das Lied der Deutschen \" The Song of the Germans"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Berlin",
             "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
           }
         ],
         "raw_values": [
-          "Berlin 52°31′N 13°23′E / 52.517°N 13.383°E / 52.517; 13.383"
+          "Berlin"
         ]
       },
       {
         "label": "official_languages",
-        "children": [
-          {
-            "label": "German",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "German"
-        ]
-      },
-      {
-        "label": "demonyms",
         "children": [
           {
             "label": "German",
@@ -165,42 +45,6 @@
         ],
         "raw_values": [
           "Federal parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Frank",
-            "children": []
-          },
-          {
-            "label": "Walter",
-            "children": []
-          },
-          {
-            "label": "Steinmeier",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Frank-Walter Steinmeier"
-        ]
-      },
-      {
-        "label": "chancellor",
-        "children": [
-          {
-            "label": "Friedrich",
-            "children": []
-          },
-          {
-            "label": "Merz",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Friedrich Merz"
         ]
       },
       {
@@ -515,42 +359,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -568,74 +376,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "Day",
-            "children": []
-          },
-          {
-            "label": "month",
-            "children": []
-          },
-          {
-            "label": "year",
-            "children": []
-          },
-          {
-            "label": "Year",
-            "children": []
-          },
-          {
-            "label": "month",
-            "children": []
-          },
-          {
-            "label": "day",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Day, month, year Year, month, day"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "49",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+49"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "DE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "DE"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "de",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".de"
         ]
       }
     ]

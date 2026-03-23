@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unidade, Luta, Progresso \"Unity, Struggle, Progress\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Esta É a Nossa Pátria Amada \"This Is Our Beloved Homeland\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Bissau 11°52′N 15°36′W / 11.867°N 15.600°W / 11.867; -15.600",
+            "label": "Bissau",
             "children": []
           }
         ]
@@ -67,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Guinean Bissau-Guinean",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -98,15 +71,6 @@
         "children": [
           {
             "label": "Horta Inta-A Na Man",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ilídio Vieira Té",
             "children": []
           }
         ]
@@ -236,51 +200,6 @@
         "children": [
           {
             "label": "0.514 low ( 174th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West African CFA franc ( XOF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC ±00:00 ( GMT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+245",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GW",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".gw",
             "children": []
           }
         ]

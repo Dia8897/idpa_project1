@@ -4,167 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Tuvalu",
-            "children": []
-          },
-          {
-            "label": "mo",
-            "children": []
-          },
-          {
-            "label": "te",
-            "children": []
-          },
-          {
-            "label": "Atua",
-            "children": []
-          },
-          {
-            "label": "Tuvaluan",
-            "children": []
-          },
-          {
-            "label": "Tuvalu",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Almighty",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tuvalu mo te Atua ( Tuvaluan ) \"Tuvalu for the Almighty\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Tuvalu",
-            "children": []
-          },
-          {
-            "label": "mo",
-            "children": []
-          },
-          {
-            "label": "te",
-            "children": []
-          },
-          {
-            "label": "Atua",
-            "children": []
-          },
-          {
-            "label": "Tuvaluan",
-            "children": []
-          },
-          {
-            "label": "Tuvalu",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Almighty",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tuvalu mo te Atua ( Tuvaluan ) \"Tuvalu for the Almighty\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Funafuti",
             "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "179",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "179",
-            "children": []
-          },
-          {
-            "label": "200",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
-          },
-          {
-            "label": "179",
-            "children": []
-          },
-          {
-            "label": "200",
-            "children": []
           }
         ],
         "raw_values": [
-          "Funafuti 8°31′S 179°12′E / 8.517°S 179.200°E / -8.517; 179.200"
+          "Funafuti"
         ]
       },
       {
@@ -284,18 +132,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Tuvaluan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tuvaluan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -356,22 +192,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Feleti",
-            "children": []
-          },
-          {
-            "label": "Teo",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Feleti Teo"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -381,26 +201,6 @@
         ],
         "raw_values": [
           "Parliament"
-        ]
-      },
-      {
-        "label": "from_the_united_kingdom",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "October",
-            "children": []
-          },
-          {
-            "label": "1978",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 October 1978"
         ]
       },
       {
@@ -644,86 +444,6 @@
         ],
         "raw_values": [
           "0.689 medium ( 129th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Tuvaluan",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "Australian",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "AUD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tuvaluan dollar Australian dollar ( AUD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +12"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "688",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+688"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TV",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "TV"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "tv",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".tv"
         ]
       }
     ]

@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Bilady, Bilady, Bilady \"بلادي، بلادي، بلادي\" (English: My country, my country, my country )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Cairo 30°2′N 31°13′E / 30.033°N 31.217°E / 30.033; 31.217",
+            "label": "Cairo",
             "children": []
           }
         ]
@@ -49,37 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Egyptian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-presidential republic under an authoritarian government",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Abdel Fattah el-Sisi",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mostafa Madbouly",
             "children": []
           }
         ]
@@ -121,46 +85,10 @@
         ]
       },
       {
-        "label": "fatimid_caliphate",
-        "children": [
-          {
-            "label": "c. 973",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ayyubid_dynasty_inaugurated",
-        "children": [
-          {
-            "label": "c. 1171",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "mamluk_egypt",
         "children": [
           {
             "label": "c. 1261",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "alawiyya_dynasty_inaugurated",
-        "children": [
-          {
-            "label": "9 July 1805",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "28 February 1922",
             "children": []
           }
         ]
@@ -295,55 +223,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Egyptian pound (LE/E£/£E) ( EGP )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( EET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +3 ( EEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+20",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "EG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".eg مصر.",
             "children": []
           }
         ]

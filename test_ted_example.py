@@ -2,6 +2,10 @@ from ted_distance import ted_distance
 from ted_edit_script import build_edit_script
 
 
+def assert_close(actual, expected, tol=1e-9):
+    assert abs(actual - expected) <= tol, (actual, expected)
+
+
 def build_example_trees():
     tree_c = {
         "label": "a",
@@ -142,6 +146,9 @@ def run_example_test():
     # Uses ted_edit_script.py here.
     ops = build_edit_script(tree_c, tree_d)
     assert len(ops) == 1, ops
+    assert distance_result["distance"] == 1, distance_result
+    assert_close(distance_result["slide_similarity_formula1"], 0.5)
+    assert_close(distance_result["normalized_similarity"], 1 - (1 / (4 + 7)))
 
     op = ops[0]
     assert op["kind"] == "INS", op
@@ -163,10 +170,13 @@ def run_second_example_test():
 
     # Uses ted_edit_script.py here.
     ops = build_edit_script(tree_s, tree_t)
+    assert distance_result["distance"] == 2, distance_result
 
     print("\nSecond lecture example")
     print("Slide distance expectation:", 2)
     print("Project distance:", distance_result["distance"])
+    print("Slide similarity formula 1:", distance_result["slide_similarity_formula1"])
+    print("Slide similarity formula 2:", distance_result["normalized_similarity"])
     print("Project edit script (slide style):", format_generic_slide_style_script(ops, "S"))
 
 

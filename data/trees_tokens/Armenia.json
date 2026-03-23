@@ -4,103 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Mer",
-            "children": []
-          },
-          {
-            "label": "Hayrenik",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "Fatherland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Մեր Հայրենիք Mer Hayrenik \"Our Fatherland\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Yerevan",
             "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "183",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "183",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
           }
         ],
         "raw_values": [
-          "Yerevan 40°11′N 44°31′E / 40.183°N 44.517°E / 40.183; 44.517"
+          "Yerevan"
         ]
       },
       {
@@ -308,18 +220,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Armenian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Armenian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -337,38 +237,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Vahagn",
-            "children": []
-          },
-          {
-            "label": "Khachaturyan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Vahagn Khachaturyan"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Nikol",
-            "children": []
-          },
-          {
-            "label": "Pashinyan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nikol Pashinyan"
         ]
       },
       {
@@ -432,30 +300,6 @@
         ]
       },
       {
-        "label": "kingdom_of_armenia",
-        "children": [
-          {
-            "label": "331",
-            "children": []
-          },
-          {
-            "label": "BC",
-            "children": []
-          },
-          {
-            "label": "428",
-            "children": []
-          },
-          {
-            "label": "AD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "331 BC–428 AD"
-        ]
-      },
-      {
         "label": "bagratid_armenia",
         "children": [
           {
@@ -469,26 +313,6 @@
         ],
         "raw_values": [
           "880s–1045"
-        ]
-      },
-      {
-        "label": "armenian_kingdom_of_cilicia",
-        "children": [
-          {
-            "label": "1198",
-            "children": []
-          },
-          {
-            "label": "99",
-            "children": []
-          },
-          {
-            "label": "1375",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1198/99–1375"
         ]
       },
       {
@@ -545,26 +369,6 @@
         ],
         "raw_values": [
           "29 November 1920"
-        ]
-      },
-      {
-        "label": "independence_from_the_ussr",
-        "children": [
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "23 September 1991"
         ]
       },
       {
@@ -900,98 +704,6 @@
         ],
         "raw_values": [
           "0.811 very high ( 69th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Dram",
-            "children": []
-          },
-          {
-            "label": "AMD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Dram ( ֏ ) ( AMD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "AMT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +4 ( AMT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd.mm.yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "374",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+374"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AM",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "AM"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "am",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".am .հայ"
         ]
       }
     ]

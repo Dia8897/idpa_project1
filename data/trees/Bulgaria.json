@@ -4,24 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Съединението прави силата Sŭedinenieto pravi silata ( \" Unity makes strength \" )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Мила Родино Mila Rodino ( \"Dear Motherland\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -67,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bulgarian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Iliana Iotova",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Andrey Gyurov",
             "children": []
           }
         ]
@@ -143,15 +98,6 @@
         "children": [
           {
             "label": "3 March 1878",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_ottoman_empire",
-        "children": [
-          {
-            "label": "5 October 1908",
             "children": []
           }
         ]
@@ -277,55 +223,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( EET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +3 ( EEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+359",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".bg .бг",
             "children": []
           }
         ]

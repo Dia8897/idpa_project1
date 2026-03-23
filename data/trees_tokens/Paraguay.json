@@ -4,78 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Paz",
-            "children": []
-          },
-          {
-            "label": "y",
-            "children": []
-          },
-          {
-            "label": "justicia",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "Peace",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "justice",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Paz y justicia (Spanish) \"Peace and justice\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno",
-            "children": []
-          },
-          {
-            "label": "Nacional",
-            "children": []
-          },
-          {
-            "label": "Paraguayo",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "Paraguayan",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himno Nacional Paraguayo (Spanish) \" Paraguayan National Anthem \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -85,74 +13,10 @@
           {
             "label": "n",
             "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "57",
-            "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "267",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "57",
-            "children": []
-          },
-          {
-            "label": "667",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "267",
-            "children": []
-          },
-          {
-            "label": "57",
-            "children": []
-          },
-          {
-            "label": "667",
-            "children": []
           }
         ],
         "raw_values": [
-          "Asunción 25°16′S 57°40′W / 25.267°S 57.667°W / -25.267; -57.667"
+          "Asunción"
         ]
       },
       {
@@ -248,18 +112,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Paraguayan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Paraguayan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -277,42 +129,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Santiago",
-            "children": []
-          },
-          {
-            "label": "Pe",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Santiago Peña"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Pedro",
-            "children": []
-          },
-          {
-            "label": "Alliana",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Pedro Alliana"
         ]
       },
       {
@@ -760,102 +576,6 @@
         ],
         "raw_values": [
           "0.756 high ( 99th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Guaran",
-            "children": []
-          },
-          {
-            "label": "PYG",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Guaraní ( PYG )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "03",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "PYT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC –03:00 ( PYT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "595",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+595"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "PY"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "py",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".py"
         ]
       }
     ]

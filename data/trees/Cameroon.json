@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Paix – Travail – Patrie\" ( French ) \"Peace – Work – Fatherland",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Chant de Ralliement\" (French) \" Rallying Song",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Yaoundé 3°51′41′′N 11°31′14′′E / 3.86139°N 11.52056°E / 3.86139; 11.52056",
+            "label": "Yaoundé",
             "children": []
           }
         ]
@@ -76,37 +58,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Cameroonian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic under a dictatorship",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Paul Biya",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Joseph Ngute",
             "children": []
           }
         ]
@@ -161,33 +116,6 @@
         "children": [
           {
             "label": "17 August 1884",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "partition_of_german_kamerun_between_france_and_the_united_kingdom_as_a_league_of_nations_mandates_by_the_treaty_of_versailles",
-        "children": [
-          {
-            "label": "28 June 1919",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_of_french_cameroons_from_france",
-        "children": [
-          {
-            "label": "1 January 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_of_british_southern_cameroons_from_the_united_kingdom_and_establishment_of_the_federal_republic_of_cameroon",
-        "children": [
-          {
-            "label": "1 October 1961",
             "children": []
           }
         ]
@@ -299,51 +227,6 @@
         "children": [
           {
             "label": "0.588 medium ( 155th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Central African CFA franc ( XAF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( WAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+237",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CM",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".cm",
             "children": []
           }
         ]

@@ -4,119 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Dievs",
-            "children": []
-          },
-          {
-            "label": "sv",
-            "children": []
-          },
-          {
-            "label": "t",
-            "children": []
-          },
-          {
-            "label": "Latviju",
-            "children": []
-          },
-          {
-            "label": "Latvian",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Bless",
-            "children": []
-          },
-          {
-            "label": "Latvia",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Dievs, svētī Latviju (Latvian) (\"God Bless Latvia\")"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Riga",
             "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "57",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "950",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "100",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "950",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "100",
-            "children": []
           }
         ],
         "raw_values": [
-          "Riga 56°57′N 24°6′E / 56.950°N 24.100°E / 56.950; 24.100"
+          "Riga"
         ]
       },
       {
@@ -316,18 +212,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Latvian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Latvian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -345,50 +229,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Edgars",
-            "children": []
-          },
-          {
-            "label": "Rink",
-            "children": []
-          },
-          {
-            "label": "vi",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Edgars Rinkēvičs"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Evika",
-            "children": []
-          },
-          {
-            "label": "Sili",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Evika Siliņa"
         ]
       },
       {
@@ -787,42 +627,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "EET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( EET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -840,42 +644,6 @@
         ],
         "raw_values": [
           "UTC +3 ( EEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "371",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+371"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LV",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "LV"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "lv",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".lv"
         ]
       }
     ]

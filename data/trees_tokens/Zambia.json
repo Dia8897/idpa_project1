@@ -4,143 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "One",
-            "children": []
-          },
-          {
-            "label": "Zambia",
-            "children": []
-          },
-          {
-            "label": "One",
-            "children": []
-          },
-          {
-            "label": "Nation",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "One Zambia, One Nation"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Stand",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Sing",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Zambia",
-            "children": []
-          },
-          {
-            "label": "Proud",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Free",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Stand and Sing of Zambia, Proud and Free"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Lusaka",
             "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "417",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "283",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "417",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "283",
-            "children": []
           }
         ],
         "raw_values": [
-          "Lusaka 15°25′S 28°17′E / 15.417°S 28.283°E / -15.417; 28.283"
+          "Lusaka"
         ]
       },
       {
@@ -936,18 +808,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Zambian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Zambian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -965,22 +825,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Hakainde",
-            "children": []
-          },
-          {
-            "label": "Hichilema",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Hakainde Hichilema"
         ]
       },
       {
@@ -1344,102 +1188,6 @@
         ],
         "raw_values": [
           "0.595 medium ( 154th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Zambian",
-            "children": []
-          },
-          {
-            "label": "kwacha",
-            "children": []
-          },
-          {
-            "label": "ZMW",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Zambian kwacha ( ZMW )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "CAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( CAT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "260",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+260"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ZM",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ZM"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "zm",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".zm"
         ]
       }
     ]

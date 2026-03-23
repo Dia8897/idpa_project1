@@ -4,191 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Ubumwe",
-            "children": []
-          },
-          {
-            "label": "Umurimo",
-            "children": []
-          },
-          {
-            "label": "Gukunda",
-            "children": []
-          },
-          {
-            "label": "Igihugu",
-            "children": []
-          },
-          {
-            "label": "Kinyarwanda",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "Work",
-            "children": []
-          },
-          {
-            "label": "Patriotism",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Unit",
-            "children": []
-          },
-          {
-            "label": "Travail",
-            "children": []
-          },
-          {
-            "label": "Patriotisme",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Umoja",
-            "children": []
-          },
-          {
-            "label": "Kazi",
-            "children": []
-          },
-          {
-            "label": "Uzalendo",
-            "children": []
-          },
-          {
-            "label": "Swahili",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ubumwe, Umurimo, Gukunda Igihugu ( Kinyarwanda ) Unity, Work, Patriotism ( English ) Unité, Travail, Patriotisme ( French ) Umoja, Kazi, Uzalendo ( Swahili )"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Rwanda",
-            "children": []
-          },
-          {
-            "label": "nziza",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Beautiful",
-            "children": []
-          },
-          {
-            "label": "Rwanda",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Rwanda nziza \" (English: \"Beautiful Rwanda\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Kigali",
             "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "94389",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "05944",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "94389",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "05944",
-            "children": []
           }
         ],
         "raw_values": [
-          "Kigali 1°56′38′′S 30°3′34′′E / 1.94389°S 30.05944°E / -1.94389; 30.05944"
+          "Kigali"
         ]
       },
       {
@@ -340,22 +164,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Rwandan",
-            "children": []
-          },
-          {
-            "label": "Rwandese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Rwandan Rwandese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -393,38 +201,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic under an authoritarian dictatorship"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Paul",
-            "children": []
-          },
-          {
-            "label": "Kagame",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Paul Kagame"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Justin",
-            "children": []
-          },
-          {
-            "label": "Nsengiyumva",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Justin Nsengiyumva"
         ]
       },
       {
@@ -485,22 +261,6 @@
         ],
         "raw_values": [
           "Chamber of Deputies"
-        ]
-      },
-      {
-        "label": "kingdom_of_rwanda",
-        "children": [
-          {
-            "label": "15th",
-            "children": []
-          },
-          {
-            "label": "century",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "15th century"
         ]
       },
       {
@@ -569,26 +329,6 @@
         ],
         "raw_values": [
           "28 January 1961"
-        ]
-      },
-      {
-        "label": "independence_from_belgium",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "July",
-            "children": []
-          },
-          {
-            "label": "1962",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 July 1962"
         ]
       },
       {
@@ -924,106 +664,6 @@
         ],
         "raw_values": [
           "0.578 medium ( 159th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Rwandan",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "RWF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Rwandan franc ( RWF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "CAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( CAT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "AD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy ( AD )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "250",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+250"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "RW",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "RW"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "rw",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".rw"
         ]
       }
     ]

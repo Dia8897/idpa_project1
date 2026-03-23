@@ -4,119 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Mazurek",
-            "children": []
-          },
-          {
-            "label": "D",
-            "children": []
-          },
-          {
-            "label": "browskiego",
-            "children": []
-          },
-          {
-            "label": "Poland",
-            "children": []
-          },
-          {
-            "label": "Is",
-            "children": []
-          },
-          {
-            "label": "Not",
-            "children": []
-          },
-          {
-            "label": "Yet",
-            "children": []
-          },
-          {
-            "label": "Lost",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Mazurek Dąbrowskiego \" Poland Is Not Yet Lost"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Warsaw",
             "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "02",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
           }
         ],
         "raw_values": [
-          "Warsaw 52°13′N 21°02′E / 52.217°N 21.033°E / 52.217; 21.033"
+          "Warsaw"
         ]
       },
       {
@@ -296,22 +192,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Polish",
-            "children": []
-          },
-          {
-            "label": "Pole",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Polish Pole"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -329,38 +209,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Karol",
-            "children": []
-          },
-          {
-            "label": "Nawrocki",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Karol Nawrocki"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Donald",
-            "children": []
-          },
-          {
-            "label": "Tusk",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Donald Tusk"
         ]
       },
       {
@@ -417,26 +265,6 @@
         ],
         "raw_values": [
           "14 April 966"
-        ]
-      },
-      {
-        "label": "kingdom_of_poland",
-        "children": [
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "April",
-            "children": []
-          },
-          {
-            "label": "1025",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "18 April 1025"
         ]
       },
       {
@@ -819,46 +647,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Z",
-            "children": []
-          },
-          {
-            "label": "oty",
-            "children": []
-          },
-          {
-            "label": "PLN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Złoty ( PLN )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -876,66 +664,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "CE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd.mm.yyyy ( CE )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "48",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+48"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PL",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "PL"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "pl",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".pl"
         ]
       }
     ]

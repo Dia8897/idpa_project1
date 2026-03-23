@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Tuvalu mo te Atua ( Tuvaluan ) \"Tuvalu for the Almighty\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Tuvalu mo te Atua ( Tuvaluan ) \"Tuvalu for the Almighty\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Funafuti 8°31′S 179°12′E / 8.517°S 179.200°E / -8.517; 179.200",
+            "label": "Funafuti",
             "children": []
           }
         ]
@@ -58,15 +40,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Tuvaluan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -94,28 +67,10 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Feleti Teo",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
             "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_the_united_kingdom",
-        "children": [
-          {
-            "label": "1 October 1978",
             "children": []
           }
         ]
@@ -209,51 +164,6 @@
         "children": [
           {
             "label": "0.689 medium ( 129th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Tuvaluan dollar Australian dollar ( AUD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +12",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+688",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TV",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".tv",
             "children": []
           }
         ]

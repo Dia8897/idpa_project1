@@ -4,155 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Paix",
-            "children": []
-          },
-          {
-            "label": "Travail",
-            "children": []
-          },
-          {
-            "label": "Patrie",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Peace",
-            "children": []
-          },
-          {
-            "label": "Work",
-            "children": []
-          },
-          {
-            "label": "Fatherland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Paix – Travail – Patrie\" ( French ) \"Peace – Work – Fatherland"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Chant",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "Ralliement",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Rallying",
-            "children": []
-          },
-          {
-            "label": "Song",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Chant de Ralliement\" (French) \" Rallying Song"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Yaound",
             "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "86139",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "52056",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "86139",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "52056",
-            "children": []
           }
         ],
         "raw_values": [
-          "Yaoundé 3°51′41′′N 11°31′14′′E / 3.86139°N 11.52056°E / 3.86139; 11.52056"
+          "Yaoundé"
         ]
       },
       {
@@ -524,18 +384,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Cameroonian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Cameroonian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -565,38 +413,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic under a dictatorship"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Paul",
-            "children": []
-          },
-          {
-            "label": "Biya",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Paul Biya"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Joseph",
-            "children": []
-          },
-          {
-            "label": "Ngute",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Joseph Ngute"
         ]
       },
       {
@@ -701,66 +517,6 @@
         ],
         "raw_values": [
           "17 August 1884"
-        ]
-      },
-      {
-        "label": "partition_of_german_kamerun_between_france_and_the_united_kingdom_as_a_league_of_nations_mandates_by_the_treaty_of_versailles",
-        "children": [
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1919",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "28 June 1919"
-        ]
-      },
-      {
-        "label": "independence_of_french_cameroons_from_france",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 January 1960"
-        ]
-      },
-      {
-        "label": "independence_of_british_southern_cameroons_from_the_united_kingdom_and_establishment_of_the_federal_republic_of_cameroon",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "October",
-            "children": []
-          },
-          {
-            "label": "1961",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 October 1961"
         ]
       },
       {
@@ -1072,90 +828,6 @@
         ],
         "raw_values": [
           "0.588 medium ( 155th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Central",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "CFA",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "XAF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Central African CFA franc ( XAF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "WAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( WAT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "237",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+237"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CM",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CM"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "cm",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".cm"
         ]
       }
     ]

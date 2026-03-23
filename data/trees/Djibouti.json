@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Midnimo, Sinnaan, Nabad ( Somali ) Inkittiino, Qeedala, Wagari ( Afar ) Unité, Égalité, Paix ( French ) اتحاد، مساواة، سلام ( Arabic ) Unity, Equality, Peace ( English )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Djibouti",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Djibouti City 11°36′N 43°10′E / 11.600°N 43.167°E / 11.600; 43.167",
+            "label": "Djibouti City",
             "children": []
           }
         ]
@@ -67,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Djiboutian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -85,37 +58,10 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Ismaïl Omar Guelleh",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Abdoulkader Kamil Mohamed",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
             "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "27 June 1977",
             "children": []
           }
         ]
@@ -218,51 +164,6 @@
         "children": [
           {
             "label": "0.513 low ( 175th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Djiboutian franc ( DJF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( EAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+253",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "DJ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".dj",
             "children": []
           }
         ]

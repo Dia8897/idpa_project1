@@ -4,70 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Bhinneka",
-            "children": []
-          },
-          {
-            "label": "Tunggal",
-            "children": []
-          },
-          {
-            "label": "Ika",
-            "children": []
-          },
-          {
-            "label": "Old",
-            "children": []
-          },
-          {
-            "label": "Javanese",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Diversity",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bhinneka Tunggal Ika ( Old Javanese ) \"Unity in Diversity\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Indonesia",
-            "children": []
-          },
-          {
-            "label": "Raya",
-            "children": []
-          },
-          {
-            "label": "Great",
-            "children": []
-          },
-          {
-            "label": "Indonesia",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Indonesia Raya \"Great Indonesia\""
-        ]
-      },
-      {
         "label": "national_ideology_and_philosophy",
         "children": [
           {
@@ -101,74 +37,10 @@
           {
             "label": "Jakarta",
             "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "106",
-            "children": []
-          },
-          {
-            "label": "49",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "106",
-            "children": []
-          },
-          {
-            "label": "817",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "106",
-            "children": []
-          },
-          {
-            "label": "817",
-            "children": []
           }
         ],
         "raw_values": [
-          "Jakarta 6°10′S 106°49′E / 6.167°S 106.817°E / -6.167; 106.817"
+          "Jakarta"
         ]
       },
       {
@@ -444,18 +316,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Indonesian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Indonesian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -473,42 +333,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Prabowo",
-            "children": []
-          },
-          {
-            "label": "Subianto",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Prabowo Subianto"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Gibran",
-            "children": []
-          },
-          {
-            "label": "Rakabuming",
-            "children": []
-          },
-          {
-            "label": "Raka",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Gibran Rakabuming Raka"
         ]
       },
       {
@@ -960,122 +784,6 @@
         ],
         "raw_values": [
           "0.728 high ( 113th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Indonesian",
-            "children": []
-          },
-          {
-            "label": "rupiah",
-            "children": []
-          },
-          {
-            "label": "Rp",
-            "children": []
-          },
-          {
-            "label": "IDR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Indonesian rupiah (Rp) ( IDR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "WIB",
-            "children": []
-          },
-          {
-            "label": "WITA",
-            "children": []
-          },
-          {
-            "label": "WIT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +7, +8, +9 ( WIB, WITA, WIT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "DD",
-            "children": []
-          },
-          {
-            "label": "MM",
-            "children": []
-          },
-          {
-            "label": "YYYY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "DD/MM/YYYY"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "62",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+62"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ID",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ID"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "id",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".id"
         ]
       }
     ]

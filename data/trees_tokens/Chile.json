@@ -4,175 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Por",
-            "children": []
-          },
-          {
-            "label": "la",
-            "children": []
-          },
-          {
-            "label": "raz",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          },
-          {
-            "label": "la",
-            "children": []
-          },
-          {
-            "label": "fuerza",
-            "children": []
-          },
-          {
-            "label": "By",
-            "children": []
-          },
-          {
-            "label": "reason",
-            "children": []
-          },
-          {
-            "label": "or",
-            "children": []
-          },
-          {
-            "label": "by",
-            "children": []
-          },
-          {
-            "label": "force",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Por la razón o la fuerza (\"By reason or by force\")"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno",
-            "children": []
-          },
-          {
-            "label": "Nacional",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "Chile",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Chile",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himno Nacional de Chile (\"National Anthem of Chile\")"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Santiago",
             "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "70",
-            "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "433",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "70",
-            "children": []
-          },
-          {
-            "label": "667",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "433",
-            "children": []
-          },
-          {
-            "label": "70",
-            "children": []
-          },
-          {
-            "label": "667",
-            "children": []
           }
         ],
         "raw_values": [
-          "Santiago 33°26′S 70°40′W / 33.433°S 70.667°W / -33.433; -70.667"
+          "Santiago"
         ]
       },
       {
@@ -276,18 +116,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Chilean",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Chilean"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -305,22 +133,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Gabriel",
-            "children": []
-          },
-          {
-            "label": "Boric",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Gabriel Boric"
         ]
       },
       {
@@ -811,62 +623,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Chilean",
-            "children": []
-          },
-          {
-            "label": "peso",
-            "children": []
-          },
-          {
-            "label": "CLP",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Chilean peso ( CLP )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "CLST",
-            "children": []
-          },
-          {
-            "label": "CLT",
-            "children": []
-          },
-          {
-            "label": "EAST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −3, −4, −6 ( CLST, CLT, EAST )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -892,62 +648,6 @@
         ],
         "raw_values": [
           "UTC −3, −5 ( CLST, EASST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "56",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+56"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CL",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CL"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "cl",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".cl"
         ]
       }
     ]

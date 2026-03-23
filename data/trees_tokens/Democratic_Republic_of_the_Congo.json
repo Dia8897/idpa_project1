@@ -4,62 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Justice",
-            "children": []
-          },
-          {
-            "label": "Paix",
-            "children": []
-          },
-          {
-            "label": "Travail",
-            "children": []
-          },
-          {
-            "label": "Justice",
-            "children": []
-          },
-          {
-            "label": "Peace",
-            "children": []
-          },
-          {
-            "label": "Work",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Justice – Paix – Travail (\"Justice – Peace – Work\")"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Debout",
-            "children": []
-          },
-          {
-            "label": "Congolais",
-            "children": []
-          },
-          {
-            "label": "Arise",
-            "children": []
-          },
-          {
-            "label": "Congolese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Debout Congolais (\"Arise, Congolese\")"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -121,62 +65,10 @@
           {
             "label": "317",
             "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "317",
-            "children": []
-          },
-          {
-            "label": "Country",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
           }
         ],
         "raw_values": [
-          "Kinshasa 4°19′S 15°19′E / 4.317°S 15.317°E / -4.317; 15.317 Country: 3°S 24°E / 3°S 24°E / -3; 24"
+          "Kinshasa 4°19′S 15°19′E / 4.317°S 15.317°E / -4.317;"
         ]
       },
       {
@@ -292,18 +184,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Congolese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Congolese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -325,42 +205,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "F",
-            "children": []
-          },
-          {
-            "label": "lix",
-            "children": []
-          },
-          {
-            "label": "Tshisekedi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Félix Tshisekedi"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Judith",
-            "children": []
-          },
-          {
-            "label": "Suminwa",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Judith Suminwa"
         ]
       },
       {
@@ -461,26 +305,6 @@
         ],
         "raw_values": [
           "15 November 1908"
-        ]
-      },
-      {
-        "label": "independence_from_belgium",
-        "children": [
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "30 June 1960"
         ]
       },
       {
@@ -852,118 +676,6 @@
         ],
         "raw_values": [
           "0.522 low ( 171st )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Congolese",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "CDF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Congolese franc ( CDF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "WAT",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "CAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 to +2 ( WAT and CAT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "243",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+243"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CD"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "cd",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".cd"
         ]
       }
     ]

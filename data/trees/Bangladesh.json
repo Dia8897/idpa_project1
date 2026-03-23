@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "আমার সোনার বাংলা ( Bengali ) Amar Sonar Bangla \"My Golden Bengal\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Dhaka 23°45′50′′N 90°23′20′′E / 23.76389°N 90.38889°E / 23.76389; 90.38889",
+            "label": "Dhaka",
             "children": []
           }
         ]
@@ -58,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bangladeshi",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Mohammed Shahabuddin",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Tarique Rahman",
             "children": []
           }
         ]
@@ -125,15 +89,6 @@
         "children": [
           {
             "label": "14 October 1955",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "proclamation_of_independence",
-        "children": [
-          {
-            "label": "26 March 1971",
             "children": []
           }
         ]
@@ -281,60 +236,6 @@
         "children": [
           {
             "label": "0.685 medium ( 130th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Taka ( ৳ ) ( BDT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +6 ( BST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+880",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BD",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".bd .বাংলা",
             "children": []
           }
         ]

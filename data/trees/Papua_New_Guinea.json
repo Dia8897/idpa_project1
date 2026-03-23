@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "' Unity in diversity ' : 52",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "O Arise, All You Sons",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Port Moresby 09°28′44′′S 147°08′58′′E / 9.47889°S 147.14944°E / -9.47889; 147.14944",
+            "label": "Port Moresby",
             "children": []
           }
         ]
@@ -58,15 +40,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Papua New Guinean",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -94,15 +67,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "James Marape",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -116,15 +80,6 @@
         "children": [
           {
             "label": "1 July 1949",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "16 September 1975",
             "children": []
           }
         ]
@@ -227,51 +182,6 @@
         "children": [
           {
             "label": "0.576 medium ( 160th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Kina ( PGK )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +10, +11 ( PNGST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+675",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".pg",
             "children": []
           }
         ]

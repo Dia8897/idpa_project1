@@ -4,107 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Advance",
-            "children": []
-          },
-          {
-            "label": "Australia",
-            "children": []
-          },
-          {
-            "label": "Fair",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Advance Australia Fair"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Canberra",
             "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "29",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "149",
-            "children": []
-          },
-          {
-            "label": "07",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "30806",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "149",
-            "children": []
-          },
-          {
-            "label": "12444",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "30806",
-            "children": []
-          },
-          {
-            "label": "149",
-            "children": []
-          },
-          {
-            "label": "12444",
-            "children": []
           }
         ],
         "raw_values": [
-          "Canberra 35°18′29′′S 149°07′28′′E / 35.30806°S 149.12444°E / -35.30806; 149.12444"
+          "Canberra"
         ]
       },
       {
@@ -240,26 +148,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Australian",
-            "children": []
-          },
-          {
-            "label": "Aussie",
-            "children": []
-          },
-          {
-            "label": "colloquial",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Australian Aussie (colloquial)"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -316,22 +204,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Anthony",
-            "children": []
-          },
-          {
-            "label": "Albanese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Anthony Albanese"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -373,26 +245,6 @@
         ],
         "raw_values": [
           "House of Representatives"
-        ]
-      },
-      {
-        "label": "federation",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1901",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 January 1901"
         ]
       },
       {
@@ -767,66 +619,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Australian",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "AUD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Australian dollar ( $ ) ( AUD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "AWST",
-            "children": []
-          },
-          {
-            "label": "ACST",
-            "children": []
-          },
-          {
-            "label": "AEST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +8; +9.5; +10 ( AWST, ACST, AEST )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -856,62 +648,6 @@
         ],
         "raw_values": [
           "UTC +10.5; +11 ( ACDT, AEDT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd / mm / yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "61",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+61"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AU",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "AU"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "au",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".au"
         ]
       }
     ]

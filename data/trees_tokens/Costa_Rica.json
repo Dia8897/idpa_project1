@@ -4,118 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Vivan",
-            "children": []
-          },
-          {
-            "label": "siempre",
-            "children": []
-          },
-          {
-            "label": "el",
-            "children": []
-          },
-          {
-            "label": "trabajo",
-            "children": []
-          },
-          {
-            "label": "y",
-            "children": []
-          },
-          {
-            "label": "la",
-            "children": []
-          },
-          {
-            "label": "paz",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "work",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "peace",
-            "children": []
-          },
-          {
-            "label": "always",
-            "children": []
-          },
-          {
-            "label": "live",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "¡Vivan siempre el trabajo y la paz!\" ( Spanish ) \"May work and peace always live!"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno",
-            "children": []
-          },
-          {
-            "label": "Nacional",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "Costa",
-            "children": []
-          },
-          {
-            "label": "Rica",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Costa",
-            "children": []
-          },
-          {
-            "label": "Rica",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himno Nacional de Costa Rica \"National Anthem of Costa Rica\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -125,74 +13,10 @@
           {
             "label": "Jos",
             "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "84",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "933",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "84",
-            "children": []
-          },
-          {
-            "label": "083",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "933",
-            "children": []
-          },
-          {
-            "label": "84",
-            "children": []
-          },
-          {
-            "label": "083",
-            "children": []
           }
         ],
         "raw_values": [
-          "San José 9°56′N 84°5′W / 9.933°N 84.083°W / 9.933; -84.083"
+          "San José"
         ]
       },
       {
@@ -412,30 +236,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Costa",
-            "children": []
-          },
-          {
-            "label": "Rican",
-            "children": []
-          },
-          {
-            "label": "Tico",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Costa Rican Tico(a)"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -453,22 +253,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Rodrigo",
-            "children": []
-          },
-          {
-            "label": "Chaves",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Rodrigo Chaves"
         ]
       },
       {
@@ -928,118 +712,6 @@
         ],
         "raw_values": [
           "0.833 very high ( 62nd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Costa",
-            "children": []
-          },
-          {
-            "label": "Rican",
-            "children": []
-          },
-          {
-            "label": "col",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "CRC",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Costa Rican colón ( CRC )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "CST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −6 ( CST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "506",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+506"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CR"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "cr",
-            "children": []
-          },
-          {
-            "label": "co",
-            "children": []
-          },
-          {
-            "label": "cr",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".cr .co.cr"
         ]
       }
     ]

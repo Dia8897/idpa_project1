@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Union, Travail, Justice\" (French) \"Union, Work, Justice",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "La Concorde \" (French) \"The Concord",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Libreville 0°23′N 9°27′E / 0.383°N 9.450°E / 0.383; 9.450",
+            "label": "Libreville",
             "children": []
           }
         ]
@@ -67,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Gabonese Gabonaise",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Brice Oligui Nguema",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Séraphin Moundounga",
             "children": []
           }
         ]
@@ -143,24 +98,6 @@
         "children": [
           {
             "label": "1882-1910",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "reestablished_as_french_gabon_under_the_administration_of_french_equatorial_africa",
-        "children": [
-          {
-            "label": "1910-1958",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "republic_established",
-        "children": [
-          {
-            "label": "28 November 1958",
             "children": []
           }
         ]
@@ -281,51 +218,6 @@
         "children": [
           {
             "label": "0.733 high ( 108th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Central African CFA franc ( XAF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( WAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+241",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ga",
             "children": []
           }
         ]

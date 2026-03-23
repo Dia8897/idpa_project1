@@ -4,103 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himnusz",
-            "children": []
-          },
-          {
-            "label": "Hungarian",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Hymn",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Himnusz \" ( Hungarian ) (English: \"Hymn\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Budapest",
             "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "433",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "250",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "433",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "250",
-            "children": []
           }
         ],
         "raw_values": [
-          "Budapest 47°26′N 19°15′E / 47.433°N 19.250°E / 47.433; 19.250"
+          "Budapest"
         ]
       },
       {
@@ -256,18 +168,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Hungarian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Hungarian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -285,46 +185,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Tam",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "Sulyok",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tamás Sulyok"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Viktor",
-            "children": []
-          },
-          {
-            "label": "Orb",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Viktor Orbán"
         ]
       },
       {
@@ -397,26 +257,6 @@
         ],
         "raw_values": [
           "895"
-        ]
-      },
-      {
-        "label": "christian_kingdom",
-        "children": [
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1000",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "25 December 1000"
         ]
       },
       {
@@ -855,42 +695,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Forint",
-            "children": []
-          },
-          {
-            "label": "HUF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Forint ( HUF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -908,42 +712,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "36",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+36"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "HU",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "HU"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "hu",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".hu"
         ]
       }
     ]

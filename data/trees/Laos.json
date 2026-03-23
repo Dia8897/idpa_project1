@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "ສັນຕິພາບ ເອກະລາດ ປະຊາທິປະໄຕ ເອກະພາບ ວັດທະນະຖາວອນ Santiphap, Ekalat, Paxathipatai, Ekaphap, Vatthanathavon \"Peace, Independence, Democracy, Unity and Prosperity\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "ເພງຊາດລາວ Pheng Xat Lao \"Lao National Anthem\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Vientiane 17°58′N 102°36′E / 17.967°N 102.600°E / 17.967; 102.600",
+            "label": "Vientiane",
             "children": []
           }
         ]
@@ -67,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Laotian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -89,24 +62,6 @@
         "children": [
           {
             "label": "Thongloun Sisoulith",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Sonexay Siphandone",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Bounthong Chitmany Pany Yathotou",
             "children": []
           }
         ]
@@ -139,24 +94,6 @@
         ]
       },
       {
-        "label": "kingdom_of_lan_xang",
-        "children": [
-          {
-            "label": "1353–1707",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdoms_of_luang_prabang_vientiane_and_champasak",
-        "children": [
-          {
-            "label": "1707–1778",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "vassals_of_siam",
         "children": [
           {
@@ -166,46 +103,10 @@
         ]
       },
       {
-        "label": "french_protectorate",
-        "children": [
-          {
-            "label": "1893–1953",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "lao_issara",
         "children": [
           {
             "label": "1945–1949",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "unified_kingdom",
-        "children": [
-          {
-            "label": "11 May 1947",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "22 October 1953",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "communist_state_established",
-        "children": [
-          {
-            "label": "2 December 1975",
             "children": []
           }
         ]
@@ -299,51 +200,6 @@
         "children": [
           {
             "label": "0.617 medium ( 147th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Kip (₭) ( LAK )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +7 ( ICT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+856",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".la",
             "children": []
           }
         ]

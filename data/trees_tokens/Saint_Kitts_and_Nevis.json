@@ -4,123 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Country",
-            "children": []
-          },
-          {
-            "label": "Above",
-            "children": []
-          },
-          {
-            "label": "Self",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Country Above Self"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "O",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Beauty",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "O Land of Beauty!"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Basseterre",
             "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "62",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "300",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "62",
-            "children": []
-          },
-          {
-            "label": "733",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "300",
-            "children": []
-          },
-          {
-            "label": "62",
-            "children": []
-          },
-          {
-            "label": "733",
-            "children": []
           }
         ],
         "raw_values": [
-          "Basseterre 17°18′N 62°44′W / 17.300°N 62.733°W / 17.300; -62.733"
+          "Basseterre"
         ]
       },
       {
@@ -324,22 +216,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Kittitian",
-            "children": []
-          },
-          {
-            "label": "Nevisian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kittitian Nevisian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -400,22 +276,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Terrance",
-            "children": []
-          },
-          {
-            "label": "Drew",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Terrance Drew"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -449,26 +309,6 @@
         ],
         "raw_values": [
           "27 February 1967"
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1983",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "19 September 1983"
         ]
       },
       {
@@ -700,110 +540,6 @@
         ],
         "raw_values": [
           "0.840 very high ( 58th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "East",
-            "children": []
-          },
-          {
-            "label": "Caribbean",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "EC",
-            "children": []
-          },
-          {
-            "label": "XCD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "East Caribbean dollar (EC$) ( XCD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC -4 ( AST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd-mm-yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+1"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "KN"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "kn",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".kn"
         ]
       }
     ]

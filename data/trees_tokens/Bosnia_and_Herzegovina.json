@@ -4,135 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Dr",
-            "children": []
-          },
-          {
-            "label": "avna",
-            "children": []
-          },
-          {
-            "label": "himna",
-            "children": []
-          },
-          {
-            "label": "Bosne",
-            "children": []
-          },
-          {
-            "label": "i",
-            "children": []
-          },
-          {
-            "label": "Hercegovine",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Bosnia",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Herzegovina",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Državna himna Bosne i Hercegovine Државна химна Босне и Херцеговине \" National Anthem of Bosnia and Herzegovina \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Sarajevo",
             "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "867",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "417",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "867",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "417",
-            "children": []
           }
         ],
         "raw_values": [
-          "Sarajevo 43°52′N 18°25′E / 43.867°N 18.417°E / 43.867; 18.417"
+          "Sarajevo"
         ]
       },
       {
@@ -217,22 +97,6 @@
         ],
         "raw_values": [
           "51.3% Islam 46.1% Christianity 30.7% Eastern Orthodox 15.4% Catholicism 2.60% Others"
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bosnian",
-            "children": []
-          },
-          {
-            "label": "Herzegovinian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bosnian Herzegovinian"
         ]
       },
       {
@@ -428,42 +292,6 @@
         ]
       },
       {
-        "label": "kingdom_of_bosnia",
-        "children": [
-          {
-            "label": "1377",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1377"
-        ]
-      },
-      {
-        "label": "ottoman_conquest",
-        "children": [
-          {
-            "label": "1463",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1463"
-        ]
-      },
-      {
-        "label": "austrohungarian_conquest_and_annexation",
-        "children": [
-          {
-            "label": "1878",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1878"
-        ]
-      },
-      {
         "label": "creation_of_yugoslavia",
         "children": [
           {
@@ -521,26 +349,6 @@
         ],
         "raw_values": [
           "29 November 1945"
-        ]
-      },
-      {
-        "label": "independence_from_yugoslavia",
-        "children": [
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1992",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "3 March 1992"
         ]
       },
       {
@@ -879,46 +687,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Convertible",
-            "children": []
-          },
-          {
-            "label": "mark",
-            "children": []
-          },
-          {
-            "label": "BAM",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Convertible mark ( BAM )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "01",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +01 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -936,42 +704,6 @@
         ],
         "raw_values": [
           "UTC +02 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "387",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+387"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BA",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BA"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ba",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ba"
         ]
       }
     ]

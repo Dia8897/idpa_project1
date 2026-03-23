@@ -4,159 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Tajik",
-            "children": []
-          },
-          {
-            "label": "Istiqlol",
-            "children": []
-          },
-          {
-            "label": "Ozod",
-            "children": []
-          },
-          {
-            "label": "Vatan",
-            "children": []
-          },
-          {
-            "label": "Russian",
-            "children": []
-          },
-          {
-            "label": "Nezavisimost",
-            "children": []
-          },
-          {
-            "label": "Svoboda",
-            "children": []
-          },
-          {
-            "label": "Rodina",
-            "children": []
-          },
-          {
-            "label": "Independence",
-            "children": []
-          },
-          {
-            "label": "Freedom",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Истиқлол, Озодӣ, Ватан (Tajik) Istiqlol, Ozodī, Vatan Независимость, Свобода, Родина (Russian) Nezavisimost', Svoboda, Rodina \"Independence, Freedom, Homeland\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Tajik",
-            "children": []
-          },
-          {
-            "label": "Surudi",
-            "children": []
-          },
-          {
-            "label": "Milli",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Суруди Миллӣ (Tajik) Surudi Milli \"National Anthem\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Dushanbe",
             "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "68",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "550",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "68",
-            "children": []
-          },
-          {
-            "label": "800",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "550",
-            "children": []
-          },
-          {
-            "label": "68",
-            "children": []
-          },
-          {
-            "label": "800",
-            "children": []
           }
         ],
         "raw_values": [
-          "Dushanbe 38°33′N 68°48′E / 38.550°N 68.800°E / 38.550; 68.800"
+          "Dushanbe"
         ]
       },
       {
@@ -300,22 +156,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Tajikistani",
-            "children": []
-          },
-          {
-            "label": "Tajik",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tajikistani Tajik"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -349,38 +189,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic under an authoritarian dictatorship"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Emomali",
-            "children": []
-          },
-          {
-            "label": "Rahmon",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Emomali Rahmon"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Kokhir",
-            "children": []
-          },
-          {
-            "label": "Rasulzoda",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kokhir Rasulzoda"
         ]
       },
       {
@@ -772,98 +580,6 @@
         ],
         "raw_values": [
           "0.691 medium ( 128th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Somoni",
-            "children": []
-          },
-          {
-            "label": "TJS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Somoni ( TJS )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "TJT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +5 ( TJT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd.mm.yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "992",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+992"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TJ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "TJ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "tj",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".tj"
         ]
       }
     ]

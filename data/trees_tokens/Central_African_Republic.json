@@ -4,187 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Zo",
-            "children": []
-          },
-          {
-            "label": "Kwe",
-            "children": []
-          },
-          {
-            "label": "Zo",
-            "children": []
-          },
-          {
-            "label": "Sango",
-            "children": []
-          },
-          {
-            "label": "All",
-            "children": []
-          },
-          {
-            "label": "people",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "people",
-            "children": []
-          },
-          {
-            "label": "Unit",
-            "children": []
-          },
-          {
-            "label": "Dignit",
-            "children": []
-          },
-          {
-            "label": "Travail",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "Dignity",
-            "children": []
-          },
-          {
-            "label": "Work",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Zo Kwe Zo\" ( Sango ) \"All people are people\" \"Unité, Dignité, Travail\" ( French ) \"Unity, Dignity, Work"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "Zingo",
-            "children": []
-          },
-          {
-            "label": "Sango",
-            "children": []
-          },
-          {
-            "label": "La",
-            "children": []
-          },
-          {
-            "label": "Renaissance",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Renaissance",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "E Zingo (Sango) La Renaissance (French) \"The Renaissance\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Bangui",
             "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "22",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "367",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "583",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "367",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "583",
-            "children": []
           }
         ],
         "raw_values": [
-          "Bangui 4°22′N 18°35′E / 4.367°N 18.583°E / 4.367; 18.583"
+          "Bangui"
         ]
       },
       {
@@ -384,22 +212,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Central",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Central African"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -417,50 +229,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Faustin",
-            "children": []
-          },
-          {
-            "label": "Archange",
-            "children": []
-          },
-          {
-            "label": "Touad",
-            "children": []
-          },
-          {
-            "label": "ra",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Faustin-Archange Touadéra"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "F",
-            "children": []
-          },
-          {
-            "label": "lix",
-            "children": []
-          },
-          {
-            "label": "Moloua",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Félix Moloua"
         ]
       },
       {
@@ -496,26 +264,6 @@
         ]
       },
       {
-        "label": "republic_established",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1958",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 December 1958"
-        ]
-      },
-      {
         "label": "from_france",
         "children": [
           {
@@ -533,26 +281,6 @@
         ],
         "raw_values": [
           "13 August 1960"
-        ]
-      },
-      {
-        "label": "central_african_empire_established",
-        "children": [
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1976",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "4 December 1976"
         ]
       },
       {
@@ -844,94 +572,6 @@
         ],
         "raw_values": [
           "0.414 low ( 191st )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Central",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "CFA",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "XAF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Central African CFA franc (XAF)"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "01",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "WAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +01:00 ( WAT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "236",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+236"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CF"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "cf",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".cf"
         ]
       }
     ]

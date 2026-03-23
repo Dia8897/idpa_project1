@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Uhuru na Umoja\" \"Freedom and Unity",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Mungu ibariki Afrika \" \"God bless Africa",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Dodoma 6°10′S 35°44′E / 6.167°S 35.733°E / -6.167; 35.733",
+            "label": "Dodoma",
             "children": []
           }
         ]
@@ -34,7 +16,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Dar es Salaam 06°48′S 39°16′E / 6.800°S 39.267°E / -6.800; 39.267",
+            "label": "Dar es Salaam",
             "children": []
           }
         ]
@@ -76,15 +58,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Tanzanian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -94,28 +67,10 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Samia Suluhu Hassan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "vicepresident",
         "children": [
           {
             "label": "Emmanuel Nchimbi",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mwigulu Nchemba",
             "children": []
           }
         ]
@@ -281,51 +236,6 @@
         "children": [
           {
             "label": "0.555 medium ( 165th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Tanzanian shilling ( TZS )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( East Africa Time )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+255",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TZ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".tz",
             "children": []
           }
         ]

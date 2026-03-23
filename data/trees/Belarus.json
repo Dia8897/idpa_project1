@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Дзяржаўны гімн Рэспублікі Беларусь (Belarusian) Dziaržaŭny Himn Respubliki Biełaruś Государственный гимн Республики Беларусь (Russian) Gosudarstvennyy gimn Respubliki Belarus \" State Anthem of the Republic of Belarus \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Minsk 53°55′N 27°33′E / 53.917°N 27.550°E / 53.917; 27.550",
+            "label": "Minsk",
             "children": []
           }
         ]
@@ -58,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Belarusian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-presidential republic under an authoritarian dictatorship",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Alexander Lukashenko",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Alexander Turchin",
             "children": []
           }
         ]
@@ -143,15 +107,6 @@
         "children": [
           {
             "label": "31 July 1920",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "25 August 1991",
             "children": []
           }
         ]
@@ -263,60 +218,6 @@
         "children": [
           {
             "label": "0.824 very high ( 65th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Belarusian ruble ( BYN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( MSK )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+375",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".by .бел",
             "children": []
           }
         ]

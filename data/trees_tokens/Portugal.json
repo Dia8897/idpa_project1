@@ -4,107 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "A",
-            "children": []
-          },
-          {
-            "label": "Portuguesa",
-            "children": []
-          },
-          {
-            "label": "Portuguese",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Portuguese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "A Portuguesa \" ( Portuguese ) \"The Portuguese"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Lisbon",
             "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "46",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "767",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "150",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "767",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "150",
-            "children": []
           }
         ],
         "raw_values": [
-          "Lisbon 38°46′N 9°9′W / 38.767°N 9.150°W / 38.767; -9.150"
+          "Lisbon"
         ]
       },
       {
@@ -152,18 +60,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Portuguese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Portuguese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -185,50 +81,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Ant",
-            "children": []
-          },
-          {
-            "label": "nio",
-            "children": []
-          },
-          {
-            "label": "Jos",
-            "children": []
-          },
-          {
-            "label": "Seguro",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "António José Seguro"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Lu",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "Montenegro",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Luís Montenegro"
         ]
       },
       {
@@ -855,46 +707,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +0 and -1"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -916,62 +728,6 @@
         ],
         "raw_values": [
           "UTC +1 and +0"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "yyyy - mm - dd"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "351",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+351"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "PT"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "pt",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".pt"
         ]
       }
     ]

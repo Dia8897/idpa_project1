@@ -4,183 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "All",
-            "children": []
-          },
-          {
-            "label": "h",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Wa",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "as",
-            "children": []
-          },
-          {
-            "label": "Sul",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Nation",
-            "children": []
-          },
-          {
-            "label": "Sultan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ٱللَّهُ، ٱلْوَطَنُ، ٱلسُّلْطَانُ Allāh, al-Waṭan, as-Sulṭān \" God , Nation, Sultan\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Ta",
-            "children": []
-          },
-          {
-            "label": "yah",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Sul",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "Salute",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Sultan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "تحية السلطان Taḥīyah al-Sulṭān \"Salute to the Sultan\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Muscat",
             "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "58889",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "40833",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "58889",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "40833",
-            "children": []
           }
         ],
         "raw_values": [
-          "Muscat 23°35′20′′N 58°24′30′′E / 23.58889°N 58.40833°E / 23.58889; 58.40833"
+          "Muscat"
         ]
       },
       {
@@ -249,18 +81,6 @@
         ],
         "raw_values": [
           "95% Islam ( official ) 1.67% Hinduism 1.67% Christianity 1.66% others"
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Omani",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Omani"
         ]
       },
       {
@@ -396,30 +216,6 @@
         ]
       },
       {
-        "label": "imamate_established",
-        "children": [
-          {
-            "label": "751",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "751"
-        ]
-      },
-      {
-        "label": "nabhani_dynasty",
-        "children": [
-          {
-            "label": "1154",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1154"
-        ]
-      },
-      {
         "label": "portuguese_rule",
         "children": [
           {
@@ -436,18 +232,6 @@
         ]
       },
       {
-        "label": "yarubi_dynasty",
-        "children": [
-          {
-            "label": "1624",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1624"
-        ]
-      },
-      {
         "label": "omani_empire",
         "children": [
           {
@@ -457,26 +241,6 @@
         ],
         "raw_values": [
           "1696"
-        ]
-      },
-      {
-        "label": "al_bu_said_dynasty",
-        "children": [
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1744",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "20 November 1744"
         ]
       },
       {
@@ -497,26 +261,6 @@
         ],
         "raw_values": [
           "8 January 1856"
-        ]
-      },
-      {
-        "label": "sultanate_of_oman",
-        "children": [
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1970",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "9 August 1970"
         ]
       },
       {
@@ -828,102 +572,6 @@
         ],
         "raw_values": [
           "0.858 very high ( 50th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Omani",
-            "children": []
-          },
-          {
-            "label": "rial",
-            "children": []
-          },
-          {
-            "label": "OMR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Omani rial ( OMR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "GST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +4 ( GST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd.mm.yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "968",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+968"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "OM",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "OM"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "om",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".om , عمان."
         ]
       }
     ]

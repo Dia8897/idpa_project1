@@ -4,171 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "T",
-            "children": []
-          },
-          {
-            "label": "rkmenistan",
-            "children": []
-          },
-          {
-            "label": "Bitaraplygy",
-            "children": []
-          },
-          {
-            "label": "watanydyr",
-            "children": []
-          },
-          {
-            "label": "Turkmenistan",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "motherland",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Neutrality",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Türkmenistan Bitaraplygyň watanydyr \"Turkmenistan is the motherland of Neutrality\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "T",
-            "children": []
-          },
-          {
-            "label": "rkmenistany",
-            "children": []
-          },
-          {
-            "label": "D",
-            "children": []
-          },
-          {
-            "label": "wlet",
-            "children": []
-          },
-          {
-            "label": "senasy",
-            "children": []
-          },
-          {
-            "label": "State",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Turkmenistan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Türkmenistanyň Döwlet senasy \" State Anthem of Turkmenistan \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Ashgabat",
             "children": []
-          },
-          {
-            "label": "37",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "37",
-            "children": []
-          },
-          {
-            "label": "967",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "333",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "37",
-            "children": []
-          },
-          {
-            "label": "967",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "333",
-            "children": []
           }
         ],
         "raw_values": [
-          "Ashgabat 37°58′N 58°20′E / 37.967°N 58.333°E / 37.967; 58.333"
+          "Ashgabat"
         ]
       },
       {
@@ -312,22 +156,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Turkmenistani",
-            "children": []
-          },
-          {
-            "label": "Turkmen",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Turkmenistani Turkmen"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -365,22 +193,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic under a totalitarian hereditary dictatorship"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Serdar",
-            "children": []
-          },
-          {
-            "label": "Berdimuhamedow",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Serdar Berdimuhamedow"
         ]
       },
       {
@@ -832,82 +644,6 @@
         ],
         "raw_values": [
           "0.764 high ( 95th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Manat",
-            "children": []
-          },
-          {
-            "label": "TMT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Manat ( TMT )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "05",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "TMT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +05:00 ( TMT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "993",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+993"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TM",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "TM"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "tm",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".tm"
         ]
       }
     ]

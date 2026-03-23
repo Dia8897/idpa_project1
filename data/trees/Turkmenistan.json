@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Türkmenistan Bitaraplygyň watanydyr \"Turkmenistan is the motherland of Neutrality\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Türkmenistanyň Döwlet senasy \" State Anthem of Turkmenistan \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Ashgabat 37°58′N 58°20′E / 37.967°N 58.333°E / 37.967; 58.333",
+            "label": "Ashgabat",
             "children": []
           }
         ]
@@ -58,28 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Turkmenistani Turkmen",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic under a totalitarian hereditary dictatorship",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Serdar Berdimuhamedow",
             "children": []
           }
         ]
@@ -245,51 +209,6 @@
         "children": [
           {
             "label": "0.764 high ( 95th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Manat ( TMT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +05:00 ( TMT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+993",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TM",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".tm",
             "children": []
           }
         ]

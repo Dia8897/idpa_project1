@@ -4,58 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Each",
-            "children": []
-          },
-          {
-            "label": "endeavouring",
-            "children": []
-          },
-          {
-            "label": "all",
-            "children": []
-          },
-          {
-            "label": "achieving",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Each endeavouring, all achieving"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Fair",
-            "children": []
-          },
-          {
-            "label": "Antigua",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "Salute",
-            "children": []
-          },
-          {
-            "label": "Thee",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Fair Antigua, We Salute Thee"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -69,74 +17,10 @@
           {
             "label": "s",
             "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "61",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "117",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "61",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "117",
-            "children": []
-          },
-          {
-            "label": "61",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
           }
         ],
         "raw_values": [
-          "St. John's 17°7′N 61°51′W / 17.117°N 61.850°W / 17.117; -61.850"
+          "St. John's"
         ]
       },
       {
@@ -384,26 +268,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Antiguan",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Barbudan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Antiguan and Barbudan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -461,22 +325,6 @@
         ],
         "raw_values": [
           "Sir Rodney Williams"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Gaston",
-            "children": []
-          },
-          {
-            "label": "Browne",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Gaston Browne"
         ]
       },
       {
@@ -581,26 +429,6 @@
         ],
         "raw_values": [
           "27 February 1967"
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1981",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 November 1981"
         ]
       },
       {
@@ -848,110 +676,6 @@
         ],
         "raw_values": [
           "0.851 very high ( 53rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Eastern",
-            "children": []
-          },
-          {
-            "label": "Caribbean",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "XCD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Eastern Caribbean dollar ( XCD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "04",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC -04:00 ( AST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+1"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AG",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "AG"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ag",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ag"
         ]
       }
     ]

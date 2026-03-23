@@ -4,99 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Mongol",
-            "children": []
-          },
-          {
-            "label": "ulsyn",
-            "children": []
-          },
-          {
-            "label": "t",
-            "children": []
-          },
-          {
-            "label": "riin",
-            "children": []
-          },
-          {
-            "label": "duulal",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Mongolia",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Монгол Улсын Төрийн дуулал Mongol ulsyn töriin duulal \" National Anthem of Mongolia \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Ulaanbaatar",
             "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "106",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "106",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "106",
-            "children": []
           }
         ],
         "raw_values": [
-          "Ulaanbaatar 48°N 106°E / 48°N 106°E / 48; 106"
+          "Ulaanbaatar"
         ]
       },
       {
@@ -268,22 +184,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Mongolian",
-            "children": []
-          },
-          {
-            "label": "Mongol",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mongolian , Mongol"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -305,46 +205,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Ukhnaagiin",
-            "children": []
-          },
-          {
-            "label": "Kh",
-            "children": []
-          },
-          {
-            "label": "rels",
-            "children": []
-          },
-          {
-            "label": "kh",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ukhnaagiin Khürelsükh"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Gombojavyn",
-            "children": []
-          },
-          {
-            "label": "Zandanshatar",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Gombojavyn Zandanshatar"
         ]
       },
       {
@@ -441,18 +301,6 @@
         ],
         "raw_values": [
           "1206"
-        ]
-      },
-      {
-        "label": "yuan_dynasty",
-        "children": [
-          {
-            "label": "1260",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1260"
         ]
       },
       {
@@ -820,86 +668,6 @@
         ],
         "raw_values": [
           "0.747 high ( 104th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "T",
-            "children": []
-          },
-          {
-            "label": "gr",
-            "children": []
-          },
-          {
-            "label": "g",
-            "children": []
-          },
-          {
-            "label": "MNT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tögrög ( MNT )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +7/+8"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "976",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+976"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MN"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "mn",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".mn , .мон"
         ]
       }
     ]

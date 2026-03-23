@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Ti Shqipëri, më jep nder, më jep emrin Shqipëtar \"You Albania, you give me honour, you give me the name Albanian\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himni i Flamurit \" \"Hymn to the Flag",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Tirana 41°19′N 19°49′E / 41.317°N 19.817°E / 41.317; 19.817 Country: 41°N 20°E / 41°N 20°E / 41; 20",
+            "label": "Tirana 41°19′N 19°49′E / 41.317°N 19.817°E /",
             "children": []
           }
         ]
@@ -67,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Albanian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Bajram Begaj",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Edi Rama",
             "children": []
           }
         ]
@@ -139,19 +94,6 @@
         ]
       },
       {
-        "label": "kingdom_of_albania",
-        "children": [
-          {
-            "label": "February 1272",
-            "children": []
-          },
-          {
-            "label": "1 September 1928",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "principality_of_albania",
         "children": [
           {
@@ -187,15 +129,6 @@
         "children": [
           {
             "label": "10 June 1878",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independent_albania",
-        "children": [
-          {
-            "label": "28 November 1912",
             "children": []
           }
         ]
@@ -339,55 +272,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Lek ( ALL )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+355",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AL",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".al",
             "children": []
           }
         ]

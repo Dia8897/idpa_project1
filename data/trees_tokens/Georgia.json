@@ -4,127 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Dzala",
-            "children": []
-          },
-          {
-            "label": "ertobashia",
-            "children": []
-          },
-          {
-            "label": "Strength",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ძალა ერთობაშია Dzala ertobashia \"Strength is in Unity\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Tavisupleba",
-            "children": []
-          },
-          {
-            "label": "Freedom",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "თავისუფლება Tavisupleba \"Freedom\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Tbilisi",
             "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "717",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "783",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "717",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "783",
-            "children": []
           }
         ],
         "raw_values": [
-          "Tbilisi 41°43′N 44°47′E / 41.717°N 44.783°E / 41.717; 44.783"
+          "Tbilisi"
         ]
       },
       {
@@ -296,18 +184,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Georgian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Georgian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -325,38 +201,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Mikheil",
-            "children": []
-          },
-          {
-            "label": "Kavelashvili",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mikheil Kavelashvili"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Irakli",
-            "children": []
-          },
-          {
-            "label": "Kobakhidze",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Irakli Kobakhidze"
         ]
       },
       {
@@ -420,22 +264,6 @@
         ]
       },
       {
-        "label": "kingdom_of_abkhazia_and_kingdom_of_the_iberians",
-        "children": [
-          {
-            "label": "786",
-            "children": []
-          },
-          {
-            "label": "1008",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "786–1008"
-        ]
-      },
-      {
         "label": "unification_of_georgia",
         "children": [
           {
@@ -464,42 +292,6 @@
         ]
       },
       {
-        "label": "russian_annexation",
-        "children": [
-          {
-            "label": "1801",
-            "children": []
-          },
-          {
-            "label": "1858",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1801–1858"
-        ]
-      },
-      {
-        "label": "independence_from_russia",
-        "children": [
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "1918",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "26 May 1918"
-        ]
-      },
-      {
         "label": "russian_invasion",
         "children": [
           {
@@ -517,70 +309,6 @@
         ],
         "raw_values": [
           "12 February 1921"
-        ]
-      },
-      {
-        "label": "soviet_annexation",
-        "children": [
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "February",
-            "children": []
-          },
-          {
-            "label": "1921",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "25 February 1921"
-        ]
-      },
-      {
-        "label": "independence_from_the_soviet_union_declared_finalized",
-        "children": [
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "April",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "9 April 1991 26 December 1991 ( 1991-12-26 )"
         ]
       },
       {
@@ -864,102 +592,6 @@
         ],
         "raw_values": [
           "0.844 very high ( 57th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Georgian",
-            "children": []
-          },
-          {
-            "label": "lari",
-            "children": []
-          },
-          {
-            "label": "GEL",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Georgian lari (₾) ( GEL )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "GET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +4 ( GET )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd.mm.yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "995",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+995"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "GE"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ge",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ge , .გე"
         ]
       }
     ]

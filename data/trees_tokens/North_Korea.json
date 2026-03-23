@@ -4,99 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Aegukka",
-            "children": []
-          },
-          {
-            "label": "Patriotic",
-            "children": []
-          },
-          {
-            "label": "Song",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "애국가 ( Aegukka ) (\" Patriotic Song \")"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Pyongyang",
             "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "125",
-            "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "125",
-            "children": []
-          },
-          {
-            "label": "750",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
-          },
-          {
-            "label": "125",
-            "children": []
-          },
-          {
-            "label": "750",
-            "children": []
           }
         ],
         "raw_values": [
-          "Pyongyang 39°2′N 125°45′E / 39.033°N 125.750°E / 39.033; 125.750"
+          "Pyongyang"
         ]
       },
       {
@@ -197,26 +113,6 @@
         ],
         "raw_values": [
           "73% no religion 13% Chondoism 12% Shamanism 1.5% Buddhism 0.5% other"
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "North",
-            "children": []
-          },
-          {
-            "label": "Korean",
-            "children": []
-          },
-          {
-            "label": "Korean",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "North Korean Korean"
         ]
       },
       {
@@ -413,26 +309,6 @@
         ],
         "raw_values": [
           "8 February 1946"
-        ]
-      },
-      {
-        "label": "dprk_established",
-        "children": [
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "July",
-            "children": []
-          },
-          {
-            "label": "1948",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "10 July 1948"
         ]
       },
       {
@@ -700,138 +576,6 @@
         ],
         "raw_values": [
           "16.6 low inequality"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Korean",
-            "children": []
-          },
-          {
-            "label": "People",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "won",
-            "children": []
-          },
-          {
-            "label": "KPW",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Korean People's won (₩) ( KPW )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "09",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "PYT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +09:00 ( PYT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "yy",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "yy",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "AD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "yy, yyyy년 mm월 dd일 yy, yyyy/mm/dd ( AD )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "850",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+850"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KP",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "KP"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "kp",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".kp"
         ]
       }
     ]

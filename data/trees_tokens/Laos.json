@@ -4,163 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Santiphap",
-            "children": []
-          },
-          {
-            "label": "Ekalat",
-            "children": []
-          },
-          {
-            "label": "Paxathipatai",
-            "children": []
-          },
-          {
-            "label": "Ekaphap",
-            "children": []
-          },
-          {
-            "label": "Vatthanathavon",
-            "children": []
-          },
-          {
-            "label": "Peace",
-            "children": []
-          },
-          {
-            "label": "Independence",
-            "children": []
-          },
-          {
-            "label": "Democracy",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Prosperity",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ສັນຕິພາບ ເອກະລາດ ປະຊາທິປະໄຕ ເອກະພາບ ວັດທະນະຖາວອນ Santiphap, Ekalat, Paxathipatai, Ekaphap, Vatthanathavon \"Peace, Independence, Democracy, Unity and Prosperity\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Pheng",
-            "children": []
-          },
-          {
-            "label": "Xat",
-            "children": []
-          },
-          {
-            "label": "Lao",
-            "children": []
-          },
-          {
-            "label": "Lao",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ເພງຊາດລາວ Pheng Xat Lao \"Lao National Anthem\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Vientiane",
             "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "102",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "967",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "102",
-            "children": []
-          },
-          {
-            "label": "600",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "967",
-            "children": []
-          },
-          {
-            "label": "102",
-            "children": []
-          },
-          {
-            "label": "600",
-            "children": []
           }
         ],
         "raw_values": [
-          "Vientiane 17°58′N 102°36′E / 17.967°N 102.600°E / 17.967; 102.600"
+          "Vientiane"
         ]
       },
       {
@@ -404,18 +256,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Laotian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Laotian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -449,46 +289,6 @@
         ],
         "raw_values": [
           "Thongloun Sisoulith"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Sonexay",
-            "children": []
-          },
-          {
-            "label": "Siphandone",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sonexay Siphandone"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Bounthong",
-            "children": []
-          },
-          {
-            "label": "Chitmany",
-            "children": []
-          },
-          {
-            "label": "Pany",
-            "children": []
-          },
-          {
-            "label": "Yathotou",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bounthong Chitmany Pany Yathotou"
         ]
       },
       {
@@ -540,38 +340,6 @@
         ]
       },
       {
-        "label": "kingdom_of_lan_xang",
-        "children": [
-          {
-            "label": "1353",
-            "children": []
-          },
-          {
-            "label": "1707",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1353–1707"
-        ]
-      },
-      {
-        "label": "kingdoms_of_luang_prabang_vientiane_and_champasak",
-        "children": [
-          {
-            "label": "1707",
-            "children": []
-          },
-          {
-            "label": "1778",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1707–1778"
-        ]
-      },
-      {
         "label": "vassals_of_siam",
         "children": [
           {
@@ -588,22 +356,6 @@
         ]
       },
       {
-        "label": "french_protectorate",
-        "children": [
-          {
-            "label": "1893",
-            "children": []
-          },
-          {
-            "label": "1953",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1893–1953"
-        ]
-      },
-      {
         "label": "lao_issara",
         "children": [
           {
@@ -617,66 +369,6 @@
         ],
         "raw_values": [
           "1945–1949"
-        ]
-      },
-      {
-        "label": "unified_kingdom",
-        "children": [
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "1947",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "11 May 1947"
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "22",
-            "children": []
-          },
-          {
-            "label": "October",
-            "children": []
-          },
-          {
-            "label": "1953",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "22 October 1953"
-        ]
-      },
-      {
-        "label": "communist_state_established",
-        "children": [
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1975",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "2 December 1975"
         ]
       },
       {
@@ -948,78 +640,6 @@
         ],
         "raw_values": [
           "0.617 medium ( 147th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Kip",
-            "children": []
-          },
-          {
-            "label": "LAK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kip (₭) ( LAK )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "ICT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +7 ( ICT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "856",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+856"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LA",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "LA"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "la",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".la"
         ]
       }
     ]

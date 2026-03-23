@@ -4,103 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Tigrinya",
-            "children": []
-          },
-          {
-            "label": "Eritrea",
-            "children": []
-          },
-          {
-            "label": "Eritrea",
-            "children": []
-          },
-          {
-            "label": "Eritrea",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ኤርትራ ኤርትራ ኤርትራ ( Tigrinya ) \" Eritrea, Eritrea, Eritrea \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Asmara",
             "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "333",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "917",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "333",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "917",
-            "children": []
           }
         ],
         "raw_values": [
-          "Asmara 15°20′N 38°55′E / 15.333°N 38.917°E / 15.333; 38.917"
+          "Asmara"
         ]
       },
       {
@@ -268,18 +180,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Eritrean",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Eritrean"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -324,22 +224,6 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Isaias",
-            "children": []
-          },
-          {
-            "label": "Afwerki",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Isaias Afwerki"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -353,26 +237,6 @@
         ],
         "raw_values": [
           "National Assembly"
-        ]
-      },
-      {
-        "label": "eritrean_war_of_independence",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1961",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 September 1961"
         ]
       },
       {
@@ -640,82 +504,6 @@
         ],
         "raw_values": [
           "0.503 low ( 178th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Nakfa",
-            "children": []
-          },
-          {
-            "label": "ERN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nakfa ( ERN )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "03",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "EAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +03:00 ( EAT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "291",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+291"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ER",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ER"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "er",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".er"
         ]
       }
     ]

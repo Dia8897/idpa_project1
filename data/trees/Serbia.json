@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Боже правде Bože pravde (English: \"God of Justice\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Belgrade 44°48′N 20°28′E / 44.800°N 20.467°E / 44.800; 20.467",
+            "label": "Belgrade",
             "children": []
           }
         ]
@@ -49,37 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Serbian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Aleksandar Vučić",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Đuro Macut",
             "children": []
           }
         ]
@@ -112,28 +76,10 @@
         ]
       },
       {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "1217",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "empire",
         "children": [
           {
             "label": "1346",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_lost",
-        "children": [
-          {
-            "label": "1459",
             "children": []
           }
         ]
@@ -152,33 +98,6 @@
         "children": [
           {
             "label": "1815",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_recognised",
-        "children": [
-          {
-            "label": "1878",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_serbia",
-        "children": [
-          {
-            "label": "1882",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_yugoslavia",
-        "children": [
-          {
-            "label": "1918",
             "children": []
           }
         ]
@@ -206,15 +125,6 @@
         "children": [
           {
             "label": "2003",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_restored",
-        "children": [
-          {
-            "label": "2006",
             "children": []
           }
         ]
@@ -322,64 +232,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Serbian dinar ( RSD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "mm/dd/yyyy ( AD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+381",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "RS",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".rs .срб",
             "children": []
           }
         ]

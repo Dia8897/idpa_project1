@@ -172,139 +172,15 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "Freedom",
-            "children": []
-          },
-          {
-            "label": "Work",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Unity, Freedom, Work"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Blessed",
-            "children": []
-          },
-          {
-            "label": "Be",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Zimbabwe",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Blessed Be the Land of Zimbabwe"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Harare",
             "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "49",
-            "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "03",
-            "children": []
-          },
-          {
-            "label": "08",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "82917",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "05222",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "82917",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "05222",
-            "children": []
           }
         ],
         "raw_values": [
-          "Harare 17°49′45′′S 31°03′08′′E / 17.82917°S 31.05222°E / -17.82917; 31.05222"
+          "Harare"
         ]
       },
       {
@@ -548,26 +424,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Zimbabwean",
-            "children": []
-          },
-          {
-            "label": "Zimbo",
-            "children": []
-          },
-          {
-            "label": "colloquial",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Zimbabwean Zimbo (colloquial)"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -585,22 +441,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Emmerson",
-            "children": []
-          },
-          {
-            "label": "Mnangagwa",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Emmerson Mnangagwa"
         ]
       },
       {
@@ -733,26 +573,6 @@
         ],
         "raw_values": [
           "1 June 1979"
-        ]
-      },
-      {
-        "label": "independence_recognised",
-        "children": [
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "April",
-            "children": []
-          },
-          {
-            "label": "1980",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "18 April 1980"
         ]
       },
       {
@@ -1060,158 +880,6 @@
         ],
         "raw_values": [
           "0.598 medium ( 153rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "De",
-            "children": []
-          },
-          {
-            "label": "jure",
-            "children": []
-          },
-          {
-            "label": "Zimbabwe",
-            "children": []
-          },
-          {
-            "label": "Gold",
-            "children": []
-          },
-          {
-            "label": "ZWG",
-            "children": []
-          },
-          {
-            "label": "De",
-            "children": []
-          },
-          {
-            "label": "facto",
-            "children": []
-          },
-          {
-            "label": "United",
-            "children": []
-          },
-          {
-            "label": "States",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "USD",
-            "children": []
-          },
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "rand",
-            "children": []
-          },
-          {
-            "label": "ZAR",
-            "children": []
-          },
-          {
-            "label": "Other",
-            "children": []
-          },
-          {
-            "label": "currencies",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "De jure : Zimbabwe Gold ( ZWG ) De facto : United States dollar ( USD ) South African rand ( ZAR ); Other currencies"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "CAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( CAT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "263",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+263"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ZW",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ZW"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "zw",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".zw"
         ]
       }
     ]

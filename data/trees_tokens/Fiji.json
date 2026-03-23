@@ -4,163 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Rerevaka",
-            "children": []
-          },
-          {
-            "label": "na",
-            "children": []
-          },
-          {
-            "label": "Kalou",
-            "children": []
-          },
-          {
-            "label": "ka",
-            "children": []
-          },
-          {
-            "label": "Doka",
-            "children": []
-          },
-          {
-            "label": "na",
-            "children": []
-          },
-          {
-            "label": "Tui",
-            "children": []
-          },
-          {
-            "label": "Fijian",
-            "children": []
-          },
-          {
-            "label": "Fear",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "honour",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Rerevaka na Kalou ka Doka na Tui\" (Fijian) \"Fear God and honour the King"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Bless",
-            "children": []
-          },
-          {
-            "label": "Fiji",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "God Bless Fiji"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Suva",
             "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "178",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "178",
-            "children": []
-          },
-          {
-            "label": "450",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "178",
-            "children": []
-          },
-          {
-            "label": "450",
-            "children": []
           }
         ],
         "raw_values": [
-          "Suva 18°10′S 178°27′E / 18.167°S 178.450°E / -18.167; 178.450"
+          "Suva"
         ]
       },
       {
@@ -360,18 +212,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Fijian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Fijian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -389,54 +229,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Naiqama",
-            "children": []
-          },
-          {
-            "label": "Lalabalavu",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Naiqama Lalabalavu"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Sitiveni",
-            "children": []
-          },
-          {
-            "label": "Rabuka",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sitiveni Rabuka"
-        ]
-      },
-      {
-        "label": "deputy_prime_minister",
-        "children": [
-          {
-            "label": "Viliame",
-            "children": []
-          },
-          {
-            "label": "Gavoka",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Viliame Gavoka"
         ]
       },
       {
@@ -481,26 +273,6 @@
         ],
         "raw_values": [
           "Parliament"
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "October",
-            "children": []
-          },
-          {
-            "label": "1970",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "10 October 1970"
         ]
       },
       {
@@ -824,102 +596,6 @@
         ],
         "raw_values": [
           "0.731 high ( 111th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Fijian",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "FJD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Fijian dollar ( FJD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "FJT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +12 (FJT)"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "679",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+679"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "FJ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "FJ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "fj",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".fj"
         ]
       }
     ]

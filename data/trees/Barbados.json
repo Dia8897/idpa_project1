@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Pride and Industry",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "National Anthem of Barbados",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Bridgetown 13°05′52′′N 59°37′06′′W / 13.09778°N 59.61833°W / 13.09778; -59.61833",
+            "label": "Bridgetown",
             "children": []
           }
         ]
@@ -67,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Barbadian Bajan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Jeffrey Bostic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mia Mottley",
             "children": []
           }
         ]
@@ -130,24 +85,6 @@
         ]
       },
       {
-        "label": "part_of_the_west_indies_federation",
-        "children": [
-          {
-            "label": "3 January 1958 – 31 May 1962",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "barbados_independence_act_as_a_commonwealth_realm",
-        "children": [
-          {
-            "label": "30 November 1966",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "admitted_to_the_un",
         "children": [
           {
@@ -161,15 +98,6 @@
         "children": [
           {
             "label": "1 August 1973",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "republic_established",
-        "children": [
-          {
-            "label": "30 November 2021",
             "children": []
           }
         ]
@@ -272,60 +200,6 @@
         "children": [
           {
             "label": "0.811 very high ( 69th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Barbadian dollar ($) ( BBD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −04:00 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BB",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".bb",
             "children": []
           }
         ]

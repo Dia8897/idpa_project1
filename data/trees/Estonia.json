@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Mu isamaa, mu õnn ja rõõm (English: \"My Fatherland, My Happiness and Joy\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Tallinn 59°25′N 24°45′E / 59.417°N 24.750°E / 59.417; 24.750",
+            "label": "Tallinn",
             "children": []
           }
         ]
@@ -49,15 +40,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Estonian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -67,55 +49,10 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Alar Karis",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Kristen Michal",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
             "label": "Riigikogu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "24 February 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "german_and_soviet_occupations",
-        "children": [
-          {
-            "label": "1940–1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "restoration_of_independence",
-        "children": [
-          {
-            "label": "20 August 1991",
             "children": []
           }
         ]
@@ -223,55 +160,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +02:00 ( EET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +03:00 ( EEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+372",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "EE",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ee",
             "children": []
           }
         ]

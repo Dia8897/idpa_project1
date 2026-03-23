@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Inno Pontificio ( Italian ) \"Pontifical Hymn\" noicon",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Vatican City ( city-state ) 41°54.2′N 12°27.2′E / 41.9033°N 12.4533°E / 41.9033; 12.4533",
+            "label": "Vatican City ( city-state )",
             "children": []
           }
         ]
@@ -44,15 +35,6 @@
         "children": [
           {
             "label": "Catholicism ( state religion )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "None ( de jure ) Vatican ( de facto )",
             "children": []
           }
         ]
@@ -161,55 +143,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+379",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "VA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".va",
             "children": []
           }
         ]

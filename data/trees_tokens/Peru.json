@@ -36,227 +36,15 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Firme",
-            "children": []
-          },
-          {
-            "label": "y",
-            "children": []
-          },
-          {
-            "label": "feliz",
-            "children": []
-          },
-          {
-            "label": "por",
-            "children": []
-          },
-          {
-            "label": "la",
-            "children": []
-          },
-          {
-            "label": "uni",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "Firm",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Happy",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Firme y feliz por la unión \" (Spanish) \"Firm and Happy for the Union"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno",
-            "children": []
-          },
-          {
-            "label": "Nacional",
-            "children": []
-          },
-          {
-            "label": "del",
-            "children": []
-          },
-          {
-            "label": "Per",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Peru",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "Marcha",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "Banderas",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Flags",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himno Nacional del Perú \" (Spanish) \"National Anthem of Peru\" March: \" Marcha de Banderas \" (Spanish) \"March of Flags"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Lima",
             "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "77",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "0433",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "77",
-            "children": []
-          },
-          {
-            "label": "0283",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "0433",
-            "children": []
-          },
-          {
-            "label": "77",
-            "children": []
-          },
-          {
-            "label": "0283",
-            "children": []
           }
         ],
         "raw_values": [
-          "Lima 12°2.6′S 77°1.7′W / 12.0433°S 77.0283°W / -12.0433; -77.0283"
+          "Lima"
         ]
       },
       {
@@ -476,18 +264,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Peruvian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Peruvian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -512,34 +288,6 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Jos",
-            "children": []
-          },
-          {
-            "label": "Mar",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "Balc",
-            "children": []
-          },
-          {
-            "label": "zar",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "José María Balcázar"
-        ]
-      },
-      {
         "label": "first_vice_president",
         "children": [
           {
@@ -549,22 +297,6 @@
         ],
         "raw_values": [
           "Vacant"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Denisse",
-            "children": []
-          },
-          {
-            "label": "Miralles",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Denisse Miralles"
         ]
       },
       {
@@ -944,110 +676,6 @@
         ],
         "raw_values": [
           "0.794 high ( 79th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Peruvian",
-            "children": []
-          },
-          {
-            "label": "sol",
-            "children": []
-          },
-          {
-            "label": "PEN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Peruvian sol ( PEN )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "05",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "PET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −05:00 ( PET )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "CE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy ( CE )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "51",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+51"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "PE"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "pe",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".pe"
         ]
       }
     ]

@@ -4,42 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno",
-            "children": []
-          },
-          {
-            "label": "Nacional",
-            "children": []
-          },
-          {
-            "label": "Mexicano",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Mexican",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himno Nacional Mexicano (English: Mexican National Anthem )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -49,74 +13,10 @@
           {
             "label": "City",
             "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "99",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "433",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "99",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "433",
-            "children": []
-          },
-          {
-            "label": "99",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
           }
         ],
         "raw_values": [
-          "Mexico City 19°26′N 99°8′W / 19.433°N 99.133°W / 19.433; -99.133"
+          "Mexico City"
         ]
       },
       {
@@ -264,18 +164,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Mexican",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mexican"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -293,22 +181,6 @@
         ],
         "raw_values": [
           "Federal presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Claudia",
-            "children": []
-          },
-          {
-            "label": "Sheinbaum",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Claudia Sheinbaum"
         ]
       },
       {
@@ -421,26 +293,6 @@
         ],
         "raw_values": [
           "Chamber of Deputies"
-        ]
-      },
-      {
-        "label": "start_of_war_of_independence",
-        "children": [
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1810",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "16 September 1810"
         ]
       },
       {
@@ -851,66 +703,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Mexican",
-            "children": []
-          },
-          {
-            "label": "peso",
-            "children": []
-          },
-          {
-            "label": "MXN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mexican peso ( MXN )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "See",
-            "children": []
-          },
-          {
-            "label": "Time",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "Mexico",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −8 to −5 ( See Time in Mexico )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -936,62 +728,6 @@
         ],
         "raw_values": [
           "UTC −7 to −5 (varies)"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "52",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+52"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MX",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MX"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "mx",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".mx"
         ]
       }
     ]

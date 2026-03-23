@@ -30,6 +30,59 @@ KEY_MAP = {
     "demonyms": "demonyms",
 }
 
+DROP_KEYS = {
+    "anthem",
+    "motto",
+    "demonyms",
+    "president",
+    "prime_minister",
+    "speaker_of_the_parliament",
+    "vice_president",
+    "deputy_prime_minister",
+    "king",
+    "queen",
+    "governor_general",
+    "chancellor",
+    "area_code",
+    "calling_code",
+    "postal_code",
+    "internet_tld",
+    "cctld",
+    "iso_3166_code",
+    "date_format",
+    "time_zone",
+    "currency",
+    "currency_code",
+    "patron_saint",
+    "image_flag",
+    "image_coat",
+    "flag",
+    "coat_of_arms",
+    "locator_map",
+    "map",
+}
+
+HISTORICAL_KEYWORDS = (
+    "independ",
+    "mandate",
+    "kingdom",
+    "sultanate",
+    "emirate",
+    "protectorate",
+    "colony",
+    "annex",
+    "occupation",
+    "established",
+    "founded",
+    "federation",
+    "caliphate",
+    "dynasty",
+    "french_mandate",
+    "ottoman",
+    "roman",
+    "byzantine",
+)
+
 
 def _ascii_fold(text: str) -> str:
     return unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
@@ -60,6 +113,13 @@ def normalize_key(k: str) -> str:
     k = re.sub(r"[^a-z0-9_]+", "", k)
     k = re.sub(r"_+", "_", k).strip("_")
     return KEY_MAP.get(k, k)
+
+
+def should_drop_key(raw_key: str) -> bool:
+    key = normalize_key(raw_key)
+    if key in DROP_KEYS:
+        return True
+    return any(token in key for token in HISTORICAL_KEYWORDS)
 
 
 def normalize_value(v: str) -> str:
@@ -114,6 +174,8 @@ def infobox_to_tree(infobox: dict, tokenize_mode: str):
     for raw_key, raw_value in infobox.items():
         key = normalize_key(raw_key)
         if not key:
+            continue
+        if should_drop_key(key):
             continue
 
         key_node = make_node(key, [])

@@ -4,155 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Libertad",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          },
-          {
-            "label": "Muerte",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "Freedom",
-            "children": []
-          },
-          {
-            "label": "or",
-            "children": []
-          },
-          {
-            "label": "Death",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Libertad o Muerte (Spanish) \"Freedom or Death\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno",
-            "children": []
-          },
-          {
-            "label": "Nacional",
-            "children": []
-          },
-          {
-            "label": "del",
-            "children": []
-          },
-          {
-            "label": "Uruguay",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Uruguay",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himno Nacional del Uruguay \" National Anthem of Uruguay \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Montevideo",
             "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "53",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "883",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "883",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
           }
         ],
         "raw_values": [
-          "Montevideo 34°53′S 56°10′W / 34.883°S 56.167°W / -34.883; -56.167"
+          "Montevideo"
         ]
       },
       {
@@ -252,18 +112,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Uruguayan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Uruguayan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -281,38 +129,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Yamand",
-            "children": []
-          },
-          {
-            "label": "Orsi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Yamandú Orsi"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Carolina",
-            "children": []
-          },
-          {
-            "label": "Cosse",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Carolina Cosse"
         ]
       },
       {
@@ -700,106 +516,6 @@
         ],
         "raw_values": [
           "0.862 very high ( 48th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Uruguayan",
-            "children": []
-          },
-          {
-            "label": "peso",
-            "children": []
-          },
-          {
-            "label": "UYU",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Uruguayan peso ( UYU )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "03",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "UYT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −03:00 ( UYT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "598",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+598"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "UY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UY"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "uy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".uy"
         ]
       }
     ]

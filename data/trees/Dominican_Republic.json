@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Dios, Patria, Libertad\" (Spanish) \"God, Homeland, Freedom",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Quisqueyanos valientes Valiant Quisqueyans",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Santo Domingo 18°27′N 69°56′W / 18.450°N 69.933°W / 18.450; -69.933",
+            "label": "Santo Domingo",
             "children": []
           }
         ]
@@ -67,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Dominican Quisqueyan (colloquial)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Luis Abinader",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Raquel Peña",
             "children": []
           }
         ]
@@ -125,15 +80,6 @@
         "children": [
           {
             "label": "Chamber of Deputies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ephemeral_independence",
-        "children": [
-          {
-            "label": "1821–1822",
             "children": []
           }
         ]
@@ -263,60 +209,6 @@
         "children": [
           {
             "label": "0.776 high ( 89th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Dominican peso ( DOP )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC -04:00 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy or dd-mm-yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "DO",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".do",
             "children": []
           }
         ]

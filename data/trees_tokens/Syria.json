@@ -4,175 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "um",
-            "children": []
-          },
-          {
-            "label": "t",
-            "children": []
-          },
-          {
-            "label": "ad",
-            "children": []
-          },
-          {
-            "label": "Diy",
-            "children": []
-          },
-          {
-            "label": "r",
-            "children": []
-          },
-          {
-            "label": "Guardians",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "jure",
-            "children": []
-          },
-          {
-            "label": "F",
-            "children": []
-          },
-          {
-            "label": "Sab",
-            "children": []
-          },
-          {
-            "label": "li",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Majd",
-            "children": []
-          },
-          {
-            "label": "In",
-            "children": []
-          },
-          {
-            "label": "Pursuit",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Glory",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "facto",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "حُمَاةَ الدِّيَارِ \" Ḥumāt ad-Diyār \" Guardians of the Homeland ( de jure ) فِي سَبِيلِ المَجد \" Fī Sabīli al-Majd \" In Pursuit of Glory ( de facto )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Damascus",
             "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "300",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "300",
-            "children": []
           }
         ],
         "raw_values": [
-          "Damascus 33°30′N 36°18′E / 33.500°N 36.300°E / 33.500; 36.300"
+          "Damascus"
         ]
       },
       {
@@ -384,18 +224,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Syrian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Syrian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -432,26 +260,6 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Ahmed",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Sharaa",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ahmed al-Sharaa"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -472,46 +280,6 @@
         ]
       },
       {
-        "label": "arab_kingdom_of_syria",
-        "children": [
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1920",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "8 March 1920"
-        ]
-      },
-      {
-        "label": "state_of_syria_under_french_mandate",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1924",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 December 1924"
-        ]
-      },
-      {
         "label": "first_syrian_republic",
         "children": [
           {
@@ -529,26 +297,6 @@
         ],
         "raw_values": [
           "14 May 1930"
-        ]
-      },
-      {
-        "label": "end_of_the_french_mandate",
-        "children": [
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "April",
-            "children": []
-          },
-          {
-            "label": "1946",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "17 April 1946"
         ]
       },
       {
@@ -613,26 +361,6 @@
         ],
         "raw_values": [
           "8 March 1963 – 8 December 2024"
-        ]
-      },
-      {
-        "label": "current_provisional_government_established",
-        "children": [
-          {
-            "label": "29",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "2025",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "29 March 2025"
         ]
       },
       {
@@ -888,110 +616,6 @@
         ],
         "raw_values": [
           "0.564 medium ( 162nd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Syrian",
-            "children": []
-          },
-          {
-            "label": "pound",
-            "children": []
-          },
-          {
-            "label": "SYP",
-            "children": []
-          },
-          {
-            "label": "LS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Syrian pound ( SYP/LS )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "03",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +03:00 ( AST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd-mm-yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "963",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+963"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "SY"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "sy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".sy سوريا."
         ]
       }
     ]

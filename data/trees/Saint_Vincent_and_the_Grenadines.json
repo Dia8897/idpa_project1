@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Pax et Justitia\" ( Latin ) \"Peace and Justice",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Saint Vincent, Land So Beautiful \" Royal anthem : \" God Save the King",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Kingstown 13°10′N 61°14′W / 13.167°N 61.233°W / 13.167; -61.233",
+            "label": "Kingstown",
             "children": []
           }
         ]
@@ -67,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Vincentian Grenadinian Saint Vincentian Vincy (colloquial)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -103,15 +76,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Godwin Friday",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -125,15 +89,6 @@
         "children": [
           {
             "label": "27 October 1969",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_the_united_kingdom",
-        "children": [
-          {
-            "label": "27 October 1979",
             "children": []
           }
         ]
@@ -227,60 +182,6 @@
         "children": [
           {
             "label": "0.798 high ( 76th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "East Caribbean dollar ( XCD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC -4 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "mm/dd/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "VC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".vc",
             "children": []
           }
         ]

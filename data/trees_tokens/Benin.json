@@ -4,78 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Fraternit",
-            "children": []
-          },
-          {
-            "label": "Justice",
-            "children": []
-          },
-          {
-            "label": "Travail",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Fraternity",
-            "children": []
-          },
-          {
-            "label": "Justice",
-            "children": []
-          },
-          {
-            "label": "Labour",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\"Fraternité, Justice, Travail\" (French) Fraternity, Justice, Labour"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "L",
-            "children": []
-          },
-          {
-            "label": "Aube",
-            "children": []
-          },
-          {
-            "label": "nouvelle",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "New",
-            "children": []
-          },
-          {
-            "label": "Dawn",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "L'Aube nouvelle (French) \"The New Dawn\""
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -484,22 +412,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Beninese",
-            "children": []
-          },
-          {
-            "label": "Beninoise",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Beninese Beninoise"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -520,42 +432,6 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Patrice",
-            "children": []
-          },
-          {
-            "label": "Talon",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Patrice Talon"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Mariam",
-            "children": []
-          },
-          {
-            "label": "Chabi",
-            "children": []
-          },
-          {
-            "label": "Talata",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mariam Chabi Talata"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -569,46 +445,6 @@
         ],
         "raw_values": [
           "National Assembly"
-        ]
-      },
-      {
-        "label": "republic_of_dahomey_established_within_the_french_community",
-        "children": [
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1958",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "11 December 1958"
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 August 1960"
         ]
       },
       {
@@ -884,110 +720,6 @@
         ],
         "raw_values": [
           "0.515 low ( 173rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "CFA",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "XOF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "West African CFA franc ( XOF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "WAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( WAT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "229",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+229"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BJ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BJ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "bj",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".bj"
         ]
       }
     ]

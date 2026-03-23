@@ -4,103 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "stiklal",
-            "children": []
-          },
-          {
-            "label": "Mar",
-            "children": []
-          },
-          {
-            "label": "Independence",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "İstiklal Marşı \"Independence March\""
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Ankara",
             "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "917",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "917",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
           }
         ],
         "raw_values": [
-          "Ankara 39°55′N 32°51′E / 39.917°N 32.850°E / 39.917; 32.850"
+          "Ankara"
         ]
       },
       {
@@ -109,74 +21,10 @@
           {
             "label": "Istanbul",
             "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "57",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "017",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "950",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "017",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "950",
-            "children": []
           }
         ],
         "raw_values": [
-          "Istanbul 41°1′N 28°57′E / 41.017°N 28.950°E / 41.017; 28.950"
+          "Istanbul"
         ]
       },
       {
@@ -260,22 +108,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Turkish",
-            "children": []
-          },
-          {
-            "label": "Turk",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Turkish Turk"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -293,50 +125,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Recep",
-            "children": []
-          },
-          {
-            "label": "Tayyip",
-            "children": []
-          },
-          {
-            "label": "Erdo",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Recep Tayyip Erdoğan"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Cevdet",
-            "children": []
-          },
-          {
-            "label": "Y",
-            "children": []
-          },
-          {
-            "label": "lmaz",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Cevdet Yılmaz"
         ]
       },
       {
@@ -392,42 +180,6 @@
         ]
       },
       {
-        "label": "ottoman_empire",
-        "children": [
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "1299",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "c. 1299"
-        ]
-      },
-      {
-        "label": "war_of_independence",
-        "children": [
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "1919",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "19 May 1919"
-        ]
-      },
-      {
         "label": "government_of_the_grand_national_assembly",
         "children": [
           {
@@ -445,26 +197,6 @@
         ],
         "raw_values": [
           "23 April 1920"
-        ]
-      },
-      {
-        "label": "sultanate_abolished",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1922",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 November 1922"
         ]
       },
       {
@@ -800,82 +532,6 @@
         ],
         "raw_values": [
           "0.853 very high ( 51st )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Turkish",
-            "children": []
-          },
-          {
-            "label": "lira",
-            "children": []
-          },
-          {
-            "label": "TRY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Turkish lira ( ₺ ) ( TRY )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "TRT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( TRT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "90",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+90"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "TR"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "tr",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".tr"
         ]
       }
     ]

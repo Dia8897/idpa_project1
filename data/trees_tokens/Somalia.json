@@ -4,119 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Qolobaa",
-            "children": []
-          },
-          {
-            "label": "Calankeed",
-            "children": []
-          },
-          {
-            "label": "Every",
-            "children": []
-          },
-          {
-            "label": "Nation",
-            "children": []
-          },
-          {
-            "label": "Has",
-            "children": []
-          },
-          {
-            "label": "Its",
-            "children": []
-          },
-          {
-            "label": "Own",
-            "children": []
-          },
-          {
-            "label": "Flag",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Qolobaa Calankeed \"Every Nation Has Its Own Flag\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Mogadishu",
             "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "350",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "350",
-            "children": []
           }
         ],
         "raw_values": [
-          "Mogadishu 2°2′N 45°21′E / 2.033°N 45.350°E / 2.033; 45.350"
+          "Mogadishu"
         ]
       },
       {
@@ -188,18 +84,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Somali",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Somali"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -217,46 +101,6 @@
         ],
         "raw_values": [
           "Federal parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Hassan",
-            "children": []
-          },
-          {
-            "label": "Sheikh",
-            "children": []
-          },
-          {
-            "label": "Mohamud",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Hassan Sheikh Mohamud"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Hamza",
-            "children": []
-          },
-          {
-            "label": "Abdi",
-            "children": []
-          },
-          {
-            "label": "Barre",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Hamza Abdi Barre"
         ]
       },
       {
@@ -360,70 +204,6 @@
         ]
       },
       {
-        "label": "adal_sultanate",
-        "children": [
-          {
-            "label": "9th",
-            "children": []
-          },
-          {
-            "label": "century",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "9th century"
-        ]
-      },
-      {
-        "label": "mogadishu_sultanate",
-        "children": [
-          {
-            "label": "10th",
-            "children": []
-          },
-          {
-            "label": "century",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "10th century"
-        ]
-      },
-      {
-        "label": "sultanate_of_ifat",
-        "children": [
-          {
-            "label": "13th",
-            "children": []
-          },
-          {
-            "label": "century",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "13th century"
-        ]
-      },
-      {
-        "label": "ajuran_sultanate",
-        "children": [
-          {
-            "label": "13th",
-            "children": []
-          },
-          {
-            "label": "century",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "13th century"
-        ]
-      },
-      {
         "label": "hiraab_imamate",
         "children": [
           {
@@ -437,70 +217,6 @@
         ],
         "raw_values": [
           "16th century"
-        ]
-      },
-      {
-        "label": "geledi_sultanate",
-        "children": [
-          {
-            "label": "1695",
-            "children": []
-          },
-          {
-            "label": "1911",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1695–1911"
-        ]
-      },
-      {
-        "label": "majeerteen_sultanate",
-        "children": [
-          {
-            "label": "1648",
-            "children": []
-          },
-          {
-            "label": "1927",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1648–1927"
-        ]
-      },
-      {
-        "label": "sultanate_of_hobyo",
-        "children": [
-          {
-            "label": "1878",
-            "children": []
-          },
-          {
-            "label": "1927",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1878–1927"
-        ]
-      },
-      {
-        "label": "isaaq_sultanate",
-        "children": [
-          {
-            "label": "1749",
-            "children": []
-          },
-          {
-            "label": "1884",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1749–1884"
         ]
       },
       {
@@ -533,46 +249,6 @@
         ],
         "raw_values": [
           "1889–1941"
-        ]
-      },
-      {
-        "label": "independence_of_the_state_of_somaliland_from_the_united_kingdom",
-        "children": [
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "26 June 1960"
-        ]
-      },
-      {
-        "label": "independence_of_the_trust_territory_of_somaliland_from_italy_and_union_with_the_state_of_somaliland_to_form_the_somali_republic",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "July",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 July 1960"
         ]
       },
       {
@@ -844,82 +520,6 @@
         ],
         "raw_values": [
           "0.404 low ( 192nd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Somali",
-            "children": []
-          },
-          {
-            "label": "shilling",
-            "children": []
-          },
-          {
-            "label": "SOS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Somali shilling ( SOS )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "EAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( EAT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "252",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+252"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SO",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "SO"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "so",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".so"
         ]
       }
     ]

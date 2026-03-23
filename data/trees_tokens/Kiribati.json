@@ -4,167 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Te",
-            "children": []
-          },
-          {
-            "label": "Mauri",
-            "children": []
-          },
-          {
-            "label": "te",
-            "children": []
-          },
-          {
-            "label": "Raoi",
-            "children": []
-          },
-          {
-            "label": "ao",
-            "children": []
-          },
-          {
-            "label": "te",
-            "children": []
-          },
-          {
-            "label": "Tabomoa",
-            "children": []
-          },
-          {
-            "label": "Gilbertese",
-            "children": []
-          },
-          {
-            "label": "Health",
-            "children": []
-          },
-          {
-            "label": "Peace",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Prosperity",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Te Mauri, te Raoi ao te Tabomoa (Gilbertese) \"Health, Peace, and Prosperity\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Kunan",
-            "children": []
-          },
-          {
-            "label": "Kiribati",
-            "children": []
-          },
-          {
-            "label": "Gilbertese",
-            "children": []
-          },
-          {
-            "label": "Song",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Kiribati",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kunan Kiribati (Gilbertese) \"Song of Kiribati\""
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Tarawa",
             "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "173",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "467",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "173",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "467",
-            "children": []
-          },
-          {
-            "label": "173",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
           }
         ],
         "raw_values": [
-          "Tarawa 1°28′N 173°2′E / 1.467°N 173.033°E / 1.467; 173.033"
+          "Tarawa"
         ]
       },
       {
@@ -316,22 +164,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "I",
-            "children": []
-          },
-          {
-            "label": "Kiribati",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "I-Kiribati"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -365,22 +197,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic with an executive president"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Taneti",
-            "children": []
-          },
-          {
-            "label": "Maamau",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Taneti Maamau"
         ]
       },
       {
@@ -716,86 +532,6 @@
         ],
         "raw_values": [
           "0.644 medium ( 140th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Australian",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "AUD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Australian dollar ($) ( AUD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +12 , +13 , +14"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "686",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+686"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KI",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "KI"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ki",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ki"
         ]
       }
     ]

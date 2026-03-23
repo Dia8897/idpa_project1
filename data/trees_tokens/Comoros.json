@@ -4,167 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unit",
-            "children": []
-          },
-          {
-            "label": "Solidarit",
-            "children": []
-          },
-          {
-            "label": "D",
-            "children": []
-          },
-          {
-            "label": "veloppement",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Arabic",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "Solidarity",
-            "children": []
-          },
-          {
-            "label": "Development",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Unité – Solidarité – Développement\" ( French ) وحدة، تضامن، تنمية ( Arabic ) \"Unity – Solidarity – Development"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Umodja",
-            "children": []
-          },
-          {
-            "label": "wa",
-            "children": []
-          },
-          {
-            "label": "Massiwa",
-            "children": []
-          },
-          {
-            "label": "Comorian",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Islands",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Umodja wa Massiwa (Comorian) The Union of the Islands"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Moroni",
             "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "69",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "69",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
           }
         ],
         "raw_values": [
-          "Moroni 11°41′S 43°16′E / 11.69°S 43.26°E / -11.69; 43.26"
+          "Moroni"
         ]
       },
       {
@@ -232,22 +80,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Comorian",
-            "children": []
-          },
-          {
-            "label": "Comorese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Comorian Comorese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -265,22 +97,6 @@
         ],
         "raw_values": [
           "Federal presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Azali",
-            "children": []
-          },
-          {
-            "label": "Assoumani",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Azali Assoumani"
         ]
       },
       {
@@ -348,26 +164,6 @@
         ]
       },
       {
-        "label": "protectorate_of_the_comoros",
-        "children": [
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1887",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "6 September 1887"
-        ]
-      },
-      {
         "label": "territory_under_french_madagascar",
         "children": [
           {
@@ -425,26 +221,6 @@
         ],
         "raw_values": [
           "22 December 1961"
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "July",
-            "children": []
-          },
-          {
-            "label": "1975",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "6 July 1975"
         ]
       },
       {
@@ -752,82 +528,6 @@
         ],
         "raw_values": [
           "0.603 medium ( 152nd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Comorian",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "KMF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Comorian franc ( KMF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "EAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( EAT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "269",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+269"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KM",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "KM"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "km",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".km"
         ]
       }
     ]

@@ -4,34 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Hat",
-            "children": []
-          },
-          {
-            "label": "kv",
-            "children": []
-          },
-          {
-            "label": "h",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Hope",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "הַתִּקְוָה ( Hatīkvāh ; \"The Hope\")"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -45,74 +17,10 @@
           {
             "label": "recognition",
             "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "783",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "783",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
           }
         ],
         "raw_values": [
-          "Jerusalem ( limited recognition ) 31°47′N 35°13′E / 31.783°N 35.217°E / 31.783; 35.217"
+          "Jerusalem ( limited recognition )"
         ]
       },
       {
@@ -252,18 +160,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Israeli",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Israeli"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -281,38 +177,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Isaac",
-            "children": []
-          },
-          {
-            "label": "Herzog",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Isaac Herzog"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Benjamin",
-            "children": []
-          },
-          {
-            "label": "Netanyahu",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Benjamin Netanyahu"
         ]
       },
       {
@@ -357,26 +221,6 @@
         ],
         "raw_values": [
           "Knesset"
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "1948",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "14 May 1948"
         ]
       },
       {
@@ -703,50 +547,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "New",
-            "children": []
-          },
-          {
-            "label": "shekel",
-            "children": []
-          },
-          {
-            "label": "ILS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "New shekel ( ₪ ) ( ILS )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "IST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2:00 ( IST )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -768,42 +568,6 @@
         ],
         "raw_values": [
           "UTC +3:00 ( IDT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "972",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+972"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IL",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "IL"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "il",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".il"
         ]
       }
     ]

@@ -4,98 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "L",
-            "children": []
-          },
-          {
-            "label": "union",
-            "children": []
-          },
-          {
-            "label": "fait",
-            "children": []
-          },
-          {
-            "label": "la",
-            "children": []
-          },
-          {
-            "label": "force",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Inite",
-            "children": []
-          },
-          {
-            "label": "se",
-            "children": []
-          },
-          {
-            "label": "f",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "Haitian",
-            "children": []
-          },
-          {
-            "label": "Creole",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "makes",
-            "children": []
-          },
-          {
-            "label": "strength",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "L'union fait la force ( French ) \"Inite se fòs\" ( Haitian Creole ) \"Union makes strength\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "La",
-            "children": []
-          },
-          {
-            "label": "Dessalinienne",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Dessaline",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "La Dessalinienne \"The Dessaline\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -109,82 +17,10 @@
           {
             "label": "Prince",
             "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "72",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "53611",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "72",
-            "children": []
-          },
-          {
-            "label": "34639",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "53611",
-            "children": []
-          },
-          {
-            "label": "72",
-            "children": []
-          },
-          {
-            "label": "34639",
-            "children": []
           }
         ],
         "raw_values": [
-          "Port-au-Prince 18°32′10′′N 72°20′47′′W / 18.53611°N 72.34639°W / 18.53611; -72.34639"
+          "Port-au-Prince"
         ]
       },
       {
@@ -296,18 +132,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Haitian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Haitian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -329,46 +153,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Vacant",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Vacant"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Alix",
-            "children": []
-          },
-          {
-            "label": "Didier",
-            "children": []
-          },
-          {
-            "label": "Fils",
-            "children": []
-          },
-          {
-            "label": "Aim",
-            "children": []
-          },
-          {
-            "label": "acting",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Alix Didier Fils-Aimé (acting)"
         ]
       },
       {
@@ -421,46 +205,6 @@
         ],
         "raw_values": [
           "Chamber of Deputies"
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1804",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 January 1804"
-        ]
-      },
-      {
-        "label": "independence_recognized",
-        "children": [
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "April",
-            "children": []
-          },
-          {
-            "label": "1825",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "17 April 1825"
         ]
       },
       {
@@ -521,26 +265,6 @@
         ],
         "raw_values": [
           "17 October 1806"
-        ]
-      },
-      {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1811",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "28 March 1811"
         ]
       },
       {
@@ -621,58 +345,6 @@
         ],
         "raw_values": [
           "15 January 1859"
-        ]
-      },
-      {
-        "label": "united_states_occupation",
-        "children": [
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "July",
-            "children": []
-          },
-          {
-            "label": "1915",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1934",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "28 July 1915 – 1 August 1934"
-        ]
-      },
-      {
-        "label": "independence_from_the_united_states",
-        "children": [
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1934",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "15 August 1934"
         ]
       },
       {
@@ -967,50 +639,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Gourde",
-            "children": []
-          },
-          {
-            "label": "G",
-            "children": []
-          },
-          {
-            "label": "HTG",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Gourde (G) ( HTG )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "05",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "EST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −05:00 ( EST )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -1032,62 +660,6 @@
         ],
         "raw_values": [
           "UTC −04:00 ( EDT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "509",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+509"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "HT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "HT"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ht",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ht"
         ]
       }
     ]

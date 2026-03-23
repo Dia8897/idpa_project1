@@ -4,191 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "Na",
-            "children": []
-          },
-          {
-            "label": "r",
-            "children": []
-          },
-          {
-            "label": "lan",
-            "children": []
-          },
-          {
-            "label": "Victory",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "ours",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "النصر لنا an-Naṣr lanā \"Victory is ours\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Na",
-            "children": []
-          },
-          {
-            "label": "nu",
-            "children": []
-          },
-          {
-            "label": "jund",
-            "children": []
-          },
-          {
-            "label": "Allah",
-            "children": []
-          },
-          {
-            "label": "jund",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "wa",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "Soldiers",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Soldiers",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "نحن جند اللّٰه، جند الوطن Naḥnu jund Allah, jund al-waṭan \"We are Soldiers of God , Soldiers of the Homeland\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Khartoum",
             "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "633",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "533",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "633",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "533",
-            "children": []
           }
         ],
         "raw_values": [
-          "Khartoum 15°38′N 32°32′E / 15.633°N 32.533°E / 15.633; 32.533"
+          "Khartoum"
         ]
       },
       {
@@ -320,18 +144,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Sudanese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sudanese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -404,22 +216,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Kamil",
-            "children": []
-          },
-          {
-            "label": "Idris",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kamil Idris"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -437,38 +233,6 @@
         ],
         "raw_values": [
           "Transitional Legislative Authority"
-        ]
-      },
-      {
-        "label": "kingdom_of_kerma",
-        "children": [
-          {
-            "label": "2500",
-            "children": []
-          },
-          {
-            "label": "BC",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "2500 BC"
-        ]
-      },
-      {
-        "label": "kingdom_of_kush",
-        "children": [
-          {
-            "label": "780",
-            "children": []
-          },
-          {
-            "label": "BC",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "780 BC"
         ]
       },
       {
@@ -505,26 +269,6 @@
         ],
         "raw_values": [
           "1899"
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1956",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 January 1956"
         ]
       },
       {
@@ -864,82 +608,6 @@
         ],
         "raw_values": [
           "0.511 low ( 176th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Sudanese",
-            "children": []
-          },
-          {
-            "label": "pound",
-            "children": []
-          },
-          {
-            "label": "SDG",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sudanese pound ( SDG )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "CAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( CAT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "249",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+249"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "SD"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "sd",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".sd .السودان"
         ]
       }
     ]

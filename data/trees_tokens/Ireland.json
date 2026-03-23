@@ -293,18 +293,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Irish",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Irish"
-        ]
-      },
-      {
         "label": "population",
         "children": [
           {
@@ -518,34 +506,6 @@
         ],
         "raw_values": [
           "90.0% White 2.8% Asian 1.2% Black 0.3% Arab 1.2% other (inc. Mixed ) 4.5% not stated"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "Greenwich",
-            "children": []
-          },
-          {
-            "label": "Mean",
-            "children": []
-          },
-          {
-            "label": "Time",
-            "children": []
-          },
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Greenwich Mean Time ( UTC+0 )"
         ]
       },
       {

@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Together we aspire, together we achieve",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Forged from the Love of Liberty",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Port of Spain 10°40′01′′N 61°30′27′′W / 10.667°N 61.5075°W / 10.667; -61.5075",
+            "label": "Port of Spain",
             "children": []
           }
         ]
@@ -67,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Trinidadians and Tobagonians Trini or Trinbagonian (colloquial)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Christine Kangaloo",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Kamla Persad-Bissessar",
             "children": []
           }
         ]
@@ -152,24 +107,6 @@
         "children": [
           {
             "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "province_of_the_west_indies_federation",
-        "children": [
-          {
-            "label": "3 January 1958 – 14 January 1962",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "31 August 1962",
             "children": []
           }
         ]
@@ -281,60 +218,6 @@
         "children": [
           {
             "label": "0.807 very high ( 72nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Trinidad and Tobago dollar ( TTD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC -4 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TT",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".tt",
             "children": []
           }
         ]

@@ -89,74 +89,10 @@
           {
             "label": "Wellington",
             "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "174",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "300",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "174",
-            "children": []
-          },
-          {
-            "label": "783",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "300",
-            "children": []
-          },
-          {
-            "label": "174",
-            "children": []
-          },
-          {
-            "label": "783",
-            "children": []
           }
         ],
         "raw_values": [
-          "Wellington 41°18′S 174°47′E / 41.300°S 174.783°E / -41.300; 174.783"
+          "Wellington"
         ]
       },
       {
@@ -165,74 +101,10 @@
           {
             "label": "Auckland",
             "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "174",
-            "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "867",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "174",
-            "children": []
-          },
-          {
-            "label": "750",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "867",
-            "children": []
-          },
-          {
-            "label": "174",
-            "children": []
-          },
-          {
-            "label": "750",
-            "children": []
           }
         ],
         "raw_values": [
-          "Auckland 36°52′S 174°45′E / 36.867°S 174.750°E / -36.867; 174.750"
+          "Auckland"
         ]
       },
       {
@@ -436,30 +308,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "New",
-            "children": []
-          },
-          {
-            "label": "Zealander",
-            "children": []
-          },
-          {
-            "label": "Kiwi",
-            "children": []
-          },
-          {
-            "label": "colloquial",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "New Zealander Kiwi (colloquial)"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -513,22 +361,6 @@
         ],
         "raw_values": [
           "Cindy Kiro"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Christopher",
-            "children": []
-          },
-          {
-            "label": "Luxon",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Christopher Luxon"
         ]
       },
       {
@@ -943,50 +775,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "New",
-            "children": []
-          },
-          {
-            "label": "Zealand",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "NZD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "New Zealand dollar ($) ( NZD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "NZST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +12 ( NZST )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -1004,62 +792,6 @@
         ],
         "raw_values": [
           "UTC +13 ( NZDT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd / mm / yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "64",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+64"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NZ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "NZ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "nz",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".nz"
         ]
       }
     ]

@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Virtus Unita Fortior ( Latin ) \"United virtue is stronger\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "El Gran Carlemany \" \"The Great Charlemagne",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Andorra la Vella 42°30′23′′N 1°31′17′′E / 42.50639°N 1.52139°E / 42.50639; 1.52139",
+            "label": "Andorra la Vella",
             "children": []
           }
         ]
@@ -76,15 +58,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Andorran",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -112,15 +85,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Xavier Espot Zamora",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "general_syndic",
         "children": [
           {
@@ -143,15 +107,6 @@
         "children": [
           {
             "label": "8 September 1278",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_the_kingdom_of_france",
-        "children": [
-          {
-            "label": "12 October 1652",
             "children": []
           }
         ]
@@ -277,64 +232,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +01:00 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +02:00 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+376",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AD",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ad",
             "children": []
           }
         ]

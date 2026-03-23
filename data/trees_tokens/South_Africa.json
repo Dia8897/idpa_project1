@@ -232,74 +232,6 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "ke",
-            "children": []
-          },
-          {
-            "label": "e",
-            "children": []
-          },
-          {
-            "label": "xarra",
-            "children": []
-          },
-          {
-            "label": "ke",
-            "children": []
-          },
-          {
-            "label": "Xam",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "diversity",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ǃke e: ǀxarra ǁke \" ( ǀXam ) \" Unity in diversity"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "National Anthem of South Africa"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -668,22 +600,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "South African"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -717,22 +633,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic with an executive presidency"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Cyril",
-            "children": []
-          },
-          {
-            "label": "Ramaphosa",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Cyril Ramaphosa"
         ]
       },
       {
@@ -1240,126 +1140,6 @@
         ],
         "raw_values": [
           "0.741 high ( 106th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "rand",
-            "children": []
-          },
-          {
-            "label": "ZAR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "South African rand ( ZAR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "SAST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( SAST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "Short",
-            "children": []
-          },
-          {
-            "label": "formats",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Short formats: yyyy/mm/dd yyyy-mm-dd"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "27",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+27"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ZA",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ZA"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "za",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".za"
         ]
       }
     ]

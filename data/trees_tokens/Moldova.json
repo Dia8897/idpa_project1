@@ -4,30 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Limba",
-            "children": []
-          },
-          {
-            "label": "noastr",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "language",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Limba noastră \"Our language\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -41,74 +17,10 @@
           {
             "label": "u",
             "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "917",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "917",
-            "children": []
           }
         ],
         "raw_values": [
-          "Chișinău 47°0′N 28°55′E / 47.000°N 28.917°E / 47.000; 28.917"
+          "Chișinău"
         ]
       },
       {
@@ -360,18 +272,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Moldovan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Moldovan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -389,38 +289,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Maia",
-            "children": []
-          },
-          {
-            "label": "Sandu",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Maia Sandu"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Alexandru",
-            "children": []
-          },
-          {
-            "label": "Munteanu",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Alexandru Munteanu"
         ]
       },
       {
@@ -496,26 +364,6 @@
         ]
       },
       {
-        "label": "union_with_romania",
-        "children": [
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "April",
-            "children": []
-          },
-          {
-            "label": "1918",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "9 April 1918"
-        ]
-      },
-      {
         "label": "moldavian_assr",
         "children": [
           {
@@ -573,30 +421,6 @@
         ],
         "raw_values": [
           "2 November 1990"
-        ]
-      },
-      {
-        "label": "independence_from_the_soviet_union",
-        "children": [
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "27 August 1991 a"
         ]
       },
       {
@@ -966,46 +790,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Moldovan",
-            "children": []
-          },
-          {
-            "label": "leu",
-            "children": []
-          },
-          {
-            "label": "MDL",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Moldovan leu ( MDL )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "EET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( EET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -1023,42 +807,6 @@
         ],
         "raw_values": [
           "UTC +3 ( EEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "373",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+373"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MD"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "md",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".md"
         ]
       }
     ]

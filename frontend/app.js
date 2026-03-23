@@ -423,12 +423,20 @@ function payloadToInfoboxText(payload) {
   return lines.join("\n");
 }
 
+function scrollToElement(element) {
+  if (!element || typeof element.scrollIntoView !== "function") return;
+  requestAnimationFrame(() => {
+    element.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+}
+
 function showPostprocessed(format) {
   if (!els.postprocessContent) return;
   const patchedTree = window.__lastPatchedDisplay;
   const targetName = window.__lastTarget || "Patched";
   if (!patchedTree) {
     els.postprocessContent.textContent = "Run patching first.";
+    scrollToElement(els.postprocessContent);
     return;
   }
   const payload = treeToInfoboxPayload(targetName, patchedTree);
@@ -440,6 +448,7 @@ function showPostprocessed(format) {
     els.postprocessContent.textContent = JSON.stringify(payload, null, 2);
   }
   if (els.patchedCard) els.patchedCard.style.display = "block";
+  scrollToElement(els.postprocessContent);
 }
 
 async function loadDisplayAndTedTrees(source, target) {
@@ -586,7 +595,9 @@ function renderNodeTree(container, root, options = {}) {
   });
 
   const topPad = 30;
-  const leftPad = 36;
+  const leftPad = 130;
+  const rightPad = 130;
+  const bottomPad = 24;
   const rowGap = 54;
   const colGap = 280;
   const yOffsets = [];
@@ -601,8 +612,8 @@ function renderNodeTree(container, root, options = {}) {
     n.py = yOffsets[n.depth];
   });
 
-  const svgWidth = Math.max(900, leftPad * 2 + Math.max(1, nextLeafX - 1) * colGap + 260);
-  const svgHeight = y + 24;
+  const svgWidth = Math.max(900, leftPad + Math.max(1, nextLeafX - 1) * colGap + rightPad);
+  const svgHeight = y + bottomPad;
 
   let depthLimit = maxDepth;
   let focusId = 0;
@@ -1010,6 +1021,27 @@ function makeTedContext(sourceTree, targetTree) {
   return { ted, forestDp, costDelTree, costInsTree };
 }
 
+function computeTedMetrics(tree1, tree2) {
+  const { ted } = makeTedContext(tree1, tree2);
+  const size1 = subtreeSize(tree1);
+  const size2 = subtreeSize(tree2);
+  const distance = ted(tree1, tree2);
+  const totalNodes = size1 + size2;
+  const similarityFormula1 = 1 / (1 + distance);
+  const similarityFormula2 = totalNodes ? Math.max(0, 1 - (distance / totalNodes)) : 1;
+  const commonScore = (totalNodes - distance) / 2;
+
+  return {
+    size1,
+    size2,
+    totalNodes,
+    distance,
+    commonScore,
+    similarityFormula1,
+    similarityFormula2,
+  };
+}
+
 function buildEditScript(t1, t2) {
   const ops = [];
   const { ted, forestDp, costDelTree } = makeTedContext(t1, t2);
@@ -1193,6 +1225,12 @@ function sortOps(ops) {
   });
 }
 
+function shortenOpText(value, max = 96) {
+  const text = String(value || "");
+  if (text.length <= max) return text;
+  return `${text.slice(0, max - 3)}...`;
+}
+
 function opCard(op, idx) {
   const id = `${op.kind}-${String(idx + 1).padStart(3, "0")}`;
   const path = opPath(op);
@@ -1221,7 +1259,76 @@ function opCard(op, idx) {
     </article>`;
 }
 
-function renderTransform(opsForDisplay, opsForTed = opsForDisplay) {
+function opCardReadable(op, idx) {
+  const id = `${op.kind}-${String(idx + 1).padStart(3, "0")}`;
+  const pathHtml = escapeHtml(opPath(op));
+  const oldVal = escapeHtml(shortenOpText(op.old || ""));
+  const newVal = escapeHtml(shortenOpText(op.new || ""));
+
+  let title = "";
+  let detail = "";
+
+  if (op.kind === "DEL") {
+    title = op.nodeIsLeaf ? "Delete value" : "Delete key/subtree";
+    detail = `
+      <div class="op-row">
+        <span class="op-key">Target</span>
+        <code class="op-code">${oldVal}</code>
+      </div>
+      <div class="op-row">
+        <span class="op-key">From</span>
+        <code class="op-code">${pathHtml}</code>
+      </div>
+    `;
+  } else if (op.kind === "INS") {
+    title = op.nodeIsLeaf ? "Insert value" : "Insert key/subtree";
+    detail = `
+      <div class="op-row">
+        <span class="op-key">Target</span>
+        <code class="op-code">${newVal}</code>
+      </div>
+      <div class="op-row">
+        <span class="op-key">Under</span>
+        <code class="op-code">${pathHtml}</code>
+      </div>
+    `;
+  } else if (op.old === op.new) {
+    title = "Refresh metadata";
+    detail = `
+      <div class="op-row">
+        <span class="op-key">Path</span>
+        <code class="op-code">${pathHtml}</code>
+      </div>
+    `;
+  } else {
+    title = op.nodeIsLeaf ? "Replace value" : "Update key node";
+    detail = `
+      <div class="op-row">
+        <span class="op-key">Path</span>
+        <code class="op-code">${pathHtml}</code>
+      </div>
+      <div class="op-row">
+        <span class="op-key">From</span>
+        <code class="op-code">${oldVal}</code>
+      </div>
+      <div class="op-row">
+        <span class="op-key">To</span>
+        <code class="op-code">${newVal}</code>
+      </div>
+    `;
+  }
+
+  return `
+    <article class="op ${op.kind.toLowerCase()}">
+      <div class="op-head">
+        <span class="badge">${id}</span>
+        <span class="op-title">${title}</span>
+      </div>
+      <div class="op-body">${detail}</div>
+    </article>`;
+}
+
+function renderTransform(opsForDisplay, opsForTed = opsForDisplay, tedMetrics = null) {
   // Render operation cards from display-level trees (whole words/fields),
   // not token-level trees, so the diff is easier for humans to read.
   const visibleOps = opsForDisplay.filter(
@@ -1236,25 +1343,32 @@ function renderTransform(opsForDisplay, opsForTed = opsForDisplay) {
   const delOps = sortOps(visibleOps.filter((o) => o.kind === "DEL"));
   const insOps = sortOps(visibleOps.filter((o) => o.kind === "INS"));
   const updOps = sortOps(visibleOps.filter((o) => o.kind === "UPD"));
-  const size1 = renderTransform.sourceNodeCount || 0;
-  const size2 = renderTransform.targetNodeCount || 0;
-  const totalNodes = size1 + size2;
-  // Keep TED/similarity based on token-level operations (algorithm output).
-  const ted = opsForTed.length;
-  const outputSimilarity = totalNodes ? Math.max(0, 1 - ted / totalNodes) : 1;
+  const metrics = tedMetrics || {
+    size1: renderTransform.sourceNodeCount || 0,
+    size2: renderTransform.targetNodeCount || 0,
+    totalNodes: (renderTransform.sourceNodeCount || 0) + (renderTransform.targetNodeCount || 0),
+    distance: opsForTed.length,
+    commonScore: 0,
+    similarityFormula1: 1 / (1 + opsForTed.length),
+    similarityFormula2: ((renderTransform.sourceNodeCount || 0) + (renderTransform.targetNodeCount || 0))
+      ? Math.max(0, 1 - (opsForTed.length / ((renderTransform.sourceNodeCount || 0) + (renderTransform.targetNodeCount || 0))))
+      : 1,
+  };
 
   els.stats.innerHTML = `
     <div class="stat"><div class="k">Visible Ops</div><div class="v">${visibleOps.length}</div></div>
+    <div class="stat"><div class="k">Edit Script Ops</div><div class="v">${opsForTed.length}</div></div>
     <div class="stat"><div class="k">Deletes</div><div class="v">${delOps.length}</div></div>
     <div class="stat"><div class="k">Inserts</div><div class="v">${insOps.length}</div></div>
     <div class="stat"><div class="k">Updates</div><div class="v">${updOps.length}</div></div>
-    <div class="stat"><div class="k">TED (Output)</div><div class="v">${ted}</div></div>
-    <div class="stat"><div class="k">Similarity (Output)</div><div class="v">${(outputSimilarity * 100).toFixed(2)}%</div></div>
+    <div class="stat"><div class="k">TED</div><div class="v">${metrics.distance}</div></div>
+    <div class="stat"><div class="k">Sim F1</div><div class="v">${(metrics.similarityFormula1 * 100).toFixed(2)}%</div></div>
+    <div class="stat"><div class="k">Sim F2</div><div class="v">${(metrics.similarityFormula2 * 100).toFixed(2)}%</div></div>
   `;
 
   if (els.scoreValue) {
-    els.scoreValue.textContent = `${(outputSimilarity * 100).toFixed(2)}%`;
-    els.scoreExplain.textContent = `Based on ${size1 + size2} total nodes and ${opsForTed.length} token-level operations.`;
+    els.scoreValue.textContent = `${(metrics.similarityFormula2 * 100).toFixed(2)}%`;
+    els.scoreExplain.textContent = `Formula 2 from the slides: 1 - TED / (|C| + |D|) = 1 - ${metrics.distance} / (${metrics.size1} + ${metrics.size2}). Formula 1 is ${(metrics.similarityFormula1 * 100).toFixed(2)}%.`;
   }
 
   const filter = els.opFilter?.value || "ALL";
@@ -1273,7 +1387,7 @@ function renderTransform(opsForDisplay, opsForTed = opsForDisplay) {
         : kind === "INS"
           ? '<p class="op-note">Add data present only in the target country.</p>'
           : '<p class="op-note">Update shared fields to match the target.</p>';
-    const body = list.length ? list.map(opCard).join("") : '<p class="empty">No operations.</p>';
+    const body = list.length ? list.map(opCardReadable).join("") : '<p class="empty">No operations.</p>';
     el.innerHTML = note + body;
   };
   setOps(els.delOps, delOps, "DEL");
@@ -1422,6 +1536,7 @@ async function onCompare() {
     annotateTreeIds(tTed.tree);
     const opsDisplay = buildEditScript(sDisplay.tree, tDisplay.tree); // readable diff
     const opsToken = buildEditScript(sTed.tree, tTed.tree); // tokenized diff for TED
+    const tedMetrics = computeTedMetrics(sTed.tree, tTed.tree);
     const nodeMaps = buildNodeTransformMaps(opsDisplay);
     renderTransform.sourceNodeCount = countNodes(sTed.tree);
     renderTransform.targetNodeCount = countNodes(tTed.tree);
@@ -1430,8 +1545,9 @@ async function onCompare() {
     window.__lastSourceTed = sTed.tree;
     window.__lastTargetTed = tTed.tree;
     window.__lastNodeMaps = nodeMaps;
+    window.__lastTedMetrics = tedMetrics;
     renderComparisonTrees();
-    renderTransform(opsDisplay, opsToken); // readable cards + token-level TED stats
+    renderTransform(opsDisplay, opsToken, tedMetrics); // readable cards + TED metrics from tested recurrence
     applyTreeViewMode();
 
     window.__lastOps = opsDisplay; // for diff overlay + patch (readable)
@@ -1453,6 +1569,7 @@ async function onCompare() {
     }
     updateDiffPanel(source, target, opsDisplay);
     window.__lastTarget = target;
+    scrollToElement(document.getElementById("similarityCard") || els.scoreValue);
   } catch (err) {
     els.stats.innerHTML = `<div class="empty">${escapeHtml(String(err))}</div>`;
     els.sourceGraph.textContent = "";
@@ -1566,6 +1683,7 @@ function enablePatchPreview() {
         if (els.postJsonBtn) els.postJsonBtn.disabled = false;
         if (els.postXmlBtn) els.postXmlBtn.disabled = false;
         if (els.postInfoboxBtn) els.postInfoboxBtn.disabled = false;
+        scrollToElement(els.patchedCard);
       })
       .catch((err) => {
         console.error(err);

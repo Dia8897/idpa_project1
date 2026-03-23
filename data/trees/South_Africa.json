@@ -94,24 +94,6 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "ǃke e: ǀxarra ǁke \" ( ǀXam ) \" Unity in diversity",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "National Anthem of South Africa",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -157,28 +139,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "South African",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic with an executive presidency",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Cyril Ramaphosa",
             "children": []
           }
         ]
@@ -380,60 +344,6 @@
         "children": [
           {
             "label": "0.741 high ( 106th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "South African rand ( ZAR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( SAST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "Short formats: yyyy/mm/dd yyyy-mm-dd",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+27",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ZA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".za",
             "children": []
           }
         ]

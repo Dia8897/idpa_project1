@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "\" Mazurek Dąbrowskiego \" Poland Is Not Yet Lost",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Warsaw 52°13′N 21°02′E / 52.217°N 21.033°E / 52.217; 21.033",
+            "label": "Warsaw",
             "children": []
           }
         ]
@@ -49,37 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Polish Pole",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Karol Nawrocki",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Donald Tusk",
             "children": []
           }
         ]
@@ -116,15 +80,6 @@
         "children": [
           {
             "label": "14 April 966",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_poland",
-        "children": [
-          {
-            "label": "18 April 1025",
             "children": []
           }
         ]
@@ -268,64 +223,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Złoty ( PLN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy ( CE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+48",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PL",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".pl",
             "children": []
           }
         ]

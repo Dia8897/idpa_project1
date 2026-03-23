@@ -4,159 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Pravda",
-            "children": []
-          },
-          {
-            "label": "v",
-            "children": []
-          },
-          {
-            "label": "t",
-            "children": []
-          },
-          {
-            "label": "z",
-            "children": []
-          },
-          {
-            "label": "Czech",
-            "children": []
-          },
-          {
-            "label": "Truth",
-            "children": []
-          },
-          {
-            "label": "prevails",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Pravda vítězí (Czech) \"Truth prevails\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Kde",
-            "children": []
-          },
-          {
-            "label": "domov",
-            "children": []
-          },
-          {
-            "label": "m",
-            "children": []
-          },
-          {
-            "label": "j",
-            "children": []
-          },
-          {
-            "label": "Czech",
-            "children": []
-          },
-          {
-            "label": "Where",
-            "children": []
-          },
-          {
-            "label": "My",
-            "children": []
-          },
-          {
-            "label": "Home",
-            "children": []
-          },
-          {
-            "label": "Is",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kde domov můj (Czech) \"Where My Home Is\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Prague",
             "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "05",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "083",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "467",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "083",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "467",
-            "children": []
           }
         ],
         "raw_values": [
-          "Prague 50°05′N 14°28′E / 50.083°N 14.467°E / 50.083; 14.467"
+          "Prague"
         ]
       },
       {
@@ -416,18 +272,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Czech",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Czech"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -445,38 +289,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Petr",
-            "children": []
-          },
-          {
-            "label": "Pavel",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Petr Pavel"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Andrej",
-            "children": []
-          },
-          {
-            "label": "Babi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Andrej Babiš"
         ]
       },
       {
@@ -537,18 +349,6 @@
         ],
         "raw_values": [
           "c. 870"
-        ]
-      },
-      {
-        "label": "kingdom_of_bohemia",
-        "children": [
-          {
-            "label": "1198",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1198"
         ]
       },
       {
@@ -899,46 +699,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Czech",
-            "children": []
-          },
-          {
-            "label": "koruna",
-            "children": []
-          },
-          {
-            "label": "CZK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Czech koruna ( CZK )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -956,62 +716,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "d",
-            "children": []
-          },
-          {
-            "label": "m",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "d. m. yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "420",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+420"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CZ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CZ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "cz",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".cz"
         ]
       }
     ]

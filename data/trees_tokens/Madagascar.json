@@ -4,219 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Fitiavana",
-            "children": []
-          },
-          {
-            "label": "Tanindrazana",
-            "children": []
-          },
-          {
-            "label": "Fandrosoana",
-            "children": []
-          },
-          {
-            "label": "Malagasy",
-            "children": []
-          },
-          {
-            "label": "Amour",
-            "children": []
-          },
-          {
-            "label": "Patrie",
-            "children": []
-          },
-          {
-            "label": "Progr",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Love",
-            "children": []
-          },
-          {
-            "label": "Fatherland",
-            "children": []
-          },
-          {
-            "label": "Progress",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Fitiavana, Tanindrazana, Fandrosoana (Malagasy) Amour, Patrie, Progrès (French) \"Love, Fatherland, Progress\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Ry",
-            "children": []
-          },
-          {
-            "label": "Tanindrazanay",
-            "children": []
-          },
-          {
-            "label": "malala",
-            "children": []
-          },
-          {
-            "label": "Malagasy",
-            "children": []
-          },
-          {
-            "label": "Terre",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "nos",
-            "children": []
-          },
-          {
-            "label": "anc",
-            "children": []
-          },
-          {
-            "label": "tres",
-            "children": []
-          },
-          {
-            "label": "bien",
-            "children": []
-          },
-          {
-            "label": "aim",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Oh",
-            "children": []
-          },
-          {
-            "label": "land",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "our",
-            "children": []
-          },
-          {
-            "label": "beloved",
-            "children": []
-          },
-          {
-            "label": "ancestors",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ry Tanindrazanay malala ô ! (Malagasy) Ô Terre de nos ancêtres bien-aimés! (French) \"Oh, land of our beloved ancestors!\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Antananarivo",
             "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "917",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "917",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
           }
         ],
         "raw_values": [
-          "Antananarivo 18°55′S 47°31′E / 18.917°S 47.517°E / -18.917; 47.517"
+          "Antananarivo"
         ]
       },
       {
@@ -424,18 +220,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Malagasy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Malagasy"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -473,34 +257,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic under a transitional government"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Michael",
-            "children": []
-          },
-          {
-            "label": "Randrianirina",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Michael Randrianirina"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Vacant",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Vacant"
         ]
       },
       {
@@ -548,58 +304,6 @@
         ]
       },
       {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "1540",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "c. 1540"
-        ]
-      },
-      {
-        "label": "french_protectorate",
-        "children": [
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "1882",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "c. 1882"
-        ]
-      },
-      {
-        "label": "french_colony",
-        "children": [
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1896",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "6 August 1896"
-        ]
-      },
-      {
         "label": "republic_proclaimed",
         "children": [
           {
@@ -617,26 +321,6 @@
         ],
         "raw_values": [
           "14 October 1958"
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "26 June 1960"
         ]
       },
       {
@@ -1113,98 +797,6 @@
         ],
         "raw_values": [
           "0.487 low ( 183rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Ariary",
-            "children": []
-          },
-          {
-            "label": "MGA",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ariary ( MGA )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "EAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( EAT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "261",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+261"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MG",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MG"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "mg",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".mg"
         ]
       }
     ]

@@ -4,131 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Bundeshymne",
-            "children": []
-          },
-          {
-            "label": "der",
-            "children": []
-          },
-          {
-            "label": "Republik",
-            "children": []
-          },
-          {
-            "label": "sterreich",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Austria",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Bundeshymne der Republik Österreich \" National Anthem of the Republic of Austria"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Vienna",
             "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "200",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "350",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "200",
-            "children": []
-          },
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "350",
-            "children": []
           }
         ],
         "raw_values": [
-          "Vienna 48°12′N 16°21′E / 48.200°N 16.350°E / 48.200; 16.350"
+          "Vienna"
         ]
       },
       {
@@ -312,18 +196,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Austrian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Austrian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -345,46 +217,6 @@
         ],
         "raw_values": [
           "Federal semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Alexander",
-            "children": []
-          },
-          {
-            "label": "Van",
-            "children": []
-          },
-          {
-            "label": "der",
-            "children": []
-          },
-          {
-            "label": "Bellen",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Alexander Van der Bellen"
-        ]
-      },
-      {
-        "label": "chancellor",
-        "children": [
-          {
-            "label": "Christian",
-            "children": []
-          },
-          {
-            "label": "Stocker",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Christian Stocker"
         ]
       },
       {
@@ -927,42 +759,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -980,42 +776,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "43",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+43"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "AT"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "at",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".at"
         ]
       }
     ]

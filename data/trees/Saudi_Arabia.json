@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "لَا إِلهَ إِلَّا اللَّهُ، مُحَمَّدٌ رَسُولُ اللَّهِ Lā ʾilāha ʾillā llāh, Muhammadun rasūlu llāh ( Shahada ) \"There is no god but God ; Muhammad is the messenger of God \"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "النشيد الوطني السعودي an-Našīd al-Waṭaniyy as-Suʿūdiyy \"Chant of the Saudi Nation\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Riyadh 24°39′N 46°46′E / 24.650°N 46.767°E / 24.650; 46.767",
+            "label": "Riyadh",
             "children": []
           }
         ]
@@ -49,28 +31,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Saudi Saudi Arabian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary Islamic absolute monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "king",
-        "children": [
-          {
-            "label": "Salman",
             "children": []
           }
         ]
@@ -89,69 +53,6 @@
         "children": [
           {
             "label": "Consultative Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "emirate_of_diriyah",
-        "children": [
-          {
-            "label": "22 February 1727",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "emirate_of_nejd",
-        "children": [
-          {
-            "label": "1824",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "emirate_of_riyadh",
-        "children": [
-          {
-            "label": "13 January 1902",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "emirate_of_nejd_and_hasa",
-        "children": [
-          {
-            "label": "15 January 1913",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "sultanate_of_nejd",
-        "children": [
-          {
-            "label": "29 November 1921",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_hejaz_and_nejd",
-        "children": [
-          {
-            "label": "8 January 1926",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "unification_and_proclamation_of_the_kingdom_of_saudi_arabia",
-        "children": [
-          {
-            "label": "23 September 1932",
             "children": []
           }
         ]
@@ -254,51 +155,6 @@
         "children": [
           {
             "label": "0.900 very high ( 37th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Saudi riyal (SR) ( SAR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( SAST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+966",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".sa السعودية.",
             "children": []
           }
         ]

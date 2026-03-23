@@ -4,167 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Belarusian",
-            "children": []
-          },
-          {
-            "label": "Dziar",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "ny",
-            "children": []
-          },
-          {
-            "label": "Himn",
-            "children": []
-          },
-          {
-            "label": "Respubliki",
-            "children": []
-          },
-          {
-            "label": "Bie",
-            "children": []
-          },
-          {
-            "label": "aru",
-            "children": []
-          },
-          {
-            "label": "Russian",
-            "children": []
-          },
-          {
-            "label": "Gosudarstvennyy",
-            "children": []
-          },
-          {
-            "label": "gimn",
-            "children": []
-          },
-          {
-            "label": "Respubliki",
-            "children": []
-          },
-          {
-            "label": "Belarus",
-            "children": []
-          },
-          {
-            "label": "State",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Belarus",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Дзяржаўны гімн Рэспублікі Беларусь (Belarusian) Dziaržaŭny Himn Respubliki Biełaruś Государственный гимн Республики Беларусь (Russian) Gosudarstvennyy gimn Respubliki Belarus \" State Anthem of the Republic of Belarus \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Minsk",
             "children": []
-          },
-          {
-            "label": "53",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "53",
-            "children": []
-          },
-          {
-            "label": "917",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "550",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "53",
-            "children": []
-          },
-          {
-            "label": "917",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "550",
-            "children": []
           }
         ],
         "raw_values": [
-          "Minsk 53°55′N 27°33′E / 53.917°N 27.550°E / 53.917; 27.550"
+          "Minsk"
         ]
       },
       {
@@ -356,18 +204,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Belarusian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Belarusian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -405,38 +241,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic under an authoritarian dictatorship"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Alexander",
-            "children": []
-          },
-          {
-            "label": "Lukashenko",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Alexander Lukashenko"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Alexander",
-            "children": []
-          },
-          {
-            "label": "Turchin",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Alexander Turchin"
         ]
       },
       {
@@ -549,26 +353,6 @@
         ],
         "raw_values": [
           "31 July 1920"
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "25 August 1991"
         ]
       },
       {
@@ -920,102 +704,6 @@
         ],
         "raw_values": [
           "0.824 very high ( 65th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Belarusian",
-            "children": []
-          },
-          {
-            "label": "ruble",
-            "children": []
-          },
-          {
-            "label": "BYN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Belarusian ruble ( BYN )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "MSK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( MSK )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd.mm.yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "375",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+375"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BY"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "by",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".by .бел"
         ]
       }
     ]

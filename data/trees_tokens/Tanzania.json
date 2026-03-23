@@ -4,143 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Uhuru",
-            "children": []
-          },
-          {
-            "label": "na",
-            "children": []
-          },
-          {
-            "label": "Umoja",
-            "children": []
-          },
-          {
-            "label": "Freedom",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Uhuru na Umoja\" \"Freedom and Unity"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Mungu",
-            "children": []
-          },
-          {
-            "label": "ibariki",
-            "children": []
-          },
-          {
-            "label": "Afrika",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "bless",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mungu ibariki Afrika \" \"God bless Africa"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Dodoma",
             "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "733",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "733",
-            "children": []
           }
         ],
         "raw_values": [
-          "Dodoma 6°10′S 35°44′E / 6.167°S 35.733°E / -6.167; 35.733"
+          "Dodoma"
         ]
       },
       {
@@ -157,74 +29,10 @@
           {
             "label": "Salaam",
             "children": []
-          },
-          {
-            "label": "06",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "800",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "267",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "800",
-            "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "267",
-            "children": []
           }
         ],
         "raw_values": [
-          "Dar es Salaam 06°48′S 39°16′E / 6.800°S 39.267°E / -6.800; 39.267"
+          "Dar es Salaam"
         ]
       },
       {
@@ -420,18 +228,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Tanzanian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tanzanian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -460,26 +256,6 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Samia",
-            "children": []
-          },
-          {
-            "label": "Suluhu",
-            "children": []
-          },
-          {
-            "label": "Hassan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Samia Suluhu Hassan"
-        ]
-      },
-      {
         "label": "vicepresident",
         "children": [
           {
@@ -493,22 +269,6 @@
         ],
         "raw_values": [
           "Emmanuel Nchimbi"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mwigulu",
-            "children": []
-          },
-          {
-            "label": "Nchemba",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mwigulu Nchemba"
         ]
       },
       {
@@ -936,90 +696,6 @@
         ],
         "raw_values": [
           "0.555 medium ( 165th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Tanzanian",
-            "children": []
-          },
-          {
-            "label": "shilling",
-            "children": []
-          },
-          {
-            "label": "TZS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tanzanian shilling ( TZS )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "East",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Time",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( East Africa Time )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "255",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+255"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TZ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "TZ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "tz",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".tz"
         ]
       }
     ]

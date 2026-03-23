@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Faʻavae i le Atua Sāmoa \"Samoa is founded on God\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "O Le Fuʻa o le Saʻolotoga o Sāmoa \"The Banner of Freedom\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Apia 13°50′00′′S 171°45′44′′W / 13.83333°S 171.76222°W / -13.83333; -171.76222",
+            "label": "Apia",
             "children": []
           }
         ]
@@ -58,15 +40,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Samoan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -80,15 +53,6 @@
         "children": [
           {
             "label": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Laʻauli Leuatea Schmidt",
             "children": []
           }
         ]
@@ -143,15 +107,6 @@
         "children": [
           {
             "label": "30 August 1914",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "league_mandate",
-        "children": [
-          {
-            "label": "17 December 1920",
             "children": []
           }
         ]
@@ -263,60 +218,6 @@
         "children": [
           {
             "label": "0.708 high ( 122nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Tālā (WS $ ) ( WST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +13 ( WST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+685",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "WS",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ws",
             "children": []
           }
         ]

@@ -4,159 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Du",
-            "children": []
-          },
-          {
-            "label": "gamla",
-            "children": []
-          },
-          {
-            "label": "du",
-            "children": []
-          },
-          {
-            "label": "fria",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Thou",
-            "children": []
-          },
-          {
-            "label": "ancient",
-            "children": []
-          },
-          {
-            "label": "Thou",
-            "children": []
-          },
-          {
-            "label": "free",
-            "children": []
-          },
-          {
-            "label": "Royal",
-            "children": []
-          },
-          {
-            "label": "anthem",
-            "children": []
-          },
-          {
-            "label": "Kungss",
-            "children": []
-          },
-          {
-            "label": "ngen",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "Song",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Du gamla, du fria \" (English: \"Thou ancient, Thou free\" ) Royal anthem : \" Kungssången \" (English: \"The King's Song\")"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Stockholm",
             "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "350",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "067",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "350",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "067",
-            "children": []
           }
         ],
         "raw_values": [
-          "Stockholm 59°21′N 18°4′E / 59.350°N 18.067°E / 59.350; 18.067"
+          "Stockholm"
         ]
       },
       {
@@ -205,22 +61,6 @@
         ],
         "raw_values": [
           "Sámi Finnish Meänkieli Romani Yiddish"
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Swedish",
-            "children": []
-          },
-          {
-            "label": "Swede",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Swedish Swede"
         ]
       },
       {
@@ -288,22 +128,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ulf",
-            "children": []
-          },
-          {
-            "label": "Kristersson",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ulf Kristersson"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -313,34 +137,6 @@
         ],
         "raw_values": [
           "Riksdag"
-        ]
-      },
-      {
-        "label": "a_unified_swedish_kingdom_established",
-        "children": [
-          {
-            "label": "By",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "late",
-            "children": []
-          },
-          {
-            "label": "10th",
-            "children": []
-          },
-          {
-            "label": "century",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "By the late 10th century"
         ]
       },
       {
@@ -671,46 +467,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Swedish",
-            "children": []
-          },
-          {
-            "label": "krona",
-            "children": []
-          },
-          {
-            "label": "SEK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Swedish krona ( SEK )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -728,42 +484,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "46",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+46"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "SE"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "se",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".se"
         ]
       }
     ]

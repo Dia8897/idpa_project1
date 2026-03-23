@@ -4,166 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "In",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "Trust",
-            "children": []
-          },
-          {
-            "label": "Other",
-            "children": []
-          },
-          {
-            "label": "traditional",
-            "children": []
-          },
-          {
-            "label": "mottos",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "pluribus",
-            "children": []
-          },
-          {
-            "label": "unum",
-            "children": []
-          },
-          {
-            "label": "Latin",
-            "children": []
-          },
-          {
-            "label": "Out",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "many",
-            "children": []
-          },
-          {
-            "label": "one",
-            "children": []
-          },
-          {
-            "label": "Annuit",
-            "children": []
-          },
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "ptis",
-            "children": []
-          },
-          {
-            "label": "Latin",
-            "children": []
-          },
-          {
-            "label": "Providence",
-            "children": []
-          },
-          {
-            "label": "favors",
-            "children": []
-          },
-          {
-            "label": "our",
-            "children": []
-          },
-          {
-            "label": "undertakings",
-            "children": []
-          },
-          {
-            "label": "Novus",
-            "children": []
-          },
-          {
-            "label": "ordo",
-            "children": []
-          },
-          {
-            "label": "seclorum",
-            "children": []
-          },
-          {
-            "label": "Latin",
-            "children": []
-          },
-          {
-            "label": "New",
-            "children": []
-          },
-          {
-            "label": "order",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "ages",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "In God We Trust \" Other traditional mottos: \" E pluribus unum \" ( Latin ) \"Out of many, one\" \" Annuit cœptis \" ( Latin ) \"Providence favors our undertakings\" \" Novus ordo seclorum \" ( Latin ) \"New order of the ages"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Star",
-            "children": []
-          },
-          {
-            "label": "Spangled",
-            "children": []
-          },
-          {
-            "label": "Banner",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "The Star-Spangled Banner"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -177,74 +17,10 @@
           {
             "label": "C",
             "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "53",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "77",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "883",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "77",
-            "children": []
-          },
-          {
-            "label": "017",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "883",
-            "children": []
-          },
-          {
-            "label": "77",
-            "children": []
-          },
-          {
-            "label": "017",
-            "children": []
           }
         ],
         "raw_values": [
-          "Washington, D.C. 38°53′N 77°1′W / 38.883°N 77.017°W / 38.883; -77.017"
+          "Washington, D.C."
         ]
       },
       {
@@ -261,74 +37,10 @@
           {
             "label": "City",
             "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "74",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "717",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "74",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "717",
-            "children": []
-          },
-          {
-            "label": "74",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
           }
         ],
         "raw_values": [
-          "New York City 40°43′N 74°0′W / 40.717°N 74.000°W / 40.717; -74.000"
+          "New York City"
         ]
       },
       {
@@ -600,18 +312,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "American",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "American"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -629,38 +329,6 @@
         ],
         "raw_values": [
           "Federal presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Donald",
-            "children": []
-          },
-          {
-            "label": "Trump",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Donald Trump"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "JD",
-            "children": []
-          },
-          {
-            "label": "Vance",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "JD Vance"
         ]
       },
       {
@@ -781,38 +449,6 @@
         ],
         "raw_values": [
           "July 4, 1776 ; 249 years ago ( 1776-07-04 )"
-        ]
-      },
-      {
-        "label": "confederation",
-        "children": [
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "1781",
-            "children": []
-          },
-          {
-            "label": "1781",
-            "children": []
-          },
-          {
-            "label": "03",
-            "children": []
-          },
-          {
-            "label": "01",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "March 1, 1781 ( 1781-03-01 )"
         ]
       },
       {
@@ -1250,62 +886,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "U",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "USD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "U.S. dollar ( $ ) ( USD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −4 to −12 , +10 , +11"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -1327,66 +907,6 @@
         ],
         "raw_values": [
           "UTC −4 to −10"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "mm / dd / yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+1"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "US",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "US"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "com",
-            "children": []
-          },
-          {
-            "label": "us",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".com , .us"
         ]
       }
     ]

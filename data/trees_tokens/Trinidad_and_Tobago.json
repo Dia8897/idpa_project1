@@ -4,70 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Together",
-            "children": []
-          },
-          {
-            "label": "we",
-            "children": []
-          },
-          {
-            "label": "aspire",
-            "children": []
-          },
-          {
-            "label": "together",
-            "children": []
-          },
-          {
-            "label": "we",
-            "children": []
-          },
-          {
-            "label": "achieve",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Together we aspire, together we achieve"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Forged",
-            "children": []
-          },
-          {
-            "label": "from",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Love",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Liberty",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Forged from the Love of Liberty"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -81,82 +17,10 @@
           {
             "label": "Spain",
             "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "01",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "61",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "667",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "61",
-            "children": []
-          },
-          {
-            "label": "5075",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "667",
-            "children": []
-          },
-          {
-            "label": "61",
-            "children": []
-          },
-          {
-            "label": "5075",
-            "children": []
           }
         ],
         "raw_values": [
-          "Port of Spain 10°40′01′′N 61°30′27′′W / 10.667°N 61.5075°W / 10.667; -61.5075"
+          "Port of Spain"
         ]
       },
       {
@@ -340,42 +204,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Trinidadians",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Tobagonians",
-            "children": []
-          },
-          {
-            "label": "Trini",
-            "children": []
-          },
-          {
-            "label": "or",
-            "children": []
-          },
-          {
-            "label": "Trinbagonian",
-            "children": []
-          },
-          {
-            "label": "colloquial",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Trinidadians and Tobagonians Trini or Trinbagonian (colloquial)"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -393,42 +221,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Christine",
-            "children": []
-          },
-          {
-            "label": "Kangaloo",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Christine Kangaloo"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Kamla",
-            "children": []
-          },
-          {
-            "label": "Persad",
-            "children": []
-          },
-          {
-            "label": "Bissessar",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kamla Persad-Bissessar"
         ]
       },
       {
@@ -521,58 +313,6 @@
         ],
         "raw_values": [
           "House of Representatives"
-        ]
-      },
-      {
-        "label": "province_of_the_west_indies_federation",
-        "children": [
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1958",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1962",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "3 January 1958 – 14 January 1962"
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1962",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "31 August 1962"
         ]
       },
       {
@@ -884,110 +624,6 @@
         ],
         "raw_values": [
           "0.807 very high ( 72nd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Trinidad",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Tobago",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "TTD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Trinidad and Tobago dollar ( TTD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC -4 ( AST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+1"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "TT"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "tt",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".tt"
         ]
       }
     ]

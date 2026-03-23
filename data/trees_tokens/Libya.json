@@ -4,99 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Libya",
-            "children": []
-          },
-          {
-            "label": "Libya",
-            "children": []
-          },
-          {
-            "label": "Libya",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ليبيا، ليبيا، ليبيا \" Libya, Libya, Libya \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Tripoli",
             "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "867",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "183",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "867",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "183",
-            "children": []
           }
         ],
         "raw_values": [
-          "Tripoli 32°52′N 13°11′E / 32.867°N 13.183°E / 32.867; 13.183"
+          "Tripoli"
         ]
       },
       {
@@ -228,18 +144,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Libyan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Libyan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -316,26 +220,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Abdul",
-            "children": []
-          },
-          {
-            "label": "Hamid",
-            "children": []
-          },
-          {
-            "label": "Dbeibeh",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Abdul Hamid Dbeibeh"
-        ]
-      },
-      {
         "label": "speaker_of_the_house_of_representatives",
         "children": [
           {
@@ -392,18 +276,6 @@
         ]
       },
       {
-        "label": "ottoman_tripolitania",
-        "children": [
-          {
-            "label": "1551",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1551"
-        ]
-      },
-      {
         "label": "italian_invasion_of_libya",
         "children": [
           {
@@ -449,26 +321,6 @@
         ],
         "raw_values": [
           "16 November 1918"
-        ]
-      },
-      {
-        "label": "kingdom_of_libya",
-        "children": [
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1951",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "24 December 1951"
         ]
       },
       {
@@ -804,82 +656,6 @@
         ],
         "raw_values": [
           "0.721 high ( 115th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Libyan",
-            "children": []
-          },
-          {
-            "label": "dinar",
-            "children": []
-          },
-          {
-            "label": "LYD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Libyan dinar ( LYD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "EET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( EET )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "218",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+218"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "LY"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ly",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ly ليبيا."
         ]
       }
     ]

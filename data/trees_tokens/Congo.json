@@ -4,171 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unit",
-            "children": []
-          },
-          {
-            "label": "Travail",
-            "children": []
-          },
-          {
-            "label": "Progr",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "Work",
-            "children": []
-          },
-          {
-            "label": "Progress",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\"Unité, Travail, Progrès\" (French) (English: \"Unity, Work, Progress\" )"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "La",
-            "children": []
-          },
-          {
-            "label": "Congolaise",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Besi",
-            "children": []
-          },
-          {
-            "label": "K",
-            "children": []
-          },
-          {
-            "label": "ngo",
-            "children": []
-          },
-          {
-            "label": "Kongo",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Congolese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" La Congolaise \" (French) Besi Kôngo ( Kongo ) (English: \"The Congolese\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Brazzaville",
             "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "267",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "283",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "267",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "283",
-            "children": []
           }
         ],
         "raw_values": [
-          "Brazzaville 4°16′S 15°17′E / 4.267°S 15.283°E / -4.267; 15.283"
+          "Brazzaville"
         ]
       },
       {
@@ -348,22 +192,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Congolese",
-            "children": []
-          },
-          {
-            "label": "Congo",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Congolese Congo"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -397,46 +225,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic under a dictatorship"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Denis",
-            "children": []
-          },
-          {
-            "label": "Sassou",
-            "children": []
-          },
-          {
-            "label": "Nguesso",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Denis Sassou Nguesso"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Anatole",
-            "children": []
-          },
-          {
-            "label": "Collinet",
-            "children": []
-          },
-          {
-            "label": "Makosso",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Anatole Collinet Makosso"
         ]
       },
       {
@@ -509,26 +297,6 @@
         ],
         "raw_values": [
           "National Assembly"
-        ]
-      },
-      {
-        "label": "republic_established",
-        "children": [
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1958",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "28 November 1958"
         ]
       },
       {
@@ -840,90 +608,6 @@
         ],
         "raw_values": [
           "0.649 medium ( 138th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Central",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "CFA",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "XAF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Central African CFA franc ( XAF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "WAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( WAT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "242",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+242"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CG",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CG"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "cg",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".cg"
         ]
       }
     ]

@@ -4,211 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Fa",
-            "children": []
-          },
-          {
-            "label": "avae",
-            "children": []
-          },
-          {
-            "label": "i",
-            "children": []
-          },
-          {
-            "label": "le",
-            "children": []
-          },
-          {
-            "label": "Atua",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "moa",
-            "children": []
-          },
-          {
-            "label": "Samoa",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "founded",
-            "children": []
-          },
-          {
-            "label": "on",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Faʻavae i le Atua Sāmoa \"Samoa is founded on God\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "O",
-            "children": []
-          },
-          {
-            "label": "Le",
-            "children": []
-          },
-          {
-            "label": "Fu",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          },
-          {
-            "label": "le",
-            "children": []
-          },
-          {
-            "label": "Sa",
-            "children": []
-          },
-          {
-            "label": "olotoga",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "moa",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Banner",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Freedom",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "O Le Fuʻa o le Saʻolotoga o Sāmoa \"The Banner of Freedom\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Apia",
             "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "171",
-            "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "83333",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "171",
-            "children": []
-          },
-          {
-            "label": "76222",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "83333",
-            "children": []
-          },
-          {
-            "label": "171",
-            "children": []
-          },
-          {
-            "label": "76222",
-            "children": []
           }
         ],
         "raw_values": [
-          "Apia 13°50′00′′S 171°45′44′′W / 13.83333°S 171.76222°W / -13.83333; -171.76222"
+          "Apia"
         ]
       },
       {
@@ -388,18 +192,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Samoan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Samoan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -453,30 +245,6 @@
         ],
         "raw_values": [
           "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "La",
-            "children": []
-          },
-          {
-            "label": "auli",
-            "children": []
-          },
-          {
-            "label": "Leuatea",
-            "children": []
-          },
-          {
-            "label": "Schmidt",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Laʻauli Leuatea Schmidt"
         ]
       },
       {
@@ -597,26 +365,6 @@
         ],
         "raw_values": [
           "30 August 1914"
-        ]
-      },
-      {
-        "label": "league_mandate",
-        "children": [
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1920",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "17 December 1920"
         ]
       },
       {
@@ -904,106 +652,6 @@
         ],
         "raw_values": [
           "0.708 high ( 122nd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "T",
-            "children": []
-          },
-          {
-            "label": "l",
-            "children": []
-          },
-          {
-            "label": "WS",
-            "children": []
-          },
-          {
-            "label": "WST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tālā (WS $ ) ( WST )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "WST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +13 ( WST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "685",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+685"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "WS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "WS"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ws",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ws"
         ]
       }
     ]

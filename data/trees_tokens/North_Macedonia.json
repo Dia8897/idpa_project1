@@ -4,103 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Macedonian",
-            "children": []
-          },
-          {
-            "label": "Today",
-            "children": []
-          },
-          {
-            "label": "over",
-            "children": []
-          },
-          {
-            "label": "Macedonia",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Денес над Македонија (Macedonian) \"Today over Macedonia\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Skopje",
             "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "433",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "433",
-            "children": []
           }
         ],
         "raw_values": [
-          "Skopje 42°0′N 21°26′E / 42.000°N 21.433°E / 42.000; 21.433"
+          "Skopje"
         ]
       },
       {
@@ -444,18 +356,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Macedonian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Macedonian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -473,42 +373,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Gordana",
-            "children": []
-          },
-          {
-            "label": "Siljanovska",
-            "children": []
-          },
-          {
-            "label": "Davkova",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Gordana Siljanovska-Davkova"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Hristijan",
-            "children": []
-          },
-          {
-            "label": "Mickoski",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Hristijan Mickoski"
         ]
       },
       {
@@ -557,26 +421,6 @@
         ],
         "raw_values": [
           "2 August 1944"
-        ]
-      },
-      {
-        "label": "independence_referendum",
-        "children": [
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "8 September 1991"
         ]
       },
       {
@@ -855,46 +699,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Macedonian",
-            "children": []
-          },
-          {
-            "label": "denar",
-            "children": []
-          },
-          {
-            "label": "MKD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Macedonian denar ( MKD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -912,42 +716,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "389",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+389"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MK"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "mk",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".mk .мкд"
         ]
       }
     ]

@@ -4,223 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "All",
-            "children": []
-          },
-          {
-            "label": "hu",
-            "children": []
-          },
-          {
-            "label": "Akbar",
-            "children": []
-          },
-          {
-            "label": "Takbir",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Greatest",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "jure",
-            "children": []
-          },
-          {
-            "label": "Esteql",
-            "children": []
-          },
-          {
-            "label": "l",
-            "children": []
-          },
-          {
-            "label": "z",
-            "children": []
-          },
-          {
-            "label": "di",
-            "children": []
-          },
-          {
-            "label": "Jomhuri",
-            "children": []
-          },
-          {
-            "label": "ye",
-            "children": []
-          },
-          {
-            "label": "Esl",
-            "children": []
-          },
-          {
-            "label": "mi",
-            "children": []
-          },
-          {
-            "label": "Independence",
-            "children": []
-          },
-          {
-            "label": "freedom",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Islamic",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "facto",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "اَللَّٰهُ أَكْبَرُ Allāhu ʾAkbar ( Takbir ) \" God is the Greatest\" ( de jure ) استقلال، آزادی، جمهوری اسلامی Esteqlâl, zâdi, Jomhuri-ye Eslâmi \"Independence, freedom, the Islamic Republic\" ( de facto )"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Mehr",
-            "children": []
-          },
-          {
-            "label": "e",
-            "children": []
-          },
-          {
-            "label": "Kh",
-            "children": []
-          },
-          {
-            "label": "var",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "Eastern",
-            "children": []
-          },
-          {
-            "label": "Sun",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "مهر خاوران Mehr-e Khâvarân \"Eastern Sun\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Tehran",
             "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "683",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "417",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "683",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "417",
-            "children": []
           }
         ],
         "raw_values": [
-          "Tehran 35°41′N 51°25′E / 35.683°N 51.417°E / 35.683; 51.417"
+          "Tehran"
         ]
       },
       {
@@ -233,18 +25,6 @@
         ],
         "raw_values": [
           "Persian"
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Iranian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Iranian"
         ]
       },
       {
@@ -305,42 +85,6 @@
         ],
         "raw_values": [
           "Mojtaba Khamenei"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Masoud",
-            "children": []
-          },
-          {
-            "label": "Pezeshkian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Masoud Pezeshkian"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Mohammad",
-            "children": []
-          },
-          {
-            "label": "Reza",
-            "children": []
-          },
-          {
-            "label": "Aref",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mohammad Reza Aref"
         ]
       },
       {
@@ -409,26 +153,6 @@
         ],
         "raw_values": [
           "Islamic Consultative Assembly"
-        ]
-      },
-      {
-        "label": "median_kingdom",
-        "children": [
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "678",
-            "children": []
-          },
-          {
-            "label": "BC",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "c. 678 BC"
         ]
       },
       {
@@ -948,86 +672,6 @@
         ],
         "raw_values": [
           "0.799 high ( 75th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Iranian",
-            "children": []
-          },
-          {
-            "label": "rial",
-            "children": []
-          },
-          {
-            "label": "IRR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Iranian rial ( ریال ) ( IRR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "IRST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3:30 ( IRST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "98",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+98"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "IR"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ir",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ir ایران."
         ]
       }
     ]

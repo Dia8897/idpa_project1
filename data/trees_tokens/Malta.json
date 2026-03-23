@@ -4,151 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Virtute",
-            "children": []
-          },
-          {
-            "label": "et",
-            "children": []
-          },
-          {
-            "label": "constantia",
-            "children": []
-          },
-          {
-            "label": "Latin",
-            "children": []
-          },
-          {
-            "label": "Strength",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "persistence",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Virtute et constantia ( Latin ) \"Strength and persistence\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "L",
-            "children": []
-          },
-          {
-            "label": "Innu",
-            "children": []
-          },
-          {
-            "label": "Malti",
-            "children": []
-          },
-          {
-            "label": "Maltese",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Maltese",
-            "children": []
-          },
-          {
-            "label": "Hymn",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "L-Innu Malti ( Maltese ) \"The Maltese Hymn\""
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Valletta",
             "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "54",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "900",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "900",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
           }
         ],
         "raw_values": [
-          "Valletta 35°54′N 14°31′E / 35.900°N 14.517°E / 35.900; 14.517"
+          "Valletta"
         ]
       },
       {
@@ -336,18 +200,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Maltese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Maltese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -365,42 +217,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Myriam",
-            "children": []
-          },
-          {
-            "label": "Spiteri",
-            "children": []
-          },
-          {
-            "label": "Debono",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Myriam Spiteri Debono"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Robert",
-            "children": []
-          },
-          {
-            "label": "Abela",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Robert Abela"
         ]
       },
       {
@@ -731,42 +547,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -784,42 +564,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "356",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+356"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MT"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "mt",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".mt"
         ]
       },
       {

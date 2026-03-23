@@ -4,82 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "En",
-            "children": []
-          },
-          {
-            "label": "uni",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "y",
-            "children": []
-          },
-          {
-            "label": "libertad",
-            "children": []
-          },
-          {
-            "label": "In",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Freedom",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "En unión y libertad \"In Union and Freedom\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno",
-            "children": []
-          },
-          {
-            "label": "Nacional",
-            "children": []
-          },
-          {
-            "label": "Argentino",
-            "children": []
-          },
-          {
-            "label": "Argentine",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himno Nacional Argentino \"Argentine National Anthem\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -89,74 +13,10 @@
           {
             "label": "Aires",
             "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "600",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "600",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
           }
         ],
         "raw_values": [
-          "Buenos Aires 34°36′S 58°23′W / 34.600°S 58.383°W / -34.600; -58.383"
+          "Buenos Aires"
         ]
       },
       {
@@ -312,26 +172,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Argentine",
-            "children": []
-          },
-          {
-            "label": "Argentinian",
-            "children": []
-          },
-          {
-            "label": "Argentinean",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Argentine Argentinian Argentinean"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -349,38 +189,6 @@
         ],
         "raw_values": [
           "Federal presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Javier",
-            "children": []
-          },
-          {
-            "label": "Milei",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Javier Milei"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Victoria",
-            "children": []
-          },
-          {
-            "label": "Villarruel",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Victoria Villarruel"
         ]
       },
       {
@@ -860,110 +668,6 @@
         ],
         "raw_values": [
           "0.865 very high ( 47th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Argentine",
-            "children": []
-          },
-          {
-            "label": "peso",
-            "children": []
-          },
-          {
-            "label": "ARS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Argentine peso ( $ ) ( ARS )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "03",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "ART",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC – 03:00 ( ART )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "CE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd / mm / yyyy ( CE )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "54",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+54"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "AR"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ar",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ar"
         ]
       }
     ]

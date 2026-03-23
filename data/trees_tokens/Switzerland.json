@@ -60,22 +60,6 @@
         ]
       },
       {
-        "label": "romansh",
-        "children": [
-          {
-            "label": "Confederaziun",
-            "children": []
-          },
-          {
-            "label": "svizra",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Confederaziun svizra"
-        ]
-      },
-      {
         "label": "latin",
         "children": [
           {
@@ -93,82 +77,6 @@
         ],
         "raw_values": [
           "Confoederatio helvetica (CH)"
-        ]
-      },
-      {
-        "label": "motto",
-        "children": [
-          {
-            "label": "unofficial",
-            "children": []
-          },
-          {
-            "label": "Unus",
-            "children": []
-          },
-          {
-            "label": "pro",
-            "children": []
-          },
-          {
-            "label": "omnibus",
-            "children": []
-          },
-          {
-            "label": "omnes",
-            "children": []
-          },
-          {
-            "label": "pro",
-            "children": []
-          },
-          {
-            "label": "uno",
-            "children": []
-          },
-          {
-            "label": "One",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "all",
-            "children": []
-          },
-          {
-            "label": "all",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "one",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "(unofficial) \" Unus pro omnibus, omnes pro uno \" \"One for all, all for one\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Swiss",
-            "children": []
-          },
-          {
-            "label": "Psalm",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Swiss Psalm"
         ]
       },
       {
@@ -400,82 +308,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Swiss",
-            "children": []
-          },
-          {
-            "label": "German",
-            "children": []
-          },
-          {
-            "label": "Schweizer",
-            "children": []
-          },
-          {
-            "label": "Schweizerin",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Suisse",
-            "children": []
-          },
-          {
-            "label": "Suissesse",
-            "children": []
-          },
-          {
-            "label": "Italian",
-            "children": []
-          },
-          {
-            "label": "svizzero",
-            "children": []
-          },
-          {
-            "label": "svizzera",
-            "children": []
-          },
-          {
-            "label": "or",
-            "children": []
-          },
-          {
-            "label": "elvetico",
-            "children": []
-          },
-          {
-            "label": "elvetica",
-            "children": []
-          },
-          {
-            "label": "Romansh",
-            "children": []
-          },
-          {
-            "label": "Svizzer",
-            "children": []
-          },
-          {
-            "label": "Svizra",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "English: Swiss German: Schweizer/Schweizerin French: Suisse/Suissesse Italian : svizzero/svizzera or elvetico/elvetica Romansh : Svizzer/Svizra"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -657,26 +489,6 @@
         ],
         "raw_values": [
           "National Council"
-        ]
-      },
-      {
-        "label": "founded",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1291",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 August 1291"
         ]
       },
       {
@@ -1031,46 +843,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Swiss",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "CHF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Swiss franc ( CHF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -1088,70 +860,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "AD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd.mm.yyyy ( AD )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "41",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+41"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CH",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CH"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ch",
-            "children": []
-          },
-          {
-            "label": "swiss",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ch , .swiss"
         ]
       }
     ]

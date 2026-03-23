@@ -4,94 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Pro",
-            "children": []
-          },
-          {
-            "label": "Mundi",
-            "children": []
-          },
-          {
-            "label": "Beneficio",
-            "children": []
-          },
-          {
-            "label": "Latin",
-            "children": []
-          },
-          {
-            "label": "For",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Benefit",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "World",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Pro Mundi Beneficio ( Latin ) \"For the Benefit of the World\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno",
-            "children": []
-          },
-          {
-            "label": "Istme",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "Hymn",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Isthmus",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himno Istmeño (Spanish) \"Hymn of the Isthmus\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -101,74 +13,10 @@
           {
             "label": "City",
             "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "79",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "967",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "79",
-            "children": []
-          },
-          {
-            "label": "533",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "967",
-            "children": []
-          },
-          {
-            "label": "79",
-            "children": []
-          },
-          {
-            "label": "533",
-            "children": []
           }
         ],
         "raw_values": [
-          "Panama City 8°58′N 79°32′W / 8.967°N 79.533°W / 8.967; -79.533"
+          "Panama City"
         ]
       },
       {
@@ -408,18 +256,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Panamanian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Panamanian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -437,42 +273,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Jos",
-            "children": []
-          },
-          {
-            "label": "Ra",
-            "children": []
-          },
-          {
-            "label": "l",
-            "children": []
-          },
-          {
-            "label": "Mulino",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "José Raúl Mulino"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Vacant",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Vacant"
         ]
       },
       {
@@ -840,126 +640,6 @@
         ],
         "raw_values": [
           "0.839 very high ( 59th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Balboa",
-            "children": []
-          },
-          {
-            "label": "PAB",
-            "children": []
-          },
-          {
-            "label": "United",
-            "children": []
-          },
-          {
-            "label": "States",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "USD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Balboa ( PAB ) United States dollar ( USD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "EST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −5 ( EST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "mm/dd/yyyy dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "507",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+507"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PA",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "PA"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "pa",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".pa"
         ]
       }
     ]

@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Ubumwe, Umurimo, Gukunda Igihugu ( Kinyarwanda ) Unity, Work, Patriotism ( English ) Unité, Travail, Patriotisme ( French ) Umoja, Kazi, Uzalendo ( Swahili )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "\" Rwanda nziza \" (English: \"Beautiful Rwanda\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Kigali 1°56′38′′S 30°3′34′′E / 1.94389°S 30.05944°E / -1.94389; 30.05944",
+            "label": "Kigali",
             "children": []
           }
         ]
@@ -76,37 +58,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Rwandan Rwandese",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-presidential republic under an authoritarian dictatorship",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Paul Kagame",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Justin Nsengiyumva",
             "children": []
           }
         ]
@@ -148,15 +103,6 @@
         ]
       },
       {
-        "label": "kingdom_of_rwanda",
-        "children": [
-          {
-            "label": "15th century",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "part_of_german_east_africa",
         "children": [
           {
@@ -188,15 +134,6 @@
         "children": [
           {
             "label": "28 January 1961",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_belgium",
-        "children": [
-          {
-            "label": "1 July 1962",
             "children": []
           }
         ]
@@ -317,60 +254,6 @@
         "children": [
           {
             "label": "0.578 medium ( 159th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Rwandan franc ( RWF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( CAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy ( AD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+250",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "RW",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".rw",
             "children": []
           }
         ]

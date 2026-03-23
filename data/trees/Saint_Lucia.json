@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "The Land, The People, The Light",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Sons and Daughters of Saint Lucia \" Royal anthem : \" God Save the King",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Castries 13°53′00′′N 60°58′00′′W / 13.88333°N 60.96667°W / 13.88333; -60.96667",
+            "label": "Castries",
             "children": []
           }
         ]
@@ -67,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Saint Lucian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -98,15 +71,6 @@
         "children": [
           {
             "label": "Errol Charles",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Philip J. Pierre",
             "children": []
           }
         ]
@@ -143,15 +107,6 @@
         "children": [
           {
             "label": "1 March 1967",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom",
-        "children": [
-          {
-            "label": "22 February 1979",
             "children": []
           }
         ]
@@ -254,60 +209,6 @@
         "children": [
           {
             "label": "0.748 high ( 103rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "East Caribbean dollar ( XCD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −4 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".lc",
             "children": []
           }
         ]

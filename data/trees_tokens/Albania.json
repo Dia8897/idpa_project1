@@ -4,142 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Ti",
-            "children": []
-          },
-          {
-            "label": "Shqip",
-            "children": []
-          },
-          {
-            "label": "ri",
-            "children": []
-          },
-          {
-            "label": "m",
-            "children": []
-          },
-          {
-            "label": "jep",
-            "children": []
-          },
-          {
-            "label": "nder",
-            "children": []
-          },
-          {
-            "label": "m",
-            "children": []
-          },
-          {
-            "label": "jep",
-            "children": []
-          },
-          {
-            "label": "emrin",
-            "children": []
-          },
-          {
-            "label": "Shqip",
-            "children": []
-          },
-          {
-            "label": "tar",
-            "children": []
-          },
-          {
-            "label": "You",
-            "children": []
-          },
-          {
-            "label": "Albania",
-            "children": []
-          },
-          {
-            "label": "you",
-            "children": []
-          },
-          {
-            "label": "give",
-            "children": []
-          },
-          {
-            "label": "me",
-            "children": []
-          },
-          {
-            "label": "honour",
-            "children": []
-          },
-          {
-            "label": "you",
-            "children": []
-          },
-          {
-            "label": "give",
-            "children": []
-          },
-          {
-            "label": "me",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "name",
-            "children": []
-          },
-          {
-            "label": "Albanian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ti Shqipëri, më jep nder, më jep emrin Shqipëtar \"You Albania, you give me honour, you give me the name Albanian\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himni",
-            "children": []
-          },
-          {
-            "label": "i",
-            "children": []
-          },
-          {
-            "label": "Flamurit",
-            "children": []
-          },
-          {
-            "label": "Hymn",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Flag",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himni i Flamurit \" \"Hymn to the Flag"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -193,70 +57,10 @@
           {
             "label": "E",
             "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "317",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "817",
-            "children": []
-          },
-          {
-            "label": "Country",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
           }
         ],
         "raw_values": [
-          "Tirana 41°19′N 19°49′E / 41.317°N 19.817°E / 41.317; 19.817 Country: 41°N 20°E / 41°N 20°E / 41; 20"
+          "Tirana 41°19′N 19°49′E / 41.317°N 19.817°E /"
         ]
       },
       {
@@ -484,18 +288,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Albanian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Albanian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -513,38 +305,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Bajram",
-            "children": []
-          },
-          {
-            "label": "Begaj",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bajram Begaj"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Edi",
-            "children": []
-          },
-          {
-            "label": "Rama",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Edi Rama"
         ]
       },
       {
@@ -605,35 +365,6 @@
         ],
         "raw_values": [
           "12th–15th centuries"
-        ]
-      },
-      {
-        "label": "kingdom_of_albania",
-        "children": [
-          {
-            "label": "February",
-            "children": []
-          },
-          {
-            "label": "1272",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1928",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "February 1272",
-          "1 September 1928"
         ]
       },
       {
@@ -715,26 +446,6 @@
         ],
         "raw_values": [
           "10 June 1878"
-        ]
-      },
-      {
-        "label": "independent_albania",
-        "children": [
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1912",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "28 November 1912"
         ]
       },
       {
@@ -1113,42 +824,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Lek",
-            "children": []
-          },
-          {
-            "label": "ALL",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Lek ( ALL )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -1166,42 +841,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "355",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+355"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AL",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "AL"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "al",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".al"
         ]
       }
     ]

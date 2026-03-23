@@ -4,46 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Gu",
-            "children": []
-          },
-          {
-            "label": "vors",
-            "children": []
-          },
-          {
-            "label": "lands",
-            "children": []
-          },
-          {
-            "label": "O",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ó Guð vors lands \"O God of Our Land\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -53,74 +13,10 @@
           {
             "label": "k",
             "children": []
-          },
-          {
-            "label": "64",
-            "children": []
-          },
-          {
-            "label": "08",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "64",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "933",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "64",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "933",
-            "children": []
           }
         ],
         "raw_values": [
-          "Reykjavík 64°08′N 21°56′W / 64.133°N 21.933°W / 64.133; -21.933"
+          "Reykjavík"
         ]
       },
       {
@@ -296,22 +192,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Icelander",
-            "children": []
-          },
-          {
-            "label": "Icelandic",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Icelander Icelandic"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -329,54 +209,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Halla",
-            "children": []
-          },
-          {
-            "label": "T",
-            "children": []
-          },
-          {
-            "label": "masd",
-            "children": []
-          },
-          {
-            "label": "ttir",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Halla Tómasdóttir"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Kristr",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "Frostad",
-            "children": []
-          },
-          {
-            "label": "ttir",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kristrún Frostadóttir"
         ]
       },
       {
@@ -900,114 +732,6 @@
         ],
         "raw_values": [
           "0.972 very high ( 1st )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Icelandic",
-            "children": []
-          },
-          {
-            "label": "kr",
-            "children": []
-          },
-          {
-            "label": "na",
-            "children": []
-          },
-          {
-            "label": "ISK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Icelandic króna ( ISK )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "GMT",
-            "children": []
-          },
-          {
-            "label": "WET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC ±00:00 ( GMT / WET )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd.mm.yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "354",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+354"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "IS"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "is",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".is"
         ]
       }
     ]

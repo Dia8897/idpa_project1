@@ -4,251 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Arabic",
-            "children": []
-          },
-          {
-            "label": "L",
-            "children": []
-          },
-          {
-            "label": "il",
-            "children": []
-          },
-          {
-            "label": "ha",
-            "children": []
-          },
-          {
-            "label": "ill",
-            "children": []
-          },
-          {
-            "label": "ll",
-            "children": []
-          },
-          {
-            "label": "h",
-            "children": []
-          },
-          {
-            "label": "Muhammadun",
-            "children": []
-          },
-          {
-            "label": "ras",
-            "children": []
-          },
-          {
-            "label": "lu",
-            "children": []
-          },
-          {
-            "label": "ll",
-            "children": []
-          },
-          {
-            "label": "h",
-            "children": []
-          },
-          {
-            "label": "There",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "no",
-            "children": []
-          },
-          {
-            "label": "god",
-            "children": []
-          },
-          {
-            "label": "but",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Muhammad",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "messenger",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Shahada",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "لَا إِلهَ إِلَّا اللَّهُ، مُحَمَّدٌ رَسُولُ اللَّهِ ( Arabic ) Lā ʾilāha ʾillā llāh, Muhammadun rasūlu llāh \"There is no god but God ; Muhammad is the messenger of God.\" ( Shahada )"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Pashto",
-            "children": []
-          },
-          {
-            "label": "D",
-            "children": []
-          },
-          {
-            "label": "D",
-            "children": []
-          },
-          {
-            "label": "B",
-            "children": []
-          },
-          {
-            "label": "tor",
-            "children": []
-          },
-          {
-            "label": "no",
-            "children": []
-          },
-          {
-            "label": "Kor",
-            "children": []
-          },
-          {
-            "label": "This",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Home",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Brave",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "دا د باتورانو کور ( Pashto ) Dā Də Bātorāno Kor \" This is the Home of the Brave \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Kabul",
             "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "69",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "69",
-            "children": []
-          },
-          {
-            "label": "183",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
-          },
-          {
-            "label": "69",
-            "children": []
-          },
-          {
-            "label": "183",
-            "children": []
           }
         ],
         "raw_values": [
-          "Kabul 34°31′N 69°11′E / 34.517°N 69.183°E / 34.517; 69.183"
+          "Kabul"
         ]
       },
       {
@@ -400,18 +164,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Afghan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Afghan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -456,22 +208,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Hasan",
-            "children": []
-          },
-          {
-            "label": "Akhund",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Hasan Akhund"
-        ]
-      },
-      {
         "label": "chief_justice",
         "children": [
           {
@@ -504,26 +240,6 @@
         ]
       },
       {
-        "label": "hotak_emirate",
-        "children": [
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "April",
-            "children": []
-          },
-          {
-            "label": "1709",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "21 April 1709"
-        ]
-      },
-      {
         "label": "durrani_empire",
         "children": [
           {
@@ -537,18 +253,6 @@
         ],
         "raw_values": [
           "June 1747"
-        ]
-      },
-      {
-        "label": "barakzai_emirate",
-        "children": [
-          {
-            "label": "1823",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1823"
         ]
       },
       {
@@ -569,46 +273,6 @@
         ],
         "raw_values": [
           "27 May 1863"
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1919",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "19 August 1919"
-        ]
-      },
-      {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1926",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "9 June 1926"
         ]
       },
       {
@@ -672,26 +336,6 @@
         ]
       },
       {
-        "label": "islamic_emirate",
-        "children": [
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1996",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "27 September 1996"
-        ]
-      },
-      {
         "label": "islamic_republic",
         "children": [
           {
@@ -709,26 +353,6 @@
         ],
         "raw_values": [
           "26 January 2004"
-        ]
-      },
-      {
-        "label": "restoration_of_islamic_emirate",
-        "children": [
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "2021",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "15 August 2021"
         ]
       },
       {
@@ -956,86 +580,6 @@
         ],
         "raw_values": [
           "0.496 low ( 181st )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Afghani",
-            "children": []
-          },
-          {
-            "label": "AFN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Afghani ( افغانى ) ( AFN )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "Lunar",
-            "children": []
-          },
-          {
-            "label": "Hijri",
-            "children": []
-          },
-          {
-            "label": "calendar",
-            "children": []
-          },
-          {
-            "label": "Afghanistan",
-            "children": []
-          },
-          {
-            "label": "Time",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +4:30 Lunar Hijri calendar ( Afghanistan Time )"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "AF"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "af",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".af"
         ]
       }
     ]

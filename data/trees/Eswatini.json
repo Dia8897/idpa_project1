@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Siyinqaba\" ( Swazi ) \"We are a fortress\" \"We are a mystery\" \"We hide ourselves away\" \"We are powerful ones",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Nkulunkulu Mnikati wetibusiso temaSwati \" \"Oh God, Giver of Blessings to the Swazi",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Mbabane (executive) Lobamba (legislative) 26°30′S 31°30′E / 26.500°S 31.500°E / -26.500; 31.500",
+            "label": "Mbabane (executive) Lobamba (legislative)",
             "children": []
           }
         ]
@@ -67,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Swazi",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -85,28 +58,10 @@
         ]
       },
       {
-        "label": "king",
-        "children": [
-          {
-            "label": "Mswati III",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "queen_mother",
         "children": [
           {
             "label": "Ntfombi",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Russell Dlamini",
             "children": []
           }
         ]
@@ -143,15 +98,6 @@
         "children": [
           {
             "label": "House of Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_granted",
-        "children": [
-          {
-            "label": "6 September 1968",
             "children": []
           }
         ]
@@ -281,51 +227,6 @@
         "children": [
           {
             "label": "0.695 medium ( 126th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Lilangeni (SZL) South African rand (ZAR)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( SAST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+268",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SZ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".sz",
             "children": []
           }
         ]

@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Rerevaka na Kalou ka Doka na Tui\" (Fijian) \"Fear God and honour the King",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "God Bless Fiji",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Suva 18°10′S 178°27′E / 18.167°S 178.450°E / -18.167; 178.450",
+            "label": "Suva",
             "children": []
           }
         ]
@@ -67,46 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Fijian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Naiqama Lalabalavu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Sitiveni Rabuka",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "deputy_prime_minister",
-        "children": [
-          {
-            "label": "Viliame Gavoka",
             "children": []
           }
         ]
@@ -134,15 +80,6 @@
         "children": [
           {
             "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "10 October 1970",
             "children": []
           }
         ]
@@ -263,60 +200,6 @@
         "children": [
           {
             "label": "0.731 high ( 111th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Fijian dollar ( FJD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +12 (FJT)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+679",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "FJ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".fj",
             "children": []
           }
         ]

@@ -4,187 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Libertad",
-            "children": []
-          },
-          {
-            "label": "y",
-            "children": []
-          },
-          {
-            "label": "Orden",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "Freedom",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Order",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Libertad y Orden\" (Spanish) \"Freedom and Order"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno",
-            "children": []
-          },
-          {
-            "label": "Nacional",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "la",
-            "children": []
-          },
-          {
-            "label": "Rep",
-            "children": []
-          },
-          {
-            "label": "blica",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "Colombia",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Colombia",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himno Nacional de la República de Colombia (Spanish) \"National Anthem of the Republic of Colombia\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Bogot",
             "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "74",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "583",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "74",
-            "children": []
-          },
-          {
-            "label": "067",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "583",
-            "children": []
-          },
-          {
-            "label": "74",
-            "children": []
-          },
-          {
-            "label": "067",
-            "children": []
           }
         ],
         "raw_values": [
-          "Bogotá 4°35′N 74°4′W / 4.583°N 74.067°W / 4.583; -74.067"
+          "Bogotá"
         ]
       },
       {
@@ -380,18 +208,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Colombian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Colombian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -409,42 +225,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Gustavo",
-            "children": []
-          },
-          {
-            "label": "Petro",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Gustavo Petro"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Francia",
-            "children": []
-          },
-          {
-            "label": "M",
-            "children": []
-          },
-          {
-            "label": "rquez",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Francia Márquez"
         ]
       },
       {
@@ -880,94 +660,6 @@
         ],
         "raw_values": [
           "0.788 high ( 83rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Colombian",
-            "children": []
-          },
-          {
-            "label": "peso",
-            "children": []
-          },
-          {
-            "label": "COP",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Colombian peso ( COP )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "COT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −5 ( COT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "DMY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "DMY"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "57",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+57"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CO",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CO"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "co",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".co"
         ]
       }
     ]

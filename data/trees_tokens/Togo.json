@@ -4,163 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Travail",
-            "children": []
-          },
-          {
-            "label": "Libert",
-            "children": []
-          },
-          {
-            "label": "Patrie",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Work",
-            "children": []
-          },
-          {
-            "label": "Liberty",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\"Travail, Liberté, Patrie\" (English: \"Work, Liberty, Homeland\" )"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Terre",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "nos",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "eux",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "our",
-            "children": []
-          },
-          {
-            "label": "ancestors",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Terre de nos aïeux \" (English: \"Land of our ancestors\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Lom",
             "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
           }
         ],
         "raw_values": [
-          "Lomé 6°8′N 1°13′E / 6.133°N 1.217°E / 6.133; 1.217"
+          "Lomé"
         ]
       },
       {
@@ -464,18 +316,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Togolese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Togolese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -493,50 +333,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Jean",
-            "children": []
-          },
-          {
-            "label": "Lucien",
-            "children": []
-          },
-          {
-            "label": "Savi",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "Tov",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jean-Lucien Savi de Tové"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Faure",
-            "children": []
-          },
-          {
-            "label": "Gnassingb",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Faure Gnassingbé"
         ]
       },
       {
@@ -617,26 +413,6 @@
         ],
         "raw_values": [
           "27 August 1914"
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "April",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "27 April 1960"
         ]
       },
       {
@@ -968,114 +744,6 @@
         ],
         "raw_values": [
           "0.571 medium ( 161st )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "CFA",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "XOF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "West African CFA franc ( XOF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "GMT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +00:00 ( GMT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "228",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+228"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TG",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "TG"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "tg",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".tg"
         ]
       }
     ]

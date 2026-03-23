@@ -4,24 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Libre crezca fecundo (Spanish) \"Grow Free and Fecund\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno Nacional de Guatemala (English: \"National Anthem of Guatemala\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "march",
         "children": [
           {
@@ -34,7 +16,7 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Guatemala City 14°38′N 90°30′W / 14.633°N 90.500°W / 14.633; -90.500",
+            "label": "Guatemala City",
             "children": []
           }
         ]
@@ -85,37 +67,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Guatemalan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Bernardo Arévalo",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Karin Herrera",
             "children": []
           }
         ]
@@ -263,60 +218,6 @@
         "children": [
           {
             "label": "0.662 medium ( 137th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Quetzal ( GTQ )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −6 ( CST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+502",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GT",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".gt",
             "children": []
           }
         ]

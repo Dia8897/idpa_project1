@@ -4,90 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Libre",
-            "children": []
-          },
-          {
-            "label": "crezca",
-            "children": []
-          },
-          {
-            "label": "fecundo",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "Grow",
-            "children": []
-          },
-          {
-            "label": "Free",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Fecund",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Libre crezca fecundo (Spanish) \"Grow Free and Fecund\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno",
-            "children": []
-          },
-          {
-            "label": "Nacional",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "Guatemala",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Guatemala",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himno Nacional de Guatemala (English: \"National Anthem of Guatemala\" )"
-        ]
-      },
-      {
         "label": "march",
         "children": [
           {
@@ -125,74 +41,10 @@
           {
             "label": "City",
             "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "90",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "633",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "90",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "633",
-            "children": []
-          },
-          {
-            "label": "90",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
           }
         ],
         "raw_values": [
-          "Guatemala City 14°38′N 90°30′W / 14.633°N 90.500°W / 14.633; -90.500"
+          "Guatemala City"
         ]
       },
       {
@@ -388,18 +240,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Guatemalan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Guatemalan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -417,42 +257,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Bernardo",
-            "children": []
-          },
-          {
-            "label": "Ar",
-            "children": []
-          },
-          {
-            "label": "valo",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bernardo Arévalo"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Karin",
-            "children": []
-          },
-          {
-            "label": "Herrera",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Karin Herrera"
         ]
       },
       {
@@ -844,98 +648,6 @@
         ],
         "raw_values": [
           "0.662 medium ( 137th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Quetzal",
-            "children": []
-          },
-          {
-            "label": "GTQ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Quetzal ( GTQ )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "CST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −6 ( CST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "502",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+502"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "GT"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "gt",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".gt"
         ]
       }
     ]

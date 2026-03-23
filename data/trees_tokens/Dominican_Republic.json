@@ -4,66 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Dios",
-            "children": []
-          },
-          {
-            "label": "Patria",
-            "children": []
-          },
-          {
-            "label": "Libertad",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          },
-          {
-            "label": "Freedom",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Dios, Patria, Libertad\" (Spanish) \"God, Homeland, Freedom"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Quisqueyanos",
-            "children": []
-          },
-          {
-            "label": "valientes",
-            "children": []
-          },
-          {
-            "label": "Valiant",
-            "children": []
-          },
-          {
-            "label": "Quisqueyans",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Quisqueyanos valientes Valiant Quisqueyans"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -73,74 +13,10 @@
           {
             "label": "Domingo",
             "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "69",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "450",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "69",
-            "children": []
-          },
-          {
-            "label": "933",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "450",
-            "children": []
-          },
-          {
-            "label": "69",
-            "children": []
-          },
-          {
-            "label": "933",
-            "children": []
           }
         ],
         "raw_values": [
-          "Santo Domingo 18°27′N 69°56′W / 18.450°N 69.933°W / 18.450; -69.933"
+          "Santo Domingo"
         ]
       },
       {
@@ -360,26 +236,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Dominican",
-            "children": []
-          },
-          {
-            "label": "Quisqueyan",
-            "children": []
-          },
-          {
-            "label": "colloquial",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Dominican Quisqueyan (colloquial)"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -397,42 +253,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Luis",
-            "children": []
-          },
-          {
-            "label": "Abinader",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Luis Abinader"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Raquel",
-            "children": []
-          },
-          {
-            "label": "Pe",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Raquel Peña"
         ]
       },
       {
@@ -477,22 +297,6 @@
         ],
         "raw_values": [
           "Chamber of Deputies"
-        ]
-      },
-      {
-        "label": "ephemeral_independence",
-        "children": [
-          {
-            "label": "1821",
-            "children": []
-          },
-          {
-            "label": "1822",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1821–1822"
         ]
       },
       {
@@ -824,122 +628,6 @@
         ],
         "raw_values": [
           "0.776 high ( 89th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Dominican",
-            "children": []
-          },
-          {
-            "label": "peso",
-            "children": []
-          },
-          {
-            "label": "DOP",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Dominican peso ( DOP )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "04",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC -04:00 ( AST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "or",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy or dd-mm-yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+1"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "DO",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "DO"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "do",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".do"
         ]
       }
     ]

@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno Nacional Mexicano (English: Mexican National Anthem )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Mexico City 19°26′N 99°8′W / 19.433°N 99.133°W / 19.433; -99.133",
+            "label": "Mexico City",
             "children": []
           }
         ]
@@ -58,28 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Mexican",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Federal presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Claudia Sheinbaum",
             "children": []
           }
         ]
@@ -134,15 +107,6 @@
         "children": [
           {
             "label": "Chamber of Deputies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "start_of_war_of_independence",
-        "children": [
-          {
-            "label": "16 September 1810",
             "children": []
           }
         ]
@@ -295,64 +259,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Mexican peso ( MXN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −8 to −5 ( See Time in Mexico )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC −7 to −5 (varies)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+52",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MX",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".mx",
             "children": []
           }
         ]

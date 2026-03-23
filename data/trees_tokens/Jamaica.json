@@ -4,139 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Out",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Many",
-            "children": []
-          },
-          {
-            "label": "One",
-            "children": []
-          },
-          {
-            "label": "People",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Out of Many, One People"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Jamaica",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "Love",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jamaica, Land We Love"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Kingston",
             "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "76",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "97139",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "76",
-            "children": []
-          },
-          {
-            "label": "79306",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "97139",
-            "children": []
-          },
-          {
-            "label": "76",
-            "children": []
-          },
-          {
-            "label": "79306",
-            "children": []
           }
         ],
         "raw_values": [
-          "Kingston 17°58′17′′N 76°47′35′′W / 17.97139°N 76.79306°W / 17.97139; -76.79306"
+          "Kingston"
         ]
       },
       {
@@ -348,18 +224,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Jamaican",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jamaican"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -413,22 +277,6 @@
         ],
         "raw_values": [
           "Patrick Allen"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Andrew",
-            "children": []
-          },
-          {
-            "label": "Holness",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Andrew Holness"
         ]
       },
       {
@@ -780,86 +628,6 @@
         ],
         "raw_values": [
           "0.720 high ( 117th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Jamaican",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "JMD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jamaican dollar ( JMD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "EST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC -5:00 ( EST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+1"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "JM",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "JM"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "jm",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".jm"
         ]
       }
     ]

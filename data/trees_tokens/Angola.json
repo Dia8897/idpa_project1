@@ -4,107 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Angola",
-            "children": []
-          },
-          {
-            "label": "Avante",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Forward",
-            "children": []
-          },
-          {
-            "label": "Angola",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Angola Avante (English: Forward Angola )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Luanda",
             "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "833",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "333",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "833",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "333",
-            "children": []
           }
         ],
         "raw_values": [
-          "Luanda 8°50′S 13°20′E / 8.833°S 13.333°E / -8.833; 13.333"
+          "Luanda"
         ]
       },
       {
@@ -312,18 +220,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Angolan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Angolan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -341,54 +237,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Jo",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          },
-          {
-            "label": "Louren",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "João Lourenço"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Esperan",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "da",
-            "children": []
-          },
-          {
-            "label": "Costa",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Esperança da Costa"
         ]
       },
       {
@@ -784,82 +632,6 @@
         ],
         "raw_values": [
           "0.616 medium ( 148th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Angolan",
-            "children": []
-          },
-          {
-            "label": "kwanza",
-            "children": []
-          },
-          {
-            "label": "AOA",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Angolan kwanza ( AOA )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "WAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( WAT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "244",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+244"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AO",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "AO"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ao",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ao"
         ]
       }
     ]

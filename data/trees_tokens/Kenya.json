@@ -4,90 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Harambee",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Let",
-            "children": []
-          },
-          {
-            "label": "us",
-            "children": []
-          },
-          {
-            "label": "all",
-            "children": []
-          },
-          {
-            "label": "pull",
-            "children": []
-          },
-          {
-            "label": "together",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Harambee \" (English: \"Let us all pull together\" )"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Ee",
-            "children": []
-          },
-          {
-            "label": "Mungu",
-            "children": []
-          },
-          {
-            "label": "Nguvu",
-            "children": []
-          },
-          {
-            "label": "Yetu",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "O",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "All",
-            "children": []
-          },
-          {
-            "label": "Creation",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Ee Mungu Nguvu Yetu \" (English: \"O God of All Creation\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -149,58 +65,10 @@
           {
             "label": "267",
             "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "800",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
           }
         ],
         "raw_values": [
-          "Nairobi 1°16′S 36°48′E / 1.267°S 36.800°E / -1.267; 36.800 1°N 38°E / 1°N 38°E / 1; 38"
+          "Nairobi 1°16′S 36°48′E / 1.267°S 36.800°E / -1.267;"
         ]
       },
       {
@@ -436,18 +304,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Kenyan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kenyan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -465,22 +321,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "William",
-            "children": []
-          },
-          {
-            "label": "Ruto",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "William Ruto"
         ]
       },
       {
@@ -936,114 +776,6 @@
         ],
         "raw_values": [
           "0.628 medium ( 143rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Kenyan",
-            "children": []
-          },
-          {
-            "label": "shilling",
-            "children": []
-          },
-          {
-            "label": "KES",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kenyan shilling ( KES )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "East",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Time",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( East Africa Time )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yy",
-            "children": []
-          },
-          {
-            "label": "AD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yy ( AD )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "254",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+254"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "KE"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ke",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ke"
         ]
       }
     ]

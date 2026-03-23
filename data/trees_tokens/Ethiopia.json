@@ -76,66 +76,6 @@
         ]
       },
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Wedef",
-            "children": []
-          },
-          {
-            "label": "t",
-            "children": []
-          },
-          {
-            "label": "Gesigish",
-            "children": []
-          },
-          {
-            "label": "Wid",
-            "children": []
-          },
-          {
-            "label": "Inat",
-            "children": []
-          },
-          {
-            "label": "tiyop",
-            "children": []
-          },
-          {
-            "label": "ya",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "Forward",
-            "children": []
-          },
-          {
-            "label": "Dear",
-            "children": []
-          },
-          {
-            "label": "Mother",
-            "children": []
-          },
-          {
-            "label": "Ethiopia",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ወደፊት ገሥግሺ ፣ ውድ እናት ኢትዮጵያ \"Wedefīt Gesigishī Wid Inat ītiyop'ya\" (English: \" March Forward, Dear Mother Ethiopia \" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -145,74 +85,10 @@
           {
             "label": "Ababa",
             "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "017",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "750",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "017",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "750",
-            "children": []
           }
         ],
         "raw_values": [
-          "Addis Ababa 9°1′N 38°45′E / 9.017°N 38.750°E / 9.017; 38.750"
+          "Addis Ababa"
         ]
       },
       {
@@ -520,18 +396,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Ethiopian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ethiopian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -565,42 +429,6 @@
         ],
         "raw_values": [
           "Federal parliamentary republic under an authoritarian government"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Taye",
-            "children": []
-          },
-          {
-            "label": "Atske",
-            "children": []
-          },
-          {
-            "label": "Selassie",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Taye Atske Selassie"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Abiy",
-            "children": []
-          },
-          {
-            "label": "Ahmed",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Abiy Ahmed"
         ]
       },
       {
@@ -769,46 +597,6 @@
         ],
         "raw_values": [
           "1904"
-        ]
-      },
-      {
-        "label": "occupied_and_annexed_into_italian_east_africa",
-        "children": [
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "1936",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "9 May 1936"
-        ]
-      },
-      {
-        "label": "reestablishment_of_independence",
-        "children": [
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1942",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "31 January 1942"
         ]
       },
       {
@@ -1108,98 +896,6 @@
         ],
         "raw_values": [
           "0.492 low ( 176th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Birr",
-            "children": []
-          },
-          {
-            "label": "ETB",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Birr ( ETB )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "EAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( EAT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "251",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+251"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ET"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "et",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".et"
         ]
       }
     ]

@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Justitia – Pietas – Fides ( Latin ) Gerechtigheid – Vroomheid – Vertrouwen ( Dutch ) \"Justice – Piety – Trust\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "God zij met ons Suriname (Dutch) \"God be with our Suriname\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Paramaribo 5°50′N 55°10′W / 5.833°N 55.167°W / 5.833; -55.167",
+            "label": "Paramaribo",
             "children": []
           }
         ]
@@ -76,37 +58,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Surinamese",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary assembly-independent republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Jennifer Geerlings-Simons",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Gregory Rusland",
             "children": []
           }
         ]
@@ -134,24 +89,6 @@
         "children": [
           {
             "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "constituent_country_within_the_kingdom_of_the_netherlands",
-        "children": [
-          {
-            "label": "15 December 1954",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_kingdom_of_the_netherlands",
-        "children": [
-          {
-            "label": "25 November 1975",
             "children": []
           }
         ]
@@ -236,60 +173,6 @@
         "children": [
           {
             "label": "0.722 high ( 114th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Surinamese dollar ( SRD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC -03:00 ( SRT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+597",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".sr",
             "children": []
           }
         ]

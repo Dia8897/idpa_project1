@@ -4,94 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Midnimo",
-            "children": []
-          },
-          {
-            "label": "Sinnaan",
-            "children": []
-          },
-          {
-            "label": "Nabad",
-            "children": []
-          },
-          {
-            "label": "Somali",
-            "children": []
-          },
-          {
-            "label": "Inkittiino",
-            "children": []
-          },
-          {
-            "label": "Qeedala",
-            "children": []
-          },
-          {
-            "label": "Wagari",
-            "children": []
-          },
-          {
-            "label": "Afar",
-            "children": []
-          },
-          {
-            "label": "Unit",
-            "children": []
-          },
-          {
-            "label": "galit",
-            "children": []
-          },
-          {
-            "label": "Paix",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Arabic",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "Equality",
-            "children": []
-          },
-          {
-            "label": "Peace",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Midnimo, Sinnaan, Nabad ( Somali ) Inkittiino, Qeedala, Wagari ( Afar ) Unité, Égalité, Paix ( French ) اتحاد، مساواة، سلام ( Arabic ) Unity, Equality, Peace ( English )"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Djibouti",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Djibouti"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -101,74 +13,10 @@
           {
             "label": "City",
             "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "600",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "600",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
           }
         ],
         "raw_values": [
-          "Djibouti City 11°36′N 43°10′E / 11.600°N 43.167°E / 11.600; 43.167"
+          "Djibouti City"
         ]
       },
       {
@@ -300,18 +148,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Djiboutian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Djiboutian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -356,50 +192,6 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Isma",
-            "children": []
-          },
-          {
-            "label": "l",
-            "children": []
-          },
-          {
-            "label": "Omar",
-            "children": []
-          },
-          {
-            "label": "Guelleh",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ismaïl Omar Guelleh"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Abdoulkader",
-            "children": []
-          },
-          {
-            "label": "Kamil",
-            "children": []
-          },
-          {
-            "label": "Mohamed",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Abdoulkader Kamil Mohamed"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -413,26 +205,6 @@
         ],
         "raw_values": [
           "National Assembly"
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1977",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "27 June 1977"
         ]
       },
       {
@@ -748,82 +520,6 @@
         ],
         "raw_values": [
           "0.513 low ( 175th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Djiboutian",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "DJF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Djiboutian franc ( DJF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "EAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( EAT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "253",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+253"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "DJ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "DJ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "dj",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".dj"
         ]
       }
     ]

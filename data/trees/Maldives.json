@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "الدولة المحلديبية ( Arabic ) Ad-Dawlat Al-Mahaldibiyyat",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "ޤައުމީ ސަލާމް \" Gaumee Salaam \" \"National Salute\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Malé 4°10′31′′N 73°30′32′′E / 4.17528°N 73.50889°E / 4.17528; 73.50889",
+            "label": "Malé",
             "children": []
           }
         ]
@@ -58,37 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Maldivian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Mohamed Muizzu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Hussain Mohamed Latheef",
             "children": []
           }
         ]
@@ -116,15 +71,6 @@
         "children": [
           {
             "label": "People's Majlis",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "26 July 1965",
             "children": []
           }
         ]
@@ -236,60 +182,6 @@
         "children": [
           {
             "label": "0.766 high ( 93rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Maldivian rufiyaa ( MVR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +5 ( MVT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd / mm / yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MV",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".mv",
             "children": []
           }
         ]

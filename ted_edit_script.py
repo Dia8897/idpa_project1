@@ -1,33 +1,40 @@
 import argparse
+# to run the file from the terminal with country names
 import json
-from functools import lru_cache
+# to have the diff as json
 from pathlib import Path
+# helps with file paths
+
+import ted_distance as td
 
 
 DEFAULT_TREE_DIR = Path("data/trees_tokens")
+# read trees
 DIFF_DIR = Path("data/diffs")
+# write
+
 DIFF_DIR.mkdir(parents=True, exist_ok=True)
-_ACTIVE_SOURCE_SUBTREES = frozenset()
-_ACTIVE_TARGET_SUBTREES = frozenset()
+# create the folder if it does not exist and do nothing if it exists
 
+load_tree = td.load_tree
+# opens a json tree file
+node_label = td.node_label
+# returns the label of the tree
+is_leaf = td.is_leaf
+# checks if a node is a leaf node
 
-def load_tree(path: Path):
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)["tree"]
-
-
-def node_label(node: dict) -> str:
-    return str(node.get("label", ""))
-
-
-def is_leaf(node: dict) -> bool:
-    return len(node.get("children", [])) == 0
+# This is just shorthand. Instead of writing td.load_tree, the file can write load_tree
 
 
 def join_path(path: str, label: str) -> str:
     if not path:
         return f"/{label}"
     return f"{path}/{label}"
+    # This function builds readable paths like:
+# /country
+# /country/capital
+# /country/government/president
+# It is only for making the output human-readable.
 
 
 def clone_node(node: dict) -> dict:
@@ -39,134 +46,94 @@ def clone_node(node: dict) -> dict:
             cloned[key] = value
     cloned.setdefault("children", [])
     return cloned
+# This makes a deep copy of a node and all its children.
+# Why does the script need this?
+# Because when it stores an operation like:
+# delete this subtree
+# insert that subtree
+# it wants to save the subtree content inside the operation safely, without accidentally modifying the original tree later.
 
 
 def payload_without_children(node: dict) -> dict:
     return {k: v for k, v in node.items() if k != "children"}
-
-
-def clone_serializable(node: dict) -> dict:
-    return {
-        "label": node_label(node),
-        "children": [clone_serializable(child) for child in node.get("children", [])],
-    }
-
-
-def serialize_node(node: dict) -> str:
-    return json.dumps(clone_serializable(node), ensure_ascii=False, sort_keys=True)
-
-
-def collect_subtree_serials(node: dict) -> set[str]:
-    serials = {serialize_node(node)}
-    for child in node.get("children", []):
-        serials.update(collect_subtree_serials(child))
-    return serials
-
-
-def contained_in_source_tree(node: dict) -> bool:
-    return serialize_node(node) in _ACTIVE_SOURCE_SUBTREES
-
-
-def contained_in_target_tree(node: dict) -> bool:
-    return serialize_node(node) in _ACTIVE_TARGET_SUBTREES
-
-
-def subtree_size(node: dict) -> int:
-    return 1 + sum(subtree_size(child) for child in node.get("children", []))
-
-
-def cost_del_tree(node: dict) -> int:
-    if contained_in_target_tree(node):
-        return 1
-    return subtree_size(node)
-
-
-def cost_ins_tree(node: dict) -> int:
-    if contained_in_source_tree(node):
-        return 1
-    return subtree_size(node)
-
-
-def cost_upd_root(a: dict, b: dict) -> int:
-    if node_label(a) == node_label(b):
-        return 0
-    if is_leaf(a) and is_leaf(b):
-        return 1
-    return cost_del_tree(a) + cost_ins_tree(b)
-
-
-@lru_cache(maxsize=None)
-def ted(a_serial: str, b_serial: str) -> int:
-    a = json.loads(a_serial)
-    b = json.loads(b_serial)
-
-    if node_label(a) != node_label(b) and not (is_leaf(a) and is_leaf(b)):
-        return cost_del_tree(a) + cost_ins_tree(b)
-
-    a_children = a.get("children", [])
-    b_children = b.get("children", [])
-    m = len(a_children)
-    n = len(b_children)
-
-    dist = [[0] * (n + 1) for _ in range(m + 1)]
-    dist[0][0] = cost_upd_root(a, b)
-
-    for i in range(1, m + 1):
-        dist[i][0] = dist[i - 1][0] + cost_del_tree(a_children[i - 1])
-
-    for j in range(1, n + 1):
-        dist[0][j] = dist[0][j - 1] + cost_ins_tree(b_children[j - 1])
-
-    for i in range(1, m + 1):
-        for j in range(1, n + 1):
-            dist[i][j] = min(
-                dist[i - 1][j - 1] + ted(serialize_node(a_children[i - 1]), serialize_node(b_children[j - 1])),
-                dist[i - 1][j] + cost_del_tree(a_children[i - 1]),
-                dist[i][j - 1] + cost_ins_tree(b_children[j - 1]),
-            )
-
-    return dist[m][n]
+# This keeps all fields except children
+# because tree may contain extra metadata besides "label" and "children"
+# So this lets the script detect:
+# "The structural node is the same, but some metadata changed.""
+# That later becomes a metadata update operation
 
 
 def forest_dp(a: dict, b: dict):
+    # It rebuilds the same DP table used in td.ted(...), but here the table is used for backtracking.
     """
     Build the dynamic-programming table from the subtree algorithm shown in the
     handout image. The table is used both for the final TED value and for
     backtracking the edit script.
     """
     a_children = a.get("children", [])
+    # Take the list of children of node a.
+    # If a has no "children" key, use [].
     b_children = b.get("children", [])
     m = len(a_children)
     n = len(b_children)
+    # does not count grandchildren
 
     dist = [[0] * (n + 1) for _ in range(m + 1)]
-    dist[0][0] = cost_upd_root(a, b)
+    # (m + 1) rows × (n + 1) columns
+    # +1 because:
+    # row 0 = comparing with no children from A
+    # column 0 = comparing with no children from B
+    # Dist = new [0..M][0..N]
+    #0..M  → M+1 values
+    # 0..N  → N+1 values
+
+    dist[0][0] = td.cost_upd_root(a, b)
 
     for i in range(1, m + 1):
-        dist[i][0] = dist[i - 1][0] + cost_del_tree(a_children[i - 1])
+        dist[i][0] = dist[i - 1][0] + td.cost_del_tree(a_children[i - 1])
 
     for j in range(1, n + 1):
-        dist[0][j] = dist[0][j - 1] + cost_ins_tree(b_children[j - 1])
+        dist[0][j] = dist[0][j - 1] + td.cost_ins_tree(b_children[j - 1])
 
     for i in range(1, m + 1):
         for j in range(1, n + 1):
-            diag = dist[i - 1][j - 1] + ted(serialize_node(a_children[i - 1]), serialize_node(b_children[j - 1]))
-            up = dist[i - 1][j] + cost_del_tree(a_children[i - 1])
-            left = dist[i][j - 1] + cost_ins_tree(b_children[j - 1])
+            diag = dist[i - 1][j - 1] + td.ted(
+                td.serialize_node(a_children[i - 1]),
+                td.serialize_node(b_children[j - 1]),
+            )
+            up = dist[i - 1][j] + td.cost_del_tree(a_children[i - 1])
+            left = dist[i][j - 1] + td.cost_ins_tree(b_children[j - 1])
             dist[i][j] = min(diag, up, left)
+            #the minimum cost to transform the first i children of a into the first j children of b, after taking into account the cost of the roots a and b
 
     return dist
 
 
 def build_edit_script(t1: dict, t2: dict):
-    global _ACTIVE_SOURCE_SUBTREES, _ACTIVE_TARGET_SUBTREES
+    # It outputs a list of operations:
 
-    _ACTIVE_SOURCE_SUBTREES = frozenset(collect_subtree_serials(t1))
-    _ACTIVE_TARGET_SUBTREES = frozenset(collect_subtree_serials(t2))
-    ted.cache_clear()
+    # DEL (delete)
+    # INS (insert)
+    # UPD (update)
+    td.configure_ted_context(t1, t2)
+    # It prepares global information used by TED:
+    # collects all subtrees in t1
+    # collects all subtrees in t2
+    # resets cache
+
+    # Because your costs depend on this:
+    # If subtree exists in other tree → cost = 1
+    # Else → cost = full subtree size
+
 
     ops = []
+    # This will store all operations like:
+    # DEL /country : capital
+    # INS /country : language
+    # UPD /country/capital : Beirut => Bern
 
+
+    # create operation objects and push them into ops
     def add_ins(path, node, child_index=None):
         ops.append(
             {
@@ -194,62 +161,86 @@ def build_edit_script(t1: dict, t2: dict):
         )
 
     def add_upd(path, old, new, child_index=None):
-        # Defensive guard: do not emit leaf updates when labels are identical.
-        if node_label(old) == node_label(new):
-            return
-        ops.append(
-            {
-                "kind": "UPD",
-                "path": path,
-                "old": node_label(old),
-                "new": node_label(new),
-                "node_is_leaf": is_leaf(old) and is_leaf(new),
-                "child_index": child_index,
-                "subtree": clone_node(new),
-            }
-        )
+            # Defensive guard: do not emit leaf updates when labels are identical.
+            if node_label(old) == node_label(new):
+                # It refuses useless updates
+                return
+            ops.append(
+                {
+                    "kind": "UPD",
+                    "path": path,
+                    "old": node_label(old),
+                    "new": node_label(new),
+                    "node_is_leaf": is_leaf(old) and is_leaf(new),
+                    "child_index": child_index,
+                    "subtree": clone_node(new),
+                }
+            )
+        # real content update
+        # When two nodes are matched structurally, and we want to update their value
+
 
     def add_meta_upd(node_path, old, new):
-        ops.append(
-            {
-                "kind": "UPD",
-                "path": node_path,
-                "old": node_label(old),
-                "new": node_label(new),
-                "node_is_leaf": False,
-                "child_index": None,
-                "subtree": clone_node(new),
-            }
-        )
+            ops.append(
+                {
+                    "kind": "UPD",
+                    "path": node_path,
+                    "old": node_label(old),
+                    "new": node_label(new),
+                    "node_is_leaf": False,
+                    "child_index": None,
+                    "subtree": clone_node(new),
+                }
+            )
+        # node labels are the same but the extra data (metadata) is different
+
 
     def backtrack(a: dict, b: dict, parent_path: str):
+        # It recursively compares subtree a with subtree b and decides which edit operations to add
+        # if they are simple values and different → UPD
+        # if their structure names differ → DEL + INS
+        # if their structure names match → build the DP table for their children and walk backward through it
+
         current_path = join_path(parent_path, node_label(a))
+        # create the path of the current node
+        # ex: current_path = "/country/capital"
 
         # Preserve metadata such as raw_values when the structural node itself matches.
         if node_label(a) == node_label(b) and payload_without_children(a) != payload_without_children(b):
             add_meta_upd(current_path, a, b)
-
+        # if labels are the same
+        # but extra information besides children is different
+        # it is meta_upd
+        
         if is_leaf(a) and is_leaf(b):
             if node_label(a) != node_label(b):
                 add_upd(parent_path, a, b)
+            # if both nodes are leaves
+            # have different labels
+            # update
             return
 
         if node_label(a) != node_label(b):
             add_del(parent_path, a)
             add_ins(parent_path, b)
             return
+        # internal labels => not leaves
+        # do not rename internal nodes
+        # replace one subtree with another
 
         a_children = a.get("children", [])
         b_children = b.get("children", [])
         dist = forest_dp(a, b)
         i = len(a_children)
         j = len(b_children)
+        # get children and DP matrix
 
         while i > 0 or j > 0:
+            # keep walking until both sides are fully processed.
             if i > 0 and j > 0:
-                diag_cost = dist[i - 1][j - 1] + ted(
-                    serialize_node(a_children[i - 1]),
-                    serialize_node(b_children[j - 1]),
+                diag_cost = dist[i - 1][j - 1] + td.ted(
+                    td.serialize_node(a_children[i - 1]),
+                    td.serialize_node(b_children[j - 1]),
                 )
                 if dist[i][j] == diag_cost:
                     backtrack(a_children[i - 1], b_children[j - 1], current_path)
@@ -258,7 +249,7 @@ def build_edit_script(t1: dict, t2: dict):
                     continue
 
             if i > 0:
-                up_cost = dist[i - 1][j] + cost_del_tree(a_children[i - 1])
+                up_cost = dist[i - 1][j] + td.cost_del_tree(a_children[i - 1])
                 if dist[i][j] == up_cost:
                     add_del(current_path, a_children[i - 1], child_index=i - 1)
                     i -= 1
@@ -272,6 +263,7 @@ def build_edit_script(t1: dict, t2: dict):
     backtrack(t1, t2, "")
 
     def is_redundant_update(op: dict) -> bool:
+        # It tries to remove updates that do not really change anything.
         """
         Remove obvious no-op updates that clutter the diff, such as:
         - leaf updates where old == new
@@ -299,6 +291,9 @@ def build_edit_script(t1: dict, t2: dict):
 
 def sorted_ops(ops):
     kind_rank = {"DEL": 0, "INS": 1, "UPD": 2}
+    # priority: 0 => DEL first
+    # then insert
+    #then update 
     return sorted(
         ops,
         key=lambda op: (
@@ -339,6 +334,7 @@ def op_effective_path(op: dict) -> str:
 
 
 def write_section(handle, title: str, ops):
+    # This function writes one section of the text report
     handle.write(title + "\n")
     handle.write("=" * len(title) + "\n")
     if not ops:
@@ -346,6 +342,7 @@ def write_section(handle, title: str, ops):
         return
 
     for idx, op in enumerate(ops, start=1):
+        # loop over iterations
         code = f"{op['kind']}-{idx:03d}"
         handle.write(f"[{code}] PATH {op_effective_path(op)}\n")
         handle.write(f"Reason: {op_reason(op)}\n")
@@ -379,13 +376,19 @@ def save_ops_text(ops, out_path: Path, source_name: str, target_name: str):
         write_section(handle, "PHASE 3 - UPDATE SHARED DATA", upd_ops)
 
 
-def save_ops_json(ops, out_path: Path, source_name: str, target_name: str, tree_dir: Path):
+def save_ops_json(ops, out_path: Path, source_name: str, target_name: str, tree_dir: Path, ted_metrics: dict):
     del_ops, ins_ops, upd_ops = group_ops(ops)
     payload = {
         "algorithm": "Subtree-DP ordered TED",
         "tree_dir": str(tree_dir),
         "source": source_name,
         "target": target_name,
+        "ted": {
+            "distance": ted_metrics["distance"],
+            "common_score": ted_metrics["common_score"],
+            "slide_similarity_formula1": ted_metrics["slide_similarity_formula1"],
+            "normalized_similarity": ted_metrics["normalized_similarity"],
+        },
         "operation_counts": {
             "total": len(ops),
             "delete": len(del_ops),
@@ -446,7 +449,11 @@ if __name__ == "__main__":
     tree1 = load_tree(source_path)
     tree2 = load_tree(target_path)
     ops = build_edit_script(tree1, tree2)
+    ted_metrics = td.ted_distance(tree1, tree2)
     summarize_ops(ops, max_show=args.max_show)
+    print("TED:", ted_metrics["distance"])
+    print("Slide similarity formula 1:", round(ted_metrics["slide_similarity_formula1"], 4))
+    print("Normalized similarity:", round(ted_metrics["normalized_similarity"], 4))
 
     stem = f"ted_edit_script_{Path(source_name).stem}_TO_{Path(target_name).stem}"
     args.out_dir.mkdir(parents=True, exist_ok=True)
@@ -454,7 +461,7 @@ if __name__ == "__main__":
     json_out = args.out_dir / f"{stem}.json"
 
     save_ops_text(ops, txt_out, Path(source_name).stem, Path(target_name).stem)
-    save_ops_json(ops, json_out, Path(source_name).stem, Path(target_name).stem, args.tree_dir)
+    save_ops_json(ops, json_out, Path(source_name).stem, Path(target_name).stem, args.tree_dir, ted_metrics)
 
     print(f"\nSaved full script to: {txt_out}")
     print(f"Saved JSON diff to : {json_out}")

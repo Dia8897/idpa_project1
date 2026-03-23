@@ -4,62 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Bersekutu",
-            "children": []
-          },
-          {
-            "label": "Bertambah",
-            "children": []
-          },
-          {
-            "label": "Mutu",
-            "children": []
-          },
-          {
-            "label": "Jawi",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "Strength",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bersekutu Bertambah Mutu برسکوتو برتمبه موتو ( Jawi ) ( \" Unity is Strength \" )"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Negaraku",
-            "children": []
-          },
-          {
-            "label": "My",
-            "children": []
-          },
-          {
-            "label": "Country",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Negaraku ( \"My Country\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -69,74 +13,10 @@
           {
             "label": "Lumpur",
             "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "101",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "101",
-            "children": []
-          },
-          {
-            "label": "683",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
-          },
-          {
-            "label": "101",
-            "children": []
-          },
-          {
-            "label": "683",
-            "children": []
           }
         ],
         "raw_values": [
-          "Kuala Lumpur 3°8′N 101°41′E / 3.133°N 101.683°E / 3.133; 101.683"
+          "Kuala Lumpur"
         ]
       },
       {
@@ -424,18 +304,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Malaysian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Malaysian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -480,22 +348,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Anwar",
-            "children": []
-          },
-          {
-            "label": "Ibrahim",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Anwar Ibrahim"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -537,26 +389,6 @@
         ],
         "raw_values": [
           "Dewan Rakyat"
-        ]
-      },
-      {
-        "label": "federation_of_malaya",
-        "children": [
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1957",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "31 August 1957"
         ]
       },
       {
@@ -912,106 +744,6 @@
         ],
         "raw_values": [
           "0.819 very high ( 67th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Malaysian",
-            "children": []
-          },
-          {
-            "label": "ringgit",
-            "children": []
-          },
-          {
-            "label": "RM",
-            "children": []
-          },
-          {
-            "label": "MYR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Malaysian ringgit (RM) ( MYR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "MST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +8 ( MST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd-mm-yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "60",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+60"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MY"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "my",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".my"
         ]
       }
     ]

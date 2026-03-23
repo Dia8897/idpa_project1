@@ -4,15 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Belau rekid \"Our Palau\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "status",
         "children": [
           {
@@ -25,7 +16,7 @@
         "label": "capital",
         "children": [
           {
-            "label": "Ngerulmud 7°30′N 134°37′E / 7.500°N 134.617°E / 7.500; 134.617",
+            "label": "Ngerulmud",
             "children": []
           }
         ]
@@ -34,7 +25,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Koror 7°20′N 134°29′E / 7.333°N 134.483°E / 7.333; 134.483",
+            "label": "Koror",
             "children": []
           }
         ]
@@ -76,37 +67,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Palauan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic under a non-partisan democracy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Surangel Whipps Jr.",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Raynold Oilouch",
             "children": []
           }
         ]
@@ -268,64 +232,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "United States dollar ( USD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +9 (PWT)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "not observed",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "mm/dd/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+680",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PW",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".pw",
             "children": []
           }
         ]

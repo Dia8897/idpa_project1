@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Each endeavouring, all achieving",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Fair Antigua, We Salute Thee",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "St. John's 17°7′N 61°51′W / 17.117°N 61.850°W / 17.117; -61.850",
+            "label": "St. John's",
             "children": []
           }
         ]
@@ -67,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Antiguan and Barbudan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -98,15 +71,6 @@
         "children": [
           {
             "label": "Sir Rodney Williams",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Gaston Browne",
             "children": []
           }
         ]
@@ -161,15 +125,6 @@
         "children": [
           {
             "label": "27 February 1967",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "1 November 1981",
             "children": []
           }
         ]
@@ -263,60 +218,6 @@
         "children": [
           {
             "label": "0.851 very high ( 53rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Eastern Caribbean dollar ( XCD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC -04:00 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ag",
             "children": []
           }
         ]

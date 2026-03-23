@@ -4,143 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Pula",
-            "children": []
-          },
-          {
-            "label": "Rain",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Pula \"Rain\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Fatshe",
-            "children": []
-          },
-          {
-            "label": "leno",
-            "children": []
-          },
-          {
-            "label": "la",
-            "children": []
-          },
-          {
-            "label": "rona",
-            "children": []
-          },
-          {
-            "label": "This",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Ours",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Fatshe leno la rona \" \"This Land of Ours"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Gaborone",
             "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "54",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "6583",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "9083",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "6583",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "9083",
-            "children": []
           }
         ],
         "raw_values": [
-          "Gaborone 24°39.5′S 25°54.5′E / 24.6583°S 25.9083°E / -24.6583; 25.9083"
+          "Gaborone"
         ]
       },
       {
@@ -308,30 +180,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Batswana",
-            "children": []
-          },
-          {
-            "label": "plural",
-            "children": []
-          },
-          {
-            "label": "Motswana",
-            "children": []
-          },
-          {
-            "label": "singular",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Batswana (plural) Motswana (singular)"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -365,22 +213,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic with an executive presidency"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Duma",
-            "children": []
-          },
-          {
-            "label": "Boko",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Duma Boko"
         ]
       },
       {
@@ -433,26 +265,6 @@
         ],
         "raw_values": [
           "Parliament ( National Assembly )"
-        ]
-      },
-      {
-        "label": "established_constitution",
-        "children": [
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1966",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "30 September 1966"
         ]
       },
       {
@@ -728,106 +540,6 @@
         ],
         "raw_values": [
           "0.731 high ( 111th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Pula",
-            "children": []
-          },
-          {
-            "label": "BWP",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Pula ( BWP )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "Central",
-            "children": []
-          },
-          {
-            "label": "Africa",
-            "children": []
-          },
-          {
-            "label": "Time",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( Central Africa Time )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "267",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+267"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BW",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BW"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "bw",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".bw"
         ]
       }
     ]

@@ -4,123 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Honour",
-            "children": []
-          },
-          {
-            "label": "Fraternity",
-            "children": []
-          },
-          {
-            "label": "Justice",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "شرف، إخاء، عدل \"Honour, Fraternity, Justice\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Mauritania",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "النشيد الوطني الموريتاني \" National Anthem of Mauritania \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Nouakchott",
             "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "09",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "150",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "967",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "150",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "967",
-            "children": []
           }
         ],
         "raw_values": [
-          "Nouakchott 18°09′N 15°58′W / 18.150°N 15.967°W / 18.150; -15.967"
+          "Nouakchott"
         ]
       },
       {
@@ -228,18 +120,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Mauritanian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mauritanian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -265,46 +145,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential Islamic republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Mohamed",
-            "children": []
-          },
-          {
-            "label": "Ould",
-            "children": []
-          },
-          {
-            "label": "Ghazouani",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mohamed Ould Ghazouani"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mokhtar",
-            "children": []
-          },
-          {
-            "label": "Ould",
-            "children": []
-          },
-          {
-            "label": "Djay",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mokhtar Ould Djay"
         ]
       },
       {
@@ -341,46 +181,6 @@
         ],
         "raw_values": [
           "National Assembly"
-        ]
-      },
-      {
-        "label": "republic_established",
-        "children": [
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1958",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "28 November 1958"
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "28 November 1960"
         ]
       },
       {
@@ -660,82 +460,6 @@
         ],
         "raw_values": [
           "0.563 medium ( 163rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Ouguiya",
-            "children": []
-          },
-          {
-            "label": "MRU",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ouguiya ( MRU )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "GMT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC ±00:00 ( GMT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "222",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+222"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MR"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "mr",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".mr"
         ]
       }
     ]

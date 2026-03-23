@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "الدائمون المحسنون بالهدى ( Arabic ) Ad-dāʾimūna al-muḥsinūna bi-l-hudā ( Sentiasa membuat kebajikan dengan petunjuk Allah ) \"Always in service with God 's guidance\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Allah Peliharakan Sultan الله ڤليهاراکن سلطان \"God Bless the Sultan\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Bandar Seri Begawan 4°53.417′N 114°56.533′E / 4.890283°N 114.942217°E / 4.890283; 114.942217",
+            "label": "Bandar Seri Begawan",
             "children": []
           }
         ]
@@ -76,15 +58,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bruneian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -121,15 +94,6 @@
         ]
       },
       {
-        "label": "sultanate_established",
-        "children": [
-          {
-            "label": "c. 1363 or 1368",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "british_protected_state",
         "children": [
           {
@@ -152,15 +116,6 @@
         "children": [
           {
             "label": "8 December 1962",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_united_kingdom",
-        "children": [
-          {
-            "label": "1 January 1984",
             "children": []
           }
         ]
@@ -254,51 +209,6 @@
         "children": [
           {
             "label": "0.837 very high ( 60th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Brunei dollar ( BND )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +8 ( Brunei Standard Time )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+673",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BN",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".bn",
             "children": []
           }
         ]

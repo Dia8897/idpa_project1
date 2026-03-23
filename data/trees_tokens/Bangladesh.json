@@ -4,123 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Bengali",
-            "children": []
-          },
-          {
-            "label": "Amar",
-            "children": []
-          },
-          {
-            "label": "Sonar",
-            "children": []
-          },
-          {
-            "label": "Bangla",
-            "children": []
-          },
-          {
-            "label": "My",
-            "children": []
-          },
-          {
-            "label": "Golden",
-            "children": []
-          },
-          {
-            "label": "Bengal",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "আমার সোনার বাংলা ( Bengali ) Amar Sonar Bangla \"My Golden Bengal\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Dhaka",
             "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "90",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "76389",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "90",
-            "children": []
-          },
-          {
-            "label": "38889",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "76389",
-            "children": []
-          },
-          {
-            "label": "90",
-            "children": []
-          },
-          {
-            "label": "38889",
-            "children": []
           }
         ],
         "raw_values": [
-          "Dhaka 23°45′50′′N 90°23′20′′E / 23.76389°N 90.38889°E / 23.76389; 90.38889"
+          "Dhaka"
         ]
       },
       {
@@ -296,18 +188,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bangladeshi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bangladeshi"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -325,38 +205,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Mohammed",
-            "children": []
-          },
-          {
-            "label": "Shahabuddin",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mohammed Shahabuddin"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Tarique",
-            "children": []
-          },
-          {
-            "label": "Rahman",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tarique Rahman"
         ]
       },
       {
@@ -433,26 +281,6 @@
         ],
         "raw_values": [
           "14 October 1955"
-        ]
-      },
-      {
-        "label": "proclamation_of_independence",
-        "children": [
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1971",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "26 March 1971"
         ]
       },
       {
@@ -864,98 +692,6 @@
         ],
         "raw_values": [
           "0.685 medium ( 130th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Taka",
-            "children": []
-          },
-          {
-            "label": "BDT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Taka ( ৳ ) ( BDT )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "BST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +6 ( BST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "880",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+880"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BD"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "bd",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".bd .বাংলা"
         ]
       }
     ]

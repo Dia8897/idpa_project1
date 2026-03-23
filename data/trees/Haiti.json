@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "L'union fait la force ( French ) \"Inite se fòs\" ( Haitian Creole ) \"Union makes strength\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "La Dessalinienne \"The Dessaline\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Port-au-Prince 18°32′10′′N 72°20′47′′W / 18.53611°N 72.34639°W / 18.53611; -72.34639",
+            "label": "Port-au-Prince",
             "children": []
           }
         ]
@@ -58,37 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Haitian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Vacant",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Alix Didier Fils-Aimé (acting)",
             "children": []
           }
         ]
@@ -121,24 +76,6 @@
         ]
       },
       {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "1 January 1804",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_recognized",
-        "children": [
-          {
-            "label": "17 April 1825",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "first_empire",
         "children": [
           {
@@ -161,15 +98,6 @@
         "children": [
           {
             "label": "17 October 1806",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "28 March 1811",
             "children": []
           }
         ]
@@ -206,24 +134,6 @@
         "children": [
           {
             "label": "15 January 1859",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "united_states_occupation",
-        "children": [
-          {
-            "label": "28 July 1915 – 1 August 1934",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_united_states",
-        "children": [
-          {
-            "label": "15 August 1934",
             "children": []
           }
         ]
@@ -331,64 +241,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Gourde (G) ( HTG )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −05:00 ( EST )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC −04:00 ( EDT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+509",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "HT",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ht",
             "children": []
           }
         ]

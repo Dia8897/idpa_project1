@@ -4,111 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Zdravljica",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "A",
-            "children": []
-          },
-          {
-            "label": "Toast",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Zdravljica (English: \"A Toast\")"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Ljubljana",
             "children": []
-          },
-          {
-            "label": "46",
-            "children": []
-          },
-          {
-            "label": "03",
-            "children": []
-          },
-          {
-            "label": "05",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "22",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "46",
-            "children": []
-          },
-          {
-            "label": "05139",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "50611",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "46",
-            "children": []
-          },
-          {
-            "label": "05139",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "50611",
-            "children": []
           }
         ],
         "raw_values": [
-          "Ljubljana 46°03′05′′N 14°30′22′′E / 46.05139°N 14.50611°E / 46.05139; 14.50611"
+          "Ljubljana"
         ]
       },
       {
@@ -228,22 +132,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Slovene",
-            "children": []
-          },
-          {
-            "label": "Slovenian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Slovene Slovenian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -261,46 +149,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Nata",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "Pirc",
-            "children": []
-          },
-          {
-            "label": "Musar",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nataša Pirc Musar"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Robert",
-            "children": []
-          },
-          {
-            "label": "Golob",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Robert Golob"
         ]
       },
       {
@@ -368,26 +216,6 @@
         ]
       },
       {
-        "label": "kingdom_of_serbs_croats_and_slovenes",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1918",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 December 1918"
-        ]
-      },
-      {
         "label": "slovene_national_liberation_committee",
         "children": [
           {
@@ -425,26 +253,6 @@
         ],
         "raw_values": [
           "29 July 1944"
-        ]
-      },
-      {
-        "label": "independence_from_yugoslavia",
-        "children": [
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "25 June 1991"
         ]
       },
       {
@@ -783,42 +591,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -836,98 +608,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "Slovene",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "Italian",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "Hungarian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd. mm. yyyy (Slovene) dd/mm/yyyy (Italian) yyyy. mm. dd. (Hungarian)"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "386",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+386"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SI",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "SI"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "si",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".si"
         ]
       }
     ]

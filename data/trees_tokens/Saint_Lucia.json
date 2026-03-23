@@ -4,175 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "People",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Light",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "The Land, The People, The Light"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Sons",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Daughters",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Saint",
-            "children": []
-          },
-          {
-            "label": "Lucia",
-            "children": []
-          },
-          {
-            "label": "Royal",
-            "children": []
-          },
-          {
-            "label": "anthem",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Save",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sons and Daughters of Saint Lucia \" Royal anthem : \" God Save the King"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Castries",
             "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "53",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "60",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "88333",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "60",
-            "children": []
-          },
-          {
-            "label": "96667",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "88333",
-            "children": []
-          },
-          {
-            "label": "60",
-            "children": []
-          },
-          {
-            "label": "96667",
-            "children": []
           }
         ],
         "raw_values": [
-          "Castries 13°53′00′′N 60°58′00′′W / 13.88333°N 60.96667°W / 13.88333; -60.96667"
+          "Castries"
         ]
       },
       {
@@ -348,22 +188,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Saint",
-            "children": []
-          },
-          {
-            "label": "Lucian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Saint Lucian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -417,26 +241,6 @@
         ],
         "raw_values": [
           "Errol Charles"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Philip",
-            "children": []
-          },
-          {
-            "label": "J",
-            "children": []
-          },
-          {
-            "label": "Pierre",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Philip J. Pierre"
         ]
       },
       {
@@ -501,26 +305,6 @@
         ],
         "raw_values": [
           "1 March 1967"
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom",
-        "children": [
-          {
-            "label": "22",
-            "children": []
-          },
-          {
-            "label": "February",
-            "children": []
-          },
-          {
-            "label": "1979",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "22 February 1979"
         ]
       },
       {
@@ -796,106 +580,6 @@
         ],
         "raw_values": [
           "0.748 high ( 103rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "East",
-            "children": []
-          },
-          {
-            "label": "Caribbean",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "XCD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "East Caribbean dollar ( XCD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −4 ( AST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+1"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LC",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "LC"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "lc",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".lc"
         ]
       }
     ]

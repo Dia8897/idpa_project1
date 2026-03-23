@@ -4,24 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Für Gott, Fürst und Vaterland\" \"For God, Prince and Fatherland",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Oben am jungen Rhein (English: \"High on the Young Rhine\")",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -67,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Liechtensteiner",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -103,24 +76,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Brigitte Haas",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "deputy_prime_minister",
-        "children": [
-          {
-            "label": "Sabine Monauni",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -143,15 +98,6 @@
         "children": [
           {
             "label": "12 July 1806",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "separation_from_german_confederation",
-        "children": [
-          {
-            "label": "23 August 1866",
             "children": []
           }
         ]
@@ -241,55 +187,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Swiss franc ( CHF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +01:00 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +02:00 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+423",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LI",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".li",
             "children": []
           }
         ]

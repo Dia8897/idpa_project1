@@ -58,28 +58,10 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Un peuple, un but, une foi\" (French) \"Mɔgɔ kelen, laɲini kelen, dannaya kelen\" ( Bambara ) \"One people, one goal, one faith",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "\" Le Mali \" (French)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Bamako 12°39′N 8°0′W / 12.650°N 8.000°W / 12.650; -8.000",
+            "label": "Bamako",
             "children": []
           }
         ]
@@ -130,37 +112,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Malian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic under a military junta",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Assimi Goïta",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Abdoulaye Maïga (interim)",
             "children": []
           }
         ]
@@ -179,33 +134,6 @@
         "children": [
           {
             "label": "24 November 1958",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "merger_with_senegal_to_create_the_mali_federation",
-        "children": [
-          {
-            "label": "4 April 1959",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "20 June 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dissolution_of_the_mali_federation",
-        "children": [
-          {
-            "label": "20 August 1960",
             "children": []
           }
         ]
@@ -308,51 +236,6 @@
         "children": [
           {
             "label": "0.419 low ( 188th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West African CFA franc ( XOF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC ±00:00 ( GMT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+223",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ML",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ml",
             "children": []
           }
         ]

@@ -4,24 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Jepilpilin ke ejukaan \" \"Accomplishment through joint effort",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Indeeo M̧ajeļ \" Forever Marshall Islands \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "status",
         "children": [
           {
@@ -34,7 +16,7 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Majuro 7°7′N 171°4′E / 7.117°N 171.067°E / 7.117; 171.067",
+            "label": "Majuro",
             "children": []
           }
         ]
@@ -67,28 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Marshallese",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic with an executive president",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Hilda Heine",
             "children": []
           }
         ]
@@ -223,64 +187,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "United States dollar Sovereign",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +12 (MHT)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "Not observed",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "MM/DD/YYYY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+692",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MH",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".mh",
             "children": []
           }
         ]

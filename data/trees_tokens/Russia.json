@@ -4,135 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Gosudarstvennyy",
-            "children": []
-          },
-          {
-            "label": "gimn",
-            "children": []
-          },
-          {
-            "label": "Rossiyskoy",
-            "children": []
-          },
-          {
-            "label": "Federatsii",
-            "children": []
-          },
-          {
-            "label": "State",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Russian",
-            "children": []
-          },
-          {
-            "label": "Federation",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Государственный гимн Российской Федерации Gosudarstvennyy gimn Rossiyskoy Federatsii \" State Anthem of the Russian Federation \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Moscow",
             "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "37",
-            "children": []
-          },
-          {
-            "label": "37",
-            "children": []
-          },
-          {
-            "label": "02",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "75583",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "37",
-            "children": []
-          },
-          {
-            "label": "61722",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "75583",
-            "children": []
-          },
-          {
-            "label": "37",
-            "children": []
-          },
-          {
-            "label": "61722",
-            "children": []
           }
         ],
         "raw_values": [
-          "Moscow 55°45′21′′N 37°37′02′′E / 55.75583°N 37.61722°E / 55.75583; 37.61722"
+          "Moscow"
         ]
       },
       {
@@ -256,18 +136,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Russian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Russian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -305,38 +173,6 @@
         ],
         "raw_values": [
           "Federal semi-presidential republic under an authoritarian dictatorship"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Vladimir",
-            "children": []
-          },
-          {
-            "label": "Putin",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Vladimir Putin"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mikhail",
-            "children": []
-          },
-          {
-            "label": "Mishustin",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mikhail Mishustin"
         ]
       },
       {
@@ -521,26 +357,6 @@
         ],
         "raw_values": [
           "12 June 1990"
-        ]
-      },
-      {
-        "label": "russian_federation",
-        "children": [
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "12 December 1991"
         ]
       },
       {
@@ -892,86 +708,6 @@
         ],
         "raw_values": [
           "0.832 very high ( 64th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Russian",
-            "children": []
-          },
-          {
-            "label": "ruble",
-            "children": []
-          },
-          {
-            "label": "RUB",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Russian ruble ( ₽ ) ( RUB )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 to +12"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "7",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+7"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "RU",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "RU"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ru",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ru .рф"
         ]
       }
     ]

@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "\" Himnusz \" ( Hungarian ) (English: \"Hymn\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Budapest 47°26′N 19°15′E / 47.433°N 19.250°E / 47.433; 19.250",
+            "label": "Budapest",
             "children": []
           }
         ]
@@ -49,37 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Hungarian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Tamás Sulyok",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Viktor Orbán",
             "children": []
           }
         ]
@@ -116,15 +80,6 @@
         "children": [
           {
             "label": "895",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "christian_kingdom",
-        "children": [
-          {
-            "label": "25 December 1000",
             "children": []
           }
         ]
@@ -295,55 +250,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Forint ( HUF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+36",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "HU",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".hu",
             "children": []
           }
         ]

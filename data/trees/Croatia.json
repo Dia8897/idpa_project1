@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "\" Lijepa naša domovino \" (\"Our Beautiful Homeland\")",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Zagreb 45°48′47′′N 15°58′39′′E / 45.81306°N 15.97750°E / 45.81306; 15.97750",
+            "label": "Zagreb",
             "children": []
           }
         ]
@@ -58,46 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Croatian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Zoran Milanović",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Andrej Plenković",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "speaker_of_the_parliament",
-        "children": [
-          {
-            "label": "Gordan Jandroković",
             "children": []
           }
         ]
@@ -116,15 +71,6 @@
         "children": [
           {
             "label": "7th century",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "925",
             "children": []
           }
         ]
@@ -170,15 +116,6 @@
         "children": [
           {
             "label": "9 May 1944",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "25 June 1991",
             "children": []
           }
         ]
@@ -286,55 +223,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+385",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "HR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".hr and .eu",
             "children": []
           }
         ]

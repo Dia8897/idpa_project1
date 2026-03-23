@@ -1,16 +1,13 @@
 {
   "country_name": "Austria",
   "infobox": {
-    "Anthem": "\" Bundeshymne der Republik Österreich \" National Anthem of the Republic of Austria",
-    "Capital and largest city": "Vienna 48°12′N 16°21′E / 48.200°N 16.350°E / 48.200; 16.350",
+    "Capital and largest city": "Vienna",
     "Official national language": "German",
     "Official regional languages": "Hungarian Slovene Burgenland Croatian",
     "Ethnic groups (2024)": "72.2% Germans 27.8% other",
     "Religion (2021)": "68.2% Christianity 55.2% Catholicism 4.9% Orthodoxy 3.8% Protestantism 4.3% other Christian 22.4% no religion 8.3% Islam 1.1% other",
     "Demonym": "Austrian",
     "Government": "Federal semi-presidential republic",
-    "President": "Alexander Van der Bellen",
-    "Chancellor": "Christian Stocker",
     "Legislature": "Parliament",
     "Upper house": "Federal Council",
     "Lower house": "National Council",
@@ -41,11 +38,6 @@
     "GDP (nominal)": "2025 estimate",
     "Gini (2023)": "28.1 low inequality",
     "HDI (2023)": "0.930 very high ( 22nd )",
-    "Currency": "Euro ( € ) ( EUR )",
-    "Time zone": "UTC +1 ( CET )",
-    "Summer ( DST )": "UTC +2 ( CEST )",
-    "Calling code": "+43",
-    "ISO 3166 code": "AT",
-    "Internet TLD": ".at"
+    "Summer ( DST )": "UTC +2 ( CEST )"
   }
 }

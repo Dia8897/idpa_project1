@@ -4,107 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Tauti",
-            "children": []
-          },
-          {
-            "label": "ka",
-            "children": []
-          },
-          {
-            "label": "giesm",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Song",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tautiška giesmė \"National Song\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Vilnius",
             "children": []
-          },
-          {
-            "label": "54",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "54",
-            "children": []
-          },
-          {
-            "label": "683",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "317",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "54",
-            "children": []
-          },
-          {
-            "label": "683",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "317",
-            "children": []
           }
         ],
         "raw_values": [
-          "Vilnius 54°41′N 25°19′E / 54.683°N 25.317°E / 54.683; 25.317"
+          "Vilnius"
         ]
       },
       {
@@ -292,18 +200,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Lithuanian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Lithuanian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -325,42 +221,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Gitanas",
-            "children": []
-          },
-          {
-            "label": "Naus",
-            "children": []
-          },
-          {
-            "label": "da",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Gitanas Nausėda"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Inga",
-            "children": []
-          },
-          {
-            "label": "Ruginien",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Inga Ruginienė"
         ]
       },
       {
@@ -501,66 +361,6 @@
         ],
         "raw_values": [
           "24 October 1795"
-        ]
-      },
-      {
-        "label": "independence_reinstated",
-        "children": [
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "February",
-            "children": []
-          },
-          {
-            "label": "1918",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "16 February 1918"
-        ]
-      },
-      {
-        "label": "soviet_occupation",
-        "children": [
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1940",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "16 June 1940"
-        ]
-      },
-      {
-        "label": "independence_restored",
-        "children": [
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1990",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "11 March 1990"
         ]
       },
       {
@@ -843,42 +643,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "EET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( EET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -896,62 +660,6 @@
         ],
         "raw_values": [
           "UTC +3 ( EEST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "yyyy - mm - dd"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "370",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+370"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "LT"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "lt",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".lt"
         ]
       }
     ]

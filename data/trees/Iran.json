@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "اَللَّٰهُ أَكْبَرُ Allāhu ʾAkbar ( Takbir ) \" God is the Greatest\" ( de jure ) استقلال، آزادی، جمهوری اسلامی Esteqlâl, zâdi, Jomhuri-ye Eslâmi \"Independence, freedom, the Islamic Republic\" ( de facto )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "مهر خاوران Mehr-e Khâvarân \"Eastern Sun\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Tehran 35°41′N 51°25′E / 35.683°N 51.417°E / 35.683; 51.417",
+            "label": "Tehran",
             "children": []
           }
         ]
@@ -35,15 +17,6 @@
         "children": [
           {
             "label": "Persian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Iranian",
             "children": []
           }
         ]
@@ -62,24 +35,6 @@
         "children": [
           {
             "label": "Mojtaba Khamenei",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Masoud Pezeshkian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Mohammad Reza Aref",
             "children": []
           }
         ]
@@ -107,15 +62,6 @@
         "children": [
           {
             "label": "Islamic Consultative Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "median_kingdom",
-        "children": [
-          {
-            "label": "c. 678 BC",
             "children": []
           }
         ]
@@ -326,51 +272,6 @@
         "children": [
           {
             "label": "0.799 high ( 75th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Iranian rial ( ریال ) ( IRR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3:30 ( IRST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+98",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ir ایران.",
             "children": []
           }
         ]

@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Độc lập – Tự do – Hạnh phúc \"Independence – Freedom – Happiness\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Tiến quân ca \"The Song of the Marching Troops\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Hanoi 21°2′N 105°51′E / 21.033°N 105.850°E / 21.033; 105.850",
+            "label": "Hanoi",
             "children": []
           }
         ]
@@ -76,15 +58,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Vietnamese Viet (colloquial)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -98,24 +71,6 @@
         "children": [
           {
             "label": "Tô Lâm",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Lương Cường",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Phạm Minh Chính",
             "children": []
           }
         ]
@@ -157,55 +112,10 @@
         ]
       },
       {
-        "label": "hans_annexation",
-        "children": [
-          {
-            "label": "111 BC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_china",
-        "children": [
-          {
-            "label": "939",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "regaining_independence",
-        "children": [
-          {
-            "label": "1428",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "nguyen_s_unification",
         "children": [
           {
             "label": "1802",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "protectorate_treaty",
-        "children": [
-          {
-            "label": "25 August 1883",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "2 September 1945",
             "children": []
           }
         ]
@@ -344,51 +254,6 @@
         "children": [
           {
             "label": "0.766 high ( 93rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Vietnamese đồng (₫) ( VND )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +07:00 ( Vietnam Standard Time )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+84",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "VN",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".vn",
             "children": []
           }
         ]

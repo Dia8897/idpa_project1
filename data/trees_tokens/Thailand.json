@@ -4,143 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Phleng",
-            "children": []
-          },
-          {
-            "label": "Chat",
-            "children": []
-          },
-          {
-            "label": "Thai",
-            "children": []
-          },
-          {
-            "label": "Thai",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "Royal",
-            "children": []
-          },
-          {
-            "label": "anthem",
-            "children": []
-          },
-          {
-            "label": "Sansoen",
-            "children": []
-          },
-          {
-            "label": "Phra",
-            "children": []
-          },
-          {
-            "label": "Barami",
-            "children": []
-          },
-          {
-            "label": "Praise",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "เพลงชาติไทย Phleng Chat Thai \"Thai National Anthem\" Royal anthem : สรรเสริญพระบารมี Sansoen Phra Barami \"Praise the King\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Bangkok",
             "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "100",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "800",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "100",
-            "children": []
-          },
-          {
-            "label": "550",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "800",
-            "children": []
-          },
-          {
-            "label": "100",
-            "children": []
-          },
-          {
-            "label": "550",
-            "children": []
           }
         ],
         "raw_values": [
-          "Bangkok 13°48′N 100°33′E / 13.800°N 100.550°E / 13.800; 100.550"
+          "Bangkok"
         ]
       },
       {
@@ -376,18 +248,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Thai",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Thai"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -429,22 +289,6 @@
         ],
         "raw_values": [
           "Vajiralongkorn (Rama X)"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Anutin",
-            "children": []
-          },
-          {
-            "label": "Charnvirakul",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Anutin Charnvirakul"
         ]
       },
       {
@@ -493,74 +337,6 @@
         ],
         "raw_values": [
           "House of Representatives"
-        ]
-      },
-      {
-        "label": "sukhothai_kingdom",
-        "children": [
-          {
-            "label": "1238",
-            "children": []
-          },
-          {
-            "label": "1438",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1238–1438"
-        ]
-      },
-      {
-        "label": "ayutthaya_kingdom",
-        "children": [
-          {
-            "label": "1351",
-            "children": []
-          },
-          {
-            "label": "1767",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1351–1767"
-        ]
-      },
-      {
-        "label": "thonburi_kingdom",
-        "children": [
-          {
-            "label": "1767",
-            "children": []
-          },
-          {
-            "label": "1782",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1767–1782"
-        ]
-      },
-      {
-        "label": "rattanakosin_kingdom",
-        "children": [
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "April",
-            "children": []
-          },
-          {
-            "label": "1782",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "6 April 1782"
         ]
       },
       {
@@ -916,106 +692,6 @@
         ],
         "raw_values": [
           "0.798 high ( 76th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Thai",
-            "children": []
-          },
-          {
-            "label": "baht",
-            "children": []
-          },
-          {
-            "label": "THB",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Thai baht (฿) ( THB )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "ICT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +7 ( ICT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "BE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy ( BE )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "66",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+66"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TH",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "TH"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "th",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".th .ไทย"
         ]
       }
     ]

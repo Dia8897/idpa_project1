@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Державний гімн України Derzhavnyi himn Ukrainy \" State Anthem of Ukraine \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Kyiv 50°27′N 30°31′E / 50.450°N 30.517°E / 50.450; 30.517",
+            "label": "Kyiv",
             "children": []
           }
         ]
@@ -49,37 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Ukrainian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Volodymyr Zelenskyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Yulia Svyrydenko",
             "children": []
           }
         ]
@@ -165,15 +129,6 @@
         "children": [
           {
             "label": "24 October 1945",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "24 August 1991",
             "children": []
           }
         ]
@@ -281,64 +236,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Ukrainian hryvnia ( ₴ ) ( UAH )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( EET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +3 ( EEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+380",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "UA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ua .укр",
             "children": []
           }
         ]

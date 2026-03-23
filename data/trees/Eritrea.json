@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "ኤርትራ ኤርትራ ኤርትራ ( Tigrinya ) \" Eritrea, Eritrea, Eritrea \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Asmara 15°20′N 38°55′E / 15.333°N 38.917°E / 15.333; 38.917",
+            "label": "Asmara",
             "children": []
           }
         ]
@@ -58,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Eritrean",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -76,28 +58,10 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Isaias Afwerki",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
             "label": "National Assembly",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "eritrean_war_of_independence",
-        "children": [
-          {
-            "label": "1 September 1961",
             "children": []
           }
         ]
@@ -200,51 +164,6 @@
         "children": [
           {
             "label": "0.503 low ( 178th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Nakfa ( ERN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +03:00 ( EAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+291",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ER",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".er",
             "children": []
           }
         ]

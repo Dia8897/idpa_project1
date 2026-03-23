@@ -40,19 +40,10 @@
         ]
       },
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Ja, vi elsker dette landet (English: \"Yes, we love this country\" ) Royal anthem : Kongesangen (English: \"King's Song\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Oslo 59°56′N 10°41′E / 59.933°N 10.683°E / 59.933; 10.683",
+            "label": "Oslo",
             "children": []
           }
         ]
@@ -94,15 +85,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Norwegian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -116,15 +98,6 @@
         "children": [
           {
             "label": "Harald V",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Jonas Gahr Støre",
             "children": []
           }
         ]
@@ -157,24 +130,6 @@
         ]
       },
       {
-        "label": "state_established",
-        "children": [
-          {
-            "label": "872",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "peak_extent_of_the_old_kingdom",
-        "children": [
-          {
-            "label": "1263",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "kalmar_union_personal_union",
         "children": [
           {
@@ -193,28 +148,10 @@
         ]
       },
       {
-        "label": "state_reestablished",
-        "children": [
-          {
-            "label": "25 February 1814",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "constitution",
         "children": [
           {
             "label": "17 May 1814",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdoms_of_swedennorway_personal_union",
-        "children": [
-          {
-            "label": "4 November 1814",
             "children": []
           }
         ]
@@ -322,64 +259,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Norwegian krone ( NOK )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd . mm . yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+47",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NO",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".no d",
             "children": []
           }
         ]

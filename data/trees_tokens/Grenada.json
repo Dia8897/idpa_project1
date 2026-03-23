@@ -4,102 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Ever",
-            "children": []
-          },
-          {
-            "label": "Conscious",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "Aspire",
-            "children": []
-          },
-          {
-            "label": "Build",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Advance",
-            "children": []
-          },
-          {
-            "label": "as",
-            "children": []
-          },
-          {
-            "label": "One",
-            "children": []
-          },
-          {
-            "label": "People",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ever Conscious of God We Aspire, Build and Advance as One People"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Hail",
-            "children": []
-          },
-          {
-            "label": "Grenada",
-            "children": []
-          },
-          {
-            "label": "Royal",
-            "children": []
-          },
-          {
-            "label": "anthem",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Save",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Hail Grenada \" Royal anthem : \" God Save the King"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -400,18 +304,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Grenadian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Grenadian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -476,22 +368,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Dickon",
-            "children": []
-          },
-          {
-            "label": "Mitchell",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Dickon Mitchell"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -553,26 +429,6 @@
         ],
         "raw_values": [
           "3 March 1967"
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom",
-        "children": [
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "February",
-            "children": []
-          },
-          {
-            "label": "1974",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "7 February 1974"
         ]
       },
       {
@@ -856,106 +712,6 @@
         ],
         "raw_values": [
           "0.791 high ( 80th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Eastern",
-            "children": []
-          },
-          {
-            "label": "Caribbean",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "XCD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Eastern Caribbean dollar ( XCD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −4 ( AST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+1"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "GD"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "gd",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".gd"
         ]
       }
     ]

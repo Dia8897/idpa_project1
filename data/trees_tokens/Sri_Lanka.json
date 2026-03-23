@@ -96,50 +96,6 @@
         ]
       },
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Sri",
-            "children": []
-          },
-          {
-            "label": "Lanka",
-            "children": []
-          },
-          {
-            "label": "Matha",
-            "children": []
-          },
-          {
-            "label": "Sinhala",
-            "children": []
-          },
-          {
-            "label": "Tamil",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Mother",
-            "children": []
-          },
-          {
-            "label": "Sri",
-            "children": []
-          },
-          {
-            "label": "Lanka",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Sri Lanka Matha \" ශ්රී ලංකා මාතා (Sinhala) தாயே இலங்கை (Tamil) (English: \"Mother Sri Lanka\" )"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -173,74 +129,10 @@
           {
             "label": "judicial",
             "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "79",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "933",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "79",
-            "children": []
-          },
-          {
-            "label": "867",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "933",
-            "children": []
-          },
-          {
-            "label": "79",
-            "children": []
-          },
-          {
-            "label": "867",
-            "children": []
           }
         ],
         "raw_values": [
-          "Sri Jayawardenepura Kotte (legislative) Colombo (executive and judicial) 6°56′N 79°52′E / 6.933°N 79.867°E / 6.933; 79.867"
+          "Sri Jayawardenepura Kotte (legislative) Colombo (executive and judicial)"
         ]
       },
       {
@@ -448,22 +340,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Sri",
-            "children": []
-          },
-          {
-            "label": "Lankan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sri Lankan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -485,58 +361,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Anura",
-            "children": []
-          },
-          {
-            "label": "Kumara",
-            "children": []
-          },
-          {
-            "label": "Dissanayake",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Anura Kumara Dissanayake"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Harini",
-            "children": []
-          },
-          {
-            "label": "Amarasuriya",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Harini Amarasuriya"
-        ]
-      },
-      {
-        "label": "speaker_of_the_parliament",
-        "children": [
-          {
-            "label": "Jagath",
-            "children": []
-          },
-          {
-            "label": "Wickramaratne",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jagath Wickramaratne"
         ]
       },
       {
@@ -565,22 +389,6 @@
         ],
         "raw_values": [
           "Parliament"
-        ]
-      },
-      {
-        "label": "sinhala_kingdom_established",
-        "children": [
-          {
-            "label": "543",
-            "children": []
-          },
-          {
-            "label": "BCE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "543 BCE"
         ]
       },
       {
@@ -669,26 +477,6 @@
         ],
         "raw_values": [
           "1815–1948"
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "February",
-            "children": []
-          },
-          {
-            "label": "1948",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "4 February 1948"
         ]
       },
       {
@@ -1024,94 +812,6 @@
         ],
         "raw_values": [
           "0.776 high ( 89th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Sri",
-            "children": []
-          },
-          {
-            "label": "Lankan",
-            "children": []
-          },
-          {
-            "label": "rupee",
-            "children": []
-          },
-          {
-            "label": "Rs",
-            "children": []
-          },
-          {
-            "label": "LKR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sri Lankan rupee ( Rs ) ( LKR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "SLST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +5:30 ( SLST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "94",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+94"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "LK"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "lk",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".lk .ලංකා .இலங்கை"
         ]
       }
     ]

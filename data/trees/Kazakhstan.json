@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Menıñ Qazaqstanym \"My Kazakhstan\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Astana 51°8′N 71°26′E / 51.133°N 71.433°E / 51.133; 71.433",
+            "label": "Astana",
             "children": []
           }
         ]
@@ -25,7 +16,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Almaty 43°14′N 76°57′E / 43.233°N 76.950°E / 43.233; 76.950",
+            "label": "Almaty",
             "children": []
           }
         ]
@@ -58,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Kazakh Kazakhstani",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic under an authoritarian government",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Kassym-Jomart Tokayev",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Oljas Bektenov",
             "children": []
           }
         ]
@@ -143,15 +107,6 @@
         "children": [
           {
             "label": "5 December 1936",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_soviet_union",
-        "children": [
-          {
-            "label": "16 December 1991",
             "children": []
           }
         ]
@@ -263,51 +218,6 @@
         "children": [
           {
             "label": "0.837 very high ( 60th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Tenge (₸) ( KZT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +5",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+7",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KZ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".kz .қаз",
             "children": []
           }
         ]

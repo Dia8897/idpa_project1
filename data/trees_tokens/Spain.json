@@ -84,143 +84,15 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Plus",
-            "children": []
-          },
-          {
-            "label": "ultra",
-            "children": []
-          },
-          {
-            "label": "Latin",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Further",
-            "children": []
-          },
-          {
-            "label": "Beyond",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Plus ultra ( Latin ) (English: 'Further Beyond')"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Marcha",
-            "children": []
-          },
-          {
-            "label": "Real",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Royal",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Marcha Real ( Spanish ) (English: 'Royal March')"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Madrid",
             "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "433",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "700",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "40",
-            "children": []
-          },
-          {
-            "label": "433",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "700",
-            "children": []
           }
         ],
         "raw_values": [
-          "Madrid 40°26′N 3°42′W / 40.433°N 3.700°W / 40.433; -3.700"
+          "Madrid"
         ]
       },
       {
@@ -396,22 +268,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Spaniard",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Spaniard Spanish"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -449,26 +305,6 @@
         ],
         "raw_values": [
           "Felipe VI"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Pedro",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "nchez",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Pedro Sánchez"
         ]
       },
       {
@@ -931,58 +767,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "WET",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC ⁠±0 to +1 ( WET and CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -1080,62 +864,6 @@
         ],
         "raw_values": [
           "most of Spain observes CET/CEST, except the Canary Islands which observe WET/WEST."
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "DD",
-            "children": []
-          },
-          {
-            "label": "MM",
-            "children": []
-          },
-          {
-            "label": "YYYY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "DD/MM/YYYY"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "34",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+34"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ES",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ES"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "es",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".es"
         ]
       }
     ]

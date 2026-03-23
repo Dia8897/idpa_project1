@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "애국가 ( Aegukka ) (\" Patriotic Song \")",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Pyongyang 39°2′N 125°45′E / 39.033°N 125.750°E / 39.033; 125.750",
+            "label": "Pyongyang",
             "children": []
           }
         ]
@@ -44,15 +35,6 @@
         "children": [
           {
             "label": "73% no religion 13% Chondoism 12% Shamanism 1.5% Buddhism 0.5% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "North Korean Korean",
             "children": []
           }
         ]
@@ -134,15 +116,6 @@
         "children": [
           {
             "label": "8 February 1946",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "dprk_established",
-        "children": [
-          {
-            "label": "10 July 1948",
             "children": []
           }
         ]
@@ -245,60 +218,6 @@
         "children": [
           {
             "label": "16.6 low inequality",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Korean People's won (₩) ( KPW )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +09:00 ( PYT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "yy, yyyy년 mm월 dd일 yy, yyyy/mm/dd ( AD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+850",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KP",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".kp",
             "children": []
           }
         ]

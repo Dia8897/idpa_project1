@@ -22,37 +22,10 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Je maintiendrai ( French ) ( \"I will maintain\" )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Wilhelmus ( Dutch ) ( \"William\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "sovereign_state",
         "children": [
           {
             "label": "Kingdom of the Netherlands",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "before_independence",
-        "children": [
-          {
-            "label": "Spanish Netherlands",
             "children": []
           }
         ]
@@ -76,28 +49,10 @@
         ]
       },
       {
-        "label": "united_kingdom_of_the_netherlands",
-        "children": [
-          {
-            "label": "16 March 1815",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "liberation_day",
         "children": [
           {
             "label": "5 May 1945",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_charter",
-        "children": [
-          {
-            "label": "15 December 1954",
             "children": []
           }
         ]
@@ -115,7 +70,7 @@
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Amsterdam 52°22′N 4°53′E / 52.367°N 4.883°E / 52.367; 4.883",
+            "label": "Amsterdam",
             "children": []
           }
         ]
@@ -197,15 +152,6 @@
         "children": [
           {
             "label": "Willem-Alexander",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Rob Jetten",
             "children": []
           }
         ]
@@ -349,24 +295,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro (€) ( EUR ) United States dollar (US$) ( USD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC+01:00 ( CET ) UTC−04:00 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -376,37 +304,10 @@
         ]
       },
       {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd-mm-yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "driving_side",
         "children": [
           {
             "label": "Right",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+31 , +599",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".nl , .bq",
             "children": []
           }
         ]

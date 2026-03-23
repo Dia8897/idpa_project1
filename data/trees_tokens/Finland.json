@@ -4,131 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Maamme",
-            "children": []
-          },
-          {
-            "label": "Finnish",
-            "children": []
-          },
-          {
-            "label": "V",
-            "children": []
-          },
-          {
-            "label": "rt",
-            "children": []
-          },
-          {
-            "label": "land",
-            "children": []
-          },
-          {
-            "label": "Swedish",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Maamme (Finnish) Vårt land (Swedish) (English: \"Our Land\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Helsinki",
             "children": []
-          },
-          {
-            "label": "60",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "60",
-            "children": []
-          },
-          {
-            "label": "17083",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "93750",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "60",
-            "children": []
-          },
-          {
-            "label": "17083",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "93750",
-            "children": []
           }
         ],
         "raw_values": [
-          "Helsinki 60°10′15′′N 24°56′15′′E / 60.17083°N 24.93750°E / 60.17083; 24.93750"
+          "Helsinki"
         ]
       },
       {
@@ -328,22 +212,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Finnish",
-            "children": []
-          },
-          {
-            "label": "Finn",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Finnish Finn"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -361,58 +229,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Alexander",
-            "children": []
-          },
-          {
-            "label": "Stubb",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Alexander Stubb"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Petteri",
-            "children": []
-          },
-          {
-            "label": "Orpo",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Petteri Orpo"
-        ]
-      },
-      {
-        "label": "speaker_of_the_parliament",
-        "children": [
-          {
-            "label": "Jussi",
-            "children": []
-          },
-          {
-            "label": "Halla",
-            "children": []
-          },
-          {
-            "label": "aho",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jussi Halla-aho"
         ]
       },
       {
@@ -453,46 +269,6 @@
         ],
         "raw_values": [
           "29 March 1809 (from Sweden)"
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1917",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "6 December 1917"
-        ]
-      },
-      {
-        "label": "constitution_established",
-        "children": [
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "July",
-            "children": []
-          },
-          {
-            "label": "1919",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "17 July 1919"
         ]
       },
       {
@@ -775,42 +551,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "EET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( EET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -828,70 +568,6 @@
         ],
         "raw_values": [
           "UTC +3 ( EEST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd . mm . yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "358",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+358"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "FI",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "FI"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "fi",
-            "children": []
-          },
-          {
-            "label": "ax",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".fi , .ax a"
         ]
       }
     ]

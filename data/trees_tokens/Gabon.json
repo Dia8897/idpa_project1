@@ -4,143 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "Travail",
-            "children": []
-          },
-          {
-            "label": "Justice",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "Work",
-            "children": []
-          },
-          {
-            "label": "Justice",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Union, Travail, Justice\" (French) \"Union, Work, Justice"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "La",
-            "children": []
-          },
-          {
-            "label": "Concorde",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Concord",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "La Concorde \" (French) \"The Concord"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Libreville",
             "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "450",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "450",
-            "children": []
           }
         ],
         "raw_values": [
-          "Libreville 0°23′N 9°27′E / 0.383°N 9.450°E / 0.383; 9.450"
+          "Libreville"
         ]
       },
       {
@@ -340,22 +212,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Gabonese",
-            "children": []
-          },
-          {
-            "label": "Gabonaise",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Gabonese Gabonaise"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -373,46 +229,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Brice",
-            "children": []
-          },
-          {
-            "label": "Oligui",
-            "children": []
-          },
-          {
-            "label": "Nguema",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Brice Oligui Nguema"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "raphin",
-            "children": []
-          },
-          {
-            "label": "Moundounga",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Séraphin Moundounga"
         ]
       },
       {
@@ -485,42 +301,6 @@
         ],
         "raw_values": [
           "1882-1910"
-        ]
-      },
-      {
-        "label": "reestablished_as_french_gabon_under_the_administration_of_french_equatorial_africa",
-        "children": [
-          {
-            "label": "1910",
-            "children": []
-          },
-          {
-            "label": "1958",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1910-1958"
-        ]
-      },
-      {
-        "label": "republic_established",
-        "children": [
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1958",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "28 November 1958"
         ]
       },
       {
@@ -856,90 +636,6 @@
         ],
         "raw_values": [
           "0.733 high ( 108th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Central",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "CFA",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "XAF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Central African CFA franc ( XAF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "WAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( WAT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "241",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+241"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GA",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "GA"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ga",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ga"
         ]
       }
     ]

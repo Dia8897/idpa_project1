@@ -4,163 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unidade",
-            "children": []
-          },
-          {
-            "label": "Luta",
-            "children": []
-          },
-          {
-            "label": "Progresso",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "Struggle",
-            "children": []
-          },
-          {
-            "label": "Progress",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Unidade, Luta, Progresso \"Unity, Struggle, Progress\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Esta",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "Nossa",
-            "children": []
-          },
-          {
-            "label": "P",
-            "children": []
-          },
-          {
-            "label": "tria",
-            "children": []
-          },
-          {
-            "label": "Amada",
-            "children": []
-          },
-          {
-            "label": "This",
-            "children": []
-          },
-          {
-            "label": "Is",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "Beloved",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Esta É a Nossa Pátria Amada \"This Is Our Beloved Homeland\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Bissau",
             "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "867",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "600",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "867",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "600",
-            "children": []
           }
         ],
         "raw_values": [
-          "Bissau 11°52′N 15°36′W / 11.867°N 15.600°W / 11.867; -15.600"
+          "Bissau"
         ]
       },
       {
@@ -380,26 +232,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Guinean",
-            "children": []
-          },
-          {
-            "label": "Bissau",
-            "children": []
-          },
-          {
-            "label": "Guinean",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Guinean Bissau-Guinean"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -493,30 +325,6 @@
         ],
         "raw_values": [
           "Horta Inta-A Na Man"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Il",
-            "children": []
-          },
-          {
-            "label": "dio",
-            "children": []
-          },
-          {
-            "label": "Vieira",
-            "children": []
-          },
-          {
-            "label": "T",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ilídio Vieira Té"
         ]
       },
       {
@@ -892,94 +700,6 @@
         ],
         "raw_values": [
           "0.514 low ( 174th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "CFA",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "XOF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "West African CFA franc ( XOF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "GMT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC ±00:00 ( GMT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "245",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+245"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GW",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "GW"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "gw",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".gw"
         ]
       }
     ]

@@ -4,24 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "God's will first",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Nauru Bwiema (Nauruan) \"Nauru, Our Homeland\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -49,37 +31,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Nauruan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic with an executive presidency under a non-partisan democracy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "David Adeang",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "speaker_of_the_parliament",
-        "children": [
-          {
-            "label": "Marcus Stephen",
             "children": []
           }
         ]
@@ -98,15 +53,6 @@
         "children": [
           {
             "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "nauru_independence_act",
-        "children": [
-          {
-            "label": "31 January 1968 ; 58 years ago ( 1968-01-31 )",
             "children": []
           }
         ]
@@ -200,51 +146,6 @@
         "children": [
           {
             "label": "0.703 high ( 124th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Australian dollar ( AUD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC+12",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+674",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".nr",
             "children": []
           }
         ]

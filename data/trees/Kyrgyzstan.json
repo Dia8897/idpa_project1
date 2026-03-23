@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Кыргыз Республикасынын Мамлекеттик гимни (Kyrgyz) Kyrgyz Respublikasynyn Mamlekettik gimni \" State Anthem of the Kyrgyz Republic \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Bishkek 42°52′N 74°36′E / 42.867°N 74.600°E / 42.867; 74.600",
+            "label": "Bishkek",
             "children": []
           }
         ]
@@ -58,28 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Kyrgyz Kyrgyzstani",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Sadyr Japarov",
             "children": []
           }
         ]
@@ -130,15 +103,6 @@
         ]
       },
       {
-        "label": "annexed_by_the_russian_empire",
-        "children": [
-          {
-            "label": "1876",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "karakirghiz_ao",
         "children": [
           {
@@ -170,24 +134,6 @@
         "children": [
           {
             "label": "30 December 1990",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared_from_ussr",
-        "children": [
-          {
-            "label": "31 August 1991",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_recognized",
-        "children": [
-          {
-            "label": "26 December 1991",
             "children": []
           }
         ]
@@ -299,60 +245,6 @@
         "children": [
           {
             "label": "0.720 high ( 117th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Kyrgyzstani som ( c ) ( KGS )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +6 ( KGT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+996",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".kg",
             "children": []
           }
         ]

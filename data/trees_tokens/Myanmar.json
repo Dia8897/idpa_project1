@@ -4,123 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Kaba",
-            "children": []
-          },
-          {
-            "label": "Ma",
-            "children": []
-          },
-          {
-            "label": "Kyei",
-            "children": []
-          },
-          {
-            "label": "Till",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "End",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "World",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ကမ္ဘာမကျေ Kaba Ma Kyei \"Till the End of the World\""
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Naypyidaw",
             "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "96",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "96",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "96",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
           }
         ],
         "raw_values": [
-          "Naypyidaw 21°00′N 96°00′E / 21.000°N 96.000°E / 21.000; 96.000"
+          "Naypyidaw"
         ]
       },
       {
@@ -416,26 +308,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Burmese",
-            "children": []
-          },
-          {
-            "label": "Myanmar",
-            "children": []
-          },
-          {
-            "label": "Myanma",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Burmese Myanmar Myanma"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -476,50 +348,6 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Vacant",
-            "children": []
-          },
-          {
-            "label": "Min",
-            "children": []
-          },
-          {
-            "label": "Aung",
-            "children": []
-          },
-          {
-            "label": "Hlaing",
-            "children": []
-          },
-          {
-            "label": "serving",
-            "children": []
-          },
-          {
-            "label": "Pro",
-            "children": []
-          },
-          {
-            "label": "Tem",
-            "children": []
-          },
-          {
-            "label": "On",
-            "children": []
-          },
-          {
-            "label": "Duty",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Vacant ( Min Aung Hlaing serving Pro Tem On Duty)"
-        ]
-      },
-      {
         "label": "sspc_chairman",
         "children": [
           {
@@ -553,22 +381,6 @@
         ],
         "raw_values": [
           "Soe Win"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Nyo",
-            "children": []
-          },
-          {
-            "label": "Saw",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nyo Saw"
         ]
       },
       {
@@ -669,26 +481,6 @@
         ],
         "raw_values": [
           "1 January 1886"
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom",
-        "children": [
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1948",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "4 January 1948"
         ]
       },
       {
@@ -1040,90 +832,6 @@
         ],
         "raw_values": [
           "0.609 medium ( 150th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Myanmar",
-            "children": []
-          },
-          {
-            "label": "kyat",
-            "children": []
-          },
-          {
-            "label": "K",
-            "children": []
-          },
-          {
-            "label": "MMK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Myanmar kyat (K) ( MMK )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "06",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "MMT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +06:30 ( MMT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "95",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+95"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MM",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MM"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "mm",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".mm"
         ]
       }
     ]

@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "To Lead is to Serve",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "God Save Our Solomon Islands",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Honiara 9°25′55′′S 159°57′20′′E / 9.43194°S 159.95556°E / -9.43194; 159.95556",
+            "label": "Honiara",
             "children": []
           }
         ]
@@ -67,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Solomon Islander Solomonese",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -103,28 +76,10 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Jeremiah Manele",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
             "label": "National Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_the_united_kingdom",
-        "children": [
-          {
-            "label": "7 July 1978",
             "children": []
           }
         ]
@@ -232,55 +187,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Solomon Islands dollar ( SBD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +11 (Solomon Islands Time)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "Not observed",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+677",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SB",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".sb",
             "children": []
           }
         ]

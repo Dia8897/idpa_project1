@@ -4,38 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Inno",
-            "children": []
-          },
-          {
-            "label": "Pontificio",
-            "children": []
-          },
-          {
-            "label": "Italian",
-            "children": []
-          },
-          {
-            "label": "Pontifical",
-            "children": []
-          },
-          {
-            "label": "Hymn",
-            "children": []
-          },
-          {
-            "label": "noicon",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Inno Pontificio ( Italian ) \"Pontifical Hymn\" noicon"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -53,82 +21,10 @@
           {
             "label": "state",
             "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "54",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "9033",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "4533",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "9033",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "4533",
-            "children": []
           }
         ],
         "raw_values": [
-          "Vatican City ( city-state ) 41°54.2′N 12°27.2′E / 41.9033°N 12.4533°E / 41.9033; 12.4533"
+          "Vatican City ( city-state )"
         ]
       },
       {
@@ -205,38 +101,6 @@
         ],
         "raw_values": [
           "Catholicism ( state religion )"
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "None",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "jure",
-            "children": []
-          },
-          {
-            "label": "Vatican",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "facto",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "None ( de jure ) Vatican ( de facto )"
         ]
       },
       {
@@ -505,42 +369,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -558,42 +386,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "379",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+379"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "VA",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "VA"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "va",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".va"
         ]
       }
     ]

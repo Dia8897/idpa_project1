@@ -4,139 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Arabic",
-            "children": []
-          },
-          {
-            "label": "Ad",
-            "children": []
-          },
-          {
-            "label": "Dawlat",
-            "children": []
-          },
-          {
-            "label": "Al",
-            "children": []
-          },
-          {
-            "label": "Mahaldibiyyat",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "الدولة المحلديبية ( Arabic ) Ad-Dawlat Al-Mahaldibiyyat"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Gaumee",
-            "children": []
-          },
-          {
-            "label": "Salaam",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Salute",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ޤައުމީ ސަލާމް \" Gaumee Salaam \" \"National Salute\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Mal",
             "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "73",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "17528",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "73",
-            "children": []
-          },
-          {
-            "label": "50889",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "17528",
-            "children": []
-          },
-          {
-            "label": "73",
-            "children": []
-          },
-          {
-            "label": "50889",
-            "children": []
           }
         ],
         "raw_values": [
-          "Malé 4°10′31′′N 73°30′32′′E / 4.17528°N 73.50889°E / 4.17528; 73.50889"
+          "Malé"
         ]
       },
       {
@@ -184,18 +60,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Maldivian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Maldivian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -213,42 +77,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Mohamed",
-            "children": []
-          },
-          {
-            "label": "Muizzu",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mohamed Muizzu"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Hussain",
-            "children": []
-          },
-          {
-            "label": "Mohamed",
-            "children": []
-          },
-          {
-            "label": "Latheef",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Hussain Mohamed Latheef"
         ]
       },
       {
@@ -309,26 +137,6 @@
         ],
         "raw_values": [
           "People's Majlis"
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "July",
-            "children": []
-          },
-          {
-            "label": "1965",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "26 July 1965"
         ]
       },
       {
@@ -640,102 +448,6 @@
         ],
         "raw_values": [
           "0.766 high ( 93rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Maldivian",
-            "children": []
-          },
-          {
-            "label": "rufiyaa",
-            "children": []
-          },
-          {
-            "label": "MVR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Maldivian rufiyaa ( MVR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "MVT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +5 ( MVT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd / mm / yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+960"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MV",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MV"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "mv",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".mv"
         ]
       }
     ]

@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "\"Ubumwe, Ibikorwa, Amajambere\" ( Kirundi ) \"Unité, Travail, Progrès\" ( French ) \"Union, Work, Progress\" (English)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Burundi Bwacu \" (Kirundi) \"Our Burundi",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Gitega 3°30′S 30°00′E / 3.500°S 30.000°E / -3.500; 30.000",
+            "label": "Gitega",
             "children": []
           }
         ]
@@ -76,46 +58,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Burundian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary dominant-party presidential republic under an authoritarian dictatorship",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Évariste Ndayishimiye",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Nestor Ntahontuye",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Prosper Bazombanza",
             "children": []
           }
         ]
@@ -148,15 +94,6 @@
         ]
       },
       {
-        "label": "kingdom_of_urundi",
-        "children": [
-          {
-            "label": "1680–1966",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "part_of_german_east_africa",
         "children": [
           {
@@ -170,15 +107,6 @@
         "children": [
           {
             "label": "1916–1962",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_belgium",
-        "children": [
-          {
-            "label": "1 July 1962",
             "children": []
           }
         ]
@@ -299,51 +227,6 @@
         "children": [
           {
             "label": "0.439 low ( 187th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Burundian franc (FBu) ( BIF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( CAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+257",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BI",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".bi",
             "children": []
           }
         ]

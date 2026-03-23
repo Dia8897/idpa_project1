@@ -4,143 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unidade",
-            "children": []
-          },
-          {
-            "label": "Ac",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          },
-          {
-            "label": "Progresso",
-            "children": []
-          },
-          {
-            "label": "Portuguese",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "Action",
-            "children": []
-          },
-          {
-            "label": "Progress",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Unidade, Acção, Progresso (Portuguese) \"Unity, Action, Progress\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "P",
-            "children": []
-          },
-          {
-            "label": "tria",
-            "children": []
-          },
-          {
-            "label": "Portuguese",
-            "children": []
-          },
-          {
-            "label": "Fatherland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Pátria (Portuguese) \"Fatherland\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Dili",
             "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "125",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "125",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "125",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
           }
         ],
         "raw_values": [
-          "Dili 8°33′S 125°34′E / 8.55°S 125.56°E / -8.55; 125.56"
+          "Dili"
         ]
       },
       {
@@ -328,34 +200,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "East",
-            "children": []
-          },
-          {
-            "label": "Timorese",
-            "children": []
-          },
-          {
-            "label": "Timorese",
-            "children": []
-          },
-          {
-            "label": "Maubere",
-            "children": []
-          },
-          {
-            "label": "informal",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "East Timorese Timorese Maubere (informal)"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -377,46 +221,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Jos",
-            "children": []
-          },
-          {
-            "label": "Ramos",
-            "children": []
-          },
-          {
-            "label": "Horta",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "José Ramos-Horta"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Xanana",
-            "children": []
-          },
-          {
-            "label": "Gusm",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Xanana Gusmão"
         ]
       },
       {
@@ -456,46 +260,6 @@
         ]
       },
       {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1975",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "28 November 1975"
-        ]
-      },
-      {
-        "label": "annexation_by_indonesia",
-        "children": [
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "July",
-            "children": []
-          },
-          {
-            "label": "1976",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "17 July 1976"
-        ]
-      },
-      {
         "label": "administered_by_untaet",
         "children": [
           {
@@ -513,26 +277,6 @@
         ],
         "raw_values": [
           "25 October 1999"
-        ]
-      },
-      {
-        "label": "independence_restored",
-        "children": [
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "2002",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "20 May 2002"
         ]
       },
       {
@@ -820,106 +564,6 @@
         ],
         "raw_values": [
           "0.634 medium ( 142nd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "United",
-            "children": []
-          },
-          {
-            "label": "States",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "Timor",
-            "children": []
-          },
-          {
-            "label": "Leste",
-            "children": []
-          },
-          {
-            "label": "centavo",
-            "children": []
-          },
-          {
-            "label": "USD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "United States dollar Timor-Leste centavo ( USD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "Timor",
-            "children": []
-          },
-          {
-            "label": "Leste",
-            "children": []
-          },
-          {
-            "label": "Time",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +9 ( Timor-Leste Time )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "670",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+670"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TL",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "TL"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "tl",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".tl"
         ]
       }
     ]

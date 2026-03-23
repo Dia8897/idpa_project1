@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Pula \"Rain\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Fatshe leno la rona \" \"This Land of Ours",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Gaborone 24°39.5′S 25°54.5′E / 24.6583°S 25.9083°E / -24.6583; 25.9083",
+            "label": "Gaborone",
             "children": []
           }
         ]
@@ -67,28 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Batswana (plural) Motswana (singular)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic with an executive presidency",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Duma Boko",
             "children": []
           }
         ]
@@ -116,15 +80,6 @@
         "children": [
           {
             "label": "Parliament ( National Assembly )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "established_constitution",
-        "children": [
-          {
-            "label": "30 September 1966",
             "children": []
           }
         ]
@@ -218,60 +173,6 @@
         "children": [
           {
             "label": "0.731 high ( 111th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Pula ( BWP )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( Central Africa Time )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+267",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BW",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".bw",
             "children": []
           }
         ]

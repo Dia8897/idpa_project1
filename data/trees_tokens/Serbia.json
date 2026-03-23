@@ -4,115 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Bo",
-            "children": []
-          },
-          {
-            "label": "e",
-            "children": []
-          },
-          {
-            "label": "pravde",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Justice",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Боже правде Bože pravde (English: \"God of Justice\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Belgrade",
             "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "800",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "467",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "800",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "467",
-            "children": []
           }
         ],
         "raw_values": [
-          "Belgrade 44°48′N 20°28′E / 44.800°N 20.467°E / 44.800; 20.467"
+          "Belgrade"
         ]
       },
       {
@@ -312,18 +212,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Serbian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Serbian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -341,42 +229,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Aleksandar",
-            "children": []
-          },
-          {
-            "label": "Vu",
-            "children": []
-          },
-          {
-            "label": "i",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Aleksandar Vučić"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "uro",
-            "children": []
-          },
-          {
-            "label": "Macut",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Đuro Macut"
         ]
       },
       {
@@ -428,18 +280,6 @@
         ]
       },
       {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "1217",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1217"
-        ]
-      },
-      {
         "label": "empire",
         "children": [
           {
@@ -449,18 +289,6 @@
         ],
         "raw_values": [
           "1346"
-        ]
-      },
-      {
-        "label": "independence_lost",
-        "children": [
-          {
-            "label": "1459",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1459"
         ]
       },
       {
@@ -485,42 +313,6 @@
         ],
         "raw_values": [
           "1815"
-        ]
-      },
-      {
-        "label": "independence_recognised",
-        "children": [
-          {
-            "label": "1878",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1878"
-        ]
-      },
-      {
-        "label": "kingdom_of_serbia",
-        "children": [
-          {
-            "label": "1882",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1882"
-        ]
-      },
-      {
-        "label": "kingdom_of_yugoslavia",
-        "children": [
-          {
-            "label": "1918",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1918"
         ]
       },
       {
@@ -557,18 +349,6 @@
         ],
         "raw_values": [
           "2003"
-        ]
-      },
-      {
-        "label": "independence_restored",
-        "children": [
-          {
-            "label": "2006",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "2006"
         ]
       },
       {
@@ -907,46 +687,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Serbian",
-            "children": []
-          },
-          {
-            "label": "dinar",
-            "children": []
-          },
-          {
-            "label": "RSD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Serbian dinar ( RSD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -964,66 +704,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "AD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "mm/dd/yyyy ( AD )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "381",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+381"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "RS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "RS"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "rs",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".rs .срб"
         ]
       }
     ]

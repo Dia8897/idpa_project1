@@ -4,171 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "All",
-            "children": []
-          },
-          {
-            "label": "h",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Wa",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Malik",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Country",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ٱللَّٰه، ٱلْوَطَن، ٱلْمَلِك \"Allāh, al-Waṭan, al-Malik\" \"God, Country, King\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "Na",
-            "children": []
-          },
-          {
-            "label": "d",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Wa",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "y",
-            "children": []
-          },
-          {
-            "label": "Cherifian",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ٱلنَّشِيْد ٱلْوَطَنِي \"an-Našīd al-Waṭanīy\" \" Cherifian Anthem \""
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Rabat",
             "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "02",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
           }
         ],
         "raw_values": [
-          "Rabat 34°02′N 6°51′W / 34.033°N 6.850°W / 34.033; -6.850"
+          "Rabat"
         ]
       },
       {
@@ -177,74 +21,10 @@
           {
             "label": "Casablanca",
             "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "533",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "583",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "533",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "583",
-            "children": []
           }
         ],
         "raw_values": [
-          "Casablanca 33°32′N 7°35′W / 33.533°N 7.583°W / 33.533; -7.583"
+          "Casablanca"
         ]
       },
       {
@@ -520,18 +300,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Moroccan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Moroccan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -557,38 +325,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary semi-constitutional monarchy"
-        ]
-      },
-      {
-        "label": "king",
-        "children": [
-          {
-            "label": "Mohammed",
-            "children": []
-          },
-          {
-            "label": "VI",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mohammed VI"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Aziz",
-            "children": []
-          },
-          {
-            "label": "Akhannouch",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Aziz Akhannouch"
         ]
       },
       {
@@ -641,70 +377,6 @@
         ],
         "raw_values": [
           "House of Representatives"
-        ]
-      },
-      {
-        "label": "idrisid_dynasty",
-        "children": [
-          {
-            "label": "788",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "788"
-        ]
-      },
-      {
-        "label": "alawi_dynasty_current_dynasty",
-        "children": [
-          {
-            "label": "1631",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1631"
-        ]
-      },
-      {
-        "label": "french_protectorate",
-        "children": [
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1912",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "30 March 1912"
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1956",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "2 March 1956"
         ]
       },
       {
@@ -1008,94 +680,6 @@
         ],
         "raw_values": [
           "0.710 high ( 120th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Moroccan",
-            "children": []
-          },
-          {
-            "label": "dirham",
-            "children": []
-          },
-          {
-            "label": "MAD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Moroccan dirham ( MAD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "during",
-            "children": []
-          },
-          {
-            "label": "Ramadan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 UTC+0 (during Ramadan )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "212",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+212"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MA",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MA"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ma",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ma .المغرب"
         ]
       }
     ]

@@ -4,187 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "All",
-            "children": []
-          },
-          {
-            "label": "h",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Wa",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Malik",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Country",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "الله، الوطن، الملك Allāh, al-Waṭan, al-Malik \"God, Country, King\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Al",
-            "children": []
-          },
-          {
-            "label": "Sal",
-            "children": []
-          },
-          {
-            "label": "m",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Malak",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Urdun",
-            "children": []
-          },
-          {
-            "label": "Peace",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Jordan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "السلام الملكي الأردني Al-Salām al-Malakī al-Urdunī \" Peace to the King of Jordan \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Amman",
             "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "57",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "950",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "933",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "950",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "933",
-            "children": []
           }
         ],
         "raw_values": [
-          "Amman 31°57′N 35°56′E / 31.950°N 35.933°E / 31.950; 35.933"
+          "Amman"
         ]
       },
       {
@@ -292,18 +120,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Jordanian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jordanian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -341,22 +157,6 @@
         ],
         "raw_values": [
           "Abdullah II"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Jafar",
-            "children": []
-          },
-          {
-            "label": "Hassan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jafar Hassan"
         ]
       },
       {
@@ -401,46 +201,6 @@
         ],
         "raw_values": [
           "House of Representatives"
-        ]
-      },
-      {
-        "label": "emirate",
-        "children": [
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "April",
-            "children": []
-          },
-          {
-            "label": "1921",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "11 April 1921"
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "1946",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "25 May 1946"
         ]
       },
       {
@@ -752,86 +512,6 @@
         ],
         "raw_values": [
           "0.754 high ( 100th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Jordanian",
-            "children": []
-          },
-          {
-            "label": "dinar",
-            "children": []
-          },
-          {
-            "label": "JOD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jordanian dinar ( JOD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "03",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +03:00 ( AST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "962",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+962"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "JO",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "JO"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "jo",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".jo .الاردن"
         ]
       }
     ]

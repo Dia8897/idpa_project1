@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "\" Deo Juvante \" ( Latin ) (English: \"With God's Help\" )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "\" Inu Munegascu \" (English: \"Monégasque Hymn\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Monaco ( city-state ) 43°43′52′′N 07°25′12′′E / 43.73111°N 7.42000°E / 43.73111; 7.42000",
+            "label": "Monaco ( city-state )",
             "children": []
           }
         ]
@@ -71,15 +53,6 @@
         "children": [
           {
             "label": "86.0% Christianity 80.9% Catholicism ( official ) 5.1% other Christian 11.7% no religion 1.7% Judaism 0.4% Islam 0.2% other",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Monégasque",
             "children": []
           }
         ]
@@ -134,15 +107,6 @@
         "children": [
           {
             "label": "17 May 1814",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_occupation_of_the_sixth_coalition",
-        "children": [
-          {
-            "label": "17 June 1814",
             "children": []
           }
         ]
@@ -241,64 +205,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+377",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MC",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".mc",
             "children": []
           }
         ]

@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "عيشي بلادي Īshī Bilādī \"Long Live My Country\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Abu Dhabi 24°28′N 54°22′E / 24.467°N 54.367°E / 24.467; 54.367",
+            "label": "Abu Dhabi",
             "children": []
           }
         ]
@@ -25,7 +16,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Dubai 25°15′N 55°18′E / 25.250°N 55.300°E / 25.250; 55.300",
+            "label": "Dubai",
             "children": []
           }
         ]
@@ -67,28 +58,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Emirati",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Federal semi-presidential elective semi-constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Mohamed bin Zayed Al Nahyan",
             "children": []
           }
         ]
@@ -103,37 +76,10 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mohammed bin Rashid Al Maktoum",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
             "label": "Federal Supreme Council",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "british_protectorate_as_part_of_trucial_states",
-        "children": [
-          {
-            "label": "1820 and 1892",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom",
-        "children": [
-          {
-            "label": "2 December 1971",
             "children": []
           }
         ]
@@ -236,51 +182,6 @@
         "children": [
           {
             "label": "0.940 very high ( 15th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "UAE dirham ( AED )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +04:00 ( GST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+971",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AE",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ae امارات.",
             "children": []
           }
         ]

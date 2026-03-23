@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "ليبيا، ليبيا، ليبيا \" Libya, Libya, Libya \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Tripoli 32°52′N 13°11′E / 32.867°N 13.183°E / 32.867; 13.183",
+            "label": "Tripoli",
             "children": []
           }
         ]
@@ -67,15 +58,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Libyan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -103,15 +85,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Abdul Hamid Dbeibeh",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "speaker_of_the_house_of_representatives",
         "children": [
           {
@@ -125,15 +98,6 @@
         "children": [
           {
             "label": "High Council of State House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ottoman_tripolitania",
-        "children": [
-          {
-            "label": "1551",
             "children": []
           }
         ]
@@ -161,15 +125,6 @@
         "children": [
           {
             "label": "16 November 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_libya",
-        "children": [
-          {
-            "label": "24 December 1951",
             "children": []
           }
         ]
@@ -290,51 +245,6 @@
         "children": [
           {
             "label": "0.721 high ( 115th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Libyan dinar ( LYD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( EET )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+218",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ly ليبيا.",
             "children": []
           }
         ]

@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "ძალა ერთობაშია Dzala ertobashia \"Strength is in Unity\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "თავისუფლება Tavisupleba \"Freedom\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Tbilisi 41°43′N 44°47′E / 41.717°N 44.783°E / 41.717; 44.783",
+            "label": "Tbilisi",
             "children": []
           }
         ]
@@ -67,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Georgian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Mikheil Kavelashvili",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Irakli Kobakhidze",
             "children": []
           }
         ]
@@ -130,15 +85,6 @@
         ]
       },
       {
-        "label": "kingdom_of_abkhazia_and_kingdom_of_the_iberians",
-        "children": [
-          {
-            "label": "786–1008",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "unification_of_georgia",
         "children": [
           {
@@ -157,46 +103,10 @@
         ]
       },
       {
-        "label": "russian_annexation",
-        "children": [
-          {
-            "label": "1801–1858",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_russia",
-        "children": [
-          {
-            "label": "26 May 1918",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "russian_invasion",
         "children": [
           {
             "label": "12 February 1921",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "soviet_annexation",
-        "children": [
-          {
-            "label": "25 February 1921",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_soviet_union_declared_finalized",
-        "children": [
-          {
-            "label": "9 April 1991 26 December 1991 ( 1991-12-26 )",
             "children": []
           }
         ]
@@ -290,60 +200,6 @@
         "children": [
           {
             "label": "0.844 very high ( 57th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Georgian lari (₾) ( GEL )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +4 ( GET )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+995",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GE",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ge , .გე",
             "children": []
           }
         ]

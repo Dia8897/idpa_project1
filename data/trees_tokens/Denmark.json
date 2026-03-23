@@ -4,118 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Forbundne",
-            "children": []
-          },
-          {
-            "label": "forpligtet",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "kongeriget",
-            "children": []
-          },
-          {
-            "label": "Danmark",
-            "children": []
-          },
-          {
-            "label": "United",
-            "children": []
-          },
-          {
-            "label": "committed",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Kingdom",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Denmark",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Forbundne, forpligtet, for kongeriget Danmark (United, committed, for the Kingdom of Denmark)"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Der",
-            "children": []
-          },
-          {
-            "label": "er",
-            "children": []
-          },
-          {
-            "label": "et",
-            "children": []
-          },
-          {
-            "label": "yndigt",
-            "children": []
-          },
-          {
-            "label": "land",
-            "children": []
-          },
-          {
-            "label": "Danish",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "There",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "lovely",
-            "children": []
-          },
-          {
-            "label": "country",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Der er et yndigt land ( Danish ) (English: \"There is a lovely country\" )"
-        ]
-      },
-      {
         "label": "royal_anthem",
         "children": [
           {
@@ -253,74 +141,10 @@
           {
             "label": "Copenhagen",
             "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "717",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "567",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "717",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "567",
-            "children": []
           }
         ],
         "raw_values": [
-          "Copenhagen 55°43′N 12°34′E / 55.717°N 12.567°E / 55.717; 12.567"
+          "Copenhagen"
         ]
       },
       {
@@ -485,22 +309,6 @@
         ],
         "raw_values": [
           "Frederik X"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mette",
-            "children": []
-          },
-          {
-            "label": "Frederiksen",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mette Frederiksen"
         ]
       },
       {
@@ -823,46 +631,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Danish",
-            "children": []
-          },
-          {
-            "label": "krone",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Danish krone"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "01",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC+01:00 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -896,42 +664,6 @@
         ],
         "raw_values": [
           "Right"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "45",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+45"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "DK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "DK"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "dk",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".dk"
         ]
       }
     ]

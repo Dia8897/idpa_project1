@@ -4,131 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Y",
-            "children": []
-          },
-          {
-            "label": "y",
-            "children": []
-          },
-          {
-            "label": "ngj",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "j",
-            "children": []
-          },
-          {
-            "label": "nx",
-            "children": []
-          },
-          {
-            "label": "ngq",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Volunteers",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "义勇军进行曲 Yìyǒngjūn jìnxíngqǔ \" March of the Volunteers \""
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Beijing",
             "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "116",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "917",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "116",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "917",
-            "children": []
-          },
-          {
-            "label": "116",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
           }
         ],
         "raw_values": [
-          "Beijing 39°55′N 116°23′E / 39.917°N 116.383°E / 39.917; 116.383"
+          "Beijing"
         ]
       },
       {
@@ -352,18 +236,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Chinese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Chinese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -448,22 +320,6 @@
         ]
       },
       {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Han",
-            "children": []
-          },
-          {
-            "label": "Zheng",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Han Zheng"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -485,42 +341,6 @@
         ],
         "raw_values": [
           "National People's Congress"
-        ]
-      },
-      {
-        "label": "first_preimperial_dynasty",
-        "children": [
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "2070",
-            "children": []
-          },
-          {
-            "label": "BCE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "c. 2070 BCE"
-        ]
-      },
-      {
-        "label": "first_imperial_dynasty",
-        "children": [
-          {
-            "label": "221",
-            "children": []
-          },
-          {
-            "label": "BCE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "221 BCE"
         ]
       },
       {
@@ -868,126 +688,6 @@
         ],
         "raw_values": [
           "0.797 high ( 78th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Renminbi",
-            "children": []
-          },
-          {
-            "label": "CNY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Renminbi (元/¥) ( CNY )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "CST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +8 ( CST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "86",
-            "children": []
-          },
-          {
-            "label": "Mainland",
-            "children": []
-          },
-          {
-            "label": "852",
-            "children": []
-          },
-          {
-            "label": "Hong",
-            "children": []
-          },
-          {
-            "label": "Kong",
-            "children": []
-          },
-          {
-            "label": "853",
-            "children": []
-          },
-          {
-            "label": "Macau",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+86 (Mainland) +852 (Hong Kong) +853 (Macau)"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CN"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "cn",
-            "children": []
-          },
-          {
-            "label": "Mainland",
-            "children": []
-          },
-          {
-            "label": "hk",
-            "children": []
-          },
-          {
-            "label": "Hong",
-            "children": []
-          },
-          {
-            "label": "Kong",
-            "children": []
-          },
-          {
-            "label": "mo",
-            "children": []
-          },
-          {
-            "label": "Macau",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".cn .中国 .中國 (Mainland) .hk .香港 (Hong Kong) .mo .澳门 .澳門 (Macau)"
         ]
       }
     ]

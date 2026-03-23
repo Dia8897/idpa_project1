@@ -31,24 +31,6 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "For God and My Country\" \"Kwa Mungu na nchi yangu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Oh Uganda, Land of Beauty",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -103,15 +85,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Ugandan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -121,28 +94,10 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Yoweri Museveni",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "vicepresident",
         "children": [
           {
             "label": "Jessica Alupo",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Robinah Nabbanja",
             "children": []
           }
         ]
@@ -272,51 +227,6 @@
         "children": [
           {
             "label": "0.582 medium ( 157th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Ugandan shilling ( UGX )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( EAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+256",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "UG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ug",
             "children": []
           }
         ]

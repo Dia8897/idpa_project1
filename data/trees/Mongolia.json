@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Монгол Улсын Төрийн дуулал Mongol ulsyn töriin duulal \" National Anthem of Mongolia \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Ulaanbaatar 48°N 106°E / 48°N 106°E / 48; 106",
+            "label": "Ulaanbaatar",
             "children": []
           }
         ]
@@ -58,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Mongolian , Mongol",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Ukhnaagiin Khürelsükh",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Gombojavyn Zandanshatar",
             "children": []
           }
         ]
@@ -143,15 +107,6 @@
         "children": [
           {
             "label": "1206",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "yuan_dynasty",
-        "children": [
-          {
-            "label": "1260",
             "children": []
           }
         ]
@@ -290,51 +245,6 @@
         "children": [
           {
             "label": "0.747 high ( 104th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Tögrög ( MNT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +7/+8",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+976",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MN",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".mn , .мон",
             "children": []
           }
         ]

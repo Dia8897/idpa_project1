@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Государственный гимн Российской Федерации Gosudarstvennyy gimn Rossiyskoy Federatsii \" State Anthem of the Russian Federation \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Moscow 55°45′21′′N 37°37′02′′E / 55.75583°N 37.61722°E / 55.75583; 37.61722",
+            "label": "Moscow",
             "children": []
           }
         ]
@@ -49,37 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Russian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Federal semi-presidential republic under an authoritarian dictatorship",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Vladimir Putin",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mikhail Mishustin",
             "children": []
           }
         ]
@@ -184,15 +148,6 @@
         ]
       },
       {
-        "label": "russian_federation",
-        "children": [
-          {
-            "label": "12 December 1991",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "current_constitution",
         "children": [
           {
@@ -290,51 +245,6 @@
         "children": [
           {
             "label": "0.832 very high ( 64th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Russian ruble ( ₽ ) ( RUB )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 to +12",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+7",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "RU",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ru .рф",
             "children": []
           }
         ]

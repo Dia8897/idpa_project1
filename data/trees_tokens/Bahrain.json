@@ -4,103 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Ba",
-            "children": []
-          },
-          {
-            "label": "raynun",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "Bahrain",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "بحريننا Baḥraynunā \"Our Bahrain\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Manama",
             "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "583",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "583",
-            "children": []
           }
         ],
         "raw_values": [
-          "Manama 26°13′N 50°35′E / 26.217°N 50.583°E / 26.217; 50.583"
+          "Manama"
         ]
       },
       {
@@ -232,18 +144,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bahraini",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bahraini"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -281,34 +181,6 @@
         ],
         "raw_values": [
           "Unitary semi-constitutional monarchy under an authoritarian government"
-        ]
-      },
-      {
-        "label": "king",
-        "children": [
-          {
-            "label": "Hamad",
-            "children": []
-          },
-          {
-            "label": "bin",
-            "children": []
-          },
-          {
-            "label": "Isa",
-            "children": []
-          },
-          {
-            "label": "Al",
-            "children": []
-          },
-          {
-            "label": "Khalifa",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Hamad bin Isa Al Khalifa"
         ]
       },
       {
@@ -389,78 +261,6 @@
         ],
         "raw_values": [
           "Council of Representatives"
-        ]
-      },
-      {
-        "label": "al_khalifa_dynasty",
-        "children": [
-          {
-            "label": "1783",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1783"
-        ]
-      },
-      {
-        "label": "declared_independence",
-        "children": [
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1971",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "14 August 1971"
-        ]
-      },
-      {
-        "label": "independence_from_united_kingdom",
-        "children": [
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1971",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "15 August 1971"
-        ]
-      },
-      {
-        "label": "kingdom_of_bahrain",
-        "children": [
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "February",
-            "children": []
-          },
-          {
-            "label": "2002",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "14 February 2002"
         ]
       },
       {
@@ -736,82 +536,6 @@
         ],
         "raw_values": [
           "0.899 very high ( 38th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Bahraini",
-            "children": []
-          },
-          {
-            "label": "dinar",
-            "children": []
-          },
-          {
-            "label": "BHD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bahraini dinar ( BHD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3 ( AST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "973",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+973"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BH",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BH"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "bh",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".bh"
         ]
       }
     ]

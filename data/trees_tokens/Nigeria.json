@@ -120,135 +120,15 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Faith",
-            "children": []
-          },
-          {
-            "label": "Peace",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Progress",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Unity and Faith, Peace and Progress"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Nigeria",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "Hail",
-            "children": []
-          },
-          {
-            "label": "Thee",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nigeria, We Hail Thee"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Abuja",
             "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "29",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "067",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "483",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "067",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "483",
-            "children": []
           }
         ],
         "raw_values": [
-          "Abuja 9°4′N 7°29′E / 9.067°N 7.483°E / 9.067; 7.483"
+          "Abuja"
         ]
       },
       {
@@ -496,18 +376,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Nigerian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nigerian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -525,38 +393,6 @@
         ],
         "raw_values": [
           "Federal presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Bola",
-            "children": []
-          },
-          {
-            "label": "Tinubu",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bola Tinubu"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Kashim",
-            "children": []
-          },
-          {
-            "label": "Shettima",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kashim Shettima"
         ]
       },
       {
@@ -660,46 +496,6 @@
         ]
       },
       {
-        "label": "northern_nigeria_protectorate",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1900",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 January 1900"
-        ]
-      },
-      {
-        "label": "southern_nigeria_protectorate",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1900",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 January 1900"
-        ]
-      },
-      {
         "label": "unification_of_nigeria",
         "children": [
           {
@@ -717,26 +513,6 @@
         ],
         "raw_values": [
           "1 January 1914"
-        ]
-      },
-      {
-        "label": "declared_independent_as_a_sovereign_state",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "October",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 October 1960"
         ]
       },
       {
@@ -1052,102 +828,6 @@
         ],
         "raw_values": [
           "0.560 medium ( 164th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Naira",
-            "children": []
-          },
-          {
-            "label": "NGN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Naira (₦) ( NGN )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "01",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "WAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +01:00 ( WAT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "234",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+234"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NG",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "NG"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ng",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ng"
         ]
       }
     ]

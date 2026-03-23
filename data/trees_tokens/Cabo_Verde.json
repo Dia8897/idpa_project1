@@ -4,171 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unidade",
-            "children": []
-          },
-          {
-            "label": "Trabalho",
-            "children": []
-          },
-          {
-            "label": "Progresso",
-            "children": []
-          },
-          {
-            "label": "Portuguese",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "Work",
-            "children": []
-          },
-          {
-            "label": "Progress",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Unidade, Trabalho, Progresso (Portuguese) (English: \"Unity, Work, Progress\" )"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "C",
-            "children": []
-          },
-          {
-            "label": "ntico",
-            "children": []
-          },
-          {
-            "label": "da",
-            "children": []
-          },
-          {
-            "label": "Liberdade",
-            "children": []
-          },
-          {
-            "label": "Portuguese",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Song",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Liberty",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Cântico da Liberdade (Portuguese) (English: \"Song of Liberty\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Praia",
             "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "54",
-            "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "91639",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "50944",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "91639",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "50944",
-            "children": []
           }
         ],
         "raw_values": [
-          "Praia 14°54′59′′N 23°30′34′′W / 14.91639°N 23.50944°W / 14.91639; -23.50944"
+          "Praia"
         ]
       },
       {
@@ -292,34 +136,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Cape",
-            "children": []
-          },
-          {
-            "label": "Verdean",
-            "children": []
-          },
-          {
-            "label": "or",
-            "children": []
-          },
-          {
-            "label": "Cabo",
-            "children": []
-          },
-          {
-            "label": "Verdean",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Cape Verdean or Cabo Verdean"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -341,50 +157,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Jos",
-            "children": []
-          },
-          {
-            "label": "Maria",
-            "children": []
-          },
-          {
-            "label": "Neves",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "José Maria Neves"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ulisses",
-            "children": []
-          },
-          {
-            "label": "Correia",
-            "children": []
-          },
-          {
-            "label": "e",
-            "children": []
-          },
-          {
-            "label": "Silva",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ulisses Correia e Silva"
         ]
       },
       {
@@ -684,110 +456,6 @@
         ],
         "raw_values": [
           "0.668 medium ( 135th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Cape",
-            "children": []
-          },
-          {
-            "label": "Verdean",
-            "children": []
-          },
-          {
-            "label": "escudo",
-            "children": []
-          },
-          {
-            "label": "CVE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Cape Verdean escudo ( CVE )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "01",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "CVT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC –01:00 ( CVT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "238",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+238"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CV",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CV"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "cv",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".cv"
         ]
       }
     ]

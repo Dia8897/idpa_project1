@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "الله، الوطن، الملك Allāh, al-Waṭan, al-Malik \"God, Country, King\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "السلام الملكي الأردني Al-Salām al-Malakī al-Urdunī \" Peace to the King of Jordan \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Amman 31°57′N 35°56′E / 31.950°N 35.933°E / 31.950; 35.933",
+            "label": "Amman",
             "children": []
           }
         ]
@@ -58,15 +40,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Jordanian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -80,15 +53,6 @@
         "children": [
           {
             "label": "Abdullah II",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Jafar Hassan",
             "children": []
           }
         ]
@@ -116,24 +80,6 @@
         "children": [
           {
             "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "emirate",
-        "children": [
-          {
-            "label": "11 April 1921",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "25 May 1946",
             "children": []
           }
         ]
@@ -245,51 +191,6 @@
         "children": [
           {
             "label": "0.754 high ( 100th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Jordanian dinar ( JOD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +03:00 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+962",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "JO",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".jo .الاردن",
             "children": []
           }
         ]

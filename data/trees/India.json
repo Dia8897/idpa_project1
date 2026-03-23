@@ -4,24 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Satyameva Jayate ( Sanskrit ) \"Truth Alone Triumphs\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Jana Gana Mana ( Hindi ) \"Thou Art the Ruler of the Minds of All People\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "national_song",
         "children": [
           {
@@ -34,7 +16,7 @@
         "label": "capital",
         "children": [
           {
-            "label": "New Delhi 28°36′50′′N 77°12′30′′E / 28.61389°N 77.20833°E / 28.61389; 77.20833",
+            "label": "New Delhi",
             "children": []
           }
         ]
@@ -94,46 +76,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Indian others",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Federal parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Droupadi Murmu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "C. P. Radhakrishnan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Narendra Modi",
             "children": []
           }
         ]
@@ -281,60 +227,6 @@
         "children": [
           {
             "label": "0.685 medium ( 130th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Indian rupee ( ₹ ) ( INR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +05:30 ( IST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd - mm - yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+91",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IN",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".in ( others )",
             "children": []
           }
         ]

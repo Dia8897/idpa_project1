@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "ကမ္ဘာမကျေ Kaba Ma Kyei \"Till the End of the World\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Naypyidaw 21°00′N 96°00′E / 21.000°N 96.000°E / 21.000; 96.000",
+            "label": "Naypyidaw",
             "children": []
           }
         ]
@@ -67,28 +58,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Burmese Myanmar Myanma",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary assembly-independent republic under a military junta",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Vacant ( Min Aung Hlaing serving Pro Tem On Duty)",
             "children": []
           }
         ]
@@ -107,15 +80,6 @@
         "children": [
           {
             "label": "Soe Win",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Nyo Saw",
             "children": []
           }
         ]
@@ -161,15 +125,6 @@
         "children": [
           {
             "label": "1 January 1886",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom",
-        "children": [
-          {
-            "label": "4 January 1948",
             "children": []
           }
         ]
@@ -299,51 +254,6 @@
         "children": [
           {
             "label": "0.609 medium ( 150th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Myanmar kyat (K) ( MMK )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +06:30 ( MMT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+95",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MM",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".mm",
             "children": []
           }
         ]

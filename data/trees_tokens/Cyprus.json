@@ -4,103 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Hymn",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "Liberty",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ὕμνος εἰς τὴν Ἐλευθερίαν (English: \" Hymn to Liberty \")"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Nicosia",
             "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "22",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "367",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "367",
-            "children": []
           }
         ],
         "raw_values": [
-          "Nicosia 35°10′N 33°22′E / 35.167°N 33.367°E / 35.167; 33.367"
+          "Nicosia"
         ]
       },
       {
@@ -264,18 +176,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Cypriot",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Cypriot"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -293,22 +193,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Nikos",
-            "children": []
-          },
-          {
-            "label": "Christodoulides",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nikos Christodoulides"
         ]
       },
       {
@@ -377,46 +261,6 @@
         ],
         "raw_values": [
           "19 February 1959"
-        ]
-      },
-      {
-        "label": "independence_proclaimed",
-        "children": [
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "16 August 1960"
-        ]
-      },
-      {
-        "label": "independence_day",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "October",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 October 1960"
         ]
       },
       {
@@ -654,46 +498,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "02",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "EET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +02:00 ( EET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -715,42 +519,6 @@
         ],
         "raw_values": [
           "UTC +03:00 ( EEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "357",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+357"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CY"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "cy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".cy"
         ]
       }
     ]

@@ -4,195 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Mir",
-            "children": []
-          },
-          {
-            "label": "w",
-            "children": []
-          },
-          {
-            "label": "lle",
-            "children": []
-          },
-          {
-            "label": "bleiwe",
-            "children": []
-          },
-          {
-            "label": "wat",
-            "children": []
-          },
-          {
-            "label": "mir",
-            "children": []
-          },
-          {
-            "label": "sinn",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "want",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "stay",
-            "children": []
-          },
-          {
-            "label": "what",
-            "children": []
-          },
-          {
-            "label": "we",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mir wëlle bleiwe wat mir sinn \" \"We want to stay what we are"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Ons",
-            "children": []
-          },
-          {
-            "label": "Heemecht",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          },
-          {
-            "label": "Royal",
-            "children": []
-          },
-          {
-            "label": "anthem",
-            "children": []
-          },
-          {
-            "label": "De",
-            "children": []
-          },
-          {
-            "label": "Wilhelmus",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Ons Heemecht \" (\"Our Homeland\") Royal anthem : \" De Wilhelmus \" a"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Luxembourg",
             "children": []
-          },
-          {
-            "label": "49",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "07",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "49",
-            "children": []
-          },
-          {
-            "label": "6106",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "1328",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "49",
-            "children": []
-          },
-          {
-            "label": "6106",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "1328",
-            "children": []
           }
         ],
         "raw_values": [
-          "Luxembourg 49°36′38′′N 6°07′58′′E / 49.6106°N 6.1328°E / 49.6106; 6.1328"
+          "Luxembourg"
         ]
       },
       {
@@ -368,22 +188,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Luxembourger",
-            "children": []
-          },
-          {
-            "label": "Luxembourgish",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Luxembourger Luxembourgish"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -424,22 +228,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Luc",
-            "children": []
-          },
-          {
-            "label": "Frieden",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Luc Frieden"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -477,46 +265,6 @@
         ],
         "raw_values": [
           "9 June 1815"
-        ]
-      },
-      {
-        "label": "independence_in_personal_union_with_the_netherlands_treaty_of_london",
-        "children": [
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "April",
-            "children": []
-          },
-          {
-            "label": "1839",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "19 April 1839"
-        ]
-      },
-      {
-        "label": "end_of_personal_union_with_the_kingdom_of_the_netherlands",
-        "children": [
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1890",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "23 November 1890"
         ]
       },
       {
@@ -828,62 +576,6 @@
         ],
         "raw_values": [
           "0.922 very high ( 25th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "352",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+352"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LU",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "LU"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "lu",
-            "children": []
-          },
-          {
-            "label": "b",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".lu b"
         ]
       }
     ]

@@ -4,50 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno",
-            "children": []
-          },
-          {
-            "label": "Nacional",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "Bolivia",
-            "children": []
-          },
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Bolivia",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himno Nacional de Bolivia (Spanish) \" National Anthem of Bolivia \""
-        ]
-      },
-      {
         "label": "dual_flag",
         "children": [
           {
@@ -97,74 +53,10 @@
           {
             "label": "Cruz",
             "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "63",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "800",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "63",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "800",
-            "children": []
-          },
-          {
-            "label": "63",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
           }
         ],
         "raw_values": [
-          "Santa Cruz 17°48′S 63°10′W / 17.800°S 63.167°W / -17.800; -63.167"
+          "Santa Cruz"
         ]
       },
       {
@@ -280,18 +172,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bolivian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bolivian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -309,38 +189,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Rodrigo",
-            "children": []
-          },
-          {
-            "label": "Paz",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Rodrigo Paz"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Edmand",
-            "children": []
-          },
-          {
-            "label": "Lara",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Edmand Lara"
         ]
       },
       {
@@ -776,102 +624,6 @@
         ],
         "raw_values": [
           "0.733 high ( 108th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Boliviano",
-            "children": []
-          },
-          {
-            "label": "BOB",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Boliviano ( BOB )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "04",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "BOT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −04:00 ( BOT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "591",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+591"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BO",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BO"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "bo",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".bo"
         ]
       }
     ]

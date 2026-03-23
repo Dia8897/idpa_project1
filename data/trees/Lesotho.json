@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Khotso, Pula, Nala\" \"Peace, Rain, Prosperity",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Lesotho fatše la bo-ntat'a rona (English: \"Lesotho, Land of Our Fathers\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Maseru 29°18′54′′S 27°29′13′′E / 29.31500°S 27.48694°E / -29.31500; 27.48694",
+            "label": "Maseru",
             "children": []
           }
         ]
@@ -58,15 +40,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Mosotho (singular) Basotho (plural)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -80,15 +53,6 @@
         "children": [
           {
             "label": "Letsie III",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Sam Matekane",
             "children": []
           }
         ]
@@ -125,15 +89,6 @@
         "children": [
           {
             "label": "18 March 1884",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "4 October 1966",
             "children": []
           }
         ]
@@ -227,51 +182,6 @@
         "children": [
           {
             "label": "0.550 medium ( 167th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Lesotho loti (LSL) South African rand (ZAR)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +02:00 ( SAST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+266",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LS",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ls",
             "children": []
           }
         ]

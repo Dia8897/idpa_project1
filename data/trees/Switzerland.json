@@ -31,37 +31,10 @@
         ]
       },
       {
-        "label": "romansh",
-        "children": [
-          {
-            "label": "Confederaziun svizra",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "latin",
         "children": [
           {
             "label": "Confoederatio helvetica (CH)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "motto",
-        "children": [
-          {
-            "label": "(unofficial) \" Unus pro omnibus, omnes pro uno \" \"One for all, all for one\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Swiss Psalm",
             "children": []
           }
         ]
@@ -121,15 +94,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "English: Swiss German: Schweizer/Schweizerin French: Suisse/Suissesse Italian : svizzero/svizzera or elvetico/elvetica Romansh : Svizzer/Svizra",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -179,15 +143,6 @@
         "children": [
           {
             "label": "National Council",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "founded",
-        "children": [
-          {
-            "label": "1 August 1291",
             "children": []
           }
         ]
@@ -322,64 +277,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Swiss franc ( CHF )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd.mm.yyyy ( AD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+41",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CH",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ch , .swiss",
             "children": []
           }
         ]

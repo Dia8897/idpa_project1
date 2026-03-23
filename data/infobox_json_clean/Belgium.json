@@ -1,9 +1,7 @@
 {
   "country_name": "Belgium",
   "infobox": {
-    "Motto": "Eendracht maakt macht ( Dutch ) L'union fait la force ( French ) Einigkeit macht stark ( German ) (English: \" Unity makes strength \" )",
-    "Anthem": "La Brabançonne The Brabantian",
-    "Capital": "City of Brussels 50°51′N 4°21′E / 50.850°N 4.350°E / 50.850; 4.350",
+    "Capital": "City of Brussels",
     "Largest city": "Brussels-Capital Region",
     "Official languages": "Dutch French German",
     "Ethnic groups (2025)": "86.1% Belgians 64% Belgian background 22.1% foreign background 13.8% non-Belgian",
@@ -11,7 +9,6 @@
     "Demonym": "Belgian",
     "Government": "Federal parliamentary constitutional monarchy",
     "Monarch": "Philippe",
-    "Prime Minister": "Bart De Wever",
     "Legislature": "Federal Parliament",
     "Upper house": "Senate",
     "Lower house": "Chamber of Representatives",
@@ -34,11 +31,6 @@
     "GDP (nominal)": "2025 estimate",
     "Gini (2022)": "24.9 low inequality",
     "HDI (2023)": "0.951 very high ( 10th )",
-    "Currency": "Euro ( € ) ( EUR )",
-    "Time zone": "UTC +1 ( CET )",
-    "Summer ( DST )": "UTC +2 ( CEST )",
-    "Calling code": "+32",
-    "ISO 3166 code": "BE",
-    "Internet TLD": ".be"
+    "Summer ( DST )": "UTC +2 ( CEST )"
   }
 }

@@ -4,119 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "De",
-            "children": []
-          },
-          {
-            "label": "teapt",
-            "children": []
-          },
-          {
-            "label": "te",
-            "children": []
-          },
-          {
-            "label": "rom",
-            "children": []
-          },
-          {
-            "label": "ne",
-            "children": []
-          },
-          {
-            "label": "Awaken",
-            "children": []
-          },
-          {
-            "label": "Thee",
-            "children": []
-          },
-          {
-            "label": "Romanian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Deșteaptă-te, române! \"Awaken Thee, Romanian!\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Bucharest",
             "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "06",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "417",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "100",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "417",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "100",
-            "children": []
           }
         ],
         "raw_values": [
-          "Bucharest 44°25′N 26°06′E / 44.417°N 26.100°E / 44.417; 26.100"
+          "Bucharest"
         ]
       },
       {
@@ -304,18 +200,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Romanian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Romanian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -337,42 +221,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Nicu",
-            "children": []
-          },
-          {
-            "label": "or",
-            "children": []
-          },
-          {
-            "label": "Dan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nicușor Dan"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ilie",
-            "children": []
-          },
-          {
-            "label": "Bolojan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ilie Bolojan"
         ]
       },
       {
@@ -500,42 +348,6 @@
         ]
       },
       {
-        "label": "independence_from_the_ottoman_empire",
-        "children": [
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "1877",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "10 May 1877"
-        ]
-      },
-      {
-        "label": "kingdom_of_romania",
-        "children": [
-          {
-            "label": "1881",
-            "children": []
-          },
-          {
-            "label": "1947",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1881–1947"
-        ]
-      },
-      {
         "label": "great_union",
         "children": [
           {
@@ -553,42 +365,6 @@
         ],
         "raw_values": [
           "1 December 1918"
-        ]
-      },
-      {
-        "label": "socialist_romania",
-        "children": [
-          {
-            "label": "1947",
-            "children": []
-          },
-          {
-            "label": "1989",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1947–1989"
-        ]
-      },
-      {
-        "label": "republic_established",
-        "children": [
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "8 December 1991"
         ]
       },
       {
@@ -883,46 +659,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Romanian",
-            "children": []
-          },
-          {
-            "label": "leu",
-            "children": []
-          },
-          {
-            "label": "RON",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Romanian leu ( RON )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "EET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( EET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -940,66 +676,6 @@
         ],
         "raw_values": [
           "UTC +3 ( EEST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "CE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd.mm.yyyy ( CE )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "40",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+40"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "RO",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "RO"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ro",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ro"
         ]
       }
     ]

@@ -32,58 +32,6 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Je",
-            "children": []
-          },
-          {
-            "label": "maintiendrai",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "I",
-            "children": []
-          },
-          {
-            "label": "will",
-            "children": []
-          },
-          {
-            "label": "maintain",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Je maintiendrai ( French ) ( \"I will maintain\" )"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Wilhelmus",
-            "children": []
-          },
-          {
-            "label": "Dutch",
-            "children": []
-          },
-          {
-            "label": "William",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Wilhelmus ( Dutch ) ( \"William\" )"
-        ]
-      },
-      {
         "label": "sovereign_state",
         "children": [
           {
@@ -105,22 +53,6 @@
         ],
         "raw_values": [
           "Kingdom of the Netherlands"
-        ]
-      },
-      {
-        "label": "before_independence",
-        "children": [
-          {
-            "label": "Spanish",
-            "children": []
-          },
-          {
-            "label": "Netherlands",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Spanish Netherlands"
         ]
       },
       {
@@ -164,26 +96,6 @@
         ]
       },
       {
-        "label": "united_kingdom_of_the_netherlands",
-        "children": [
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1815",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "16 March 1815"
-        ]
-      },
-      {
         "label": "liberation_day",
         "children": [
           {
@@ -201,26 +113,6 @@
         ],
         "raw_values": [
           "5 May 1945"
-        ]
-      },
-      {
-        "label": "kingdom_charter",
-        "children": [
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1954",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "15 December 1954"
         ]
       },
       {
@@ -249,74 +141,10 @@
           {
             "label": "Amsterdam",
             "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "22",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "53",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "367",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "883",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "367",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "883",
-            "children": []
           }
         ],
         "raw_values": [
-          "Amsterdam 52°22′N 4°53′E / 52.367°N 4.883°E / 52.367; 4.883"
+          "Amsterdam"
         ]
       },
       {
@@ -641,22 +469,6 @@
         ],
         "raw_values": [
           "Willem-Alexander"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Rob",
-            "children": []
-          },
-          {
-            "label": "Jetten",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Rob Jetten"
         ]
       },
       {
@@ -1027,82 +839,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          },
-          {
-            "label": "United",
-            "children": []
-          },
-          {
-            "label": "States",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "US",
-            "children": []
-          },
-          {
-            "label": "USD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro (€) ( EUR ) United States dollar (US$) ( USD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "01",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          },
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "04",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC+01:00 ( CET ) UTC−04:00 ( AST )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -1143,26 +879,6 @@
         ]
       },
       {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd-mm-yyyy"
-        ]
-      },
-      {
         "label": "driving_side",
         "children": [
           {
@@ -1172,38 +888,6 @@
         ],
         "raw_values": [
           "Right"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "599",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+31 , +599"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "nl",
-            "children": []
-          },
-          {
-            "label": "bq",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".nl , .bq"
         ]
       }
     ]

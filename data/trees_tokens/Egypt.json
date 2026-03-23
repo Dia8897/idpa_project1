@@ -4,127 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Bilady",
-            "children": []
-          },
-          {
-            "label": "Bilady",
-            "children": []
-          },
-          {
-            "label": "Bilady",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "My",
-            "children": []
-          },
-          {
-            "label": "country",
-            "children": []
-          },
-          {
-            "label": "my",
-            "children": []
-          },
-          {
-            "label": "country",
-            "children": []
-          },
-          {
-            "label": "my",
-            "children": []
-          },
-          {
-            "label": "country",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bilady, Bilady, Bilady \"بلادي، بلادي، بلادي\" (English: My country, my country, my country )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Cairo",
             "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "033",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
           }
         ],
         "raw_values": [
-          "Cairo 30°2′N 31°13′E / 30.033°N 31.217°E / 30.033; 31.217"
+          "Cairo"
         ]
       },
       {
@@ -180,18 +68,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Egyptian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Egyptian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -229,46 +105,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic under an authoritarian government"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Abdel",
-            "children": []
-          },
-          {
-            "label": "Fattah",
-            "children": []
-          },
-          {
-            "label": "el",
-            "children": []
-          },
-          {
-            "label": "Sisi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Abdel Fattah el-Sisi"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mostafa",
-            "children": []
-          },
-          {
-            "label": "Madbouly",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mostafa Madbouly"
         ]
       },
       {
@@ -336,38 +172,6 @@
         ]
       },
       {
-        "label": "fatimid_caliphate",
-        "children": [
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "973",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "c. 973"
-        ]
-      },
-      {
-        "label": "ayyubid_dynasty_inaugurated",
-        "children": [
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "1171",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "c. 1171"
-        ]
-      },
-      {
         "label": "mamluk_egypt",
         "children": [
           {
@@ -381,46 +185,6 @@
         ],
         "raw_values": [
           "c. 1261"
-        ]
-      },
-      {
-        "label": "alawiyya_dynasty_inaugurated",
-        "children": [
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "July",
-            "children": []
-          },
-          {
-            "label": "1805",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "9 July 1805"
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "February",
-            "children": []
-          },
-          {
-            "label": "1922",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "28 February 1922"
         ]
       },
       {
@@ -783,58 +547,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Egyptian",
-            "children": []
-          },
-          {
-            "label": "pound",
-            "children": []
-          },
-          {
-            "label": "LE",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "EGP",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Egyptian pound (LE/E£/£E) ( EGP )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "EET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( EET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -852,42 +564,6 @@
         ],
         "raw_values": [
           "UTC +3 ( EEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "20",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+20"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "EG",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "EG"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "eg",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".eg مصر."
         ]
       }
     ]

@@ -4,167 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Pax",
-            "children": []
-          },
-          {
-            "label": "et",
-            "children": []
-          },
-          {
-            "label": "Justitia",
-            "children": []
-          },
-          {
-            "label": "Latin",
-            "children": []
-          },
-          {
-            "label": "Peace",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Justice",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Pax et Justitia\" ( Latin ) \"Peace and Justice"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Saint",
-            "children": []
-          },
-          {
-            "label": "Vincent",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          },
-          {
-            "label": "So",
-            "children": []
-          },
-          {
-            "label": "Beautiful",
-            "children": []
-          },
-          {
-            "label": "Royal",
-            "children": []
-          },
-          {
-            "label": "anthem",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Save",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Saint Vincent, Land So Beautiful \" Royal anthem : \" God Save the King"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Kingstown",
             "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "61",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "61",
-            "children": []
-          },
-          {
-            "label": "233",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "61",
-            "children": []
-          },
-          {
-            "label": "233",
-            "children": []
           }
         ],
         "raw_values": [
-          "Kingstown 13°10′N 61°14′W / 13.167°N 61.233°W / 13.167; -61.233"
+          "Kingstown"
         ]
       },
       {
@@ -376,38 +224,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Vincentian",
-            "children": []
-          },
-          {
-            "label": "Grenadinian",
-            "children": []
-          },
-          {
-            "label": "Saint",
-            "children": []
-          },
-          {
-            "label": "Vincentian",
-            "children": []
-          },
-          {
-            "label": "Vincy",
-            "children": []
-          },
-          {
-            "label": "colloquial",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Vincentian Grenadinian Saint Vincentian Vincy (colloquial)"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -468,22 +284,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Godwin",
-            "children": []
-          },
-          {
-            "label": "Friday",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Godwin Friday"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -521,26 +321,6 @@
         ],
         "raw_values": [
           "27 October 1969"
-        ]
-      },
-      {
-        "label": "from_the_united_kingdom",
-        "children": [
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "October",
-            "children": []
-          },
-          {
-            "label": "1979",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "27 October 1979"
         ]
       },
       {
@@ -764,106 +544,6 @@
         ],
         "raw_values": [
           "0.798 high ( 76th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "East",
-            "children": []
-          },
-          {
-            "label": "Caribbean",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "XCD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "East Caribbean dollar ( XCD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC -4 ( AST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "mm/dd/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+1"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "VC",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "VC"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "vc",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".vc"
         ]
       }
     ]

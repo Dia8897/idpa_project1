@@ -4,119 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Druk",
-            "children": []
-          },
-          {
-            "label": "Tsenden",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Thunder",
-            "children": []
-          },
-          {
-            "label": "Dragon",
-            "children": []
-          },
-          {
-            "label": "Kingdom",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "འབྲུག་ཙན་དན། Druk Tsenden \"The Thunder Dragon Kingdom\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Thimphu",
             "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "89",
-            "children": []
-          },
-          {
-            "label": "38",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "4667",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "89",
-            "children": []
-          },
-          {
-            "label": "6417",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "27",
-            "children": []
-          },
-          {
-            "label": "4667",
-            "children": []
-          },
-          {
-            "label": "89",
-            "children": []
-          },
-          {
-            "label": "6417",
-            "children": []
           }
         ],
         "raw_values": [
-          "Thimphu 27°28.0′N 89°38.5′E / 27.4667°N 89.6417°E / 27.4667; 89.6417"
+          "Thimphu"
         ]
       },
       {
@@ -188,18 +84,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bhutanese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bhutanese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -249,22 +133,6 @@
         ],
         "raw_values": [
           "Jigme Khesar Namgyel Wangchuck"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Tshering",
-            "children": []
-          },
-          {
-            "label": "Tobgay",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tshering Tobgay"
         ]
       },
       {
@@ -341,26 +209,6 @@
         ],
         "raw_values": [
           "1650–1905"
-        ]
-      },
-      {
-        "label": "ascension_of_the_wangchuk_dynasty",
-        "children": [
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1907",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "17 December 1907"
         ]
       },
       {
@@ -688,86 +536,6 @@
         ],
         "raw_values": [
           "0.698 medium ( 125th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Ngultrum",
-            "children": []
-          },
-          {
-            "label": "BTN",
-            "children": []
-          },
-          {
-            "label": "Indian",
-            "children": []
-          },
-          {
-            "label": "rupee",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ngultrum (BTN) Indian rupee (₹)"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "06",
-            "children": []
-          },
-          {
-            "label": "BTT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +06 ( BTT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "975",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+975"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BT"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "bt",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".bt"
         ]
       }
     ]

@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "İstiklal Marşı \"Independence March\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Ankara 39°55′N 32°51′E / 39.917°N 32.850°E / 39.917; 32.850",
+            "label": "Ankara",
             "children": []
           }
         ]
@@ -25,7 +16,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Istanbul 41°1′N 28°57′E / 41.017°N 28.950°E / 41.017; 28.950",
+            "label": "Istanbul",
             "children": []
           }
         ]
@@ -49,37 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Turkish Turk",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Recep Tayyip Erdoğan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Cevdet Yılmaz",
             "children": []
           }
         ]
@@ -112,37 +76,10 @@
         ]
       },
       {
-        "label": "ottoman_empire",
-        "children": [
-          {
-            "label": "c. 1299",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "war_of_independence",
-        "children": [
-          {
-            "label": "19 May 1919",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government_of_the_grand_national_assembly",
         "children": [
           {
             "label": "23 April 1920",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "sultanate_abolished",
-        "children": [
-          {
-            "label": "1 November 1922",
             "children": []
           }
         ]
@@ -263,51 +200,6 @@
         "children": [
           {
             "label": "0.853 very high ( 51st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Turkish lira ( ₺ ) ( TRY )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( TRT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+90",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".tr",
             "children": []
           }
         ]

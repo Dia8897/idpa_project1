@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Денес над Македонија (Macedonian) \"Today over Macedonia\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Skopje 42°0′N 21°26′E / 42.000°N 21.433°E / 42.000; 21.433",
+            "label": "Skopje",
             "children": []
           }
         ]
@@ -58,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Macedonian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Gordana Siljanovska-Davkova",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Hristijan Mickoski",
             "children": []
           }
         ]
@@ -116,15 +80,6 @@
         "children": [
           {
             "label": "2 August 1944",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_referendum",
-        "children": [
-          {
-            "label": "8 September 1991",
             "children": []
           }
         ]
@@ -223,55 +178,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Macedonian denar ( MKD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+389",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MK",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".mk .мкд",
             "children": []
           }
         ]

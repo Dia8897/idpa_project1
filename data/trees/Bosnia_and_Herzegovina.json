@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Državna himna Bosne i Hercegovine Државна химна Босне и Херцеговине \" National Anthem of Bosnia and Herzegovina \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Sarajevo 43°52′N 18°25′E / 43.867°N 18.417°E / 43.867; 18.417",
+            "label": "Sarajevo",
             "children": []
           }
         ]
@@ -35,15 +26,6 @@
         "children": [
           {
             "label": "51.3% Islam 46.1% Christianity 30.7% Eastern Orthodox 15.4% Catholicism 2.60% Others",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bosnian Herzegovinian",
             "children": []
           }
         ]
@@ -139,33 +121,6 @@
         ]
       },
       {
-        "label": "kingdom_of_bosnia",
-        "children": [
-          {
-            "label": "1377",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ottoman_conquest",
-        "children": [
-          {
-            "label": "1463",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "austrohungarian_conquest_and_annexation",
-        "children": [
-          {
-            "label": "1878",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "creation_of_yugoslavia",
         "children": [
           {
@@ -188,15 +143,6 @@
         "children": [
           {
             "label": "29 November 1945",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_yugoslavia",
-        "children": [
-          {
-            "label": "3 March 1992",
             "children": []
           }
         ]
@@ -322,55 +268,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Convertible mark ( BAM )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +01 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +02 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+387",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ba",
             "children": []
           }
         ]

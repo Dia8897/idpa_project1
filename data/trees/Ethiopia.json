@@ -49,19 +49,10 @@
         ]
       },
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "ወደፊት ገሥግሺ ፣ ውድ እናት ኢትዮጵያ \"Wedefīt Gesigishī Wid Inat ītiyop'ya\" (English: \" March Forward, Dear Mother Ethiopia \" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Addis Ababa 9°1′N 38°45′E / 9.017°N 38.750°E / 9.017; 38.750",
+            "label": "Addis Ababa",
             "children": []
           }
         ]
@@ -103,37 +94,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Ethiopian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Federal parliamentary republic under an authoritarian government",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Taye Atske Selassie",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Abiy Ahmed",
             "children": []
           }
         ]
@@ -215,24 +179,6 @@
         "children": [
           {
             "label": "1904",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "occupied_and_annexed_into_italian_east_africa",
-        "children": [
-          {
-            "label": "9 May 1936",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "reestablishment_of_independence",
-        "children": [
-          {
-            "label": "31 January 1942",
             "children": []
           }
         ]
@@ -335,60 +281,6 @@
         "children": [
           {
             "label": "0.492 low ( 176th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Birr ( ETB )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( EAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+251",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ET",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".et",
             "children": []
           }
         ]

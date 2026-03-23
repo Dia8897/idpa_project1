@@ -13,7 +13,6 @@ import unicodedata
 from pathlib import Path
 from typing import Any, Dict
 
-
 try:
     # ftfy does a great job repairing mixed-encoding artefacts; keep optional.
     from ftfy import fix_text  # type: ignore
@@ -43,6 +42,60 @@ CUSTOM_REPLACEMENTS: Dict[str, str] = {
     "ï»؟": "",  # stray BOM sequence
     "أ،ت¼أ­": "Bahá’í",
 }
+
+
+DROP_KEYS = {
+    "anthem",
+    "motto",
+    "demonyms",
+    "president",
+    "prime_minister",
+    "speaker_of_the_parliament",
+    "vice_president",
+    "deputy_prime_minister",
+    "king",
+    "queen",
+    "governor_general",
+    "chancellor",
+    "area_code",
+    "calling_code",
+    "postal_code",
+    "internet_tld",
+    "cctld",
+    "iso_3166_code",
+    "date_format",
+    "time_zone",
+    "currency",
+    "currency_code",
+    "patron_saint",
+    "image_flag",
+    "image_coat",
+    "flag",
+    "coat_of_arms",
+    "locator_map",
+    "map",
+}
+
+HISTORICAL_KEYWORDS = (
+    "independ",
+    "mandate",
+    "kingdom",
+    "sultanate",
+    "emirate",
+    "protectorate",
+    "colony",
+    "annex",
+    "occupation",
+    "established",
+    "founded",
+    "federation",
+    "caliphate",
+    "dynasty",
+    "french_mandate",
+    "ottoman",
+    "roman",
+    "byzantine",
+)
 
 
 def score_weird(text: str) -> int:
@@ -126,6 +179,32 @@ def clean_text(text: str) -> str:
     return cleaned
 
 
+def canonicalize_key(key: str) -> str:
+    value = clean_text(key)
+    value = value.replace("(", " ").replace(")", " ")
+    value = value.replace(":", " ").replace("/", " ")
+    value = re.sub(r"\s+", " ", value).strip().lower()
+    value = re.sub(r"\b(19|20)\d{2}\b", "", value)
+    value = re.sub(r"\s+", " ", value).strip()
+    value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
+    value = value.replace(" ", "_")
+    value = re.sub(r"[^a-z0-9_]+", "", value)
+    value = re.sub(r"_+", "_", value).strip("_")
+    return value
+
+
+def should_drop_key(raw_key: str) -> bool:
+    key = canonicalize_key(raw_key)
+    if key in DROP_KEYS:
+        return True
+    return any(token in key for token in HISTORICAL_KEYWORDS)
+
+
+def strip_coordinate_suffix(text: str) -> str:
+    result = re.sub(r"\s+\d+[^/]*\/\s*\d+[^/]*\/\s*[\d.;\sNSEW°′″-]+$", "", str(text)).strip()
+    return result or str(text).strip()
+
+
 def clean_value(value: Any) -> Any:
     """Recursively clean strings in nested dict/list structures."""
     if isinstance(value, str):
@@ -138,7 +217,22 @@ def clean_value(value: Any) -> Any:
             # Drop leading bullets/dashes used as list markers.
             return re.sub(r"^[•\-–—]\s*", "", base)
 
-        return {clean_key(k): clean_value(v) for k, v in value.items()}
+        cleaned = {}
+        for k, v in value.items():
+            key = clean_key(k)
+            if should_drop_key(key):
+                continue
+            next_value = clean_value(v)
+            if key.lower() in {"capital", "capital and largest city", "capital_and_largest_city", "largest city"}:
+                if isinstance(next_value, str):
+                    next_value = strip_coordinate_suffix(next_value)
+                elif isinstance(next_value, list):
+                    next_value = [
+                        strip_coordinate_suffix(item) if isinstance(item, str) else item
+                        for item in next_value
+                    ]
+            cleaned[key] = next_value
+        return cleaned
     return value
 
 

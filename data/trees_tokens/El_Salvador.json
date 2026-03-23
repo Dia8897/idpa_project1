@@ -4,90 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Dios",
-            "children": []
-          },
-          {
-            "label": "Uni",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "Libertad",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "Liberty",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Dios, Unión, Libertad \"God, Union, Liberty\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno",
-            "children": []
-          },
-          {
-            "label": "Nacional",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "El",
-            "children": []
-          },
-          {
-            "label": "Salvador",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "El",
-            "children": []
-          },
-          {
-            "label": "Salvador",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himno Nacional de El Salvador \" National Anthem of El Salvador \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -97,74 +13,10 @@
           {
             "label": "Salvador",
             "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "89",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "700",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "89",
-            "children": []
-          },
-          {
-            "label": "200",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "700",
-            "children": []
-          },
-          {
-            "label": "89",
-            "children": []
-          },
-          {
-            "label": "200",
-            "children": []
           }
         ],
         "raw_values": [
-          "San Salvador 13°42′N 89°12′W / 13.700°N 89.200°W / 13.700; -89.200"
+          "San Salvador"
         ]
       },
       {
@@ -360,18 +212,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Salvadoran",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Salvadoran"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -389,42 +229,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Nayib",
-            "children": []
-          },
-          {
-            "label": "Bukele",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nayib Bukele"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "F",
-            "children": []
-          },
-          {
-            "label": "lix",
-            "children": []
-          },
-          {
-            "label": "Ulloa",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Félix Ulloa"
         ]
       },
       {
@@ -796,150 +600,6 @@
         ],
         "raw_values": [
           "0.678 medium ( 132nd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "United",
-            "children": []
-          },
-          {
-            "label": "States",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "USD",
-            "children": []
-          },
-          {
-            "label": "since",
-            "children": []
-          },
-          {
-            "label": "2001",
-            "children": []
-          },
-          {
-            "label": "Salvadoran",
-            "children": []
-          },
-          {
-            "label": "col",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "no",
-            "children": []
-          },
-          {
-            "label": "longer",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "circulation",
-            "children": []
-          },
-          {
-            "label": "still",
-            "children": []
-          },
-          {
-            "label": "legal",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "United States dollar ( USD ; since 2001) Salvadoran colón (no longer in circulation, still legal)"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "CST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −6 ( CST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "503",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+503"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SV",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "SV"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "sv",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".sv"
         ]
       }
     ]

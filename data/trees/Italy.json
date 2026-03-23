@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Il Canto degli Italiani \" \"The Song of the Italians",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Rome 41°54′N 12°29′E / 41.900°N 12.483°E / 41.900; 12.483",
+            "label": "Rome",
             "children": []
           }
         ]
@@ -58,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Italian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Sergio Mattarella",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Giorgia Meloni",
             "children": []
           }
         ]
@@ -148,37 +112,10 @@
         ]
       },
       {
-        "label": "ancient_rome_roman_italy",
-        "children": [
-          {
-            "label": "753 BC–476 AD",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "romanbarbarian_kingdoms_byzantine_italy",
-        "children": [
-          {
-            "label": "Early Middle Ages",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "italian_citystates_and_regional_polities",
         "children": [
           {
             "label": "Middle Ages and Modern period",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_italy",
-        "children": [
-          {
-            "label": "1861–1946 17 March 1861 ; 164 years ago ( 1861-03-17 )",
             "children": []
           }
         ]
@@ -295,55 +232,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro (€) b ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+39 c",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IT",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".it",
             "children": []
           }
         ]

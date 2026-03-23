@@ -4,119 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Justice",
-            "children": []
-          },
-          {
-            "label": "Liberty",
-            "children": []
-          },
-          {
-            "label": "Prosperity",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Justice, Liberty, Prosperity"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "Sudan",
-            "children": []
-          },
-          {
-            "label": "Oyee",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "South Sudan, Oyee!"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Juba",
             "children": []
-          },
-          {
-            "label": "04",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "567",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "567",
-            "children": []
           }
         ],
         "raw_values": [
-          "Juba 04°51′N 31°34′E / 4.850°N 31.567°E / 4.850; 31.567"
+          "Juba"
         ]
       },
       {
@@ -344,22 +240,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "Sudanese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "South Sudanese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -377,26 +257,6 @@
         ],
         "raw_values": [
           "Federal presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Salva",
-            "children": []
-          },
-          {
-            "label": "Kiir",
-            "children": []
-          },
-          {
-            "label": "Mayardit",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Salva Kiir Mayardit"
         ]
       },
       {
@@ -740,86 +600,6 @@
         ],
         "raw_values": [
           "0.388 low ( 193rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "Sudanese",
-            "children": []
-          },
-          {
-            "label": "pound",
-            "children": []
-          },
-          {
-            "label": "SSP",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "South Sudanese pound ( SSP )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "CAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( CAT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "211",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+211"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "SS"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ss",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ss"
         ]
       }
     ]

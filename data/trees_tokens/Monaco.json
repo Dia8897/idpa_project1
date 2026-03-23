@@ -4,78 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Deo",
-            "children": []
-          },
-          {
-            "label": "Juvante",
-            "children": []
-          },
-          {
-            "label": "Latin",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "With",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "Help",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Deo Juvante \" ( Latin ) (English: \"With God's Help\" )"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Inu",
-            "children": []
-          },
-          {
-            "label": "Munegascu",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Mon",
-            "children": []
-          },
-          {
-            "label": "gasque",
-            "children": []
-          },
-          {
-            "label": "Hymn",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Inu Munegascu \" (English: \"Monégasque Hymn\" )"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -89,82 +17,10 @@
           {
             "label": "state",
             "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "07",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "73111",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "42000",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "73111",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "42000",
-            "children": []
           }
         ],
         "raw_values": [
-          "Monaco ( city-state ) 43°43′52′′N 07°25′12′′E / 43.73111°N 7.42000°E / 43.73111; 7.42000"
+          "Monaco ( city-state )"
         ]
       },
       {
@@ -356,22 +212,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Mon",
-            "children": []
-          },
-          {
-            "label": "gasque",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Monégasque"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -485,26 +325,6 @@
         ],
         "raw_values": [
           "17 May 1814"
-        ]
-      },
-      {
-        "label": "from_occupation_of_the_sixth_coalition",
-        "children": [
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1814",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "17 June 1814"
         ]
       },
       {
@@ -759,42 +579,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -812,62 +596,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "377",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+377"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MC",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MC"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "mc",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".mc"
         ]
       }
     ]

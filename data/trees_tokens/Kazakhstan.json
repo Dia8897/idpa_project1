@@ -4,103 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Men",
-            "children": []
-          },
-          {
-            "label": "Qazaqstanym",
-            "children": []
-          },
-          {
-            "label": "My",
-            "children": []
-          },
-          {
-            "label": "Kazakhstan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Menıñ Qazaqstanym \"My Kazakhstan\""
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Astana",
             "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "71",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "71",
-            "children": []
-          },
-          {
-            "label": "433",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
-          },
-          {
-            "label": "71",
-            "children": []
-          },
-          {
-            "label": "433",
-            "children": []
           }
         ],
         "raw_values": [
-          "Astana 51°8′N 71°26′E / 51.133°N 71.433°E / 51.133; 71.433"
+          "Astana"
         ]
       },
       {
@@ -109,74 +21,10 @@
           {
             "label": "Almaty",
             "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "76",
-            "children": []
-          },
-          {
-            "label": "57",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "233",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "76",
-            "children": []
-          },
-          {
-            "label": "950",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "43",
-            "children": []
-          },
-          {
-            "label": "233",
-            "children": []
-          },
-          {
-            "label": "76",
-            "children": []
-          },
-          {
-            "label": "950",
-            "children": []
           }
         ],
         "raw_values": [
-          "Almaty 43°14′N 76°57′E / 43.233°N 76.950°E / 43.233; 76.950"
+          "Almaty"
         ]
       },
       {
@@ -372,22 +220,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Kazakh",
-            "children": []
-          },
-          {
-            "label": "Kazakhstani",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kazakh Kazakhstani"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -421,42 +253,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic under an authoritarian government"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Kassym",
-            "children": []
-          },
-          {
-            "label": "Jomart",
-            "children": []
-          },
-          {
-            "label": "Tokayev",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kassym-Jomart Tokayev"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Oljas",
-            "children": []
-          },
-          {
-            "label": "Bektenov",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Oljas Bektenov"
         ]
       },
       {
@@ -553,26 +349,6 @@
         ],
         "raw_values": [
           "5 December 1936"
-        ]
-      },
-      {
-        "label": "independence_from_the_soviet_union",
-        "children": [
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "16 December 1991"
         ]
       },
       {
@@ -900,74 +676,6 @@
         ],
         "raw_values": [
           "0.837 very high ( 60th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Tenge",
-            "children": []
-          },
-          {
-            "label": "KZT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tenge (₸) ( KZT )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +5"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "7",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+7"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KZ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "KZ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "kz",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".kz .қаз"
         ]
       }
     ]

@@ -4,111 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "P",
-            "children": []
-          },
-          {
-            "label": "tria",
-            "children": []
-          },
-          {
-            "label": "Amada",
-            "children": []
-          },
-          {
-            "label": "Portuguese",
-            "children": []
-          },
-          {
-            "label": "Beloved",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Pátria Amada (Portuguese) \"Beloved Homeland\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Maputo",
             "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "57",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "35",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "950",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "583",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "950",
-            "children": []
-          },
-          {
-            "label": "32",
-            "children": []
-          },
-          {
-            "label": "583",
-            "children": []
           }
         ],
         "raw_values": [
-          "Maputo 25°57′S 32°35′E / 25.950°S 32.583°E / -25.950; 32.583"
+          "Maputo"
         ]
       },
       {
@@ -284,18 +188,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Mozambican",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mozambican"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -341,42 +233,6 @@
         ],
         "raw_values": [
           "Unitary dominant-party semi-presidential republic under an authoritarian government"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Daniel",
-            "children": []
-          },
-          {
-            "label": "Chapo",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Daniel Chapo"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Maria",
-            "children": []
-          },
-          {
-            "label": "Benvinda",
-            "children": []
-          },
-          {
-            "label": "Levy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Maria Benvinda Levy"
         ]
       },
       {
@@ -728,78 +584,6 @@
         ],
         "raw_values": [
           "0.493 low ( 183rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Metical",
-            "children": []
-          },
-          {
-            "label": "MZN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Metical ( MZN )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "CAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( CAT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "258",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+258"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MZ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MZ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "mz",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".mz"
         ]
       }
     ]

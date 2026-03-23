@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Oj, svijetla majska zoro (English: \"Oh, Bright Dawn of May\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Podgorica 42°47′N 19°28′E / 42.783°N 19.467°E / 42.783; 19.467",
+            "label": "Podgorica",
             "children": []
           }
         ]
@@ -58,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Montenegrin",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Jakov Milatović",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Milojko Spajić",
             "children": []
           }
         ]
@@ -157,24 +121,6 @@
         ]
       },
       {
-        "label": "kingdom_of_montenegro",
-        "children": [
-          {
-            "label": "28 August 1910",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom_of_yugoslavia",
-        "children": [
-          {
-            "label": "26 November 1918",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "sfr_yugoslavia",
         "children": [
           {
@@ -188,15 +134,6 @@
         "children": [
           {
             "label": "27 April 1992",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "3 June 2006",
             "children": []
           }
         ]
@@ -304,55 +241,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) a ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+382",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ME",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".me",
             "children": []
           }
         ]

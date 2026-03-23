@@ -4,143 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Mu",
-            "children": []
-          },
-          {
-            "label": "isamaa",
-            "children": []
-          },
-          {
-            "label": "mu",
-            "children": []
-          },
-          {
-            "label": "nn",
-            "children": []
-          },
-          {
-            "label": "ja",
-            "children": []
-          },
-          {
-            "label": "r",
-            "children": []
-          },
-          {
-            "label": "m",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "My",
-            "children": []
-          },
-          {
-            "label": "Fatherland",
-            "children": []
-          },
-          {
-            "label": "My",
-            "children": []
-          },
-          {
-            "label": "Happiness",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Joy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mu isamaa, mu õnn ja rõõm (English: \"My Fatherland, My Happiness and Joy\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Tallinn",
             "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "45",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "417",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "750",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "417",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "750",
-            "children": []
           }
         ],
         "raw_values": [
-          "Tallinn 59°25′N 24°45′E / 59.417°N 24.750°E / 59.417; 24.750"
+          "Tallinn"
         ]
       },
       {
@@ -324,18 +196,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Estonian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Estonian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -356,38 +216,6 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Alar",
-            "children": []
-          },
-          {
-            "label": "Karis",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Alar Karis"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Kristen",
-            "children": []
-          },
-          {
-            "label": "Michal",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kristen Michal"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -397,62 +225,6 @@
         ],
         "raw_values": [
           "Riigikogu"
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "February",
-            "children": []
-          },
-          {
-            "label": "1918",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "24 February 1918"
-        ]
-      },
-      {
-        "label": "german_and_soviet_occupations",
-        "children": [
-          {
-            "label": "1940",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1940–1991"
-        ]
-      },
-      {
-        "label": "restoration_of_independence",
-        "children": [
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "20 August 1991"
         ]
       },
       {
@@ -755,46 +527,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "02",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "EET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +02:00 ( EET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -816,42 +548,6 @@
         ],
         "raw_values": [
           "UTC +03:00 ( EEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "372",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+372"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "EE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "EE"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ee",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ee"
         ]
       }
     ]

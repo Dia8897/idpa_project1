@@ -148,127 +148,15 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "Liberty",
-            "children": []
-          },
-          {
-            "label": "Justice",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Unity, Liberty, Justice"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Namibia",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Brave",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Namibia, Land of the Brave"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Windhoek",
             "children": []
-          },
-          {
-            "label": "22",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "22",
-            "children": []
-          },
-          {
-            "label": "567",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "083",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "22",
-            "children": []
-          },
-          {
-            "label": "567",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "083",
-            "children": []
           }
         ],
         "raw_values": [
-          "Windhoek 22°34′S 17°5′E / 22.567°S 17.083°E / -22.567; 17.083"
+          "Windhoek"
         ]
       },
       {
@@ -516,18 +404,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Namibian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Namibian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -549,70 +425,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Netumbo",
-            "children": []
-          },
-          {
-            "label": "Nandi",
-            "children": []
-          },
-          {
-            "label": "Ndaitwah",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Netumbo Nandi-Ndaitwah"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Lucia",
-            "children": []
-          },
-          {
-            "label": "Witbooi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Lucia Witbooi"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Elijah",
-            "children": []
-          },
-          {
-            "label": "Ngurare",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Elijah Ngurare"
-        ]
-      },
-      {
-        "label": "deputy_prime_minister",
-        "children": [
-          {
-            "label": "Vacant",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Vacant"
         ]
       },
       {
@@ -693,26 +505,6 @@
         ],
         "raw_values": [
           "9 February 1990"
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1990",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "21 March 1990"
         ]
       },
       {
@@ -980,118 +772,6 @@
         ],
         "raw_values": [
           "0.665 medium ( 136th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Namibian",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "NAD",
-            "children": []
-          },
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "rand",
-            "children": []
-          },
-          {
-            "label": "ZAR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Namibian dollar (NAD) South African rand (ZAR)"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "CAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( CAT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "264",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+264"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NA",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "NA"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "na",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".na"
         ]
       }
     ]

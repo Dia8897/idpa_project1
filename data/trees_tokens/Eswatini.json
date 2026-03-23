@@ -4,142 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Siyinqaba",
-            "children": []
-          },
-          {
-            "label": "Swazi",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "fortress",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "mystery",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "hide",
-            "children": []
-          },
-          {
-            "label": "ourselves",
-            "children": []
-          },
-          {
-            "label": "away",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "powerful",
-            "children": []
-          },
-          {
-            "label": "ones",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Siyinqaba\" ( Swazi ) \"We are a fortress\" \"We are a mystery\" \"We hide ourselves away\" \"We are powerful ones"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Nkulunkulu",
-            "children": []
-          },
-          {
-            "label": "Mnikati",
-            "children": []
-          },
-          {
-            "label": "wetibusiso",
-            "children": []
-          },
-          {
-            "label": "temaSwati",
-            "children": []
-          },
-          {
-            "label": "Oh",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Giver",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Blessings",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Swazi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nkulunkulu Mnikati wetibusiso temaSwati \" \"Oh God, Giver of Blessings to the Swazi"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -157,74 +21,10 @@
           {
             "label": "legislative",
             "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
           }
         ],
         "raw_values": [
-          "Mbabane (executive) Lobamba (legislative) 26°30′S 31°30′E / 26.500°S 31.500°E / -26.500; 31.500"
+          "Mbabane (executive) Lobamba (legislative)"
         ]
       },
       {
@@ -396,18 +196,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Swazi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Swazi"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -432,22 +220,6 @@
         ]
       },
       {
-        "label": "king",
-        "children": [
-          {
-            "label": "Mswati",
-            "children": []
-          },
-          {
-            "label": "III",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mswati III"
-        ]
-      },
-      {
         "label": "queen_mother",
         "children": [
           {
@@ -457,22 +229,6 @@
         ],
         "raw_values": [
           "Ntfombi"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Russell",
-            "children": []
-          },
-          {
-            "label": "Dlamini",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Russell Dlamini"
         ]
       },
       {
@@ -533,26 +289,6 @@
         ],
         "raw_values": [
           "House of Assembly"
-        ]
-      },
-      {
-        "label": "independence_granted",
-        "children": [
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1968",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "6 September 1968"
         ]
       },
       {
@@ -900,94 +636,6 @@
         ],
         "raw_values": [
           "0.695 medium ( 126th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Lilangeni",
-            "children": []
-          },
-          {
-            "label": "SZL",
-            "children": []
-          },
-          {
-            "label": "South",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "rand",
-            "children": []
-          },
-          {
-            "label": "ZAR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Lilangeni (SZL) South African rand (ZAR)"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "SAST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( SAST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "268",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+268"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SZ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "SZ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "sz",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".sz"
         ]
       }
     ]

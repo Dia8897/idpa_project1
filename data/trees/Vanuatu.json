@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Long God yumi stanap\" (Bislama) Nous nous tenons devant Dieu (French) \"With God we stand",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Yumi, Yumi, Yumi \" (Bislama) \"We, We, We",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Port Vila 17°S 168°E / 17°S 168°E / -17; 168",
+            "label": "Port Vila",
             "children": []
           }
         ]
@@ -58,15 +40,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Ni-Vanuatu (or rarely: Vanuatuan )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -76,37 +49,10 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "Nikenike Vurobaravu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Jotham Napat",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
             "label": "Parliament",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "from_the_united_kingdom_and_france",
-        "children": [
-          {
-            "label": "30 July 1980",
             "children": []
           }
         ]
@@ -200,51 +146,6 @@
         "children": [
           {
             "label": "0.621 medium ( 146th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Vatu ( VUV )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +11 (VUT ( Vanuatu Time ))",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+678",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "VU",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".vu",
             "children": []
           }
         ]

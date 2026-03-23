@@ -4,123 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Il",
-            "children": []
-          },
-          {
-            "label": "Canto",
-            "children": []
-          },
-          {
-            "label": "degli",
-            "children": []
-          },
-          {
-            "label": "Italiani",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Song",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Italians",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Il Canto degli Italiani \" \"The Song of the Italians"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Rome",
             "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "54",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "29",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "900",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "483",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "900",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "483",
-            "children": []
           }
         ],
         "raw_values": [
-          "Rome 41°54′N 12°29′E / 41.900°N 12.483°E / 41.900; 12.483"
+          "Rome"
         ]
       },
       {
@@ -216,18 +108,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Italian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Italian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -245,38 +125,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Sergio",
-            "children": []
-          },
-          {
-            "label": "Mattarella",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sergio Mattarella"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Giorgia",
-            "children": []
-          },
-          {
-            "label": "Meloni",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Giorgia Meloni"
         ]
       },
       {
@@ -384,50 +232,6 @@
         ]
       },
       {
-        "label": "ancient_rome_roman_italy",
-        "children": [
-          {
-            "label": "753",
-            "children": []
-          },
-          {
-            "label": "BC",
-            "children": []
-          },
-          {
-            "label": "476",
-            "children": []
-          },
-          {
-            "label": "AD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "753 BC–476 AD"
-        ]
-      },
-      {
-        "label": "romanbarbarian_kingdoms_byzantine_italy",
-        "children": [
-          {
-            "label": "Early",
-            "children": []
-          },
-          {
-            "label": "Middle",
-            "children": []
-          },
-          {
-            "label": "Ages",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Early Middle Ages"
-        ]
-      },
-      {
         "label": "italian_citystates_and_regional_polities",
         "children": [
           {
@@ -453,58 +257,6 @@
         ],
         "raw_values": [
           "Middle Ages and Modern period"
-        ]
-      },
-      {
-        "label": "kingdom_of_italy",
-        "children": [
-          {
-            "label": "1861",
-            "children": []
-          },
-          {
-            "label": "1946",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1861",
-            "children": []
-          },
-          {
-            "label": "164",
-            "children": []
-          },
-          {
-            "label": "years",
-            "children": []
-          },
-          {
-            "label": "ago",
-            "children": []
-          },
-          {
-            "label": "1861",
-            "children": []
-          },
-          {
-            "label": "03",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1861–1946 17 March 1861 ; 164 years ago ( 1861-03-17 )"
         ]
       },
       {
@@ -851,46 +603,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "b",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro (€) b ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -908,46 +620,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "39",
-            "children": []
-          },
-          {
-            "label": "c",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+39 c"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "IT"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "it",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".it"
         ]
       }
     ]

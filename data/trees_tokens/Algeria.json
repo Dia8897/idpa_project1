@@ -4,171 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Bi",
-            "children": []
-          },
-          {
-            "label": "sh",
-            "children": []
-          },
-          {
-            "label": "sha",
-            "children": []
-          },
-          {
-            "label": "b",
-            "children": []
-          },
-          {
-            "label": "wa",
-            "children": []
-          },
-          {
-            "label": "li",
-            "children": []
-          },
-          {
-            "label": "sh",
-            "children": []
-          },
-          {
-            "label": "sha",
-            "children": []
-          },
-          {
-            "label": "b",
-            "children": []
-          },
-          {
-            "label": "By",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "people",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "people",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "بِالشَّعْبِ و لِلشَّعْبِ Bi-sh-shaʿb wa li-sh-shaʿb \"By the people and for the people\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Qasaman",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "Pledge",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "قَسَمًا Qasaman \"We Pledge\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Algiers",
             "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "700",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "700",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
           }
         ],
         "raw_values": [
-          "Algiers 36°42′N 3°13′E / 36.700°N 3.217°E / 36.700; 3.217"
+          "Algiers"
         ]
       },
       {
@@ -272,18 +116,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Algerian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Algerian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -305,38 +137,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Abdelmadjid",
-            "children": []
-          },
-          {
-            "label": "Tebboune",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Abdelmadjid Tebboune"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Sifi",
-            "children": []
-          },
-          {
-            "label": "Ghrieb",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sifi Ghrieb"
         ]
       },
       {
@@ -477,26 +277,6 @@
         ],
         "raw_values": [
           "5 July 1830"
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "July",
-            "children": []
-          },
-          {
-            "label": "1962",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "5 July 1962"
         ]
       },
       {
@@ -756,82 +536,6 @@
         ],
         "raw_values": [
           "0.763 high ( 96th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Algerian",
-            "children": []
-          },
-          {
-            "label": "dinar",
-            "children": []
-          },
-          {
-            "label": "DZD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Algerian dinar ( DZD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "213",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+213"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "DZ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "DZ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "dz",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".dz .الجزائر"
         ]
       }
     ]

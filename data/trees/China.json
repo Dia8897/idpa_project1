@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "义勇军进行曲 Yìyǒngjūn jìnxíngqǔ \" March of the Volunteers \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Beijing 39°55′N 116°23′E / 39.917°N 116.383°E / 39.917; 116.383",
+            "label": "Beijing",
             "children": []
           }
         ]
@@ -67,15 +58,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Chinese",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -121,37 +103,10 @@
         ]
       },
       {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Han Zheng",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
             "label": "National People's Congress",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_preimperial_dynasty",
-        "children": [
-          {
-            "label": "c. 2070 BCE",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "first_imperial_dynasty",
-        "children": [
-          {
-            "label": "221 BCE",
             "children": []
           }
         ]
@@ -272,51 +227,6 @@
         "children": [
           {
             "label": "0.797 high ( 78th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Renminbi (元/¥) ( CNY )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +8 ( CST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+86 (Mainland) +852 (Hong Kong) +853 (Macau)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CN",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".cn .中国 .中國 (Mainland) .hk .香港 (Hong Kong) .mo .澳门 .澳門 (Macau)",
             "children": []
           }
         ]

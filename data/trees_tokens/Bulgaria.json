@@ -4,66 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "edinenieto",
-            "children": []
-          },
-          {
-            "label": "pravi",
-            "children": []
-          },
-          {
-            "label": "silata",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "makes",
-            "children": []
-          },
-          {
-            "label": "strength",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Съединението прави силата Sŭedinenieto pravi silata ( \" Unity makes strength \" )"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Mila",
-            "children": []
-          },
-          {
-            "label": "Rodino",
-            "children": []
-          },
-          {
-            "label": "Dear",
-            "children": []
-          },
-          {
-            "label": "Motherland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Мила Родино Mila Rodino ( \"Dear Motherland\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -336,18 +276,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bulgarian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bulgarian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -365,38 +293,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Iliana",
-            "children": []
-          },
-          {
-            "label": "Iotova",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Iliana Iotova"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Andrey",
-            "children": []
-          },
-          {
-            "label": "Gyurov",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Andrey Gyurov"
         ]
       },
       {
@@ -481,26 +377,6 @@
         ],
         "raw_values": [
           "3 March 1878"
-        ]
-      },
-      {
-        "label": "independence_from_the_ottoman_empire",
-        "children": [
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "October",
-            "children": []
-          },
-          {
-            "label": "1908",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "5 October 1908"
         ]
       },
       {
@@ -847,42 +723,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "EET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( EET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -900,42 +740,6 @@
         ],
         "raw_values": [
           "UTC +3 ( EEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "359",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+359"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BG",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BG"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "bg",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".bg .бг"
         ]
       }
     ]

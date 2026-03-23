@@ -4,74 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Jepilpilin",
-            "children": []
-          },
-          {
-            "label": "ke",
-            "children": []
-          },
-          {
-            "label": "ejukaan",
-            "children": []
-          },
-          {
-            "label": "Accomplishment",
-            "children": []
-          },
-          {
-            "label": "through",
-            "children": []
-          },
-          {
-            "label": "joint",
-            "children": []
-          },
-          {
-            "label": "effort",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jepilpilin ke ejukaan \" \"Accomplishment through joint effort"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Indeeo",
-            "children": []
-          },
-          {
-            "label": "M",
-            "children": []
-          },
-          {
-            "label": "aje",
-            "children": []
-          },
-          {
-            "label": "Forever",
-            "children": []
-          },
-          {
-            "label": "Marshall",
-            "children": []
-          },
-          {
-            "label": "Islands",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Indeeo M̧ajeļ \" Forever Marshall Islands \""
-        ]
-      },
-      {
         "label": "status",
         "children": [
           {
@@ -137,74 +69,10 @@
           {
             "label": "Majuro",
             "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "171",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "117",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "171",
-            "children": []
-          },
-          {
-            "label": "067",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "117",
-            "children": []
-          },
-          {
-            "label": "171",
-            "children": []
-          },
-          {
-            "label": "067",
-            "children": []
           }
         ],
         "raw_values": [
-          "Majuro 7°7′N 171°4′E / 7.117°N 171.067°E / 7.117; 171.067"
+          "Majuro"
         ]
       },
       {
@@ -344,18 +212,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Marshallese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Marshallese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -389,22 +245,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic with an executive president"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Hilda",
-            "children": []
-          },
-          {
-            "label": "Heine",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Hilda Heine"
         ]
       },
       {
@@ -707,50 +547,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "United",
-            "children": []
-          },
-          {
-            "label": "States",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "Sovereign",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "United States dollar Sovereign"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "MHT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +12 (MHT)"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -764,62 +560,6 @@
         ],
         "raw_values": [
           "Not observed"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "MM",
-            "children": []
-          },
-          {
-            "label": "DD",
-            "children": []
-          },
-          {
-            "label": "YYYY",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MM/DD/YYYY"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "692",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+692"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MH",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MH"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "mh",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".mh"
         ]
       }
     ]

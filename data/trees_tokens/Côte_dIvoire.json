@@ -4,147 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "Discipline",
-            "children": []
-          },
-          {
-            "label": "Travail",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "Discipline",
-            "children": []
-          },
-          {
-            "label": "Work",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Union – Discipline – Travail' ( French ) 'Unity – Discipline – Work"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "L",
-            "children": []
-          },
-          {
-            "label": "Abidjanaise",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Song",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Abidjan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "L'Abidjanaise (English: \"Song of Abidjan\" )"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Yamoussoukro",
             "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "300",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "300",
-            "children": []
           }
         ],
         "raw_values": [
-          "Yamoussoukro 6°51′N 5°18′W / 6.850°N 5.300°W / 6.850; -5.300"
+          "Yamoussoukro"
         ]
       },
       {
@@ -444,26 +312,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Ivorian",
-            "children": []
-          },
-          {
-            "label": "Ivory",
-            "children": []
-          },
-          {
-            "label": "Coasters",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ivorian Ivory Coasters"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -497,66 +345,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic under an authoritarian regime"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Alassane",
-            "children": []
-          },
-          {
-            "label": "Ouattara",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Alassane Ouattara"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Ti",
-            "children": []
-          },
-          {
-            "label": "moko",
-            "children": []
-          },
-          {
-            "label": "Meyliet",
-            "children": []
-          },
-          {
-            "label": "Kon",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tiémoko Meyliet Koné"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Robert",
-            "children": []
-          },
-          {
-            "label": "Beugr",
-            "children": []
-          },
-          {
-            "label": "Mamb",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Robert Beugré Mambé"
         ]
       },
       {
@@ -633,46 +421,6 @@
         ],
         "raw_values": [
           "National Assembly"
-        ]
-      },
-      {
-        "label": "republic_established",
-        "children": [
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1958",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "4 December 1958"
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1960",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "7 August 1960"
         ]
       },
       {
@@ -968,114 +716,6 @@
         ],
         "raw_values": [
           "0.582 medium ( 157th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "West",
-            "children": []
-          },
-          {
-            "label": "African",
-            "children": []
-          },
-          {
-            "label": "CFA",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "XOF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "West African CFA franc ( XOF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "GMT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC ±00:00 ( GMT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "225",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+225"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CI",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CI"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ci",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ci"
         ]
       }
     ]

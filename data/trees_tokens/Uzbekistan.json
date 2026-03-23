@@ -4,135 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "O",
-            "children": []
-          },
-          {
-            "label": "zbekiston",
-            "children": []
-          },
-          {
-            "label": "Respublikasining",
-            "children": []
-          },
-          {
-            "label": "Davlat",
-            "children": []
-          },
-          {
-            "label": "madhiyasi",
-            "children": []
-          },
-          {
-            "label": "State",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Uzbekistan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "O'zbekiston Respublikasining Davlat madhiyasi , Ўзбекистон Республикасининг Давлат мадҳияси \" State Anthem of the Republic of Uzbekistan \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Tashkent",
             "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "69",
-            "children": []
-          },
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "317",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "69",
-            "children": []
-          },
-          {
-            "label": "267",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "317",
-            "children": []
-          },
-          {
-            "label": "69",
-            "children": []
-          },
-          {
-            "label": "267",
-            "children": []
           }
         ],
         "raw_values": [
-          "Tashkent 41°19′N 69°16′E / 41.317°N 69.267°E / 41.317; 69.267"
+          "Tashkent"
         ]
       },
       {
@@ -300,22 +180,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Uzbek",
-            "children": []
-          },
-          {
-            "label": "Uzbekistani",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Uzbek - Uzbekistani"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -337,38 +201,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Shavkat",
-            "children": []
-          },
-          {
-            "label": "Mirziyoyev",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Shavkat Mirziyoyev"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Abdulla",
-            "children": []
-          },
-          {
-            "label": "Aripov",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Abdulla Aripov"
         ]
       },
       {
@@ -784,106 +616,6 @@
         ],
         "raw_values": [
           "0.740 high ( 107th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Uzbek",
-            "children": []
-          },
-          {
-            "label": "sum",
-            "children": []
-          },
-          {
-            "label": "UZS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Uzbek sum ( UZS )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "UZT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +5 ( UZT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "c",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm yyyy c"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "998",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+998"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "UZ",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UZ"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "uz",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".uz"
         ]
       }
     ]

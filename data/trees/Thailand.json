@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "เพลงชาติไทย Phleng Chat Thai \"Thai National Anthem\" Royal anthem : สรรเสริญพระบารมี Sansoen Phra Barami \"Praise the King\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Bangkok 13°48′N 100°33′E / 13.800°N 100.550°E / 13.800; 100.550",
+            "label": "Bangkok",
             "children": []
           }
         ]
@@ -58,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Thai",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -80,15 +62,6 @@
         "children": [
           {
             "label": "Vajiralongkorn (Rama X)",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Anutin Charnvirakul",
             "children": []
           }
         ]
@@ -116,42 +89,6 @@
         "children": [
           {
             "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "sukhothai_kingdom",
-        "children": [
-          {
-            "label": "1238–1438",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "ayutthaya_kingdom",
-        "children": [
-          {
-            "label": "1351–1767",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "thonburi_kingdom",
-        "children": [
-          {
-            "label": "1767–1782",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "rattanakosin_kingdom",
-        "children": [
-          {
-            "label": "6 April 1782",
             "children": []
           }
         ]
@@ -272,60 +209,6 @@
         "children": [
           {
             "label": "0.798 high ( 76th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Thai baht (฿) ( THB )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +7 ( ICT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy ( BE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+66",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TH",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".th .ไทย",
             "children": []
           }
         ]

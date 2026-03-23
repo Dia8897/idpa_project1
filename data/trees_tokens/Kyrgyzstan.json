@@ -4,131 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Kyrgyz",
-            "children": []
-          },
-          {
-            "label": "Kyrgyz",
-            "children": []
-          },
-          {
-            "label": "Respublikasynyn",
-            "children": []
-          },
-          {
-            "label": "Mamlekettik",
-            "children": []
-          },
-          {
-            "label": "gimni",
-            "children": []
-          },
-          {
-            "label": "State",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Kyrgyz",
-            "children": []
-          },
-          {
-            "label": "Republic",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Кыргыз Республикасынын Мамлекеттик гимни (Kyrgyz) Kyrgyz Respublikasynyn Mamlekettik gimni \" State Anthem of the Kyrgyz Republic \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Bishkek",
             "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "74",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "867",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "74",
-            "children": []
-          },
-          {
-            "label": "600",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "867",
-            "children": []
-          },
-          {
-            "label": "74",
-            "children": []
-          },
-          {
-            "label": "600",
-            "children": []
           }
         ],
         "raw_values": [
-          "Bishkek 42°52′N 74°36′E / 42.867°N 74.600°E / 42.867; 74.600"
+          "Bishkek"
         ]
       },
       {
@@ -280,22 +164,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Kyrgyz",
-            "children": []
-          },
-          {
-            "label": "Kyrgyzstani",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kyrgyz Kyrgyzstani"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -313,22 +181,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Sadyr",
-            "children": []
-          },
-          {
-            "label": "Japarov",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sadyr Japarov"
         ]
       },
       {
@@ -405,18 +257,6 @@
         ],
         "raw_values": [
           "1842–1867"
-        ]
-      },
-      {
-        "label": "annexed_by_the_russian_empire",
-        "children": [
-          {
-            "label": "1876",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1876"
         ]
       },
       {
@@ -497,46 +337,6 @@
         ],
         "raw_values": [
           "30 December 1990"
-        ]
-      },
-      {
-        "label": "independence_declared_from_ussr",
-        "children": [
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "31 August 1991"
-        ]
-      },
-      {
-        "label": "independence_recognized",
-        "children": [
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1991",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "26 December 1991"
         ]
       },
       {
@@ -868,106 +668,6 @@
         ],
         "raw_values": [
           "0.720 high ( 117th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Kyrgyzstani",
-            "children": []
-          },
-          {
-            "label": "som",
-            "children": []
-          },
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "KGS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kyrgyzstani som ( c ) ( KGS )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "KGT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +6 ( KGT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "996",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+996"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KG",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "KG"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "kg",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".kg"
         ]
       }
     ]

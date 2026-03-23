@@ -4,30 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Belau",
-            "children": []
-          },
-          {
-            "label": "rekid",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "Palau",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Belau rekid \"Our Palau\""
-        ]
-      },
-      {
         "label": "status",
         "children": [
           {
@@ -93,74 +69,10 @@
           {
             "label": "Ngerulmud",
             "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "134",
-            "children": []
-          },
-          {
-            "label": "37",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "134",
-            "children": []
-          },
-          {
-            "label": "617",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
-          },
-          {
-            "label": "134",
-            "children": []
-          },
-          {
-            "label": "617",
-            "children": []
           }
         ],
         "raw_values": [
-          "Ngerulmud 7°30′N 134°37′E / 7.500°N 134.617°E / 7.500; 134.617"
+          "Ngerulmud"
         ]
       },
       {
@@ -169,74 +81,10 @@
           {
             "label": "Koror",
             "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "134",
-            "children": []
-          },
-          {
-            "label": "29",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "333",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "134",
-            "children": []
-          },
-          {
-            "label": "483",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "333",
-            "children": []
-          },
-          {
-            "label": "134",
-            "children": []
-          },
-          {
-            "label": "483",
-            "children": []
           }
         ],
         "raw_values": [
-          "Koror 7°20′N 134°29′E / 7.333°N 134.483°E / 7.333; 134.483"
+          "Koror"
         ]
       },
       {
@@ -416,18 +264,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Palauan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Palauan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -465,42 +301,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic under a non-partisan democracy"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Surangel",
-            "children": []
-          },
-          {
-            "label": "Whipps",
-            "children": []
-          },
-          {
-            "label": "Jr",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Surangel Whipps Jr."
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Raynold",
-            "children": []
-          },
-          {
-            "label": "Oilouch",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Raynold Oilouch"
         ]
       },
       {
@@ -867,50 +667,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "United",
-            "children": []
-          },
-          {
-            "label": "States",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "USD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "United States dollar ( USD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "PWT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +9 (PWT)"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -924,62 +680,6 @@
         ],
         "raw_values": [
           "not observed"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "mm/dd/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "680",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+680"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PW",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "PW"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "pw",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".pw"
         ]
       }
     ]

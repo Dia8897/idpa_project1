@@ -4,42 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "sh",
-            "children": []
-          },
-          {
-            "label": "Bil",
-            "children": []
-          },
-          {
-            "label": "d",
-            "children": []
-          },
-          {
-            "label": "Long",
-            "children": []
-          },
-          {
-            "label": "Live",
-            "children": []
-          },
-          {
-            "label": "My",
-            "children": []
-          },
-          {
-            "label": "Country",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "عيشي بلادي Īshī Bilādī \"Long Live My Country\""
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -49,74 +13,10 @@
           {
             "label": "Dhabi",
             "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "54",
-            "children": []
-          },
-          {
-            "label": "22",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "467",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "54",
-            "children": []
-          },
-          {
-            "label": "367",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "467",
-            "children": []
-          },
-          {
-            "label": "54",
-            "children": []
-          },
-          {
-            "label": "367",
-            "children": []
           }
         ],
         "raw_values": [
-          "Abu Dhabi 24°28′N 54°22′E / 24.467°N 54.367°E / 24.467; 54.367"
+          "Abu Dhabi"
         ]
       },
       {
@@ -125,74 +25,10 @@
           {
             "label": "Dubai",
             "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "250",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "300",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "250",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "300",
-            "children": []
           }
         ],
         "raw_values": [
-          "Dubai 25°15′N 55°18′E / 25.250°N 55.300°E / 25.250; 55.300"
+          "Dubai"
         ]
       },
       {
@@ -476,18 +312,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Emirati",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Emirati"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -521,34 +345,6 @@
         ],
         "raw_values": [
           "Federal semi-presidential elective semi-constitutional monarchy"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Mohamed",
-            "children": []
-          },
-          {
-            "label": "bin",
-            "children": []
-          },
-          {
-            "label": "Zayed",
-            "children": []
-          },
-          {
-            "label": "Al",
-            "children": []
-          },
-          {
-            "label": "Nahyan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mohamed bin Zayed Al Nahyan"
         ]
       },
       {
@@ -600,34 +396,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mohammed",
-            "children": []
-          },
-          {
-            "label": "bin",
-            "children": []
-          },
-          {
-            "label": "Rashid",
-            "children": []
-          },
-          {
-            "label": "Al",
-            "children": []
-          },
-          {
-            "label": "Maktoum",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mohammed bin Rashid Al Maktoum"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -645,46 +413,6 @@
         ],
         "raw_values": [
           "Federal Supreme Council"
-        ]
-      },
-      {
-        "label": "british_protectorate_as_part_of_trucial_states",
-        "children": [
-          {
-            "label": "1820",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "1892",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1820 and 1892"
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom",
-        "children": [
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1971",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "2 December 1971"
         ]
       },
       {
@@ -968,86 +696,6 @@
         ],
         "raw_values": [
           "0.940 very high ( 15th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "UAE",
-            "children": []
-          },
-          {
-            "label": "dirham",
-            "children": []
-          },
-          {
-            "label": "AED",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UAE dirham ( AED )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "04",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "GST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +04:00 ( GST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "971",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+971"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "AE"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ae",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ae امارات."
         ]
       }
     ]

@@ -4,143 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "To",
-            "children": []
-          },
-          {
-            "label": "Lead",
-            "children": []
-          },
-          {
-            "label": "is",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "Serve",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "To Lead is to Serve"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Save",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "Solomon",
-            "children": []
-          },
-          {
-            "label": "Islands",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "God Save Our Solomon Islands"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Honiara",
             "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "159",
-            "children": []
-          },
-          {
-            "label": "57",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "43194",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "159",
-            "children": []
-          },
-          {
-            "label": "95556",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "43194",
-            "children": []
-          },
-          {
-            "label": "159",
-            "children": []
-          },
-          {
-            "label": "95556",
-            "children": []
           }
         ],
         "raw_values": [
-          "Honiara 9°25′55′′S 159°57′20′′E / 9.43194°S 159.95556°E / -9.43194; 159.95556"
+          "Honiara"
         ]
       },
       {
@@ -316,26 +188,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Solomon",
-            "children": []
-          },
-          {
-            "label": "Islander",
-            "children": []
-          },
-          {
-            "label": "Solomonese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Solomon Islander Solomonese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -396,22 +248,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Jeremiah",
-            "children": []
-          },
-          {
-            "label": "Manele",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jeremiah Manele"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -425,26 +261,6 @@
         ],
         "raw_values": [
           "National Parliament"
-        ]
-      },
-      {
-        "label": "from_the_united_kingdom",
-        "children": [
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "July",
-            "children": []
-          },
-          {
-            "label": "1978",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "7 July 1978"
         ]
       },
       {
@@ -727,58 +543,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Solomon",
-            "children": []
-          },
-          {
-            "label": "Islands",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "SBD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Solomon Islands dollar ( SBD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "Solomon",
-            "children": []
-          },
-          {
-            "label": "Islands",
-            "children": []
-          },
-          {
-            "label": "Time",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +11 (Solomon Islands Time)"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -792,42 +556,6 @@
         ],
         "raw_values": [
           "Not observed"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "677",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+677"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SB",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "SB"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "sb",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".sb"
         ]
       }
     ]

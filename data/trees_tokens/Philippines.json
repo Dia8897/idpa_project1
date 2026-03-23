@@ -4,90 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Maka",
-            "children": []
-          },
-          {
-            "label": "Diyos",
-            "children": []
-          },
-          {
-            "label": "Maka",
-            "children": []
-          },
-          {
-            "label": "tao",
-            "children": []
-          },
-          {
-            "label": "Makakalikasan",
-            "children": []
-          },
-          {
-            "label": "at",
-            "children": []
-          },
-          {
-            "label": "Makabansa",
-            "children": []
-          },
-          {
-            "label": "For",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "People",
-            "children": []
-          },
-          {
-            "label": "Nature",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Country",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Maka-Diyos, Maka-tao, Makakalikasan at Makabansa \"For God, People, Nature, and Country\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Lupang",
-            "children": []
-          },
-          {
-            "label": "Hinirang",
-            "children": []
-          },
-          {
-            "label": "Chosen",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Lupang Hinirang \" \"Chosen Land"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -117,50 +33,10 @@
           {
             "label": "facto",
             "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "122",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "122",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "122",
-            "children": []
           }
         ],
         "raw_values": [
-          "Manila ( de jure ) Metro Manila ( de facto ) 13°N 122°E / 13°N 122°E / 13; 122"
+          "Manila ( de jure ) Metro Manila ( de facto )"
         ]
       },
       {
@@ -428,78 +304,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Filipino",
-            "children": []
-          },
-          {
-            "label": "neutral",
-            "children": []
-          },
-          {
-            "label": "Filipina",
-            "children": []
-          },
-          {
-            "label": "feminine",
-            "children": []
-          },
-          {
-            "label": "Pinoy",
-            "children": []
-          },
-          {
-            "label": "colloquial",
-            "children": []
-          },
-          {
-            "label": "neutral",
-            "children": []
-          },
-          {
-            "label": "Pinay",
-            "children": []
-          },
-          {
-            "label": "colloquial",
-            "children": []
-          },
-          {
-            "label": "feminine",
-            "children": []
-          },
-          {
-            "label": "Philippine",
-            "children": []
-          },
-          {
-            "label": "adjective",
-            "children": []
-          },
-          {
-            "label": "for",
-            "children": []
-          },
-          {
-            "label": "certain",
-            "children": []
-          },
-          {
-            "label": "common",
-            "children": []
-          },
-          {
-            "label": "nouns",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Filipino ( neutral ) Filipina ( feminine ) Pinoy ( colloquial neutral ) Pinay ( colloquial feminine ) Philippine ( adjective for certain common nouns )"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -517,38 +321,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Bongbong",
-            "children": []
-          },
-          {
-            "label": "Marcos",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bongbong Marcos"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Sara",
-            "children": []
-          },
-          {
-            "label": "Duterte",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sara Duterte"
         ]
       },
       {
@@ -1020,82 +792,6 @@
         ],
         "raw_values": [
           "0.720 high ( 117th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Philippine",
-            "children": []
-          },
-          {
-            "label": "peso",
-            "children": []
-          },
-          {
-            "label": "PHP",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Philippine peso ( ₱ ) ( PHP )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "PhST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +8 ( PhST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "63",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+63"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PH",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "PH"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "ph",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".ph"
         ]
       }
     ]

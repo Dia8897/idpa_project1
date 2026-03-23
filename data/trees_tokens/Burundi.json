@@ -4,167 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Ubumwe",
-            "children": []
-          },
-          {
-            "label": "Ibikorwa",
-            "children": []
-          },
-          {
-            "label": "Amajambere",
-            "children": []
-          },
-          {
-            "label": "Kirundi",
-            "children": []
-          },
-          {
-            "label": "Unit",
-            "children": []
-          },
-          {
-            "label": "Travail",
-            "children": []
-          },
-          {
-            "label": "Progr",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Union",
-            "children": []
-          },
-          {
-            "label": "Work",
-            "children": []
-          },
-          {
-            "label": "Progress",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\"Ubumwe, Ibikorwa, Amajambere\" ( Kirundi ) \"Unité, Travail, Progrès\" ( French ) \"Union, Work, Progress\" (English)"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Burundi",
-            "children": []
-          },
-          {
-            "label": "Bwacu",
-            "children": []
-          },
-          {
-            "label": "Kirundi",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "Burundi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Burundi Bwacu \" (Kirundi) \"Our Burundi"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Gitega",
             "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "000",
-            "children": []
           }
         ],
         "raw_values": [
-          "Gitega 3°30′S 30°00′E / 3.500°S 30.000°E / -3.500; 30.000"
+          "Gitega"
         ]
       },
       {
@@ -364,18 +212,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Burundian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Burundian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -420,54 +256,6 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "variste",
-            "children": []
-          },
-          {
-            "label": "Ndayishimiye",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Évariste Ndayishimiye"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Nestor",
-            "children": []
-          },
-          {
-            "label": "Ntahontuye",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nestor Ntahontuye"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Prosper",
-            "children": []
-          },
-          {
-            "label": "Bazombanza",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Prosper Bazombanza"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -508,22 +296,6 @@
         ]
       },
       {
-        "label": "kingdom_of_urundi",
-        "children": [
-          {
-            "label": "1680",
-            "children": []
-          },
-          {
-            "label": "1966",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1680–1966"
-        ]
-      },
-      {
         "label": "part_of_german_east_africa",
         "children": [
           {
@@ -553,26 +325,6 @@
         ],
         "raw_values": [
           "1916–1962"
-        ]
-      },
-      {
-        "label": "independence_from_belgium",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "July",
-            "children": []
-          },
-          {
-            "label": "1962",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 July 1962"
         ]
       },
       {
@@ -912,86 +664,6 @@
         ],
         "raw_values": [
           "0.439 low ( 187th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Burundian",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "FBu",
-            "children": []
-          },
-          {
-            "label": "BIF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Burundian franc (FBu) ( BIF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "CAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( CAT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "257",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+257"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BI",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BI"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "bi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".bi"
         ]
       }
     ]

@@ -4,127 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Oj",
-            "children": []
-          },
-          {
-            "label": "svijetla",
-            "children": []
-          },
-          {
-            "label": "majska",
-            "children": []
-          },
-          {
-            "label": "zoro",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Oh",
-            "children": []
-          },
-          {
-            "label": "Bright",
-            "children": []
-          },
-          {
-            "label": "Dawn",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Oj, svijetla majska zoro (English: \"Oh, Bright Dawn of May\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Podgorica",
             "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "47",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "783",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "467",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "783",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "467",
-            "children": []
           }
         ],
         "raw_values": [
-          "Podgorica 42°47′N 19°28′E / 42.783°N 19.467°E / 42.783; 19.467"
+          "Podgorica"
         ]
       },
       {
@@ -380,18 +268,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Montenegrin",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Montenegrin"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -409,38 +285,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Jakov",
-            "children": []
-          },
-          {
-            "label": "Milatovi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jakov Milatović"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Milojko",
-            "children": []
-          },
-          {
-            "label": "Spaji",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Milojko Spajić"
         ]
       },
       {
@@ -552,46 +396,6 @@
         ]
       },
       {
-        "label": "kingdom_of_montenegro",
-        "children": [
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1910",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "28 August 1910"
-        ]
-      },
-      {
-        "label": "kingdom_of_yugoslavia",
-        "children": [
-          {
-            "label": "26",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1918",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "26 November 1918"
-        ]
-      },
-      {
         "label": "sfr_yugoslavia",
         "children": [
           {
@@ -629,26 +433,6 @@
         ],
         "raw_values": [
           "27 April 1992"
-        ]
-      },
-      {
-        "label": "independence_declared",
-        "children": [
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "2006",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "3 June 2006"
         ]
       },
       {
@@ -943,46 +727,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) a ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -1000,42 +744,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "382",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+382"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ME",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ME"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "me",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".me"
         ]
       }
     ]

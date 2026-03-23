@@ -4,103 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Save",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "God Save the King"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "London",
             "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "7",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "117",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "500",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "117",
-            "children": []
           }
         ],
         "raw_values": [
-          "London 51°30′N 0°7′W / 51.500°N 0.117°W / 51.500; -0.117"
+          "London"
         ]
       },
       {
@@ -360,30 +272,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "British",
-            "children": []
-          },
-          {
-            "label": "Briton",
-            "children": []
-          },
-          {
-            "label": "Brit",
-            "children": []
-          },
-          {
-            "label": "colloquial",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "British Briton Brit (colloquial)"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -421,22 +309,6 @@
         ],
         "raw_values": [
           "Charles III"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Keir",
-            "children": []
-          },
-          {
-            "label": "Starmer",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Keir Starmer"
         ]
       },
       {
@@ -894,46 +766,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Pound",
-            "children": []
-          },
-          {
-            "label": "sterling",
-            "children": []
-          },
-          {
-            "label": "GBP",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Pound sterling ( £ ) ( GBP )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "GMT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +0 ( GMT )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -951,66 +783,6 @@
         ],
         "raw_values": [
           "UTC +1 ( BST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "AD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd / mm / yyyy ( AD )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "44",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+44"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GB",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "GB"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "uk",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".uk"
         ]
       }
     ]

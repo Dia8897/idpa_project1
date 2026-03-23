@@ -4,183 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Justitia",
-            "children": []
-          },
-          {
-            "label": "Pietas",
-            "children": []
-          },
-          {
-            "label": "Fides",
-            "children": []
-          },
-          {
-            "label": "Latin",
-            "children": []
-          },
-          {
-            "label": "Gerechtigheid",
-            "children": []
-          },
-          {
-            "label": "Vroomheid",
-            "children": []
-          },
-          {
-            "label": "Vertrouwen",
-            "children": []
-          },
-          {
-            "label": "Dutch",
-            "children": []
-          },
-          {
-            "label": "Justice",
-            "children": []
-          },
-          {
-            "label": "Piety",
-            "children": []
-          },
-          {
-            "label": "Trust",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Justitia – Pietas – Fides ( Latin ) Gerechtigheid – Vroomheid – Vertrouwen ( Dutch ) \"Justice – Piety – Trust\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "zij",
-            "children": []
-          },
-          {
-            "label": "met",
-            "children": []
-          },
-          {
-            "label": "ons",
-            "children": []
-          },
-          {
-            "label": "Suriname",
-            "children": []
-          },
-          {
-            "label": "Dutch",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "be",
-            "children": []
-          },
-          {
-            "label": "with",
-            "children": []
-          },
-          {
-            "label": "our",
-            "children": []
-          },
-          {
-            "label": "Suriname",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "God zij met ons Suriname (Dutch) \"God be with our Suriname\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Paramaribo",
             "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "833",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "833",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "167",
-            "children": []
           }
         ],
         "raw_values": [
-          "Paramaribo 5°50′N 55°10′W / 5.833°N 55.167°W / 5.833; -55.167"
+          "Paramaribo"
         ]
       },
       {
@@ -772,18 +604,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Surinamese",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Surinamese"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -805,42 +625,6 @@
         ],
         "raw_values": [
           "Unitary assembly-independent republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Jennifer",
-            "children": []
-          },
-          {
-            "label": "Geerlings",
-            "children": []
-          },
-          {
-            "label": "Simons",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jennifer Geerlings-Simons"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Gregory",
-            "children": []
-          },
-          {
-            "label": "Rusland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Gregory Rusland"
         ]
       },
       {
@@ -893,46 +677,6 @@
         ],
         "raw_values": [
           "National Assembly"
-        ]
-      },
-      {
-        "label": "constituent_country_within_the_kingdom_of_the_netherlands",
-        "children": [
-          {
-            "label": "15",
-            "children": []
-          },
-          {
-            "label": "December",
-            "children": []
-          },
-          {
-            "label": "1954",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "15 December 1954"
-        ]
-      },
-      {
-        "label": "independence_from_the_kingdom_of_the_netherlands",
-        "children": [
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1975",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "25 November 1975"
         ]
       },
       {
@@ -1180,106 +924,6 @@
         ],
         "raw_values": [
           "0.722 high ( 114th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Surinamese",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "SRD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Surinamese dollar ( SRD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "03",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "SRT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC -03:00 ( SRT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "597",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+597"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "SR"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "sr",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".sr"
         ]
       }
     ]

@@ -4,135 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Nad",
-            "children": []
-          },
-          {
-            "label": "Tatrou",
-            "children": []
-          },
-          {
-            "label": "sa",
-            "children": []
-          },
-          {
-            "label": "bl",
-            "children": []
-          },
-          {
-            "label": "ska",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Lightning",
-            "children": []
-          },
-          {
-            "label": "Over",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Tatras",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nad Tatrou sa blýska (English: \"Lightning Over the Tatras\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Bratislava",
             "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "15250",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "10944",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "48",
-            "children": []
-          },
-          {
-            "label": "15250",
-            "children": []
-          },
-          {
-            "label": "17",
-            "children": []
-          },
-          {
-            "label": "10944",
-            "children": []
           }
         ],
         "raw_values": [
-          "Bratislava 48°9′9′′N 17°6′34′′E / 48.15250°N 17.10944°E / 48.15250; 17.10944"
+          "Bratislava"
         ]
       },
       {
@@ -388,18 +268,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Slovak",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Slovak"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -417,38 +285,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Peter",
-            "children": []
-          },
-          {
-            "label": "Pellegrini",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Peter Pellegrini"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Robert",
-            "children": []
-          },
-          {
-            "label": "Fico",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Robert Fico"
         ]
       },
       {
@@ -485,26 +321,6 @@
         ],
         "raw_values": [
           "National Council"
-        ]
-      },
-      {
-        "label": "independence_from_austriahungary_first_czechoslovak_republic",
-        "children": [
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "October",
-            "children": []
-          },
-          {
-            "label": "1918",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "28 October 1918"
         ]
       },
       {
@@ -625,46 +441,6 @@
         ],
         "raw_values": [
           "11 July 1960"
-        ]
-      },
-      {
-        "label": "slovak_socialist_republic_within_czechoslovak_socialist_republic_change_of_unitary_czechoslovak_state_into_a_federation",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1969",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 January 1969"
-        ]
-      },
-      {
-        "label": "slovak_republic_change_of_name_within_established_czech_and_slovak_federative_republic",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1990",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 March 1990"
         ]
       },
       {
@@ -987,42 +763,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -1040,70 +780,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "d",
-            "children": []
-          },
-          {
-            "label": "m",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "d. m. yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "421",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+421"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "SK"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "sk",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "eu",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".sk and .eu"
         ]
       }
     ]

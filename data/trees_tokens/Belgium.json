@@ -4,114 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Eendracht",
-            "children": []
-          },
-          {
-            "label": "maakt",
-            "children": []
-          },
-          {
-            "label": "macht",
-            "children": []
-          },
-          {
-            "label": "Dutch",
-            "children": []
-          },
-          {
-            "label": "L",
-            "children": []
-          },
-          {
-            "label": "union",
-            "children": []
-          },
-          {
-            "label": "fait",
-            "children": []
-          },
-          {
-            "label": "la",
-            "children": []
-          },
-          {
-            "label": "force",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Einigkeit",
-            "children": []
-          },
-          {
-            "label": "macht",
-            "children": []
-          },
-          {
-            "label": "stark",
-            "children": []
-          },
-          {
-            "label": "German",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "makes",
-            "children": []
-          },
-          {
-            "label": "strength",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Eendracht maakt macht ( Dutch ) L'union fait la force ( French ) Einigkeit macht stark ( German ) (English: \" Unity makes strength \" )"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "La",
-            "children": []
-          },
-          {
-            "label": "Braban",
-            "children": []
-          },
-          {
-            "label": "onne",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Brabantian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "La Brabançonne The Brabantian"
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -125,74 +17,10 @@
           {
             "label": "Brussels",
             "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "350",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "850",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "350",
-            "children": []
           }
         ],
         "raw_values": [
-          "City of Brussels 50°51′N 4°21′E / 50.850°N 4.350°E / 50.850; 4.350"
+          "City of Brussels"
         ]
       },
       {
@@ -364,18 +192,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Belgian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Belgian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -409,26 +225,6 @@
         ],
         "raw_values": [
           "Philippe"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Bart",
-            "children": []
-          },
-          {
-            "label": "De",
-            "children": []
-          },
-          {
-            "label": "Wever",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bart De Wever"
         ]
       },
       {
@@ -807,42 +603,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro",
-            "children": []
-          },
-          {
-            "label": "EUR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Euro ( € ) ( EUR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -860,42 +620,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "32",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+32"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BE"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "be",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".be"
         ]
       }
     ]

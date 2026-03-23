@@ -4,24 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "الله، الوطن، الأمير Allāh, al-Waṭan, al-Amir \" God , Nation, Emir \"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "النشيد الوطني الكويتي al-Nashīd al-Waṭanī al-Kuwaytī \"National Anthem of Kuwait\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -58,15 +40,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Kuwaiti",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -94,15 +67,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ahmad Al-Abdullah Al-Sabah",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -112,37 +76,10 @@
         ]
       },
       {
-        "label": "independence_from_bani_khalid",
-        "children": [
-          {
-            "label": "1752",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "anglokuwaiti_agreement",
         "children": [
           {
             "label": "23 January 1899",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "angloottoman_convention",
-        "children": [
-          {
-            "label": "29 July 1913",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "end_of_british_protectorate",
-        "children": [
-          {
-            "label": "19 June 1961",
             "children": []
           }
         ]
@@ -254,51 +191,6 @@
         "children": [
           {
             "label": "0.852 very high ( 52nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Kuwaiti dinar ( KWD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+965",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KW",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".kw",
             "children": []
           }
         ]

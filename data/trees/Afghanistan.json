@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "لَا إِلهَ إِلَّا اللَّهُ، مُحَمَّدٌ رَسُولُ اللَّهِ ( Arabic ) Lā ʾilāha ʾillā llāh, Muhammadun rasūlu llāh \"There is no god but God ; Muhammad is the messenger of God.\" ( Shahada )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "دا د باتورانو کور ( Pashto ) Dā Də Bātorāno Kor \" This is the Home of the Brave \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Kabul 34°31′N 69°11′E / 34.517°N 69.183°E / 34.517; 69.183",
+            "label": "Kabul",
             "children": []
           }
         ]
@@ -58,15 +40,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Afghan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -80,15 +53,6 @@
         "children": [
           {
             "label": "Hibatullah Akhundzada",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Hasan Akhund",
             "children": []
           }
         ]
@@ -112,15 +76,6 @@
         ]
       },
       {
-        "label": "hotak_emirate",
-        "children": [
-          {
-            "label": "21 April 1709",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "durrani_empire",
         "children": [
           {
@@ -130,37 +85,10 @@
         ]
       },
       {
-        "label": "barakzai_emirate",
-        "children": [
-          {
-            "label": "1823",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "unification",
         "children": [
           {
             "label": "27 May 1863",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "19 August 1919",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "9 June 1926",
             "children": []
           }
         ]
@@ -193,28 +121,10 @@
         ]
       },
       {
-        "label": "islamic_emirate",
-        "children": [
-          {
-            "label": "27 September 1996",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "islamic_republic",
         "children": [
           {
             "label": "26 January 2004",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "restoration_of_islamic_emirate",
-        "children": [
-          {
-            "label": "15 August 2021",
             "children": []
           }
         ]
@@ -299,42 +209,6 @@
         "children": [
           {
             "label": "0.496 low ( 181st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Afghani ( افغانى ) ( AFN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +4:30 Lunar Hijri calendar ( Afghanistan Time )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AF",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".af",
             "children": []
           }
         ]

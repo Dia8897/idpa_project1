@@ -4,62 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "will",
-            "children": []
-          },
-          {
-            "label": "first",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "God's will first"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Nauru",
-            "children": []
-          },
-          {
-            "label": "Bwiema",
-            "children": []
-          },
-          {
-            "label": "Nauruan",
-            "children": []
-          },
-          {
-            "label": "Nauru",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nauru Bwiema (Nauruan) \"Nauru, Our Homeland\""
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
@@ -188,18 +132,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Nauruan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nauruan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -256,38 +188,6 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "David",
-            "children": []
-          },
-          {
-            "label": "Adeang",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "David Adeang"
-        ]
-      },
-      {
-        "label": "speaker_of_the_parliament",
-        "children": [
-          {
-            "label": "Marcus",
-            "children": []
-          },
-          {
-            "label": "Stephen",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Marcus Stephen"
-        ]
-      },
-      {
         "label": "minister_assisting_the_president",
         "children": [
           {
@@ -313,50 +213,6 @@
         ],
         "raw_values": [
           "Parliament"
-        ]
-      },
-      {
-        "label": "nauru_independence_act",
-        "children": [
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1968",
-            "children": []
-          },
-          {
-            "label": "58",
-            "children": []
-          },
-          {
-            "label": "years",
-            "children": []
-          },
-          {
-            "label": "ago",
-            "children": []
-          },
-          {
-            "label": "1968",
-            "children": []
-          },
-          {
-            "label": "01",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "31 January 1968 ; 58 years ago ( 1968-01-31 )"
         ]
       },
       {
@@ -600,78 +456,6 @@
         ],
         "raw_values": [
           "0.703 high ( 124th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Australian",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "AUD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Australian dollar ( AUD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC+12"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "674",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+674"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "NR"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "nr",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".nr"
         ]
       }
     ]

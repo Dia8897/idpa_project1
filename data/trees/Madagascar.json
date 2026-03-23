@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Fitiavana, Tanindrazana, Fandrosoana (Malagasy) Amour, Patrie, Progrès (French) \"Love, Fatherland, Progress\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Ry Tanindrazanay malala ô ! (Malagasy) Ô Terre de nos ancêtres bien-aimés! (French) \"Oh, land of our beloved ancestors!\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Antananarivo 18°55′S 47°31′E / 18.917°S 47.517°E / -18.917; 47.517",
+            "label": "Antananarivo",
             "children": []
           }
         ]
@@ -58,37 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Malagasy",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-presidential republic under a transitional government",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Michael Randrianirina",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Vacant",
             "children": []
           }
         ]
@@ -121,46 +76,10 @@
         ]
       },
       {
-        "label": "kingdom",
-        "children": [
-          {
-            "label": "c. 1540",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "french_protectorate",
-        "children": [
-          {
-            "label": "c. 1882",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "french_colony",
-        "children": [
-          {
-            "label": "6 August 1896",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "republic_proclaimed",
         "children": [
           {
             "label": "14 October 1958",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "26 June 1960",
             "children": []
           }
         ]
@@ -321,60 +240,6 @@
         "children": [
           {
             "label": "0.487 low ( 183rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Ariary ( MGA )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +3 ( EAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+261",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".mg",
             "children": []
           }
         ]

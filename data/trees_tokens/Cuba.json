@@ -4,155 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Patria",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          },
-          {
-            "label": "Muerte",
-            "children": []
-          },
-          {
-            "label": "Venceremos",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          },
-          {
-            "label": "or",
-            "children": []
-          },
-          {
-            "label": "Death",
-            "children": []
-          },
-          {
-            "label": "We",
-            "children": []
-          },
-          {
-            "label": "Shall",
-            "children": []
-          },
-          {
-            "label": "Overcome",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Patria o Muerte, Venceremos (\"Homeland or Death, We Shall Overcome!\")"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "La",
-            "children": []
-          },
-          {
-            "label": "Bayamesa",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "Bayamo",
-            "children": []
-          },
-          {
-            "label": "Song",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "La Bayamesa (\"The Bayamo Song\")"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Havana",
             "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "82",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "82",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "23",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
-          },
-          {
-            "label": "82",
-            "children": []
-          },
-          {
-            "label": "383",
-            "children": []
           }
         ],
         "raw_values": [
-          "Havana 23°8′N 82°23′W / 23.133°N 82.383°W / 23.133; -82.383"
+          "Havana"
         ]
       },
       {
@@ -276,18 +136,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Cuban",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Cuban"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -329,50 +177,6 @@
         ],
         "raw_values": [
           "Miguel Díaz-Canel"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Salvador",
-            "children": []
-          },
-          {
-            "label": "Vald",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "Mesa",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Salvador Valdés Mesa"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Manuel",
-            "children": []
-          },
-          {
-            "label": "Marrero",
-            "children": []
-          },
-          {
-            "label": "Cruz",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Manuel Marrero Cruz"
         ]
       },
       {
@@ -432,46 +236,6 @@
         ]
       },
       {
-        "label": "declaration_of_independence",
-        "children": [
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "October",
-            "children": []
-          },
-          {
-            "label": "1868",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "10 October 1868"
-        ]
-      },
-      {
-        "label": "war_of_independence",
-        "children": [
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "February",
-            "children": []
-          },
-          {
-            "label": "1895",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "24 February 1895"
-        ]
-      },
-      {
         "label": "recognized_sovereignty_relinquished_by_spain",
         "children": [
           {
@@ -489,26 +253,6 @@
         ],
         "raw_values": [
           "10 December 1898"
-        ]
-      },
-      {
-        "label": "republic_declared_end_of_united_states_occupation",
-        "children": [
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "1902",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "20 May 1902"
         ]
       },
       {
@@ -851,50 +595,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Cuban",
-            "children": []
-          },
-          {
-            "label": "peso",
-            "children": []
-          },
-          {
-            "label": "CUP",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Cuban peso ( CUP )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "05",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "CST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −05:00 ( CST )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -916,62 +616,6 @@
         ],
         "raw_values": [
           "UTC −04:00 ( CDT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "53",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+53"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CU",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "CU"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "cu",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".cu"
         ]
       }
     ]

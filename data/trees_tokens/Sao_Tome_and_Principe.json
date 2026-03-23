@@ -4,66 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unidade",
-            "children": []
-          },
-          {
-            "label": "Disciplina",
-            "children": []
-          },
-          {
-            "label": "Trabalho",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "Discipline",
-            "children": []
-          },
-          {
-            "label": "Labour",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\"Unidade, Disciplina, Trabalho\" (\"Unity, Discipline, Labour\")"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Independ",
-            "children": []
-          },
-          {
-            "label": "ncia",
-            "children": []
-          },
-          {
-            "label": "Total",
-            "children": []
-          },
-          {
-            "label": "Total",
-            "children": []
-          },
-          {
-            "label": "Independence",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\" Independência Total \" (\"Total Independence\")"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -77,74 +17,10 @@
           {
             "label": "Tom",
             "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "44",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "333",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "733",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "333",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "733",
-            "children": []
           }
         ],
         "raw_values": [
-          "São Tomé 0°20′N 6°44′E / 0.333°N 6.733°E / 0.333; 6.733"
+          "São Tomé"
         ]
       },
       {
@@ -256,34 +132,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          },
-          {
-            "label": "Tom",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "Santomean",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "São Toméan Santomean"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -305,46 +153,6 @@
         ],
         "raw_values": [
           "Unitary semi-presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Carlos",
-            "children": []
-          },
-          {
-            "label": "Vila",
-            "children": []
-          },
-          {
-            "label": "Nova",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Carlos Vila Nova"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Am",
-            "children": []
-          },
-          {
-            "label": "rico",
-            "children": []
-          },
-          {
-            "label": "Ramos",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Américo Ramos"
         ]
       },
       {
@@ -656,98 +464,6 @@
         ],
         "raw_values": [
           "0.637 medium ( 141st )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Dobra",
-            "children": []
-          },
-          {
-            "label": "STN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Dobra ( STN )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "GMT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +0 ( GMT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "239",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+239"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ST"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "st",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".st"
         ]
       }
     ]

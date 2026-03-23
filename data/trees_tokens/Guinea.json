@@ -4,135 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Travail",
-            "children": []
-          },
-          {
-            "label": "Justice",
-            "children": []
-          },
-          {
-            "label": "Solidarit",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Work",
-            "children": []
-          },
-          {
-            "label": "Justice",
-            "children": []
-          },
-          {
-            "label": "Solidarity",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "\"Travail, Justice, Solidarité\" ( French ) Work, Justice, Solidarity"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Libert",
-            "children": []
-          },
-          {
-            "label": "French",
-            "children": []
-          },
-          {
-            "label": "Liberty",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Liberté ( French ) \"Liberty\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Conakry",
             "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "700",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "700",
-            "children": []
           }
         ],
         "raw_values": [
-          "Conakry 9°31′N 13°42′W / 9.517°N 13.700°W / 9.517; -13.700"
+          "Conakry"
         ]
       },
       {
@@ -424,18 +304,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Guinean",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Guinean"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -461,38 +329,6 @@
         ],
         "raw_values": [
           "Unitary one-party presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Mamady",
-            "children": []
-          },
-          {
-            "label": "Doumbouya",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mamady Doumbouya"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Bah",
-            "children": []
-          },
-          {
-            "label": "Oury",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bah Oury"
         ]
       },
       {
@@ -892,86 +728,6 @@
         ],
         "raw_values": [
           "0.500 low ( 181st )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Guinean",
-            "children": []
-          },
-          {
-            "label": "franc",
-            "children": []
-          },
-          {
-            "label": "GNF",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Guinean franc ( GNF )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "GMT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC ±00:00 ( GMT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "224",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+224"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "GN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "GN"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "gn",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".gn"
         ]
       }
     ]

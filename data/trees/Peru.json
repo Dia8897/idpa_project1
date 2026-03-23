@@ -22,28 +22,10 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Firme y feliz por la unión \" (Spanish) \"Firm and Happy for the Union",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno Nacional del Perú \" (Spanish) \"National Anthem of Peru\" March: \" Marcha de Banderas \" (Spanish) \"March of Flags",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Lima 12°2.6′S 77°1.7′W / 12.0433°S 77.0283°W / -12.0433; -77.0283",
+            "label": "Lima",
             "children": []
           }
         ]
@@ -85,15 +67,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Peruvian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -103,28 +76,10 @@
         ]
       },
       {
-        "label": "president",
-        "children": [
-          {
-            "label": "José María Balcázar",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "first_vice_president",
         "children": [
           {
             "label": "Vacant",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Denisse Miralles",
             "children": []
           }
         ]
@@ -263,60 +218,6 @@
         "children": [
           {
             "label": "0.794 high ( 79th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Peruvian sol ( PEN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −05:00 ( PET )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy ( CE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+51",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PE",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".pe",
             "children": []
           }
         ]

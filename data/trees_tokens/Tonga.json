@@ -4,158 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Ko",
-            "children": []
-          },
-          {
-            "label": "e",
-            "children": []
-          },
-          {
-            "label": "Otua",
-            "children": []
-          },
-          {
-            "label": "mo",
-            "children": []
-          },
-          {
-            "label": "Tonga",
-            "children": []
-          },
-          {
-            "label": "ko",
-            "children": []
-          },
-          {
-            "label": "hoku",
-            "children": []
-          },
-          {
-            "label": "tofi",
-            "children": []
-          },
-          {
-            "label": "a",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Tonga",
-            "children": []
-          },
-          {
-            "label": "are",
-            "children": []
-          },
-          {
-            "label": "my",
-            "children": []
-          },
-          {
-            "label": "inheritance",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ko e ʻOtua mo Tonga ko hoku tofiʻa \" \"God and Tonga are my inheritance"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Ko",
-            "children": []
-          },
-          {
-            "label": "e",
-            "children": []
-          },
-          {
-            "label": "fasi",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          },
-          {
-            "label": "e",
-            "children": []
-          },
-          {
-            "label": "tu",
-            "children": []
-          },
-          {
-            "label": "i",
-            "children": []
-          },
-          {
-            "label": "o",
-            "children": []
-          },
-          {
-            "label": "e",
-            "children": []
-          },
-          {
-            "label": "Otu",
-            "children": []
-          },
-          {
-            "label": "Tonga",
-            "children": []
-          },
-          {
-            "label": "Song",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Tonga",
-            "children": []
-          },
-          {
-            "label": "Islands",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ko e fasi ʻo e tuʻi ʻo e ʻOtu Tonga \" \"Song of the King of the Tonga Islands"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -165,74 +13,10 @@
           {
             "label": "alofa",
             "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "175",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "175",
-            "children": []
-          },
-          {
-            "label": "200",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "21",
-            "children": []
-          },
-          {
-            "label": "133",
-            "children": []
-          },
-          {
-            "label": "175",
-            "children": []
-          },
-          {
-            "label": "200",
-            "children": []
           }
         ],
         "raw_values": [
-          "Nukuʻalofa 21°8′S 175°12′W / 21.133°S 175.200°W / -21.133; -175.200"
+          "Nukuʻalofa"
         ]
       },
       {
@@ -380,18 +164,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Tongan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tongan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -433,26 +205,6 @@
         ],
         "raw_values": [
           "Tupou VI"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Fatafehi",
-            "children": []
-          },
-          {
-            "label": "Fakaf",
-            "children": []
-          },
-          {
-            "label": "nua",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Fatafehi Fakafānua"
         ]
       },
       {
@@ -529,26 +281,6 @@
         ],
         "raw_values": [
           "18 May 1900"
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom",
-        "children": [
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "June",
-            "children": []
-          },
-          {
-            "label": "1970",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "4 June 1970"
         ]
       },
       {
@@ -784,98 +516,6 @@
         ],
         "raw_values": [
           "0.739 high ( 98th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Pa",
-            "children": []
-          },
-          {
-            "label": "anga",
-            "children": []
-          },
-          {
-            "label": "TOP",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Paʻanga ( TOP )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +13"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "676",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+676"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TO",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "TO"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "to",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".to"
         ]
       }
     ]

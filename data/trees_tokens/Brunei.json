@@ -4,150 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Arabic",
-            "children": []
-          },
-          {
-            "label": "Ad",
-            "children": []
-          },
-          {
-            "label": "d",
-            "children": []
-          },
-          {
-            "label": "im",
-            "children": []
-          },
-          {
-            "label": "na",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "mu",
-            "children": []
-          },
-          {
-            "label": "sin",
-            "children": []
-          },
-          {
-            "label": "na",
-            "children": []
-          },
-          {
-            "label": "bi",
-            "children": []
-          },
-          {
-            "label": "l",
-            "children": []
-          },
-          {
-            "label": "hud",
-            "children": []
-          },
-          {
-            "label": "Sentiasa",
-            "children": []
-          },
-          {
-            "label": "membuat",
-            "children": []
-          },
-          {
-            "label": "kebajikan",
-            "children": []
-          },
-          {
-            "label": "dengan",
-            "children": []
-          },
-          {
-            "label": "petunjuk",
-            "children": []
-          },
-          {
-            "label": "Allah",
-            "children": []
-          },
-          {
-            "label": "Always",
-            "children": []
-          },
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "service",
-            "children": []
-          },
-          {
-            "label": "with",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "guidance",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "الدائمون المحسنون بالهدى ( Arabic ) Ad-dāʾimūna al-muḥsinūna bi-l-hudā ( Sentiasa membuat kebajikan dengan petunjuk Allah ) \"Always in service with God 's guidance\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Allah",
-            "children": []
-          },
-          {
-            "label": "Peliharakan",
-            "children": []
-          },
-          {
-            "label": "Sultan",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Bless",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Sultan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Allah Peliharakan Sultan الله ڤليهاراکن سلطان \"God Bless the Sultan\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -161,82 +17,10 @@
           {
             "label": "Begawan",
             "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "53",
-            "children": []
-          },
-          {
-            "label": "417",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "114",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "533",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "890283",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "114",
-            "children": []
-          },
-          {
-            "label": "942217",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "890283",
-            "children": []
-          },
-          {
-            "label": "114",
-            "children": []
-          },
-          {
-            "label": "942217",
-            "children": []
           }
         ],
         "raw_values": [
-          "Bandar Seri Begawan 4°53.417′N 114°56.533′E / 4.890283°N 114.942217°E / 4.890283; 114.942217"
+          "Bandar Seri Begawan"
         ]
       },
       {
@@ -480,18 +264,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bruneian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bruneian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -568,30 +340,6 @@
         ]
       },
       {
-        "label": "sultanate_established",
-        "children": [
-          {
-            "label": "c",
-            "children": []
-          },
-          {
-            "label": "1363",
-            "children": []
-          },
-          {
-            "label": "or",
-            "children": []
-          },
-          {
-            "label": "1368",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "c. 1363 or 1368"
-        ]
-      },
-      {
         "label": "british_protected_state",
         "children": [
           {
@@ -649,26 +397,6 @@
         ],
         "raw_values": [
           "8 December 1962"
-        ]
-      },
-      {
-        "label": "independence_from_united_kingdom",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1984",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 January 1984"
         ]
       },
       {
@@ -936,90 +664,6 @@
         ],
         "raw_values": [
           "0.837 very high ( 60th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Brunei",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "BND",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Brunei dollar ( BND )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "8",
-            "children": []
-          },
-          {
-            "label": "Brunei",
-            "children": []
-          },
-          {
-            "label": "Standard",
-            "children": []
-          },
-          {
-            "label": "Time",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +8 ( Brunei Standard Time )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "673",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+673"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BN"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "bn",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".bn"
         ]
       }
     ]

@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Ordem e Progresso \"Order and Progress\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Hino Nacional Brasileiro \"Brazilian National Anthem\" Flag anthem : Hino à Bandeira Nacional \"National Flag Anthem\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Brasília 15°47′S 47°52′W / 15.783°S 47.867°W / -15.783; -47.867",
+            "label": "Brasília",
             "children": []
           }
         ]
@@ -34,7 +16,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "São Paulo 23°33′S 46°38′W / 23.550°S 46.633°W / -23.550; -46.633",
+            "label": "São Paulo",
             "children": []
           }
         ]
@@ -76,37 +58,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Brazilian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Federal presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Luiz Inácio Lula da Silva",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Geraldo Alckmin",
             "children": []
           }
         ]
@@ -299,60 +254,6 @@
         "children": [
           {
             "label": "0.786 high ( 84th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Real (R$) ( BRL )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC −02:00 to −05:00 ( BT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy ( CE )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+55",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BR",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".br",
             "children": []
           }
         ]

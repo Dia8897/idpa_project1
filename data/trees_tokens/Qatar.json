@@ -4,175 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "All",
-            "children": []
-          },
-          {
-            "label": "h",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Wa",
-            "children": []
-          },
-          {
-            "label": "an",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Amir",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Nation",
-            "children": []
-          },
-          {
-            "label": "Emir",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "الله، الوطن، الأمير Allāh, al-Waṭan, al-Amir \" God , Nation, Emir \""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "As",
-            "children": []
-          },
-          {
-            "label": "Sal",
-            "children": []
-          },
-          {
-            "label": "m",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Am",
-            "children": []
-          },
-          {
-            "label": "r",
-            "children": []
-          },
-          {
-            "label": "Peace",
-            "children": []
-          },
-          {
-            "label": "to",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Emir",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "السلام الأميري As-Salām al-Amīrī \"Peace to the Emir\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Doha",
             "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "18",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "300",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "300",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "517",
-            "children": []
           }
         ],
         "raw_values": [
-          "Doha 25°18′N 51°31′E / 25.300°N 51.517°E / 25.300; 51.517"
+          "Doha"
         ]
       },
       {
@@ -348,18 +188,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Qatari",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Qatari"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -428,26 +256,6 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mohammed",
-            "children": []
-          },
-          {
-            "label": "bin",
-            "children": []
-          },
-          {
-            "label": "Abdulrahman",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mohammed bin Abdulrahman"
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
@@ -481,46 +289,6 @@
         ],
         "raw_values": [
           "18 December 1878"
-        ]
-      },
-      {
-        "label": "declared_independence",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1971",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1 September 1971"
-        ]
-      },
-      {
-        "label": "independence_from_the_united_kingdom",
-        "children": [
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "September",
-            "children": []
-          },
-          {
-            "label": "1971",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "3 September 1971"
         ]
       },
       {
@@ -812,86 +580,6 @@
         ],
         "raw_values": [
           "0.886 very high ( 43rd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Qatari",
-            "children": []
-          },
-          {
-            "label": "riyal",
-            "children": []
-          },
-          {
-            "label": "QAR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Qatari riyal ( QAR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +3:00 ( AST )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "974",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+974"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "QA",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "QA"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "qa",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".qa قطر."
         ]
       }
     ]

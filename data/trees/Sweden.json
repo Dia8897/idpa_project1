@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "\" Du gamla, du fria \" (English: \"Thou ancient, Thou free\" ) Royal anthem : \" Kungssången \" (English: \"The King's Song\")",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Stockholm 59°21′N 18°4′E / 59.350°N 18.067°E / 59.350; 18.067",
+            "label": "Stockholm",
             "children": []
           }
         ]
@@ -35,15 +26,6 @@
         "children": [
           {
             "label": "Sámi Finnish Meänkieli Romani Yiddish",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Swedish Swede",
             "children": []
           }
         ]
@@ -76,28 +58,10 @@
         ]
       },
       {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ulf Kristersson",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "legislature",
         "children": [
           {
             "label": "Riksdag",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "a_unified_swedish_kingdom_established",
-        "children": [
-          {
-            "label": "By the late 10th century",
             "children": []
           }
         ]
@@ -214,55 +178,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Swedish krona ( SEK )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+46",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SE",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".se",
             "children": []
           }
         ]

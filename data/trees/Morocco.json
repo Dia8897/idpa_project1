@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "ٱللَّٰه، ٱلْوَطَن، ٱلْمَلِك \"Allāh, al-Waṭan, al-Malik\" \"God, Country, King\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "ٱلنَّشِيْد ٱلْوَطَنِي \"an-Našīd al-Waṭanīy\" \" Cherifian Anthem \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Rabat 34°02′N 6°51′W / 34.033°N 6.850°W / 34.033; -6.850",
+            "label": "Rabat",
             "children": []
           }
         ]
@@ -34,7 +16,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Casablanca 33°32′N 7°35′W / 33.533°N 7.583°W / 33.533; -7.583",
+            "label": "Casablanca",
             "children": []
           }
         ]
@@ -85,37 +67,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Moroccan",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary semi-constitutional monarchy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "king",
-        "children": [
-          {
-            "label": "Mohammed VI",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Aziz Akhannouch",
             "children": []
           }
         ]
@@ -143,42 +98,6 @@
         "children": [
           {
             "label": "House of Representatives",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "idrisid_dynasty",
-        "children": [
-          {
-            "label": "788",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "alawi_dynasty_current_dynasty",
-        "children": [
-          {
-            "label": "1631",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "french_protectorate",
-        "children": [
-          {
-            "label": "30 March 1912",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence",
-        "children": [
-          {
-            "label": "2 March 1956",
             "children": []
           }
         ]
@@ -281,51 +200,6 @@
         "children": [
           {
             "label": "0.710 high ( 120th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Moroccan dirham ( MAD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 UTC+0 (during Ramadan )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+212",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MA",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ma .المغرب",
             "children": []
           }
         ]

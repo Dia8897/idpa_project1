@@ -4,151 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Freedom",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Unity and Freedom"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Mulungu",
-            "children": []
-          },
-          {
-            "label": "dalitsani",
-            "children": []
-          },
-          {
-            "label": "Mala",
-            "children": []
-          },
-          {
-            "label": "i",
-            "children": []
-          },
-          {
-            "label": "O",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Bless",
-            "children": []
-          },
-          {
-            "label": "Our",
-            "children": []
-          },
-          {
-            "label": "Land",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Malawi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mulungu dalitsani Malaŵi \"O God Bless Our Land of Malawi\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Lilongwe",
             "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "57",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "42",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "950",
-            "children": []
-          },
-          {
-            "label": "S",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "700",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "950",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "700",
-            "children": []
           }
         ],
         "raw_values": [
-          "Lilongwe 13°57′S 33°42′E / 13.950°S 33.700°E / -13.950; 33.700"
+          "Lilongwe"
         ]
       },
       {
@@ -472,18 +336,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Malawian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Malawian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -501,22 +353,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Peter",
-            "children": []
-          },
-          {
-            "label": "Mutharika",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Peter Mutharika"
         ]
       },
       {
@@ -932,106 +768,6 @@
         ],
         "raw_values": [
           "0.517 low ( 172nd )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Malawian",
-            "children": []
-          },
-          {
-            "label": "kwacha",
-            "children": []
-          },
-          {
-            "label": "D",
-            "children": []
-          },
-          {
-            "label": "MWK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Malawian kwacha (D) ( MWK )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "2",
-            "children": []
-          },
-          {
-            "label": "CAT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +2 ( CAT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "265",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+265"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "MW",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "MW"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "mw",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".mw"
         ]
       }
     ]

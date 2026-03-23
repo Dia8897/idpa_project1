@@ -1,8 +1,6 @@
 {
   "country_name": "Bulgaria",
   "infobox": {
-    "Motto": "Съединението прави силата Sŭedinenieto pravi silata ( \" Unity makes strength \" )",
-    "Anthem": "Мила Родино Mila Rodino ( \"Dear Motherland\" )",
     "Capital and largest city": "Sofia 42°41′51′′N 23°19′21′′E / 42.69750°N 23.32250°E / 42.69750; 23.32250 ( Largo )",
     "Official languages": "Bulgarian",
     "Official script": "Cyrillic",
@@ -10,14 +8,11 @@
     "Religion (2021 census)": "64.7% Christianity 62.7% Bulgarian Orthodoxy 2.0% other Christian 15.9% no religion 9.8% Islam 0.1% other 9.5% unanswered",
     "Demonym": "Bulgarian",
     "Government": "Unitary parliamentary republic",
-    "President": "Iliana Iotova",
-    "Prime Minister": "Andrey Gyurov",
     "Chairperson of the National Assembly": "Raya Nazaryan",
     "Legislature": "National Assembly",
     "1st Bulgarian Empire": "681–1018",
     "2nd Bulgarian Empire": "1185–1396",
     "Principality of Bulgaria": "3 March 1878",
-    "Independence from the Ottoman Empire": "5 October 1908",
     "Monarchy abolished": "15 September 1946",
     "Current state form": "15 November 1990",
     "Total": [
@@ -37,11 +32,6 @@
     "GDP (nominal)": "2025 estimate",
     "Gini (2023)": "37.2 medium inequality",
     "HDI (2023)": "0.845 very high ( 55th )",
-    "Currency": "Euro ( € ) ( EUR )",
-    "Time zone": "UTC +2 ( EET )",
-    "Summer ( DST )": "UTC +3 ( EEST )",
-    "Calling code": "+359",
-    "ISO 3166 code": "BG",
-    "Internet TLD": ".bg .бг"
+    "Summer ( DST )": "UTC +3 ( EEST )"
   }
 }

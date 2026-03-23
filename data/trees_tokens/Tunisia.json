@@ -4,163 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "urr",
-            "children": []
-          },
-          {
-            "label": "yah",
-            "children": []
-          },
-          {
-            "label": "Ni",
-            "children": []
-          },
-          {
-            "label": "m",
-            "children": []
-          },
-          {
-            "label": "Ad",
-            "children": []
-          },
-          {
-            "label": "lah",
-            "children": []
-          },
-          {
-            "label": "Freedom",
-            "children": []
-          },
-          {
-            "label": "Order",
-            "children": []
-          },
-          {
-            "label": "Justice",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "حرية، نظام، عدالة \" Ḥurrīyah, Niẓām, 'Adālah \" \" Freedom, Order, Justice \""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Humat",
-            "children": []
-          },
-          {
-            "label": "al",
-            "children": []
-          },
-          {
-            "label": "Hima",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Defenders",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Homeland",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "حماة الحمى \" Humat al-Hima \" (English: \"Defenders of the Homeland\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Tunis",
             "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "49",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "817",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "183",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "817",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "183",
-            "children": []
           }
         ],
         "raw_values": [
-          "Tunis 36°49′N 10°11′E / 36.817°N 10.183°E / 36.817; 10.183"
+          "Tunis"
         ]
       },
       {
@@ -280,18 +132,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Tunisian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tunisian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -309,38 +149,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Kais",
-            "children": []
-          },
-          {
-            "label": "Saied",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Kais Saied"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Sara",
-            "children": []
-          },
-          {
-            "label": "Zaafarani",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Sara Zaafarani"
         ]
       },
       {
@@ -440,30 +248,6 @@
         ]
       },
       {
-        "label": "aghlabid_emirate",
-        "children": [
-          {
-            "label": "800",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "800"
-        ]
-      },
-      {
-        "label": "hafsid_sultanate",
-        "children": [
-          {
-            "label": "1229",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1229"
-        ]
-      },
-      {
         "label": "beylik_of_tunis",
         "children": [
           {
@@ -481,46 +265,6 @@
         ],
         "raw_values": [
           "15 July 1705"
-        ]
-      },
-      {
-        "label": "french_protectorate",
-        "children": [
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "1881",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "12 May 1881"
-        ]
-      },
-      {
-        "label": "independence_and_kingdom",
-        "children": [
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "1956",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "20 March 1956"
         ]
       },
       {
@@ -808,102 +552,6 @@
         ],
         "raw_values": [
           "0.746 high ( 105th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Tunisian",
-            "children": []
-          },
-          {
-            "label": "dinar",
-            "children": []
-          },
-          {
-            "label": "TND",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Tunisian dinar ( TND )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "216",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+216"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "TN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "TN"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "tn",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".tn .تونس"
         ]
       }
     ]

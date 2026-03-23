@@ -16,7 +16,7 @@
         "label": "capital",
         "children": [
           {
-            "label": "Wellington 41°18′S 174°47′E / 41.300°S 174.783°E / -41.300; 174.783",
+            "label": "Wellington",
             "children": []
           }
         ]
@@ -25,7 +25,7 @@
         "label": "largest_city",
         "children": [
           {
-            "label": "Auckland 36°52′S 174°45′E / 36.867°S 174.750°E / -36.867; 174.750",
+            "label": "Auckland",
             "children": []
           }
         ]
@@ -58,15 +58,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "New Zealander Kiwi (colloquial)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -89,15 +80,6 @@
         "children": [
           {
             "label": "Cindy Kiro",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Christopher Luxon",
             "children": []
           }
         ]
@@ -259,64 +241,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "New Zealand dollar ($) ( NZD )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +12 ( NZST )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +13 ( NZDT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd / mm / yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+64",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NZ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".nz",
             "children": []
           }
         ]

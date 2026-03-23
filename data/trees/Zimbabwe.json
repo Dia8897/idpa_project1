@@ -85,28 +85,10 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unity, Freedom, Work",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Blessed Be the Land of Zimbabwe",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Harare 17°49′45′′S 31°03′08′′E / 17.82917°S 31.05222°E / -17.82917; 31.05222",
+            "label": "Harare",
             "children": []
           }
         ]
@@ -139,28 +121,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Zimbabwean Zimbo (colloquial)",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Emmerson Mnangagwa",
             "children": []
           }
         ]
@@ -233,15 +197,6 @@
         "children": [
           {
             "label": "1 June 1979",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_recognised",
-        "children": [
-          {
-            "label": "18 April 1980",
             "children": []
           }
         ]
@@ -353,60 +308,6 @@
         "children": [
           {
             "label": "0.598 medium ( 153rd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "De jure : Zimbabwe Gold ( ZWG ) De facto : United States dollar ( USD ) South African rand ( ZAR ); Other currencies",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( CAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+263",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "ZW",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".zw",
             "children": []
           }
         ]

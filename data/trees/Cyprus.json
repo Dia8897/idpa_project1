@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Ὕμνος εἰς τὴν Ἐλευθερίαν (English: \" Hymn to Liberty \")",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Nicosia 35°10′N 33°22′E / 35.167°N 33.367°E / 35.167; 33.367",
+            "label": "Nicosia",
             "children": []
           }
         ]
@@ -67,28 +58,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Cypriot",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Nikos Christodoulides",
             "children": []
           }
         ]
@@ -125,24 +98,6 @@
         "children": [
           {
             "label": "19 February 1959",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_proclaimed",
-        "children": [
-          {
-            "label": "16 August 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_day",
-        "children": [
-          {
-            "label": "1 October 1960",
             "children": []
           }
         ]
@@ -237,55 +192,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +02:00 ( EET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +03:00 ( EEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+357",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "CY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".cy",
             "children": []
           }
         ]

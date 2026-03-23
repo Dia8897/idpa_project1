@@ -88,159 +88,15 @@
         ]
       },
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Ja",
-            "children": []
-          },
-          {
-            "label": "vi",
-            "children": []
-          },
-          {
-            "label": "elsker",
-            "children": []
-          },
-          {
-            "label": "dette",
-            "children": []
-          },
-          {
-            "label": "landet",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "Yes",
-            "children": []
-          },
-          {
-            "label": "we",
-            "children": []
-          },
-          {
-            "label": "love",
-            "children": []
-          },
-          {
-            "label": "this",
-            "children": []
-          },
-          {
-            "label": "country",
-            "children": []
-          },
-          {
-            "label": "Royal",
-            "children": []
-          },
-          {
-            "label": "anthem",
-            "children": []
-          },
-          {
-            "label": "Kongesangen",
-            "children": []
-          },
-          {
-            "label": "English",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          },
-          {
-            "label": "s",
-            "children": []
-          },
-          {
-            "label": "Song",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Ja, vi elsker dette landet (English: \"Yes, we love this country\" ) Royal anthem : Kongesangen (English: \"King's Song\" )"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Oslo",
             "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "56",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "933",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "683",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "933",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "683",
-            "children": []
           }
         ],
         "raw_values": [
-          "Oslo 59°56′N 10°41′E / 59.933°N 10.683°E / 59.933; 10.683"
+          "Oslo"
         ]
       },
       {
@@ -428,18 +284,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Norwegian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Norwegian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -477,30 +321,6 @@
         ],
         "raw_values": [
           "Harald V"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Jonas",
-            "children": []
-          },
-          {
-            "label": "Gahr",
-            "children": []
-          },
-          {
-            "label": "St",
-            "children": []
-          },
-          {
-            "label": "re",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jonas Gahr Støre"
         ]
       },
       {
@@ -552,30 +372,6 @@
         ]
       },
       {
-        "label": "state_established",
-        "children": [
-          {
-            "label": "872",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "872"
-        ]
-      },
-      {
-        "label": "peak_extent_of_the_old_kingdom",
-        "children": [
-          {
-            "label": "1263",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "1263"
-        ]
-      },
-      {
         "label": "kalmar_union_personal_union",
         "children": [
           {
@@ -600,26 +396,6 @@
         ]
       },
       {
-        "label": "state_reestablished",
-        "children": [
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "February",
-            "children": []
-          },
-          {
-            "label": "1814",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "25 February 1814"
-        ]
-      },
-      {
         "label": "constitution",
         "children": [
           {
@@ -637,26 +413,6 @@
         ],
         "raw_values": [
           "17 May 1814"
-        ]
-      },
-      {
-        "label": "kingdoms_of_swedennorway_personal_union",
-        "children": [
-          {
-            "label": "4",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1814",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "4 November 1814"
         ]
       },
       {
@@ -967,46 +723,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Norwegian",
-            "children": []
-          },
-          {
-            "label": "krone",
-            "children": []
-          },
-          {
-            "label": "NOK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Norwegian krone ( NOK )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "1",
-            "children": []
-          },
-          {
-            "label": "CET",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +1 ( CET )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -1024,66 +740,6 @@
         ],
         "raw_values": [
           "UTC +2 ( CEST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd . mm . yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "47",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+47"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NO",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "NO"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "no",
-            "children": []
-          },
-          {
-            "label": "d",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".no d"
         ]
       }
     ]

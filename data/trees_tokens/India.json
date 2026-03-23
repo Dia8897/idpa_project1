@@ -4,102 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Satyameva",
-            "children": []
-          },
-          {
-            "label": "Jayate",
-            "children": []
-          },
-          {
-            "label": "Sanskrit",
-            "children": []
-          },
-          {
-            "label": "Truth",
-            "children": []
-          },
-          {
-            "label": "Alone",
-            "children": []
-          },
-          {
-            "label": "Triumphs",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Satyameva Jayate ( Sanskrit ) \"Truth Alone Triumphs\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Jana",
-            "children": []
-          },
-          {
-            "label": "Gana",
-            "children": []
-          },
-          {
-            "label": "Mana",
-            "children": []
-          },
-          {
-            "label": "Hindi",
-            "children": []
-          },
-          {
-            "label": "Thou",
-            "children": []
-          },
-          {
-            "label": "Art",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Ruler",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "Minds",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "All",
-            "children": []
-          },
-          {
-            "label": "People",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jana Gana Mana ( Hindi ) \"Thou Art the Ruler of the Minds of All People\""
-        ]
-      },
-      {
         "label": "national_song",
         "children": [
           {
@@ -149,82 +53,10 @@
           {
             "label": "Delhi",
             "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "50",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "77",
-            "children": []
-          },
-          {
-            "label": "12",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "61389",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "77",
-            "children": []
-          },
-          {
-            "label": "20833",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "28",
-            "children": []
-          },
-          {
-            "label": "61389",
-            "children": []
-          },
-          {
-            "label": "77",
-            "children": []
-          },
-          {
-            "label": "20833",
-            "children": []
           }
         ],
         "raw_values": [
-          "New Delhi 28°36′50′′N 77°12′30′′E / 28.61389°N 77.20833°E / 28.61389; 77.20833"
+          "New Delhi"
         ]
       },
       {
@@ -576,22 +408,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Indian",
-            "children": []
-          },
-          {
-            "label": "others",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Indian others"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -609,58 +425,6 @@
         ],
         "raw_values": [
           "Federal parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Droupadi",
-            "children": []
-          },
-          {
-            "label": "Murmu",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Droupadi Murmu"
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "C",
-            "children": []
-          },
-          {
-            "label": "P",
-            "children": []
-          },
-          {
-            "label": "Radhakrishnan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "C. P. Radhakrishnan"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Narendra",
-            "children": []
-          },
-          {
-            "label": "Modi",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Narendra Modi"
         ]
       },
       {
@@ -1064,110 +828,6 @@
         ],
         "raw_values": [
           "0.685 medium ( 130th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Indian",
-            "children": []
-          },
-          {
-            "label": "rupee",
-            "children": []
-          },
-          {
-            "label": "INR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Indian rupee ( ₹ ) ( INR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "05",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "IST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +05:30 ( IST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd - mm - yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "91",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+91"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "IN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "IN"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "in",
-            "children": []
-          },
-          {
-            "label": "others",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".in ( others )"
         ]
       }
     ]

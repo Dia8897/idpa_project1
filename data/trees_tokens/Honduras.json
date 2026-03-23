@@ -4,159 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Libre",
-            "children": []
-          },
-          {
-            "label": "Soberana",
-            "children": []
-          },
-          {
-            "label": "e",
-            "children": []
-          },
-          {
-            "label": "Independiente",
-            "children": []
-          },
-          {
-            "label": "Free",
-            "children": []
-          },
-          {
-            "label": "Sovereign",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Independent",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Libre, Soberana e Independiente \"Free, Sovereign and Independent\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Himno",
-            "children": []
-          },
-          {
-            "label": "Nacional",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "Honduras",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Honduras",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Himno Nacional de Honduras \" National Anthem of Honduras \""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Tegucigalpa",
             "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "87",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "100",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "87",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "14",
-            "children": []
-          },
-          {
-            "label": "100",
-            "children": []
-          },
-          {
-            "label": "87",
-            "children": []
-          },
-          {
-            "label": "217",
-            "children": []
           }
         ],
         "raw_values": [
-          "Tegucigalpa 14°6′N 87°13′W / 14.100°N 87.217°W / 14.100; -87.217"
+          "Tegucigalpa"
         ]
       },
       {
@@ -240,22 +96,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Honduran",
-            "children": []
-          },
-          {
-            "label": "Catracho",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Honduran Catracho"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -273,22 +113,6 @@
         ],
         "raw_values": [
           "Unitary presidential republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Nasry",
-            "children": []
-          },
-          {
-            "label": "Asfura",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Nasry Asfura"
         ]
       },
       {
@@ -672,98 +496,6 @@
         ],
         "raw_values": [
           "0.645 medium ( 139th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Lempira",
-            "children": []
-          },
-          {
-            "label": "HNL",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Lempira ( HNL )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "6",
-            "children": []
-          },
-          {
-            "label": "CST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −6 ( CST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "504",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+504"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "HN",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "HN"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "hn",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".hn"
         ]
       }
     ]

@@ -4,66 +4,6 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Cheat",
-            "children": []
-          },
-          {
-            "label": "Sasna",
-            "children": []
-          },
-          {
-            "label": "Preah",
-            "children": []
-          },
-          {
-            "label": "Mohaksat",
-            "children": []
-          },
-          {
-            "label": "Nation",
-            "children": []
-          },
-          {
-            "label": "Religion",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "ជាតិ សាសនា ព្រះមហាក្សត្រ Cheat, Sasna, Preah Mohaksat \"Nation, Religion, King\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Noko",
-            "children": []
-          },
-          {
-            "label": "Reach",
-            "children": []
-          },
-          {
-            "label": "Royal",
-            "children": []
-          },
-          {
-            "label": "Kingdom",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "នគររាជ Noko Reach \"Royal Kingdom\""
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
@@ -73,82 +13,10 @@
           {
             "label": "Penh",
             "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "34",
-            "children": []
-          },
-          {
-            "label": "10",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "104",
-            "children": []
-          },
-          {
-            "label": "55",
-            "children": []
-          },
-          {
-            "label": "16",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "56944",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "104",
-            "children": []
-          },
-          {
-            "label": "92111",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "56944",
-            "children": []
-          },
-          {
-            "label": "104",
-            "children": []
-          },
-          {
-            "label": "92111",
-            "children": []
           }
         ],
         "raw_values": [
-          "Phnom Penh 11°34′10′′N 104°55′16′′E / 11.56944°N 104.92111°E / 11.56944; 104.92111"
+          "Phnom Penh"
         ]
       },
       {
@@ -292,18 +160,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Cambodian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Cambodian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -361,22 +217,6 @@
         ],
         "raw_values": [
           "Norodom Sihamoni"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Hun",
-            "children": []
-          },
-          {
-            "label": "Manet",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Hun Manet"
         ]
       },
       {
@@ -513,46 +353,6 @@
         ],
         "raw_values": [
           "1431–1863"
-        ]
-      },
-      {
-        "label": "french_protectorate",
-        "children": [
-          {
-            "label": "11",
-            "children": []
-          },
-          {
-            "label": "August",
-            "children": []
-          },
-          {
-            "label": "1863",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "11 August 1863"
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "9",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1953",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "9 November 1953"
         ]
       },
       {
@@ -944,126 +744,6 @@
         ],
         "raw_values": [
           "0.606 medium ( 151st )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Riel",
-            "children": []
-          },
-          {
-            "label": "KHR",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "jure",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "facto",
-            "children": []
-          },
-          {
-            "label": "United",
-            "children": []
-          },
-          {
-            "label": "States",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "USD",
-            "children": []
-          },
-          {
-            "label": "de",
-            "children": []
-          },
-          {
-            "label": "facto",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Riel (៛) ( KHR ; de jure and de facto ) United States dollar ($) ( USD ; de facto )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "07",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "ICT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +07:00 ( ICT )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "855",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+855"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KH",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "KH"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "kh",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".kh"
         ]
       }
     ]

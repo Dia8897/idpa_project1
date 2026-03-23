@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Nad Tatrou sa blýska (English: \"Lightning Over the Tatras\" )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Bratislava 48°9′9′′N 17°6′34′′E / 48.15250°N 17.10944°E / 48.15250; 17.10944",
+            "label": "Bratislava",
             "children": []
           }
         ]
@@ -58,37 +49,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Slovak",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary parliamentary republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Peter Pellegrini",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Robert Fico",
             "children": []
           }
         ]
@@ -107,15 +71,6 @@
         "children": [
           {
             "label": "National Council",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_austriahungary_first_czechoslovak_republic",
-        "children": [
-          {
-            "label": "28 October 1918",
             "children": []
           }
         ]
@@ -170,24 +125,6 @@
         "children": [
           {
             "label": "11 July 1960",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "slovak_socialist_republic_within_czechoslovak_socialist_republic_change_of_unitary_czechoslovak_state_into_a_federation",
-        "children": [
-          {
-            "label": "1 January 1969",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "slovak_republic_change_of_name_within_established_czech_and_slovak_federative_republic",
-        "children": [
-          {
-            "label": "1 March 1990",
             "children": []
           }
         ]
@@ -304,64 +241,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +1 ( CET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +2 ( CEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "d. m. yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+421",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SK",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".sk and .eu",
             "children": []
           }
         ]

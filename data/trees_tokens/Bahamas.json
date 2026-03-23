@@ -4,155 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Forward",
-            "children": []
-          },
-          {
-            "label": "Upward",
-            "children": []
-          },
-          {
-            "label": "Onward",
-            "children": []
-          },
-          {
-            "label": "Together",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Forward, Upward, Onward, Together"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "March",
-            "children": []
-          },
-          {
-            "label": "On",
-            "children": []
-          },
-          {
-            "label": "Bahamaland",
-            "children": []
-          },
-          {
-            "label": "Royal",
-            "children": []
-          },
-          {
-            "label": "anthem",
-            "children": []
-          },
-          {
-            "label": "God",
-            "children": []
-          },
-          {
-            "label": "Save",
-            "children": []
-          },
-          {
-            "label": "the",
-            "children": []
-          },
-          {
-            "label": "King",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "March On, Bahamaland \" Royal anthem : \" God Save the King"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Nassau",
             "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "04",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "77",
-            "children": []
-          },
-          {
-            "label": "20",
-            "children": []
-          },
-          {
-            "label": "19",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "07806",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "77",
-            "children": []
-          },
-          {
-            "label": "33861",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "25",
-            "children": []
-          },
-          {
-            "label": "07806",
-            "children": []
-          },
-          {
-            "label": "77",
-            "children": []
-          },
-          {
-            "label": "33861",
-            "children": []
           }
         ],
         "raw_values": [
-          "Nassau 25°04′41′′N 77°20′19′′W / 25.07806°N 77.33861°W / 25.07806; -77.33861"
+          "Nassau"
         ]
       },
       {
@@ -328,18 +188,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Bahamian",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bahamian"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -401,22 +249,6 @@
         ],
         "raw_values": [
           "Dame Cynthia A. Pratt"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Philip",
-            "children": []
-          },
-          {
-            "label": "Davis",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Philip Davis"
         ]
       },
       {
@@ -727,50 +559,6 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Bahamian",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "BSD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Bahamian dollar (BSD)"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "05",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "EST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −05:00 ( EST )"
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
@@ -792,66 +580,6 @@
         ],
         "raw_values": [
           "UTC −04:00 ( EDT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          },
-          {
-            "label": "CE",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd.mm.yyyy ( CE )"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+1"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BS",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BS"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "bs",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".bs"
         ]
       }
     ]

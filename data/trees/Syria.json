@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "حُمَاةَ الدِّيَارِ \" Ḥumāt ad-Diyār \" Guardians of the Homeland ( de jure ) فِي سَبِيلِ المَجد \" Fī Sabīli al-Majd \" In Pursuit of Glory ( de facto )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Damascus 33°30′N 36°18′E / 33.500°N 36.300°E / 33.500; 36.300",
+            "label": "Damascus",
             "children": []
           }
         ]
@@ -67,28 +58,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Syrian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary presidential republic under a provisional government",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Ahmed al-Sharaa",
             "children": []
           }
         ]
@@ -103,37 +76,10 @@
         ]
       },
       {
-        "label": "arab_kingdom_of_syria",
-        "children": [
-          {
-            "label": "8 March 1920",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "state_of_syria_under_french_mandate",
-        "children": [
-          {
-            "label": "1 December 1924",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "first_syrian_republic",
         "children": [
           {
             "label": "14 May 1930",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "end_of_the_french_mandate",
-        "children": [
-          {
-            "label": "17 April 1946",
             "children": []
           }
         ]
@@ -152,15 +98,6 @@
         "children": [
           {
             "label": "8 March 1963 – 8 December 2024",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "current_provisional_government_established",
-        "children": [
-          {
-            "label": "29 March 2025",
             "children": []
           }
         ]
@@ -254,60 +191,6 @@
         "children": [
           {
             "label": "0.564 medium ( 162nd )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Syrian pound ( SYP/LS )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +03:00 ( AST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd-mm-yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+963",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "SY",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".sy سوريا.",
             "children": []
           }
         ]

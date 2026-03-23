@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Azərbaycan Respublikasının Dövlət himni \" State Anthem of the Republic of Azerbaijan \"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Baku 40°23′N 49°50′E / 40.383°N 49.833°E / 40.383; 49.833",
+            "label": "Baku",
             "children": []
           }
         ]
@@ -49,46 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Azerbaijani Azeri",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-presidential republic under a hereditary dictatorship",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Ilham Aliyev",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Mehriban Aliyeva",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Ali Asadov",
             "children": []
           }
         ]
@@ -116,15 +71,6 @@
         "children": [
           {
             "label": "28 April 1920",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_the_soviet_union",
-        "children": [
-          {
-            "label": "18 October 1991 (declared) 26 December 1991 (recognized)",
             "children": []
           }
         ]
@@ -227,51 +173,6 @@
         "children": [
           {
             "label": "0.789 high ( 81st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Manat (₼) ( AZN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +4 ( AZT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+994",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "AZ",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".az",
             "children": []
           }
         ]

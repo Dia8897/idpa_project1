@@ -31,28 +31,10 @@
         ]
       },
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Unity and Faith, Peace and Progress",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Nigeria, We Hail Thee",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
-            "label": "Abuja 9°4′N 7°29′E / 9.067°N 7.483°E / 9.067; 7.483",
+            "label": "Abuja",
             "children": []
           }
         ]
@@ -112,37 +94,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Nigerian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Federal presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Bola Tinubu",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "vice_president",
-        "children": [
-          {
-            "label": "Kashim Shettima",
             "children": []
           }
         ]
@@ -202,37 +157,10 @@
         ]
       },
       {
-        "label": "northern_nigeria_protectorate",
-        "children": [
-          {
-            "label": "1 January 1900",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "southern_nigeria_protectorate",
-        "children": [
-          {
-            "label": "1 January 1900",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "unification_of_nigeria",
         "children": [
           {
             "label": "1 January 1914",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "declared_independent_as_a_sovereign_state",
-        "children": [
-          {
-            "label": "1 October 1960",
             "children": []
           }
         ]
@@ -344,60 +272,6 @@
         "children": [
           {
             "label": "0.560 medium ( 164th )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Naira (₦) ( NGN )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +01:00 ( WAT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd/mm/yyyy",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+234",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "NG",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".ng",
             "children": []
           }
         ]

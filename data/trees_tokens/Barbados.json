@@ -4,131 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "Pride",
-            "children": []
-          },
-          {
-            "label": "and",
-            "children": []
-          },
-          {
-            "label": "Industry",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Pride and Industry"
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          },
-          {
-            "label": "of",
-            "children": []
-          },
-          {
-            "label": "Barbados",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "National Anthem of Barbados"
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
             "label": "Bridgetown",
             "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "05",
-            "children": []
-          },
-          {
-            "label": "52",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "37",
-            "children": []
-          },
-          {
-            "label": "06",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "09778",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "61833",
-            "children": []
-          },
-          {
-            "label": "W",
-            "children": []
-          },
-          {
-            "label": "13",
-            "children": []
-          },
-          {
-            "label": "09778",
-            "children": []
-          },
-          {
-            "label": "59",
-            "children": []
-          },
-          {
-            "label": "61833",
-            "children": []
           }
         ],
         "raw_values": [
-          "Bridgetown 13°05′52′′N 59°37′06′′W / 13.09778°N 59.61833°W / 13.09778; -59.61833"
+          "Bridgetown"
         ]
       },
       {
@@ -304,22 +188,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Barbadian",
-            "children": []
-          },
-          {
-            "label": "Bajan",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Barbadian Bajan"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -337,38 +205,6 @@
         ],
         "raw_values": [
           "Unitary parliamentary republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Jeffrey",
-            "children": []
-          },
-          {
-            "label": "Bostic",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Jeffrey Bostic"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Mia",
-            "children": []
-          },
-          {
-            "label": "Mottley",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Mia Mottley"
         ]
       },
       {
@@ -416,58 +252,6 @@
         ]
       },
       {
-        "label": "part_of_the_west_indies_federation",
-        "children": [
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "January",
-            "children": []
-          },
-          {
-            "label": "1958",
-            "children": []
-          },
-          {
-            "label": "31",
-            "children": []
-          },
-          {
-            "label": "May",
-            "children": []
-          },
-          {
-            "label": "1962",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "3 January 1958 – 31 May 1962"
-        ]
-      },
-      {
-        "label": "barbados_independence_act_as_a_commonwealth_realm",
-        "children": [
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "1966",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "30 November 1966"
-        ]
-      },
-      {
         "label": "admitted_to_the_un",
         "children": [
           {
@@ -505,26 +289,6 @@
         ],
         "raw_values": [
           "1 August 1973"
-        ]
-      },
-      {
-        "label": "republic_established",
-        "children": [
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "November",
-            "children": []
-          },
-          {
-            "label": "2021",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "30 November 2021"
         ]
       },
       {
@@ -808,106 +572,6 @@
         ],
         "raw_values": [
           "0.811 very high ( 69th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Barbadian",
-            "children": []
-          },
-          {
-            "label": "dollar",
-            "children": []
-          },
-          {
-            "label": "BBD",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Barbadian dollar ($) ( BBD )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "04",
-            "children": []
-          },
-          {
-            "label": "00",
-            "children": []
-          },
-          {
-            "label": "AST",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC −04:00 ( AST )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd/mm/yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "1",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+1"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "BB",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "BB"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "bb",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".bb"
         ]
       }
     ]

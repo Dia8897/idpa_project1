@@ -4,28 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "ជាតិ សាសនា ព្រះមហាក្សត្រ Cheat, Sasna, Preah Mohaksat \"Nation, Religion, King\"",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "នគររាជ Noko Reach \"Royal Kingdom\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Phnom Penh 11°34′10′′N 104°55′16′′E / 11.56944°N 104.92111°E / 11.56944; 104.92111",
+            "label": "Phnom Penh",
             "children": []
           }
         ]
@@ -67,15 +49,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Cambodian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -89,15 +62,6 @@
         "children": [
           {
             "label": "Norodom Sihamoni",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Hun Manet",
             "children": []
           }
         ]
@@ -179,24 +143,6 @@
         "children": [
           {
             "label": "1431–1863",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "french_protectorate",
-        "children": [
-          {
-            "label": "11 August 1863",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_from_france",
-        "children": [
-          {
-            "label": "9 November 1953",
             "children": []
           }
         ]
@@ -344,51 +290,6 @@
         "children": [
           {
             "label": "0.606 medium ( 151st )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Riel (៛) ( KHR ; de jure and de facto ) United States dollar ($) ( USD ; de facto )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +07:00 ( ICT )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+855",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "KH",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".kh",
             "children": []
           }
         ]

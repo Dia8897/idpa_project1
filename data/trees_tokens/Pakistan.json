@@ -4,167 +4,15 @@
     "label": "country",
     "children": [
       {
-        "label": "motto",
-        "children": [
-          {
-            "label": "m",
-            "children": []
-          },
-          {
-            "label": "n",
-            "children": []
-          },
-          {
-            "label": "Ittih",
-            "children": []
-          },
-          {
-            "label": "d",
-            "children": []
-          },
-          {
-            "label": "Nazam",
-            "children": []
-          },
-          {
-            "label": "Urdu",
-            "children": []
-          },
-          {
-            "label": "Faith",
-            "children": []
-          },
-          {
-            "label": "Unity",
-            "children": []
-          },
-          {
-            "label": "Discipline",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Īmān, Ittihād, Nazam ( Urdu ) ایمان، اتحاد، نظم \"Faith, Unity, Discipline\""
-        ]
-      },
-      {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Qaum",
-            "children": []
-          },
-          {
-            "label": "Tar",
-            "children": []
-          },
-          {
-            "label": "nah",
-            "children": []
-          },
-          {
-            "label": "Urdu",
-            "children": []
-          },
-          {
-            "label": "The",
-            "children": []
-          },
-          {
-            "label": "National",
-            "children": []
-          },
-          {
-            "label": "Anthem",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Qaumī Tarānah ( Urdu ) قَومی ترانہ \"The National Anthem\""
-        ]
-      },
-      {
         "label": "capital",
         "children": [
           {
             "label": "Islamabad",
             "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "41",
-            "children": []
-          },
-          {
-            "label": "30",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "73",
-            "children": []
-          },
-          {
-            "label": "3",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "69167",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "73",
-            "children": []
-          },
-          {
-            "label": "05000",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "33",
-            "children": []
-          },
-          {
-            "label": "69167",
-            "children": []
-          },
-          {
-            "label": "73",
-            "children": []
-          },
-          {
-            "label": "05000",
-            "children": []
           }
         ],
         "raw_values": [
-          "Islamabad 33°41′30′′N 73°3′0′′E / 33.69167°N 73.05000°E / 33.69167; 73.05000"
+          "Islamabad"
         ]
       },
       {
@@ -173,82 +21,10 @@
           {
             "label": "Karachi",
             "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "51",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "67",
-            "children": []
-          },
-          {
-            "label": "0",
-            "children": []
-          },
-          {
-            "label": "36",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "86000",
-            "children": []
-          },
-          {
-            "label": "N",
-            "children": []
-          },
-          {
-            "label": "67",
-            "children": []
-          },
-          {
-            "label": "01000",
-            "children": []
-          },
-          {
-            "label": "E",
-            "children": []
-          },
-          {
-            "label": "24",
-            "children": []
-          },
-          {
-            "label": "86000",
-            "children": []
-          },
-          {
-            "label": "67",
-            "children": []
-          },
-          {
-            "label": "01000",
-            "children": []
           }
         ],
         "raw_values": [
-          "Karachi 24°51′36′′N 67°0′36′′E / 24.86000°N 67.01000°E / 24.86000; 67.01000"
+          "Karachi"
         ]
       },
       {
@@ -348,18 +124,6 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Pakistani",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Pakistani"
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
@@ -381,42 +145,6 @@
         ],
         "raw_values": [
           "Federal parliamentary Islamic republic"
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Asif",
-            "children": []
-          },
-          {
-            "label": "Ali",
-            "children": []
-          },
-          {
-            "label": "Zardari",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Asif Ali Zardari"
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Shehbaz",
-            "children": []
-          },
-          {
-            "label": "Sharif",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Shehbaz Sharif"
         ]
       },
       {
@@ -852,106 +580,6 @@
         ],
         "raw_values": [
           "0.544 low ( 168th )"
-        ]
-      },
-      {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Pakistani",
-            "children": []
-          },
-          {
-            "label": "rupee",
-            "children": []
-          },
-          {
-            "label": "Rs",
-            "children": []
-          },
-          {
-            "label": "PKR",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "Pakistani rupee (Rs) ( PKR )"
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC",
-            "children": []
-          },
-          {
-            "label": "5",
-            "children": []
-          },
-          {
-            "label": "PKT",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "UTC +5 ( PKT )"
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "dd",
-            "children": []
-          },
-          {
-            "label": "mm",
-            "children": []
-          },
-          {
-            "label": "yyyy",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "dd - mm - yyyy"
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "92",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "+92"
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "PK",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          "PK"
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": "pk",
-            "children": []
-          }
-        ],
-        "raw_values": [
-          ".pk پاکستان."
         ]
       }
     ]

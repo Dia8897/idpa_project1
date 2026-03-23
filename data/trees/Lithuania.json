@@ -4,19 +4,10 @@
     "label": "country",
     "children": [
       {
-        "label": "anthem",
-        "children": [
-          {
-            "label": "Tautiška giesmė \"National Song\"",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "capital_and_largest_city",
         "children": [
           {
-            "label": "Vilnius 54°41′N 25°19′E / 54.683°N 25.317°E / 54.683; 25.317",
+            "label": "Vilnius",
             "children": []
           }
         ]
@@ -49,37 +40,10 @@
         ]
       },
       {
-        "label": "demonyms",
-        "children": [
-          {
-            "label": "Lithuanian",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "government",
         "children": [
           {
             "label": "Unitary semi-presidential republic",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "president",
-        "children": [
-          {
-            "label": "Gitanas Nausėda",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "prime_minister",
-        "children": [
-          {
-            "label": "Inga Ruginienė",
             "children": []
           }
         ]
@@ -152,33 +116,6 @@
         "children": [
           {
             "label": "24 October 1795",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_reinstated",
-        "children": [
-          {
-            "label": "16 February 1918",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "soviet_occupation",
-        "children": [
-          {
-            "label": "16 June 1940",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "independence_restored",
-        "children": [
-          {
-            "label": "11 March 1990",
             "children": []
           }
         ]
@@ -277,64 +214,10 @@
         ]
       },
       {
-        "label": "currency",
-        "children": [
-          {
-            "label": "Euro ( € ) ( EUR )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "time_zone",
-        "children": [
-          {
-            "label": "UTC +2 ( EET )",
-            "children": []
-          }
-        ]
-      },
-      {
         "label": "summer_dst",
         "children": [
           {
             "label": "UTC +3 ( EEST )",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "date_format",
-        "children": [
-          {
-            "label": "yyyy - mm - dd",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "calling_code",
-        "children": [
-          {
-            "label": "+370",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "iso_3166_code",
-        "children": [
-          {
-            "label": "LT",
-            "children": []
-          }
-        ]
-      },
-      {
-        "label": "internet_tld",
-        "children": [
-          {
-            "label": ".lt",
             "children": []
           }
         ]
