@@ -20,22 +20,25 @@ from typing import Dict, List, Optional
 
 def load_payload(path: Path) -> Dict:
     return json.loads(path.read_text(encoding="utf-8"))
-
+    # converts json into dict
 
 def load_tree(path: Path) -> Dict:
     return load_payload(path)["tree"]
-
+    # Loads a JSON payload, then returns only the "tree" part.
 
 def save_tree(payload: Dict, path: Path):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-
+    # Saves a tree payload back into a JSON file.
 
 def path_parts(path: str) -> List[str]:
     return [p for p in path.split("/") if p]
-
+    # Splits a path string into its components.
+    # path = "/country/religion"
+    # result is: ["country", "religion"]
 
 def find_node(root: Dict, path: str) -> Optional[Dict]:
+    # Finds and returns the node located at a given path.
     if path in ("", "/"):
         return root
     parts = path_parts(path)
@@ -50,13 +53,19 @@ def find_node(root: Dict, path: str) -> Optional[Dict]:
             return None
         cur = found
     return cur
+    # "/country/capital": skips country and returns capital
 
 
 def copy_node(node: Dict) -> Dict:
     return copy.deepcopy(node)
+    # Makes a deep copy of a node and all its descendants.
+    # When inserting or replacing parts of the tree, you don’t want to reuse the same object reference by mistake.
 
 
 def replace_node_metadata(node: Dict, target_snapshot: Dict):
+    # Replaces everything in a node except its children.
+    # This is used for non-leaf UPD operations where the structure stays in place, but metadata changes.
+    # This is used for non-leaf UPD operations where the structure stays in place, but metadata changes.
     keep_children = node.get("children", [])
     node.clear()
     for key, value in target_snapshot.items():
@@ -67,11 +76,14 @@ def replace_node_metadata(node: Dict, target_snapshot: Dict):
 
 
 def delete_child(parent: Dict, label: str, child_index: Optional[int] = None) -> bool:
+    # Deletes one child from a parent node.
     children = parent.get("children", [])
     if child_index is not None and 0 <= child_index < len(children):
+        # If child_index is provided and valid: delete it
         if children[child_index].get("label") == label:
             del children[child_index]
             return True
+    # otherwise: Search children one by one by label and delete the first match.
     for i, ch in enumerate(children):
         if ch.get("label") == label:
             del children[i]
@@ -80,15 +92,23 @@ def delete_child(parent: Dict, label: str, child_index: Optional[int] = None) ->
 
 
 def insert_child(parent: Dict, subtree: Dict, child_index: Optional[int] = None):
+    # Inserts a subtree into a parent node.
     children = parent.setdefault("children", [])
+    # get the parent's children list
+
     snapshot = copy_node(subtree)
+    # deep copy
+
     if child_index is None or child_index < 0 or child_index > len(children):
         children.append(snapshot)
+        # if no valid index is given → append at end
     else:
         children.insert(child_index, snapshot)
+        # if no valid index is given → append at end
 
 
 def update_leaf_child(parent: Dict, op: Dict) -> bool:
+    # Updates one leaf child under a parent.
     children = parent.get("children", [])
     idx = op.get("child_index")
     snapshot = copy_node(op.get("subtree") or {"label": op["new"], "children": []})
@@ -108,6 +128,7 @@ def apply_ops(tree: Dict, ops: List[Dict]) -> Dict:
     del_ops = [o for o in ops if o["kind"] == "DEL"]
     ins_ops = [o for o in ops if o["kind"] == "INS"]
     upd_ops = [o for o in ops if o["kind"] == "UPD"]
+    # split operations
 
     # Deletes
     for op in del_ops:

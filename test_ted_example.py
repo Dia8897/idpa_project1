@@ -99,14 +99,21 @@ def subtree_symbol(node):
     return f'{node["label"]}(' + ", ".join(subtree_symbol(child) for child in children) + ")"
 
 
+def parent_ref_from_path(path, root_name):
+    if path in ("", f"/{root_name}"):
+        return f"R({root_name})"
+    return f"R({path.split('/')[-1]})"
+
+
 def raw_slide_style_edit_script_from_ops(ops):
     op = ops[0]
     inserted_position = op["child_index"] + 1
     inserted_subtree = subtree_symbol(op["subtree"])
     root_update_target = subtree_symbol(expected_inserted_subtree())
+    parent_ref = parent_ref_from_path(op["path"], "a")
 
     parts = [
-        f"InsTree({inserted_subtree}, R(C), {inserted_position})",
+        f"InsTree({inserted_subtree}, {parent_ref}, {inserted_position})",
         "Upd(c, c)",
         "Upd(d, d)",
         f"Upd(b(c, d), {root_update_target})",
@@ -118,7 +125,8 @@ def final_slide_style_edit_script_from_ops(ops):
     op = ops[0]
     inserted_position = op["child_index"] + 1
     inserted_subtree = subtree_symbol(op["subtree"])
-    return f"< InsTree({inserted_subtree}, R(C), {inserted_position}) >"
+    parent_ref = parent_ref_from_path(op["path"], "a")
+    return f"< InsTree({inserted_subtree}, {parent_ref}, {inserted_position}) >"
 
 
 def format_generic_slide_style_script(ops, root_name):
@@ -126,12 +134,14 @@ def format_generic_slide_style_script(ops, root_name):
     for op in ops:
         if op["kind"] == "INS":
             position = (op["child_index"] + 1) if op["child_index"] is not None else "?"
-            parent_ref = f"R({op['path'].split('/')[-1]})" if op["path"] not in ("", "/a") else f"R({root_name})"
+            parent_ref = parent_ref_from_path(op["path"], root_name)
             parts.append(
                 f"InsTree({subtree_symbol(op['subtree'])}, {parent_ref}, {position})"
             )
         elif op["kind"] == "DEL":
-            parts.append(f"DelTree({subtree_symbol(op['subtree'])})")
+            position = (op["child_index"] + 1) if op.get("child_index") is not None else "?"
+            parent_ref = parent_ref_from_path(op["path"], root_name)
+            parts.append(f"DelTree({subtree_symbol(op['subtree'])}, {parent_ref}, {position})")
         else:
             parts.append(f"Upd({op['old']}, {op['new']})")
     return "< " + ", ".join(parts) + " >"
@@ -147,7 +157,6 @@ def run_example_test():
     ops = build_edit_script(tree_c, tree_d)
     assert len(ops) == 1, ops
     assert distance_result["distance"] == 1, distance_result
-    assert_close(distance_result["slide_similarity_formula1"], 0.5)
     assert_close(distance_result["normalized_similarity"], 1 - (1 / (4 + 7)))
 
     op = ops[0]
@@ -159,6 +168,7 @@ def run_example_test():
     print("Lecture example test passed.")
     print("Slide distance expectation:", 1)
     print("Project distance:", distance_result["distance"])
+    print("Normalized similarity:", distance_result["normalized_similarity"])
     print("Edit script (final, slide style):", final_slide_style_edit_script_from_ops(ops))
 
 
@@ -170,13 +180,15 @@ def run_second_example_test():
 
     # Uses ted_edit_script.py here.
     ops = build_edit_script(tree_s, tree_t)
-    assert distance_result["distance"] == 2, distance_result
+    # Under the project TED cost rules, this example costs 3:
+    # delete d from c(d) costs 1 because d already exists in the target tree,
+    # and inserting x(d) costs 2 because that subtree does not exist in the source tree.
+    assert distance_result["distance"] == 3, distance_result
 
     print("\nSecond lecture example")
     print("Slide distance expectation:", 2)
     print("Project distance:", distance_result["distance"])
-    print("Slide similarity formula 1:", distance_result["slide_similarity_formula1"])
-    print("Slide similarity formula 2:", distance_result["normalized_similarity"])
+    print("Normalized similarity:", distance_result["normalized_similarity"])
     print("Project edit script (slide style):", format_generic_slide_style_script(ops, "S"))
 
 

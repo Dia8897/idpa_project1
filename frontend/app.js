@@ -1027,8 +1027,7 @@ function computeTedMetrics(tree1, tree2) {
   const size2 = subtreeSize(tree2);
   const distance = ted(tree1, tree2);
   const totalNodes = size1 + size2;
-  const similarityFormula1 = 1 / (1 + distance);
-  const similarityFormula2 = totalNodes ? Math.max(0, 1 - (distance / totalNodes)) : 1;
+  const normalizedSimilarity = totalNodes ? Math.max(0, 1 - (distance / totalNodes)) : 1;
   const commonScore = (totalNodes - distance) / 2;
 
   return {
@@ -1037,8 +1036,7 @@ function computeTedMetrics(tree1, tree2) {
     totalNodes,
     distance,
     commonScore,
-    similarityFormula1,
-    similarityFormula2,
+    normalizedSimilarity,
   };
 }
 
@@ -1349,8 +1347,7 @@ function renderTransform(opsForDisplay, opsForTed = opsForDisplay, tedMetrics = 
     totalNodes: (renderTransform.sourceNodeCount || 0) + (renderTransform.targetNodeCount || 0),
     distance: opsForTed.length,
     commonScore: 0,
-    similarityFormula1: 1 / (1 + opsForTed.length),
-    similarityFormula2: ((renderTransform.sourceNodeCount || 0) + (renderTransform.targetNodeCount || 0))
+    normalizedSimilarity: ((renderTransform.sourceNodeCount || 0) + (renderTransform.targetNodeCount || 0))
       ? Math.max(0, 1 - (opsForTed.length / ((renderTransform.sourceNodeCount || 0) + (renderTransform.targetNodeCount || 0))))
       : 1,
   };
@@ -1362,13 +1359,12 @@ function renderTransform(opsForDisplay, opsForTed = opsForDisplay, tedMetrics = 
     <div class="stat"><div class="k">Inserts</div><div class="v">${insOps.length}</div></div>
     <div class="stat"><div class="k">Updates</div><div class="v">${updOps.length}</div></div>
     <div class="stat"><div class="k">TED</div><div class="v">${metrics.distance}</div></div>
-    <div class="stat"><div class="k">Sim F1</div><div class="v">${(metrics.similarityFormula1 * 100).toFixed(2)}%</div></div>
-    <div class="stat"><div class="k">Sim F2</div><div class="v">${(metrics.similarityFormula2 * 100).toFixed(2)}%</div></div>
+    <div class="stat"><div class="k">Similarity</div><div class="v">${(metrics.normalizedSimilarity * 100).toFixed(2)}%</div></div>
   `;
 
   if (els.scoreValue) {
-    els.scoreValue.textContent = `${(metrics.similarityFormula2 * 100).toFixed(2)}%`;
-    els.scoreExplain.textContent = `Formula 2 from the slides: 1 - TED / (|C| + |D|) = 1 - ${metrics.distance} / (${metrics.size1} + ${metrics.size2}). Formula 1 is ${(metrics.similarityFormula1 * 100).toFixed(2)}%.`;
+    els.scoreValue.textContent = `${(metrics.normalizedSimilarity * 100).toFixed(2)}%`;
+    els.scoreExplain.textContent = `Normalized similarity: 1 - TED / (|C| + |D|) = 1 - ${metrics.distance} / (${metrics.size1} + ${metrics.size2}).`;
   }
 
   const filter = els.opFilter?.value || "ALL";
