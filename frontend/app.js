@@ -1,6 +1,23 @@
 const DATA_ROOT = "/data";
 const DISPLAY_TREE_DIR = "trees"; // non-token trees for UI
 const TED_TREE_DIR = "trees_tokens"; // tokenized trees for similarity
+// for trees: onCompare(): loads 2 trees, builds the edit scripts and computes the TED metrics
+// renderTransform: how the frontend displays similarity, TED, deletes, inserts, and updates.
+// computeTedMetrics: where the frontend calculates TED and similarity
+// buildEditScript: whether the frontend also constructs the edit operations for visualization.
+
+
+
+// trees:
+// renderComparisionTrees(): how the source and target trees are rendered on screen.
+// The frontend loads a tree JSON file.
+// JavaScript reads the tree object.
+// It traverses the tree recursively.
+// It generates HTML/SVG content and inserts it into those containers
+
+
+// ted distance formula
+// compute ted metrics
 
 const els = {
   countrySelect: document.getElementById("countrySelect"),
